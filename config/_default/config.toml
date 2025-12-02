@@ -1,0 +1,54 @@
+# =============================================================================
+# Dr. Habib ÇİL - Hugo Configuration
+# =============================================================================
+
+baseURL = "https://drhabibcil.com/"
+title = "Doç. Dr. Habib ÇİL | Kardiyoloji Uzmanı"
+theme = "blowfish"
+[pagination]
+  pagerSize = 10
+defaultContentLanguage = "tr"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+enableInlineShortcodes = true
+
+# Performance optimizations
+enableEmoji = true
+summarylength = 70
+timeout = "180s"
+
+# Sitemap settings
+[sitemap]
+  changeFreq = "weekly"
+  priority = 0.5
+
+# Markup settings
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Related content
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "categories"
+    weight = 80
+

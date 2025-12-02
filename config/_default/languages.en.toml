@@ -1,0 +1,28 @@
+# =============================================================================
+# Dr. Habib ÇİL - English Language Configuration
+# =============================================================================
+
+disabled = false
+languageCode = "en-US"
+languageName = "English"
+weight = 2
+title = "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  description = "Assoc. Prof. Dr. Habib ÇİL - Cardiology Specialist. Expert in echocardiography, angiography, hypertension treatment, and coronary artery disease."
+  copyright = "© 2024 Assoc. Prof. Dr. Habib ÇİL. All rights reserved."
+
+  [params.author]
+    name = "Assoc. Prof. Dr. Habib ÇİL"
+    image = "img/profile.jpg"
+    headline = "Cardiology Specialist"
+    bio = "Expert academician and experienced clinical practitioner in cardiology."
+    links = [
+      { email = "mailto:info@drhabibcil.com" },
+      { whatsapp = "https://wa.me/905XXXXXXXXX" },
+    ]
+

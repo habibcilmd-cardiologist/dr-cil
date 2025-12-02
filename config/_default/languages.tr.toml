@@ -1,0 +1,28 @@
+# =============================================================================
+# Dr. Habib ÇİL - Turkish Language Configuration
+# =============================================================================
+
+disabled = false
+languageCode = "tr-TR"
+languageName = "Türkçe"
+weight = 1
+title = "Doç. Dr. Habib ÇİL | Kardiyoloji Uzmanı"
+
+[params]
+  displayName = "TR"
+  isoCode = "tr"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Doç. Dr. Habib ÇİL - Kardiyoloji Uzmanı. Ekokardiyografi, anjiyografi, hipertansiyon tedavisi ve koroner arter hastalığı konularında uzman."
+  copyright = "© 2024 Doç. Dr. Habib ÇİL. Tüm hakları saklıdır."
+
+  [params.author]
+    name = "Doç. Dr. Habib ÇİL"
+    image = "img/profile.jpg"
+    headline = "Kardiyoloji Uzmanı"
+    bio = "Kardiyoloji alanında uzman, akademisyen ve deneyimli klinik pratisyen."
+    links = [
+      { email = "mailto:info@drhabibcil.com" },
+      { whatsapp = "https://wa.me/905XXXXXXXXX" },
+    ]
+

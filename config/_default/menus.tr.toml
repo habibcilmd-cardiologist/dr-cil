@@ -1,0 +1,52 @@
+# =============================================================================
+# Dr. Habib ÇİL - Turkish Menu Configuration
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# MAIN MENU (TR)
+# -----------------------------------------------------------------------------
+
+[[main]]
+  name = "Ana Sayfa"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Hakkımda"
+  pageRef = "about"
+  weight = 20
+
+[[main]]
+  name = "Kliniğim"
+  pageRef = "klinik"
+  weight = 30
+
+[[main]]
+  name = "Yayınlar"
+  pageRef = "yayinlar"
+  weight = 40
+
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 50
+
+[[main]]
+  name = "İletişim"
+  pageRef = "iletisim"
+  weight = 60
+
+# -----------------------------------------------------------------------------
+# FOOTER MENU (TR)
+# -----------------------------------------------------------------------------
+
+[[footer]]
+  name = "KVKK"
+  pageRef = "kvkk"
+  weight = 10
+
+[[footer]]
+  name = "Gizlilik Politikası"
+  pageRef = "gizlilik"
+  weight = 20
+

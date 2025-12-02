@@ -1,0 +1,92 @@
+# =============================================================================
+# Dr. Habib ÇİL - Blowfish Theme Parameters
+# =============================================================================
+
+# Appearance
+colorScheme = "ocean"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+# Features
+enableSearch = true
+enableCodeCopy = true
+enableImageLazyLoading = true
+
+# Site info
+description = "Doç. Dr. Habib ÇİL - Kardiyoloji Uzmanı. Ekokardiyografi, anjiyografi, hipertansiyon ve koroner arter hastalığı."
+mainSections = ["posts", "blog"]
+robots = "index, follow"
+
+# Author bilgileri languages.tr.toml ve languages.en.toml dosyalarında tanımlanır
+
+# -----------------------------------------------------------------------------
+# Header Settings
+# -----------------------------------------------------------------------------
+[header]
+  layout = "fixed"
+  logo = "img/logo.png"
+  logoDark = "img/logo-dark.png"
+  showTitle = true
+
+# -----------------------------------------------------------------------------
+# Footer Settings
+# -----------------------------------------------------------------------------
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+# -----------------------------------------------------------------------------
+# Homepage Settings
+# -----------------------------------------------------------------------------
+[homepage]
+  layout = "profile"
+  showRecent = true
+  recentLimit = 5
+
+# -----------------------------------------------------------------------------
+# Article Settings
+# -----------------------------------------------------------------------------
+[article]
+  showDate = true
+  showDateUpdated = true
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showHeadingAnchors = true
+  showPagination = true
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = false
+  showComments = false
+  sharingLinks = ["facebook", "twitter", "whatsapp", "linkedin", "email"]
+
+# -----------------------------------------------------------------------------
+# List Settings
+# -----------------------------------------------------------------------------
+[list]
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = false
+  showCards = true
+  groupByYear = true
+
+# -----------------------------------------------------------------------------
+# Taxonomy Settings
+# -----------------------------------------------------------------------------
+[taxonomy]
+  showTermCount = true
+
+# -----------------------------------------------------------------------------
+# SEO & Analytics (to be configured)
+# -----------------------------------------------------------------------------
+[verification]
+  # google = "your-google-verification-code"
+
+# [analytics]
+#   [analytics.google]
+#     id = "G-XXXXXXXXXX"
+

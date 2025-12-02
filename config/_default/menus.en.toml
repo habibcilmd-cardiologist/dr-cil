@@ -1,0 +1,47 @@
+# =============================================================================
+# Dr. Habib ÇİL - English Menu Configuration
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# MAIN MENU (EN)
+# -----------------------------------------------------------------------------
+
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
+
+[[main]]
+  name = "Clinic"
+  pageRef = "clinic"
+  weight = 30
+
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 40
+
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 50
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 60
+
+# -----------------------------------------------------------------------------
+# FOOTER MENU (EN)
+# -----------------------------------------------------------------------------
+
+[[footer]]
+  name = "Privacy Policy"
+  pageRef = "privacy"
+  weight = 10
+
