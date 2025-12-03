@@ -114,17 +114,6 @@ Total duration: 15-30 minutes
 | Severe   | 70-90%        |
 | Critical | >90%          |
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in cardiac angiography procedures. I prioritize patient comfort with radial approach.
-
-**My Areas of Expertise:**
-
--   Diagnostic coronary angiography
--   Radial angiography
--   Complex coronary anatomy
--   Interventional cardiology
-
 ## Frequently Asked Questions
 
 {{< faq question="Is cardiac angiography painful?" >}}

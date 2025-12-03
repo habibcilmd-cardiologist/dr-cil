@@ -132,17 +132,6 @@ The pulmonary valve regulates blood flow from the right ventricle to the pulmona
 -   Long-lasting effect
 -   Low complication rate
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in diagnosing and treating pulmonary valve diseases. I apply modern treatment methods including balloon valvuloplasty.
-
-**My Areas of Expertise:**
-
--   Pulmonary valve evaluation
--   Pulmonary balloon valvuloplasty
--   Congenital heart diseases
--   Right heart catheterization
-
 ## Frequently Asked Questions
 
 {{< faq question="Is pulmonary stenosis dangerous?" >}}

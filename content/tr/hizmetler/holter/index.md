@@ -135,17 +135,6 @@ Holter, taşınabilir bir EKG kayıt cihazıdır. Günlük aktiviteler sırasın
 -   Atriyal fibrilasyon epizodları
 -   Supraventriküler taşikardi
 
-## Neden Doç. Dr. Habib Çil?
-
-Holter değerlendirmesinde geniş deneyime sahibim. Karmaşık aritmi tanısında Holter'i etkin kullanıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Holter yorumlama
--   Aritmi tanısı
--   Semptom-ritim korelasyonu
--   Tedavi planlaması
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Holter takılıyken duş alabilir miyim?" >}}

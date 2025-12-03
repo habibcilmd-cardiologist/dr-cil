@@ -144,17 +144,6 @@ Kardiyoversiyon, kalbin anormal ritmini (genellikle atriyal fibrilasyon veya atr
 -   Yaşam tarzı değişiklikleri
 -   Ablasyon (tekrarlayan vakalarda)
 
-## Neden Doç. Dr. Habib Çil?
-
-Kardiyoversiyon işleminde geniş deneyime sahibim. Güvenli ve etkili ritim kontrolü sağlıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Elektriksel kardiyoversiyon
--   Farmakolojik kardiyoversiyon
--   Antikoagülasyon yönetimi
--   Nüks önleme stratejileri
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Kardiyoversiyon ağrılı mı?" >}}

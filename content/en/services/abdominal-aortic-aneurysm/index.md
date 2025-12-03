@@ -115,17 +115,6 @@ Treatment decision depends on:
 -   Presence of symptoms
 -   Anatomical suitability
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in diagnosing and treating abdominal aortic aneurysm. I apply modern treatment methods including EVAR.
-
-**My Areas of Expertise:**
-
--   Aneurysm evaluation
--   EVAR procedure
--   Vascular imaging
--   Multidisciplinary approach
-
 ## Frequently Asked Questions
 
 {{< faq question="Is abdominal aortic aneurysm dangerous?" >}}

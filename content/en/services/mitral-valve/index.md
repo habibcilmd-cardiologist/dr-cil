@@ -140,17 +140,6 @@ The mitral valve regulates blood flow from the left atrium to the left ventricle
 -   If repair not possible
 -   Mechanical or bioprosthetic valve
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in diagnosing and treating mitral valve diseases. I apply modern treatment methods including balloon valvuloplasty and MitraClip.
-
-**My Areas of Expertise:**
-
--   Mitral valve evaluation
--   Mitral balloon valvuloplasty
--   MitraClip procedure
--   Valve disease follow-up
-
 ## Frequently Asked Questions
 
 {{< faq question="What are the symptoms of mitral valve disease?" >}}

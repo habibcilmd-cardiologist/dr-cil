@@ -149,7 +149,7 @@ Kalp krizi riskini artıran faktörlerin bir kısmı değiştirilebilir, bir kı
 -   Cinsiyet (Erkeklerde risk daha yüksek)
 -   Aile öyküsü (Birinci derece akrabalarda erken kalp hastalığı)
 
-## Neden Doç. Dr. Habib Çil?
+## Uzman Yaklaşımı
 
 20 yılı aşkın kardiyoloji deneyimim boyunca binlerce kalp krizi hastasına müdahale ettim. Girişimsel kardiyoloji alanındaki uzmanlığım ve güncel tedavi protokollerine hakimiyetim, hastalarıma en iyi sonuçları sunmamı sağlıyor.
 

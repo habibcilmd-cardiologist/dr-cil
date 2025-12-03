@@ -134,17 +134,6 @@ Total duration: 1-2 hours
 -   Embolism
 -   Vascular complications
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in balloon valvuloplasty procedures. I achieve successful results with appropriate patient selection and safe procedures.
-
-**My Areas of Expertise:**
-
--   Mitral balloon valvuloplasty
--   Pulmonary balloon valvuloplasty
--   Transseptal puncture
--   Valve disease evaluation
-
 ## Frequently Asked Questions
 
 {{< faq question="Is balloon valvuloplasty painful?" >}}

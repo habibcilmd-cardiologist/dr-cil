@@ -116,17 +116,6 @@ Toplam süre: 30-90 dakika
 -   Geç stent trombozu
 -   Neoateroskleroz
 
-## Neden Doç. Dr. Habib Çil?
-
-Kardiyak stent implantasyonunda geniş deneyime sahibim. Kompleks lezyonlarda da başarılı sonuçlar elde ediyorum.
-
-**Uzmanlık Alanlarım:**
-
--   İlaç kaplı stent implantasyonu
--   Kompleks koroner girişimler
--   Bifurkasyon stentleme
--   Sol ana koroner stent
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Stent kalıcı mı?" >}}

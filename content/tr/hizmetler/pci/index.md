@@ -123,17 +123,6 @@ Toplam süre: 30-120 dakika
 -   Sağlıklı beslenme
 -   Kilo kontrolü
 
-## Neden Doç. Dr. Habib Çil?
-
-PCI işleminde geniş deneyime sahibim. Kompleks lezyonlarda da başarılı sonuçlar elde ediyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Primer PCI
--   Kompleks PCI
--   CTO girişimleri
--   Sol ana koroner PCI
-
 ## Sık Sorulan Sorular
 
 {{< faq question="PCI ameliyat mı?" >}}

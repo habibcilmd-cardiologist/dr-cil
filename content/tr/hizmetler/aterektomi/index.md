@@ -116,17 +116,6 @@ Toplam süre: 1-3 saat
 -   Yavaş akım
 -   Spazm
 
-## Neden Doç. Dr. Habib Çil?
-
-Aterektomi işleminde geniş deneyime sahibim. Kalsifiye lezyonlarda optimal sonuçlar için modern teknikleri uyguluyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Rotasyonel aterektomi
--   Kalsifiye lezyon tedavisi
--   Kompleks koroner girişimler
--   Periferik aterektomi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Aterektomi ne zaman gerekir?" >}}

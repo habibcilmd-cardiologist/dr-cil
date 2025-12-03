@@ -211,18 +211,6 @@ Koroner arter hastalığı kronik bir durumdur ve ömür boyu takip gerektirir:
 -   Periyodik görüntüleme testleri
 -   Kardiyak rehabilitasyon programı
 
-## Neden Doç. Dr. Habib Çil?
-
-Girişimsel kardiyoloji alanında 20 yılı aşkın deneyimim ile binlerce koroner anjiyografi ve stent işlemi gerçekleştirdim. Kompleks lezyonlar, kronik total oklüzyonlar ve yüksek riskli hastalar dahil geniş bir yelpazede uzmanlık sunuyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Kompleks koroner girişimler
--   Kronik total oklüzyon (CTO) açma
--   Sol ana koroner stentleme
--   Bifurkasyon lezyonları
--   Akut miyokard enfarktüsünde primer PKG
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Koroner arter hastalığı tamamen iyileşir mi?" >}}

@@ -133,17 +133,6 @@ Venous insufficiency is the inability of vein valves to prevent backward flow of
 -   Phlebectomy
 -   Perforator ligation
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in diagnosing and treating venous insufficiency. I provide effective treatment with modern endovenous techniques.
-
-**My Areas of Expertise:**
-
--   Venous Doppler evaluation
--   Endovenous treatment
--   Varicose vein treatment
--   Venous ulcer management
-
 ## Frequently Asked Questions
 
 {{< faq question="Why do varicose veins form?" >}}

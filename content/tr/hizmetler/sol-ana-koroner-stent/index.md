@@ -187,17 +187,6 @@ Sol ana stentleme sonrası:
 -   Risk faktörü kontrolü
 -   Düzenli anjiyografik takip
 
-## Neden Doç. Dr. Habib Çil?
-
-Sol ana koroner stentleme, en yüksek uzmanlık gerektiren girişimsel işlemlerden biridir. Bu alanda kapsamlı deneyime sahibim.
-
-**Uzmanlık Alanlarım:**
-
--   IVUS/OCT rehberliğinde stentleme
--   Kompleks bifurkasyon teknikleri
--   Yüksek riskli hasta yönetimi
--   Düşük komplikasyon oranı
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Sol ana koroner hastalığı tehlikeli mi?" >}}

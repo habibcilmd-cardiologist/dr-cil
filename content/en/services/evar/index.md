@@ -119,17 +119,6 @@ Total duration: 1-3 hours
 | IV   | Graft porosity             | Surveillance         |
 | V    | Endotension                | Evaluation           |
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in EVAR procedures. I achieve successful results with appropriate patient selection and safe procedures.
-
-**My Areas of Expertise:**
-
--   EVAR implantation
--   Aneurysm evaluation
--   Endoleak management
--   Vascular interventions
-
 ## Frequently Asked Questions
 
 {{< faq question="Is EVAR surgery?" >}}

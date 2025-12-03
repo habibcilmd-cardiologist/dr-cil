@@ -179,18 +179,6 @@ Kontrol altına alınmayan hipertansiyon, zamanla birçok organda hasar oluştur
 -   **Gözler**: Hipertansif retinopati, görme kaybı
 -   **Periferik arterler**: Periferik arter hastalığı, anevrizma
 
-## Neden Doç. Dr. Habib Çil?
-
-20 yılı aşkın kardiyoloji pratiğimde, binlerce hipertansiyon hastasını başarıyla tedavi ettim. Her hastayı bireysel olarak değerlendirerek kişiye özel tedavi planları oluşturuyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Dirençli hipertansiyon yönetimi
--   Sekonder hipertansiyon tanısı
--   Hipertansif organ hasarı değerlendirmesi
--   Kardiyovasküler risk değerlendirmesi
--   Yaşam tarzı danışmanlığı
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Hipertansiyon ilaçlarını ömür boyu kullanmak zorunda mıyım?" >}}

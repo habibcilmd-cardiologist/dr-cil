@@ -130,17 +130,6 @@ Treatment decision depends on:
 -   Accompanying left heart surgery
 -   Pulmonary pressure
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in diagnosing and treating tricuspid valve diseases. I apply modern treatment methods.
-
-**My Areas of Expertise:**
-
--   Tricuspid valve evaluation
--   Right heart catheterization
--   Valve disease follow-up
--   Multidisciplinary approach
-
 ## Frequently Asked Questions
 
 {{< faq question="Is tricuspid regurgitation dangerous?" >}}

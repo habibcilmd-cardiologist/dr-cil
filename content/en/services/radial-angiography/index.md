@@ -114,17 +114,6 @@ Complications are rare:
 -   Hematoma
 -   Nerve damage (very rare)
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in radial angiography procedures. I perform safe procedures while prioritizing patient comfort.
-
-**My Areas of Expertise:**
-
--   Radial coronary angiography
--   Radial coronary interventions
--   Complex radial procedures
--   Distal radial access
-
 ## Frequently Asked Questions
 
 {{< faq question="Is radial angiography painful?" >}}

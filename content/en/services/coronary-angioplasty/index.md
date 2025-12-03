@@ -192,18 +192,6 @@ With modern drug-eluting stents:
 -   **Stent thrombosis**: <1%
 -   **5-year patency rate**: >90%
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in interventional cardiology. I successfully perform all types of coronary interventions including complex lesions.
-
-**My Areas of Expertise:**
-
--   Primary PCI (heart attack treatment)
--   Complex bifurcation lesions
--   Calcified lesion treatment
--   Left main coronary stenting
--   Radial approach
-
 ## Frequently Asked Questions
 
 {{< faq question="Is angioplasty a painful procedure?" >}}

@@ -147,17 +147,6 @@ Procedure risks:
 -   Antiarrhythmic drugs (temporarily)
 -   Regular check-ups
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in arrhythmia ablation. I use the most current mapping systems and ablation technologies.
-
-**My Areas of Expertise:**
-
--   SVT ablation
--   Atrial fibrillation ablation
--   Ventricular arrhythmia ablation
--   Complex arrhythmia management
-
 ## Frequently Asked Questions
 
 {{< faq question="Does ablation provide permanent treatment?" >}}

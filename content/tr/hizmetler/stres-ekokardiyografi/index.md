@@ -132,17 +132,6 @@ Riskler düşüktür:
 | Miyokard Sintigrafisi | Kantitatif                           | Radyasyon        |
 | Efor Testi            | Basit, ucuz                          | Düşük doğruluk   |
 
-## Neden Doç. Dr. Habib Çil?
-
-Stres ekokardiyografi değerlendirmesinde geniş deneyime sahibim. Karmaşık vakalarda doğru tanı koyarak uygun tedavi planı oluşturuyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Egzersiz stres ekokardiyografi
--   Dobutamin stres ekokardiyografi
--   Kapak hastalıkları değerlendirmesi
--   İskemi tanısı
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Stres ekokardiyografi ağrılı mı?" >}}

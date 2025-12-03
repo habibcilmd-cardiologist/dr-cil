@@ -123,17 +123,6 @@ Total duration: 20-45 minutes
 -   Bedside applicable
 -   Real-time imaging
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in echocardiography evaluation. I perform comprehensive and detailed evaluation.
-
-**My Areas of Expertise:**
-
--   Transthoracic echocardiography
--   Stress echocardiography
--   Valve disease evaluation
--   Heart failure evaluation
-
 ## Frequently Asked Questions
 
 {{< faq question="Is echocardiography painful?" >}}

@@ -172,17 +172,6 @@ You can lead a normal life with a pacemaker:
 -   Consult your doctor before certain medical procedures
 -   Attend regular check-ups
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in pacemaker implantation. I provide safe and effective treatment using the most current technologies.
-
-**My Areas of Expertise:**
-
--   Implantation of all pacemaker types
--   Management of complex cases
--   Battery replacement and revision
--   Long-term follow-up
-
 ## Frequently Asked Questions
 
 {{< faq question="Is pacemaker implantation painful?" >}}

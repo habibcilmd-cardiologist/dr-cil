@@ -116,17 +116,6 @@ Total duration: 30-60 minutes
 -   Contrast reaction
 -   Vascular injury
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in cardiac catheterization procedures. I safely perform both diagnostic and interventional procedures.
-
-**My Areas of Expertise:**
-
--   Left heart catheterization
--   Right heart catheterization
--   Hemodynamic evaluation
--   Interventional cardiology
-
 ## Frequently Asked Questions
 
 {{< faq question="Is cardiac catheterization painful?" >}}

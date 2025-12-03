@@ -136,17 +136,6 @@ ICD ile normal bir yaşam sürdürebilirsiniz:
 -   Uygunsuz şoklar
 -   Cihaz arızası (nadir)
 
-## Neden Doç. Dr. Habib Çil?
-
-ICD implantasyonunda geniş deneyime sahibim. Ani kardiyak ölüm riskini azaltmak için en güncel cihazları ve teknikleri kullanıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Transvenöz ve subkutan ICD implantasyonu
--   CRT-D implantasyonu
--   Kompleks vakaların yönetimi
--   Uzun dönem takip ve programlama
-
 ## Sık Sorulan Sorular
 
 {{< faq question="ICD şoku ağrılı mı?" >}}

@@ -177,7 +177,7 @@ Clinical studies have proven the effectiveness of TAVI:
 -   **Symptom improvement**: In more than 90% of patients
 -   **Quality of life**: Significant improvement
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
+## Expert Approach
 
 Experience is critical in complex interventional procedures like TAVI. As an expert who has performed hundreds of TAVI procedures, I offer my patients the most current technologies and techniques.
 

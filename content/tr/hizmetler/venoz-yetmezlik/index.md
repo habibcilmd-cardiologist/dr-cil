@@ -133,17 +133,6 @@ Venöz yetmezlik, toplardamar kapaklarının kanın geriye akışını engelleye
 -   Flebektomi
 -   Perforatör ligasyonu
 
-## Neden Doç. Dr. Habib Çil?
-
-Venöz yetmezlik tanı ve tedavisinde geniş deneyime sahibim. Modern endovenöz tekniklerle etkili tedavi sağlıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Venöz Doppler değerlendirmesi
--   Endovenöz tedavi
--   Varis tedavisi
--   Venöz ülser yönetimi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Varis neden oluşur?" >}}

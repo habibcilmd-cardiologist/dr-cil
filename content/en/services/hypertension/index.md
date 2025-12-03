@@ -179,18 +179,6 @@ Uncontrolled hypertension causes damage to multiple organs over time:
 -   **Eyes**: Hypertensive retinopathy, vision loss
 -   **Peripheral arteries**: Peripheral artery disease, aneurysm
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-Throughout my 20+ years of cardiology practice, I have successfully treated thousands of hypertension patients. I evaluate each patient individually and create personalized treatment plans.
-
-**My Areas of Expertise:**
-
--   Resistant hypertension management
--   Secondary hypertension diagnosis
--   Hypertensive organ damage assessment
--   Cardiovascular risk evaluation
--   Lifestyle counseling
-
 ## Frequently Asked Questions
 
 {{< faq question="Do I have to take hypertension medications for life?" >}}

@@ -119,17 +119,6 @@ Modern pratikte PTKA genellikle stent implantasyonu ile birlikte uygulanır. Tek
 -   Stent yerleştirmenin teknik olarak zor olduğu durumlar
 -   Geçici köprü tedavisi
 
-## Neden Doç. Dr. Habib Çil?
-
-PTKA ve koroner girişimlerde geniş deneyime sahibim. Her hasta için en uygun tedavi stratejisini belirliyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Balon anjiyoplasti
--   Kompleks koroner girişimler
--   Stent implantasyonu
--   Girişimsel kardiyoloji
-
 ## Sık Sorulan Sorular
 
 {{< faq question="PTKA ile stent arasındaki fark nedir?" >}}

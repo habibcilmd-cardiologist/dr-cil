@@ -116,17 +116,6 @@ Total duration: 1-3 hours
 -   Slow flow
 -   Spasm
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in atherectomy procedures. I apply modern techniques for optimal results in calcified lesions.
-
-**My Areas of Expertise:**
-
--   Rotational atherectomy
--   Calcified lesion treatment
--   Complex coronary interventions
--   Peripheral atherectomy
-
 ## Frequently Asked Questions
 
 {{< faq question="When is atherectomy needed?" >}}

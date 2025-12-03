@@ -115,17 +115,6 @@ Total duration: 4-8 hours
 -   Return to normal life
 -   Work and social activities
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in pre-transplant evaluation and post-transplant follow-up. I work with a multidisciplinary team.
-
-**My Areas of Expertise:**
-
--   Pre-transplant evaluation
--   Post-transplant follow-up
--   Advanced heart failure
--   Mechanical support devices
-
 ## Frequently Asked Questions
 
 {{< faq question="How long will I live after heart transplant?" >}}

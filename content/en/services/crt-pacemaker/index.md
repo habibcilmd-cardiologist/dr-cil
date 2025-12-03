@@ -134,17 +134,6 @@ Optimization may be needed for CRT to provide maximum benefit:
 -   VV delay adjustment
 -   Echocardiography-guided programming
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in CRT implantation. I achieve high success rates even in complex coronary sinus anatomies.
-
-**My Areas of Expertise:**
-
--   CRT-P and CRT-D implantation
--   Difficult coronary sinus anatomy management
--   CRT optimization
--   Long-term follow-up
-
 ## Frequently Asked Questions
 
 {{< faq question="Does CRT cure heart failure?" >}}

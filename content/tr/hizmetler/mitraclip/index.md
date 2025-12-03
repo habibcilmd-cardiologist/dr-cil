@@ -129,17 +129,6 @@ Komplikasyonlar nadirdir:
 -   Düzenli ekokardiyografi
 -   Kalp yetmezliği tedavisi optimizasyonu
 
-## Neden Doç. Dr. Habib Çil?
-
-MitraClip işleminde geniş deneyime sahibim. Uygun hasta seçimi ve güvenli işlem ile başarılı sonuçlar elde ediyorum.
-
-**Uzmanlık Alanlarım:**
-
--   MitraClip implantasyonu
--   Mitral kapak değerlendirmesi
--   Kalp yetmezliği yönetimi
--   Yapısal kalp hastalıkları
-
 ## Sık Sorulan Sorular
 
 {{< faq question="MitraClip ameliyat mı?" >}}

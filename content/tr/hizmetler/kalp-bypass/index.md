@@ -115,17 +115,6 @@ Toplam süre: 3-6 saat
 | Uzun dönem     | Daha iyi | Değişken |
 | Tekrar girişim | Düşük    | Yüksek   |
 
-## Neden Doç. Dr. Habib Çil?
-
-Bypass cerrahisi öncesi ve sonrası değerlendirmede geniş deneyime sahibim. Kalp takımı yaklaşımı ile en uygun tedavi kararını veriyoruz.
-
-**Uzmanlık Alanlarım:**
-
--   Preoperatif değerlendirme
--   Postoperatif takip
--   Kardiyak rehabilitasyon
--   Girişimsel kardiyoloji
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Bypass ameliyatı riskli mi?" >}}

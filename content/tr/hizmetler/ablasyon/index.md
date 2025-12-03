@@ -147,17 +147,6 @@ Kateter ablasyon, ince kateterler aracılığıyla kalbe ulaşarak aritmiye nede
 -   Antiaritmik ilaçlar (geçici olarak)
 -   Düzenli kontroller
 
-## Neden Doç. Dr. Habib Çil?
-
-Aritmi ablasyonunda geniş deneyime sahibim. En güncel haritalama sistemleri ve ablasyon teknolojilerini kullanıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   SVT ablasyonu
--   Atriyal fibrilasyon ablasyonu
--   Ventriküler aritmi ablasyonu
--   Kompleks aritmi yönetimi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Ablasyon kalıcı tedavi sağlar mı?" >}}

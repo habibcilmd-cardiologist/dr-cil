@@ -115,17 +115,6 @@ Total duration: 3-6 hours
 | Long-term           | Better | Variable |
 | Repeat intervention | Low    | High     |
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in pre and post bypass surgery evaluation. We make the most appropriate treatment decision with heart team approach.
-
-**My Areas of Expertise:**
-
--   Preoperative evaluation
--   Postoperative follow-up
--   Cardiac rehabilitation
--   Interventional cardiology
-
 ## Frequently Asked Questions
 
 {{< faq question="Is bypass surgery risky?" >}}

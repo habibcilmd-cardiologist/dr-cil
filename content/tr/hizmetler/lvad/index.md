@@ -125,17 +125,6 @@ Toplam süre: 4-6 saat
 -   2 yıllık sağkalım: %70-75
 -   Yaşam kalitesi iyileşmesi
 
-## Neden Doç. Dr. Habib Çil?
-
-LVAD hastalarının takibinde geniş deneyime sahibim. Multidisipliner ekip ile çalışıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   LVAD hasta takibi
--   İleri kalp yetmezliği
--   Mekanik destek cihazları
--   Kalp nakli değerlendirmesi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="LVAD ile normal yaşam mümkün mü?" >}}

@@ -129,17 +129,6 @@ Total duration: 30-60 minutes
 -   Pericardiectomy
 -   Sclerotherapy
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in pericardiocentesis procedures. I perform safe procedures with echocardiography guidance.
-
-**My Areas of Expertise:**
-
--   Echocardiography-guided pericardiocentesis
--   Pericardial diseases
--   Cardiac tamponade management
--   Interventional cardiology
-
 ## Frequently Asked Questions
 
 {{< faq question="Is pericardiocentesis painful?" >}}

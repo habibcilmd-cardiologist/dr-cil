@@ -115,17 +115,6 @@ Tedavi kararı şunlara bağlıdır:
 -   Semptom varlığı
 -   Anatomik uygunluk
 
-## Neden Doç. Dr. Habib Çil?
-
-Abdominal aort anevrizması tanı ve tedavisinde geniş deneyime sahibim. EVAR dahil modern tedavi yöntemlerini uyguluyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Anevrizma değerlendirmesi
--   EVAR işlemi
--   Vasküler görüntüleme
--   Multidisipliner yaklaşım
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Abdominal aort anevrizması tehlikeli mi?" >}}

@@ -177,7 +177,7 @@ Klinik çalışmalar TAVI'nin etkinliğini kanıtlamıştır:
 -   **Semptom iyileşmesi**: Hastaların %90'ından fazlasında
 -   **Yaşam kalitesi**: Belirgin artış
 
-## Neden Doç. Dr. Habib Çil?
+## Uzman Yaklaşımı
 
 TAVI gibi kompleks girişimsel işlemlerde deneyim kritik öneme sahiptir. Yüzlerce TAVI işlemi gerçekleştirmiş bir uzman olarak, hastalarıma en güncel teknolojileri ve teknikleri sunuyorum.
 

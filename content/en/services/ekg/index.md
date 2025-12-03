@@ -142,17 +142,6 @@ ECG recording takes approximately 5-10 minutes.
 -   Recording at time of symptoms
 -   Long-term follow-up
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in ECG interpretation. I create appropriate treatment plans by correctly evaluating complex ECG findings.
-
-**My Areas of Expertise:**
-
--   Complex ECG interpretation
--   Arrhythmia diagnosis
--   Ischemia evaluation
--   Emergency ECG interpretation
-
 ## Frequently Asked Questions
 
 {{< faq question="Is an ECG painful?" >}}

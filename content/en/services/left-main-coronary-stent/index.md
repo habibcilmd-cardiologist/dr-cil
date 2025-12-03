@@ -187,17 +187,6 @@ After left main stenting:
 -   Risk factor control
 -   Regular angiographic follow-up
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-Left main coronary stenting is one of the interventional procedures requiring the highest expertise. I have comprehensive experience in this field.
-
-**My Areas of Expertise:**
-
--   IVUS/OCT-guided stenting
--   Complex bifurcation techniques
--   High-risk patient management
--   Low complication rate
-
 ## Frequently Asked Questions
 
 {{< faq question="Is left main coronary disease dangerous?" >}}

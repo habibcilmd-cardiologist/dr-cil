@@ -130,17 +130,6 @@ Tedavi kararı şunlara bağlıdır:
 -   Eşlik eden sol kalp cerrahisi
 -   Pulmoner basınç
 
-## Neden Doç. Dr. Habib Çil?
-
-Triküspit kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahibim. Modern tedavi yöntemlerini uyguluyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Triküspit kapak değerlendirmesi
--   Sağ kalp kateterizasyonu
--   Kapak hastalığı takibi
--   Multidisipliner yaklaşım
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Triküspit yetersizliği tehlikeli mi?" >}}

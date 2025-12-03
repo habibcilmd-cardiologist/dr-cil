@@ -122,17 +122,6 @@ Riskler düşüktür:
 | Stres Eko  | Radyasyon yok         | Operatör bağımlı      |
 | Koroner BT | Anatomik görüntüleme  | Fonksiyonel bilgi yok |
 
-## Neden Doç. Dr. Habib Çil?
-
-MPS sonuçlarının yorumlanmasında geniş deneyime sahibim. Sonuçları klinik bulgularla birlikte değerlendirerek doğru tedavi kararı veriyorum.
-
-**Uzmanlık Alanlarım:**
-
--   MPS yorumlama
--   İskemi değerlendirmesi
--   Viabilite tespiti
--   Tedavi planlaması
-
 ## Sık Sorulan Sorular
 
 {{< faq question="MPS radyasyon içerir mi?" >}}

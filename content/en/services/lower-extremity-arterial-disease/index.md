@@ -129,17 +129,6 @@ Lower extremity arterial disease is narrowing of leg arteries due to atheroscler
 -   Endarterectomy
 -   Hybrid procedures
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in diagnosing and treating lower extremity arterial disease. I increase limb salvage rates with modern endovascular techniques.
-
-**My Areas of Expertise:**
-
--   Peripheral angioplasty
--   Iliac stenting
--   Critical limb ischemia treatment
--   Complex peripheral interventions
-
 ## Frequently Asked Questions
 
 {{< faq question="Why does leg pain occur while walking?" >}}

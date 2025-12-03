@@ -129,17 +129,6 @@ Tedavi kararı şunlara bağlıdır:
 -   Cerrahi risk skoru
 -   Hasta tercihi
 
-## Neden Doç. Dr. Habib Çil?
-
-Aort kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahibim. TAVI dahil modern tedavi yöntemlerini uyguluyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Aort kapak değerlendirmesi
--   TAVI işlemi
--   Kapak hastalığı takibi
--   Multidisipliner yaklaşım
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Aort darlığı tehlikeli mi?" >}}

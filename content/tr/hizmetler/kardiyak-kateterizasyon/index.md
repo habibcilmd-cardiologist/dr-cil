@@ -116,17 +116,6 @@ Toplam süre: 30-60 dakika
 -   Kontrast reaksiyonu
 -   Damar hasarı
 
-## Neden Doç. Dr. Habib Çil?
-
-Kardiyak kateterizasyon işleminde geniş deneyime sahibim. Hem tanısal hem de girişimsel işlemleri güvenle uyguluyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Sol kalp kateterizasyonu
--   Sağ kalp kateterizasyonu
--   Hemodinamik değerlendirme
--   Girişimsel kardiyoloji
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Kardiyak kateterizasyon ağrılı mı?" >}}

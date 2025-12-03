@@ -135,17 +135,6 @@ A Holter is a portable ECG recording device. It continuously records heart rhyth
 -   Atrial fibrillation episodes
 -   Supraventricular tachycardia
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in Holter evaluation. I effectively use Holter in diagnosing complex arrhythmias.
-
-**My Areas of Expertise:**
-
--   Holter interpretation
--   Arrhythmia diagnosis
--   Symptom-rhythm correlation
--   Treatment planning
-
 ## Frequently Asked Questions
 
 {{< faq question="Can I shower while wearing a Holter?" >}}

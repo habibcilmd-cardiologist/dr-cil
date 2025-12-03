@@ -119,17 +119,6 @@ Toplam süre: 1-3 saat
 | IV  | Greft porozitesi          | Takip            |
 | V   | Endotansiyon              | Değerlendirme    |
 
-## Neden Doç. Dr. Habib Çil?
-
-EVAR işleminde geniş deneyime sahibim. Uygun hasta seçimi ve güvenli işlem ile başarılı sonuçlar elde ediyorum.
-
-**Uzmanlık Alanlarım:**
-
--   EVAR implantasyonu
--   Anevrizma değerlendirmesi
--   Endoleak yönetimi
--   Vasküler girişimler
-
 ## Sık Sorulan Sorular
 
 {{< faq question="EVAR ameliyat mı?" >}}

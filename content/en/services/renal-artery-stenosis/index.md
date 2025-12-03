@@ -122,17 +122,6 @@ Renal artery stenosis is more than 50% narrowing of the kidney artery. This cond
 -   Blood pressure reduction
 -   Kidney function preservation
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in diagnosing and treating renal artery stenosis. I achieve successful results with appropriate patient selection.
-
-**My Areas of Expertise:**
-
--   Renal artery stenting
--   Renovascular hypertension
--   Peripheral vascular interventions
--   Doppler evaluation
-
 ## Frequently Asked Questions
 
 {{< faq question="Is renal artery stenosis dangerous?" >}}

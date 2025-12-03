@@ -134,17 +134,6 @@ Biventriküler pacemaker implantasyonu genellikle 2-4 saat sürer.
 -   Pnömotoraks
 -   Elektrot dislokasyonu
 
-## Neden Doç. Dr. Habib Çil?
-
-Biventriküler pacemaker implantasyonunda geniş deneyime sahibim. Zor koroner sinüs anatomilerinde bile yüksek başarı oranı elde ediyorum.
-
-**Uzmanlık Alanlarım:**
-
--   CRT-P ve CRT-D implantasyonu
--   Kompleks koroner sinüs anatomisi yönetimi
--   CRT optimizasyonu
--   Uzun dönem takip
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Biventriküler pacemaker kalp yetmezliğini iyileştirir mi?" >}}

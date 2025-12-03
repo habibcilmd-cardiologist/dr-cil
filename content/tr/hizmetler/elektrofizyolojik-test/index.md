@@ -141,17 +141,6 @@ EPS, kalbe yerleştirilen özel kateterler aracılığıyla kalbin elektriksel a
 -   24-48 saat ağır aktiviteden kaçınma
 -   Sonuçların değerlendirilmesi için kontrol randevusu
 
-## Neden Doç. Dr. Habib Çil?
-
-Elektrofizyolojik çalışmalarda geniş deneyime sahibim. Kompleks aritmi tanısı ve tedavi planlamasında uzmanım.
-
-**Uzmanlık Alanlarım:**
-
--   Tanısal elektrofizyoloji
--   Senkop değerlendirmesi
--   Ani ölüm risk değerlendirmesi
--   Ablasyon planlaması
-
 ## Sık Sorulan Sorular
 
 {{< faq question="EPS ağrılı mı?" >}}

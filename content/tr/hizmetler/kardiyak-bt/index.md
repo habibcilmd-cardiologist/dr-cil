@@ -114,17 +114,6 @@ Toplam süre: 15-30 dakika
 -   Yüksek kalp hızında görüntü kalitesi düşer
 -   Ciddi kalsifikasyonda değerlendirme zorluğu
 
-## Neden Doç. Dr. Habib Çil?
-
-Kardiyak BT sonuçlarının yorumlanmasında geniş deneyime sahibim. Sonuçları klinik bulgularla birlikte değerlendirerek doğru tedavi kararı veriyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Koroner BT anjiyografi yorumlama
--   Kalsiyum skoru değerlendirmesi
--   Risk sınıflandırması
--   Tedavi planlaması
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Kardiyak BT ağrılı mı?" >}}

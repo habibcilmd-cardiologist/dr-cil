@@ -173,17 +173,6 @@ Karotis stentleme sonrası:
 -   Risk faktörü kontrolü
 -   Düzenli Doppler takibi
 
-## Neden Doç. Dr. Habib Çil?
-
-Karotis stentleme, yüksek uzmanlık gerektiren bir işlemdir. Bu alanda geniş deneyime sahibim ve en güncel teknikleri uyguluyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Emboli koruma cihazları ile güvenli stentleme
--   Kompleks anatomi yönetimi
--   Düşük komplikasyon oranı
--   Kapsamlı hasta değerlendirmesi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Karotis stenozu her zaman tedavi gerektirir mi?" >}}

@@ -141,17 +141,6 @@ Riskler düşüktür ancak şunlar olabilir:
 -   Kan basıncı değişiklikleri
 -   Nadiren miyokard infarktüsü
 
-## Neden Doç. Dr. Habib Çil?
-
-Efor testi değerlendirmesinde geniş deneyime sahibim. Test sonuçlarını klinik bulgularla birlikte değerlendirerek doğru tanı koyuyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Efor testi yorumlama
--   Koroner arter hastalığı tanısı
--   Risk değerlendirmesi
--   Tedavi planlaması
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Efor testi tehlikeli mi?" >}}

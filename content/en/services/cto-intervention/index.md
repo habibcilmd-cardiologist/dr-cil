@@ -182,7 +182,7 @@ After successful CTO intervention:
 -   Decrease in arrhythmias
 -   Survival advantage (in some studies)
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
+## Expert Approach
 
 CTO intervention is one of the most challenging areas of interventional cardiology. As an operator specialized in this field, I successfully treat even the most complex cases.
 

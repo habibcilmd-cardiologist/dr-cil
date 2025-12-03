@@ -129,17 +129,6 @@ Treatment decision depends on:
 -   Surgical risk score
 -   Patient preference
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in diagnosing and treating aortic valve diseases. I apply modern treatment methods including TAVI.
-
-**My Areas of Expertise:**
-
--   Aortic valve evaluation
--   TAVI procedure
--   Valve disease follow-up
--   Multidisciplinary approach
-
 ## Frequently Asked Questions
 
 {{< faq question="Is aortic stenosis dangerous?" >}}

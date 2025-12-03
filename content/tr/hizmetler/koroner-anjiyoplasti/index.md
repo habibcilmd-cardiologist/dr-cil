@@ -192,18 +192,6 @@ Modern ilaç salınımlı stentlerle:
 -   **Stent trombozu**: <%1
 -   **5 yıllık açıklık oranı**: >%90
 
-## Neden Doç. Dr. Habib Çil?
-
-Girişimsel kardiyoloji alanında geniş deneyime sahibim. Kompleks lezyonlar dahil her türlü koroner girişimi başarıyla gerçekleştiriyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Primer PKG (kalp krizi tedavisi)
--   Kompleks bifurkasyon lezyonları
--   Kalsifiye lezyon tedavisi
--   Sol ana koroner stentleme
--   Radyal yaklaşım
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Anjiyoplasti ağrılı bir işlem mi?" >}}

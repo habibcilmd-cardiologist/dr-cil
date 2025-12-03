@@ -182,7 +182,7 @@ Başarılı CTO girişimi sonrası:
 -   Aritmilerde azalma
 -   Sağkalım avantajı (bazı çalışmalarda)
 
-## Neden Doç. Dr. Habib Çil?
+## Uzman Yaklaşımı
 
 CTO girişimi, girişimsel kardiyolojinin en zorlu alanlarından biridir. Bu alanda uzmanlaşmış bir operatör olarak, en kompleks vakaları bile başarıyla tedavi ediyorum.
 

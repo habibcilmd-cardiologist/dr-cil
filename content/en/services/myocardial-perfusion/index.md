@@ -122,17 +122,6 @@ Risks are low:
 | Stress Echo | No radiation            | Operator dependent |
 | Coronary CT | Anatomical imaging      | No functional info |
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in interpreting MPS results. I make correct treatment decisions by evaluating results together with clinical findings.
-
-**My Areas of Expertise:**
-
--   MPS interpretation
--   Ischemia evaluation
--   Viability detection
--   Treatment planning
-
 ## Frequently Asked Questions
 
 {{< faq question="Does MPS contain radiation?" >}}

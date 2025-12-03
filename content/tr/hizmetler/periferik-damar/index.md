@@ -179,18 +179,6 @@ Periferik girişim sonrası:
 -   Risk faktörü kontrolü
 -   Periyodik kontroller
 
-## Neden Doç. Dr. Habib Çil?
-
-Periferik damar hastalıklarında kapsamlı deneyime sahibim. Kompleks lezyonlar dahil her türlü periferik girişimi başarıyla gerçekleştiriyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Alt ekstremite revaskülarizasyonu
--   Kritik bacak iskemisi tedavisi
--   Renal arter stentleme
--   Kronik total oklüzyon açma
--   İlaç kaplı balon uygulamaları
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Bacak damarlarındaki tıkanıklık tehlikeli mi?" >}}

@@ -140,17 +140,6 @@ Mitral kapak, sol atriyumdan sol ventriküle kan akışını düzenler. Kapak ha
 -   Tamir mümkün değilse
 -   Mekanik veya biyoprotez kapak
 
-## Neden Doç. Dr. Habib Çil?
-
-Mitral kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahibim. Balon valvüloplasti ve MitraClip dahil modern tedavi yöntemlerini uyguluyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Mitral kapak değerlendirmesi
--   Mitral balon valvüloplasti
--   MitraClip işlemi
--   Kapak hastalığı takibi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Mitral kapak hastalığı belirtileri nelerdir?" >}}

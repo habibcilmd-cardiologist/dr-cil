@@ -122,17 +122,6 @@ Ambulatuvar kardiyak izleme, hastanın günlük aktiviteleri sırasında kalp ri
 -   Uzaktan değerlendirme
 -   Haftalarca izleme
 
-## Neden Doç. Dr. Habib Çil?
-
-Ambulatuvar kardiyak izleme ve değerlendirmede geniş deneyime sahibim. Her hasta için en uygun izleme yöntemini belirliyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Holter analizi
--   Event recorder değerlendirmesi
--   Aritmi tanısı
--   Elektrofizyoloji
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Holter takılıyken duş alabilir miyim?" >}}

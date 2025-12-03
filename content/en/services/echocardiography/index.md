@@ -141,17 +141,6 @@ Echocardiography uses sound waves to create real-time moving images of the heart
 -   Low ejection fraction
 -   Pericardial fluid
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in echocardiography interpretation. I effectively use echocardiography in diagnosing complex heart diseases.
-
-**My Areas of Expertise:**
-
--   Transthoracic echocardiography
--   Stress echocardiography
--   Valve disease evaluation
--   Heart failure follow-up
-
 ## Frequently Asked Questions
 
 {{< faq question="Is echocardiography painful?" >}}

@@ -114,17 +114,6 @@ Total duration: 15-30 minutes
 -   Image quality decreases at high heart rate
 -   Evaluation difficulty in severe calcification
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in interpreting cardiac CT results. I make correct treatment decisions by evaluating results together with clinical findings.
-
-**My Areas of Expertise:**
-
--   Coronary CT angiography interpretation
--   Calcium score evaluation
--   Risk stratification
--   Treatment planning
-
 ## Frequently Asked Questions
 
 {{< faq question="Is cardiac CT painful?" >}}

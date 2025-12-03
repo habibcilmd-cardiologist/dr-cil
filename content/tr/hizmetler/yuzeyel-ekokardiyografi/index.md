@@ -123,17 +123,6 @@ Toplam süre: 20-45 dakika
 -   Yatak başı uygulanabilir
 -   Gerçek zamanlı görüntüleme
 
-## Neden Doç. Dr. Habib Çil?
-
-Ekokardiyografi değerlendirmesinde geniş deneyime sahibim. Kapsamlı ve detaylı değerlendirme yapıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Transtorasik ekokardiyografi
--   Stres ekokardiyografi
--   Kapak hastalıkları değerlendirmesi
--   Kalp yetmezliği değerlendirmesi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Ekokardiyografi ağrılı mı?" >}}

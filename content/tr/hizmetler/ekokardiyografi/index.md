@@ -141,17 +141,6 @@ Ekokardiyografi, ses dalgalarını kullanarak kalbin gerçek zamanlı hareketli 
 -   Düşük ejeksiyon fraksiyonu
 -   Perikard sıvısı
 
-## Neden Doç. Dr. Habib Çil?
-
-Ekokardiyografi yorumlamasında geniş deneyime sahibim. Karmaşık kalp hastalıklarının tanısında ekokardiyografiyi etkin kullanıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Transtorasik ekokardiyografi
--   Stres ekokardiyografi
--   Kapak hastalıkları değerlendirmesi
--   Kalp yetmezliği takibi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Ekokardiyografi ağrılı mı?" >}}

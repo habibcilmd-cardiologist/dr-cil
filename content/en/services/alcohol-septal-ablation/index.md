@@ -156,17 +156,6 @@ Both treatments have advantages:
 
 The decision is made individually based on patient anatomy, age, and preference.
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-Alcohol septal ablation is a rare procedure requiring high expertise. I have experience in this field and achieve successful results in appropriate patients.
-
-**My Areas of Expertise:**
-
--   Comprehensive HOCM evaluation
--   Appropriate patient selection
--   Safe ASA application
--   Long-term follow-up
-
 ## Frequently Asked Questions
 
 {{< faq question="Is alcohol septal ablation painful?" >}}

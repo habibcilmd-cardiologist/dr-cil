@@ -115,17 +115,6 @@ Toplam süre: 4-8 saat
 -   Normal yaşama dönüş
 -   İş ve sosyal aktivite
 
-## Neden Doç. Dr. Habib Çil?
-
-Kalp nakli öncesi değerlendirme ve sonrası takipte geniş deneyime sahibim. Multidisipliner ekip ile çalışıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Nakil öncesi değerlendirme
--   Nakil sonrası takip
--   İleri kalp yetmezliği
--   Mekanik destek cihazları
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Kalp nakli sonrası ne kadar yaşarım?" >}}

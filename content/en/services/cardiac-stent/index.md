@@ -116,17 +116,6 @@ Total duration: 30-90 minutes
 -   Late stent thrombosis
 -   Neoatherosclerosis
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in cardiac stent implantation. I achieve successful results even in complex lesions.
-
-**My Areas of Expertise:**
-
--   Drug-eluting stent implantation
--   Complex coronary interventions
--   Bifurcation stenting
--   Left main coronary stent
-
 ## Frequently Asked Questions
 
 {{< faq question="Is stent permanent?" >}}

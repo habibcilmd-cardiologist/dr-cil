@@ -179,18 +179,6 @@ After peripheral intervention:
 -   Risk factor control
 -   Periodic check-ups
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have comprehensive experience in peripheral vascular diseases. I successfully perform all types of peripheral interventions including complex lesions.
-
-**My Areas of Expertise:**
-
--   Lower extremity revascularization
--   Critical limb ischemia treatment
--   Renal artery stenting
--   Chronic total occlusion opening
--   Drug-coated balloon applications
-
 ## Frequently Asked Questions
 
 {{< faq question="Is blockage in leg arteries dangerous?" >}}

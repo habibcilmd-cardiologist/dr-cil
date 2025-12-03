@@ -122,17 +122,6 @@ Renal arter stenozu, böbrek arterinin %50'den fazla daralmasıdır. Bu durum b�
 -   Kan basıncı düşüşü
 -   Böbrek fonksiyonu korunması
 
-## Neden Doç. Dr. Habib Çil?
-
-Renal arter stenozu tanı ve tedavisinde geniş deneyime sahibim. Uygun hasta seçimi ile başarılı sonuçlar elde ediyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Renal arter stentleme
--   Renovasküler hipertansiyon
--   Periferik vasküler girişimler
--   Doppler değerlendirmesi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Renal arter stenozu tehlikeli mi?" >}}

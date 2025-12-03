@@ -148,17 +148,6 @@ Anjiyografi sonuçlarına göre:
 -   4-6 saat yatak istirahati
 -   Bacağı düz tutma
 
-## Neden Doç. Dr. Habib Çil?
-
-Koroner anjiyografi işleminde geniş deneyime sahibim. Radyal erişimi tercih ederek hasta konforunu ön planda tutuyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Tanısal koroner anjiyografi
--   Radyal erişim teknikleri
--   Kompleks vaka yönetimi
--   Aynı seansta girişimsel tedavi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Anjiyografi ağrılı mı?" >}}

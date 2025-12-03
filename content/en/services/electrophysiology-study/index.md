@@ -141,17 +141,6 @@ Procedure risks are low:
 -   Avoid heavy activity for 24-48 hours
 -   Follow-up appointment for results evaluation
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in electrophysiology studies. I specialize in complex arrhythmia diagnosis and treatment planning.
-
-**My Areas of Expertise:**
-
--   Diagnostic electrophysiology
--   Syncope evaluation
--   Sudden death risk assessment
--   Ablation planning
-
 ## Frequently Asked Questions
 
 {{< faq question="Is EPS painful?" >}}

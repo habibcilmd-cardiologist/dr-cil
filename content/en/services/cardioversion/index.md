@@ -144,17 +144,6 @@ Procedure risks:
 -   Lifestyle changes
 -   Ablation (in recurrent cases)
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in cardioversion procedures. I provide safe and effective rhythm control.
-
-**My Areas of Expertise:**
-
--   Electrical cardioversion
--   Pharmacological cardioversion
--   Anticoagulation management
--   Recurrence prevention strategies
-
 ## Frequently Asked Questions
 
 {{< faq question="Is cardioversion painful?" >}}

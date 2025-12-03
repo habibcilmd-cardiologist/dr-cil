@@ -134,17 +134,6 @@ Toplam süre: 1-2 saat
 -   Embolizm
 -   Vasküler komplikasyonlar
 
-## Neden Doç. Dr. Habib Çil?
-
-Balon valvüloplasti işleminde geniş deneyime sahibim. Uygun hasta seçimi ve güvenli işlem ile başarılı sonuçlar elde ediyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Mitral balon valvüloplasti
--   Pulmoner balon valvüloplasti
--   Transseptal ponksiyon
--   Kapak hastalığı değerlendirmesi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Balon valvüloplasti ağrılı mı?" >}}

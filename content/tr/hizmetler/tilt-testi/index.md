@@ -127,17 +127,6 @@ Riskler düşüktür:
 -   Kompresyon çorapları
 -   İlaç tedavisi (gerekirse)
 
-## Neden Doç. Dr. Habib Çil?
-
-Tilt testi değerlendirmesinde geniş deneyime sahibim. Senkop nedenini doğru belirleyerek uygun tedavi planı oluşturuyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Tilt testi yorumlama
--   Senkop değerlendirmesi
--   Vazovagal senkop tedavisi
--   Ortostatik hipotansiyon yönetimi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Tilt testi ağrılı mı?" >}}

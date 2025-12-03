@@ -125,17 +125,6 @@ Total duration: 4-6 hours
 -   2-year survival: 70-75%
 -   Quality of life improvement
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in LVAD patient follow-up. I work with a multidisciplinary team.
-
-**My Areas of Expertise:**
-
--   LVAD patient follow-up
--   Advanced heart failure
--   Mechanical support devices
--   Heart transplant evaluation
-
 ## Frequently Asked Questions
 
 {{< faq question="Is normal life possible with LVAD?" >}}

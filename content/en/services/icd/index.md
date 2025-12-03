@@ -136,17 +136,6 @@ Procedure risks:
 -   Inappropriate shocks
 -   Device malfunction (rare)
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in ICD implantation. I use the most current devices and techniques to reduce the risk of sudden cardiac death.
-
-**My Areas of Expertise:**
-
--   Transvenous and subcutaneous ICD implantation
--   CRT-D implantation
--   Management of complex cases
--   Long-term follow-up and programming
-
 ## Frequently Asked Questions
 
 {{< faq question="Is an ICD shock painful?" >}}

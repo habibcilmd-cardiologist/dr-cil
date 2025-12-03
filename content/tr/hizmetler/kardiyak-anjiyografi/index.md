@@ -114,17 +114,6 @@ Toplam süre: 15-30 dakika
 | Ciddi  | %70-90       |
 | Kritik | >%90         |
 
-## Neden Doç. Dr. Habib Çil?
-
-Kardiyak anjiyografi işleminde geniş deneyime sahibim. Radyal yaklaşım ile hasta konforunu ön planda tutuyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Tanısal koroner anjiyografi
--   Radyal anjiyografi
--   Kompleks koroner anatomi
--   Girişimsel kardiyoloji
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Kardiyak anjiyografi ağrılı mı?" >}}

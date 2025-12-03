@@ -119,17 +119,6 @@ In modern practice, PTCA is usually performed together with stent implantation. 
 -   Situations where stent placement is technically difficult
 -   Temporary bridge therapy
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in PTCA and coronary interventions. I determine the most appropriate treatment strategy for each patient.
-
-**My Areas of Expertise:**
-
--   Balloon angioplasty
--   Complex coronary interventions
--   Stent implantation
--   Interventional cardiology
-
 ## Frequently Asked Questions
 
 {{< faq question="What is the difference between PTCA and stent?" >}}

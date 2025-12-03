@@ -134,17 +134,6 @@ Procedure risks:
 -   Pneumothorax
 -   Electrode dislocation
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in biventricular pacemaker implantation. I achieve high success rates even in difficult coronary sinus anatomies.
-
-**My Areas of Expertise:**
-
--   CRT-P and CRT-D implantation
--   Complex coronary sinus anatomy management
--   CRT optimization
--   Long-term follow-up
-
 ## Frequently Asked Questions
 
 {{< faq question="Does a biventricular pacemaker cure heart failure?" >}}

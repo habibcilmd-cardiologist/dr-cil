@@ -172,17 +172,6 @@ Kalp pili ile normal bir yaşam sürdürebilirsiniz:
 -   Bazı tıbbi işlemler öncesi doktorunuza danışın
 -   Düzenli kontrollere gidin
 
-## Neden Doç. Dr. Habib Çil?
-
-Kalp pili implantasyonunda geniş deneyime sahibim. En güncel teknolojileri kullanarak güvenli ve etkili tedavi sunuyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Tüm pacemaker tiplerinin implantasyonu
--   Kompleks vakaların yönetimi
--   Pil değişimi ve revizyonu
--   Uzun dönem takip
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Kalp pili takılması ağrılı mı?" >}}

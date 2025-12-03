@@ -142,17 +142,6 @@ EKG çekimi yaklaşık 5-10 dakika sürer.
 -   Semptom anında kayıt
 -   Uzun süreli takip
 
-## Neden Doç. Dr. Habib Çil?
-
-EKG yorumlamasında geniş deneyime sahibim. Karmaşık EKG bulgularını doğru değerlendirerek uygun tedavi planı oluşturuyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Kompleks EKG yorumlama
--   Aritmi tanısı
--   İskemi değerlendirmesi
--   Acil EKG yorumlama
-
 ## Sık Sorulan Sorular
 
 {{< faq question="EKG ağrılı mı?" >}}

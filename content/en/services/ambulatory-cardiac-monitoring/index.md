@@ -122,17 +122,6 @@ Ambulatory cardiac monitoring is recording heart rhythm during patient's daily a
 -   Remote evaluation
 -   Weeks of monitoring
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in ambulatory cardiac monitoring and evaluation. I determine the most appropriate monitoring method for each patient.
-
-**My Areas of Expertise:**
-
--   Holter analysis
--   Event recorder evaluation
--   Arrhythmia diagnosis
--   Electrophysiology
-
 ## Frequently Asked Questions
 
 {{< faq question="Can I shower while wearing Holter?" >}}

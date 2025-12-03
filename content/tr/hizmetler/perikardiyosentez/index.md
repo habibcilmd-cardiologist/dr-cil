@@ -129,17 +129,6 @@ Toplam süre: 30-60 dakika
 -   Perikardiyektomi
 -   Skleroterapi
 
-## Neden Doç. Dr. Habib Çil?
-
-Perikardiyosentez işleminde geniş deneyime sahibim. Ekokardiyografi eşliğinde güvenli işlem uyguluyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Ekokardiyografi eşliğinde perikardiyosentez
--   Perikardiyal hastalıklar
--   Kardiyak tamponad yönetimi
--   Girişimsel kardiyoloji
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Perikardiyosentez ağrılı mı?" >}}

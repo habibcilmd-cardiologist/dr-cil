@@ -123,17 +123,6 @@ Total duration: 30-120 minutes
 -   Healthy diet
 -   Weight control
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in PCI procedures. I achieve successful results even in complex lesions.
-
-**My Areas of Expertise:**
-
--   Primary PCI
--   Complex PCI
--   CTO interventions
--   Left main coronary PCI
-
 ## Frequently Asked Questions
 
 {{< faq question="Is PCI surgery?" >}}

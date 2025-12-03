@@ -129,17 +129,6 @@ Complications are rare:
 -   Regular echocardiography
 -   Heart failure treatment optimization
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in MitraClip procedures. I achieve successful results with appropriate patient selection and safe procedures.
-
-**My Areas of Expertise:**
-
--   MitraClip implantation
--   Mitral valve evaluation
--   Heart failure management
--   Structural heart diseases
-
 ## Frequently Asked Questions
 
 {{< faq question="Is MitraClip surgery?" >}}

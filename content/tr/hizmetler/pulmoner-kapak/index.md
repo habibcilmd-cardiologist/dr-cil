@@ -132,17 +132,6 @@ Pulmoner kapak, sağ ventrikülden pulmoner artere kan akışını düzenler. Ka
 -   Uzun süreli etki
 -   Düşük komplikasyon oranı
 
-## Neden Doç. Dr. Habib Çil?
-
-Pulmoner kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahibim. Balon valvüloplasti dahil modern tedavi yöntemlerini uyguluyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Pulmoner kapak değerlendirmesi
--   Pulmoner balon valvüloplasti
--   Konjenital kalp hastalıkları
--   Sağ kalp kateterizasyonu
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Pulmoner darlık tehlikeli mi?" >}}

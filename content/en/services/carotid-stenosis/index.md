@@ -173,17 +173,6 @@ After carotid stenting:
 -   Risk factor control
 -   Regular Doppler follow-up
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-Carotid stenting is a procedure requiring high expertise. I have extensive experience in this field and apply the most current techniques.
-
-**My Areas of Expertise:**
-
--   Safe stenting with embolic protection devices
--   Complex anatomy management
--   Low complication rate
--   Comprehensive patient evaluation
-
 ## Frequently Asked Questions
 
 {{< faq question="Does carotid stenosis always require treatment?" >}}

@@ -132,17 +132,6 @@ Temporary pacing is usually replaced with a permanent pacemaker in these situati
 -   Pacing need longer than 48-72 hours
 -   Inability to correct underlying cause
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in emergency and elective temporary pacing procedures. I provide rapid and safe intervention.
-
-**My Areas of Expertise:**
-
--   Transvenous temporary pacing
--   Emergency rhythm management
--   Permanent pacemaker planning
--   Complication management
-
 ## Frequently Asked Questions
 
 {{< faq question="How long does a temporary pacemaker stay in?" >}}

@@ -134,17 +134,6 @@ CRT'nin maksimum fayda sağlaması için optimizasyon gerekebilir:
 -   VV gecikme ayarı
 -   Ekokardiyografi rehberliğinde programlama
 
-## Neden Doç. Dr. Habib Çil?
-
-CRT implantasyonunda geniş deneyime sahibim. Kompleks koroner sinüs anatomilerinde bile yüksek başarı oranı elde ediyorum.
-
-**Uzmanlık Alanlarım:**
-
--   CRT-P ve CRT-D implantasyonu
--   Zor koroner sinüs anatomisi yönetimi
--   CRT optimizasyonu
--   Uzun dönem takip
-
 ## Sık Sorulan Sorular
 
 {{< faq question="CRT kalp yetmezliğini iyileştirir mi?" >}}

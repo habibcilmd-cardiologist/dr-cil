@@ -127,17 +127,6 @@ Risks are low:
 -   Compression stockings
 -   Medication therapy (if needed)
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in tilt test evaluation. I create appropriate treatment plans by correctly identifying the cause of syncope.
-
-**My Areas of Expertise:**
-
--   Tilt test interpretation
--   Syncope evaluation
--   Vasovagal syncope treatment
--   Orthostatic hypotension management
-
 ## Frequently Asked Questions
 
 {{< faq question="Is tilt table test painful?" >}}

@@ -129,17 +129,6 @@ Alt ekstremite arter hastalığı, bacak arterlerinin aterosklerotik plak biriki
 -   Endarterektomi
 -   Hibrit prosedürler
 
-## Neden Doç. Dr. Habib Çil?
-
-Alt ekstremite arter hastalığı tanı ve tedavisinde geniş deneyime sahibim. Modern endovasküler tekniklerle bacak kurtarma oranlarını artırıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Periferik anjiyoplasti
--   İliak stentleme
--   Kritik bacak iskemisi tedavisi
--   Kompleks periferik girişimler
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Yürürken bacak ağrısı neden olur?" >}}

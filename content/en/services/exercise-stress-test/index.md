@@ -141,17 +141,6 @@ Risks are low but may include:
 -   Blood pressure changes
 -   Rarely myocardial infarction
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in exercise stress test evaluation. I make accurate diagnoses by evaluating test results together with clinical findings.
-
-**My Areas of Expertise:**
-
--   Exercise stress test interpretation
--   Coronary artery disease diagnosis
--   Risk assessment
--   Treatment planning
-
 ## Frequently Asked Questions
 
 {{< faq question="Is exercise stress test dangerous?" >}}

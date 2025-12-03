@@ -156,17 +156,6 @@ Her iki tedavinin de avantajları vardır:
 
 Karar, hastanın anatomisi, yaşı ve tercihine göre bireysel olarak verilir.
 
-## Neden Doç. Dr. Habib Çil?
-
-Alkol septal ablasyon, yüksek uzmanlık gerektiren nadir bir işlemdir. Bu alanda deneyime sahibim ve uygun hastalarda başarılı sonuçlar elde ediyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Kapsamlı HOKM değerlendirmesi
--   Uygun hasta seçimi
--   Güvenli ASA uygulaması
--   Uzun dönem takip
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Alkol septal ablasyon ağrılı mı?" >}}

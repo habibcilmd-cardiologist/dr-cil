@@ -114,17 +114,6 @@ Komplikasyonlar nadirdir:
 -   Hematom
 -   Sinir hasarı (çok nadir)
 
-## Neden Doç. Dr. Habib Çil?
-
-Radyal anjiyografi işleminde geniş deneyime sahibim. Hasta konforunu ön planda tutarak güvenli işlem yapıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Radyal koroner anjiyografi
--   Radyal koroner girişimler
--   Kompleks radyal işlemler
--   Distal radyal erişim
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Radyal anjiyografi ağrılı mı?" >}}

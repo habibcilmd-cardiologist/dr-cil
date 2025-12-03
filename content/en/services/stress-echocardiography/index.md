@@ -132,17 +132,6 @@ Risks are low:
 | Myocardial Scintigraphy | Quantitative                   | Radiation          |
 | Exercise Test           | Simple, inexpensive            | Lower accuracy     |
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in stress echocardiography evaluation. I create appropriate treatment plans by making accurate diagnoses in complex cases.
-
-**My Areas of Expertise:**
-
--   Exercise stress echocardiography
--   Dobutamine stress echocardiography
--   Valve disease evaluation
--   Ischemia diagnosis
-
 ## Frequently Asked Questions
 
 {{< faq question="Is stress echocardiography painful?" >}}

@@ -211,18 +211,6 @@ Coronary artery disease is a chronic condition requiring lifelong follow-up:
 -   Periodic imaging tests
 -   Cardiac rehabilitation program
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-With over 20 years of experience in interventional cardiology, I have performed thousands of coronary angiography and stent procedures. I offer expertise in a wide range including complex lesions, chronic total occlusions, and high-risk patients.
-
-**My Areas of Expertise:**
-
--   Complex coronary interventions
--   Chronic total occlusion (CTO) opening
--   Left main coronary stenting
--   Bifurcation lesions
--   Primary PCI in acute myocardial infarction
-
 ## Frequently Asked Questions
 
 {{< faq question="Can coronary artery disease be completely cured?" >}}

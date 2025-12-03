@@ -132,17 +132,6 @@ Geçici pacing genellikle şu durumlarda kalıcı pacemaker ile değiştirilir:
 -   48-72 saatten uzun pacing ihtiyacı
 -   Altta yatan nedenin düzeltilememesi
 
-## Neden Doç. Dr. Habib Çil?
-
-Acil ve elektif geçici pacing işlemlerinde geniş deneyime sahibim. Hızlı ve güvenli müdahale sağlıyorum.
-
-**Uzmanlık Alanlarım:**
-
--   Transvenöz geçici pacing
--   Acil ritim yönetimi
--   Kalıcı pacemaker planlaması
--   Komplikasyon yönetimi
-
 ## Sık Sorulan Sorular
 
 {{< faq question="Geçici kalp pili ne kadar süre kalır?" >}}

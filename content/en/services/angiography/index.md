@@ -148,17 +148,6 @@ Procedure risks are low:
 -   4-6 hours bed rest
 -   Keep leg straight
 
-## Why Choose Assoc. Prof. Dr. Habib Çil?
-
-I have extensive experience in coronary angiography procedures. I prioritize patient comfort by preferring radial access.
-
-**My Areas of Expertise:**
-
--   Diagnostic coronary angiography
--   Radial access techniques
--   Complex case management
--   Interventional treatment in same session
-
 ## Frequently Asked Questions
 
 {{< faq question="Is angiography painful?" >}}
