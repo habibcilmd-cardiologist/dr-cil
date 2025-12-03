@@ -220,25 +220,25 @@ Kalp krizi büyük ölçüde önlenebilir bir hastalıktır. İşte kanıta daya
 
 ## Sık Sorulan Sorular (SSS)
 
-### Göğsüm ağrıyor, kalp krizi mi geçiriyorum?
-
+{{< faq question="Göğsüm ağrıyor, kalp krizi mi geçiriyorum?" >}}
 Her göğüs ağrısı kalp krizi değildir. Kas ağrıları, reflü, anksiyete gibi birçok neden göğüs ağrısına yol açabilir. Ancak 15 dakikadan uzun süren, dinlenmeyle geçmeyen, baskı tarzında göğüs ağrısı ciddiye alınmalı ve acil yardım istenmelidir.
+{{< /faq >}}
 
-### Genç yaşta kalp krizi geçirilir mi?
-
+{{< faq question="Genç yaşta kalp krizi geçirilir mi?" >}}
 Evet, özellikle risk faktörleri yoğun olan gençlerde (sigara, obezite, aile öyküsü, diyabet) kalp krizi görülebilir. Son yıllarda 40 yaş altı kalp krizleri maalesef artmaktadır.
+{{< /faq >}}
 
-### Kalp krizi geçirdikten sonra normal yaşama dönebilir miyim?
-
+{{< faq question="Kalp krizi geçirdikten sonra normal yaşama dönebilir miyim?" >}}
 Evet, uygun tedavi ve rehabilitasyon ile çoğu hasta normal yaşamına dönebilir. Ancak ilaçların düzenli kullanımı ve yaşam tarzı değişiklikleri gereklidir.
+{{< /faq >}}
 
-### Stent taktırdıktan sonra ne kadar dikkat etmeliyim?
-
+{{< faq question="Stent taktırdıktan sonra ne kadar dikkat etmeliyim?" >}}
 Stent sonrası en kritik dönem ilk yıldır. Kan sulandırıcı ilaçların düzenli kullanımı, kontrollerin aksatılmaması ve risk faktörlerinin kontrolü çok önemlidir.
+{{< /faq >}}
 
-### Ailemde kalp krizi öyküsü var, ne yapmalıyım?
-
+{{< faq question="Ailemde kalp krizi öyküsü var, ne yapmalıyım?" >}}
 Aile öyküsü riski artırır ancak bu kaçınılmaz değildir. Diğer risk faktörlerini kontrol altında tutarak (tansiyon, kolesterol, sigara, egzersiz) riskinizi önemli ölçüde azaltabilirsiniz.
+{{< /faq >}}
 
 ## Ne Zaman Doktora Başvurmalısınız?
 

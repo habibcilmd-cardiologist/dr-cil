@@ -191,7 +191,7 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	  "@context": "https://schema.org",
 	  "@graph": [
 	    {
-	      "@type": ["Article", "MedicalWebPage"],
+	      "@type": ["Article", "MedicalWebPage", "MedicalScholarlyArticle"],
 	      "@id": "{{ .Permalink }}#article",
 	      "headline": "{{ .Title }}",
 	      "name": "{{ .Title }}",
@@ -252,7 +252,8 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	      "lastReviewed": "{{ .Lastmod.Format "2006-01-02" }}",
 	      "articleSection": {{ if eq .Site.Language.Lang "tr" }}"Kardiyoloji"{{ else }}"Cardiology"{{ end }},
 	      "wordCount": "{{ .WordCount }}",
-	      "keywords": [{{ range $i, $tag := .Params.tags }}{{ if $i }}, {{ end }}"{{ $tag }}"{{ end }}]
+	      "keywords": [{{ range $i, $tag := .Params.tags }}{{ if $i }}, {{ end }}"{{ $tag }}"{{ end }}],
+	      "publicationType": "Medical Journal"
 	    },
 	    {
 	      "@type": "BreadcrumbList",
@@ -317,3 +318,4 @@ clinic/service pages */}}
 	}
 </script>
 {{ end }} {{ end }}
+{{ partial "schema-scholarly.html" . }}

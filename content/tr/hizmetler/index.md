@@ -117,17 +117,7 @@ translationKey: "services"
 
 ---
 
-### 🧪 Laboratuvar Testleri
 
-<div class="services-grid">
-  <div class="service-card"><div class="service-icon">🩸</div><h4>Tansiyon Ölçümü</h4><p>Kan basıncı kontrolü</p></div>
-  <div class="service-card"><div class="service-icon">🔬</div><h4>Kolesterol Testi</h4><p>Lipid profili kontrolü</p></div>
-  <div class="service-card"><div class="service-icon">📊</div><h4>HDL/LDL Testi</h4><p>İyi ve kötü kolesterol</p></div>
-  <div class="service-card"><div class="service-icon">🧬</div><h4>Lipid Paneli</h4><p>Trigliserit ve yağ profili</p></div>
-  <div class="service-card"><div class="service-icon">💧</div><h4>Elektrolit Testi</h4><p>Kan elektrolit paneli</p></div>
-</div>
-
----
 
 ### 🩺 Diğer Hizmetler
 

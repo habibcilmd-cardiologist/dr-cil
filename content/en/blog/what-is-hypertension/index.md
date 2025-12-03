@@ -298,29 +298,29 @@ Home blood pressure monitoring is crucial for tracking treatment. For accurate r
 
 ## Frequently Asked Questions (FAQ)
 
-### My blood pressure goes up occasionally—should I take medication?
-
+{{< faq question="My blood pressure goes up occasionally—should I take medication?" >}}
 A single high reading is not sufficient to diagnose hypertension. Average values from measurements taken at different times should be evaluated. The decision to treat should be made by your doctor.
+{{< /faq >}}
 
-### I started medication but have side effects—should I stop?
-
+{{< faq question="I started medication but have side effects—should I stop?" >}}
 Never stop medication without consulting your doctor. Alternative medications with different side effect profiles exist; your doctor can change your prescription.
+{{< /faq >}}
 
-### My blood pressure returned to normal—can I stop the medication?
-
+{{< faq question="My blood pressure returned to normal—can I stop the medication?" >}}
 No! Your blood pressure being normal means the medications are working. When you stop the medication, blood pressure will rise again. Treatment is usually lifelong.
+{{< /faq >}}
 
-### At what age should I start getting my blood pressure checked?
-
+{{< faq question="At what age should I start getting my blood pressure checked?" >}}
 From age 18, at least every 2-3 years; after age 40, annually; if you have hypertension or risk factors, more frequently.
+{{< /faq >}}
 
-### How does stress affect blood pressure?
-
+{{< faq question="How does stress affect blood pressure?" >}}
 Stress temporarily raises blood pressure. Chronic stress can contribute to the development of hypertension. Stress management is an important part of treatment.
+{{< /faq >}}
 
-### Is high blood pressure dangerous during pregnancy?
-
+{{< faq question="Is high blood pressure dangerous during pregnancy?" >}}
 Yes, hypertension during pregnancy poses risks for both mother and baby. Serious conditions like preeclampsia can develop. It must be monitored under medical supervision.
+{{< /faq >}}
 
 ## When Should You See a Doctor?
 

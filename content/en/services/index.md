@@ -117,17 +117,7 @@ translationKey: "services"
 
 ---
 
-### 🧪 Laboratory Tests
 
-<div class="services-grid">
-  <div class="service-card"><div class="service-icon">🩸</div><h4>Blood Pressure</h4><p>BP measurement</p></div>
-  <div class="service-card"><div class="service-icon">🔬</div><h4>Cholesterol Test</h4><p>Lipid profile check</p></div>
-  <div class="service-card"><div class="service-icon">📊</div><h4>HDL/LDL Test</h4><p>Good and bad cholesterol</p></div>
-  <div class="service-card"><div class="service-icon">🧬</div><h4>Lipid Panel</h4><p>Triglyceride and fat profile</p></div>
-  <div class="service-card"><div class="service-icon">💧</div><h4>Electrolyte Test</h4><p>Blood electrolyte panel</p></div>
-</div>
-
----
 
 ### 🩺 Other Services
 

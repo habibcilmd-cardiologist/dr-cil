@@ -359,36 +359,35 @@ Modern tedavilerle kalp yetmezliği hastaları uzun yıllar kaliteli bir yaşam 
 
 ## Sık Sorulan Sorular (SSS)
 
-### Kalp yetmezliği tamamen iyileşir mi?
-
+{{< faq question="Kalp yetmezliği tamamen iyileşir mi?" >}}
 Kalp yetmezliği çoğu vakada kronik bir hastalıktır ve tamamen iyileşmez. Ancak uygun tedavi ile semptomlar kontrol altına alınabilir, hastalık ilerlemesi yavaşlatılabilir ve yaşam kalitesi önemli ölçüde artırılabilir. Bazı durumlarda (örneğin geçici bir nedene bağlıysa) ejeksiyon fraksiyonu normale dönebilir.
+{{< /faq >}}
 
-### Kalp yetmezliğinde egzersiz yapabilir miyim?
-
+{{< faq question="Kalp yetmezliğinde egzersiz yapabilir miyim?" >}}
 Evet, stabil kalp yetmezliği hastalarına düzenli, orta yoğunlukta egzersiz önerilir. Kardiyak rehabilitasyon programları özellikle faydalıdır. Egzersiz programınızı doktorunuzla planlamanız önemlidir. Aşırı zorlanmadan, kademeli olarak aktivitenizi artırmalısınız.
+{{< /faq >}}
 
-### Ne kadar sıvı içmeliyim?
-
+{{< faq question="Ne kadar sıvı içmeliyim?" >}}
 Genellikle günlük 1.5-2 litre sıvı alımı önerilir. Ancak bu miktar hastalığınızın şiddetine ve diüretik kullanımınıza göre değişebilir. Doktorunuz size özel sıvı kısıtlaması belirleyecektir. Günlük kilo takibi sıvı dengenizi izlemenin en iyi yoludur.
+{{< /faq >}}
 
-### Kalp yetmezliğinde tuz kullanabilir miyim?
-
+{{< faq question="Kalp yetmezliğinde tuz kullanabilir miyim?" >}}
 Tuz kısıtlaması kalp yetmezliği tedavisinin temel taşlarından biridir. Günlük sodyum alımının 2 gramın (yaklaşık 1 çay kaşığı tuz) altında tutulması önerilir. Hazır gıdalar, konserve ürünler ve restoran yemekleri genellikle yüksek sodyum içerir.
+{{< /faq >}}
 
-### Kalp yetmezliği ilaçlarını ömür boyu kullanmak zorunda mıyım?
-
+{{< faq question="Kalp yetmezliği ilaçlarını ömür boyu kullanmak zorunda mıyım?" >}}
 Kalp yetmezliği ilaçlarının çoğu uzun süreli veya ömür boyu kullanılması gereken ilaçlardır. Bu ilaçlar sadece semptomları kontrol etmez, aynı zamanda hastalığın ilerlemesini yavaşlatır ve yaşam süresini uzatır. Kendinizi iyi hissetseniz bile ilaçlarınızı doktorunuza danışmadan bırakmamalısınız.
+{{< /faq >}}
 
-### Kalp pili veya şok cihazı (ICD) ne zaman gerekli olur?
-
+{{< faq question="Kalp pili veya şok cihazı (ICD) ne zaman gerekli olur?" >}}
 ICD, ani kardiyak ölüm riski yüksek olan hastalarda önerilir. Tipik olarak optimal medikal tedaviye rağmen ejeksiyon fraksiyonu %35 veya altında olan ve NYHA sınıf II-III semptomları olan hastalara takılır. CRT (kardiyak resenkronizasyon tedavisi) ise sol dal bloğu olan ve EF düşük hastalarda kalbin senkronize çalışmasını sağlar.
+{{< /faq >}}
 
-### Kalp nakli ne zaman düşünülür?
-
+{{< faq question="Kalp nakli ne zaman düşünülür?" >}}
 Kalp nakli, tüm medikal ve cihaz tedavilerine rağmen semptomları kontrol altına alınamayan son dönem kalp yetmezliği hastalarında düşünülür. Nakil için uygun olmayan hastalarda LVAD (sol ventrikül destek cihazı) alternatif olabilir.
+{{< /faq >}}
 
-### Kalp yetmezliğini önleyebilir miyim?
-
+{{< faq question="Kalp yetmezliğini önleyebilir miyim?" >}}
 Evet, kalp yetmezliğinin en önemli nedenlerini kontrol altına alarak riski önemli ölçüde azaltabilirsiniz:
 
 -   Tansiyonunuzu kontrol altında tutun
@@ -398,6 +397,7 @@ Evet, kalp yetmezliğinin en önemli nedenlerini kontrol altına alarak riski ö
 -   Sigara içmekten kaçının
 -   Alkol tüketimini sınırlandırın
 -   Diyabetiniz varsa iyi kontrol altında tutun
+{{< /faq >}}
 
 ---
 

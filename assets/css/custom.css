@@ -250,30 +250,52 @@ article:hover {
 	transform: translateY(-2px);
 }
 
-/* Blog Card - Compact Design */
-/* Card container with thumbnail */
+/* =============================================================================
+   Blog Cards - 2 Columns Grid with Full Image Display
+   ============================================================================= */
+
+/* Blog Grid - 2 columns instead of 3 */
+main > .grid {
+	grid-template-columns: repeat(2, 1fr) !important;
+	gap: 1.5rem !important;
+}
+
+/* Mobile: 1 column */
+@media (max-width: 768px) {
+	main > .grid {
+		grid-template-columns: 1fr !important;
+	}
+}
+
+/* Blog Card Container */
+article.min-h-full {
+	min-height: auto !important;
+	border-radius: 12px !important;
+	overflow: hidden !important;
+}
+
+/* Blog Card Thumbnail - Show full image without cropping */
 .thumbnail_card {
-	height: 180px !important;
-	max-height: 180px !important;
-}
-
-.thumbnail_card img {
-	object-fit: cover !important;
+	position: relative !important;
 	width: 100% !important;
-	height: 100% !important;
+	overflow: hidden !important;
+	background: linear-gradient(
+		135deg,
+		#6366f1 0%,
+		#8b5cf6 50%,
+		#a78bfa 100%
+	) !important;
 }
 
-/* Profile image on homepage - keep circular */
-article.flex.flex-col.items-center header img {
-	aspect-ratio: 1/1 !important;
-	width: 12rem !important;
-	height: 12rem !important;
-	max-height: none !important;
-	border-radius: 50% !important;
-	object-fit: cover !important;
+/* Image inside thumbnail card - natural size, no cropping */
+.thumbnail_card img {
+	display: block !important;
+	width: 100% !important;
+	height: auto !important;
+	object-fit: contain !important;
 }
 
-/* Blog Card Text - Compact */
+/* Blog Card Title */
 article.min-h-full h2 {
 	overflow: hidden;
 	text-overflow: ellipsis;
@@ -281,8 +303,12 @@ article.min-h-full h2 {
 	-webkit-line-clamp: 2;
 	-webkit-box-orient: vertical;
 	line-height: 1.3;
-	max-height: 2.6em;
-	font-size: 1rem !important;
+	font-size: 1.1rem !important;
+}
+
+/* Blog Card Meta */
+article.min-h-full .text-sm {
+	font-size: 0.8rem !important;
 }
 
 /* Blog Card Summary - Hide on cards */
@@ -290,28 +316,159 @@ article.min-h-full .prose {
 	display: none !important;
 }
 
-/* Blog Card Meta - Compact */
-article.min-h-full .text-sm {
-	font-size: 0.75rem !important;
+/* Blog cards rounded corners */
+article.min-h-full .thumbnail_card {
+	border-radius: 12px 12px 0 0 !important;
 }
 
-/* Homepage Recent Section Cards - Compact Height */
-article.min-h-full {
-	min-height: auto !important;
-	max-height: 320px !important;
+/* =============================================================================
+   Tag/Category Page - Modern Card Layout
+   ============================================================================= */
+
+/* Article cards in tag/category pages - Modern card style */
+section.space-y-10 > article {
+	display: flex !important;
+	flex-direction: column !important;
+	background: white !important;
 	border-radius: 16px !important;
+	overflow: hidden !important;
+	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08) !important;
+	transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+	margin-bottom: 1.5rem !important;
+}
+
+section.space-y-10 > article:hover {
+	transform: translateY(-4px) !important;
+	box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12) !important;
+}
+
+/* Dark mode for article cards */
+.dark section.space-y-10 > article {
+	background: rgb(var(--color-neutral-800)) !important;
+}
+
+/* Thumbnail container in tag/category pages - Full width on top */
+.thumbnail {
+	position: relative !important;
+	width: 100% !important;
+	min-width: 100% !important;
+	height: auto !important;
+	overflow: hidden !important;
+	border-radius: 16px 16px 0 0 !important;
+	background: linear-gradient(
+		135deg,
+		#6366f1 0%,
+		#8b5cf6 50%,
+		#a78bfa 100%
+	) !important;
+}
+
+/* Image inside thumbnail - show full image */
+.thumbnail img {
+	display: block !important;
+	width: 100% !important;
+	height: auto !important;
+	max-height: 280px !important;
+	object-fit: contain !important;
+	position: relative !important;
+}
+
+/* Content section in tag/category cards */
+section.space-y-10 > article > div:last-child {
+	padding: 1.5rem !important;
+}
+
+/* Title styling in tag/category cards */
+section.space-y-10 > article h2 {
+	font-size: 1.25rem !important;
+	font-weight: 700 !important;
+	line-height: 1.4 !important;
+	margin-bottom: 0.75rem !important;
+	color: rgb(var(--color-neutral-800)) !important;
+}
+
+.dark section.space-y-10 > article h2 {
+	color: rgb(var(--color-neutral-100)) !important;
+}
+
+/* Tags in article cards */
+section.space-y-10 > article .flex.flex-wrap a {
+	background: rgb(var(--color-primary-50)) !important;
+	color: rgb(var(--color-primary-700)) !important;
+	padding: 0.25rem 0.75rem !important;
+	border-radius: 9999px !important;
+	font-size: 0.75rem !important;
+	font-weight: 500 !important;
+	transition: all 0.2s ease !important;
+}
+
+section.space-y-10 > article .flex.flex-wrap a:hover {
+	background: rgb(var(--color-primary-100)) !important;
+}
+
+.dark section.space-y-10 > article .flex.flex-wrap a {
+	background: rgba(var(--color-primary-500), 0.2) !important;
+	color: rgb(var(--color-primary-300)) !important;
+}
+
+/* Summary text styling */
+section.space-y-10 > article .prose {
+	font-size: 0.95rem !important;
+	line-height: 1.6 !important;
+	color: rgb(var(--color-neutral-600)) !important;
+	display: -webkit-box !important;
+	-webkit-line-clamp: 3 !important;
+	-webkit-box-orient: vertical !important;
 	overflow: hidden !important;
 }
 
-/* Blog cards rounded corners */
-article.min-h-full .thumbnail_card,
-article.min-h-full img {
-	border-radius: 16px 16px 0 0 !important;
+.dark section.space-y-10 > article .prose {
+	color: rgb(var(--color-neutral-400)) !important;
 }
 
-/* Hide empty padding div */
-article.min-h-full > .px-6.pt-4.pb-2:empty {
-	display: none !important;
+/* Responsive: On larger screens, side-by-side layout */
+@media (min-width: 768px) {
+	section.space-y-10 > article {
+		flex-direction: row !important;
+		align-items: stretch !important;
+	}
+
+	.thumbnail {
+		width: 320px !important;
+		min-width: 320px !important;
+		max-width: 320px !important;
+		border-radius: 16px 0 0 16px !important;
+		display: flex !important;
+		align-items: center !important;
+		justify-content: center !important;
+	}
+
+	.thumbnail img {
+		max-height: none !important;
+		height: 100% !important;
+		object-fit: cover !important;
+	}
+
+	section.space-y-10 > article > div:last-child {
+		flex: 1 !important;
+		display: flex !important;
+		flex-direction: column !important;
+		justify-content: center !important;
+		padding: 2rem !important;
+	}
+}
+
+/* =============================================================================
+   Profile Image - Keep Circular (Homepage)
+   ============================================================================= */
+article.flex.flex-col.items-center header img {
+	aspect-ratio: 1/1 !important;
+	width: 12rem !important;
+	height: 12rem !important;
+	max-height: none !important;
+	border-radius: 50% !important;
+	object-fit: cover !important;
+	background: transparent !important;
 }
 
 /* Tags Container - Compact */

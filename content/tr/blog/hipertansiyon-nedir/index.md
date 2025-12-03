@@ -298,29 +298,29 @@ Evde tansiyon ölçümü, tedavinin izlenmesinde çok önemlidir. Doğru sonuç 
 
 ## Sık Sorulan Sorular (SSS)
 
-### Tansiyonum ara sıra yükseliyor, ilaç kullanmalı mıyım?
-
+{{< faq question="Tansiyonum ara sıra yükseliyor, ilaç kullanmalı mıyım?" >}}
 Tek bir yüksek ölçüm hipertansiyon tanısı koymak için yeterli değildir. Farklı zamanlarda yapılan ölçümlerle ortalama değerler değerlendirilmelidir. Tedavi kararı doktorunuz tarafından verilmelidir.
+{{< /faq >}}
 
-### İlaç kullanmaya başladım ama yan etkisi var, bıraksam mı?
-
+{{< faq question="İlaç kullanmaya başladım ama yan etkisi var, bıraksam mı?" >}}
 Kesinlikle doktorunuza danışmadan ilaç bırakmayın. Yan etkileri olan başka ilaçlar mevcuttur; doktorunuz ilacınızı değiştirebilir.
+{{< /faq >}}
 
-### Tansiyonum normale döndü, ilacı bıraksam olur mu?
-
+{{< faq question="Tansiyonum normale döndü, ilacı bıraksam olur mu?" >}}
 Hayır! Tansiyonunuzun normal olması, ilaçların işe yaradığı anlamına gelir. İlaç bırakıldığında tansiyon yeniden yükselir. Tedavi genellikle ömür boyudur.
+{{< /faq >}}
 
-### Hangi yaştan sonra tansiyon ölçtürmeliyim?
-
+{{< faq question="Hangi yaştan sonra tansiyon ölçtürmeliyim?" >}}
 18 yaşından itibaren en az 2-3 yılda bir, 40 yaşından sonra yılda bir, hipertansiyon veya risk faktörü varsa daha sık ölçtürmelisiniz.
+{{< /faq >}}
 
-### Stres tansiyonu nasıl etkiler?
-
+{{< faq question="Stres tansiyonu nasıl etkiler?" >}}
 Stres geçici olarak tansiyonu artırır. Kronik stres ise hipertansiyon gelişimine katkıda bulunabilir. Stres yönetimi tedavinin önemli bir parçasıdır.
+{{< /faq >}}
 
-### Hamileyken tansiyon yüksekliği tehlikeli mi?
-
+{{< faq question="Hamileyken tansiyon yüksekliği tehlikeli mi?" >}}
 Evet, gebelikte hipertansiyon hem anne hem de bebek için risk oluşturur. Preeklampsi gibi ciddi durumlar gelişebilir. Mutlaka doktor kontrolünde takip edilmelidir.
+{{< /faq >}}
 
 ## Ne Zaman Doktora Başvurmalısınız?
 

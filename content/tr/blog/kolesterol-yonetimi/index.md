@@ -334,29 +334,29 @@ Tek ilaçla hedefe ulaşılamadığında:
 
 ## Sık Sorulan Sorular (SSS)
 
-### Kolesterol ilacı ömür boyu mu kullanılacak?
-
+{{< faq question="Kolesterol ilacı ömür boyu mu kullanılacak?" >}}
 Çoğu hastada evet. Kolesterol ilaçları bırakıldığında değerler yeniden yükselir. Ancak yaşam tarzı değişiklikleriyle bazı hastalarda doz azaltılabilir.
+{{< /faq >}}
 
-### Statin kas ağrısı yaparsa ne yapmalıyım?
-
+{{< faq question="Statin kas ağrısı yaparsa ne yapmalıyım?" >}}
 Doktorunuza danışın. Doz azaltma, ilaç değişikliği veya alternatif tedaviler denenebilir. Kendi başınıza ilaç bırakmayın.
+{{< /faq >}}
 
-### Yumurta yiyebilir miyim?
-
+{{< faq question="Yumurta yiyebilir miyim?" >}}
 Evet, ancak ölçülü. Günde 1 yumurta çoğu kişi için güvenlidir. Diyetle alınan kolesterolün etkisi kişiden kişiye değişir.
+{{< /faq >}}
 
-### Kolesterol düşürücü gıda takviyeleri işe yarar mı?
-
+{{< faq question="Kolesterol düşürücü gıda takviyeleri işe yarar mı?" >}}
 Bazıları (kırmızı maya pirinci, bitkisel steroller) hafif etki gösterebilir, ancak ilaç tedavisinin yerini tutmaz. Doktorunuza danışmadan kullanmayın.
+{{< /faq >}}
 
-### Çocuklarda kolesterol taraması gerekli mi?
-
+{{< faq question="Çocuklarda kolesterol taraması gerekli mi?" >}}
 Aile öyküsü varsa veya obezite, diyabet gibi risk faktörleri varsa 2 yaşından itibaren tarama önerilir.
+{{< /faq >}}
 
-### HDL'yi nasıl artırabilirim?
-
+{{< faq question="HDL'yi nasıl artırabilirim?" >}}
 Egzersiz, kilo verme, sigarayı bırakma ve sağlıklı yağlar (zeytinyağı, balık) HDL'yi artırır. İlaçlarla HDL artışı sınırlıdır.
+{{< /faq >}}
 
 ## Ne Zaman Doktora Başvurmalısınız?
 

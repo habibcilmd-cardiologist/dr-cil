@@ -334,29 +334,29 @@ When target not reached with single drug:
 
 ## Frequently Asked Questions (FAQ)
 
-### Will I need cholesterol medication for life?
-
+{{< faq question="Will I need cholesterol medication for life?" >}}
 In most patients, yes. When cholesterol medications are stopped, levels rise again. However, with lifestyle changes, doses may be reduced in some patients.
+{{< /faq >}}
 
-### What should I do if statins cause muscle pain?
-
+{{< faq question="What should I do if statins cause muscle pain?" >}}
 Consult your doctor. Dose reduction, medication change, or alternative treatments can be tried. Don't stop medication on your own.
+{{< /faq >}}
 
-### Can I eat eggs?
-
+{{< faq question="Can I eat eggs?" >}}
 Yes, but in moderation. One egg daily is safe for most people. The effect of dietary cholesterol varies from person to person.
+{{< /faq >}}
 
-### Do cholesterol-lowering supplements work?
-
+{{< faq question="Do cholesterol-lowering supplements work?" >}}
 Some (red yeast rice, plant sterols) may have mild effects, but don't replace medication therapy. Don't use without consulting your doctor.
+{{< /faq >}}
 
-### Is cholesterol screening necessary in children?
-
+{{< faq question="Is cholesterol screening necessary in children?" >}}
 If there's family history or risk factors like obesity or diabetes, screening is recommended from age 2.
+{{< /faq >}}
 
-### How can I increase HDL?
-
+{{< faq question="How can I increase HDL?" >}}
 Exercise, weight loss, quitting smoking, and healthy fats (olive oil, fish) increase HDL. HDL increase with medications is limited.
+{{< /faq >}}
 
 ## When Should You See a Doctor?
 

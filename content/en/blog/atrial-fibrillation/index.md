@@ -323,29 +323,29 @@ Lifestyle changes are critically important in AFib management:
 
 ## Frequently Asked Questions (FAQ)
 
-### Can I live a normal life with AFib?
-
+{{< faq question="Can I live a normal life with AFib?" >}}
 Yes! With appropriate treatment and lifestyle changes, AFib patients can lead active, quality lives. Regular follow-up and treatment compliance are important.
+{{< /faq >}}
 
-### Will I need blood thinners for life?
-
+{{< faq question="Will I need blood thinners for life?" >}}
 In most patients, yes. Anticoagulant therapy should continue as long as stroke risk persists. Even after ablation, it may continue based on risk assessment.
+{{< /faq >}}
 
-### Does ablation completely cure AFib?
-
+{{< faq question="Does ablation completely cure AFib?" >}}
 Ablation is very effective in controlling AFib, but there's no guarantee of "complete cure." Success rate is around 70-80%, and some patients may need repeat procedures.
+{{< /faq >}}
 
-### Can I drink coffee?
-
+{{< faq question="Can I drink coffee?" >}}
 Moderate caffeine consumption (2-3 cups of coffee daily) is safe for most patients. However, if caffeine triggers AFib episodes, it should be restricted.
+{{< /faq >}}
 
-### Can I exercise?
-
+{{< faq question="Can I exercise?" >}}
 Yes, but an appropriate exercise program should be determined in consultation with your doctor. Avoid excessively intense exercise.
+{{< /faq >}}
 
-### Is AFib hereditary?
-
+{{< faq question="Is AFib hereditary?" >}}
 There is genetic predisposition. Risk increases if there's family history of AFib, but it's not inevitable. Lifestyle factors are also important.
+{{< /faq >}}
 
 ## When Should You See a Doctor?
 

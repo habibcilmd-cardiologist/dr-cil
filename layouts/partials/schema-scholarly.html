@@ -1,0 +1,20 @@
+{{/* MedicalScholarlyArticle Schema for Publications */}}
+{{ if and (eq .Section "yayinlar") .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalScholarlyArticle",
+  "headline": "{{ .Title }}",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description | default .Summary }}",
+  "publicationType": "Medical Journal",
+  "author": {
+    "@type": "Person",
+    "name": "Doç. Dr. Habib ÇİL"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "url": "{{ .Permalink }}",
+  "inLanguage": "{{ .Site.Language.Lang }}"
+}
+</script>
+{{ end }}

@@ -323,29 +323,29 @@ Antibiotics before certain procedures in patients with prosthetic valves:
 
 ## Frequently Asked Questions (FAQ)
 
-### Does everyone with valve disease need surgery?
-
+{{< faq question="Does everyone with valve disease need surgery?" >}}
 No. Mild-moderate valve diseases can be managed with medication and monitoring. Surgery is needed when there's severe disease and symptoms.
+{{< /faq >}}
 
-### Should mechanical or biological valve be preferred?
-
+{{< faq question="Should mechanical or biological valve be preferred?" >}}
 Depends on age, lifestyle, and ability to take anticoagulants. Mechanical preferred in young patients, biological in elderly. Make the decision together with your doctor.
+{{< /faq >}}
 
-### Is TAVI safer than surgery?
-
+{{< faq question="Is TAVI safer than surgery?" >}}
 TAVI is safer than open surgery in high-risk patients. However, surgery remains the gold standard in low-risk young patients. Risk assessment should be individualized.
+{{< /faq >}}
 
-### Can I return to normal life after valve surgery?
-
+{{< faq question="Can I return to normal life after valve surgery?" >}}
 Yes! Most patients return to normal activities within 6-12 weeks after surgery. Regular follow-up and medication compliance are important.
+{{< /faq >}}
 
-### How long does a prosthetic valve last?
-
+{{< faq question="How long does a prosthetic valve last?" >}}
 Mechanical valves last 20-30 years or more. Biological valves last 10-20 years and may need replacement afterward.
+{{< /faq >}}
 
-### Is valve disease hereditary?
-
+{{< faq question="Is valve disease hereditary?" >}}
 Some valve diseases (bicuspid aortic valve, mitral valve prolapse) show genetic predisposition. Screening is recommended if there's family history of valve disease.
+{{< /faq >}}
 
 ## When Should You See a Doctor?
 

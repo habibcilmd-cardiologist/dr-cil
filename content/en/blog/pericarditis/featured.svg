@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F472B6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGrad)"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="650" cy="80" r="60" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="720" cy="150" r="40" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="100" cy="320" r="50" fill="rgba(255,255,255,0.1)"/>
+  
+  <!-- Heart with pericardium illustration -->
+  <g transform="translate(540, 90)">
+    <!-- Outer pericardium (inflamed - thickened) -->
+    <path d="M100,25 C100,5 80,0 60,0 C35,0 15,20 15,45 C15,90 100,140 100,140 C100,140 185,90 185,45 C185,20 165,0 140,0 C120,0 100,5 100,25 Z" 
+          fill="none" stroke="#FCD34D" stroke-width="6" opacity="0.8"/>
+    
+    <!-- Inner heart -->
+    <path d="M100,35 C100,20 85,10 70,10 C50,10 35,25 35,45 C35,80 100,120 100,120 C100,120 165,80 165,45 C165,25 150,10 130,10 C115,10 100,20 100,35 Z" 
+          fill="url(#heartGrad)" opacity="0.9"/>
+    
+    <!-- Inflammation dots around pericardium -->
+    <circle cx="30" cy="50" r="5" fill="#FCD34D" opacity="0.7"/>
+    <circle cx="20" cy="70" r="4" fill="#FCD34D" opacity="0.6"/>
+    <circle cx="25" cy="90" r="5" fill="#FCD34D" opacity="0.7"/>
+    <circle cx="170" cy="50" r="5" fill="#FCD34D" opacity="0.7"/>
+    <circle cx="180" cy="70" r="4" fill="#FCD34D" opacity="0.6"/>
+    <circle cx="175" cy="90" r="5" fill="#FCD34D" opacity="0.7"/>
+    <circle cx="100" cy="0" r="4" fill="#FCD34D" opacity="0.6"/>
+    
+    <!-- Friction lines -->
+    <path d="M45,55 L55,55" stroke="white" stroke-width="2" opacity="0.6"/>
+    <path d="M45,65 L55,65" stroke="white" stroke-width="2" opacity="0.6"/>
+    <path d="M145,55 L155,55" stroke="white" stroke-width="2" opacity="0.6"/>
+    <path d="M145,65 L155,65" stroke="white" stroke-width="2" opacity="0.6"/>
+  </g>
+  
+  <!-- Text content -->
+  <text x="60" y="120" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white">
+    Pericarditis
+  </text>
+  <text x="60" y="170" font-family="Arial, sans-serif" font-size="28" fill="rgba(255,255,255,0.9)">
+    Heart Membrane Inflammation
+  </text>
+  
+  <!-- Info boxes -->
+  <g transform="translate(60, 220)">
+    <rect x="0" y="0" width="180" height="60" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="90" y="28" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Symptoms</text>
+    <text x="90" y="48" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.8)" text-anchor="middle">Sharp Chest Pain</text>
+  </g>
+  
+  <g transform="translate(260, 220)">
+    <rect x="0" y="0" width="180" height="60" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="90" y="28" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Cause</text>
+    <text x="90" y="48" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.8)" text-anchor="middle">Viral Infections</text>
+  </g>
+  
+  <!-- Bottom text -->
+  <text x="60" y="340" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)">
+    Assoc. Prof. Dr. Habib ÇİL | Cardiology Specialist
+  </text>
+</svg>
+

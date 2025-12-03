@@ -323,29 +323,29 @@ Protez kapağı olan hastalarda bazı işlemlerden önce antibiyotik:
 
 ## Sık Sorulan Sorular (SSS)
 
-### Kapak hastalığı olan herkes ameliyat olmalı mı?
-
+{{< faq question="Kapak hastalığı olan herkes ameliyat olmalı mı?" >}}
 Hayır. Hafif-orta dereceli kapak hastalıkları ilaç tedavisi ve takiple yönetilebilir. Ameliyat, ciddi hastalık ve belirtiler olduğunda gerekir.
+{{< /faq >}}
 
-### Mekanik kapak mı biyolojik kapak mı tercih edilmeli?
-
+{{< faq question="Mekanik kapak mı biyolojik kapak mı tercih edilmeli?" >}}
 Yaş, yaşam tarzı ve antikoagülan kullanabilme durumuna göre değişir. Genç hastalarda mekanik, yaşlı hastalarda biyolojik kapak tercih edilir. Kararı doktorunuzla birlikte verin.
+{{< /faq >}}
 
-### TAVI ameliyattan daha mı güvenli?
-
+{{< faq question="TAVI ameliyattan daha mı güvenli?" >}}
 TAVI, yüksek riskli hastalarda açık ameliyata göre daha güvenlidir. Ancak düşük riskli genç hastalarda cerrahi hala altın standarttır. Risk değerlendirmesi bireysel yapılmalıdır.
+{{< /faq >}}
 
-### Kapak ameliyatı sonrası normal yaşama dönebilir miyim?
-
+{{< faq question="Kapak ameliyatı sonrası normal yaşama dönebilir miyim?" >}}
 Evet! Çoğu hasta ameliyat sonrası 6-12 hafta içinde normal aktivitelerine döner. Düzenli takip ve ilaç uyumu önemlidir.
+{{< /faq >}}
 
-### Protez kapak ne kadar dayanır?
-
+{{< faq question="Protez kapak ne kadar dayanır?" >}}
 Mekanik kapaklar 20-30 yıl veya daha fazla dayanır. Biyolojik kapaklar 10-20 yıl dayanır ve sonra değişim gerekebilir.
+{{< /faq >}}
 
-### Kapak hastalığı kalıtsal mıdır?
-
+{{< faq question="Kapak hastalığı kalıtsal mıdır?" >}}
 Bazı kapak hastalıkları (biküspit aort kapağı, mitral kapak prolapsusu) genetik yatkınlık gösterir. Ailede kapak hastalığı varsa tarama önerilir.
+{{< /faq >}}
 
 ## Ne Zaman Doktora Başvurmalısınız?
 

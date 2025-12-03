@@ -333,37 +333,37 @@ Risk faktörlerini kontrol altına alarak aritmi riskini azaltabilirsiniz:
 
 ## Sık Sorulan Sorular (SSS)
 
-### Her çarpıntı tehlikeli midir?
-
+{{< faq question="Her çarpıntı tehlikeli midir?" >}}
 Hayır, çoğu çarpıntı zararsızdır. Stres, kafein, egzersiz veya anksiyete gibi durumlar geçici çarpıntıya neden olabilir. Ancak sık tekrarlayan, uzun süren, bayılma veya göğüs ağrısı ile birlikte olan çarpıntılar mutlaka değerlendirilmelidir.
+{{< /faq >}}
 
-### Atriyal fibrilasyon hayatı tehdit eder mi?
-
+{{< faq question="Atriyal fibrilasyon hayatı tehdit eder mi?" >}}
 AF doğrudan hayatı tehdit etmez ancak komplikasyonları ciddi olabilir. En önemli risk, atriyumlarda oluşan pıhtıların beyne giderek inmeye yol açmasıdır. Bu nedenle uygun hastalarda kan sulandırıcı tedavi çok önemlidir. Ayrıca kontrol edilmemiş AF zamanla kalp yetmezliğine neden olabilir.
+{{< /faq >}}
 
-### Kalp pili takıldıktan sonra normal yaşayabilir miyim?
-
+{{< faq question="Kalp pili takıldıktan sonra normal yaşayabilir miyim?" >}}
 Evet, kalp pili olan hastaların büyük çoğunluğu normal, aktif bir yaşam sürdürebilir. Bazı kısıtlamalar (MR cihazı, güçlü manyetik alanlar) olsa da günlük aktiviteler ve hatta sporlar genellikle mümkündür. Düzenli kontroller ve pil takibi önemlidir.
+{{< /faq >}}
 
-### Ablasyon tedavisi ne kadar etkilidir?
-
+{{< faq question="Ablasyon tedavisi ne kadar etkilidir?" >}}
 Ablasyon başarısı aritmi tipine göre değişir. SVT'lerde (AVNRT, AVRT) başarı oranı %95-98'dir ve genellikle tek seansta kalıcı tedavi sağlanır. AF ablasyonunda başarı %70-80 civarındadır ve bazen birden fazla işlem gerekebilir.
+{{< /faq >}}
 
-### Aritmiler kalıtsal mıdır?
-
+{{< faq question="Aritmiler kalıtsal mıdır?" >}}
 Bazı aritmiler genetik yatkınlıkla ilişkilidir. Özellikle Long QT sendromu, Brugada sendromu, hipertrofik kardiyomiyopati gibi durumlar ailelerde görülebilir. Ailede ani ölüm veya genç yaşta aritmi öyküsü varsa genetik tarama önerilebilir.
+{{< /faq >}}
 
-### Kahve ve alkol aritmilere neden olur mu?
-
+{{< faq question="Kahve ve alkol aritmilere neden olur mu?" >}}
 Aşırı kafein ve alkol tüketimi aritmileri tetikleyebilir. Özellikle AF hastalarında alkol önemli bir tetikleyicidir. Kahve ise bireysel duyarlılığa bağlı olarak bazı kişilerde çarpıntıya neden olabilir. Genel olarak ılımlı tüketim önerilir.
+{{< /faq >}}
 
-### ICD şoku acı verir mi?
-
+{{< faq question="ICD şoku acı verir mi?" >}}
 Evet, ICD şoku hissedilir ve bazı hastalar bunu güçlü bir tekme veya elektrik çarpması olarak tanımlar. Ancak bu şok hayat kurtarıcıdır ve ventriküler fibrilasyonu sonlandırır. Uygunsuz şokları önlemek için cihaz programlaması ve ilaç tedavisi optimize edilir.
+{{< /faq >}}
 
-### Gebelikte aritmi tedavisi nasıl yapılır?
-
+{{< faq question="Gebelikte aritmi tedavisi nasıl yapılır?" >}}
 Gebelikte aritmi tedavisi özel dikkat gerektirir. Çoğu antiaritmik ilaç fetüs için risk taşır. Beta blokerler göreceli olarak güvenlidir. AF'de antikoagülasyon özel protokoller gerektirir. Ablasyon genellikle gebelik öncesi veya sonrasına ertelenir. Her vaka bireysel olarak değerlendirilmelidir.
+{{< /faq >}}
 
 ---
 
