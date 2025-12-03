@@ -1,0 +1,194 @@
+---
+title: "Cardioversion - Heart Rhythm Correction"
+description: "Expert cardioversion procedure in Istanbul. Assoc. Prof. Dr. Habib Çil treats atrial fibrillation. Electrical and pharmacological cardioversion. Avrasya Hospital."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "TherapeuticProcedure"
+body_location: "Heart"
+translationKey: "cardioversion"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Cardioversion is a treatment method applied to restore abnormal heart rhythm to normal sinus rhythm. It can be performed electrically or pharmacologically. Assoc. Prof. Dr. Habib Çil has extensive experience in cardioversion procedures.
+
+## What is Cardioversion?
+
+Cardioversion is a controlled procedure applied to convert the heart's abnormal rhythm (usually atrial fibrillation or atrial flutter) to normal sinus rhythm.
+
+**Types of Cardioversion:**
+
+-   **Electrical cardioversion**: Controlled electric shock
+-   **Pharmacological cardioversion**: Rhythm correction with medications
+
+## Electrical Cardioversion
+
+### How is it Performed?
+
+1. **Preparation**: Fasting, anticoagulation check
+2. **Sedation**: Short-term general anesthesia
+3. **Electrode placement**: Adhesive electrodes on chest
+4. **Shock delivery**: Shock synchronized with R wave
+5. **Monitoring**: Rhythm and vital signs follow-up
+
+### Energy Levels
+
+| Arrhythmia          | Starting Energy      |
+| ------------------- | -------------------- |
+| Atrial fibrillation | 120-200 J (biphasic) |
+| Atrial flutter      | 50-100 J             |
+| SVT                 | 50-100 J             |
+| VT (stable)         | 100-200 J            |
+
+### Success Rates
+
+-   Atrial fibrillation: 70-90%
+-   Atrial flutter: >95%
+-   Success depends on arrhythmia duration and underlying disease
+
+## Pharmacological Cardioversion
+
+### Medications Used
+
+**Class IC Antiarrhythmics:**
+
+-   Flecainide
+-   Propafenone
+
+**Class III Antiarrhythmics:**
+
+-   Amiodarone
+-   Ibutilide
+-   Vernakalant
+
+### Indications
+
+-   New-onset AF (<48 hours)
+-   If electrical cardioversion is contraindicated
+-   Patient preference
+
+## Cardioversion Indications
+
+### Emergency Cardioversion
+
+-   Hemodynamic instability
+-   Acute heart failure
+-   Myocardial ischemia
+-   Hypotension
+
+### Elective Cardioversion
+
+-   Symptomatic AF/flutter
+-   Inadequate rate control
+-   Rhythm control strategy
+
+## Pre-Cardioversion Preparation
+
+### Anticoagulation
+
+**AF >48 hours or unknown duration:**
+
+-   At least 3 weeks of anticoagulation OR
+-   TEE to rule out left atrial thrombus
+
+**AF <48 hours:**
+
+-   Anticoagulation with heparin is sufficient
+
+### Other Preparations
+
+-   Electrolyte check (especially potassium)
+-   Digoxin level check
+-   Thyroid function tests
+-   Echocardiography
+
+## Post-Cardioversion
+
+### Immediately After
+
+-   Rhythm monitoring
+-   Vital signs follow-up
+-   Waiting for sedation effect to wear off
+
+### Long Term
+
+-   Anticoagulation (at least 4 weeks)
+-   Antiarrhythmic medication (recurrence prevention)
+-   Regular check-ups
+
+## Cardioversion Risks
+
+Procedure risks:
+
+-   Thromboembolism/stroke (if anticoagulation inadequate)
+-   Skin burns (rare)
+-   Bradycardia (temporary)
+-   Other arrhythmias
+-   Sedation complications
+
+## Recurrence and Prevention
+
+**Recurrence Rates:**
+
+-   First year: 50-60%
+-   With antiarrhythmic drugs: 30-40%
+
+**Recurrence Prevention:**
+
+-   Antiarrhythmic medications
+-   Treatment of underlying causes
+-   Lifestyle changes
+-   Ablation (in recurrent cases)
+
+## Why Choose Assoc. Prof. Dr. Habib Çil?
+
+I have extensive experience in cardioversion procedures. I provide safe and effective rhythm control.
+
+**My Areas of Expertise:**
+
+-   Electrical cardioversion
+-   Pharmacological cardioversion
+-   Anticoagulation management
+-   Recurrence prevention strategies
+
+## Frequently Asked Questions
+
+{{< faq question="Is cardioversion painful?" >}}
+Electrical cardioversion is performed under sedation, so no pain is felt. There may be mild chest discomfort when you wake up.
+{{< /faq >}}
+
+{{< faq question="How long does cardioversion take?" >}}
+The procedure itself takes a few seconds. Including preparation and recovery, you stay in the hospital for 1-2 hours total.
+{{< /faq >}}
+
+{{< faq question="When can I return to work after cardioversion?" >}}
+Most patients can return to normal activities the next day. You should not drive the same day due to sedation.
+{{< /faq >}}
+
+{{< faq question="Is cardioversion permanent?" >}}
+Cardioversion corrects the rhythm but recurrence may occur. Treatment of underlying causes is important for long-term success.
+{{< /faq >}}
+
+{{< faq question="Do I need to take medication after cardioversion?" >}}
+Yes, anticoagulant and antiarrhythmic medications are usually required. Duration and type are determined by the doctor.
+{{< /faq >}}
+
+## Appointment and Contact
+
+If you would like to schedule an appointment for cardioversion evaluation:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+Book Appointment via WhatsApp
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
+
+📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
+
+---
+
+_This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._

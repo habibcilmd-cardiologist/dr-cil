@@ -1,0 +1,169 @@
+---
+title: "PTCA - Percutaneous Transluminal Coronary Angioplasty"
+description: "Expert PTCA procedure in Istanbul. Assoc. Prof. Dr. Habib Çil performs percutaneous transluminal coronary angioplasty. Balloon angioplasty. Specialist cardiology at Avrasya Hospital."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "TherapeuticProcedure"
+body_location: "Heart"
+translationKey: "ptca"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+PTCA (Percutaneous Transluminal Coronary Angioplasty) is dilation of coronary artery stenosis with balloon. It forms the basis of modern coronary interventions. Assoc. Prof. Dr. Habib Çil has extensive experience in PTCA procedures.
+
+## What is PTCA?
+
+PTCA is dilation of coronary artery stenosis with a balloon at the catheter tip. It was first performed by Andreas Grüntzig in 1977.
+
+**History of PTCA:**
+
+-   1977: First PTCA
+-   1986: First stent
+-   1990s: Drug-eluting stents
+-   Today: Modern PCI
+
+## PTCA Indications
+
+### PTCA Alone
+
+-   Small vessels
+-   Situations where stent placement is difficult
+-   Temporary treatment
+
+### PTCA Before Stent
+
+-   Predilation
+-   Lesion preparation
+-   For stent passage
+
+### PTCA After Stent
+
+-   Postdilation
+-   Optimal expansion
+-   Malapposition correction
+
+## How is PTCA Performed?
+
+### Balloon Types
+
+**Semi-Compliant Balloon:**
+
+-   For predilation
+-   Flexible structure
+-   Low pressure
+
+**Non-Compliant Balloon:**
+
+-   For postdilation
+-   High pressure
+-   Stent expansion
+
+**Cutting Balloon:**
+
+-   Calcified lesions
+-   In-stent restenosis
+-   Fibrotic lesions
+
+### Procedure Steps
+
+1. **Vascular access**: Radial or femoral
+2. **Guide catheter**: To coronary ostium
+3. **Guidewire**: Crossing lesion
+4. **Balloon placement**: Over lesion
+5. **Balloon inflation**: At specific pressure
+6. **Balloon deflation**: Result evaluation
+7. **Re-inflation**: If needed
+
+### Procedure Duration
+
+Total duration: 15-60 minutes
+
+## PTCA Results
+
+### Success Criteria
+
+-   Residual stenosis <50%
+-   TIMI 3 flow
+-   No dissection
+-   No complications
+
+### Complications
+
+-   Dissection
+-   Acute occlusion
+-   Perforation
+-   Spasm
+-   Slow flow
+
+## PTCA vs Stent
+
+| Feature         | PTCA       | Stent     |
+| --------------- | ---------- | --------- |
+| Restenosis      | 30-40%     | 5-10%     |
+| Acute occlusion | Higher     | Lower     |
+| Antiplatelet    | Short-term | Long-term |
+| Cost            | Lower      | Higher    |
+
+## PTCA Today
+
+In modern practice, PTCA is usually performed together with stent implantation. PTCA alone is preferred in rare situations.
+
+**Indications for PTCA Alone:**
+
+-   Very small vessels (<2mm)
+-   Situations where stent placement is technically difficult
+-   Temporary bridge therapy
+
+## Why Choose Assoc. Prof. Dr. Habib Çil?
+
+I have extensive experience in PTCA and coronary interventions. I determine the most appropriate treatment strategy for each patient.
+
+**My Areas of Expertise:**
+
+-   Balloon angioplasty
+-   Complex coronary interventions
+-   Stent implantation
+-   Interventional cardiology
+
+## Frequently Asked Questions
+
+{{< faq question="What is the difference between PTCA and stent?" >}}
+PTCA is only dilation with balloon, stent is placement of permanent metal mesh.
+{{< /faq >}}
+
+{{< faq question="Does the vessel narrow again after PTCA?" >}}
+Restenosis rate with PTCA alone is 30-40%. With stent, this rate drops to 5-10%.
+{{< /faq >}}
+
+{{< faq question="Is PTCA painful?" >}}
+It is performed under local anesthesia. Temporary chest pain may occur during balloon inflation.
+{{< /faq >}}
+
+{{< faq question="How long does PTCA take?" >}}
+The procedure usually takes 15-60 minutes.
+{{< /faq >}}
+
+{{< faq question="When will I be discharged after PTCA?" >}}
+Usually same day or next day discharge is possible.
+{{< /faq >}}
+
+## Appointment and Contact
+
+If you would like to schedule an appointment for PTCA evaluation:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+Book Appointment via WhatsApp
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
+
+📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
+
+---
+
+_This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._

@@ -1,0 +1,172 @@
+---
+title: "Myocardial Perfusion Scintigraphy - Heart Scan"
+description: "Expert myocardial perfusion scintigraphy in Istanbul. Assoc. Prof. Dr. Habib Çil evaluates heart blood flow. Ischemia diagnosis. Specialist cardiology at Avrasya Hospital."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "DiagnosticProcedure"
+body_location: "Heart"
+translationKey: "myocardial-perfusion"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Myocardial perfusion scintigraphy (MPS) is a nuclear medicine imaging method that evaluates blood flow to the heart muscle. It has high accuracy in diagnosing coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in interpreting MPS results.
+
+## What is Myocardial Perfusion Scintigraphy?
+
+MPS images blood flow to the heart muscle using radioactive material (isotope). Ischemia or scar tissue is detected by comparing rest and stress images.
+
+**Advantages of MPS:**
+
+-   High diagnostic accuracy
+-   Quantitative evaluation
+-   Viability detection
+-   Prognostic information
+
+## MPS Indications
+
+### Diagnostic Indications
+
+-   Suspected coronary artery disease
+-   Chest pain evaluation
+-   Inconclusive stress test result
+-   High-risk patients
+
+### Prognostic Evaluation
+
+-   Known coronary artery disease
+-   Post-myocardial infarction
+-   Pre/post-revascularization
+-   Heart failure
+
+### Viability Evaluation
+
+-   Low ejection fraction
+-   Before bypass surgery
+-   Viable myocardium detection
+
+## How is MPS Performed?
+
+### Stress Protocol
+
+**Exercise Stress:**
+
+-   Treadmill or bicycle
+-   Preferred method
+
+**Pharmacological Stress:**
+
+-   Adenosine or dipyridamole
+-   For patients who cannot exercise
+
+### Procedure Steps
+
+1. **Stress application**: Exercise or medication
+2. **Isotope injection**: At peak stress
+3. **Stress imaging**: 15-30 minutes later
+4. **Rest injection**: Separate day or same day
+5. **Rest imaging**: For comparison
+
+### Procedure Duration
+
+Total duration: 3-4 hours (single-day protocol)
+
+## Pre-MPS Preparation
+
+### General Preparation
+
+-   4 hours fasting
+-   Caffeine restriction (24 hours)
+-   Comfortable clothing
+
+### Medication Adjustment
+
+-   Beta blockers (48 hours before)
+-   Calcium channel blockers
+-   Methylxanthines (theophylline)
+
+## MPS Results
+
+### Normal Findings
+
+-   Homogeneous isotope uptake
+-   Rest and stress images similar
+-   No ischemia findings
+
+### Abnormal Findings
+
+| Finding              | Meaning         |
+| -------------------- | --------------- |
+| Reversible defect    | Ischemia        |
+| Fixed defect         | Scar/infarct    |
+| Partially reversible | Ischemia + scar |
+| Transient dilation   | Severe disease  |
+
+## MPS Risks
+
+Risks are low:
+
+-   Radiation exposure (low dose)
+-   Pharmacological stress side effects
+-   Allergic reaction (rare)
+
+## MPS vs Other Tests
+
+| Test        | Advantage               | Disadvantage       |
+| ----------- | ----------------------- | ------------------ |
+| MPS         | Quantitative, viability | Radiation          |
+| Stress Echo | No radiation            | Operator dependent |
+| Coronary CT | Anatomical imaging      | No functional info |
+
+## Why Choose Assoc. Prof. Dr. Habib Çil?
+
+I have extensive experience in interpreting MPS results. I make correct treatment decisions by evaluating results together with clinical findings.
+
+**My Areas of Expertise:**
+
+-   MPS interpretation
+-   Ischemia evaluation
+-   Viability detection
+-   Treatment planning
+
+## Frequently Asked Questions
+
+{{< faq question="Does MPS contain radiation?" >}}
+Yes, it contains low-dose radiation. However, its diagnostic benefit far outweighs the radiation risk.
+{{< /faq >}}
+
+{{< faq question="How long does MPS take?" >}}
+Total duration is 3-4 hours in single-day protocol.
+{{< /faq >}}
+
+{{< faq question="Do I need to fast for MPS?" >}}
+Yes, food should not be eaten 4 hours before the procedure.
+{{< /faq >}}
+
+{{< faq question="When do MPS results come out?" >}}
+Results are usually reported within 1-2 days.
+{{< /faq >}}
+
+{{< faq question="Can MPS be done during pregnancy?" >}}
+No, tests containing radiation are not performed during pregnancy.
+{{< /faq >}}
+
+## Appointment and Contact
+
+If you would like to schedule an appointment for myocardial perfusion scintigraphy:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+Book Appointment via WhatsApp
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
+
+📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
+
+---
+
+_This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._

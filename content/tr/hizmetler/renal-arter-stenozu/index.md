@@ -1,0 +1,172 @@
+---
+title: "Renal Arter Stenozu - Böbrek Damar Darlığı"
+description: "İstanbul'da renal arter stenozu tedavisi. Doç. Dr. Habib Çil ile böbrek damar darlığı. Stent ve anjiyoplasti. Avrasya Hospital'da uzman kardiyoloji."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "TherapeuticProcedure"
+body_location: "Kidney"
+translationKey: "renal-artery-stenosis"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Renal arter stenozu, böbreği besleyen arterin daralmasıdır. Hipertansiyon ve böbrek yetmezliğine yol açabilir. Doç. Dr. Habib Çil, renal arter stenozu tanı ve tedavisinde geniş deneyime sahiptir.
+
+## Renal Arter Stenozu Nedir?
+
+Renal arter stenozu, böbrek arterinin %50'den fazla daralmasıdır. Bu durum böbreğe kan akışını azaltır ve renin-anjiyotensin sistemini aktive eder.
+
+**Renal Arter Stenozu Sonuçları:**
+
+-   Renovasküler hipertansiyon
+-   İskemik nefropati
+-   Böbrek yetmezliği
+-   Kalp yetmezliği
+
+## Renal Arter Stenozu Nedenleri
+
+### Ateroskleroz (%90)
+
+-   En sık neden
+-   Genellikle ostial
+-   Yaşlı hastalarda
+-   Diğer ateroskleroz ile birlikte
+
+### Fibromusküler Displazi (%10)
+
+-   Genç kadınlarda
+-   Orta-distal segment
+-   Boncuk dizisi görünümü
+-   Daha iyi prognoz
+
+### Diğer Nedenler
+
+-   Arterit
+-   Diseksiyon
+-   Nörofibromatozis
+-   Radyasyon
+
+## Renal Arter Stenozu Belirtileri
+
+### Hipertansiyon
+
+-   Dirençli hipertansiyon
+-   Genç yaşta başlangıç
+-   Ani kötüleşme
+-   ACE inhibitörü ile böbrek fonksiyon bozukluğu
+
+### Böbrek Bulguları
+
+-   Böbrek boyut asimetrisi
+-   Açıklanamayan böbrek yetmezliği
+-   Tekrarlayan akciğer ödemi
+
+## Renal Arter Stenozu Tanısı
+
+### Görüntüleme
+
+-   Doppler ultrasonografi (tarama)
+-   BT Anjiyografi
+-   MR Anjiyografi
+-   Konvansiyonel anjiyografi (altın standart)
+
+### Doppler Kriterleri
+
+| Parametre | Anlamlı Stenoz |
+| --------- | -------------- |
+| PSV       | >200 cm/s      |
+| RAR       | >3.5           |
+| AT        | >0.07 s        |
+
+## Renal Arter Stenozu Tedavisi
+
+### Medikal Tedavi
+
+-   Antihipertansif ilaçlar
+-   Statin tedavisi
+-   Aspirin
+-   Risk faktörü kontrolü
+
+### Endovasküler Tedavi
+
+**Renal Arter Stentleme:**
+
+-   Aterosklerotik stenozda
+-   Ostial lezyonlarda
+-   Balon anjiyoplasti + stent
+
+**Balon Anjiyoplasti:**
+
+-   Fibromusküler displazide
+-   Stent olmadan etkili
+-   Yüksek başarı oranı
+
+## Renal Arter Stentleme İşlemi
+
+### İşlem Adımları
+
+1. Femoral arter erişimi
+2. Renal arter anjiyografisi
+3. Kılavuz tel ile geçiş
+4. Balon predilatasyon
+5. Stent yerleştirme
+6. Kontrol anjiyografi
+
+### Başarı Kriterleri
+
+-   Rezidüel stenoz <%30
+-   Kan basıncı düşüşü
+-   Böbrek fonksiyonu korunması
+
+## Neden Doç. Dr. Habib Çil?
+
+Renal arter stenozu tanı ve tedavisinde geniş deneyime sahibim. Uygun hasta seçimi ile başarılı sonuçlar elde ediyorum.
+
+**Uzmanlık Alanlarım:**
+
+-   Renal arter stentleme
+-   Renovasküler hipertansiyon
+-   Periferik vasküler girişimler
+-   Doppler değerlendirmesi
+
+## Sık Sorulan Sorular
+
+{{< faq question="Renal arter stenozu tehlikeli mi?" >}}
+Evet, tedavi edilmezse böbrek yetmezliği ve kontrolsüz hipertansiyona yol açabilir.
+{{< /faq >}}
+
+{{< faq question="Renal arter stentleme nasıl yapılır?" >}}
+Kasıktan girilerek böbrek arterine stent yerleştirilir. Lokal anestezi ile yapılır.
+{{< /faq >}}
+
+{{< faq question="Stent sonrası tansiyon düşer mi?" >}}
+Uygun hastalarda tansiyon kontrolü iyileşir veya ilaç ihtiyacı azalır.
+{{< /faq >}}
+
+{{< faq question="Renal arter stenti kalıcı mı?" >}}
+Evet, stent kalıcıdır. Düzenli takip gerekir.
+{{< /faq >}}
+
+{{< faq question="Fibromusküler displazide tedavi farklı mı?" >}}
+Evet, genellikle sadece balon anjiyoplasti yeterlidir, stent gerekmez.
+{{< /faq >}}
+
+## Randevu ve İletişim
+
+Renal arter stenozu değerlendirmesi için randevu almak isterseniz:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+WhatsApp ile Randevu Al
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+
+📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+---
+
+_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._

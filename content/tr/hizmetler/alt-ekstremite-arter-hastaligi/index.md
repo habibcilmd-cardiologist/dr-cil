@@ -1,0 +1,179 @@
+---
+title: "Alt Ekstremite Arter Hastalığı - Periferik Arter Hastalığı"
+description: "İstanbul'da alt ekstremite arter hastalığı tedavisi. Doç. Dr. Habib Çil ile periferik arter hastalığı. Anjiyoplasti ve stent. Avrasya Hospital'da uzman kardiyoloji."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "TherapeuticProcedure"
+body_location: "Lower Extremity"
+translationKey: "lower-extremity-arterial-disease"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Alt ekstremite arter hastalığı (AEAH), bacak arterlerinin ateroskleroz nedeniyle daralmasıdır. Yürüme ağrısı ve ileri evrelerde gangrene yol açabilir. Doç. Dr. Habib Çil, alt ekstremite arter hastalığı tanı ve tedavisinde geniş deneyime sahiptir.
+
+## Alt Ekstremite Arter Hastalığı Nedir?
+
+Alt ekstremite arter hastalığı, bacak arterlerinin aterosklerotik plak birikimi nedeniyle daralmasıdır. Kan akışı azalır ve bacak kasları yeterli oksijen alamaz.
+
+**Etkilenen Arterler:**
+
+-   Aortoiliak segment
+-   Femoral arterler
+-   Popliteal arter
+-   Tibial arterler
+
+## Alt Ekstremite Arter Hastalığı Nedenleri
+
+### Risk Faktörleri
+
+-   Sigara (en önemli)
+-   Diyabet
+-   Hipertansiyon
+-   Hiperlipidemi
+-   İleri yaş
+
+### Diğer Faktörler
+
+-   Aile öyküsü
+-   Obezite
+-   Sedanter yaşam
+-   Kronik böbrek hastalığı
+
+## Alt Ekstremite Arter Hastalığı Belirtileri
+
+### Kladikasyon (Aralıklı Topallama)
+
+-   Yürürken bacak ağrısı
+-   Dinlenince geçer
+-   Belirli mesafede başlar
+-   En sık baldır ağrısı
+
+### Kritik Bacak İskemisi
+
+-   İstirahat ağrısı
+-   Ayak yarası
+-   Gangren
+-   Ampütasyon riski
+
+### Fontaine Sınıflaması
+
+| Evre | Bulgular                       |
+| ---- | ------------------------------ |
+| I    | Asemptomatik                   |
+| IIa  | Hafif kladikasyon (>200m)      |
+| IIb  | Orta-ciddi kladikasyon (<200m) |
+| III  | İstirahat ağrısı               |
+| IV   | Ülser/Gangren                  |
+
+## Alt Ekstremite Arter Hastalığı Tanısı
+
+### Fizik Muayene
+
+-   Nabız muayenesi
+-   Ayak-bilek basınç indeksi (ABI)
+-   Kapiller dolum zamanı
+
+### Görüntüleme
+
+-   Doppler ultrasonografi
+-   BT Anjiyografi
+-   MR Anjiyografi
+-   Konvansiyonel anjiyografi
+
+### ABI Değerlendirmesi
+
+| ABI     | Yorum              |
+| ------- | ------------------ |
+| >1.3    | Kalsifiye arterler |
+| 0.9-1.3 | Normal             |
+| 0.7-0.9 | Hafif hastalık     |
+| 0.4-0.7 | Orta hastalık      |
+| <0.4    | Ciddi hastalık     |
+
+## Alt Ekstremite Arter Hastalığı Tedavisi
+
+### Medikal Tedavi
+
+-   Sigarayı bırakma
+-   Egzersiz programı
+-   Antiplatelet tedavi
+-   Statin tedavisi
+-   Diyabet kontrolü
+
+### Endovasküler Tedavi
+
+**Balon Anjiyoplasti:**
+
+-   Kısa segment darlıklarda
+-   Femoral ve popliteal arterlerde
+
+**Stent:**
+
+-   İliak arterlerde
+-   Uzun segment lezyonlarda
+-   Diseksiyon durumunda
+
+**İlaç Kaplı Balon/Stent:**
+
+-   Restenoz riskini azaltır
+-   Femoral arterlerde tercih
+
+### Cerrahi Tedavi
+
+-   Bypass cerrahisi
+-   Endarterektomi
+-   Hibrit prosedürler
+
+## Neden Doç. Dr. Habib Çil?
+
+Alt ekstremite arter hastalığı tanı ve tedavisinde geniş deneyime sahibim. Modern endovasküler tekniklerle bacak kurtarma oranlarını artırıyorum.
+
+**Uzmanlık Alanlarım:**
+
+-   Periferik anjiyoplasti
+-   İliak stentleme
+-   Kritik bacak iskemisi tedavisi
+-   Kompleks periferik girişimler
+
+## Sık Sorulan Sorular
+
+{{< faq question="Yürürken bacak ağrısı neden olur?" >}}
+Bacak arterlerinin daralması nedeniyle kaslar yeterli kan alamaz ve ağrı oluşur.
+{{< /faq >}}
+
+{{< faq question="Periferik arter hastalığı tedavi edilebilir mi?" >}}
+Evet, medikal tedavi, endovasküler girişim veya cerrahi ile tedavi edilebilir.
+{{< /faq >}}
+
+{{< faq question="Stent sonrası yürüme mesafesi artar mı?" >}}
+Evet, başarılı tedavi sonrası yürüme mesafesi belirgin şekilde artar.
+{{< /faq >}}
+
+{{< faq question="Kritik bacak iskemisi nedir?" >}}
+İstirahat ağrısı, yara veya gangren ile karakterize ileri evre hastalıktır.
+{{< /faq >}}
+
+{{< faq question="Sigara bırakılmalı mı?" >}}
+Evet, sigara hastalığın en önemli nedenidir ve tedavi başarısını etkiler.
+{{< /faq >}}
+
+## Randevu ve İletişim
+
+Alt ekstremite arter hastalığı değerlendirmesi için randevu almak isterseniz:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+WhatsApp ile Randevu Al
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+
+📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+---
+
+_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._

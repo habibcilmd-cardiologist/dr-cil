@@ -592,6 +592,7 @@ button:focus-visible {
 }
 
 .service-card {
+	display: block;
 	background: rgb(var(--color-neutral-100));
 	border: 1px solid rgb(var(--color-neutral-200));
 	border-radius: 1rem;
@@ -600,6 +601,17 @@ button:focus-visible {
 	transition: all 0.3s ease;
 	position: relative;
 	overflow: hidden;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+/* Link card specific styles */
+a.service-card {
+	color: inherit;
+}
+
+a.service-card:hover {
+	text-decoration: none;
 }
 
 .dark .service-card {

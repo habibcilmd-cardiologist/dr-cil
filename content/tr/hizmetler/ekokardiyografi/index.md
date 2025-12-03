@@ -1,0 +1,191 @@
+---
+title: "Ekokardiyografi - Kalp Ultrasonografisi"
+description: "İstanbul'da ekokardiyografi. Doç. Dr. Habib Çil ile kalp ultrason değerlendirmesi. Transtorasik ve transözofageal eko. Avrasya Hospital'da uzman kardiyoloji."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "DiagnosticProcedure"
+body_location: "Heart"
+translationKey: "echocardiography"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Ekokardiyografi, ultrason dalgaları kullanarak kalbin yapısını ve fonksiyonunu değerlendiren non-invaziv bir görüntüleme yöntemidir. Kardiyolojide en değerli tanı araçlarından biridir. Doç. Dr. Habib Çil, ekokardiyografi yorumlamasında geniş deneyime sahiptir.
+
+## Ekokardiyografi Nedir?
+
+Ekokardiyografi, ses dalgalarını kullanarak kalbin gerçek zamanlı hareketli görüntülerini oluşturur. Bu sayede kalp odacıkları, kapaklar, duvarlar ve büyük damarlar detaylı olarak incelenebilir.
+
+**Ekokardiyografinin Değerlendirdiği Yapılar:**
+
+-   Kalp odacıkları (atriyum ve ventriküller)
+-   Kalp kapakları
+-   Kalp duvarları
+-   Perikard (kalp zarı)
+-   Büyük damarlar (aort, pulmoner arter)
+
+## Ekokardiyografi Türleri
+
+### Transtorasik Ekokardiyografi (TTE)
+
+-   En yaygın kullanılan yöntem
+-   Göğüs duvarı üzerinden yapılır
+-   Ağrısız ve non-invaziv
+-   20-45 dakika sürer
+
+### Transözofageal Ekokardiyografi (TEE)
+
+-   Yemek borusu yoluyla yapılır
+-   Daha detaylı görüntüleme
+-   Kapak hastalıkları ve trombüs tespiti
+-   Sedasyon gerektirir
+
+### Stres Ekokardiyografi
+
+-   Egzersiz veya ilaç ile stres altında
+-   İskemi değerlendirmesi
+-   Koroner arter hastalığı tanısı
+
+### 3D Ekokardiyografi
+
+-   Üç boyutlu görüntüleme
+-   Kapak anatomisi değerlendirmesi
+-   Cerrahi planlama
+
+## Ekokardiyografi Endikasyonları
+
+### Semptom Değerlendirmesi
+
+-   Nefes darlığı
+-   Göğüs ağrısı
+-   Çarpıntı
+-   Bacaklarda şişlik
+-   Bayılma
+
+### Hastalık Tanı ve Takibi
+
+-   Kalp yetmezliği
+-   Kapak hastalıkları
+-   Kardiyomiyopati
+-   Konjenital kalp hastalıkları
+-   Perikardit
+-   Endokardit şüphesi
+
+### Diğer Endikasyonlar
+
+-   Kalp krizi sonrası değerlendirme
+-   Ameliyat öncesi değerlendirme
+-   Tedavi yanıtı takibi
+-   Sporcu taraması
+
+## Ekokardiyografide Ölçülen Parametreler
+
+### Sol Ventrikül Değerlendirmesi
+
+| Parametre                    | Normal Değer |
+| ---------------------------- | ------------ |
+| Ejeksiyon fraksiyonu (EF)    | %55-70       |
+| Sol ventrikül çapı (diastol) | 35-56 mm     |
+| Sol ventrikül çapı (sistol)  | 25-40 mm     |
+| Duvar kalınlığı              | 6-11 mm      |
+
+### Kapak Değerlendirmesi
+
+-   Kapak yapısı ve hareketi
+-   Darlık (stenoz) derecesi
+-   Yetersizlik (regürjitasyon) derecesi
+-   Kapak alanı hesaplaması
+-   Basınç gradiyentleri
+
+### Diğer Ölçümler
+
+-   Sağ ventrikül fonksiyonu
+-   Pulmoner arter basıncı
+-   Diyastolik fonksiyon
+-   Perikard sıvısı
+
+## Ekokardiyografi Nasıl Yapılır?
+
+### Hazırlık (TTE için)
+
+-   Özel hazırlık gerekmez
+-   Üst giysilerin çıkarılması
+-   Sol yan yatış pozisyonu
+
+### İşlem Adımları
+
+1. **Jel uygulaması**: Göğüs bölgesine
+2. **Prob yerleştirme**: Farklı pencerelerden
+3. **Görüntüleme**: Gerçek zamanlı kayıt
+4. **Ölçümler**: Standart parametreler
+5. **Raporlama**: Detaylı değerlendirme
+
+## Ekokardiyografi Sonuçları
+
+### Normal Bulgular
+
+-   Normal kalp boyutları
+-   Normal kapak fonksiyonu
+-   Normal ejeksiyon fraksiyonu
+-   Perikard sıvısı yok
+
+### Anormal Bulgular
+
+-   Kalp büyümesi
+-   Kapak darlığı veya yetersizliği
+-   Duvar hareket bozukluğu
+-   Düşük ejeksiyon fraksiyonu
+-   Perikard sıvısı
+
+## Neden Doç. Dr. Habib Çil?
+
+Ekokardiyografi yorumlamasında geniş deneyime sahibim. Karmaşık kalp hastalıklarının tanısında ekokardiyografiyi etkin kullanıyorum.
+
+**Uzmanlık Alanlarım:**
+
+-   Transtorasik ekokardiyografi
+-   Stres ekokardiyografi
+-   Kapak hastalıkları değerlendirmesi
+-   Kalp yetmezliği takibi
+
+## Sık Sorulan Sorular
+
+{{< faq question="Ekokardiyografi ağrılı mı?" >}}
+Hayır, transtorasik ekokardiyografi tamamen ağrısız bir işlemdir. Sadece göğse jel sürülür ve prob ile görüntüleme yapılır.
+{{< /faq >}}
+
+{{< faq question="Ekokardiyografi ne kadar sürer?" >}}
+Standart transtorasik ekokardiyografi 20-45 dakika sürer.
+{{< /faq >}}
+
+{{< faq question="Ekokardiyografi için aç olmak gerekir mi?" >}}
+Transtorasik eko için aç olmak gerekmez. Transözofageal eko için 6 saat açlık gerekir.
+{{< /faq >}}
+
+{{< faq question="Ekokardiyografi zararlı mı?" >}}
+Hayır, ultrason dalgaları kullanıldığı için radyasyon içermez ve tamamen güvenlidir.
+{{< /faq >}}
+
+{{< faq question="Ekokardiyografi sonucu ne zaman çıkar?" >}}
+Sonuçlar genellikle aynı gün değerlendirilir ve raporlanır.
+{{< /faq >}}
+
+## Randevu ve İletişim
+
+Ekokardiyografi için randevu almak isterseniz:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+WhatsApp ile Randevu Al
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+
+📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+---
+
+_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._

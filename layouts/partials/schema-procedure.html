@@ -1,0 +1,107 @@
+{{/*
+=============================================================================
+Dr. Habib ÇİL - MedicalProcedure Schema Partial Generates JSON-LD for medical
+procedure pages
+=============================================================================
+*/}} {{ if .File }} {{ if or (in .File.Path "hizmetler/") (in .File.Path
+"services/") }} {{ if not (eq .File.ContentBaseName "index") }}
+<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@graph": [
+	    {
+	      "@type": "MedicalProcedure",
+	      "@id": "{{ .Permalink }}#procedure",
+	      "name": "{{ .Title }}",
+	      "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | truncate 300 }}{{ end }}",
+	      "url": "{{ .Permalink }}",
+	      "procedureType": {{ with .Params.procedure_type }}"{{ . }}"{{ else }}"PercutaneousProcedure"{{ end }},
+	      "bodyLocation": {{ with .Params.body_location }}"{{ . }}"{{ else }}"Heart"{{ end }},
+	      "status": "https://schema.org/EventScheduled",
+	      "preparation": {{ if eq .Site.Language.Lang "tr" }}"İşlem öncesi hazırlık talimatları doktorunuz tarafından verilecektir."{{ else }}"Pre-procedure preparation instructions will be provided by your doctor."{{ end }},
+	      "followup": {{ if eq .Site.Language.Lang "tr" }}"İşlem sonrası takip randevuları planlanacaktır."{{ else }}"Post-procedure follow-up appointments will be scheduled."{{ end }},
+	      "howPerformed": "{{ with .Params.how_performed }}{{ . }}{{ else }}{{ if eq .Site.Language.Lang "tr" }}Modern tıbbi ekipmanlarla uzman kardiyolog tarafından gerçekleştirilir.{{ else }}Performed by specialist cardiologist using modern medical equipment.{{ end }}{{ end }}",
+	      "medicalSpecialty": {
+	        "@type": "MedicalSpecialty",
+	        "name": {{ with .Params.medical_specialty }}"{{ . }}"{{ else }}"Cardiology"{{ end }}
+	      },
+	      "recognizingAuthority": {
+	        "@type": "Organization",
+	        "name": {{ if eq .Site.Language.Lang "tr" }}"Türk Kardiyoloji Derneği"{{ else }}"Turkish Society of Cardiology"{{ end }}
+	      },
+	      "performedBy": {
+	        "@type": "Physician",
+	        "@id": "{{ .Site.BaseURL }}#physician",
+	        "name": "Doç. Dr. Habib ÇİL",
+	        "medicalSpecialty": "Cardiology"
+	      },
+	      "availableService": {
+	        "@type": "MedicalClinic",
+	        "@id": "{{ .Site.BaseURL }}#clinic",
+	        "name": "Avrasya Hospital",
+	        "telephone": "+90 212 665 50 50"
+	      }
+	    },
+	    {
+	      "@type": "MedicalWebPage",
+	      "@id": "{{ .Permalink }}#webpage",
+	      "name": "{{ .Title }}",
+	      "description": "{{ with .Description }}{{ . }}{{ end }}",
+	      "url": "{{ .Permalink }}",
+	      "inLanguage": "{{ .Site.Language.Lang }}",
+	      "datePublished": "{{ .Date.Format "2006-01-02" }}",
+	      "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+	      "author": {
+	        "@type": "Physician",
+	        "@id": "{{ .Site.BaseURL }}#physician"
+	      },
+	      "reviewedBy": {
+	        "@type": "Physician",
+	        "@id": "{{ .Site.BaseURL }}#physician"
+	      },
+	      "lastReviewed": "{{ .Lastmod.Format "2006-01-02" }}",
+	      "mainEntity": {
+	        "@id": "{{ .Permalink }}#procedure"
+	      },
+	      "about": {
+	        "@type": "MedicalCondition",
+	        "name": "{{ .Title }}"
+	      },
+	      "specialty": {
+	        "@type": "MedicalSpecialty",
+	        "name": "Cardiology"
+	      },
+	      "isPartOf": {
+	        "@type": "WebSite",
+	        "name": "{{ .Site.Title }}",
+	        "url": "{{ .Site.BaseURL }}"
+	      }
+	    },
+	    {
+	      "@type": "BreadcrumbList",
+	      "@id": "{{ .Permalink }}#breadcrumb",
+	      "itemListElement": [
+	        {
+	          "@type": "ListItem",
+	          "position": 1,
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Ana Sayfa"{{ else }}"Home"{{ end }},
+	          "item": "{{ .Site.BaseURL }}"
+	        },
+	        {
+	          "@type": "ListItem",
+	          "position": 2,
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Hizmetler"{{ else }}"Services"{{ end }},
+	          "item": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr/hizmetler/{{ else }}services/{{ end }}"
+	        },
+	        {
+	          "@type": "ListItem",
+	          "position": 3,
+	          "name": "{{ .Title }}",
+	          "item": "{{ .Permalink }}"
+	        }
+	      ]
+	    }
+	  ]
+	}
+</script>
+{{ end }} {{ end }} {{ end }}

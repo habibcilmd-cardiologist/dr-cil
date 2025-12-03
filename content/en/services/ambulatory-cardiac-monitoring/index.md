@@ -1,0 +1,172 @@
+---
+title: "Ambulatory Cardiac Monitoring - Outpatient Heart Monitoring"
+description: "Expert ambulatory cardiac monitoring in Istanbul. Assoc. Prof. Dr. Habib Çil provides outpatient heart rhythm monitoring. Holter, event recorder. Specialist cardiology at Avrasya Hospital."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "DiagnosticProcedure"
+body_location: "Heart"
+translationKey: "ambulatory-cardiac-monitoring"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Ambulatory cardiac monitoring is continuous recording of heart rhythm during daily life. Assoc. Prof. Dr. Habib Çil has extensive experience in ambulatory cardiac monitoring and evaluation.
+
+## What is Ambulatory Cardiac Monitoring?
+
+Ambulatory cardiac monitoring is recording heart rhythm during patient's daily activities. It is important in evaluating intermittent symptoms.
+
+**Types of Monitoring:**
+
+-   Holter monitor (24-48 hours)
+-   Event recorder (weeks)
+-   Implantable loop recorder (years)
+-   Mobile cardiac telemetry
+
+## Ambulatory Monitoring Indications
+
+### Symptom Evaluation
+
+-   Palpitations
+-   Dizziness
+-   Syncope (fainting)
+-   Chest pain
+
+### Arrhythmia Detection
+
+-   Atrial fibrillation
+-   Supraventricular tachycardia
+-   Ventricular arrhythmias
+-   Bradycardia
+
+### Treatment Follow-up
+
+-   Antiarrhythmic drug efficacy
+-   Post-ablation
+-   Pacemaker control
+-   ICD control
+
+## Holter Monitor
+
+### Features
+
+-   24-48 hours continuous recording
+-   Recording of all heartbeats
+-   Symptom diary
+-   Activity correlation
+
+### Indications
+
+-   Frequent symptoms
+-   Arrhythmia suspicion
+-   Drug efficacy evaluation
+
+### How is it Done?
+
+1. **Electrode placement**: On chest
+2. **Device connection**: Recording device
+3. **Normal activity**: Daily life
+4. **Symptom recording**: Keeping diary
+5. **Device return**: After 24-48 hours
+6. **Analysis**: Expert evaluation
+
+## Event Recorder
+
+### Features
+
+-   Weeks of monitoring
+-   Recording at symptom onset
+-   Activated by patient
+-   For rare symptoms
+
+### Types
+
+**Loop Recorder:**
+
+-   Continuous recording
+-   Retrospective recording
+-   Patient activation
+
+**Post-Event Recorder:**
+
+-   Recording at symptom onset
+-   Patient activation
+-   Short recording duration
+
+## Implantable Loop Recorder
+
+### Features
+
+-   Subcutaneous placement
+-   Up to 3 years monitoring
+-   Automatic recording
+-   Remote monitoring
+
+### Indications
+
+-   Unexplained syncope
+-   Cryptogenic stroke
+-   Rare arrhythmias
+-   Long-term monitoring need
+
+## Mobile Cardiac Telemetry
+
+### Features
+
+-   Real-time monitoring
+-   Automatic alarm
+-   Remote evaluation
+-   Weeks of monitoring
+
+## Why Choose Assoc. Prof. Dr. Habib Çil?
+
+I have extensive experience in ambulatory cardiac monitoring and evaluation. I determine the most appropriate monitoring method for each patient.
+
+**My Areas of Expertise:**
+
+-   Holter analysis
+-   Event recorder evaluation
+-   Arrhythmia diagnosis
+-   Electrophysiology
+
+## Frequently Asked Questions
+
+{{< faq question="Can I shower while wearing Holter?" >}}
+No, the device is not waterproof. You should avoid showering.
+{{< /faq >}}
+
+{{< faq question="Does Holter affect my daily activities?" >}}
+No, you can continue your normal activities.
+{{< /faq >}}
+
+{{< faq question="How long is event recorder worn?" >}}
+It can last weeks depending on symptom frequency.
+{{< /faq >}}
+
+{{< faq question="Is implantable loop recorder surgery?" >}}
+No, it is a small procedure under local anesthesia.
+{{< /faq >}}
+
+{{< faq question="When do Holter results come out?" >}}
+Usually results are ready within 1-2 days.
+{{< /faq >}}
+
+## Appointment and Contact
+
+If you would like to schedule an appointment for ambulatory cardiac monitoring:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+Book Appointment via WhatsApp
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
+
+📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
+
+---
+
+_This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._

@@ -1,0 +1,165 @@
+---
+title: "Kalp Nakli - Kalp Transplantasyonu"
+description: "İstanbul'da kalp nakli değerlendirmesi. Doç. Dr. Habib Çil ile kalp transplantasyonu öncesi ve sonrası takip. Avrasya Hospital'da uzman kardiyoloji."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "TherapeuticProcedure"
+body_location: "Heart"
+translationKey: "heart-transplant"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Kalp nakli, son dönem kalp yetmezliğinde uygulanan hayat kurtarıcı cerrahi işlemdir. Doç. Dr. Habib Çil, kalp nakli öncesi değerlendirme ve sonrası takipte geniş deneyime sahiptir.
+
+## Kalp Nakli Nedir?
+
+Kalp nakli, hastalıklı kalbin çıkarılarak beyin ölümü gerçekleşmiş bir donörden alınan sağlıklı kalp ile değiştirilmesidir. Son dönem kalp yetmezliğinde son çare tedavidir.
+
+**Kalp Nakli Türleri:**
+
+-   Ortotopik kalp nakli (standart)
+-   Heterotopik kalp nakli (nadir)
+
+## Kalp Nakli Endikasyonları
+
+### Kesin Endikasyonlar
+
+-   Son dönem kalp yetmezliği
+-   Refrakter kardiyojenik şok
+-   Tedaviye dirençli ventriküler aritmiler
+-   Konjenital kalp hastalığı (düzeltilemez)
+
+### Değerlendirme Kriterleri
+
+-   Maksimal medikal tedaviye rağmen semptomlar
+-   VO2 max <12-14 ml/kg/dk
+-   Ejeksiyon fraksiyonu <%20
+-   Tekrarlayan hastane yatışları
+
+## Kalp Nakli Kontrendikasyonları
+
+### Mutlak Kontrendikasyonlar
+
+-   Aktif enfeksiyon
+-   Aktif malignite
+-   İrreversible pulmoner hipertansiyon
+-   Ciddi periferik veya serebrovasküler hastalık
+
+### Göreceli Kontrendikasyonlar
+
+-   İleri yaş (>70)
+-   Obezite
+-   Diyabet (komplikasyonlu)
+-   Psikososyal sorunlar
+
+## Kalp Nakli Süreci
+
+### Değerlendirme
+
+-   Kapsamlı kardiyak değerlendirme
+-   Sağ kalp kateterizasyonu
+-   Pulmoner vasküler direnç ölçümü
+-   Multidisipliner değerlendirme
+
+### Bekleme Listesi
+
+-   Ulusal organ nakli bekleme listesi
+-   Aciliyet durumuna göre sıralama
+-   Kan grubu ve doku uyumu
+-   Bekleme süresi değişken
+
+### Ameliyat
+
+-   Donör kalbin alınması
+-   Hasta kalbinin çıkarılması
+-   Yeni kalbin yerleştirilmesi
+-   Damar bağlantıları
+
+### Ameliyat Süresi
+
+Toplam süre: 4-8 saat
+
+## Kalp Nakli Sonrası
+
+### İmmünosupresyon
+
+-   Ömür boyu ilaç kullanımı
+-   Rejeksiyon önleme
+-   Enfeksiyon riski
+-   Düzenli takip
+
+### Takip
+
+-   Sık endomiyokardiyal biyopsi
+-   Ekokardiyografi
+-   Koroner anjiyografi
+-   Laboratuvar testleri
+
+## Kalp Nakli Sonuçları
+
+### Sağkalım Oranları
+
+-   1 yıllık sağkalım: %85-90
+-   5 yıllık sağkalım: %70-75
+-   10 yıllık sağkalım: %50-55
+
+### Yaşam Kalitesi
+
+-   Semptomların düzelmesi
+-   Egzersiz kapasitesinin artması
+-   Normal yaşama dönüş
+-   İş ve sosyal aktivite
+
+## Neden Doç. Dr. Habib Çil?
+
+Kalp nakli öncesi değerlendirme ve sonrası takipte geniş deneyime sahibim. Multidisipliner ekip ile çalışıyorum.
+
+**Uzmanlık Alanlarım:**
+
+-   Nakil öncesi değerlendirme
+-   Nakil sonrası takip
+-   İleri kalp yetmezliği
+-   Mekanik destek cihazları
+
+## Sık Sorulan Sorular
+
+{{< faq question="Kalp nakli sonrası ne kadar yaşarım?" >}}
+1 yıllık sağkalım %85-90, 10 yıllık sağkalım %50-55 civarındadır.
+{{< /faq >}}
+
+{{< faq question="Kalp nakli sonrası ilaç kullanımı gerekli mi?" >}}
+Evet, ömür boyu immünosupresif ilaç kullanımı gereklidir.
+{{< /faq >}}
+
+{{< faq question="Kalp nakli bekleme süresi ne kadar?" >}}
+Bekleme süresi değişkendir. Aciliyet durumu ve uygun donör bulunmasına bağlıdır.
+{{< /faq >}}
+
+{{< faq question="Kalp nakli sonrası normal yaşam mümkün mü?" >}}
+Evet, birçok hasta normal yaşama dönebilir.
+{{< /faq >}}
+
+{{< faq question="Kalp nakli için yaş sınırı var mı?" >}}
+Genellikle 70 yaş üstü göreceli kontrendikasyondur.
+{{< /faq >}}
+
+## Randevu ve İletişim
+
+Kalp nakli değerlendirmesi için randevu almak isterseniz:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+WhatsApp ile Randevu Al
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+
+📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+---
+
+_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._

@@ -1,0 +1,190 @@
+---
+title: "Mitral Kapak Hastalığı - Mitral Darlığı ve Yetersizliği"
+description: "İstanbul'da mitral kapak hastalığı tedavisi. Doç. Dr. Habib Çil ile mitral darlığı ve yetersizliği. Balon valvüloplasti ve MitraClip. Avrasya Hospital'da uzman kardiyoloji."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "TherapeuticProcedure"
+body_location: "Heart"
+translationKey: "mitral-valve"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Mitral kapak hastalığı, sol atriyum ile sol ventrikül arasındaki kapağın işlev bozukluğudur. Mitral darlığı ve mitral yetersizliği olmak üzere iki ana formu vardır. Doç. Dr. Habib Çil, mitral kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
+
+## Mitral Kapak Hastalığı Nedir?
+
+Mitral kapak, sol atriyumdan sol ventriküle kan akışını düzenler. Kapak hastalığında bu işlev bozulur ve kalp üzerinde ek yük oluşur.
+
+**Mitral Kapak Hastalığı Türleri:**
+
+-   Mitral darlığı (stenoz)
+-   Mitral yetersizliği (regürjitasyon)
+-   Mitral kapak prolapsusu
+-   Kombine mitral kapak hastalığı
+
+## Mitral Darlığı (Mitral Stenoz)
+
+### Nedenleri
+
+-   Romatizmal kalp hastalığı (en sık)
+-   Dejeneratif kalsifikasyon
+-   Konjenital mitral darlığı
+-   Sistemik hastalıklar
+
+### Semptomlar
+
+-   Nefes darlığı
+-   Çarpıntı (atriyal fibrilasyon)
+-   Yorgunluk
+-   Hemoptizi (kan tükürme)
+-   Bacaklarda şişlik
+
+### Derecelendirme
+
+| Derece | Kapak Alanı | Ortalama Gradiyent |
+| ------ | ----------- | ------------------ |
+| Hafif  | >1.5 cm²    | <5 mmHg            |
+| Orta   | 1.0-1.5 cm² | 5-10 mmHg          |
+| Ciddi  | <1.0 cm²    | >10 mmHg           |
+
+## Mitral Yetersizliği (Mitral Regürjitasyon)
+
+### Nedenleri
+
+**Primer (Organik):**
+
+-   Mitral kapak prolapsusu
+-   Romatizmal hastalık
+-   Endokardit
+-   Dejeneratif değişiklikler
+
+**Sekonder (Fonksiyonel):**
+
+-   Dilate kardiyomiyopati
+-   İskemik kalp hastalığı
+-   Sol ventrikül dilatasyonu
+
+### Semptomlar
+
+-   Nefes darlığı
+-   Yorgunluk
+-   Çarpıntı
+-   Bacaklarda şişlik
+
+### Derecelendirme
+
+-   Hafif: Regürjitan volüm <30 ml
+-   Orta: Regürjitan volüm 30-59 ml
+-   Ciddi: Regürjitan volüm ≥60 ml
+
+## Mitral Kapak Hastalığı Tanısı
+
+### Fizik Muayene
+
+-   Diyastolik rulman (darlık)
+-   Sistolik üfürüm (yetersizlik)
+-   Kalp sesleri değişiklikleri
+
+### Görüntüleme
+
+-   Transtorasik ekokardiyografi
+-   Transözofageal ekokardiyografi
+-   Kardiyak MR
+-   Kardiyak BT
+
+### Ek Testler
+
+-   EKG
+-   Holter monitörizasyonu
+-   Efor testi
+-   Koroner anjiyografi
+
+## Mitral Kapak Hastalığı Tedavisi
+
+### Medikal Tedavi
+
+-   Diüretikler
+-   Beta blokerler
+-   Antikoagülasyon (AF varsa)
+-   Kalp yetmezliği tedavisi
+
+### Girişimsel Tedavi
+
+**Mitral Balon Valvüloplasti:**
+
+-   Uygun mitral darlığında
+-   Minimal invaziv
+-   Hızlı iyileşme
+
+**MitraClip:**
+
+-   Ciddi mitral yetersizliğinde
+-   Cerrahi için yüksek riskli hastalarda
+-   Kateter bazlı tedavi
+
+### Cerrahi Tedavi
+
+**Mitral Kapak Tamiri:**
+
+-   Tercih edilen yöntem
+-   Kendi kapağın korunması
+-   Daha iyi uzun dönem sonuçlar
+
+**Mitral Kapak Replasmanı:**
+
+-   Tamir mümkün değilse
+-   Mekanik veya biyoprotez kapak
+
+## Neden Doç. Dr. Habib Çil?
+
+Mitral kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahibim. Balon valvüloplasti ve MitraClip dahil modern tedavi yöntemlerini uyguluyorum.
+
+**Uzmanlık Alanlarım:**
+
+-   Mitral kapak değerlendirmesi
+-   Mitral balon valvüloplasti
+-   MitraClip işlemi
+-   Kapak hastalığı takibi
+
+## Sık Sorulan Sorular
+
+{{< faq question="Mitral kapak hastalığı belirtileri nelerdir?" >}}
+Nefes darlığı, çarpıntı, yorgunluk ve bacaklarda şişlik başlıca belirtilerdir.
+{{< /faq >}}
+
+{{< faq question="Mitral darlığı nasıl tedavi edilir?" >}}
+Uygun hastalarda balon valvüloplasti, diğerlerinde cerrahi tedavi uygulanır.
+{{< /faq >}}
+
+{{< faq question="MitraClip nedir?" >}}
+MitraClip, ciddi mitral yetersizliğinde kateter yoluyla uygulanan klip tedavisidir.
+{{< /faq >}}
+
+{{< faq question="Mitral kapak hastalığında spor yapılabilir mi?" >}}
+Hafif hastalıkta evet. Ciddi hastalıkta ağır egzersiz kısıtlanmalıdır.
+{{< /faq >}}
+
+{{< faq question="Mitral kapak ameliyatı sonrası yaşam nasıl?" >}}
+Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir.
+{{< /faq >}}
+
+## Randevu ve İletişim
+
+Mitral kapak hastalığı değerlendirmesi için randevu almak isterseniz:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+WhatsApp ile Randevu Al
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+
+📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+---
+
+_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._

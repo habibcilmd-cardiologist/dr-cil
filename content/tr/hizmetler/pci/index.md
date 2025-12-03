@@ -1,0 +1,173 @@
+---
+title: "PCI - Perkütan Koroner Girişim"
+description: "İstanbul'da PCI işlemi. Doç. Dr. Habib Çil ile perkütan koroner girişim. Koroner anjiyoplasti ve stent. Avrasya Hospital'da uzman kardiyoloji."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "TherapeuticProcedure"
+body_location: "Heart"
+translationKey: "pci"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+PCI (Perkütan Koroner Girişim), koroner arter hastalığının kateter yoluyla tedavisidir. Balon anjiyoplasti ve stent implantasyonunu kapsar. Doç. Dr. Habib Çil, PCI işleminde geniş deneyime sahiptir.
+
+## PCI Nedir?
+
+PCI, koroner arterlerdeki darlık veya tıkanıklıkların kateter yoluyla açılmasıdır. Açık kalp cerrahisine alternatif minimal invaziv bir tedavi yöntemidir.
+
+**PCI Bileşenleri:**
+
+-   Balon anjiyoplasti
+-   Stent implantasyonu
+-   Aterektomi (gerekirse)
+-   İntravasküler görüntüleme
+
+## PCI Endikasyonları
+
+### Akut Koroner Sendrom
+
+-   Primer PCI (STEMI)
+-   Acil PCI (NSTEMI)
+-   Kararsız angina
+
+### Stabil Koroner Arter Hastalığı
+
+-   Ciddi darlık (>%70)
+-   Semptomatik hastalar
+-   Pozitif stres testi
+-   Medikal tedaviye yanıtsız
+
+### Özel Durumlar
+
+-   Sol ana koroner hastalığı
+-   Çok damar hastalığı
+-   CTO (kronik total oklüzyon)
+-   Bifurkasyon lezyonları
+
+## PCI Türleri
+
+### Primer PCI
+
+-   STEMI'de acil uygulama
+-   Kapı-balon süresi <90 dakika
+-   Hayat kurtarıcı
+
+### Elektif PCI
+
+-   Planlı işlem
+-   Stabil hastalarda
+-   Optimal hazırlık
+
+### Kurtarma PCI
+
+-   Başarısız tromboliz sonrası
+-   Devam eden iskemi
+
+## PCI Nasıl Yapılır?
+
+### Hazırlık
+
+-   Anjiyografi ile değerlendirme
+-   Antiplatelet yükleme
+-   Antikoagülasyon
+
+### İşlem Adımları
+
+1. **Damar erişimi**: Radyal veya femoral
+2. **Kılavuz kateter**: Koroner ostiumuna
+3. **Kılavuz tel**: Lezyondan geçiş
+4. **Balon anjiyoplasti**: Predilatasyon
+5. **Stent yerleştirme**: Lezyon üzerine
+6. **Postdilatasyon**: Optimal ekspansiyon
+7. **Kontrol görüntüleme**: IVUS/OCT
+
+### İşlem Süresi
+
+Toplam süre: 30-120 dakika
+
+## PCI Sonuçları
+
+### Başarı Kriterleri
+
+-   Rezidüel stenoz <%20
+-   TIMI 3 akım
+-   Komplikasyon yok
+-   Semptom iyileşmesi
+
+### Komplikasyonlar
+
+-   Stent trombozu
+-   Diseksiyon
+-   Perforasyon
+-   No-reflow
+-   Yan dal kaybı
+
+## PCI Sonrası Takip
+
+### İlaç Tedavisi
+
+-   İkili antiplatelet tedavi (6-12 ay)
+-   Statin
+-   Beta bloker
+-   ACE inhibitörü
+
+### Yaşam Tarzı
+
+-   Sigarayı bırakma
+-   Düzenli egzersiz
+-   Sağlıklı beslenme
+-   Kilo kontrolü
+
+## Neden Doç. Dr. Habib Çil?
+
+PCI işleminde geniş deneyime sahibim. Kompleks lezyonlarda da başarılı sonuçlar elde ediyorum.
+
+**Uzmanlık Alanlarım:**
+
+-   Primer PCI
+-   Kompleks PCI
+-   CTO girişimleri
+-   Sol ana koroner PCI
+
+## Sık Sorulan Sorular
+
+{{< faq question="PCI ameliyat mı?" >}}
+Hayır, açık cerrahi değildir. Kateter yoluyla yapılan minimal invaziv bir işlemdir.
+{{< /faq >}}
+
+{{< faq question="PCI sonrası ne kadar hastanede kalırım?" >}}
+Elektif işlemlerde genellikle 1-2 gün, acil işlemlerde daha uzun kalış gerekebilir.
+{{< /faq >}}
+
+{{< faq question="PCI bypass cerrahisine alternatif mi?" >}}
+Bazı hastalarda evet. Karar hastaya özel değerlendirme ile verilir.
+{{< /faq >}}
+
+{{< faq question="PCI sonrası normal yaşama ne zaman dönebilirim?" >}}
+Genellikle 1-2 hafta içinde normal aktivitelere dönülebilir.
+{{< /faq >}}
+
+{{< faq question="PCI tekrarlanabilir mi?" >}}
+Evet, gerekirse farklı damarlara veya aynı damara tekrar PCI yapılabilir.
+{{< /faq >}}
+
+## Randevu ve İletişim
+
+PCI değerlendirmesi için randevu almak isterseniz:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+WhatsApp ile Randevu Al
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+
+📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+---
+
+_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._

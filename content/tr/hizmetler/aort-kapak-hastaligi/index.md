@@ -1,0 +1,179 @@
+---
+title: "Aort Kapak Hastalığı - Aort Darlığı ve Yetersizliği"
+description: "İstanbul'da aort kapak hastalığı tedavisi. Doç. Dr. Habib Çil ile aort darlığı ve yetersizliği. TAVI ve cerrahi seçenekler. Avrasya Hospital'da uzman kardiyoloji."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "TherapeuticProcedure"
+body_location: "Heart"
+translationKey: "aortic-valve-disease"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Aort kapak hastalığı, kalbin sol ventrikülü ile aort arasındaki kapağın işlev bozukluğudur. Aort darlığı (stenoz) ve aort yetersizliği (regürjitasyon) olmak üzere iki ana formu vardır. Doç. Dr. Habib Çil, aort kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
+
+## Aort Kapak Hastalığı Nedir?
+
+Aort kapağı, sol ventrikülden aorta kan akışını düzenler. Kapak hastalığında bu işlev bozulur ve kalp üzerinde ek yük oluşur.
+
+**Aort Kapak Hastalığı Türleri:**
+
+-   Aort darlığı (stenoz)
+-   Aort yetersizliği (regürjitasyon)
+-   Kombine aort kapak hastalığı
+
+## Aort Darlığı (Aort Stenozu)
+
+### Nedenleri
+
+-   Dejeneratif kalsifikasyon (yaşa bağlı)
+-   Biküspit aort kapağı (doğuştan)
+-   Romatizmal kalp hastalığı
+
+### Semptomlar
+
+-   Göğüs ağrısı (anjina)
+-   Nefes darlığı
+-   Bayılma (senkop)
+-   Egzersiz intoleransı
+
+### Derecelendirme
+
+| Derece | Kapak Alanı | Ortalama Gradiyent |
+| ------ | ----------- | ------------------ |
+| Hafif  | >1.5 cm²    | <20 mmHg           |
+| Orta   | 1.0-1.5 cm² | 20-40 mmHg         |
+| Ciddi  | <1.0 cm²    | >40 mmHg           |
+| Kritik | <0.6 cm²    | >60 mmHg           |
+
+## Aort Yetersizliği (Aort Regürjitasyonu)
+
+### Nedenleri
+
+-   Aort kökü dilatasyonu
+-   Biküspit aort kapağı
+-   Endokardit
+-   Romatizmal hastalık
+-   Aort diseksiyonu
+
+### Semptomlar
+
+-   Nefes darlığı
+-   Çarpıntı
+-   Yorgunluk
+-   Bacaklarda şişlik
+
+### Derecelendirme
+
+-   Hafif: Jet genişliği <%25
+-   Orta: Jet genişliği %25-64
+-   Ciddi: Jet genişliği ≥%65
+
+## Aort Kapak Hastalığı Tanısı
+
+### Fizik Muayene
+
+-   Sistolik üfürüm (darlık)
+-   Diyastolik üfürüm (yetersizlik)
+-   Nabız değişiklikleri
+
+### Görüntüleme
+
+-   Ekokardiyografi (altın standart)
+-   Transözofageal eko
+-   Kardiyak MR
+-   Kardiyak BT
+
+### Ek Testler
+
+-   EKG
+-   Efor testi
+-   Koroner anjiyografi
+
+## Aort Kapak Hastalığı Tedavisi
+
+### Medikal Tedavi
+
+-   Semptom kontrolü
+-   Kalp yetmezliği tedavisi
+-   Kan basıncı kontrolü
+-   Düzenli takip
+
+### Cerrahi Tedavi
+
+**Aort Kapak Replasmanı (AVR):**
+
+-   Mekanik kapak
+-   Biyoprotez kapak
+-   Açık kalp cerrahisi
+
+### Girişimsel Tedavi
+
+**TAVI (Transkateter Aort Kapak İmplantasyonu):**
+
+-   Yüksek riskli hastalar için
+-   Minimal invaziv
+-   Hızlı iyileşme
+
+## Tedavi Kararı
+
+Tedavi kararı şunlara bağlıdır:
+
+-   Hastalığın ciddiyeti
+-   Semptom varlığı
+-   Sol ventrikül fonksiyonu
+-   Cerrahi risk skoru
+-   Hasta tercihi
+
+## Neden Doç. Dr. Habib Çil?
+
+Aort kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahibim. TAVI dahil modern tedavi yöntemlerini uyguluyorum.
+
+**Uzmanlık Alanlarım:**
+
+-   Aort kapak değerlendirmesi
+-   TAVI işlemi
+-   Kapak hastalığı takibi
+-   Multidisipliner yaklaşım
+
+## Sık Sorulan Sorular
+
+{{< faq question="Aort darlığı tehlikeli mi?" >}}
+Ciddi aort darlığı tedavi edilmezse ölümcül olabilir. Erken tanı ve tedavi önemlidir.
+{{< /faq >}}
+
+{{< faq question="Aort kapak hastalığı belirtileri nelerdir?" >}}
+Göğüs ağrısı, nefes darlığı, bayılma ve yorgunluk başlıca belirtilerdir.
+{{< /faq >}}
+
+{{< faq question="TAVI nedir?" >}}
+TAVI, açık kalp cerrahisi olmadan kateter yoluyla aort kapağı değiştirilmesidir.
+{{< /faq >}}
+
+{{< faq question="Aort kapak hastalığında spor yapılabilir mi?" >}}
+Hafif hastalıkta evet. Ciddi hastalıkta ağır egzersiz kısıtlanmalıdır.
+{{< /faq >}}
+
+{{< faq question="Aort kapak ameliyatı sonrası yaşam nasıl?" >}}
+Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir.
+{{< /faq >}}
+
+## Randevu ve İletişim
+
+Aort kapak hastalığı değerlendirmesi için randevu almak isterseniz:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+WhatsApp ile Randevu Al
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+
+📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+---
+
+_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._

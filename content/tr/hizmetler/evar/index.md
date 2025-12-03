@@ -1,0 +1,169 @@
+---
+title: "EVAR - Endovasküler Anevrizma Onarımı"
+description: "İstanbul'da EVAR işlemi. Doç. Dr. Habib Çil ile endovasküler anevrizma onarımı. Minimal invaziv aort anevrizması tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "TherapeuticProcedure"
+body_location: "Abdomen"
+translationKey: "evar"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+EVAR (Endovasküler Anevrizma Onarımı), abdominal aort anevrizmasının kateter yoluyla tedavi edilmesidir. Açık cerrahiye alternatif minimal invaziv bir yöntemdir. Doç. Dr. Habib Çil, EVAR işleminde geniş deneyime sahiptir.
+
+## EVAR Nedir?
+
+EVAR, kasıktan girilerek aort anevrizmasına stent-greft yerleştirilmesidir. Anevrizma dışarıdan desteklenerek rüptür riski ortadan kaldırılır.
+
+**EVAR'ın Avantajları:**
+
+-   Açık cerrahi gerektirmez
+-   Minimal invaziv
+-   Daha kısa hastane kalışı
+-   Hızlı iyileşme
+-   Daha az ağrı
+
+## EVAR Endikasyonları
+
+### Anatomik Kriterler
+
+-   Uygun proksimal boyun
+-   Yeterli iliak arter çapı
+-   Uygun açılanma
+
+### Hasta Kriterleri
+
+-   Anevrizma çapı ≥5.5 cm (erkek)
+-   Anevrizma çapı ≥5.0 cm (kadın)
+-   Hızlı büyüyen anevrizma
+-   Semptomatik anevrizma
+
+### EVAR vs Açık Cerrahi
+
+| Özellik        | EVAR           | Açık Cerrahi  |
+| -------------- | -------------- | ------------- |
+| Kesi           | Küçük (kasık)  | Büyük (karın) |
+| Anestezi       | Lokal/Bölgesel | Genel         |
+| Hastane kalışı | 2-3 gün        | 7-10 gün      |
+| İyileşme       | 2-4 hafta      | 6-12 hafta    |
+| Takip          | Düzenli BT     | Daha az sık   |
+
+## EVAR Öncesi Değerlendirme
+
+### Görüntüleme
+
+-   BT Anjiyografi (zorunlu)
+-   Aort anatomisi değerlendirmesi
+-   İliak arter değerlendirmesi
+-   Böbrek arterleri
+
+### Hasta Hazırlığı
+
+-   Böbrek fonksiyon testleri
+-   Kardiyak değerlendirme
+-   Antikoagülasyon düzenlemesi
+-   Hidrasyon
+
+## EVAR Nasıl Yapılır?
+
+### İşlem Adımları
+
+1. **Anestezi**: Lokal, bölgesel veya genel
+2. **Femoral arter erişimi**: Her iki kasık
+3. **Kılavuz tel ilerletme**: Aorta
+4. **Ana gövde yerleştirme**: Anevrizma üzerine
+5. **Bacak uzantıları**: İliak arterlere
+6. **Balon dilatasyon**: Sızdırmazlık için
+7. **Kontrol anjiyografi**: Sonuç değerlendirmesi
+
+### İşlem Süresi
+
+Toplam süre: 1-3 saat
+
+## EVAR Sonuçları
+
+### Başarı Kriterleri
+
+-   Anevrizma dışlanması
+-   Endoleak olmaması
+-   Stent-greft açıklığı
+-   Organ perfüzyonu korunması
+
+### Komplikasyonlar
+
+-   Endoleak (en sık)
+-   Stent migrasyonu
+-   Bacak trombozu
+-   Böbrek hasarı
+
+## EVAR Sonrası Takip
+
+### Görüntüleme Protokolü
+
+-   1 ay: BT Anjiyografi
+-   6 ay: BT Anjiyografi
+-   Yıllık: BT veya Ultrasonografi
+
+### Endoleak Tipleri
+
+| Tip | Kaynak                    | Tedavi           |
+| --- | ------------------------- | ---------------- |
+| I   | Proksimal/distal bağlantı | Acil müdahale    |
+| II  | Yan dallar                | Genellikle takip |
+| III | Greft defekti             | Müdahale         |
+| IV  | Greft porozitesi          | Takip            |
+| V   | Endotansiyon              | Değerlendirme    |
+
+## Neden Doç. Dr. Habib Çil?
+
+EVAR işleminde geniş deneyime sahibim. Uygun hasta seçimi ve güvenli işlem ile başarılı sonuçlar elde ediyorum.
+
+**Uzmanlık Alanlarım:**
+
+-   EVAR implantasyonu
+-   Anevrizma değerlendirmesi
+-   Endoleak yönetimi
+-   Vasküler girişimler
+
+## Sık Sorulan Sorular
+
+{{< faq question="EVAR ameliyat mı?" >}}
+Hayır, açık cerrahi değildir. Kasıktan girilerek yapılan minimal invaziv bir işlemdir.
+{{< /faq >}}
+
+{{< faq question="EVAR sonrası iyileşme süresi ne kadar?" >}}
+Genellikle 2-3 gün hastanede kalış yeterlidir. 2-4 hafta içinde normal aktivitelere dönülebilir.
+{{< /faq >}}
+
+{{< faq question="EVAR kalıcı mı?" >}}
+Evet, stent-greft kalıcıdır. Düzenli takip gerekir.
+{{< /faq >}}
+
+{{< faq question="EVAR için uygun muyum?" >}}
+Aort anatomisi değerlendirilerek karar verilir. BT anjiyografi gereklidir.
+{{< /faq >}}
+
+{{< faq question="EVAR sonrası MR çekilebilir mi?" >}}
+Çoğu modern stent-greft MR uyumludur. Doktorunuza danışın.
+{{< /faq >}}
+
+## Randevu ve İletişim
+
+EVAR değerlendirmesi için randevu almak isterseniz:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+WhatsApp ile Randevu Al
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+
+📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+---
+
+_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._

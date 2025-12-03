@@ -1,0 +1,182 @@
+---
+title: "Stress Echocardiography - Exercise Heart Ultrasound"
+description: "Expert stress echocardiography in Istanbul. Assoc. Prof. Dr. Habib Çil performs exercise or pharmacological heart ultrasound. Ischemia diagnosis. Specialist cardiology at Avrasya Hospital."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "DiagnosticProcedure"
+body_location: "Heart"
+translationKey: "stress-echocardiography"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Stress echocardiography is an echocardiographic evaluation performed while the heart is under stress from exercise or medication. It has high accuracy in diagnosing coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in stress echocardiography evaluation.
+
+## What is Stress Echocardiography?
+
+Stress echocardiography evaluates the presence of ischemia (insufficient blood flow) by comparing wall movements of the heart at rest and under stress.
+
+**Advantages of Stress Echocardiography:**
+
+-   No radiation
+-   High diagnostic accuracy
+-   Valve function evaluation
+-   Real-time imaging
+
+## Types of Stress Echocardiography
+
+### Exercise Stress Echocardiography
+
+-   With treadmill or bicycle
+-   Physiological stress
+-   Preferred method
+
+### Pharmacological Stress Echocardiography
+
+**Dobutamine:**
+
+-   Increases heart rate and contractility
+-   For patients who cannot exercise
+-   Most commonly used medication
+
+**Dipyridamole/Adenosine:**
+
+-   Coronary vasodilator
+-   Alternative option
+
+## Stress Echocardiography Indications
+
+### Diagnostic Indications
+
+-   Suspected coronary artery disease
+-   Chest pain evaluation
+-   Abnormal ECG findings
+-   Inconclusive stress test result
+
+### Prognostic Evaluation
+
+-   Known coronary artery disease
+-   Post-myocardial infarction
+-   Pre/post-revascularization
+-   Pre-operative risk assessment
+
+### Valve Diseases
+
+-   Aortic stenosis severity
+-   Mitral stenosis evaluation
+-   Low-flow aortic stenosis
+
+## Pre-Stress Echocardiography Preparation
+
+### General Preparation
+
+-   4 hours fasting
+-   Caffeine restriction (24 hours)
+-   Comfortable clothing
+
+### Medication Adjustment
+
+-   Beta blockers (stopped 48 hours before)
+-   Calcium channel blockers
+-   Nitrates
+
+## How is Stress Echocardiography Performed?
+
+### Procedure Steps
+
+1. **Resting imaging**: Baseline echocardiography
+2. **Stress application**: Exercise or medication
+3. **Peak stress imaging**: At maximum stress
+4. **Recovery**: Monitoring and imaging
+5. **Comparison**: Rest vs stress
+
+### Procedure Duration
+
+Total duration: 45-60 minutes
+
+## Stress Echocardiography Results
+
+### Normal Findings
+
+-   Normal wall motion in all segments
+-   Increased motion with stress
+-   No ischemia findings
+
+### Abnormal Findings
+
+| Finding                     | Meaning            |
+| --------------------------- | ------------------ |
+| Hypokinesis                 | Decreased motion   |
+| Akinesis                    | No motion          |
+| Dyskinesis                  | Paradoxical motion |
+| New wall motion abnormality | Ischemia           |
+
+## Stress Echocardiography Risks
+
+Risks are low:
+
+-   Chest pain
+-   Arrhythmia
+-   Blood pressure changes
+-   Rarely serious complications
+
+## Stress Echocardiography vs Other Tests
+
+| Test                    | Advantage                      | Disadvantage       |
+| ----------------------- | ------------------------------ | ------------------ |
+| Stress Echo             | No radiation, valve evaluation | Operator dependent |
+| Myocardial Scintigraphy | Quantitative                   | Radiation          |
+| Exercise Test           | Simple, inexpensive            | Lower accuracy     |
+
+## Why Choose Assoc. Prof. Dr. Habib Çil?
+
+I have extensive experience in stress echocardiography evaluation. I create appropriate treatment plans by making accurate diagnoses in complex cases.
+
+**My Areas of Expertise:**
+
+-   Exercise stress echocardiography
+-   Dobutamine stress echocardiography
+-   Valve disease evaluation
+-   Ischemia diagnosis
+
+## Frequently Asked Questions
+
+{{< faq question="Is stress echocardiography painful?" >}}
+No, the procedure is painless. Fatigue may be felt during exercise.
+{{< /faq >}}
+
+{{< faq question="How long does stress echocardiography take?" >}}
+Total procedure duration is 45-60 minutes.
+{{< /faq >}}
+
+{{< faq question="Do I need to fast for stress echocardiography?" >}}
+Yes, food should not be eaten 4 hours before the procedure.
+{{< /faq >}}
+
+{{< faq question="Can I have stress echocardiography if I cannot exercise?" >}}
+Yes, pharmacological (dobutamine) stress echocardiography can be performed.
+{{< /faq >}}
+
+{{< faq question="When do stress echocardiography results come out?" >}}
+Results are evaluated immediately after the procedure.
+{{< /faq >}}
+
+## Appointment and Contact
+
+If you would like to schedule an appointment for stress echocardiography:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+Book Appointment via WhatsApp
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
+
+📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
+
+---
+
+_This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._

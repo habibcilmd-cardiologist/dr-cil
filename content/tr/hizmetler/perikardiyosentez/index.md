@@ -1,0 +1,179 @@
+---
+title: "Perikardiyosentez - Kalp Zarı Sıvı Boşaltma"
+description: "İstanbul'da perikardiyosentez. Doç. Dr. Habib Çil ile kalp zarı sıvı boşaltma işlemi. Perikardiyal efüzyon tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+date: 2024-01-15
+lastmod: 2024-12-01
+draft: false
+service_type: "MedicalProcedure"
+medical_specialty: "Cardiology"
+procedure_type: "TherapeuticProcedure"
+body_location: "Heart"
+translationKey: "pericardiocentesis"
+showBreadcrumbs: true
+showTableOfContents: true
+showReadingTime: true
+---
+
+Perikardiyosentez, kalp zarı (perikard) ile kalp arasında biriken sıvının iğne ile boşaltılmasıdır. Doç. Dr. Habib Çil, perikardiyosentez işleminde geniş deneyime sahiptir.
+
+## Perikardiyosentez Nedir?
+
+Perikardiyosentez, perikardiyal boşlukta biriken sıvının iğne ve kateter yardımıyla boşaltılmasıdır. Hem tanısal hem de tedavi amaçlı uygulanır.
+
+**Perikardiyosentez Amaçları:**
+
+-   Tanısal (sıvı analizi)
+-   Tedavi (sıvı boşaltma)
+-   Acil (tamponad)
+
+## Perikardiyal Efüzyon Nedenleri
+
+### Enfeksiyöz
+
+-   Viral perikardit
+-   Bakteriyel perikardit
+-   Tüberküloz perikardit
+
+### Non-enfeksiyöz
+
+-   Malignite
+-   Üremi
+-   Otoimmün hastalıklar
+-   Post-kardiyak cerrahi
+-   Travma
+-   İdiyopatik
+
+## Perikardiyosentez Endikasyonları
+
+### Acil Endikasyonlar
+
+-   Kardiyak tamponad
+-   Hemodinamik instabilite
+-   Şok
+
+### Elektif Endikasyonlar
+
+-   Büyük efüzyon
+-   Semptomatik efüzyon
+-   Tanısal amaç
+-   Tekrarlayan efüzyon
+
+## Perikardiyosentez Nasıl Yapılır?
+
+### Hazırlık
+
+-   Ekokardiyografi ile değerlendirme
+-   Sıvı lokalizasyonu
+-   Koagülasyon kontrolü
+
+### İşlem Teknikleri
+
+**Subksifoid Yaklaşım:**
+
+-   En yaygın teknik
+-   Ksifoid altından giriş
+-   Ekokardiyografi eşliğinde
+
+**Apikal Yaklaşım:**
+
+-   Kalp apeksinden giriş
+-   Seçilmiş vakalarda
+
+### İşlem Adımları
+
+1. **Lokal anestezi**: Giriş bölgesine
+2. **İğne girişi**: Ekokardiyografi eşliğinde
+3. **Sıvı aspirasyonu**: Şırınga ile
+4. **Kateter yerleştirme**: Gerekirse
+5. **Sıvı drenajı**: Tam boşaltma
+6. **Kateter çıkarma**: İşlem sonu
+
+### İşlem Süresi
+
+Toplam süre: 30-60 dakika
+
+## Perikardiyosentez Sonuçları
+
+### Başarı Oranları
+
+-   Teknik başarı: >%95
+-   Semptom iyileşmesi: >%90
+-   Komplikasyon oranı: <%5
+
+### Sıvı Analizi
+
+-   Sitoloji
+-   Biyokimya
+-   Mikrobiyoloji
+-   Kültür
+
+## Komplikasyonlar
+
+-   Kalp perforasyonu (nadir)
+-   Aritmi
+-   Pnömotoraks
+-   Enfeksiyon
+-   Kanama
+
+## Perikardiyosentez Sonrası
+
+### Takip
+
+-   Ekokardiyografi kontrolü
+-   Sıvı tekrarı izlemi
+-   Altta yatan neden tedavisi
+
+### Tekrarlayan Efüzyon
+
+-   Perikardiyal pencere
+-   Perikardiyektomi
+-   Skleroterapi
+
+## Neden Doç. Dr. Habib Çil?
+
+Perikardiyosentez işleminde geniş deneyime sahibim. Ekokardiyografi eşliğinde güvenli işlem uyguluyorum.
+
+**Uzmanlık Alanlarım:**
+
+-   Ekokardiyografi eşliğinde perikardiyosentez
+-   Perikardiyal hastalıklar
+-   Kardiyak tamponad yönetimi
+-   Girişimsel kardiyoloji
+
+## Sık Sorulan Sorular
+
+{{< faq question="Perikardiyosentez ağrılı mı?" >}}
+Lokal anestezi ile yapılır ve genellikle ağrı hissedilmez.
+{{< /faq >}}
+
+{{< faq question="Perikardiyosentez sonrası sıvı tekrar birikir mi?" >}}
+Altta yatan nedene bağlıdır. Bazı hastalarda tekrarlayabilir.
+{{< /faq >}}
+
+{{< faq question="Perikardiyosentez ne kadar sürer?" >}}
+İşlem genellikle 30-60 dakika sürer.
+{{< /faq >}}
+
+{{< faq question="Perikardiyosentez sonrası ne zaman taburcu olurum?" >}}
+Genellikle 1-2 gün gözlem sonrası taburcu olunabilir.
+{{< /faq >}}
+
+{{< faq question="Perikardiyosentez riskleri nelerdir?" >}}
+Ciddi komplikasyonlar nadir görülür. Kalp perforasyonu riski düşüktür.
+{{< /faq >}}
+
+## Randevu ve İletişim
+
+Perikardiyosentez değerlendirmesi için randevu almak isterseniz:
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+WhatsApp ile Randevu Al
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+
+📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+---
+
+_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
