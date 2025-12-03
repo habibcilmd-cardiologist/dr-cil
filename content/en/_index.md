@@ -1,9 +1,71 @@
 ---
-title: "Home"
-description: "Assoc. Prof. Dr. Habib ÇİL - Cardiology Specialist. Expert in echocardiography, angiography, hypertension, and coronary artery disease treatment."
+title: "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
+description: "Assoc. Prof. Dr. Habib ÇİL - Cardiology Specialist in Istanbul. Expert in coronary angioplasty, TAVI, pacemaker implantation, echocardiography and interventional cardiology with 20+ years experience."
+layout: "profile"
+translationKey: "home"
 ---
 
-Welcome to the official website of Assoc. Prof. Dr. Habib ÇİL.
+## Welcome
 
-As a specialist, academician, and experienced clinical practitioner in cardiology, I provide the highest quality healthcare services to my patients.
+I am **Assoc. Prof. Dr. Habib ÇİL**, a graduate of Istanbul University Cerrahpaşa Faculty of Medicine and completed my Cardiology specialization at Akdeniz University.
 
+With over 20 years of clinical experience and academic career, I provide my patients with the most up-to-date diagnostic and treatment methods. I served as Associate Professor at Dicle University Faculty of Medicine and specialized in interventional cardiology.
+
+---
+
+## Services
+
+<div class="services-grid">
+  <div class="service-card">
+    <div class="service-icon">🫀</div>
+    <h4>Coronary Heart Diseases</h4>
+    <p>Heart attack, hypertension, heart failure treatment</p>
+  </div>
+  <div class="service-card">
+    <div class="service-icon">🔧</div>
+    <h4>Interventional Cardiology</h4>
+    <p>TAVI, angioplasty, stent, CTO interventions</p>
+  </div>
+  <div class="service-card">
+    <div class="service-icon">⚡</div>
+    <h4>Pacemaker & Electrophysiology</h4>
+    <p>Pacemaker, ICD, ablation therapies</p>
+  </div>
+  <div class="service-card">
+    <div class="service-icon">🩺</div>
+    <h4>Diagnostic Procedures</h4>
+    <p>Angiography, EKG, echocardiography, holter</p>
+  </div>
+  <div class="service-card">
+    <div class="service-icon">💓</div>
+    <h4>Valve Diseases</h4>
+    <p>Valve replacement, valvuloplasty, repair</p>
+  </div>
+  <div class="service-card">
+    <div class="service-icon">🩹</div>
+    <h4>Vascular Surgery</h4>
+    <p>Aneurysm, carotid, peripheral vascular interventions</p>
+  </div>
+</div>
+
+<div style="text-align: center; margin-top: 2rem;">
+
+{{< button href="/services/" >}}
+View All Services →
+{{< /button >}}
+
+</div>
+
+---
+
+### Appointment
+
+To make an appointment, you can contact us via WhatsApp or phone.
+
+{{< button href="https://wa.me/902126655050" target="_blank" >}}
+Book Appointment via WhatsApp
+{{< /button >}}
+
+📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul, Turkey
+
+📞 **Phone:** +90 212 665 50 50 (Ext: 4012)

@@ -1,0 +1,27 @@
+{
+  "name": "Doç. Dr. Habib ÇİL | Kardiyoloji Uzmanı",
+  "short_name": "Dr. Habib ÇİL",
+  "description": "Kardiyoloji Uzmanı - Ekokardiyografi, anjiyografi, hipertansiyon tedavisi",
+  "start_url": "/tr/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+

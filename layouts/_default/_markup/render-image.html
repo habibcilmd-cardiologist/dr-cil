@@ -1,0 +1,86 @@
+{{/*
+  Optimized Image Render Hook for Dr. Habib ÇİL Website
+  - Automatic WebP conversion
+  - Responsive srcset (480w, 768w, 1024w, 1280w)
+  - Lazy loading
+  - Proper width/height for CLS prevention
+*/}}
+
+{{ $disableImageOptimization := .Page.Site.Params.disableImageOptimization | default false }}
+{{ $src := .Destination }}
+{{ $alt := .Text }}
+{{ $title := .Title }}
+
+{{/* Check if external URL */}}
+{{ if or (strings.HasPrefix $src "http://") (strings.HasPrefix $src "https://") }}
+  <img
+    class="rounded-md"
+    src="{{ $src }}"
+    alt="{{ $alt }}"
+    {{ with $title }}title="{{ . }}"{{ end }}
+    loading="lazy"
+    decoding="async"
+  />
+{{ else }}
+  {{/* Internal image - apply optimization */}}
+  {{ $resource := "" }}
+  
+  {{/* Try to get from page resources first, then global assets */}}
+  {{ if .Page.Resources.GetMatch $src }}
+    {{ $resource = .Page.Resources.GetMatch $src }}
+  {{ else if resources.GetMatch $src }}
+    {{ $resource = resources.Get $src }}
+  {{ else if resources.GetMatch (printf "img/%s" $src) }}
+    {{ $resource = resources.Get (printf "img/%s" $src) }}
+  {{ end }}
+
+  {{ with $resource }}
+    {{ if or $disableImageOptimization (eq .MediaType.SubType "svg") (eq .MediaType.SubType "gif") }}
+      {{/* SVG and GIF - no optimization */}}
+      <img
+        class="rounded-md"
+        src="{{ .RelPermalink }}"
+        alt="{{ $alt }}"
+        {{ with $title }}title="{{ . }}"{{ end }}
+        {{ with .Width }}width="{{ . }}"{{ end }}
+        {{ with .Height }}height="{{ . }}"{{ end }}
+      />
+    {{ else }}
+      {{/* Raster images - full optimization */}}
+      {{ $small := .Resize "480x webp q85" }}
+      {{ $medium := .Resize "768x webp q85" }}
+      {{ $large := .Resize "1024x webp q85" }}
+      {{ $xlarge := .Resize "1280x webp q80" }}
+      
+      <img
+        class="rounded-md"
+        loading="lazy"
+        decoding="async"
+        fetchpriority="auto"
+        alt="{{ $alt }}"
+        {{ with $title }}title="{{ . }}"{{ end }}
+        width="{{ .Width }}"
+        height="{{ .Height }}"
+        src="{{ $medium.RelPermalink }}"
+        srcset="
+          {{ $small.RelPermalink }} 480w,
+          {{ $medium.RelPermalink }} 768w,
+          {{ $large.RelPermalink }} 1024w,
+          {{ $xlarge.RelPermalink }} 1280w"
+        sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 70vw, 60vw"
+        data-zoom-src="{{ .RelPermalink }}"
+      />
+    {{ end }}
+  {{ else }}
+    {{/* Fallback for non-existent images */}}
+    <img
+      class="rounded-md"
+      src="{{ $src }}"
+      alt="{{ $alt }}"
+      {{ with $title }}title="{{ . }}"{{ end }}
+      loading="lazy"
+      decoding="async"
+    />
+  {{ end }}
+{{ end }}
+

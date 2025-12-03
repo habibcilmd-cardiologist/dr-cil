@@ -8,32 +8,37 @@
 
 [[main]]
   name = "Home"
-  pageRef = "/"
+  url = "/"
   weight = 10
 
 [[main]]
   name = "About"
-  pageRef = "about"
+  url = "/about/"
   weight = 20
 
 [[main]]
+  name = "Services"
+  url = "/services/"
+  weight = 25
+
+[[main]]
   name = "Clinic"
-  pageRef = "clinic"
+  url = "/clinic/"
   weight = 30
 
 [[main]]
   name = "Publications"
-  pageRef = "publications"
+  url = "/publications/"
   weight = 40
 
 [[main]]
   name = "Blog"
-  pageRef = "blog"
+  url = "/blog/"
   weight = 50
 
 [[main]]
   name = "Contact"
-  pageRef = "contact"
+  url = "/contact/"
   weight = 60
 
 # -----------------------------------------------------------------------------
@@ -42,6 +47,6 @@
 
 [[footer]]
   name = "Privacy Policy"
-  pageRef = "privacy"
+  url = "/privacy/"
   weight = 10
 

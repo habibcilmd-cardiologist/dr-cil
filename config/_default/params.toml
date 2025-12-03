@@ -2,8 +2,10 @@
 # Dr. Habib ÇİL - Blowfish Theme Parameters
 # =============================================================================
 
-# Appearance
-colorScheme = "ocean"
+# Appearance - Custom Cardiology Color Scheme
+# Primary: Medical Blue (trust, professionalism)
+# Secondary: Heart Red (cardiology, health)
+colorScheme = "cardiology"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 
@@ -11,22 +13,42 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 enableImageLazyLoading = true
+enableStructuredBreadcrumbs = true
+
+# Image Optimization Settings
+# Note: Blowfish theme automatically handles WebP conversion and responsive images
+# disableImageOptimization = false (default)
+# Author image quality (1-100)
+# Higher quality = larger file size
 
 # Site info
 description = "Doç. Dr. Habib ÇİL - Kardiyoloji Uzmanı. Ekokardiyografi, anjiyografi, hipertansiyon ve koroner arter hastalığı."
 mainSections = ["posts", "blog"]
 robots = "index, follow"
 
+# SEO - Keywords for all pages
+keywords = ["kardiyoloji", "kardiyolog", "istanbul", "doktor", "kalp hastalığı", "anjiyografi", "ekokardiyografi", "hipertansiyon", "TAVI", "kalp pili"]
+
+# Open Graph - Default social sharing image
+defaultSocialImage = "img/og-image.jpg"
+
 # Author bilgileri languages.tr.toml ve languages.en.toml dosyalarında tanımlanır
+
+# -----------------------------------------------------------------------------
+# Logo Settings (must be in assets/ folder)
+# -----------------------------------------------------------------------------
+logo = "img/logo.svg"
+secondaryLogo = "img/logo-dark.svg"
 
 # -----------------------------------------------------------------------------
 # Header Settings
 # -----------------------------------------------------------------------------
 [header]
   layout = "fixed"
-  logo = "img/logo.png"
-  logoDark = "img/logo-dark.png"
-  showTitle = true
+  showTitle = false
+
+# Language Switcher
+showLanguageSwitcher = true
 
 # -----------------------------------------------------------------------------
 # Footer Settings
@@ -43,7 +65,12 @@ robots = "index, follow"
 [homepage]
   layout = "profile"
   showRecent = true
-  recentLimit = 5
+  showRecentItems = 3
+  showMoreLink = true
+  showMoreLinkDest = "/blog/"
+  cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = false
 
 # -----------------------------------------------------------------------------
 # Article Settings
@@ -68,11 +95,17 @@ robots = "index, follow"
 # List Settings
 # -----------------------------------------------------------------------------
 [list]
+  showHero = true
+  heroStyle = "background"
+  layoutBackgroundBlur = true
   showBreadcrumbs = true
   showSummary = true
   showTableOfContents = false
   showCards = true
-  groupByYear = true
+  cardView = true
+  cardViewScreenWidth = false
+  groupByYear = false
+  orderByWeight = false
 
 # -----------------------------------------------------------------------------
 # Taxonomy Settings
@@ -81,12 +114,11 @@ robots = "index, follow"
   showTermCount = true
 
 # -----------------------------------------------------------------------------
-# SEO & Analytics (to be configured)
+# SEO & Analytics
 # -----------------------------------------------------------------------------
 [verification]
+  # Google Search Console verification code
   # google = "your-google-verification-code"
-
-# [analytics]
-#   [analytics.google]
-#     id = "G-XXXXXXXXXX"
+  # Bing Webmaster Tools verification
+  # bing = "your-bing-verification-code"
 

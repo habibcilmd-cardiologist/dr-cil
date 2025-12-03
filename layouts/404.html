@@ -1,0 +1,60 @@
+{{ define "main" }}
+<article class="max-w-prose mx-auto py-16 text-center">
+  <div class="mb-8">
+    <span class="text-8xl">🏥</span>
+  </div>
+  
+  <h1 class="text-4xl font-bold mb-4 text-neutral-800 dark:text-neutral-100">
+    {{ if eq .Site.Language.Lang "tr" }}
+      Sayfa Bulunamadı
+    {{ else }}
+      Page Not Found
+    {{ end }}
+  </h1>
+  
+  <p class="text-xl text-neutral-600 dark:text-neutral-400 mb-8">
+    {{ if eq .Site.Language.Lang "tr" }}
+      Aradığınız sayfa mevcut değil veya taşınmış olabilir.
+    {{ else }}
+      The page you are looking for doesn't exist or has been moved.
+    {{ end }}
+  </p>
+
+  <div class="flex flex-col sm:flex-row gap-4 justify-center">
+    {{ if eq .Site.Language.Lang "tr" }}
+      <a href="/tr/" 
+         class="inline-flex items-center justify-center px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-medium rounded-lg transition-colors">
+        🏠 Ana Sayfaya Dön
+      </a>
+      <a href="/tr/iletisim/" 
+         class="inline-flex items-center justify-center px-6 py-3 border border-primary-600 text-primary-600 hover:bg-primary-50 dark:hover:bg-primary-900/20 font-medium rounded-lg transition-colors">
+        📞 İletişim
+      </a>
+    {{ else }}
+      <a href="/en/" 
+         class="inline-flex items-center justify-center px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-medium rounded-lg transition-colors">
+        🏠 Back to Home
+      </a>
+      <a href="/en/contact/" 
+         class="inline-flex items-center justify-center px-6 py-3 border border-primary-600 text-primary-600 hover:bg-primary-50 dark:hover:bg-primary-900/20 font-medium rounded-lg transition-colors">
+        📞 Contact
+      </a>
+    {{ end }}
+  </div>
+
+  <div class="mt-12 p-6 bg-neutral-100 dark:bg-neutral-800 rounded-lg">
+    <p class="text-sm text-neutral-600 dark:text-neutral-400">
+      {{ if eq .Site.Language.Lang "tr" }}
+        <strong>Acil durumlarda:</strong><br>
+        📞 <a href="tel:+902126655050" class="text-primary-600 hover:underline">+90 212 665 50 50</a> (Dahili: 4012)<br>
+        💬 <a href="https://wa.me/902126655050" class="text-primary-600 hover:underline">WhatsApp ile ulaşın</a>
+      {{ else }}
+        <strong>In case of emergency:</strong><br>
+        📞 <a href="tel:+902126655050" class="text-primary-600 hover:underline">+90 212 665 50 50</a> (Ext: 4012)<br>
+        💬 <a href="https://wa.me/902126655050" class="text-primary-600 hover:underline">Contact via WhatsApp</a>
+      {{ end }}
+    </p>
+  </div>
+</article>
+{{ end }}
+

@@ -7,6 +7,7 @@ languageCode = "en-US"
 languageName = "English"
 weight = 2
 title = "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
+contentDir = "content/en"
 
 [params]
   displayName = "EN"
@@ -18,11 +19,11 @@ title = "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
 
   [params.author]
     name = "Assoc. Prof. Dr. Habib ÇİL"
-    image = "img/profile.jpg"
+    image = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
     headline = "Cardiology Specialist"
-    bio = "Expert academician and experienced clinical practitioner in cardiology."
+    bio = "Istanbul University Faculty of Medicine graduate, Akdeniz University Cardiology specialization. Expert in interventional cardiology, coronary angioplasty and TAVI."
     links = [
       { email = "mailto:info@drhabibcil.com" },
-      { whatsapp = "https://wa.me/905XXXXXXXXX" },
+      { whatsapp = "https://wa.me/902126655050" },
     ]
 

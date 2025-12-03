@@ -12,6 +12,15 @@ defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
 
+# Server redirects (for development)
+# Note: This redirect only applies to the exact root URL "/"
+# The /en/ path should NOT be redirected
+[[server.redirects]]
+from = "/"
+to = "/tr/"
+status = 301
+force = false
+
 # Performance optimizations
 enableEmoji = true
 summarylength = 70
@@ -51,4 +60,12 @@ timeout = "180s"
   [[related.indices]]
     name = "categories"
     weight = 80
+
+# =============================================================================
+# Services - Analytics
+# =============================================================================
+[services]
+  [services.googleAnalytics]
+    # GA4 Measurement ID - Değiştirin: G-XXXXXXXXXX formatında
+    # ID = "G-XXXXXXXXXX"
 

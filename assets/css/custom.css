@@ -1,0 +1,469 @@
+/* =============================================================================
+   Dr. Habib ÇİL - Custom Styles
+   Cardiology Professional Website
+   ============================================================================= */
+
+/* -----------------------------------------------------------------------------
+   Typography - Professional Sans-Serif Fonts
+   ----------------------------------------------------------------------------- */
+
+/* Use system fonts for optimal performance and professional appearance */
+html {
+	font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+		"Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+/* Headings - Slightly bolder for medical authority */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 600;
+	letter-spacing: -0.025em;
+}
+
+/* -----------------------------------------------------------------------------
+   Medical/Healthcare Specific Styles
+   ----------------------------------------------------------------------------- */
+
+/* Heart icon animation for cardiology branding */
+@keyframes heartbeat {
+	0%,
+	100% {
+		transform: scale(1);
+	}
+	14% {
+		transform: scale(1.1);
+	}
+	28% {
+		transform: scale(1);
+	}
+	42% {
+		transform: scale(1.1);
+	}
+	70% {
+		transform: scale(1);
+	}
+}
+
+/* Apply heartbeat to heart emojis on hover */
+.prose p:has(> strong:first-child):hover {
+	cursor: default;
+}
+
+/* WhatsApp button enhancement */
+a[href*="wa.me"] {
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+a[href*="wa.me"]:hover {
+	transform: scale(1.05);
+	box-shadow: 0 10px 25px -5px rgba(37, 211, 102, 0.4);
+}
+
+/* -----------------------------------------------------------------------------
+   About Page Hero Image - Show face properly
+   ----------------------------------------------------------------------------- */
+
+/* Hero container - moderate height for portrait photos */
+article > div.overflow-hidden {
+	max-height: 320px !important;
+	height: 320px !important;
+}
+
+/* Hero image on about/single pages - position to show face */
+article > div.overflow-hidden img {
+	object-position: center 20% !important;
+	object-fit: cover !important;
+}
+
+/* -----------------------------------------------------------------------------
+   Profile/Hero Section Enhancement
+   ----------------------------------------------------------------------------- */
+
+/* Profile container - center and enhance */
+article.flex.flex-col.items-center {
+	padding: 2rem 1rem;
+}
+
+/* Profile image styling - enhanced with animation */
+article.flex.flex-col.items-center header img {
+	border: 4px solid rgb(var(--color-primary-500));
+	box-shadow: 0 20px 40px -12px rgba(0, 0, 0, 0.25);
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+article.flex.flex-col.items-center header img:hover {
+	transform: scale(1.02);
+	box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35);
+}
+
+/* Profile title (doctor name) - gradient text */
+article.flex.flex-col.items-center h1 {
+	background: linear-gradient(
+		135deg,
+		rgb(var(--color-primary-600)),
+		rgb(var(--color-primary-800))
+	);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	font-size: 2.5rem;
+	margin-bottom: 0.5rem;
+}
+
+/* Subtitle (Kardiyoloji Uzmanı) styling */
+article.flex.flex-col.items-center h2.text-xl {
+	color: rgb(var(--color-neutral-500));
+	font-weight: 500;
+	letter-spacing: 0.05em;
+}
+
+/* Social links enhancement */
+article.flex.flex-col.items-center .mt-1 a {
+	transition: transform 0.2s ease, color 0.2s ease;
+}
+
+article.flex.flex-col.items-center .mt-1 a:hover {
+	transform: scale(1.15);
+	color: rgb(var(--color-primary-500));
+}
+
+/* Content section styling */
+article.flex.flex-col.items-center > div.prose {
+	max-width: 48rem;
+	margin: 0 auto;
+	padding: 1.5rem;
+}
+
+/* Section headings with decorative underline */
+.prose h2 {
+	position: relative;
+	padding-bottom: 0.75rem;
+	margin-bottom: 1.5rem;
+}
+
+.prose h2::after {
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 60px;
+	height: 3px;
+	background: linear-gradient(
+		90deg,
+		rgb(var(--color-primary-500)),
+		rgb(var(--color-secondary-500))
+	);
+	border-radius: 2px;
+}
+
+/* Center heading underline on profile page */
+article.flex.flex-col.items-center .prose h2::after {
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+/* Expertise/specialty items - subtle card styling */
+.prose p strong:first-child {
+	color: rgb(var(--color-primary-600));
+}
+
+/* -----------------------------------------------------------------------------
+   Card and Article Enhancements
+   ----------------------------------------------------------------------------- */
+
+/* Article cards hover effect */
+article {
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+article:hover {
+	transform: translateY(-2px);
+}
+
+/* Blog Card - Compact Design */
+/* Card container with thumbnail */
+.thumbnail_card {
+	height: 180px !important;
+	max-height: 180px !important;
+}
+
+.thumbnail_card img {
+	object-fit: cover !important;
+	width: 100% !important;
+	height: 100% !important;
+}
+
+/* Profile image on homepage - keep circular */
+article.flex.flex-col.items-center header img {
+	aspect-ratio: 1/1 !important;
+	width: 12rem !important;
+	height: 12rem !important;
+	max-height: none !important;
+	border-radius: 50% !important;
+	object-fit: cover !important;
+}
+
+/* Blog Card Text - Compact */
+article.min-h-full h2 {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	line-height: 1.3;
+	max-height: 2.6em;
+	font-size: 1rem !important;
+}
+
+/* Blog Card Summary - Hide on cards */
+article.min-h-full .prose {
+	display: none !important;
+}
+
+/* Blog Card Meta - Compact */
+article.min-h-full .text-sm {
+	font-size: 0.75rem !important;
+}
+
+/* Homepage Recent Section Cards - Compact Height */
+article.min-h-full {
+	min-height: auto !important;
+	max-height: 320px !important;
+}
+
+/* Hide empty padding div */
+article.min-h-full > .px-6.pt-4.pb-2:empty {
+	display: none !important;
+}
+
+/* Tags Container - Compact */
+article.min-h-full .flex.flex-wrap {
+	max-height: 2.5rem;
+	overflow: hidden;
+	gap: 0.25rem !important;
+}
+
+/* Tag Pills - Smaller */
+article.min-h-full .flex.flex-wrap a {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	max-width: 100px;
+	font-size: 0.65rem !important;
+	padding: 0.15rem 0.4rem !important;
+}
+
+/* -----------------------------------------------------------------------------
+   Button Styles - Medical CTA
+   ----------------------------------------------------------------------------- */
+
+/* Primary CTA buttons (appointments, contact) */
+.prose a.bg-primary-600,
+a.bg-primary-600 {
+	display: inline-block;
+	padding: 0.875rem 2rem;
+	font-weight: 600;
+	font-size: 1.125rem;
+	letter-spacing: 0.025em;
+	border-radius: 0.5rem;
+	box-shadow: 0 4px 14px -3px rgba(var(--color-primary-500), 0.4);
+	transition: all 0.3s ease;
+	position: relative;
+	overflow: hidden;
+}
+
+.prose a.bg-primary-600:hover,
+a.bg-primary-600:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 8px 20px -4px rgba(var(--color-primary-500), 0.5);
+}
+
+.prose a.bg-primary-600:active,
+a.bg-primary-600:active {
+	transform: translateY(0);
+}
+
+/* WhatsApp specific button pulse animation */
+a.bg-primary-600[href*="wa.me"]::before {
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 0;
+	height: 0;
+	background: rgba(255, 255, 255, 0.2);
+	border-radius: 50%;
+	transform: translate(-50%, -50%);
+	transition: width 0.6s ease, height 0.6s ease;
+}
+
+a.bg-primary-600[href*="wa.me"]:hover::before {
+	width: 300px;
+	height: 300px;
+}
+
+/* Submit buttons */
+button[type="submit"] {
+	font-weight: 600;
+	letter-spacing: 0.025em;
+	transition: all 0.3s ease;
+}
+
+button[type="submit"]:hover {
+	transform: translateY(-1px);
+	box-shadow: 0 4px 12px -2px rgba(var(--color-primary-500), 0.3);
+}
+
+/* -----------------------------------------------------------------------------
+   Footer Medical Disclaimer Styling
+   ----------------------------------------------------------------------------- */
+
+/* Make legal disclaimer more visible but subtle */
+footer p:has(strong:contains("Yasal")),
+footer p:has(strong:contains("Medical")) {
+	font-size: 0.75rem;
+	opacity: 0.8;
+	border-left: 3px solid rgb(var(--color-primary-500));
+	padding-left: 1rem;
+	margin-top: 1rem;
+}
+
+/* -----------------------------------------------------------------------------
+   Accessibility Improvements
+   ----------------------------------------------------------------------------- */
+
+/* Focus styles for better accessibility */
+a:focus-visible,
+button:focus-visible {
+	outline: 2px solid rgb(var(--color-primary-500));
+	outline-offset: 2px;
+}
+
+/* Skip to content link */
+.skip-link:focus {
+	background: rgb(var(--color-primary-600));
+	color: white;
+}
+
+/* -----------------------------------------------------------------------------
+   Services Grid - Homepage Services Section
+   ----------------------------------------------------------------------------- */
+
+.services-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+	gap: 1.5rem;
+	margin: 2rem 0;
+}
+
+.service-card {
+	background: rgb(var(--color-neutral-100));
+	border: 1px solid rgb(var(--color-neutral-200));
+	border-radius: 1rem;
+	padding: 1.5rem;
+	text-align: center;
+	transition: all 0.3s ease;
+	position: relative;
+	overflow: hidden;
+}
+
+.dark .service-card {
+	background: rgb(var(--color-neutral-800));
+	border-color: rgb(var(--color-neutral-700));
+}
+
+.service-card::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 4px;
+	background: linear-gradient(
+		90deg,
+		rgb(var(--color-primary-500)),
+		rgb(var(--color-secondary-500))
+	);
+	opacity: 0;
+	transition: opacity 0.3s ease;
+}
+
+.service-card:hover {
+	transform: translateY(-4px);
+	box-shadow: 0 12px 24px -8px rgba(0, 0, 0, 0.15);
+}
+
+.service-card:hover::before {
+	opacity: 1;
+}
+
+.service-icon {
+	font-size: 2.5rem;
+	margin-bottom: 1rem;
+	line-height: 1;
+}
+
+.service-card h4 {
+	color: rgb(var(--color-primary-600));
+	font-weight: 600;
+	font-size: 1.125rem;
+	margin-bottom: 0.5rem;
+}
+
+.dark .service-card h4 {
+	color: rgb(var(--color-primary-400));
+}
+
+.service-card p {
+	color: rgb(var(--color-neutral-600));
+	font-size: 0.9rem;
+	line-height: 1.5;
+	margin: 0;
+}
+
+.dark .service-card p {
+	color: rgb(var(--color-neutral-400));
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+	.services-grid {
+		grid-template-columns: 1fr;
+	}
+}
+
+@media (min-width: 641px) and (max-width: 1024px) {
+	.services-grid {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (min-width: 1025px) {
+	.services-grid {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+
+/* -----------------------------------------------------------------------------
+   Print Styles for Medical Information
+   ----------------------------------------------------------------------------- */
+
+@media print {
+	/* Show full URLs in print */
+	a[href]:after {
+		content: " (" attr(href) ")";
+		font-size: 0.8em;
+		color: #666;
+	}
+
+	/* Hide non-essential elements */
+	.whatsapp-float,
+	button[aria-label*="Dark"],
+	nav[aria-label*="language"] {
+		display: none !important;
+	}
+}

@@ -8,32 +8,37 @@
 
 [[main]]
   name = "Ana Sayfa"
-  pageRef = "/"
+  url = "/tr/"
   weight = 10
 
 [[main]]
   name = "Hakkımda"
-  pageRef = "about"
+  url = "/tr/hakkimda/"
   weight = 20
 
 [[main]]
+  name = "Hizmetler"
+  url = "/tr/hizmetler/"
+  weight = 25
+
+[[main]]
   name = "Kliniğim"
-  pageRef = "klinik"
+  url = "/tr/klinik/"
   weight = 30
 
 [[main]]
   name = "Yayınlar"
-  pageRef = "yayinlar"
+  url = "/tr/yayinlar/"
   weight = 40
 
 [[main]]
   name = "Blog"
-  pageRef = "blog"
+  url = "/tr/blog/"
   weight = 50
 
 [[main]]
   name = "İletişim"
-  pageRef = "iletisim"
+  url = "/tr/iletisim/"
   weight = 60
 
 # -----------------------------------------------------------------------------
@@ -42,11 +47,6 @@
 
 [[footer]]
   name = "KVKK"
-  pageRef = "kvkk"
+  url = "/tr/kvkk/"
   weight = 10
-
-[[footer]]
-  name = "Gizlilik Politikası"
-  pageRef = "gizlilik"
-  weight = 20
 

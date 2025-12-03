@@ -7,6 +7,7 @@ languageCode = "tr-TR"
 languageName = "Türkçe"
 weight = 1
 title = "Doç. Dr. Habib ÇİL | Kardiyoloji Uzmanı"
+contentDir = "content/tr"
 
 [params]
   displayName = "TR"
@@ -18,11 +19,11 @@ title = "Doç. Dr. Habib ÇİL | Kardiyoloji Uzmanı"
 
   [params.author]
     name = "Doç. Dr. Habib ÇİL"
-    image = "img/profile.jpg"
+    image = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
     headline = "Kardiyoloji Uzmanı"
-    bio = "Kardiyoloji alanında uzman, akademisyen ve deneyimli klinik pratisyen."
+    bio = "İstanbul Üniversitesi Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. Girişimsel kardiyoloji, koroner anjiyoplasti ve TAVI konularında uzman."
     links = [
       { email = "mailto:info@drhabibcil.com" },
-      { whatsapp = "https://wa.me/905XXXXXXXXX" },
+      { whatsapp = "https://wa.me/902126655050" },
     ]
 
