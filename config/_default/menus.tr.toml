@@ -7,11 +7,6 @@
 # -----------------------------------------------------------------------------
 
 [[main]]
-  name = "Ana Sayfa"
-  url = "/tr/"
-  weight = 10
-
-[[main]]
   name = "Hakkımda"
   url = "/tr/hakkimda/"
   weight = 20
@@ -22,7 +17,7 @@
   weight = 25
 
 [[main]]
-  name = "Kliniğim"
+  name = "Klinik"
   url = "/tr/klinik/"
   weight = 30
 

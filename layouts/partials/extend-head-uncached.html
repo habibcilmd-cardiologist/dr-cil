@@ -184,9 +184,106 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 		  ]
 		}
 </script>
-{{ end }} {{/* MedicalWebPage Schema for medical content pages */}} {{ if and
-(not .IsHome) .File }} {{ if or (in .File.Path "blog") (in .File.Path "klinik")
-(in .File.Path "clinic") }}
+{{ end }} {{/* Blog Article Schema - Comprehensive for SEO */}} {{ if and (not
+.IsHome) .File }} {{ if in .File.Path "blog" }}
+<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@graph": [
+	    {
+	      "@type": ["Article", "MedicalWebPage"],
+	      "@id": "{{ .Permalink }}#article",
+	      "headline": "{{ .Title }}",
+	      "name": "{{ .Title }}",
+	      "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | truncate 160 }}{{ end }}",
+	      "url": "{{ .Permalink }}",
+	      "mainEntityOfPage": {
+	        "@type": "WebPage",
+	        "@id": "{{ .Permalink }}"
+	      },
+	      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+	      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+	      "author": {
+	        "@type": "Person",
+	        "@id": "{{ .Site.BaseURL }}#physician",
+	        "name": "Doç. Dr. Habib ÇİL",
+	        "url": "{{ .Site.BaseURL }}",
+	        "jobTitle": {{ if eq .Site.Language.Lang "tr" }}"Kardiyoloji Uzmanı"{{ else }}"Cardiology Specialist"{{ end }}
+	      },
+	      "publisher": {
+	        "@type": "Organization",
+	        "name": "Doç. Dr. Habib ÇİL - Kardiyoloji Kliniği",
+	        "url": "{{ .Site.BaseURL }}",
+	        "logo": {
+	          "@type": "ImageObject",
+	          "url": "{{ .Site.BaseURL }}img/logo.svg"
+	        }
+	      },
+	      {{ with .Params.featured }}
+	      "image": {
+	        "@type": "ImageObject",
+	        "url": "{{ $.Permalink }}{{ . }}"
+	      },
+	      {{ else }}
+	      "image": {
+	        "@type": "ImageObject",
+	        "url": "{{ .Site.BaseURL }}img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
+	      },
+	      {{ end }}
+	      "inLanguage": "{{ .Site.Language.Lang }}",
+	      "isPartOf": {
+	        "@type": "WebSite",
+	        "name": "{{ .Site.Title }}",
+	        "url": "{{ .Site.BaseURL }}"
+	      },
+	      "about": {
+	        "@type": "MedicalCondition",
+	        "name": "{{ .Title }}",
+	        "description": "{{ with .Description }}{{ . }}{{ end }}"
+	      },
+	      "specialty": {
+	        "@type": "MedicalSpecialty",
+	        "name": "Cardiology"
+	      },
+	      "reviewedBy": {
+	        "@type": "Physician",
+	        "@id": "{{ .Site.BaseURL }}#physician"
+	      },
+	      "lastReviewed": "{{ .Lastmod.Format "2006-01-02" }}",
+	      "articleSection": {{ if eq .Site.Language.Lang "tr" }}"Kardiyoloji"{{ else }}"Cardiology"{{ end }},
+	      "wordCount": "{{ .WordCount }}",
+	      "keywords": [{{ range $i, $tag := .Params.tags }}{{ if $i }}, {{ end }}"{{ $tag }}"{{ end }}]
+	    },
+	    {
+	      "@type": "BreadcrumbList",
+	      "@id": "{{ .Permalink }}#breadcrumb",
+	      "itemListElement": [
+	        {
+	          "@type": "ListItem",
+	          "position": 1,
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Ana Sayfa"{{ else }}"Home"{{ end }},
+	          "item": "{{ .Site.BaseURL }}"
+	        },
+	        {
+	          "@type": "ListItem",
+	          "position": 2,
+	          "name": "Blog",
+	          "item": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr/{{ end }}blog/"
+	        },
+	        {
+	          "@type": "ListItem",
+	          "position": 3,
+	          "name": "{{ .Title }}",
+	          "item": "{{ .Permalink }}"
+	        }
+	      ]
+	    }
+	  ]
+	}
+</script>
+{{ else if or (in .File.Path "klinik") (in .File.Path "clinic") (in .File.Path
+"hizmetler") (in .File.Path "services") }} {{/* MedicalWebPage Schema for
+clinic/service pages */}}
 <script type="application/ld+json">
 	{
 	  "@context": "https://schema.org",

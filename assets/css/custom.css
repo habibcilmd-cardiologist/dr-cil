@@ -4,6 +4,72 @@
    ============================================================================= */
 
 /* -----------------------------------------------------------------------------
+   Header & Navigation Fixes
+   ----------------------------------------------------------------------------- */
+
+/* Logo size - heart symbol only */
+.main-menu .logo,
+.main-menu .logo svg {
+	height: 48px !important;
+	width: 48px !important;
+	max-height: 48px !important;
+	max-width: 48px !important;
+}
+
+/* Site title text styling - visible on desktop */
+.main-menu .flex-1 > nav.flex.space-x-3 a {
+	font-size: 1rem !important;
+	font-weight: 600 !important;
+	white-space: nowrap !important;
+}
+
+/* Mobile: Show site title with smaller font */
+@media (max-width: 1024px) {
+	.main-menu .flex-1 > nav.flex.space-x-3 {
+		display: flex !important;
+	}
+
+	.main-menu .flex-1 > nav.flex.space-x-3 a {
+		font-size: 0.75rem !important;
+		font-weight: 500 !important;
+		line-height: 1.2 !important;
+		max-width: 180px !important;
+		white-space: normal !important;
+		overflow: hidden !important;
+		text-overflow: ellipsis !important;
+		display: -webkit-box !important;
+		-webkit-line-clamp: 2 !important;
+		-webkit-box-orient: vertical !important;
+	}
+}
+
+/* Even smaller on very small screens */
+@media (max-width: 400px) {
+	.main-menu .flex-1 > nav.flex.space-x-3 a {
+		font-size: 0.65rem !important;
+		max-width: 140px !important;
+	}
+}
+
+/* Compact menu items */
+header nav a p {
+	font-size: 0.875rem !important;
+	padding: 0.25rem 0.5rem !important;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+	/* Smaller logo on mobile */
+	.main-menu .logo,
+	.main-menu .logo svg {
+		height: 40px !important;
+		width: 40px !important;
+		max-height: 40px !important;
+		max-width: 40px !important;
+	}
+}
+
+/* -----------------------------------------------------------------------------
    Typography - Professional Sans-Serif Fonts
    ----------------------------------------------------------------------------- */
 
@@ -233,6 +299,14 @@ article.min-h-full .text-sm {
 article.min-h-full {
 	min-height: auto !important;
 	max-height: 320px !important;
+	border-radius: 16px !important;
+	overflow: hidden !important;
+}
+
+/* Blog cards rounded corners */
+article.min-h-full .thumbnail_card,
+article.min-h-full img {
+	border-radius: 16px 16px 0 0 !important;
 }
 
 /* Hide empty padding div */

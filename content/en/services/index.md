@@ -12,159 +12,129 @@ translationKey: "services"
 
 ### 🫀 Coronary Heart Diseases
 
-| Service | Description |
-|---------|-------------|
-| 💔 Myocardial Infarction (Heart Attack) | Emergency coronary intervention |
-| 📈 Hypertension (High Blood Pressure) | Diagnosis, treatment and follow-up |
-| 💗 Heart Failure | Heart failure treatment |
-| ❤️ Coronary Artery Disease | Coronary vascular diseases |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">💔</div><h4>Myocardial Infarction</h4><p>Heart Attack - Emergency intervention</p></div>
+  <div class="service-card"><div class="service-icon">📈</div><h4>Hypertension</h4><p>High Blood Pressure - Diagnosis and treatment</p></div>
+  <div class="service-card"><div class="service-icon">💗</div><h4>Heart Failure</h4><p>Heart failure treatment</p></div>
+  <div class="service-card"><div class="service-icon">❤️</div><h4>Coronary Artery Disease</h4><p>Coronary vascular diseases</p></div>
+</div>
 
 ---
 
 ### 🔧 Interventional Cardiology
 
-| Service | Description |
-|---------|-------------|
-| 🔄 TAVI | Transcatheter Aortic Valve Implantation |
-| 💉 Coronary Angioplasty and Stent | Balloon and stent procedures |
-| 🎯 CTO Interventions | Chronic Total Occlusion treatment |
-| 🦵 Peripheral Vascular Disease | Lower and upper extremity interventions |
-| 🧠 Carotid Artery Stenosis | Carotid artery treatment |
-| ⭐ Left Main Coronary Stent Procedures | Complex left main coronary |
-| 🧪 Alcohol Septal Ablation | Hypertrophic cardiomyopathy treatment |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transcatheter Aortic Valve Implantation</p></div>
+  <div class="service-card"><div class="service-icon">💉</div><h4>Coronary Angioplasty</h4><p>Balloon and stent procedures</p></div>
+  <div class="service-card"><div class="service-icon">🎯</div><h4>CTO Interventions</h4><p>Chronic Total Occlusion treatment</p></div>
+  <div class="service-card"><div class="service-icon">🦵</div><h4>Peripheral Vascular</h4><p>Extremity interventions</p></div>
+  <div class="service-card"><div class="service-icon">🧠</div><h4>Carotid Stenosis</h4><p>Carotid artery treatment</p></div>
+  <div class="service-card"><div class="service-icon">⭐</div><h4>Left Main Coronary Stent</h4><p>Complex coronary procedures</p></div>
+  <div class="service-card"><div class="service-icon">🧪</div><h4>Alcohol Septal Ablation</h4><p>Hypertrophic cardiomyopathy treatment</p></div>
+</div>
 
 ---
 
 ### ⚡ Pacemaker and Electrophysiology
 
-| Service | Description |
-|---------|-------------|
-| 🔋 Three-Chamber Pacemaker | CRT implantation |
-| ⚡ Permanent Pacemaker | Permanent pacemaker implantation |
-| 🔌 Temporary Pacemaker | Temporary pacing |
-| 💫 Biventricular Pacemaker | Cardiac resynchronization |
-| 🛡️ ICD (Implantable Cardioverter Defibrillator) | ICD implantation |
-| ⚡ Ablation | Arrhythmia ablation therapy |
-| 🔬 Electrophysiology Study | Heart rhythm diagnosis |
-| 💥 Cardioversion | Electrical rhythm correction |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🔋</div><h4>Three-Chamber Pacemaker</h4><p>CRT implantation</p></div>
+  <div class="service-card"><div class="service-icon">⚡</div><h4>Permanent Pacemaker</h4><p>Permanent pacemaker implantation</p></div>
+  <div class="service-card"><div class="service-icon">🔌</div><h4>Temporary Pacemaker</h4><p>Temporary pacing</p></div>
+  <div class="service-card"><div class="service-icon">💫</div><h4>Biventricular Pacemaker</h4><p>Cardiac resynchronization</p></div>
+  <div class="service-card"><div class="service-icon">🛡️</div><h4>ICD</h4><p>Implantable Cardioverter Defibrillator</p></div>
+  <div class="service-card"><div class="service-icon">⚡</div><h4>Ablation</h4><p>Arrhythmia ablation therapy</p></div>
+  <div class="service-card"><div class="service-icon">🔬</div><h4>Electrophysiology Study</h4><p>Heart rhythm diagnosis</p></div>
+  <div class="service-card"><div class="service-icon">💥</div><h4>Cardioversion</h4><p>Electrical rhythm correction</p></div>
+</div>
 
 ---
 
 ### 🩺 Diagnostic Procedures
 
-| Service | Description |
-|---------|-------------|
-| 📊 Angiography | Cardiac and peripheral angiography |
-| 🔍 Angiogram | Vascular imaging |
-| 🏃 Exercise Treadmill Test | Stress EKG test |
-| 📈 Stress EKG | Exercise stress test |
-| 📉 EKG | Electrocardiography |
-| 🔊 Echocardiography | Heart ultrasound |
-| 📺 Ecogram (Ultrasound) | Ultrasound imaging |
-| 📡 Holter Monitoring | 24-hour EKG monitoring |
-| 💓 Stress Echocardiography | Stress echo test |
-| 🧲 Myocardial Perfusion Scintigraphy (Thallium Test) | Nuclear cardiology |
-| ☢️ Nuclear Stress Test | Radionuclide stress test |
-| 🧪 Myocardial Biopsy | Heart muscle biopsy |
-| 🔎 Radial Angiography | Wrist angiography |
-| 🩸 Arteriography | Arterial imaging |
-| 💉 Venography | Venous imaging |
-| 📡 Venous Duplex Ultrasonography | Venous Doppler |
-| 🖥️ CT Scan | Cardiac CT |
-| 🌡️ Electron Beam CT | EBCT scan |
-| 🧬 Tilt Table Test | Syncope evaluation |
-| 💊 Pharmacological Stress Test | Drug stress test |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">📊</div><h4>Angiography</h4><p>Cardiac and peripheral angiography</p></div>
+  <div class="service-card"><div class="service-icon">🏃</div><h4>Exercise Stress Test</h4><p>Treadmill stress EKG</p></div>
+  <div class="service-card"><div class="service-icon">📉</div><h4>EKG</h4><p>Electrocardiography</p></div>
+  <div class="service-card"><div class="service-icon">🔊</div><h4>Echocardiography</h4><p>Heart ultrasound</p></div>
+  <div class="service-card"><div class="service-icon">📡</div><h4>Holter Monitoring</h4><p>24-hour EKG monitoring</p></div>
+  <div class="service-card"><div class="service-icon">💓</div><h4>Stress Echocardiography</h4><p>Stress echo test</p></div>
+  <div class="service-card"><div class="service-icon">🧲</div><h4>Myocardial Perfusion</h4><p>Thallium test / Nuclear cardiology</p></div>
+  <div class="service-card"><div class="service-icon">🔎</div><h4>Radial Angiography</h4><p>Wrist angiography</p></div>
+  <div class="service-card"><div class="service-icon">🖥️</div><h4>Cardiac CT</h4><p>Computed Tomography Scan</p></div>
+  <div class="service-card"><div class="service-icon">🧬</div><h4>Tilt Table Test</h4><p>Syncope evaluation</p></div>
+</div>
 
 ---
 
 ### 🫀 Valve Diseases
 
-| Service | Description |
-|---------|-------------|
-| 🔄 Aortic Valve Replacement | Aortic valve surgery |
-| 🎈 Balloon Valvuloplasty | Valve widening |
-| ✂️ Commissurotomy | Valve opening procedure |
-| 🔧 Percutaneous Mitral Balloon Valvuloplasty | Mitral valve intervention |
-| 🔩 Percutaneous Commissurotomy | Percutaneous valve opening |
-| 🔨 Decalcification | Valve calcium removal |
-| 🔗 Homograft Valve | Biological valve |
-| ⚙️ Mechanical Prosthetic Valve | Mechanical valve |
-| 💚 Tricuspid Valve Replacement | Tricuspid valve surgery |
-| 🪡 Chordae and Papillary Muscle Repair | Valve support repair |
-| 🔧 Heart Valve Repair | Valve repair |
-| 💠 Heart Valve Replacement | Valve replacement |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🔄</div><h4>Aortic Valve Replacement</h4><p>Aortic valve surgery</p></div>
+  <div class="service-card"><div class="service-icon">🎈</div><h4>Balloon Valvuloplasty</h4><p>Valve widening</p></div>
+  <div class="service-card"><div class="service-icon">🔧</div><h4>Mitral Balloon Valvuloplasty</h4><p>Mitral valve intervention</p></div>
+  <div class="service-card"><div class="service-icon">⚙️</div><h4>Mechanical Valve</h4><p>Mechanical prosthetic valve</p></div>
+  <div class="service-card"><div class="service-icon">💚</div><h4>Tricuspid Replacement</h4><p>Tricuspid valve surgery</p></div>
+  <div class="service-card"><div class="service-icon">🔧</div><h4>Valve Repair</h4><p>Heart valve repair</p></div>
+</div>
 
 ---
 
 ### 🩹 Vascular Surgery and Interventions
 
-| Service | Description |
-|---------|-------------|
-| 🏥 AAA (Abdominal Aortic Aneurysm) Repair | Abdominal aortic surgery |
-| 🔧 Endovascular AAA Repair | EVAR procedure |
-| 🧵 Aortic Aneurysm Repair and Removal | Aneurysm surgery |
-| 💓 Aortic (Cardiac) Aneurysm Surgery | Cardiac aortic aneurysm |
-| 🔗 Peripheral Vascular Bypass | Peripheral bypass |
-| 🎯 Atherectomy | Plaque removal |
-| 🩺 Carotid Surgery | Carotid artery surgery |
-| ✂️ Carotid Endarterectomy | Carotid plaque removal |
-| 🔬 Microvascular Clipping | Micro vessel surgery |
-| 📺 TMR (Transmyocardial Laser Revascularization) | Laser revascularization |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🏥</div><h4>AAA Repair</h4><p>Abdominal Aortic Aneurysm surgery</p></div>
+  <div class="service-card"><div class="service-icon">🔧</div><h4>EVAR</h4><p>Endovascular Aneurysm Repair</p></div>
+  <div class="service-card"><div class="service-icon">💓</div><h4>Aortic Aneurysm Surgery</h4><p>Cardiac aortic aneurysm</p></div>
+  <div class="service-card"><div class="service-icon">🔗</div><h4>Peripheral Bypass</h4><p>Peripheral vascular bypass</p></div>
+  <div class="service-card"><div class="service-icon">🎯</div><h4>Atherectomy</h4><p>Plaque removal procedure</p></div>
+  <div class="service-card"><div class="service-icon">✂️</div><h4>Carotid Endarterectomy</h4><p>Carotid plaque removal</p></div>
+</div>
 
 ---
 
 ### 💓 Coronary Interventions
 
-| Service | Description |
-|---------|-------------|
-| 💉 Cardiac Angiography | Heart angiography |
-| 🔬 Cardiac Catheterization | Heart catheter |
-| ⭐ Cardiac Stent | Coronary stent |
-| 📊 Coronary Angiogram | Coronary imaging |
-| 🔧 Coronary Angioplasty | Coronary balloon |
-| 🔩 Exercise Test for CAD Imaging | Diagnostic stress test |
-| 💫 Non-coronary Vessel Revascularization | Non-coronary intervention |
-| 🎯 PCI (Percutaneous Coronary Intervention) | PCI procedure |
-| 💉 PTCA | PTCA procedure |
-| ⭐ Stent (Coronary Angioplasty) | Coronary stenting |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">💉</div><h4>Cardiac Angiography</h4><p>Heart angiography</p></div>
+  <div class="service-card"><div class="service-icon">🔬</div><h4>Cardiac Catheterization</h4><p>Heart catheter procedure</p></div>
+  <div class="service-card"><div class="service-icon">⭐</div><h4>Cardiac Stent</h4><p>Coronary stent implantation</p></div>
+  <div class="service-card"><div class="service-icon">🔧</div><h4>Coronary Angioplasty</h4><p>Coronary balloon procedure</p></div>
+  <div class="service-card"><div class="service-icon">🎯</div><h4>PCI</h4><p>Percutaneous Coronary Intervention</p></div>
+  <div class="service-card"><div class="service-icon">💉</div><h4>PTCA</h4><p>Percutaneous Transluminal Coronary Angioplasty</p></div>
+</div>
 
 ---
 
 ### ❤️ Cardiac Surgery
 
-| Service | Description |
-|---------|-------------|
-| 🏥 CABG (Coronary Artery Bypass Grafting) | Bypass surgery |
-| 💗 Heart Transplant | Heart transplantation |
-| 🔄 Heart Transplantation | Transplant surgery |
-| ⚙️ LVAD (Left Ventricular Assist Device) | Mechanical heart support |
-| 💉 Pericardiocentesis | Pericardial fluid drainage |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🏥</div><h4>CABG</h4><p>Coronary Artery Bypass Grafting</p></div>
+  <div class="service-card"><div class="service-icon">💗</div><h4>Heart Transplant</h4><p>Heart transplantation</p></div>
+  <div class="service-card"><div class="service-icon">⚙️</div><h4>LVAD</h4><p>Left Ventricular Assist Device</p></div>
+  <div class="service-card"><div class="service-icon">💉</div><h4>Pericardiocentesis</h4><p>Pericardial fluid drainage</p></div>
+</div>
 
 ---
 
 ### 🧪 Laboratory Tests
 
-| Service | Description |
-|---------|-------------|
-| 🩸 Blood Pressure Measurement | BP monitoring |
-| 💧 Blood Electrolyte Test | Electrolyte panel |
-| 🔬 Cholesterol Test | Lipid check |
-| 📊 HDL Cholesterol Test | Good cholesterol |
-| 📉 LDL Cholesterol Test | Bad cholesterol |
-| 🧬 Lipid Panel (Triglyceride Test) | Fat profile |
-| 🔎 Lipoprotein Panel | Lipoprotein analysis |
-| 🩸 Homocysteine | Homocysteine level |
-| ⏱️ ESR (Sedimentation Rate) | Sed rate test |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🩸</div><h4>Blood Pressure</h4><p>BP measurement</p></div>
+  <div class="service-card"><div class="service-icon">🔬</div><h4>Cholesterol Test</h4><p>Lipid profile check</p></div>
+  <div class="service-card"><div class="service-icon">📊</div><h4>HDL/LDL Test</h4><p>Good and bad cholesterol</p></div>
+  <div class="service-card"><div class="service-icon">🧬</div><h4>Lipid Panel</h4><p>Triglyceride and fat profile</p></div>
+  <div class="service-card"><div class="service-icon">💧</div><h4>Electrolyte Test</h4><p>Blood electrolyte panel</p></div>
+</div>
 
 ---
 
 ### 🩺 Other Services
 
-| Service | Description |
-|---------|-------------|
-| 📟 Ambulatory Cardiac Monitoring | Outpatient heart monitoring |
-| 💨 Nebulizer | Nebulizer therapy |
-| 🔊 Surface Echocardiography | Surface echo |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">📟</div><h4>Ambulatory Cardiac Monitoring</h4><p>Outpatient heart monitoring</p></div>
+  <div class="service-card"><div class="service-icon">🔊</div><h4>Surface Echocardiography</h4><p>Surface echo</p></div>
+</div>
 
 ---
 
@@ -179,4 +149,3 @@ Book Appointment via WhatsApp
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 
 📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
-

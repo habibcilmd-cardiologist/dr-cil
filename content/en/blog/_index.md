@@ -1,5 +1,5 @@
 ---
-title: "Health Guide"
+title: "Blog"
 description: "Informative articles about heart health, cardiology and preventive medicine. Patient education content from Assoc. Prof. Dr. Habib ÇİL."
 date: 2024-01-01
 translationKey: "blog"

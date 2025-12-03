@@ -12,159 +12,129 @@ translationKey: "services"
 
 ### 🫀 Koroner Kalp Hastalıkları
 
-| Hizmet | Açıklama |
-|--------|----------|
-| 💔 Miyokard Enfarktüsü (Kalp Krizi) | Acil koroner müdahale ve tedavi |
-| 📈 Yüksek Tansiyon (Hipertansiyon) | Tanı, tedavi ve takip |
-| 💗 Kalp Yetmezliği | Kalp yetersizliği tedavisi |
-| ❤️ Koroner Arter Hastalığı | Koroner damar hastalıkları |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">💔</div><h4>Miyokard Enfarktüsü</h4><p>Kalp Krizi - Acil müdahale ve tedavi</p></div>
+  <div class="service-card"><div class="service-icon">📈</div><h4>Hipertansiyon</h4><p>Yüksek Tansiyon - Tanı, tedavi ve takip</p></div>
+  <div class="service-card"><div class="service-icon">💗</div><h4>Kalp Yetmezliği</h4><p>Kalp yetersizliği tedavisi</p></div>
+  <div class="service-card"><div class="service-icon">❤️</div><h4>Koroner Arter Hastalığı</h4><p>Koroner damar hastalıkları</p></div>
+</div>
 
 ---
 
 ### 🔧 Girişimsel Kardiyoloji
 
-| Hizmet | Açıklama |
-|--------|----------|
-| 🔄 TAVI | Transkateter Aort Kapak İmplantasyonu |
-| 💉 Koroner Anjiyoplasti ve Stent | Balon ve stent uygulamaları |
-| 🎯 CTO Girişleri | Tam Tıkalı Damarın Açılması |
-| 🦵 Periferik Damar Hastalığı | Alt ve üst ekstremite girişimleri |
-| 🧠 Karotis (Şah Damarı) Darlıkları | Şah damarı darlıklarının giderilmesi |
-| ⭐ Sol Ana Koroner Stent Girişimleri | Kompleks sol ana koroner işlemleri |
-| 🧪 Alkol Septal Ablasyon | Hipertrofik kardiyomiyopati tedavisi |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transkateter Aort Kapak İmplantasyonu</p></div>
+  <div class="service-card"><div class="service-icon">💉</div><h4>Koroner Anjiyoplasti</h4><p>Balon ve stent uygulamaları</p></div>
+  <div class="service-card"><div class="service-icon">🎯</div><h4>CTO Girişleri</h4><p>Tam Tıkalı Damarın Açılması</p></div>
+  <div class="service-card"><div class="service-icon">🦵</div><h4>Periferik Damar</h4><p>Alt ve üst ekstremite girişimleri</p></div>
+  <div class="service-card"><div class="service-icon">🧠</div><h4>Karotis Darlıkları</h4><p>Şah damarı darlıklarının giderilmesi</p></div>
+  <div class="service-card"><div class="service-icon">⭐</div><h4>Sol Ana Koroner Stent</h4><p>Kompleks sol ana koroner işlemleri</p></div>
+  <div class="service-card"><div class="service-icon">🧪</div><h4>Alkol Septal Ablasyon</h4><p>Hipertrofik kardiyomiyopati tedavisi</p></div>
+</div>
 
 ---
 
 ### ⚡ Kalp Pili ve Elektrofizyoloji
 
-| Hizmet | Açıklama |
-|--------|----------|
-| 🔋 Üç Odacıklı Kalp Pili Takılması | CRT implantasyonu |
-| ⚡ Kalıcı Kalp Pili | Kalıcı pacemaker takılması |
-| 🔌 Geçici Kalp Pili | Geçici pacemaker uygulaması |
-| 💫 Biventriküler Pacemaker | Kardiyak resenkronizasyon |
-| 🛡️ ICD (Implante Edilebilen Kardiyoverter Defibrilatör) | ICD takılması |
-| ⚡ Ablasyon | Aritmi ablasyon tedavisi |
-| 🔬 Elektrofizyolojik Test | Kalp ritim bozuklukları tanısı |
-| 💥 Kardiyoversiyon | Elektriksel kalp ritim düzeltme |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🔋</div><h4>Üç Odacıklı Kalp Pili</h4><p>CRT implantasyonu</p></div>
+  <div class="service-card"><div class="service-icon">⚡</div><h4>Kalıcı Kalp Pili</h4><p>Kalıcı pacemaker takılması</p></div>
+  <div class="service-card"><div class="service-icon">🔌</div><h4>Geçici Kalp Pili</h4><p>Geçici pacemaker uygulaması</p></div>
+  <div class="service-card"><div class="service-icon">💫</div><h4>Biventriküler Pacemaker</h4><p>Kardiyak resenkronizasyon</p></div>
+  <div class="service-card"><div class="service-icon">🛡️</div><h4>ICD</h4><p>Implante Edilebilen Kardiyoverter Defibrilatör</p></div>
+  <div class="service-card"><div class="service-icon">⚡</div><h4>Ablasyon</h4><p>Aritmi ablasyon tedavisi</p></div>
+  <div class="service-card"><div class="service-icon">🔬</div><h4>Elektrofizyolojik Test</h4><p>Kalp ritim bozuklukları tanısı</p></div>
+  <div class="service-card"><div class="service-icon">💥</div><h4>Kardiyoversiyon</h4><p>Elektriksel kalp ritim düzeltme</p></div>
+</div>
 
 ---
 
 ### 🩺 Tanısal İşlemler
 
-| Hizmet | Açıklama |
-|--------|----------|
-| 📊 Anjiyografi | Kardiyak ve periferik anjiyografi |
-| 🔍 Anjiyogram | Damar görüntüleme |
-| 🏃 Efor Treadmill Testi | Eforlu EKG testi |
-| 📈 Eforlu EKG | Egzersiz stres testi |
-| 📉 EKG | Elektrokardiyografi |
-| 🔊 Eko (Ekokardiyografi) | Kalp ultrasonografisi |
-| 📺 Ekogram (Ultrason) | Ultrason görüntüleme |
-| 📡 Holter İzlemi | 24 saat EKG takibi |
-| 💓 Stres Ekokardiyografi | Eforlu eko testi |
-| 🧲 Miyokard Perfüzyon Sintigrafisi (Talyum Testi) | Nükleer kardiyoloji |
-| ☢️ Nükleer Stres Testi | Radyonüklid stres testi |
-| 🧪 Miyokardiyal Biyopsi | Kalp kası biyopsisi |
-| 🔎 Radyal Anjiyografi | Bilekten anjiyografi |
-| 🩸 Arteriografi | Arter görüntüleme |
-| 💉 Venografi | Ven görüntüleme |
-| 📡 Venöz Dupleks Ultrasonografisi | Ven doppler |
-| 🖥️ Bilgisayarlı Tomografi Taraması (BT) | Kardiyak BT |
-| 🌡️ Elektron Işınlı Bilgisayarlı Tomografi | EBCT taraması |
-| 🧬 Tilt Testi (TT) (Eğik Masa Testi) | Bayılma değerlendirmesi |
-| 💊 Farmakolojik Stres Testi | İlaçlı stres testi |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">📊</div><h4>Anjiyografi</h4><p>Kardiyak ve periferik anjiyografi</p></div>
+  <div class="service-card"><div class="service-icon">🏃</div><h4>Efor Testi</h4><p>Eforlu EKG ve treadmill testi</p></div>
+  <div class="service-card"><div class="service-icon">📉</div><h4>EKG</h4><p>Elektrokardiyografi</p></div>
+  <div class="service-card"><div class="service-icon">🔊</div><h4>Ekokardiyografi</h4><p>Kalp ultrasonografisi</p></div>
+  <div class="service-card"><div class="service-icon">📡</div><h4>Holter İzlemi</h4><p>24 saat EKG takibi</p></div>
+  <div class="service-card"><div class="service-icon">💓</div><h4>Stres Ekokardiyografi</h4><p>Eforlu eko testi</p></div>
+  <div class="service-card"><div class="service-icon">🧲</div><h4>Miyokard Perfüzyon</h4><p>Talyum testi / Nükleer kardiyoloji</p></div>
+  <div class="service-card"><div class="service-icon">🔎</div><h4>Radyal Anjiyografi</h4><p>Bilekten anjiyografi</p></div>
+  <div class="service-card"><div class="service-icon">🖥️</div><h4>Kardiyak BT</h4><p>Bilgisayarlı Tomografi Taraması</p></div>
+  <div class="service-card"><div class="service-icon">🧬</div><h4>Tilt Testi</h4><p>Eğik Masa Testi - Bayılma değerlendirmesi</p></div>
+</div>
 
 ---
 
 ### 🫀 Kapak Hastalıkları
 
-| Hizmet | Açıklama |
-|--------|----------|
-| 🔄 Aort Kapak Replasmanı | Aort kapak değişimi |
-| 🎈 Balon Valvüloplasti | Kapak genişletme |
-| ✂️ Komissürotomi | Kapak açma işlemi |
-| 🔧 Perkutan Mitral Balon Valvuloplasti | Mitral kapak girişimi |
-| 🔩 Perkütan Komissürotomi | Perkütan kapak açma |
-| 🔨 Dekalsifikasyon | Kapak kireç temizliği |
-| 🔗 Homogreft Kapak | Biyolojik kapak |
-| ⚙️ Mekanik Protez Kapak | Mekanik kapak |
-| 💚 Triküspid Kapak Replasmanı | Triküspid kapak değişimi |
-| 🪡 Korda ve Papiler Kas Onarımı | Kapak destek yapıları onarımı |
-| 🔧 Kalp Kapakçığı Tamiri | Kapak onarımı |
-| 💠 Kalp Kapağı Replasmanı | Kapak değişimi |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🔄</div><h4>Aort Kapak Replasmanı</h4><p>Aort kapak değişimi</p></div>
+  <div class="service-card"><div class="service-icon">🎈</div><h4>Balon Valvüloplasti</h4><p>Kapak genişletme</p></div>
+  <div class="service-card"><div class="service-icon">🔧</div><h4>Mitral Balon Valvuloplasti</h4><p>Mitral kapak girişimi</p></div>
+  <div class="service-card"><div class="service-icon">⚙️</div><h4>Mekanik Protez Kapak</h4><p>Mekanik kapak implantasyonu</p></div>
+  <div class="service-card"><div class="service-icon">💚</div><h4>Triküspid Replasmanı</h4><p>Triküspid kapak değişimi</p></div>
+  <div class="service-card"><div class="service-icon">🔧</div><h4>Kapak Tamiri</h4><p>Kalp kapakçığı onarımı</p></div>
+</div>
 
 ---
 
 ### 🩹 Damar Cerrahisi ve Girişimleri
 
-| Hizmet | Açıklama |
-|--------|----------|
-| 🏥 Abdominal Aort Anevrizması (AAA) Onarımı | Karın aort anevrizması ameliyatı |
-| 🔧 Abdominal Aort Anevrizmasının Endovasküler Onarımı | EVAR işlemi |
-| 🧵 Aort Anevrizmalarında Onarım ve Kaldırma | Anevrizma cerrahisi |
-| 💓 Aortik (Kalp) Anevrizma Cerrahisi | Kalp aort anevrizması |
-| 🔗 Periferal Vasküler Bypass | Periferik damar bypass |
-| 🎯 Aterektomi | Plak temizleme |
-| 🩺 Karotis Ameliyatı | Şah damarı ameliyatı |
-| ✂️ Karotis Endarterektomi | Karotis plak temizliği |
-| 🔬 Mikrovasküler Kırpma | Mikro damar cerrahisi |
-| 📺 Transmiyokardiyal Lazer Revaskülarizasyonu (TMR) | Lazer revaskülarizasyon |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🏥</div><h4>AAA Onarımı</h4><p>Abdominal Aort Anevrizması ameliyatı</p></div>
+  <div class="service-card"><div class="service-icon">🔧</div><h4>EVAR</h4><p>Endovasküler Anevrizma Onarımı</p></div>
+  <div class="service-card"><div class="service-icon">💓</div><h4>Aort Anevrizma Cerrahisi</h4><p>Kalp aort anevrizması</p></div>
+  <div class="service-card"><div class="service-icon">🔗</div><h4>Periferik Bypass</h4><p>Periferik damar bypass cerrahisi</p></div>
+  <div class="service-card"><div class="service-icon">🎯</div><h4>Aterektomi</h4><p>Plak temizleme işlemi</p></div>
+  <div class="service-card"><div class="service-icon">✂️</div><h4>Karotis Endarterektomi</h4><p>Karotis plak temizliği</p></div>
+</div>
 
 ---
 
 ### 💓 Koroner Girişimler
 
-| Hizmet | Açıklama |
-|--------|----------|
-| 💉 Kardiyak Anjiyografi | Kalp anjiyografi |
-| 🔬 Kardiyak Kateterizasyon | Kalp kateteri |
-| ⭐ Kardiyak Stent | Koroner stent |
-| 📊 Koroner Anjiyogram | Koroner damar görüntüleme |
-| 🔧 Koroner Anjiyoplasti | Koroner balon |
-| 🔩 Koroner Arter Hastalıklarını Görüntülemede Efor Testi | Tanısal efor |
-| 💫 Nonkoroner Damarın Cerrahi Olmayan Revaskülarizasyonu | Non-koroner girişim |
-| 🎯 Perkütan Koroner Girişim (Koroner Anjiyoplasti) | PCI işlemi |
-| 💉 Perkütan Translüminal Koroner Anjiyoplasti (PTKA) | PTKA işlemi |
-| ⭐ Stent (Koroner Anjiyoplasti) | Koroner stentleme |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">💉</div><h4>Kardiyak Anjiyografi</h4><p>Kalp anjiyografi</p></div>
+  <div class="service-card"><div class="service-icon">🔬</div><h4>Kardiyak Kateterizasyon</h4><p>Kalp kateteri işlemi</p></div>
+  <div class="service-card"><div class="service-icon">⭐</div><h4>Kardiyak Stent</h4><p>Koroner stent implantasyonu</p></div>
+  <div class="service-card"><div class="service-icon">🔧</div><h4>Koroner Anjiyoplasti</h4><p>Koroner balon işlemi</p></div>
+  <div class="service-card"><div class="service-icon">🎯</div><h4>Perkütan Koroner Girişim</h4><p>PCI işlemi</p></div>
+  <div class="service-card"><div class="service-icon">💉</div><h4>PTKA</h4><p>Perkütan Translüminal Koroner Anjiyoplasti</p></div>
+</div>
 
 ---
 
 ### ❤️ Kalp Cerrahisi
 
-| Hizmet | Açıklama |
-|--------|----------|
-| 🏥 Kalp Bypass Ameliyatı | Koroner bypass cerrahisi |
-| 💗 Kalp Nakli | Kalp transplantasyonu |
-| 🔄 Kalp Transplantasyonu | Kalp nakil cerrahisi |
-| ⚙️ Sol Ventriküler Destek Aygıtı (LVAD) | Mekanik kalp desteği |
-| 💉 Perikardiyosentez | Kalp zarı sıvısı boşaltma |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🏥</div><h4>Kalp Bypass</h4><p>Koroner bypass cerrahisi</p></div>
+  <div class="service-card"><div class="service-icon">💗</div><h4>Kalp Nakli</h4><p>Kalp transplantasyonu</p></div>
+  <div class="service-card"><div class="service-icon">⚙️</div><h4>LVAD</h4><p>Sol Ventriküler Destek Aygıtı</p></div>
+  <div class="service-card"><div class="service-icon">💉</div><h4>Perikardiyosentez</h4><p>Kalp zarı sıvısı boşaltma</p></div>
+</div>
 
 ---
 
 ### 🧪 Laboratuvar Testleri
 
-| Hizmet | Açıklama |
-|--------|----------|
-| 🩸 Kan Basıncı (Tansiyon) Ölçümü | Tansiyon kontrolü |
-| 💧 Kan Elektrolit Testi | Elektrolit paneli |
-| 🔬 Kolesterol Testi | Lipid kontrolü |
-| 📊 HDL Kolesterol Testi | İyi kolesterol |
-| 📉 LDL Kolesterol Testi | Kötü kolesterol |
-| 🧬 Lipid Paneli (Trigliserit Testi) | Yağ profili |
-| 🔎 Lipoprotein Paneli | Lipoprotein analizi |
-| 🩸 Homosistein | Homosistein düzeyi |
-| ⏱️ ESD (Sedimantasyon) | Sedim testi |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">🩸</div><h4>Tansiyon Ölçümü</h4><p>Kan basıncı kontrolü</p></div>
+  <div class="service-card"><div class="service-icon">🔬</div><h4>Kolesterol Testi</h4><p>Lipid profili kontrolü</p></div>
+  <div class="service-card"><div class="service-icon">📊</div><h4>HDL/LDL Testi</h4><p>İyi ve kötü kolesterol</p></div>
+  <div class="service-card"><div class="service-icon">🧬</div><h4>Lipid Paneli</h4><p>Trigliserit ve yağ profili</p></div>
+  <div class="service-card"><div class="service-icon">💧</div><h4>Elektrolit Testi</h4><p>Kan elektrolit paneli</p></div>
+</div>
 
 ---
 
 ### 🩺 Diğer Hizmetler
 
-| Hizmet | Açıklama |
-|--------|----------|
-| 📟 Ambulatuvar Kardiyak İzleme | Ayaktan kalp takibi |
-| 💨 Nebulizatör | Nebülizatör tedavisi |
-| 🔊 Yüzeyel Ekokardiyografi | Yüzeyel eko |
+<div class="services-grid">
+  <div class="service-card"><div class="service-icon">📟</div><h4>Ambulatuvar Kardiyak İzleme</h4><p>Ayaktan kalp takibi</p></div>
+  <div class="service-card"><div class="service-icon">🔊</div><h4>Yüzeyel Ekokardiyografi</h4><p>Yüzeyel eko</p></div>
+</div>
 
 ---
 
@@ -179,4 +149,3 @@ WhatsApp ile Randevu Al
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 
 📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
-

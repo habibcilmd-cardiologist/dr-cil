@@ -47,6 +47,9 @@ secondaryLogo = "img/logo-dark.svg"
   layout = "fixed"
   showTitle = false
 
+# Disable text next to logo in header
+disableTextInHeader = true
+
 # Language Switcher
 showLanguageSwitcher = true
 
