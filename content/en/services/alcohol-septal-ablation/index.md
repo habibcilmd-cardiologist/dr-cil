@@ -1,8 +1,8 @@
 ---
-title: "Alcohol Septal Ablation - Hypertrophic Cardiomyopathy Treatment"
-description: "Expert alcohol septal ablation in Istanbul. Assoc. Prof. Dr. Habib Çil performs hypertrophic cardiomyopathy treatment. Specialist interventional cardiology at Avrasya Hospital."
+title: "Alcohol Septal Ablation - HOCM Treatment"
+description: "Expert alcohol septal ablation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs hypertrophic cardiomyopathy treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Competitive sports are generally not recommended in HOCM patients. Light to moderate exercise can be done under doctor supervision."
 ---
 
-Alcohol septal ablation (ASA) is a minimally invasive interventional procedure used in the treatment of hypertrophic obstructive cardiomyopathy (HOCM). In this procedure, alcohol is injected into the thickened septal muscle to create controlled damage and reduce left ventricular outflow tract obstruction. Assoc. Prof. Dr. Habib Çil has extensive experience in this specialized procedure.
+Alcohol septal ablation (ASA) is a minimally invasive interventional procedure used in the treatment of hypertrophic obstructive cardiomyopathy (HOCM). In this procedure, alcohol is injected into the thickened septal muscle to create controlled damage and reduce left ventricular outflow tract obstruction. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in this specialized procedure.
 
 ## What is Hypertrophic Cardiomyopathy?
 
@@ -186,3 +186,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Cardiology Treatments
+
+Other treatments related to alcohol septal ablation:
+
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment

@@ -1,8 +1,8 @@
 ---
-title: "EKG - Elektrokardiyografi"
-description: "İstanbul'da EKG çekimi. Doç. Dr. Habib Çil ile kalp ritmi değerlendirmesi. 12 derivasyonlu EKG. Avrasya Hospital'da uzman kardiyoloji."
+title: "EKG - 12 Derivasyonlu Elektrokardiyografi"
+description: "İstanbul'da EKG çekimi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp ritmi ve elektriksel aktivite değerlendirmesi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Semptomlar, risk faktörleri ve mevcut hastalıklara göre doktor tarafından belirlenir."
 ---
 
-Elektrokardiyografi (EKG), kalbin elektriksel aktivitesini kaydeden basit, ağrısız ve hızlı bir tanı yöntemidir. Kardiyolojide en sık kullanılan tetkiklerden biridir. Doç. Dr. Habib Çil, EKG yorumlamasında geniş deneyime sahiptir.
+Elektrokardiyografi (EKG), kalbin elektriksel aktivitesini kaydeden basit, ağrısız ve hızlı bir tanı yöntemidir. Kardiyolojide en sık kullanılan tetkiklerden biridir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, EKG yorumlamasında geniş deneyime sahiptir.
 
 ## EKG Nedir?
 
@@ -172,3 +172,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tanısal Yöntemler
+
+EKG ile bağlantılı diğer kardiyoloji testleri:
+
+-   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
+-   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
+-   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Bilgisayarlı tomografi
+-   [Miyokard Perfüzyon](/tr/hizmetler/miyokard-perfuzyon/) - Sintigrafi

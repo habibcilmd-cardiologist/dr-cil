@@ -1,8 +1,8 @@
 ---
-title: "Kalp Nakli - Kalp Transplantasyonu"
-description: "İstanbul'da kalp nakli değerlendirmesi. Doç. Dr. Habib Çil ile kalp transplantasyonu öncesi ve sonrası takip. Avrasya Hospital'da uzman kardiyoloji."
+title: "Kalp Nakli - Transplantasyon Değerlendirmesi"
+description: "İstanbul'da kalp nakli değerlendirmesi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp transplantasyonu öncesi ve sonrası takip. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Genellikle 70 yaş üstü göreceli kontrendikasyondur."
 ---
 
-Kalp nakli, son dönem kalp yetmezliğinde uygulanan hayat kurtarıcı cerrahi işlemdir. Doç. Dr. Habib Çil, kalp nakli öncesi değerlendirme ve sonrası takipte geniş deneyime sahiptir.
+Kalp nakli, son dönem kalp yetmezliğinde uygulanan hayat kurtarıcı cerrahi işlemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, kalp nakli öncesi değerlendirme ve sonrası takipte geniş deneyime sahiptir.
 
 ## Kalp Nakli Nedir?
 
@@ -145,3 +145,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kalp Yetmezliği Tedavileri
+
+Kalp nakli ile bağlantılı diğer tedaviler:
+
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [LVAD](/tr/hizmetler/lvad/) - Sol ventrikül destek cihazı
+-   [Biventriküler Pacemaker](/tr/hizmetler/biventrikuler-pacemaker/) - CRT tedavisi
+-   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp fonksiyon değerlendirmesi

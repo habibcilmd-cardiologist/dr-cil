@@ -1,8 +1,8 @@
 ---
-title: "Tilt Table Test - Head-Up Tilt Test"
-description: "Expert tilt table test in Istanbul. Assoc. Prof. Dr. Habib Çil investigates fainting causes. Vasovagal syncope diagnosis. Specialist cardiology at Avrasya Hospital."
+title: "Tilt Table Test - Syncope Evaluation"
+description: "Expert tilt table test in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil investigates fainting causes. Vasovagal syncope diagnosis. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "It is recommended to rest for 1-2 hours after the test. If possible, come with a companion."
 ---
 
-Tilt table test (head-up tilt test) is a diagnostic test used to investigate the cause of unexplained fainting (syncope) episodes. It is the gold standard method for diagnosing vasovagal syncope. Assoc. Prof. Dr. Habib Çil has extensive experience in tilt test evaluation.
+Tilt table test (head-up tilt test) is a diagnostic test used to investigate the cause of unexplained fainting (syncope) episodes. It is the gold standard method for diagnosing vasovagal syncope. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in tilt test evaluation.
 
 ## What is a Tilt Table Test?
 
@@ -157,3 +157,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Diagnostic Tests
+
+Other diagnostic tests related to tilt table test:
+
+-   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment

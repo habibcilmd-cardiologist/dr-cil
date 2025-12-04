@@ -1,8 +1,8 @@
 ---
-title: "Cardiac CT - Coronary CT Angiography"
-description: "Expert cardiac CT in Istanbul. Assoc. Prof. Dr. Habib Çil performs coronary CT angiography. Non-invasive heart vessel imaging. Specialist cardiology at Avrasya Hospital."
+title: "Cardiac CT - Coronary CT Angiography (CCTA)"
+description: "Expert cardiac CT in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs coronary CT angiography. Non-invasive heart vessel imaging. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Results are usually reported the same day or next day."
 ---
 
-Cardiac CT (Computed Tomography) is non-invasive imaging of the heart and coronary arteries. It has an important place in screening and evaluating coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in interpreting cardiac CT results.
+Cardiac CT (Computed Tomography) is non-invasive imaging of the heart and coronary arteries. It has an important place in screening and evaluating coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in interpreting cardiac CT results.
 
 ## What is Cardiac CT?
 
@@ -144,3 +144,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Diagnostic Tests
+
+Other diagnostic tests related to cardiac CT:
+
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Myocardial Perfusion](/en/services/myocardial-perfusion/) - Myocardial perfusion scintigraphy
+-   [Exercise Stress Test](/en/services/exercise-stress-test/) - Exercise stress test
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

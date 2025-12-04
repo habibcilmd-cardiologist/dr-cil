@@ -1,8 +1,8 @@
 ---
-title: "Atherectomy - Plaque Removal Procedure"
-description: "Expert atherectomy procedure in Istanbul. Assoc. Prof. Dr. Habib Çil performs vascular plaque removal. Peripheral artery disease treatment. Specialist cardiology at Avrasya Hospital."
+title: "Atherectomy - Rotational and Orbital Plaque Removal"
+description: "Expert atherectomy procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs vascular plaque removal. Peripheral artery disease treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Usually 1-2 days hospital stay is sufficient."
 ---
 
-Atherectomy is mechanical removal of atherosclerotic plaque from inside the vessel. It is used especially in calcified lesions and situations where stent placement is difficult. Assoc. Prof. Dr. Habib Çil has extensive experience in atherectomy procedures.
+Atherectomy is mechanical removal of atherosclerotic plaque from inside the vessel. It is used especially in calcified lesions and situations where stent placement is difficult. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in atherectomy procedures.
 
 ## What is Atherectomy?
 
@@ -146,3 +146,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Peripheral Vascular Treatments
+
+Other peripheral vascular treatments related to atherectomy:
+
+-   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg artery disease
+-   [CTO Intervention](/en/services/cto-intervention/) - Chronic total occlusion treatment
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Angiography](/en/services/angiography/) - General angiography procedures

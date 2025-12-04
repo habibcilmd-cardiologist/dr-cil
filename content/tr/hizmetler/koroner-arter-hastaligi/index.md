@@ -1,8 +1,8 @@
 ---
-title: "Koroner Arter Hastalığı Tedavisi"
-description: "İstanbul'da koroner arter hastalığı tedavisi. Doç. Dr. Habib Çil ile kapsamlı tanı, anjiyografi, anjiyoplasti ve stent uygulamaları. Avrasya Hospital'da uzman girişimsel kardiyoloji hizmeti."
+title: "Koroner Arter Hastalığı Tanı ve Tedavisi"
+description: "İstanbul'da koroner arter hastalığı tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile anjiyografi, anjiyoplasti ve stent. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -22,7 +22,7 @@ faq:
     - question: "Stent tekrar tıkanabilir mi?"
       answer: "Modern ilaç salınımlı stentlerde yeniden daralma (restenoz) oranı %5'in altındadır. Ancak ilaç uyumu ve risk faktörlerinin kontrolü bu oranı daha da düşürür."
     - question: "Bypass mı stent mi daha iyi?"
-      answer: "Her iki tedavinin de avantajları vardır. Karar, hastanın anatomisi, eşlik eden hastalıkları ve tercihleri göz önünde bulundurularak \"Kalp Takımı\" tarafından verilir."
+      answer: 'Her iki tedavinin de avantajları vardır. Karar, hastanın anatomisi, eşlik eden hastalıkları ve tercihleri göz önünde bulundurularak "Kalp Takımı" tarafından verilir.'
 ---
 
 Koroner arter hastalığı (KAH), dünya genelinde kalp hastalıklarından ölümlerin birincil nedenidir. Kalbi besleyen koroner arterlerin daralması veya tıkanması sonucu gelişen bu durum, her yıl milyonlarca insanı etkilemektedir. Türkiye'de kardiyovasküler hastalıklar ölüm nedenlerinin başında gelmekte olup, koroner arter hastalığı bunların büyük bölümünü oluşturmaktadır. Erken tanı ve uygun tedavi ile bu hastalık kontrol altına alınabilir ve hastaların yaşam kalitesi önemli ölçüde artırılabilir.
@@ -241,3 +241,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Koroner Hastalık Tedavileri
+
+Koroner arter hastalığı ile bağlantılı diğer kardiyoloji hizmetleri:
+
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [Miyokard Enfarktüsü](/tr/hizmetler/miyokard-enfarktusu/) - Kalp krizi tedavisi
+-   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
+-   [Kalp Bypass](/tr/hizmetler/kalp-bypass/) - Koroner bypass ameliyatı

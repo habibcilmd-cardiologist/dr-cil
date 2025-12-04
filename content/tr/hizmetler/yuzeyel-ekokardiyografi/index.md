@@ -1,8 +1,8 @@
 ---
-title: "Yüzeyel Ekokardiyografi - Transtorasik Ekokardiyografi"
-description: "İstanbul'da yüzeyel ekokardiyografi. Doç. Dr. Habib Çil ile transtorasik ekokardiyografi. Kalp ultrasonu. Avrasya Hospital'da uzman kardiyoloji."
+title: "Yüzeyel Ekokardiyografi (TTE) - Kalp Ultrasonu"
+description: "İstanbul'da yüzeyel ekokardiyografi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile transtorasik ekokardiyografi. Kalp ultrasonu. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Hayır, ultrason kullanır ve radyasyon içermez."
 ---
 
-Yüzeyel ekokardiyografi (transtorasik ekokardiyografi - TTE), göğüs duvarı üzerinden yapılan kalp ultrasonu tetkikidir. Doç. Dr. Habib Çil, ekokardiyografi değerlendirmesinde geniş deneyime sahiptir.
+Yüzeyel ekokardiyografi (transtorasik ekokardiyografi - TTE), göğüs duvarı üzerinden yapılan kalp ultrasonu tetkikidir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, ekokardiyografi değerlendirmesinde geniş deneyime sahiptir.
 
 ## Yüzeyel Ekokardiyografi Nedir?
 
@@ -153,3 +153,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tanısal Yöntemler
+
+Yüzeyel ekokardiyografi ile bağlantılı diğer kardiyoloji testleri:
+
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapsamlı kalp ultrasonografisi
+-   [Stres Ekokardiyografi](/tr/hizmetler/stres-ekokardiyografi/) - Stres altında kalp değerlendirmesi
+-   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
+-   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
+-   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi

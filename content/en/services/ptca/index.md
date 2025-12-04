@@ -1,8 +1,8 @@
 ---
-title: "PTCA - Percutaneous Transluminal Coronary Angioplasty"
-description: "Expert PTCA procedure in Istanbul. Assoc. Prof. Dr. Habib Çil performs percutaneous transluminal coronary angioplasty. Balloon angioplasty. Specialist cardiology at Avrasya Hospital."
+title: "PTCA - Balloon Coronary Angioplasty"
+description: "Expert PTCA procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs percutaneous transluminal coronary angioplasty. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Usually same day or next day discharge is possible."
 ---
 
-PTCA (Percutaneous Transluminal Coronary Angioplasty) is dilation of coronary artery stenosis with balloon. It forms the basis of modern coronary interventions. Assoc. Prof. Dr. Habib Çil has extensive experience in PTCA procedures.
+PTCA (Percutaneous Transluminal Coronary Angioplasty) is dilation of coronary artery stenosis with balloon. It forms the basis of modern coronary interventions. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in PTCA procedures.
 
 ## What is PTCA?
 
@@ -149,3 +149,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Interventions
+
+Other coronary treatments related to PTCA:
+
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [PCI](/en/services/pci/) - Percutaneous coronary intervention
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

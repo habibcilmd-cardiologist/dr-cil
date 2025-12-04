@@ -1,8 +1,8 @@
 ---
-title: "Biventriküler Pacemaker - Kalp Resenkronizasyonu"
-description: "İstanbul'da biventriküler pacemaker implantasyonu. Doç. Dr. Habib Çil ile kalp yetmezliği tedavisi. CRT tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+title: "Biventriküler Pacemaker - CRT Tedavisi"
+description: "İstanbul'da biventriküler pacemaker implantasyonu. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile kardiyak resenkronizasyon tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, normal günlük aktivitelerinizi sürdürebilirsiniz. Egzersiz kapasiteniz artabilir."
 ---
 
-Biventriküler pacemaker, kalp yetmezliği hastalarında her iki ventrikülü senkronize şekilde uyararak kalp fonksiyonunu iyileştiren özel bir cihazdır. Kardiyak resenkronizasyon tedavisi (CRT) olarak da bilinir. Doç. Dr. Habib Çil, biventriküler pacemaker implantasyonunda geniş deneyime sahiptir.
+Biventriküler pacemaker, kalp yetmezliği hastalarında her iki ventrikülü senkronize şekilde uyararak kalp fonksiyonunu iyileştiren özel bir cihazdır. Kardiyak resenkronizasyon tedavisi (CRT) olarak da bilinir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, biventriküler pacemaker implantasyonunda geniş deneyime sahiptir.
 
 ## Biventriküler Pacemaker Nedir?
 
@@ -164,3 +164,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kalp Yetmezliği Tedavileri
+
+Biventriküler pacemaker ile bağlantılı diğer tedaviler:
+
+-   [Üç Odacıklı Kalp Pili](/tr/hizmetler/uc-odacikli-kalp-pili/) - CRT tedavisi
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Standart pacemaker
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp fonksiyon değerlendirmesi

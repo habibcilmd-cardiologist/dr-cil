@@ -1,8 +1,8 @@
 ---
-title: "Electrophysiology Study (EPS) - Arrhythmia Diagnosis"
-description: "Expert electrophysiology study in Istanbul. Assoc. Prof. Dr. Habib Çil diagnoses heart rhythm disorders. EPS testing. Specialist cardiology at Avrasya Hospital."
+title: "Electrophysiology Study - EPS Arrhythmia Mapping"
+description: "Expert electrophysiology study in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil diagnoses heart rhythm disorders. EPS testing. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Results help determine the arrhythmia type, source, and most appropriate treatment method."
 ---
 
-Electrophysiology study (EPS) is an invasive diagnostic procedure performed to evaluate the heart's electrical system. This procedure is used to determine the source of arrhythmias, perform risk assessment, and plan treatment. Assoc. Prof. Dr. Habib Çil has extensive experience in electrophysiology studies.
+Electrophysiology study (EPS) is an invasive diagnostic procedure performed to evaluate the heart's electrical system. This procedure is used to determine the source of arrhythmias, perform risk assessment, and plan treatment. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in electrophysiology studies.
 
 ## What is an Electrophysiology Study?
 
@@ -171,3 +171,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Arrhythmia Treatments
+
+Other arrhythmia treatments related to electrophysiology study:
+
+-   [Ablation](/en/services/ablation/) - Catheter ablation
+-   [Cardioversion](/en/services/cardioversion/) - Electrical cardioversion
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring

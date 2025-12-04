@@ -1,8 +1,8 @@
 ---
-title: "Lower Extremity Arterial Disease - Peripheral Artery Disease"
-description: "Expert lower extremity arterial disease treatment in Istanbul. Assoc. Prof. Dr. Habib Çil treats peripheral artery disease. Angioplasty and stent. Specialist cardiology at Avrasya Hospital."
+title: "Lower Extremity Arterial Disease - Leg Artery Intervention"
+description: "Expert lower extremity arterial disease treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats peripheral artery disease. Angioplasty and stent. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, smoking is the most important cause of the disease and affects treatment success."
 ---
 
-Lower extremity arterial disease (LEAD) is narrowing of leg arteries due to atherosclerosis. It can cause walking pain and gangrene in advanced stages. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating lower extremity arterial disease.
+Lower extremity arterial disease (LEAD) is narrowing of leg arteries due to atherosclerosis. It can cause walking pain and gangrene in advanced stages. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating lower extremity arterial disease.
 
 ## What is Lower Extremity Arterial Disease?
 
@@ -159,3 +159,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Peripheral Vascular Treatments
+
+Other peripheral vascular treatments related to lower extremity arterial disease:
+
+-   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
+-   [Angiography](/en/services/angiography/) - General angiography procedures
+-   [Venous Insufficiency](/en/services/venous-insufficiency/) - Venous insufficiency treatment
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

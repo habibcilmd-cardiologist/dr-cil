@@ -1,8 +1,8 @@
 ---
-title: "Abdominal Aort Anevrizması - Karın Aort Anevrizması"
-description: "İstanbul'da abdominal aort anevrizması tedavisi. Doç. Dr. Habib Çil ile karın aort anevrizması. EVAR ve cerrahi tedavi. Avrasya Hospital'da uzman kardiyoloji."
+title: "Abdominal Aort Anevrizması (AAA) - Tedavi Seçenekleri"
+description: "İstanbul'da abdominal aort anevrizması tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile karın aort anevrizması. EVAR ve cerrahi tedavi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir."
 ---
 
-Abdominal aort anevrizması (AAA), karın bölgesindeki aortun anormal genişlemesidir. Rüptür riski nedeniyle hayatı tehdit edebilen ciddi bir durumdur. Doç. Dr. Habib Çil, abdominal aort anevrizması tanı ve tedavisinde geniş deneyime sahiptir.
+Abdominal aort anevrizması (AAA), karın bölgesindeki aortun anormal genişlemesidir. Rüptür riski nedeniyle hayatı tehdit edebilen ciddi bir durumdur. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, abdominal aort anevrizması tanı ve tedavisinde geniş deneyime sahiptir.
 
 ## Abdominal Aort Anevrizması Nedir?
 
@@ -145,3 +145,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Damar Tedavileri
+
+Abdominal aort anevrizması ile bağlantılı diğer tedaviler:
+
+-   [EVAR](/tr/hizmetler/evar/) - Endovasküler anevrizma tamiri
+-   [Periferik Damar](/tr/hizmetler/periferik-damar/) - Periferik damar hastalıkları
+-   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Bilgisayarlı tomografi
+-   [Hipertansiyon](/tr/hizmetler/hipertansiyon/) - Yüksek tansiyon tedavisi
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı

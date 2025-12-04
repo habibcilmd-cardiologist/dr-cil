@@ -1,8 +1,8 @@
 ---
-title: "Kalp Bypass - Koroner Arter Bypass Greft (CABG)"
-description: "İstanbul'da kalp bypass ameliyatı. Doç. Dr. Habib Çil ile koroner arter bypass greft cerrahisi. CABG operasyonu. Avrasya Hospital'da uzman kardiyoloji."
+title: "Kalp Bypass (CABG) - Koroner Arter Bypass Cerrahisi"
+description: "İstanbul'da kalp bypass ameliyatı. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile koroner arter bypass greft cerrahisi. CABG operasyonu. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Bazı hastalarda evet. Karar kalp takımı tarafından verilir."
 ---
 
-Kalp bypass ameliyatı, tıkalı koroner arterlerin etrafından yeni damar yolu oluşturarak kalp kasına kan akışını sağlayan cerrahi işlemdir. Doç. Dr. Habib Çil, bypass cerrahisi öncesi ve sonrası değerlendirmede geniş deneyime sahiptir.
+Kalp bypass ameliyatı, tıkalı koroner arterlerin etrafından yeni damar yolu oluşturarak kalp kasına kan akışını sağlayan cerrahi işlemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, bypass cerrahisi öncesi ve sonrası değerlendirmede geniş deneyime sahiptir.
 
 ## Kalp Bypass Nedir?
 
@@ -145,3 +145,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Koroner Tedaviler
+
+Kalp bypass ameliyatı ile bağlantılı diğer tedaviler:
+
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı
+-   [Miyokard Enfarktüsü](/tr/hizmetler/miyokard-enfarktusu/) - Kalp krizi tedavisi
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [Aort Kapak Hastalığı](/tr/hizmetler/aort-kapak-hastaligi/) - Aort kapak hastalıkları

@@ -1,8 +1,8 @@
 ---
-title: "Renal Arter Stenozu - Böbrek Damar Darlığı"
-description: "İstanbul'da renal arter stenozu tedavisi. Doç. Dr. Habib Çil ile böbrek damar darlığı. Stent ve anjiyoplasti. Avrasya Hospital'da uzman kardiyoloji."
+title: "Renal Arter Stenozu - Böbrek Damar Darlığı Tedavisi"
+description: "İstanbul'da renal arter stenozu tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile böbrek damar darlığı. Stent ve anjiyoplasti. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, genellikle sadece balon anjiyoplasti yeterlidir, stent gerekmez."
 ---
 
-Renal arter stenozu, böbreği besleyen arterin daralmasıdır. Hipertansiyon ve böbrek yetmezliğine yol açabilir. Doç. Dr. Habib Çil, renal arter stenozu tanı ve tedavisinde geniş deneyime sahiptir.
+Renal arter stenozu, böbreği besleyen arterin daralmasıdır. Hipertansiyon ve böbrek yetmezliğine yol açabilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, renal arter stenozu tanı ve tedavisinde geniş deneyime sahiptir.
 
 ## Renal Arter Stenozu Nedir?
 
@@ -152,3 +152,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Periferik Damar Tedavileri
+
+Renal arter stenozu ile bağlantılı diğer tedaviler:
+
+-   [Periferik Damar](/tr/hizmetler/periferik-damar/) - Periferik damar hastalıkları
+-   [Karotis Stenozu](/tr/hizmetler/karotis-stenozu/) - Şah damarı darlığı
+-   [Hipertansiyon](/tr/hizmetler/hipertansiyon/) - Yüksek tansiyon tedavisi
+-   [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar hastalığı
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Damar görüntüleme

@@ -1,8 +1,8 @@
 ---
-title: "Kardiyak Kateterizasyon - Kalp Kateteri"
-description: "İstanbul'da kardiyak kateterizasyon. Doç. Dr. Habib Çil ile kalp kateteri işlemi. Tanısal ve girişimsel kateterizasyon. Avrasya Hospital'da uzman kardiyoloji."
+title: "Kardiyak Kateterizasyon - Kalp Kateteri İşlemi"
+description: "İstanbul'da kardiyak kateterizasyon. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp kateteri işlemi. Tanısal ve girişimsel kateterizasyon. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, lokal anestezi ile yapılır ve işlem boyunca uyanıksınız."
 ---
 
-Kardiyak kateterizasyon, kalp odacıkları ve damarlarına kateter yerleştirilerek yapılan tanısal ve tedavi amaçlı işlemdir. Doç. Dr. Habib Çil, kardiyak kateterizasyon işleminde geniş deneyime sahiptir.
+Kardiyak kateterizasyon, kalp odacıkları ve damarlarına kateter yerleştirilerek yapılan tanısal ve tedavi amaçlı işlemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, kardiyak kateterizasyon işleminde geniş deneyime sahiptir.
 
 ## Kardiyak Kateterizasyon Nedir?
 
@@ -146,3 +146,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kardiyoloji Girişimleri
+
+Kardiyak kateterizasyon ile bağlantılı diğer tedaviler:
+
+-   [Koroner Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
+-   [TAVI](/tr/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
+-   [Perikardiyosentez](/tr/hizmetler/perikardiyosentez/) - Perikardiyal sıvı boşaltma

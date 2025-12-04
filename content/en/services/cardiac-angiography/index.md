@@ -1,8 +1,8 @@
 ---
-title: "Cardiac Angiography - Heart Angiography"
-description: "Expert cardiac angiography in Istanbul. Assoc. Prof. Dr. Habib Çil performs heart angiography. Coronary artery imaging. Specialist cardiology at Avrasya Hospital."
+title: "Cardiac Angiography - Coronary Artery Imaging"
+description: "Expert cardiac angiography in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs heart angiography. Coronary artery imaging at Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, it is performed under local anesthesia and you are awake throughout the procedure."
 ---
 
-Cardiac angiography is evaluation of heart vessels using X-ray imaging. It is the gold standard method for diagnosing coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac angiography procedures.
+Cardiac angiography is evaluation of heart vessels using X-ray imaging. It is the gold standard method for diagnosing coronary artery disease. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac angiography procedures.
 
 ## What is Cardiac Angiography?
 
@@ -144,3 +144,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Interventions
+
+Other coronary treatments related to cardiac angiography:
+
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [CTO Intervention](/en/services/cto-intervention/) - Chronic total occlusion treatment
+-   [Radial Angiography](/en/services/radial-angiography/) - Wrist access angiography
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

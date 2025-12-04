@@ -1,8 +1,8 @@
 ---
-title: "Exercise Stress Test - Treadmill Test"
-description: "Expert exercise stress test in Istanbul. Assoc. Prof. Dr. Habib Çil performs treadmill testing. Coronary artery disease diagnosis. Specialist cardiology at Avrasya Hospital."
+title: "Exercise Stress Test - Cardiac Treadmill Test"
+description: "Expert exercise stress test in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs treadmill testing. Coronary artery disease diagnosis. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Pharmacological stress test or stress echocardiography can be performed in patients who cannot exercise."
 ---
 
-Exercise stress test is an important diagnostic method that evaluates the heart's performance during exercise. It is widely used in detecting coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in exercise stress test evaluation.
+Exercise stress test is an important diagnostic method that evaluates the heart's performance during exercise. It is widely used in detecting coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in exercise stress test evaluation.
 
 ## What is an Exercise Stress Test?
 
@@ -171,3 +171,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Diagnostic Tests
+
+Other diagnostic tests related to exercise stress test:
+
+-   [Stress Echocardiography](/en/services/stress-echocardiography/) - Exercise echo
+-   [Myocardial Perfusion](/en/services/myocardial-perfusion/) - Myocardial perfusion scintigraphy
+-   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

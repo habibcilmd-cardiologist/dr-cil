@@ -1,8 +1,8 @@
 ---
-title: "Heart Failure Treatment"
-description: "Expert heart failure treatment in Istanbul. Assoc. Prof. Dr. Habib Çil provides comprehensive heart failure diagnosis, medical management, and advanced treatment options. Modern cardiology at Avrasya Hospital."
+title: "Heart Failure - Comprehensive Management"
+description: "Expert heart failure treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides comprehensive heart failure diagnosis and advanced treatment options. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -244,3 +244,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Heart Failure Treatments
+
+Other heart failure treatments related to heart failure:
+
+-   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [LVAD](/en/services/lvad/) - Left ventricular assist device
+-   [Heart Transplant](/en/services/heart-transplant/) - Heart transplantation
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound

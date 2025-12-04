@@ -1,8 +1,8 @@
 ---
-title: "Periferik Damar Hastalıkları Tedavisi"
-description: "İstanbul'da periferik damar hastalıkları tedavisi. Doç. Dr. Habib Çil ile bacak damarları, renal arter ve diğer periferik damar girişimleri. Avrasya Hospital'da uzman girişimsel kardiyoloji."
+title: "Periferik Damar Hastalıkları - Bacak Damar Tedavisi"
+description: "İstanbul'da periferik damar hastalıkları tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile bacak damarları ve periferik anjiyoplasti. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Kesinlikle. Sigara bırakma, PAH tedavisinin en önemli bileşenidir. Hastalığın ilerlemesini yavaşlatır ve tedavi başarısını artırır."
 ---
 
-Periferik arter hastalığı (PAH), kalp ve beyin dışındaki arterlerin ateroskleroz nedeniyle daralması veya tıkanmasıdır. En sık bacak arterlerini etkileyen bu hastalık, yürüme güçlüğünden gangrene kadar ciddi sonuçlara yol açabilir. Doç. Dr. Habib Çil, periferik damar girişimlerinde geniş deneyime sahip olup, modern tekniklerle hastaların yaşam kalitesini artırmaktadır.
+Periferik arter hastalığı (PAH), kalp ve beyin dışındaki arterlerin ateroskleroz nedeniyle daralması veya tıkanmasıdır. En sık bacak arterlerini etkileyen bu hastalık, yürüme güçlüğünden gangrene kadar ciddi sonuçlara yol açabilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, periferik damar girişimlerinde geniş deneyime sahip olup modern tekniklerle hastaların yaşam kalitesini artırmaktadır.
 
 ## Periferik Arter Hastalığı Nedir?
 
@@ -209,3 +209,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Periferik Damar Tedavileri
+
+Periferik damar hastalığı ile bağlantılı diğer tedaviler:
+
+-   [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar hastalığı
+-   [Karotis Stenozu](/tr/hizmetler/karotis-stenozu/) - Şah damarı darlığı
+-   [Renal Arter Stenozu](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damarı darlığı
+-   [Abdominal Aort Anevrizması](/tr/hizmetler/abdominal-aort-anevrizması/) - Karın aort anevrizması
+-   [EVAR](/tr/hizmetler/evar/) - Endovasküler anevrizma tamiri

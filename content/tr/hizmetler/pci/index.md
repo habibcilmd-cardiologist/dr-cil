@@ -1,8 +1,8 @@
 ---
-title: "PCI - Perkütan Koroner Girişim"
-description: "İstanbul'da PCI işlemi. Doç. Dr. Habib Çil ile perkütan koroner girişim. Koroner anjiyoplasti ve stent. Avrasya Hospital'da uzman kardiyoloji."
+title: "PCI - Perkütan Koroner Girişim (Stent Tedavisi)"
+description: "İstanbul'da PCI işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile perkütan koroner girişim, anjiyoplasti ve stent implantasyonu. Kalp krizi acil tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, gerekirse farklı damarlara veya aynı damara tekrar PCI yapılabilir."
 ---
 
-PCI (Perkütan Koroner Girişim), koroner arter hastalığının kateter yoluyla tedavisidir. Balon anjiyoplasti ve stent implantasyonunu kapsar. Doç. Dr. Habib Çil, PCI işleminde geniş deneyime sahiptir.
+PCI (Perkütan Koroner Girişim), koroner arter hastalığının kateter yoluyla tedavisidir. Balon anjiyoplasti ve stent implantasyonunu kapsar. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, primer ve elektif PCI işlemlerinde 20 yılı aşkın deneyime sahiptir.
 
 ## PCI Nedir?
 
@@ -152,4 +152,14 @@ WhatsApp ile Randevu Al
 
 ---
 
-_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+_Bu içerik girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Girişimsel İşlemler
+
+PCI ile bağlantılı diğer kardiyoloji hizmetleri:
+
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent tedavisi detayları
+-   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - Stent tipleri ve özellikleri
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Tanısal anjiyografi
+-   [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi
+-   [Miyokard Enfarktüsü](/tr/hizmetler/miyokard-enfarktusu/) - Kalp krizi tedavisi

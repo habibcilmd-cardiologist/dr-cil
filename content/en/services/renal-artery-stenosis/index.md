@@ -1,8 +1,8 @@
 ---
-title: "Renal Artery Stenosis - Kidney Artery Narrowing"
-description: "Expert renal artery stenosis treatment in Istanbul. Assoc. Prof. Dr. Habib Çil treats kidney artery narrowing. Stent and angioplasty. Specialist cardiology at Avrasya Hospital."
+title: "Renal Artery Stenosis - Kidney Artery Stenting"
+description: "Expert renal artery stenosis treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats kidney artery narrowing. Stent and angioplasty. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, usually balloon angioplasty alone is sufficient, stent is not needed."
 ---
 
-Renal artery stenosis is narrowing of the artery that supplies the kidney. It can lead to hypertension and kidney failure. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating renal artery stenosis.
+Renal artery stenosis is narrowing of the artery that supplies the kidney. It can lead to hypertension and kidney failure. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating renal artery stenosis.
 
 ## What is Renal Artery Stenosis?
 
@@ -152,3 +152,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Peripheral Vascular Treatments
+
+Other peripheral vascular treatments related to renal artery stenosis:
+
+-   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Carotid Stenosis](/en/services/carotid-stenosis/) - Carotid artery stenosis treatment
+-   [Hypertension](/en/services/hypertension/) - High blood pressure treatment
+-   [Angiography](/en/services/angiography/) - General angiography procedures
+-   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure

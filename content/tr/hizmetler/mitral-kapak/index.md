@@ -1,8 +1,8 @@
 ---
-title: "Mitral Kapak Hastalığı - Mitral Darlığı ve Yetersizliği"
-description: "İstanbul'da mitral kapak hastalığı tedavisi. Doç. Dr. Habib Çil ile mitral darlığı ve yetersizliği. Balon valvüloplasti ve MitraClip. Avrasya Hospital'da uzman kardiyoloji."
+title: "Mitral Kapak Hastalığı - Darlık ve Yetersizlik Tedavisi"
+description: "İstanbul'da mitral kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile mitral darlığı ve yetersizliği. Balon valvüloplasti ve MitraClip. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir."
 ---
 
-Mitral kapak hastalığı, sol atriyum ile sol ventrikül arasındaki kapağın işlev bozukluğudur. Mitral darlığı ve mitral yetersizliği olmak üzere iki ana formu vardır. Doç. Dr. Habib Çil, mitral kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
+Mitral kapak hastalığı, sol atriyum ile sol ventrikül arasındaki kapağın işlev bozukluğudur. Mitral darlığı ve mitral yetersizliği olmak üzere iki ana formu vardır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, mitral kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
 
 ## Mitral Kapak Hastalığı Nedir?
 
@@ -170,3 +170,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kapak Tedavileri
+
+Mitral kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
+
+-   [MitraClip](/tr/hizmetler/mitraclip/) - Kateter ile mitral kapak tamiri
+-   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
+-   [Triküspit Kapak](/tr/hizmetler/trikuspid-kapak/) - Triküspit kapak hastalıkları
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi

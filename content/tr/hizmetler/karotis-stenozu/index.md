@@ -1,8 +1,8 @@
 ---
-title: "Karotis Arter Stenozu Tedavisi"
-description: "İstanbul'da karotis arter stenozu tedavisi. Doç. Dr. Habib Çil ile karotis stentleme ve inme önleme. Avrasya Hospital'da uzman girişimsel kardiyoloji hizmeti."
+title: "Karotis Arter Stenozu - İnme Önleme Tedavisi"
+description: "İstanbul'da karotis arter stenozu tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile karotis stentleme ve inme önleme. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Bilateral stenozda genellikle önce daha ciddi olan taraf tedavi edilir. İkinci taraf birkaç hafta sonra değerlendirilir."
 ---
 
-Karotis arter stenozu, beyni besleyen ana damarların daralmasıdır ve inmenin en önemli nedenlerinden biridir. Türkiye'de her yıl yaklaşık 200.000 inme vakası görülmekte olup, bunların önemli bir kısmı karotis hastalığına bağlıdır. Doç. Dr. Habib Çil, karotis stentleme konusunda geniş deneyime sahip olup, inme riskini azaltmak için modern tedavi yöntemleri sunmaktadır.
+Karotis arter stenozu, beyni besleyen ana damarların daralmasıdır ve inmenin en önemli nedenlerinden biridir. Türkiye'de her yıl yaklaşık 200.000 inme vakası görülmekte olup, bunların önemli bir kısmı karotis hastalığına bağlıdır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, karotis stentleme konusunda geniş deneyime sahip olup inme riskini azaltmak için modern tedavi yöntemleri sunmaktadır.
 
 ## Karotis Arter Stenozu Nedir?
 
@@ -203,3 +203,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Periferik Damar Tedavileri
+
+Karotis stenozu ile bağlantılı diğer tedaviler:
+
+-   [Periferik Damar](/tr/hizmetler/periferik-damar/) - Periferik damar hastalıkları
+-   [Renal Arter Stenozu](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damarı darlığı
+-   [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar hastalığı
+-   [Hipertansiyon](/tr/hizmetler/hipertansiyon/) - Yüksek tansiyon tedavisi
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı

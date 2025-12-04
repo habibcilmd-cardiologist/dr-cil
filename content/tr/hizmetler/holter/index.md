@@ -1,8 +1,8 @@
 ---
-title: "Holter Monitörizasyonu - 24 Saat EKG Takibi"
-description: "İstanbul'da Holter monitörizasyonu. Doç. Dr. Habib Çil ile 24-48 saat EKG takibi. Ritim bozukluğu tanısı. Avrasya Hospital'da uzman kardiyoloji."
+title: "Holter Monitörizasyonu - 24-48 Saat Ritim Takibi"
+description: "İstanbul'da Holter monitörizasyonu. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile 24-48 saat EKG takibi. Aritmi ve çarpıntı tanısı. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, normal şekilde uyuyabilirsiniz. Cihaz uyku sırasında da kayıt yapar."
 ---
 
-Holter monitörizasyonu, kalbin elektriksel aktivitesinin 24-48 saat veya daha uzun süre sürekli olarak kaydedilmesidir. Aralıklı ritim bozukluklarının tespitinde altın standart yöntemdir. Doç. Dr. Habib Çil, Holter değerlendirmesinde geniş deneyime sahiptir.
+Holter monitörizasyonu, kalbin elektriksel aktivitesinin 24-48 saat veya daha uzun süre sürekli olarak kaydedilmesidir. Aralıklı ritim bozukluklarının tespitinde altın standart yöntemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, Holter değerlendirmesinde geniş deneyime sahiptir.
 
 ## Holter Monitörizasyonu Nedir?
 
@@ -165,3 +165,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tanısal Yöntemler
+
+Holter ile bağlantılı diğer kardiyoloji testleri:
+
+-   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
+-   [Ambulatuvar Kardiyak İzleme](/tr/hizmetler/ambulatuvar-kardiyak-izleme/) - Uzun süreli ritim takibi
+-   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
+-   [Ablasyon](/tr/hizmetler/ablasyon/) - Aritmi tedavisi

@@ -1,8 +1,8 @@
 ---
-title: "Surface Echocardiography - Transthoracic Echocardiography"
-description: "Expert surface echocardiography in Istanbul. Assoc. Prof. Dr. Habib Çil performs transthoracic echocardiography. Heart ultrasound. Specialist cardiology at Avrasya Hospital."
+title: "Surface Echocardiography - TTE Heart Ultrasound"
+description: "Expert surface echocardiography in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs transthoracic echocardiography. Heart ultrasound. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "No, it uses ultrasound and contains no radiation."
 ---
 
-Surface echocardiography (transthoracic echocardiography - TTE) is a heart ultrasound examination performed through the chest wall. Assoc. Prof. Dr. Habib Çil has extensive experience in echocardiography evaluation.
+Surface echocardiography (transthoracic echocardiography - TTE) is a heart ultrasound examination performed through the chest wall. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in echocardiography evaluation.
 
 ## What is Surface Echocardiography?
 
@@ -153,3 +153,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Diagnostic Tests
+
+Other diagnostic tests related to surface echocardiography:
+
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Stress Echocardiography](/en/services/stress-echocardiography/) - Exercise echo
+-   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography

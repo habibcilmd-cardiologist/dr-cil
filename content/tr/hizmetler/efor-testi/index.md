@@ -1,8 +1,8 @@
 ---
-title: "Efor Testi - Egzersiz Stres Testi"
-description: "İstanbul'da efor testi. Doç. Dr. Habib Çil ile koşu bandı testi. Koroner arter hastalığı tanısı. Avrasya Hospital'da uzman kardiyoloji."
+title: "Efor Testi - Koşu Bandı Stres Testi"
+description: "İstanbul'da efor testi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile egzersiz stres testi. Koroner arter hastalığı tanısı ve risk değerlendirmesi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Egzersiz yapamayan hastalarda farmakolojik stres testi veya stres ekokardiyografi yapılabilir."
 ---
 
-Efor testi, kalbin egzersiz sırasındaki performansını değerlendiren önemli bir tanı yöntemidir. Koroner arter hastalığının tespitinde yaygın olarak kullanılır. Doç. Dr. Habib Çil, efor testi değerlendirmesinde geniş deneyime sahiptir.
+Efor testi, kalbin egzersiz sırasındaki performansını değerlendiren önemli bir tanı yöntemidir. Koroner arter hastalığının tespitinde yaygın olarak kullanılır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, efor testi değerlendirmesinde geniş deneyime sahiptir.
 
 ## Efor Testi Nedir?
 
@@ -170,4 +170,14 @@ WhatsApp ile Randevu Al
 
 ---
 
-_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+_Bu içerik kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tanısal Testler
+
+Efor testi ile birlikte uygulanan diğer kardiyoloji testleri:
+
+-   [Stres Ekokardiyografi](/tr/hizmetler/stres-ekokardiyografi/) - Eforlu kalp ultrasonu
+-   [Miyokard Perfüzyon](/tr/hizmetler/miyokard-perfuzyon/) - Talyum testi
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonu
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Damar görüntüleme
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Hastalık bilgisi

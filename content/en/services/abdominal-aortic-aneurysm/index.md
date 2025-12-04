@@ -1,8 +1,8 @@
 ---
-title: "Abdominal Aortic Aneurysm - AAA Treatment"
-description: "Expert abdominal aortic aneurysm treatment in Istanbul. Assoc. Prof. Dr. Habib Çil treats AAA. EVAR and surgical treatment. Specialist cardiology at Avrasya Hospital."
+title: "Abdominal Aortic Aneurysm - AAA and EVAR Treatment"
+description: "Expert abdominal aortic aneurysm treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats AAA. EVAR and surgical treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "After successful treatment, you can return to normal life. Regular follow-up is required."
 ---
 
-Abdominal aortic aneurysm (AAA) is abnormal enlargement of the aorta in the abdominal region. It is a serious condition that can be life-threatening due to rupture risk. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating abdominal aortic aneurysm.
+Abdominal aortic aneurysm (AAA) is abnormal enlargement of the aorta in the abdominal region. It is a serious condition that can be life-threatening due to rupture risk. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating abdominal aortic aneurysm.
 
 ## What is Abdominal Aortic Aneurysm?
 
@@ -145,3 +145,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Peripheral Vascular Treatments
+
+Other peripheral vascular treatments related to abdominal aortic aneurysm:
+
+-   [EVAR](/en/services/evar/) - Endovascular aneurysm repair
+-   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Hypertension](/en/services/hypertension/) - High blood pressure treatment

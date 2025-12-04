@@ -1,8 +1,8 @@
 ---
-title: "Biventricular Pacemaker - Cardiac Resynchronization"
-description: "Expert biventricular pacemaker implantation in Istanbul. Assoc. Prof. Dr. Habib Çil treats heart failure. CRT therapy. Specialist cardiology at Avrasya Hospital."
+title: "Biventricular Pacemaker - CRT Implantation"
+description: "Expert biventricular pacemaker implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats heart failure with CRT therapy. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, you can continue your normal daily activities. Your exercise capacity may increase."
 ---
 
-A biventricular pacemaker is a special device that improves heart function by stimulating both ventricles synchronously in heart failure patients. It is also known as cardiac resynchronization therapy (CRT). Assoc. Prof. Dr. Habib Çil has extensive experience in biventricular pacemaker implantation.
+A biventricular pacemaker is a special device that improves heart function by stimulating both ventricles synchronously in heart failure patients. It is also known as cardiac resynchronization therapy (CRT). Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in biventricular pacemaker implantation.
 
 ## What is a Biventricular Pacemaker?
 
@@ -164,3 +164,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Arrhythmia Treatments
+
+Other arrhythmia treatments related to biventricular pacemaker:
+
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [EKG](/en/services/ekg/) - Electrocardiography

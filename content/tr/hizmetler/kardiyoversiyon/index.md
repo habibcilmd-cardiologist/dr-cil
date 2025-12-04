@@ -1,8 +1,8 @@
 ---
-title: "Kardiyoversiyon - Kalp Ritmi Düzeltme"
-description: "İstanbul'da kardiyoversiyon işlemi. Doç. Dr. Habib Çil ile atriyal fibrilasyon tedavisi. Elektriksel ve farmakolojik kardiyoversiyon. Avrasya Hospital."
+title: "Kardiyoversiyon - Elektriksel Ritim Düzeltme"
+description: "İstanbul'da kardiyoversiyon işlemi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile atriyal fibrilasyon tedavisi. Elektriksel ve farmakolojik kardiyoversiyon. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, antikoagülan ve antiaritmik ilaçlar genellikle gereklidir. Süre ve tip doktor tarafından belirlenir."
 ---
 
-Kardiyoversiyon, anormal kalp ritmini normal sinüs ritmine döndürmek için uygulanan bir tedavi yöntemidir. Elektriksel veya farmakolojik olarak yapılabilir. Doç. Dr. Habib Çil, kardiyoversiyon işleminde geniş deneyime sahiptir.
+Kardiyoversiyon, anormal kalp ritmini normal sinüs ritmine döndürmek için uygulanan bir tedavi yöntemidir. Elektriksel veya farmakolojik olarak yapılabilir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, kardiyoversiyon işleminde geniş deneyime sahiptir.
 
 ## Kardiyoversiyon Nedir?
 
@@ -174,3 +174,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Aritmi Tedavileri
+
+Kardiyoversiyon ile bağlantılı diğer ritim bozukluğu tedavileri:
+
+-   [Ablasyon](/tr/hizmetler/ablasyon/) - Kateter ablasyon tedavisi
+-   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Bradikardi tedavisi
+-   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
+-   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi

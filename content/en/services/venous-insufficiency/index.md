@@ -1,8 +1,8 @@
 ---
-title: "Venous Insufficiency - Vein Valve Dysfunction"
-description: "Expert venous insufficiency treatment in Istanbul. Assoc. Prof. Dr. Habib Çil treats vein valve dysfunction. Varicose vein treatment. Specialist cardiology at Avrasya Hospital."
+title: "Venous Insufficiency - Varicose Vein Treatment"
+description: "Expert venous insufficiency treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats vein valve dysfunction. Varicose vein treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Usually normal activities can be resumed within 1-2 days."
 ---
 
-Venous insufficiency is dysfunction of valves in leg veins. It leads to varicose veins, swelling, and skin changes. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating venous insufficiency.
+Venous insufficiency is dysfunction of valves in leg veins. It leads to varicose veins, swelling, and skin changes. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating venous insufficiency.
 
 ## What is Venous Insufficiency?
 
@@ -163,3 +163,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Peripheral Vascular Treatments
+
+Other peripheral vascular treatments related to venous insufficiency:
+
+-   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg artery disease
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [EKG](/en/services/ekg/) - Electrocardiography

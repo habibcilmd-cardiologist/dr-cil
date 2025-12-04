@@ -1,8 +1,8 @@
 ---
-title: "Echocardiography - Heart Ultrasound"
-description: "Expert echocardiography in Istanbul. Assoc. Prof. Dr. Habib Çil performs heart ultrasound evaluation. Transthoracic and transesophageal echo. Specialist cardiology at Avrasya Hospital."
+title: "Echocardiography - Heart Ultrasound Imaging"
+description: "Expert echocardiography in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs heart ultrasound evaluation. Transthoracic and transesophageal echo. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Results are usually evaluated and reported on the same day."
 ---
 
-Echocardiography is a non-invasive imaging method that evaluates the structure and function of the heart using ultrasound waves. It is one of the most valuable diagnostic tools in cardiology. Assoc. Prof. Dr. Habib Çil has extensive experience in echocardiography interpretation.
+Echocardiography is a non-invasive imaging method that evaluates the structure and function of the heart using ultrasound waves. It is one of the most valuable diagnostic tools in cardiology. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in echocardiography interpretation.
 
 ## What is Echocardiography?
 
@@ -171,3 +171,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Diagnostic Tests
+
+Other diagnostic tests related to echocardiography:
+
+-   [Surface Echocardiography](/en/services/surface-echocardiography/) - Transthoracic echo
+-   [Stress Echocardiography](/en/services/stress-echocardiography/) - Exercise echo
+-   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography

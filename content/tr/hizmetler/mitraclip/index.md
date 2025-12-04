@@ -1,8 +1,8 @@
 ---
-title: "MitraClip - Kateter ile Mitral Kapak Tedavisi"
-description: "İstanbul'da MitraClip işlemi. Doç. Dr. Habib Çil ile mitral yetersizliği tedavisi. Ameliyatsız kapak tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+title: "MitraClip - Ameliyatsız Mitral Kapak Tedavisi"
+description: "İstanbul'da MitraClip işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile mitral yetersizliği tedavisi. Kateter ile kapak tamiri. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Duruma göre değişir. Doktorunuz size uygun tedaviyi belirleyecektir."
 ---
 
-MitraClip, ciddi mitral yetersizliğinin kateter yoluyla tedavi edilmesidir. Açık kalp cerrahisine alternatif minimal invaziv bir yöntemdir. Doç. Dr. Habib Çil, MitraClip işleminde geniş deneyime sahiptir.
+MitraClip, ciddi mitral yetersizliğinin kateter yoluyla tedavi edilmesidir. Açık kalp cerrahisine alternatif minimal invaziv bir yöntemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, MitraClip işleminde geniş deneyime sahiptir.
 
 ## MitraClip Nedir?
 
@@ -159,3 +159,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kapak Tedavileri
+
+MitraClip ile bağlantılı diğer yapısal kalp tedavileri:
+
+-   [Mitral Kapak](/tr/hizmetler/mitral-kapak/) - Mitral kapak hastalıkları hakkında
+-   [TAVI](/tr/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
+-   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi

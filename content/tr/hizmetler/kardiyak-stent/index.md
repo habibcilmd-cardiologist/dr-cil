@@ -1,8 +1,8 @@
 ---
-title: "Kardiyak Stent - Koroner Stent İmplantasyonu"
-description: "İstanbul'da kardiyak stent. Doç. Dr. Habib Çil ile koroner stent implantasyonu. İlaç kaplı stent. Avrasya Hospital'da uzman kardiyoloji."
+title: "Kardiyak Stent - İlaç Salınımlı Stent İmplantasyonu"
+description: "İstanbul'da kardiyak stent. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile koroner stent implantasyonu. DES ilaç salınımlı stent. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Nadir görülür. İlaç uyumu ve yaşam tarzı değişikliği önemlidir."
 ---
 
-Kardiyak stent, koroner arterlerdeki darlıkların açık tutulması için yerleştirilen metal kafes yapısıdır. Koroner arter hastalığının tedavisinde yaygın olarak kullanılır. Doç. Dr. Habib Çil, kardiyak stent implantasyonunda geniş deneyime sahiptir.
+Kardiyak stent, koroner arterlerdeki darlıkların açık tutulması için yerleştirilen metal kafes yapısıdır. Koroner arter hastalığının tedavisinde yaygın olarak kullanılır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, kardiyak stent implantasyonunda geniş deneyime sahiptir ve binlerce başarılı stent işlemi gerçekleştirmiştir.
 
 ## Kardiyak Stent Nedir?
 
@@ -146,3 +146,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Koroner Girişimler
+
+Kardiyak stent ile bağlantılı diğer koroner tedaviler:
+
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ile damar açma işlemi
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi
+-   [Sol Ana Koroner Stent](/tr/hizmetler/sol-ana-koroner-stent/) - Sol ana koroner hastalığı tedavisi
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı hakkında

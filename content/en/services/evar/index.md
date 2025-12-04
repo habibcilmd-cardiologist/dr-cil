@@ -1,8 +1,8 @@
 ---
-title: "EVAR - Endovascular Aneurysm Repair"
-description: "Expert EVAR procedure in Istanbul. Assoc. Prof. Dr. Habib Çil performs endovascular aneurysm repair. Minimally invasive aortic aneurysm treatment. Specialist cardiology at Avrasya Hospital."
+title: "EVAR - Endovascular Aortic Aneurysm Repair"
+description: "Expert EVAR procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs endovascular aneurysm repair. Minimally invasive treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Most modern stent-grafts are MRI compatible. Consult your doctor."
 ---
 
-EVAR (Endovascular Aneurysm Repair) is catheter-based treatment of abdominal aortic aneurysm. It is a minimally invasive alternative to open surgery. Assoc. Prof. Dr. Habib Çil has extensive experience in EVAR procedures.
+EVAR (Endovascular Aneurysm Repair) is catheter-based treatment of abdominal aortic aneurysm. It is a minimally invasive alternative to open surgery. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in EVAR procedures.
 
 ## What is EVAR?
 
@@ -149,3 +149,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Peripheral Vascular Treatments
+
+Other peripheral vascular treatments related to EVAR:
+
+-   [Abdominal Aortic Aneurysm](/en/services/abdominal-aortic-aneurysm/) - Aortic aneurysm treatment
+-   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Angiography](/en/services/angiography/) - General angiography procedures
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound

@@ -1,8 +1,8 @@
 ---
-title: "Cardiac Catheterization - Heart Catheter"
-description: "Expert cardiac catheterization in Istanbul. Assoc. Prof. Dr. Habib Çil performs heart catheter procedures. Diagnostic and interventional catheterization. Specialist cardiology at Avrasya Hospital."
+title: "Cardiac Catheterization - Diagnostic and Interventional"
+description: "Expert cardiac catheterization in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs heart catheter procedures. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, it is performed under local anesthesia and you are awake throughout the procedure."
 ---
 
-Cardiac catheterization is a diagnostic and therapeutic procedure performed by placing a catheter into heart chambers and vessels. Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac catheterization procedures.
+Cardiac catheterization is a diagnostic and therapeutic procedure performed by placing a catheter into heart chambers and vessels. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac catheterization procedures.
 
 ## What is Cardiac Catheterization?
 
@@ -146,3 +146,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Interventions
+
+Other coronary treatments related to cardiac catheterization:
+
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Angiography](/en/services/angiography/) - General angiography procedures
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

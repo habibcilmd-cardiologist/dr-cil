@@ -1,8 +1,8 @@
 ---
-title: "Holter Monitoring - 24-Hour ECG Recording"
-description: "Expert Holter monitoring in Istanbul. Assoc. Prof. Dr. Habib Çil provides 24-48 hour ECG monitoring. Arrhythmia diagnosis. Specialist cardiology at Avrasya Hospital."
+title: "Holter Monitoring - Ambulatory ECG Recording"
+description: "Expert Holter monitoring in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides 24-48 hour ECG monitoring. Arrhythmia diagnosis. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, you can sleep normally. The device records during sleep as well."
 ---
 
-Holter monitoring is the continuous recording of the heart's electrical activity for 24-48 hours or longer. It is the gold standard method for detecting intermittent rhythm disorders. Assoc. Prof. Dr. Habib Çil has extensive experience in Holter evaluation.
+Holter monitoring is the continuous recording of the heart's electrical activity for 24-48 hours or longer. It is the gold standard method for detecting intermittent rhythm disorders. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in Holter evaluation.
 
 ## What is Holter Monitoring?
 
@@ -165,3 +165,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Diagnostic Tests
+
+Other diagnostic tests related to Holter monitoring:
+
+-   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Ambulatory Cardiac Monitoring](/en/services/ambulatory-cardiac-monitoring/) - Extended rhythm monitoring
+-   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Ablation](/en/services/ablation/) - Catheter ablation

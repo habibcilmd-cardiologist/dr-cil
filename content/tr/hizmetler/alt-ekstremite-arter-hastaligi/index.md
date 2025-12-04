@@ -1,8 +1,8 @@
 ---
-title: "Alt Ekstremite Arter Hastalığı - Periferik Arter Hastalığı"
-description: "İstanbul'da alt ekstremite arter hastalığı tedavisi. Doç. Dr. Habib Çil ile periferik arter hastalığı. Anjiyoplasti ve stent. Avrasya Hospital'da uzman kardiyoloji."
+title: "Alt Ekstremite Arter Hastalığı - Bacak Damar Tıkanıklığı"
+description: "İstanbul'da alt ekstremite arter hastalığı tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile periferik arter hastalığı. Anjiyoplasti ve stent. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, sigara hastalığın en önemli nedenidir ve tedavi başarısını etkiler."
 ---
 
-Alt ekstremite arter hastalığı (AEAH), bacak arterlerinin ateroskleroz nedeniyle daralmasıdır. Yürüme ağrısı ve ileri evrelerde gangrene yol açabilir. Doç. Dr. Habib Çil, alt ekstremite arter hastalığı tanı ve tedavisinde geniş deneyime sahiptir.
+Alt ekstremite arter hastalığı (AEAH), bacak arterlerinin ateroskleroz nedeniyle daralmasıdır. Yürüme ağrısı ve ileri evrelerde gangrene yol açabilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, alt ekstremite arter hastalığı tanı ve tedavisinde geniş deneyime sahiptir.
 
 ## Alt Ekstremite Arter Hastalığı Nedir?
 
@@ -159,3 +159,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Periferik Damar Tedavileri
+
+Alt ekstremite arter hastalığı ile bağlantılı diğer tedaviler:
+
+-   [Periferik Damar](/tr/hizmetler/periferik-damar/) - Periferik damar hastalıkları
+-   [Aterektomi](/tr/hizmetler/aterektomi/) - Plak temizleme işlemi
+-   [Venöz Yetmezlik](/tr/hizmetler/venoz-yetmezlik/) - Toplardamar yetmezliği
+-   [Karotis Stenozu](/tr/hizmetler/karotis-stenozu/) - Şah damarı darlığı
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı

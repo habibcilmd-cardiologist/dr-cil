@@ -1,8 +1,8 @@
 ---
-title: "Tilt Testi - Eğik Masa Testi"
-description: "İstanbul'da tilt testi. Doç. Dr. Habib Çil ile bayılma nedeni araştırması. Vazovagal senkop tanısı. Avrasya Hospital'da uzman kardiyoloji."
+title: "Tilt Testi - Bayılma Nedeni Araştırması"
+description: "İstanbul'da tilt testi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile bayılma nedeni araştırması. Vazovagal senkop tanısı. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Test sonrası 1-2 saat dinlenmeniz önerilir. Mümkünse refakatçi ile gelin."
 ---
 
-Tilt testi (eğik masa testi), açıklanamayan bayılma (senkop) ataklarının nedenini araştırmak için kullanılan tanısal bir testtir. Vazovagal senkop tanısında altın standart yöntemdir. Doç. Dr. Habib Çil, tilt testi değerlendirmesinde geniş deneyime sahiptir.
+Tilt testi (eğik masa testi), açıklanamayan bayılma (senkop) ataklarının nedenini araştırmak için kullanılan tanısal bir testtir. Vazovagal senkop tanısında altın standart yöntemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, tilt testi değerlendirmesinde geniş deneyime sahiptir.
 
 ## Tilt Testi Nedir?
 
@@ -157,3 +157,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tanısal Yöntemler
+
+Tilt testi ile bağlantılı diğer kardiyoloji testleri:
+
+-   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
+-   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
+-   [Elektrofizyolojik Test](/tr/hizmetler/elektrofizyolojik-test/) - Aritmi haritalama
+-   [Ambulatuvar Kardiyak İzleme](/tr/hizmetler/ambulatuvar-kardiyak-izleme/) - Uzun süreli ritim takibi

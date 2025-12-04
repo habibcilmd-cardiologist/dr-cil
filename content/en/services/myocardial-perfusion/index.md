@@ -1,8 +1,8 @@
 ---
-title: "Myocardial Perfusion Scintigraphy - Heart Scan"
-description: "Expert myocardial perfusion scintigraphy in Istanbul. Assoc. Prof. Dr. Habib Çil evaluates heart blood flow. Ischemia diagnosis. Specialist cardiology at Avrasya Hospital."
+title: "Myocardial Perfusion Scintigraphy - Nuclear Cardiac Imaging"
+description: "Expert myocardial perfusion scintigraphy in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil evaluates heart blood flow. Ischemia diagnosis. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "No, tests containing radiation are not performed during pregnancy."
 ---
 
-Myocardial perfusion scintigraphy (MPS) is a nuclear medicine imaging method that evaluates blood flow to the heart muscle. It has high accuracy in diagnosing coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in interpreting MPS results.
+Myocardial perfusion scintigraphy (MPS) is a nuclear medicine imaging method that evaluates blood flow to the heart muscle. It has high accuracy in diagnosing coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in interpreting MPS results.
 
 ## What is Myocardial Perfusion Scintigraphy?
 
@@ -152,3 +152,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Diagnostic Tests
+
+Other diagnostic tests related to myocardial perfusion scintigraphy:
+
+-   [Exercise Stress Test](/en/services/exercise-stress-test/) - Exercise stress test
+-   [Stress Echocardiography](/en/services/stress-echocardiography/) - Exercise echo
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

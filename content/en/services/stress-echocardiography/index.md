@@ -1,8 +1,8 @@
 ---
-title: "Stress Echocardiography - Exercise Heart Ultrasound"
-description: "Expert stress echocardiography in Istanbul. Assoc. Prof. Dr. Habib Çil performs exercise or pharmacological heart ultrasound. Ischemia diagnosis. Specialist cardiology at Avrasya Hospital."
+title: "Stress Echocardiography - Dobutamine Stress Echo"
+description: "Expert stress echocardiography in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs exercise or pharmacological heart ultrasound. Ischemia diagnosis. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Results are evaluated immediately after the procedure."
 ---
 
-Stress echocardiography is an echocardiographic evaluation performed while the heart is under stress from exercise or medication. It has high accuracy in diagnosing coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in stress echocardiography evaluation.
+Stress echocardiography is an echocardiographic evaluation performed while the heart is under stress from exercise or medication. It has high accuracy in diagnosing coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in stress echocardiography evaluation.
 
 ## What is Stress Echocardiography?
 
@@ -162,3 +162,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Diagnostic Tests
+
+Other diagnostic tests related to stress echocardiography:
+
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Exercise Stress Test](/en/services/exercise-stress-test/) - Exercise stress test
+-   [Myocardial Perfusion](/en/services/myocardial-perfusion/) - Myocardial perfusion scintigraphy
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

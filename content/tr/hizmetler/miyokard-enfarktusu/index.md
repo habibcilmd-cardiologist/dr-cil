@@ -1,8 +1,8 @@
 ---
-title: "Miyokard Enfarktüsü (Kalp Krizi) Tedavisi"
-description: "İstanbul'da miyokard enfarktüsü (kalp krizi) tedavisi. Doç. Dr. Habib Çil ile acil koroner müdahale, anjiyoplasti ve stent uygulamaları. Avrasya Hospital'da 7/24 acil kardiyoloji hizmeti."
+title: "Miyokard Enfarktüsü (Kalp Krizi) Acil Tedavisi"
+description: "İstanbul'da kalp krizi acil tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile primer PCI, acil anjiyoplasti ve stent. Avrasya Hospital 7/24 acil kardiyoloji."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -191,3 +191,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kalp Hastalıkları ve Tedaviler
+
+Miyokard enfarktüsü ile bağlantılı diğer kardiyoloji hizmetleri:
+
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Acil damar açma işlemi
+-   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - Stent implantasyonu
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı hakkında
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp fonksiyon değerlendirmesi
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi

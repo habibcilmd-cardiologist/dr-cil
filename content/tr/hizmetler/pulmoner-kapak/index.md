@@ -1,8 +1,8 @@
 ---
-title: "Pulmoner Kapak Hastalığı - Pulmoner Darlık ve Yetersizlik"
-description: "İstanbul'da pulmoner kapak hastalığı tedavisi. Doç. Dr. Habib Çil ile pulmoner darlık ve yetersizlik. Balon valvüloplasti. Avrasya Hospital'da uzman kardiyoloji."
+title: "Pulmoner Kapak Hastalığı - Darlık ve Yetersizlik Tedavisi"
+description: "İstanbul'da pulmoner kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile pulmoner darlık ve yetersizlik. Balon valvüloplasti. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Hafif yetersizlik genellikle tedavi gerektirmez. Ciddi yetersizlikte kapak replasmanı gerekebilir."
 ---
 
-Pulmoner kapak hastalığı, sağ ventrikül ile pulmoner arter arasındaki kapağın işlev bozukluğudur. Pulmoner darlık ve pulmoner yetersizlik olmak üzere iki ana formu vardır. Doç. Dr. Habib Çil, pulmoner kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
+Pulmoner kapak hastalığı, sağ ventrikül ile pulmoner arter arasındaki kapağın işlev bozukluğudur. Pulmoner darlık ve pulmoner yetersizlik olmak üzere iki ana formu vardır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, pulmoner kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
 
 ## Pulmoner Kapak Hastalığı Nedir?
 
@@ -162,3 +162,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kapak Tedavileri
+
+Pulmoner kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
+
+-   [Triküspit Kapak](/tr/hizmetler/trikuspid-kapak/) - Triküspit kapak hastalıkları
+-   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi

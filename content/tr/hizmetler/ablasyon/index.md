@@ -1,8 +1,8 @@
 ---
-title: "Kateter Ablasyon - Aritmi Tedavisi"
-description: "İstanbul'da kateter ablasyon tedavisi. Doç. Dr. Habib Çil ile kalp ritim bozuklukları tedavisi. AF ablasyonu, SVT ablasyonu. Avrasya Hospital'da uzman kardiyoloji."
+title: "Kateter Ablasyon - Kalp Ritim Bozukluğu Tedavisi"
+description: "İstanbul'da kateter ablasyon. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile AF ablasyonu, SVT ve aritmi tedavisi. Radyofrekans ve kriyoablasyon. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Tekrar ablasyon yapılabilir veya medikal tedavi ile devam edilebilir. Bazı vakalarda cerrahi ablasyon değerlendirilebilir."
 ---
 
-Kateter ablasyon, kalp ritim bozukluklarının (aritmilerin) tedavisinde kullanılan minimal invaziv bir işlemdir. Bu işlemde, aritmiye neden olan anormal kalp dokusuna radyofrekans veya kriyoterapi uygulanarak kalıcı tedavi sağlanır. Doç. Dr. Habib Çil, aritmi ablasyonunda geniş deneyime sahiptir.
+Kateter ablasyon, kalp ritim bozukluklarının (aritmilerin) tedavisinde kullanılan minimal invaziv bir işlemdir. Bu işlemde, aritmiye neden olan anormal kalp dokusuna radyofrekans veya kriyoterapi uygulanarak kalıcı tedavi sağlanır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, aritmi ablasyonunda geniş deneyime sahip olup yüzlerce başarılı ablasyon işlemi gerçekleştirmiştir.
 
 ## Kateter Ablasyon Nedir?
 
@@ -176,4 +176,14 @@ WhatsApp ile Randevu Al
 
 ---
 
-_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+_Bu içerik girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Aritmi Tedavileri
+
+Ablasyon ve diğer ritim bozukluğu tedavileri:
+
+-   [Kardiyoversiyon](/tr/hizmetler/kardiyoversiyon/) - Elektriksel ritim düzeltme
+-   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Bradikardi tedavisi
+-   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Elektrofizyolojik Test](/tr/hizmetler/elektrofizyolojik-test/) - Aritmi haritalama
+-   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi

@@ -1,8 +1,8 @@
 ---
-title: "Kalp Yetmezliği Tedavisi"
-description: "İstanbul'da kalp yetmezliği tedavisi. Doç. Dr. Habib Çil ile kapsamlı kalp yetmezliği tanısı, medikal tedavi ve ileri tedavi seçenekleri. Avrasya Hospital'da modern kardiyoloji hizmeti."
+title: "Kalp Yetmezliği Tanı ve Tedavisi"
+description: "İstanbul'da kalp yetmezliği tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile kapsamlı tanı, medikal tedavi ve cihaz tedavileri. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -244,3 +244,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kalp Yetmezliği Tedavileri
+
+Kalp yetmezliği ile bağlantılı diğer tedaviler:
+
+-   [Biventriküler Pacemaker](/tr/hizmetler/biventrikuler-pacemaker/) - CRT tedavisi
+-   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
+-   [LVAD](/tr/hizmetler/lvad/) - Sol ventrikül destek cihazı
+-   [Kalp Nakli](/tr/hizmetler/kalp-nakli/) - Kalp transplantasyonu
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp fonksiyon değerlendirmesi

@@ -1,8 +1,8 @@
 ---
-title: "Cardiac Stent - Coronary Stent Implantation"
-description: "Expert cardiac stent in Istanbul. Assoc. Prof. Dr. Habib Çil performs coronary stent implantation. Drug-eluting stent. Specialist cardiology at Avrasya Hospital."
+title: "Cardiac Stent - Drug-Eluting Stent Implantation"
+description: "Expert cardiac stent in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs coronary stent implantation. Drug-eluting stent. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Rarely. Medication compliance and lifestyle changes are important."
 ---
 
-Cardiac stent is a metal mesh structure placed to keep coronary artery stenosis open. It is widely used in the treatment of coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac stent implantation.
+Cardiac stent is a metal mesh structure placed to keep coronary artery stenosis open. It is widely used in the treatment of coronary artery disease. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac stent implantation.
 
 ## What is Cardiac Stent?
 
@@ -146,3 +146,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Interventions
+
+Other coronary treatments related to cardiac stent:
+
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon vessel opening procedure
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [CTO Intervention](/en/services/cto-intervention/) - Chronic total occlusion treatment
+-   [Left Main Coronary Stent](/en/services/left-main-coronary-stent/) - Left main disease treatment
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

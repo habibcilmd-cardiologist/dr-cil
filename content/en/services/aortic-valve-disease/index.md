@@ -1,8 +1,8 @@
 ---
-title: "Aortic Valve Disease - Aortic Stenosis and Regurgitation"
-description: "Expert aortic valve disease treatment in Istanbul. Assoc. Prof. Dr. Habib Çil treats aortic stenosis and regurgitation. TAVI and surgical options. Specialist cardiology at Avrasya Hospital."
+title: "Aortic Valve Disease - Stenosis and Regurgitation Treatment"
+description: "Expert aortic valve disease treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats aortic stenosis and regurgitation. TAVI and surgical options. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "After successful treatment, you can return to normal life. Regular follow-up is required."
 ---
 
-Aortic valve disease is dysfunction of the valve between the left ventricle and aorta. It has two main forms: aortic stenosis and aortic regurgitation. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating aortic valve diseases.
+Aortic valve disease is dysfunction of the valve between the left ventricle and aorta. It has two main forms: aortic stenosis and aortic regurgitation. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating aortic valve diseases.
 
 ## What is Aortic Valve Disease?
 
@@ -159,3 +159,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Valve Treatments
+
+Other structural heart treatments related to aortic valve disease:
+
+-   [TAVI](/en/services/tavi/) - Transcatheter aortic valve implantation
+-   [Balloon Valvuloplasty](/en/services/balloon-valvuloplasty/) - Balloon valve dilation
+-   [Echocardiography](/en/services/echocardiography/) - Valve assessment
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [CABG](/en/services/cabg/) - Coronary bypass surgery

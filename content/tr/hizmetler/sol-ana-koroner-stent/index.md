@@ -1,8 +1,8 @@
 ---
-title: "Sol Ana Koroner Arter Stentleme"
-description: "İstanbul'da sol ana koroner arter stentleme. Doç. Dr. Habib Çil ile LMCA hastalığının girişimsel tedavisi. Avrasya Hospital'da uzman girişimsel kardiyoloji."
+title: "Sol Ana Koroner Arter Stentleme (LMCA)"
+description: "İstanbul'da sol ana koroner arter stentleme. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile LMCA hastalığının girişimsel tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, stent kalıcıdır. Düzenli takip ve ilaç kullanımı ile uzun yıllar sorunsuz kalır."
 ---
 
-Sol ana koroner arter (LMCA), kalbin sol tarafını besleyen ana damardır ve kalp kasının yaklaşık %75'ini besler. Bu kritik damardaki hastalık, bypass cerrahisi veya stentleme ile tedavi edilebilir. Doç. Dr. Habib Çil, sol ana koroner stentleme konusunda geniş deneyime sahip olup, uygun hastalarda minimal invaziv tedavi sunmaktadır.
+Sol ana koroner arter (LMCA), kalbin sol tarafını besleyen ana damardır ve kalp kasının yaklaşık %75'ini besler. Bu kritik damardaki hastalık, bypass cerrahisi veya stentleme ile tedavi edilebilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, sol ana koroner stentleme konusunda geniş deneyime sahip olup uygun hastalarda minimal invaziv tedavi sunmaktadır.
 
 ## Sol Ana Koroner Arter Nedir?
 
@@ -217,3 +217,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Koroner Girişimler
+
+Sol ana koroner stent ile bağlantılı diğer koroner tedaviler:
+
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
+-   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
+-   [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [Kalp Bypass](/tr/hizmetler/kalp-bypass/) - Koroner bypass ameliyatı

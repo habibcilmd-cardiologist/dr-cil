@@ -1,8 +1,8 @@
 ---
-title: "TAVI - Transkateter Aort Kapak İmplantasyonu"
-description: "İstanbul'da TAVI işlemi. Doç. Dr. Habib Çil ile ameliyatsız aort kapak değişimi. Yüksek riskli hastalarda güvenli ve etkili tedavi. Avrasya Hospital'da uzman girişimsel kardiyoloji."
+title: "TAVI - Ameliyatsız Aort Kapak Değişimi"
+description: "İstanbul'da TAVI işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile transkateter aort kapak implantasyonu. Yüksek riskli hastalarda ameliyatsız kapak tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Çoğu hasta 1-2 hafta içinde günlük aktivitelerine dönebilir. Tam iyileşme genellikle 4-6 hafta sürer. Kardiyak rehabilitasyon programı iyileşmeyi hızlandırır."
 ---
 
-TAVI (Transkateter Aort Kapak İmplantasyonu), ciddi aort darlığı olan hastalarda açık kalp ameliyatı yapılmadan, kateter yoluyla yeni bir aort kapağı yerleştirilmesi işlemidir. Bu devrim niteliğindeki tedavi, özellikle cerrahi riski yüksek yaşlı hastalarda hayat kurtarıcı bir seçenek sunmaktadır. Türkiye'de TAVI işlemi deneyimli merkezlerde başarıyla uygulanmakta olup, Doç. Dr. Habib Çil bu alanda geniş deneyime sahiptir.
+TAVI (Transkateter Aort Kapak İmplantasyonu), ciddi aort darlığı olan hastalarda açık kalp ameliyatı yapılmadan, kateter yoluyla yeni bir aort kapağı yerleştirilmesi işlemidir. Bu devrim niteliğindeki tedavi, özellikle cerrahi riski yüksek yaşlı hastalarda hayat kurtarıcı bir seçenek sunmaktadır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, yüzlerce başarılı TAVI işlemi gerçekleştirmiş olup bu alanda Türkiye'nin önde gelen uzmanlarından biridir.
 
 ## TAVI Nedir?
 
@@ -218,4 +218,13 @@ WhatsApp ile Randevu Al
 
 ---
 
-_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+_Bu içerik girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kapak Tedavileri
+
+TAVI ve diğer yapısal kalp hastalığı tedavileri:
+
+-   [Aort Kapak Hastalığı](/tr/hizmetler/aort-kapak-hastaligi/) - Aort darlığı ve yetersizliği hakkında bilgi
+-   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
+-   [MitraClip](/tr/hizmetler/mitraclip/) - Mitral kapak tamiri
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi

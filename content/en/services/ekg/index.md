@@ -1,8 +1,8 @@
 ---
-title: "ECG - Electrocardiography"
-description: "Expert ECG testing in Istanbul. Assoc. Prof. Dr. Habib Çil evaluates heart rhythm. 12-lead ECG. Specialist cardiology at Avrasya Hospital."
+title: "ECG - 12-Lead Electrocardiography"
+description: "Expert ECG testing in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil evaluates heart rhythm. 12-lead ECG interpretation. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Determined by the doctor based on symptoms, risk factors, and existing diseases."
 ---
 
-Electrocardiography (ECG/EKG) is a simple, painless, and quick diagnostic method that records the heart's electrical activity. It is one of the most commonly used tests in cardiology. Assoc. Prof. Dr. Habib Çil has extensive experience in ECG interpretation.
+Electrocardiography (ECG/EKG) is a simple, painless, and quick diagnostic method that records the heart's electrical activity. It is one of the most commonly used tests in cardiology. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in ECG interpretation.
 
 ## What is an ECG?
 
@@ -172,3 +172,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Diagnostic Tests
+
+Other diagnostic tests related to EKG:
+
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [Exercise Stress Test](/en/services/exercise-stress-test/) - Exercise stress test
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Ambulatory Cardiac Monitoring](/en/services/ambulatory-cardiac-monitoring/) - Extended rhythm monitoring
+-   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis

@@ -1,8 +1,8 @@
 ---
-title: "Pericardiocentesis - Pericardial Fluid Drainage"
-description: "Expert pericardiocentesis in Istanbul. Assoc. Prof. Dr. Habib Çil performs pericardial fluid drainage. Pericardial effusion treatment. Specialist cardiology at Avrasya Hospital."
+title: "Pericardiocentesis - Pericardial Effusion Drainage"
+description: "Expert pericardiocentesis in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs pericardial fluid drainage. Pericardial effusion treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Serious complications are rare. Heart perforation risk is low."
 ---
 
-Pericardiocentesis is draining fluid accumulated between the pericardium (heart sac) and the heart with a needle. Assoc. Prof. Dr. Habib Çil has extensive experience in pericardiocentesis procedures.
+Pericardiocentesis is draining fluid accumulated between the pericardium (heart sac) and the heart with a needle. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in pericardiocentesis procedures.
 
 ## What is Pericardiocentesis?
 
@@ -159,3 +159,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Cardiology Treatments
+
+Other cardiology treatments related to pericardiocentesis:
+
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [Cardiac Catheterization](/en/services/cardiac-catheterization/) - Cardiac catheterization

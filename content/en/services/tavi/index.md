@@ -1,8 +1,8 @@
 ---
-title: "TAVI - Transcatheter Aortic Valve Implantation"
-description: "Expert TAVI procedure in Istanbul. Assoc. Prof. Dr. Habib Çil performs minimally invasive aortic valve replacement. Safe and effective treatment for high-risk patients. Specialist interventional cardiology at Avrasya Hospital."
+title: "TAVI - Transcatheter Aortic Valve Replacement"
+description: "Expert TAVI procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs minimally invasive aortic valve replacement. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Most patients can return to daily activities within 1-2 weeks. Full recovery usually takes 4-6 weeks. Cardiac rehabilitation program accelerates recovery."
 ---
 
-TAVI (Transcatheter Aortic Valve Implantation) is a procedure where a new aortic valve is placed via catheter without open-heart surgery in patients with severe aortic stenosis. This revolutionary treatment offers a life-saving option, especially for elderly patients with high surgical risk. TAVI is successfully performed at experienced centers in Turkey, and Assoc. Prof. Dr. Habib Çil has extensive experience in this field.
+TAVI (Transcatheter Aortic Valve Implantation) is a procedure where a new aortic valve is placed via catheter without open-heart surgery in patients with severe aortic stenosis. This revolutionary treatment offers a life-saving option, especially for elderly patients with high surgical risk. TAVI is successfully performed at experienced centers in Turkey, and interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in this field.
 
 ## What is TAVI?
 
@@ -219,3 +219,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Valve Treatments
+
+Other structural heart treatments related to TAVI:
+
+-   [Aortic Valve Disease](/en/services/aortic-valve-disease/) - About aortic valve diseases
+-   [Balloon Valvuloplasty](/en/services/balloon-valvuloplasty/) - Balloon valve dilation
+-   [Echocardiography](/en/services/echocardiography/) - Valve assessment
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [CABG](/en/services/cabg/) - Coronary bypass surgery

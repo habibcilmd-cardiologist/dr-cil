@@ -1,8 +1,8 @@
 ---
-title: "Aort Kapak Hastalığı - Aort Darlığı ve Yetersizliği"
-description: "İstanbul'da aort kapak hastalığı tedavisi. Doç. Dr. Habib Çil ile aort darlığı ve yetersizliği. TAVI ve cerrahi seçenekler. Avrasya Hospital'da uzman kardiyoloji."
+title: "Aort Kapak Hastalığı - Darlık ve Yetersizlik Tedavisi"
+description: "İstanbul'da aort kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile aort darlığı ve yetersizliği. TAVI ve cerrahi seçenekler. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir."
 ---
 
-Aort kapak hastalığı, kalbin sol ventrikülü ile aort arasındaki kapağın işlev bozukluğudur. Aort darlığı (stenoz) ve aort yetersizliği (regürjitasyon) olmak üzere iki ana formu vardır. Doç. Dr. Habib Çil, aort kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
+Aort kapak hastalığı, kalbin sol ventrikülü ile aort arasındaki kapağın işlev bozukluğudur. Aort darlığı (stenoz) ve aort yetersizliği (regürjitasyon) olmak üzere iki ana formu vardır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, aort kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
 
 ## Aort Kapak Hastalığı Nedir?
 
@@ -159,3 +159,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kapak Tedavileri
+
+Aort kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
+
+-   [TAVI](/tr/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
+-   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [Kalp Bypass](/tr/hizmetler/kalp-bypass/) - Koroner bypass ameliyatı

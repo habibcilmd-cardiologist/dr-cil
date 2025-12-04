@@ -1,8 +1,8 @@
 ---
-title: "Tricuspid Valve Disease - Tricuspid Regurgitation"
-description: "Expert tricuspid valve disease treatment in Istanbul. Assoc. Prof. Dr. Habib Çil treats tricuspid regurgitation. Catheter and surgical treatment. Specialist cardiology at Avrasya Hospital."
+title: "Tricuspid Valve Disease - Regurgitation Treatment"
+description: "Expert tricuspid valve disease treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats tricuspid regurgitation. Catheter and surgical treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Functional regurgitation may decrease if the underlying cause is treated."
 ---
 
-Tricuspid valve disease is dysfunction of the valve between the right atrium and right ventricle. Tricuspid regurgitation is most common. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating tricuspid valve diseases.
+Tricuspid valve disease is dysfunction of the valve between the right atrium and right ventricle. Tricuspid regurgitation is most common. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating tricuspid valve diseases.
 
 ## What is Tricuspid Valve Disease?
 
@@ -160,3 +160,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Valve Treatments
+
+Other structural heart treatments related to tricuspid valve disease:
+
+-   [Mitral Valve](/en/services/mitral-valve/) - Mitral valve diseases
+-   [Pulmonary Valve](/en/services/pulmonary-valve/) - Pulmonary valve diseases
+-   [Echocardiography](/en/services/echocardiography/) - Valve assessment
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [CABG](/en/services/cabg/) - Coronary bypass surgery

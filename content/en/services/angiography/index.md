@@ -1,8 +1,8 @@
 ---
-title: "Coronary Angiography - Heart Vessel Imaging"
-description: "Expert coronary angiography in Istanbul. Assoc. Prof. Dr. Habib Çil performs heart vessel imaging. Diagnostic catheterization. Specialist cardiology at Avrasya Hospital."
+title: "Coronary Angiography - Diagnostic Catheterization"
+description: "Expert coronary angiography in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs heart vessel imaging. Diagnostic catheterization. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Most patients can return to normal activities within 1-2 days."
 ---
 
-Coronary angiography is the imaging of heart vessels (coronary arteries) using X-rays and contrast material. This procedure is considered the gold standard in diagnosing coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in coronary angiography procedures.
+Coronary angiography is the imaging of heart vessels (coronary arteries) using X-rays and contrast material. This procedure is considered the gold standard in diagnosing coronary artery disease. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in coronary angiography procedures.
 
 ## What is Coronary Angiography?
 
@@ -178,3 +178,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Interventions
+
+Other coronary treatments related to angiography:
+
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Radial Angiography](/en/services/radial-angiography/) - Wrist access angiography
+-   [Cardiac Catheterization](/en/services/cardiac-catheterization/) - Cardiac catheterization
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

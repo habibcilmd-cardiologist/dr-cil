@@ -1,8 +1,8 @@
 ---
-title: "Stres Ekokardiyografi - Egzersiz Kalp Ultrasonu"
-description: "İstanbul'da stres ekokardiyografi. Doç. Dr. Habib Çil ile egzersiz veya ilaçlı kalp ultrasonu. İskemi tanısı. Avrasya Hospital'da uzman kardiyoloji."
+title: "Stres Ekokardiyografi - Eforlu Kalp Ultrasonu"
+description: "İstanbul'da stres ekokardiyografi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile egzersiz ve dobutamin stres EKO. İskemi tanısı. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Sonuçlar işlem sonrasında hemen değerlendirilir."
 ---
 
-Stres ekokardiyografi, egzersiz veya ilaç ile kalp stres altındayken yapılan ekokardiyografik değerlendirmedir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir. Doç. Dr. Habib Çil, stres ekokardiyografi değerlendirmesinde geniş deneyime sahiptir.
+Stres ekokardiyografi, egzersiz veya ilaç ile kalp stres altındayken yapılan ekokardiyografik değerlendirmedir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, stres ekokardiyografi değerlendirmesinde geniş deneyime sahiptir.
 
 ## Stres Ekokardiyografi Nedir?
 
@@ -162,3 +162,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tanısal Yöntemler
+
+Stres ekokardiyografi ile bağlantılı diğer kardiyoloji testleri:
+
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Standart kalp ultrasonografisi
+-   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
+-   [Miyokard Perfüzyon](/tr/hizmetler/miyokard-perfuzyon/) - Sintigrafi
+-   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Bilgisayarlı tomografi
+-   [Koroner Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Damar görüntüleme

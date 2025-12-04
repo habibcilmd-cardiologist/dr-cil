@@ -1,8 +1,8 @@
 ---
-title: "Geçici Kalp Pili - Acil Ritim Desteği"
-description: "İstanbul'da geçici kalp pili takılması. Doç. Dr. Habib Çil ile acil bradikardi tedavisi. Transvenöz pacing. Avrasya Hospital'da uzman kardiyoloji."
+title: "Geçici Kalp Pili - Acil Bradikardi Tedavisi"
+description: "İstanbul'da geçici kalp pili takılması. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile acil bradikardi tedavisi. Transvenöz pacing. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Altta yatan nedene bağlıdır. Geri dönüşümlü nedenler düzelirse kalıcı pacemaker gerekmeyebilir."
 ---
 
-Geçici kalp pili, acil durumlarda veya kalıcı pacemaker takılana kadar kalp ritmini desteklemek için kullanılan bir cihazdır. Doç. Dr. Habib Çil, geçici pacing işlemlerinde geniş deneyime sahiptir.
+Geçici kalp pili, acil durumlarda veya kalıcı pacemaker takılana kadar kalp ritmini desteklemek için kullanılan bir cihazdır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, geçici pacing işlemlerinde geniş deneyime sahiptir.
 
 ## Geçici Kalp Pili Nedir?
 
@@ -162,3 +162,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Aritmi Tedavileri
+
+Geçici kalp pili ile bağlantılı diğer ritim tedavileri:
+
+-   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Kalıcı pacemaker implantasyonu
+-   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Kardiyoversiyon](/tr/hizmetler/kardiyoversiyon/) - Elektriksel ritim düzeltme
+-   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
+-   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi

@@ -1,8 +1,8 @@
 ---
-title: "PTKA - Perkütan Translüminal Koroner Anjiyoplasti"
-description: "İstanbul'da PTKA işlemi. Doç. Dr. Habib Çil ile perkütan translüminal koroner anjiyoplasti. Balon anjiyoplasti. Avrasya Hospital'da uzman kardiyoloji."
+title: "PTKA - Perkütan Koroner Balon Anjiyoplasti"
+description: "İstanbul'da PTKA işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile perkütan translüminal koroner anjiyoplasti. Balon anjiyoplasti. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Genellikle aynı gün veya ertesi gün taburcu olunabilir."
 ---
 
-PTKA (Perkütan Translüminal Koroner Anjiyoplasti), koroner arterlerdeki darlıkların balon ile genişletilmesidir. Modern koroner girişimlerin temelini oluşturur. Doç. Dr. Habib Çil, PTKA işleminde geniş deneyime sahiptir.
+PTKA (Perkütan Translüminal Koroner Anjiyoplasti), koroner arterlerdeki darlıkların balon ile genişletilmesidir. Modern koroner girişimlerin temelini oluşturur. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, PTKA işleminde geniş deneyime sahiptir.
 
 ## PTKA Nedir?
 
@@ -149,3 +149,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Koroner Girişimler
+
+PTKA ile bağlantılı diğer koroner tedaviler:
+
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
+-   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi
+-   [PCI](/tr/hizmetler/pci/) - Perkütan koroner girişim

@@ -1,8 +1,8 @@
 ---
-title: "LVAD - Left Ventricular Assist Device"
-description: "Expert LVAD evaluation in Istanbul. Assoc. Prof. Dr. Habib Çil provides left ventricular assist device follow-up. Mechanical heart support. Specialist cardiology at Avrasya Hospital."
+title: "LVAD - Left Ventricular Assist Device Support"
+description: "Expert LVAD evaluation in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides left ventricular assist device follow-up. Mechanical heart support. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "No, LVAD is not MRI compatible."
 ---
 
-LVAD (Left Ventricular Assist Device) is a mechanical device that supports the heart's pumping function in advanced heart failure. Assoc. Prof. Dr. Habib Çil has extensive experience in LVAD patient follow-up.
+LVAD (Left Ventricular Assist Device) is a mechanical device that supports the heart's pumping function in advanced heart failure. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in LVAD patient follow-up.
 
 ## What is LVAD?
 
@@ -155,3 +155,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Heart Failure Treatments
+
+Other heart failure treatments related to LVAD:
+
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [Heart Transplant](/en/services/heart-transplant/) - Heart transplantation
+-   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound

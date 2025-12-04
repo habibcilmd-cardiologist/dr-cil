@@ -1,8 +1,8 @@
 ---
-title: "CTO Girişimi - Kronik Total Oklüzyon Tedavisi"
-description: "İstanbul'da CTO girişimi. Doç. Dr. Habib Çil ile tamamen tıkalı koroner arterlerin açılması. Uzman CTO operatörü ile yüksek başarı oranı. Avrasya Hospital'da ileri girişimsel kardiyoloji."
+title: "CTO Girişimi - Kronik Total Oklüzyon Açma"
+description: "İstanbul'da CTO girişimi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile tamamen tıkalı koroner arterlerin açılması. Retrograd ve antegrad teknikler. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Hayır, bazı CTO'lar anatomik veya teknik nedenlerle açılamayabilir. Ancak deneyimli operatörler ve modern tekniklerle başarı oranları %90'ın üzerine çıkmıştır."
 ---
 
-Kronik total oklüzyon (CTO), koroner arterin en az 3 aydır tamamen tıkalı olması durumudur. CTO girişimi, bu tıkalı damarların özel tekniklerle açılmasını sağlayan ileri düzey bir kardiyolojik işlemdir. Doç. Dr. Habib Çil, CTO alanında uzmanlaşmış deneyimli bir operatör olarak, daha önce "açılamaz" denilen birçok vakayı başarıyla tedavi etmiştir.
+Kronik total oklüzyon (CTO), koroner arterin en az 3 aydır tamamen tıkalı olması durumudur. CTO girişimi, bu tıkalı damarların özel tekniklerle açılmasını sağlayan ileri düzey bir kardiyolojik işlemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, CTO alanında uzmanlaşmış deneyimli bir operatör olarak daha önce "açılamaz" denilen birçok vakayı başarıyla tedavi etmiştir.
 
 ## CTO Nedir?
 
@@ -224,3 +224,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Koroner Girişimler
+
+CTO girişimi ile bağlantılı diğer koroner tedaviler:
+
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
+-   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [Sol Ana Koroner Stent](/tr/hizmetler/sol-ana-koroner-stent/) - Sol ana koroner hastalığı tedavisi
+-   [Radyal Anjiyografi](/tr/hizmetler/radyal-anjiyografi/) - Bilekten anjiyografi

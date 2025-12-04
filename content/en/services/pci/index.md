@@ -1,8 +1,8 @@
 ---
-title: "PCI - Percutaneous Coronary Intervention"
-description: "Expert PCI procedure in Istanbul. Assoc. Prof. Dr. Habib Çil performs percutaneous coronary intervention. Coronary angioplasty and stent. Specialist cardiology at Avrasya Hospital."
+title: "PCI - Percutaneous Coronary Intervention Treatment"
+description: "Expert PCI procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs percutaneous coronary intervention. Angioplasty and stent. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, if needed, PCI can be performed again on different vessels or the same vessel."
 ---
 
-PCI (Percutaneous Coronary Intervention) is catheter-based treatment of coronary artery disease. It includes balloon angioplasty and stent implantation. Assoc. Prof. Dr. Habib Çil has extensive experience in PCI procedures.
+PCI (Percutaneous Coronary Intervention) is catheter-based treatment of coronary artery disease. It includes balloon angioplasty and stent implantation. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in PCI procedures.
 
 ## What is PCI?
 
@@ -153,3 +153,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Interventions
+
+Other coronary treatments related to PCI:
+
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [CTO Intervention](/en/services/cto-intervention/) - Chronic total occlusion treatment
+-   [Myocardial Infarction](/en/services/myocardial-infarction/) - Heart attack treatment

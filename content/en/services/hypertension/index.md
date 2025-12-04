@@ -1,8 +1,8 @@
 ---
-title: "Hypertension (High Blood Pressure) Treatment"
-description: "Expert hypertension treatment in Istanbul. Assoc. Prof. Dr. Habib Çil provides high blood pressure diagnosis, medication management, and lifestyle modifications. Comprehensive cardiology at Avrasya Hospital."
+title: "Hypertension - High Blood Pressure Management"
+description: "Expert hypertension treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides high blood pressure diagnosis and medication management. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -209,3 +209,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Cardiology Treatments
+
+Other cardiology treatments related to hypertension:
+
+-   [Renal Artery Stenosis](/en/services/renal-artery-stenosis/) - Renal artery stenosis treatment
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [EKG](/en/services/ekg/) - Electrocardiography

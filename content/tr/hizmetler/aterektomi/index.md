@@ -1,8 +1,8 @@
 ---
-title: "Aterektomi - Plak Temizleme İşlemi"
-description: "İstanbul'da aterektomi işlemi. Doç. Dr. Habib Çil ile damar plağı temizleme. Periferik arter hastalığı tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+title: "Aterektomi - Damar Plağı Temizleme İşlemi"
+description: "İstanbul'da aterektomi işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile damar plağı temizleme. Kalsifiye lezyon tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Genellikle 1-2 gün hastanede kalış yeterlidir."
 ---
 
-Aterektomi, damar içindeki aterosklerotik plağın mekanik olarak temizlenmesidir. Özellikle kalsifiye lezyonlarda ve stent yerleştirmenin zor olduğu durumlarda kullanılır. Doç. Dr. Habib Çil, aterektomi işleminde geniş deneyime sahiptir.
+Aterektomi, damar içindeki aterosklerotik plağın mekanik olarak temizlenmesidir. Özellikle kalsifiye lezyonlarda ve stent yerleştirmenin zor olduğu durumlarda kullanılır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, aterektomi işleminde geniş deneyime sahiptir.
 
 ## Aterektomi Nedir?
 
@@ -146,3 +146,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Damar Tedavileri
+
+Aterektomi ile bağlantılı diğer tedaviler:
+
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
+-   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
+-   [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar hastalığı
+-   [Periferik Damar](/tr/hizmetler/periferik-damar/) - Periferik damar hastalıkları
+-   [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi

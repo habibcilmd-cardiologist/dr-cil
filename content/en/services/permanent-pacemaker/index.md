@@ -1,8 +1,8 @@
 ---
-title: "Permanent Pacemaker Implantation"
-description: "Expert permanent pacemaker implantation in Istanbul. Assoc. Prof. Dr. Habib Çil performs pacemaker surgery. Treatment for bradycardia and heart blocks. Specialist cardiology at Avrasya Hospital."
+title: "Permanent Pacemaker - Bradycardia Treatment"
+description: "Expert permanent pacemaker implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs pacemaker surgery. Bradycardia and heart block treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Check-ups are generally recommended every 6-12 months. More frequent monitoring is possible with remote monitoring systems."
 ---
 
-A permanent pacemaker is a small electronic device used to treat slow heartbeat (bradycardia) or conduction disorders. This device, placed under the chest skin, ensures the heart beats regularly. Assoc. Prof. Dr. Habib Çil has extensive experience in pacemaker implantation and uses the most current technologies.
+A permanent pacemaker is a small electronic device used to treat slow heartbeat (bradycardia) or conduction disorders. This device, placed under the chest skin, ensures the heart beats regularly. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in pacemaker implantation and uses the most current technologies.
 
 ## What is a Pacemaker?
 
@@ -202,3 +202,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Arrhythmia Treatments
+
+Other arrhythmia treatments related to permanent pacemaker:
+
+-   [Temporary Pacemaker](/en/services/temporary-pacemaker/) - Temporary pacing
+-   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [EKG](/en/services/ekg/) - Electrocardiography

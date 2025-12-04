@@ -1,8 +1,8 @@
 ---
-title: "Three-Chamber Pacemaker (CRT) - Cardiac Resynchronization Therapy"
-description: "Expert CRT implantation in Istanbul. Assoc. Prof. Dr. Habib Çil performs three-chamber pacemaker surgery. Heart failure treatment. Specialist cardiology at Avrasya Hospital."
+title: "CRT Pacemaker - Cardiac Resynchronization Therapy"
+description: "Expert CRT implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs three-chamber pacemaker surgery. Heart failure treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, you can continue your normal daily activities with CRT. In fact, your exercise capacity may increase."
 ---
 
-Cardiac resynchronization therapy (CRT) is an advanced treatment method that ensures synchronized heart function in heart failure patients. Also known as a three-chamber pacemaker, CRT improves pumping function by stimulating both ventricles of the heart simultaneously. Assoc. Prof. Dr. Habib Çil has extensive experience in CRT implantation.
+Cardiac resynchronization therapy (CRT) is an advanced treatment method that ensures synchronized heart function in heart failure patients. Also known as a three-chamber pacemaker, CRT improves pumping function by stimulating both ventricles of the heart simultaneously. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in CRT implantation.
 
 ## What is CRT?
 
@@ -164,3 +164,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Arrhythmia Treatments
+
+Other arrhythmia treatments related to CRT pacemaker:
+
+-   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment

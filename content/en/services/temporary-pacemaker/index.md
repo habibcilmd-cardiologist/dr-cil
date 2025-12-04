@@ -1,8 +1,8 @@
 ---
-title: "Temporary Pacemaker - Emergency Rhythm Support"
-description: "Expert temporary pacemaker insertion in Istanbul. Assoc. Prof. Dr. Habib Çil provides emergency bradycardia treatment. Transvenous pacing. Specialist cardiology at Avrasya Hospital."
+title: "Temporary Pacemaker - Transvenous Pacing"
+description: "Expert temporary pacemaker insertion in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil provides emergency bradycardia treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "It depends on the underlying cause. If reversible causes are corrected, a permanent pacemaker may not be needed."
 ---
 
-A temporary pacemaker is a device used to support heart rhythm in emergencies or until a permanent pacemaker is implanted. Assoc. Prof. Dr. Habib Çil has extensive experience in temporary pacing procedures.
+A temporary pacemaker is a device used to support heart rhythm in emergencies or until a permanent pacemaker is implanted. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in temporary pacing procedures.
 
 ## What is a Temporary Pacemaker?
 
@@ -162,3 +162,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Arrhythmia Treatments
+
+Other arrhythmia treatments related to temporary pacemaker:
+
+-   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Permanent pacing
+-   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Cardioversion](/en/services/cardioversion/) - Electrical cardioversion
+-   [EKG](/en/services/ekg/) - Electrocardiography

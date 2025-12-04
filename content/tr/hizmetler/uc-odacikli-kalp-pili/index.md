@@ -1,8 +1,8 @@
 ---
-title: "Üç Odacıklı Kalp Pili (CRT) - Kardiyak Resenkronizasyon Tedavisi"
-description: "İstanbul'da CRT implantasyonu. Doç. Dr. Habib Çil ile üç odacıklı kalp pili takılması. Kalp yetmezliği tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+title: "Üç Odacıklı Kalp Pili (CRT) - Resenkronizasyon Tedavisi"
+description: "İstanbul'da CRT implantasyonu. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile üç odacıklı kalp pili takılması. Kalp yetmezliği tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, CRT ile normal günlük aktivitelerinizi sürdürebilirsiniz. Hatta egzersiz kapasiteniz artabilir."
 ---
 
-Kardiyak resenkronizasyon tedavisi (CRT), kalp yetmezliği hastalarında kalbin senkronize çalışmasını sağlayan ileri bir tedavi yöntemidir. Üç odacıklı kalp pili olarak da bilinen CRT, kalbin her iki ventrikülünü aynı anda uyararak pompalama fonksiyonunu iyileştirir. Doç. Dr. Habib Çil, CRT implantasyonunda geniş deneyime sahiptir.
+Kardiyak resenkronizasyon tedavisi (CRT), kalp yetmezliği hastalarında kalbin senkronize çalışmasını sağlayan ileri bir tedavi yöntemidir. Üç odacıklı kalp pili olarak da bilinen CRT, kalbin her iki ventrikülünü aynı anda uyararak pompalama fonksiyonunu iyileştirir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, CRT implantasyonunda geniş deneyime sahiptir.
 
 ## CRT Nedir?
 
@@ -164,3 +164,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kalp Yetmezliği Tedavileri
+
+Üç odacıklı kalp pili ile bağlantılı diğer tedaviler:
+
+-   [Biventriküler Pacemaker](/tr/hizmetler/biventrikuler-pacemaker/) - CRT tedavisi
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Standart pacemaker
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp fonksiyon değerlendirmesi

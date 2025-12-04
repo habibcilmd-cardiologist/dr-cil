@@ -1,8 +1,8 @@
 ---
-title: "Radyal Anjiyografi - Bilekten Koroner Anjiyografi"
-description: "İstanbul'da radyal anjiyografi. Doç. Dr. Habib Çil ile bilekten koroner anjiyografi. Daha az komplikasyon. Avrasya Hospital'da uzman kardiyoloji."
+title: "Radyal Anjiyografi - Bilekten Koroner Görüntüleme"
+description: "İstanbul'da radyal anjiyografi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile bilekten koroner anjiyografi. Daha az komplikasyon, aynı gün taburculuk. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, kanama ve komplikasyon riski daha düşüktür."
 ---
 
-Radyal anjiyografi, koroner anjiyografinin bilek (radyal arter) yoluyla yapılmasıdır. Geleneksel kasık (femoral) erişime göre birçok avantajı vardır. Doç. Dr. Habib Çil, radyal anjiyografi işleminde geniş deneyime sahiptir.
+Radyal anjiyografi, koroner anjiyografinin bilek (radyal arter) yoluyla yapılmasıdır. Geleneksel kasık (femoral) erişime göre birçok avantajı vardır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, radyal anjiyografi işleminde geniş deneyime sahiptir.
 
 ## Radyal Anjiyografi Nedir?
 
@@ -144,3 +144,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Koroner Girişimler
+
+Radyal anjiyografi ile bağlantılı diğer koroner işlemler:
+
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
+-   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
+-   [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi
+-   [Anjiyografi](/tr/hizmetler/anjiyografi/) - Genel anjiyografi bilgisi

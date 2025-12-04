@@ -1,8 +1,8 @@
 ---
-title: "Kardiyak BT - Koroner BT Anjiyografi"
-description: "İstanbul'da kardiyak BT. Doç. Dr. Habib Çil ile koroner BT anjiyografi. Non-invaziv kalp damar görüntüleme. Avrasya Hospital'da uzman kardiyoloji."
+title: "Kardiyak BT - Koroner BT Anjiyografi (CCTA)"
+description: "İstanbul'da kardiyak BT. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile koroner BT anjiyografi. Non-invaziv kalp damar görüntüleme. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Sonuçlar genellikle aynı gün veya ertesi gün raporlanır."
 ---
 
-Kardiyak BT (Bilgisayarlı Tomografi), kalp ve koroner arterlerin non-invaziv olarak görüntülenmesidir. Koroner arter hastalığının taranmasında ve değerlendirilmesinde önemli bir yere sahiptir. Doç. Dr. Habib Çil, kardiyak BT sonuçlarının yorumlanmasında geniş deneyime sahiptir.
+Kardiyak BT (Bilgisayarlı Tomografi), kalp ve koroner arterlerin non-invaziv olarak görüntülenmesidir. Koroner arter hastalığının taranmasında ve değerlendirilmesinde önemli bir yere sahiptir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, kardiyak BT sonuçlarının yorumlanmasında geniş deneyime sahiptir.
 
 ## Kardiyak BT Nedir?
 
@@ -144,3 +144,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tanısal Yöntemler
+
+Kardiyak BT ile bağlantılı diğer kardiyoloji testleri:
+
+-   [Koroner Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - İnvaziv damar görüntüleme
+-   [Miyokard Perfüzyon](/tr/hizmetler/miyokard-perfuzyon/) - Sintigrafi
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
+-   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı

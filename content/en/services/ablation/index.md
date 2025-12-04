@@ -1,8 +1,8 @@
 ---
-title: "Catheter Ablation - Arrhythmia Treatment"
-description: "Expert catheter ablation treatment in Istanbul. Assoc. Prof. Dr. Habib Çil treats heart rhythm disorders. AF ablation, SVT ablation. Specialist cardiology at Avrasya Hospital."
+title: "Catheter Ablation - Heart Rhythm Disorder Treatment"
+description: "Expert catheter ablation treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats heart rhythm disorders. AF ablation, SVT ablation. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Repeat ablation can be performed or medical treatment can be continued. Surgical ablation may be considered in some cases."
 ---
 
-Catheter ablation is a minimally invasive procedure used to treat heart rhythm disorders (arrhythmias). In this procedure, radiofrequency or cryotherapy is applied to abnormal heart tissue causing the arrhythmia, providing permanent treatment. Assoc. Prof. Dr. Habib Çil has extensive experience in arrhythmia ablation.
+Catheter ablation is a minimally invasive procedure used to treat heart rhythm disorders (arrhythmias). In this procedure, radiofrequency or cryotherapy is applied to abnormal heart tissue causing the arrhythmia, providing permanent treatment. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in arrhythmia ablation.
 
 ## What is Catheter Ablation?
 
@@ -177,3 +177,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Arrhythmia Treatments
+
+Other arrhythmia treatments related to ablation:
+
+-   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Cardioversion](/en/services/cardioversion/) - Electrical cardioversion
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring

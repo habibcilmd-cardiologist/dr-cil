@@ -1,8 +1,8 @@
 ---
-title: "Ekokardiyografi - Kalp Ultrasonografisi"
-description: "İstanbul'da ekokardiyografi. Doç. Dr. Habib Çil ile kalp ultrason değerlendirmesi. Transtorasik ve transözofageal eko. Avrasya Hospital'da uzman kardiyoloji."
+title: "Ekokardiyografi - Kalp Ultrasonu ve EKO"
+description: "İstanbul'da ekokardiyografi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile transtorasik ve transözofageal EKO. Kalp kapak ve fonksiyon değerlendirmesi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Sonuçlar genellikle aynı gün değerlendirilir ve raporlanır."
 ---
 
-Ekokardiyografi, ultrason dalgaları kullanarak kalbin yapısını ve fonksiyonunu değerlendiren non-invaziv bir görüntüleme yöntemidir. Kardiyolojide en değerli tanı araçlarından biridir. Doç. Dr. Habib Çil, ekokardiyografi yorumlamasında geniş deneyime sahiptir.
+Ekokardiyografi, ultrason dalgaları kullanarak kalbin yapısını ve fonksiyonunu değerlendiren non-invaziv bir görüntüleme yöntemidir. Kardiyolojide en değerli tanı araçlarından biridir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, ekokardiyografi yorumlamasında geniş deneyime sahiptir ve binlerce EKO değerlendirmesi yapmıştır.
 
 ## Ekokardiyografi Nedir?
 
@@ -170,4 +170,14 @@ WhatsApp ile Randevu Al
 
 ---
 
-_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+_Bu içerik kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tanısal Yöntemler
+
+Ekokardiyografi ile birlikte uygulanan diğer kardiyoloji testleri:
+
+-   [Stres Ekokardiyografi](/tr/hizmetler/stres-ekokardiyografi/) - Eforlu EKO testi
+-   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
+-   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
+-   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
+-   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Koroner BT anjiyografi

@@ -1,8 +1,8 @@
 ---
-title: "Cardioversion - Heart Rhythm Correction"
-description: "Expert cardioversion procedure in Istanbul. Assoc. Prof. Dr. Habib Çil treats atrial fibrillation. Electrical and pharmacological cardioversion. Avrasya Hospital."
+title: "Cardioversion - Electrical Heart Rhythm Restoration"
+description: "Expert cardioversion procedure in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats atrial fibrillation. Electrical and pharmacological cardioversion. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, anticoagulant and antiarrhythmic medications are usually required. Duration and type are determined by the doctor."
 ---
 
-Cardioversion is a treatment method applied to restore abnormal heart rhythm to normal sinus rhythm. It can be performed electrically or pharmacologically. Assoc. Prof. Dr. Habib Çil has extensive experience in cardioversion procedures.
+Cardioversion is a treatment method applied to restore abnormal heart rhythm to normal sinus rhythm. It can be performed electrically or pharmacologically. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in cardioversion procedures.
 
 ## What is Cardioversion?
 
@@ -174,3 +174,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Arrhythmia Treatments
+
+Other arrhythmia treatments related to cardioversion:
+
+-   [Ablation](/en/services/ablation/) - Catheter ablation
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [EKG](/en/services/ekg/) - Electrocardiography

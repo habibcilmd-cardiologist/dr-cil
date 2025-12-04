@@ -1,8 +1,8 @@
 ---
-title: "Carotid Artery Stenosis Treatment"
-description: "Expert carotid artery stenosis treatment in Istanbul. Assoc. Prof. Dr. Habib Çil performs carotid stenting and stroke prevention. Specialist interventional cardiology at Avrasya Hospital."
+title: "Carotid Artery Stenosis - Carotid Stenting"
+description: "Expert carotid artery stenosis treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs carotid stenting and stroke prevention. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "In bilateral stenosis, the more severe side is usually treated first. The second side is evaluated a few weeks later."
 ---
 
-Carotid artery stenosis is the narrowing of the main vessels that supply the brain and is one of the most important causes of stroke. Approximately 200,000 stroke cases occur in Turkey each year, a significant portion of which are related to carotid disease. Assoc. Prof. Dr. Habib Çil has extensive experience in carotid stenting and offers modern treatment methods to reduce stroke risk.
+Carotid artery stenosis is the narrowing of the main vessels that supply the brain and is one of the most important causes of stroke. Approximately 200,000 stroke cases occur in Turkey each year, a significant portion of which are related to carotid disease. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in carotid stenting and offers modern treatment methods to reduce stroke risk.
 
 ## What is Carotid Artery Stenosis?
 
@@ -203,3 +203,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Peripheral Vascular Treatments
+
+Other peripheral vascular treatments related to carotid stenosis:
+
+-   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Renal Artery Stenosis](/en/services/renal-artery-stenosis/) - Renal artery stenosis treatment
+-   [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg artery disease
+-   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
+-   [Hypertension](/en/services/hypertension/) - High blood pressure treatment

@@ -1,8 +1,8 @@
 ---
-title: "Left Main Coronary Artery Stenting"
-description: "Expert left main coronary artery stenting in Istanbul. Assoc. Prof. Dr. Habib Çil performs interventional treatment of LMCA disease. Specialist interventional cardiology at Avrasya Hospital."
+title: "Left Main Coronary Artery Stenting - LMCA PCI"
+description: "Expert left main coronary artery stenting in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs LMCA disease treatment. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, the stent is permanent. With regular follow-up and medication use, it remains trouble-free for many years."
 ---
 
-The left main coronary artery (LMCA) is the main vessel that supplies the left side of the heart and feeds approximately 75% of the heart muscle. Disease in this critical vessel can be treated with bypass surgery or stenting. Assoc. Prof. Dr. Habib Çil has extensive experience in left main coronary stenting and offers minimally invasive treatment in appropriate patients.
+The left main coronary artery (LMCA) is the main vessel that supplies the left side of the heart and feeds approximately 75% of the heart muscle. Disease in this critical vessel can be treated with bypass surgery or stenting. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in left main coronary stenting and offers minimally invasive treatment in appropriate patients.
 
 ## What is the Left Main Coronary Artery?
 
@@ -217,3 +217,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Interventions
+
+Other coronary treatments related to left main coronary stent:
+
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [CABG](/en/services/cabg/) - Coronary bypass surgery
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

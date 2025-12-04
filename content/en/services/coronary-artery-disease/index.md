@@ -1,8 +1,8 @@
 ---
-title: "Coronary Artery Disease Treatment"
-description: "Expert coronary artery disease treatment in Istanbul. Assoc. Prof. Dr. Habib Çil provides comprehensive diagnosis, angiography, angioplasty, and stent procedures. Specialist interventional cardiology at Avrasya Hospital."
+title: "Coronary Artery Disease - Diagnosis and Treatment"
+description: "Expert coronary artery disease treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil provides angiography, angioplasty, and stent procedures. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -22,7 +22,7 @@ faq:
     - question: "Can a stent become blocked again?"
       answer: "In modern drug-eluting stents, the restenosis rate is below 5%. However, medication adherence and control of risk factors further reduce this rate."
     - question: "Is bypass or stent better?"
-      answer: "Both treatments have advantages. The decision is made by the \"Heart Team\" considering the patient's anatomy, comorbidities, and preferences."
+      answer: 'Both treatments have advantages. The decision is made by the "Heart Team" considering the patient''s anatomy, comorbidities, and preferences.'
 ---
 
 Coronary artery disease (CAD) is the leading cause of death from heart disease worldwide. This condition, which develops when the coronary arteries that supply the heart narrow or become blocked, affects millions of people every year. In Turkey, cardiovascular diseases are the leading cause of death, with coronary artery disease accounting for a large portion of these. With early diagnosis and appropriate treatment, this disease can be controlled and patients' quality of life can be significantly improved.
@@ -241,3 +241,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Treatments
+
+Other coronary treatments related to coronary artery disease:
+
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Myocardial Infarction](/en/services/myocardial-infarction/) - Heart attack treatment
+-   [Stress Test](/en/services/stress-test/) - Exercise stress test
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography

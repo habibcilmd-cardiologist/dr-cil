@@ -1,8 +1,8 @@
 ---
-title: "Ambulatuvar Kardiyak İzleme - Ayaktan Kalp Takibi"
-description: "İstanbul'da ambulatuvar kardiyak izleme. Doç. Dr. Habib Çil ile ayaktan kalp ritmi takibi. Holter, event recorder. Avrasya Hospital'da uzman kardiyoloji."
+title: "Ambulatuvar Kardiyak İzleme - Ayaktan Ritim Takibi"
+description: "İstanbul'da ambulatuvar kardiyak izleme. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile ayaktan kalp ritmi takibi. Holter, event recorder. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Genellikle 1-2 gün içinde sonuçlar hazır olur."
 ---
 
-Ambulatuvar kardiyak izleme, günlük yaşam sırasında kalp ritminin sürekli kaydedilmesidir. Doç. Dr. Habib Çil, ambulatuvar kardiyak izleme ve değerlendirmede geniş deneyime sahiptir.
+Ambulatuvar kardiyak izleme, günlük yaşam sırasında kalp ritminin sürekli kaydedilmesidir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, ambulatuvar kardiyak izleme ve değerlendirmede geniş deneyime sahiptir.
 
 ## Ambulatuvar Kardiyak İzleme Nedir?
 
@@ -152,3 +152,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tanısal Yöntemler
+
+Ambulatuvar kardiyak izleme ile bağlantılı diğer kardiyoloji testleri:
+
+-   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
+-   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
+-   [Tilt Testi](/tr/hizmetler/tilt-testi/) - Senkop değerlendirmesi
+-   [Elektrofizyolojik Test](/tr/hizmetler/elektrofizyolojik-test/) - Aritmi haritalama
+-   [Ablasyon](/tr/hizmetler/ablasyon/) - Aritmi tedavisi

@@ -1,8 +1,8 @@
 ---
-title: "Heart Transplant - Cardiac Transplantation"
-description: "Expert heart transplant evaluation in Istanbul. Assoc. Prof. Dr. Habib Çil provides pre and post heart transplantation follow-up. Specialist cardiology at Avrasya Hospital."
+title: "Heart Transplant - Cardiac Transplantation Evaluation"
+description: "Expert heart transplant evaluation in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides pre and post heart transplantation follow-up. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Generally, over 70 years is a relative contraindication."
 ---
 
-Heart transplant is a life-saving surgical procedure performed in end-stage heart failure. Assoc. Prof. Dr. Habib Çil has extensive experience in pre-transplant evaluation and post-transplant follow-up.
+Heart transplant is a life-saving surgical procedure performed in end-stage heart failure. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in pre-transplant evaluation and post-transplant follow-up.
 
 ## What is Heart Transplant?
 
@@ -145,3 +145,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Heart Failure Treatments
+
+Other heart failure treatments related to heart transplant:
+
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [LVAD](/en/services/lvad/) - Left ventricular assist device
+-   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound

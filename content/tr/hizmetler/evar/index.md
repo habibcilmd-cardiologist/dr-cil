@@ -1,8 +1,8 @@
 ---
-title: "EVAR - Endovasküler Anevrizma Onarımı"
-description: "İstanbul'da EVAR işlemi. Doç. Dr. Habib Çil ile endovasküler anevrizma onarımı. Minimal invaziv aort anevrizması tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+title: "EVAR - Endovasküler Aort Anevrizması Onarımı"
+description: "İstanbul'da EVAR işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile endovasküler anevrizma onarımı. Minimal invaziv tedavi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Çoğu modern stent-greft MR uyumludur. Doktorunuza danışın."
 ---
 
-EVAR (Endovasküler Anevrizma Onarımı), abdominal aort anevrizmasının kateter yoluyla tedavi edilmesidir. Açık cerrahiye alternatif minimal invaziv bir yöntemdir. Doç. Dr. Habib Çil, EVAR işleminde geniş deneyime sahiptir.
+EVAR (Endovasküler Anevrizma Onarımı), abdominal aort anevrizmasının kateter yoluyla tedavi edilmesidir. Açık cerrahiye alternatif minimal invaziv bir yöntemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, EVAR işleminde geniş deneyime sahiptir.
 
 ## EVAR Nedir?
 
@@ -149,3 +149,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Damar Tedavileri
+
+EVAR ile bağlantılı diğer tedaviler:
+
+-   [Abdominal Aort Anevrizması](/tr/hizmetler/abdominal-aort-anevrizması/) - Karın aort anevrizması
+-   [Periferik Damar](/tr/hizmetler/periferik-damar/) - Periferik damar hastalıkları
+-   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Bilgisayarlı tomografi
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Damar görüntüleme
+-   [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar hastalığı

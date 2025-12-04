@@ -1,8 +1,8 @@
 ---
-title: "Pulmonary Valve Disease - Pulmonary Stenosis and Regurgitation"
-description: "Expert pulmonary valve disease treatment in Istanbul. Assoc. Prof. Dr. Habib Çil treats pulmonary stenosis and regurgitation. Balloon valvuloplasty. Specialist cardiology at Avrasya Hospital."
+title: "Pulmonary Valve Disease - Stenosis and Regurgitation"
+description: "Expert pulmonary valve disease treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats pulmonary stenosis and regurgitation. Balloon valvuloplasty. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Mild regurgitation usually does not require treatment. Valve replacement may be needed in severe regurgitation."
 ---
 
-Pulmonary valve disease is dysfunction of the valve between the right ventricle and pulmonary artery. It has two main forms: pulmonary stenosis and pulmonary regurgitation. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating pulmonary valve diseases.
+Pulmonary valve disease is dysfunction of the valve between the right ventricle and pulmonary artery. It has two main forms: pulmonary stenosis and pulmonary regurgitation. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating pulmonary valve diseases.
 
 ## What is Pulmonary Valve Disease?
 
@@ -162,3 +162,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Valve Treatments
+
+Other structural heart treatments related to pulmonary valve disease:
+
+-   [Tricuspid Valve](/en/services/tricuspid-valve/) - Tricuspid valve diseases
+-   [Balloon Valvuloplasty](/en/services/balloon-valvuloplasty/) - Balloon valve dilation
+-   [Echocardiography](/en/services/echocardiography/) - Valve assessment
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [EKG](/en/services/ekg/) - Electrocardiography

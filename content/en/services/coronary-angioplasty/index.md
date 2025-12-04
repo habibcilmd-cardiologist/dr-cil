@@ -1,8 +1,8 @@
 ---
-title: "Coronary Angioplasty and Stent"
-description: "Expert coronary angioplasty and stent treatment in Istanbul. Assoc. Prof. Dr. Habib Çil performs balloon and stent procedures to open blocked arteries. Specialist interventional cardiology at Avrasya Hospital."
+title: "Coronary Angioplasty and Stent - Balloon Angioplasty"
+description: "Expert coronary angioplasty and stent treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs balloon and stent procedures. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, the stent is permanent and integrates into the vessel wall over time. It is accepted by the body and does not affect normal life."
 ---
 
-Coronary angioplasty is a procedure to open blocked or narrowed coronary arteries using balloons and stents. Also known as percutaneous coronary intervention (PCI), this treatment plays a life-saving role in treating heart attacks and angina. Assoc. Prof. Dr. Habib Çil has performed thousands of successful angioplasty procedures with over 20 years of experience.
+Coronary angioplasty is a procedure to open blocked or narrowed coronary arteries using balloons and stents. Also known as percutaneous coronary intervention (PCI), this treatment plays a life-saving role in treating heart attacks and angina. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has performed thousands of successful angioplasty procedures with over 20 years of experience.
 
 ## What is Coronary Angioplasty?
 
@@ -222,3 +222,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Interventions
+
+Other coronary treatments related to coronary angioplasty:
+
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [CTO Intervention](/en/services/cto-intervention/) - Chronic total occlusion treatment
+-   [Left Main Coronary Stent](/en/services/left-main-coronary-stent/) - Left main disease treatment
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease

@@ -1,8 +1,8 @@
 ---
-title: "CABG - Coronary Artery Bypass Graft Surgery"
-description: "Expert heart bypass surgery in Istanbul. Assoc. Prof. Dr. Habib Çil provides coronary artery bypass graft surgery evaluation. CABG operation. Specialist cardiology at Avrasya Hospital."
+title: "CABG - Coronary Artery Bypass Surgery"
+description: "Expert heart bypass surgery in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides coronary artery bypass graft surgery evaluation. CABG operation. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "In some patients, yes. Decision is made by heart team."
 ---
 
-Heart bypass surgery is a surgical procedure that provides blood flow to the heart muscle by creating a new vessel pathway around blocked coronary arteries. Assoc. Prof. Dr. Habib Çil has extensive experience in pre and post bypass surgery evaluation.
+Heart bypass surgery is a surgical procedure that provides blood flow to the heart muscle by creating a new vessel pathway around blocked coronary arteries. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in pre and post bypass surgery evaluation.
 
 ## What is Heart Bypass?
 
@@ -145,3 +145,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Treatments
+
+Other coronary treatments related to CABG:
+
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Left Main Coronary Stent](/en/services/left-main-coronary-stent/) - Left main disease treatment
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease
+-   [Myocardial Infarction](/en/services/myocardial-infarction/) - Heart attack treatment
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging

@@ -1,8 +1,8 @@
 ---
-title: "Triküspit Kapak Hastalığı - Triküspit Yetersizliği"
-description: "İstanbul'da triküspit kapak hastalığı tedavisi. Doç. Dr. Habib Çil ile triküspit yetersizliği. Kateter ve cerrahi tedavi. Avrasya Hospital'da uzman kardiyoloji."
+title: "Triküspit Kapak Hastalığı - Yetersizlik Tedavisi"
+description: "İstanbul'da triküspit kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile triküspit yetersizliği. Kateter ve cerrahi tedavi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Altta yatan neden tedavi edilirse fonksiyonel yetersizlik azalabilir."
 ---
 
-Triküspit kapak hastalığı, sağ atriyum ile sağ ventrikül arasındaki kapağın işlev bozukluğudur. En sık triküspit yetersizliği görülür. Doç. Dr. Habib Çil, triküspit kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
+Triküspit kapak hastalığı, sağ atriyum ile sağ ventrikül arasındaki kapağın işlev bozukluğudur. En sık triküspit yetersizliği görülür. Kardiyoloji uzmanı Doç. Dr. Habib Çil, triküspit kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
 
 ## Triküspit Kapak Hastalığı Nedir?
 
@@ -160,3 +160,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kapak Tedavileri
+
+Triküspit kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
+
+-   [Mitral Kapak](/tr/hizmetler/mitral-kapak/) - Mitral kapak hastalıkları
+-   [Pulmoner Kapak](/tr/hizmetler/pulmoner-kapak/) - Pulmoner kapak hastalıkları
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [Kalp Bypass](/tr/hizmetler/kalp-bypass/) - Koroner bypass ameliyatı

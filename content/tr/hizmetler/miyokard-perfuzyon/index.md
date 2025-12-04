@@ -1,8 +1,8 @@
 ---
-title: "Miyokard Perfüzyon Sintigrafisi - Kalp Taraması"
-description: "İstanbul'da miyokard perfüzyon sintigrafisi. Doç. Dr. Habib Çil ile kalp kan akımı değerlendirmesi. İskemi tanısı. Avrasya Hospital'da uzman kardiyoloji."
+title: "Miyokard Perfüzyon Sintigrafisi (MPS) - Talyum Testi"
+description: "İstanbul'da miyokard perfüzyon sintigrafisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp kan akımı değerlendirmesi. İskemi tanısı. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Hayır, hamilelik döneminde radyasyon içeren testler yapılmaz."
 ---
 
-Miyokard perfüzyon sintigrafisi (MPS), kalp kasına olan kan akımını değerlendiren nükleer tıp görüntüleme yöntemidir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir. Doç. Dr. Habib Çil, MPS sonuçlarının yorumlanmasında geniş deneyime sahiptir.
+Miyokard perfüzyon sintigrafisi (MPS), kalp kasına olan kan akımını değerlendiren nükleer tıp görüntüleme yöntemidir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, MPS sonuçlarının yorumlanmasında geniş deneyime sahiptir.
 
 ## Miyokard Perfüzyon Sintigrafisi Nedir?
 
@@ -152,3 +152,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tanısal Yöntemler
+
+Miyokard perfüzyon sintigrafisi ile bağlantılı diğer kardiyoloji testleri:
+
+-   [Stres Ekokardiyografi](/tr/hizmetler/stres-ekokardiyografi/) - Stres altında kalp değerlendirmesi
+-   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Bilgisayarlı tomografi
+-   [Koroner Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Damar görüntüleme
+-   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı

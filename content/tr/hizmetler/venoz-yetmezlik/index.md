@@ -1,8 +1,8 @@
 ---
-title: "Venöz Yetmezlik - Toplardamar Yetmezliği"
-description: "İstanbul'da venöz yetmezlik tedavisi. Doç. Dr. Habib Çil ile toplardamar yetmezliği. Varis tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+title: "Venöz Yetmezlik - Varis ve Toplardamar Tedavisi"
+description: "İstanbul'da venöz yetmezlik tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile toplardamar yetmezliği. Varis tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Genellikle 1-2 gün içinde normal aktivitelere dönülebilir."
 ---
 
-Venöz yetmezlik, bacak toplardamarlarındaki kapakların işlev bozukluğudur. Varis, şişlik ve cilt değişikliklerine yol açar. Doç. Dr. Habib Çil, venöz yetmezlik tanı ve tedavisinde geniş deneyime sahiptir.
+Venöz yetmezlik, bacak toplardamarlarındaki kapakların işlev bozukluğudur. Varis, şişlik ve cilt değişikliklerine yol açar. Kardiyoloji uzmanı Doç. Dr. Habib Çil, venöz yetmezlik tanı ve tedavisinde geniş deneyime sahiptir.
 
 ## Venöz Yetmezlik Nedir?
 
@@ -163,3 +163,12 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Damar Tedavileri
+
+Venöz yetmezlik ile bağlantılı diğer tedaviler:
+
+-   [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar hastalığı
+-   [Periferik Damar](/tr/hizmetler/periferik-damar/) - Periferik damar hastalıkları
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi

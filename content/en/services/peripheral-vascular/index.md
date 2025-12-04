@@ -1,8 +1,8 @@
 ---
-title: "Peripheral Vascular Disease Treatment"
-description: "Expert peripheral vascular disease treatment in Istanbul. Assoc. Prof. Dr. Habib Çil performs leg artery, renal artery, and other peripheral vascular interventions. Specialist interventional cardiology at Avrasya Hospital."
+title: "Peripheral Vascular Disease - PAD Intervention"
+description: "Expert peripheral vascular disease treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs leg artery and peripheral vascular interventions. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Absolutely. Smoking cessation is the most important component of PAD treatment. It slows disease progression and increases treatment success."
 ---
 
-Peripheral artery disease (PAD) is the narrowing or blockage of arteries outside the heart and brain due to atherosclerosis. This disease, which most commonly affects leg arteries, can lead to serious consequences from walking difficulty to gangrene. Assoc. Prof. Dr. Habib Çil has extensive experience in peripheral vascular interventions and improves patients' quality of life with modern techniques.
+Peripheral artery disease (PAD) is the narrowing or blockage of arteries outside the heart and brain due to atherosclerosis. This disease, which most commonly affects leg arteries, can lead to serious consequences from walking difficulty to gangrene. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in peripheral vascular interventions and improves patients' quality of life with modern techniques.
 
 ## What is Peripheral Artery Disease?
 
@@ -209,3 +209,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Peripheral Vascular Treatments
+
+Other peripheral vascular treatments related to peripheral vascular disease:
+
+-   [Carotid Stenosis](/en/services/carotid-stenosis/) - Carotid artery stenosis treatment
+-   [Renal Artery Stenosis](/en/services/renal-artery-stenosis/) - Renal artery stenosis treatment
+-   [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg artery disease
+-   [Abdominal Aortic Aneurysm](/en/services/abdominal-aortic-aneurysm/) - Aortic aneurysm treatment
+-   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure

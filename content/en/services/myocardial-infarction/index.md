@@ -1,8 +1,8 @@
 ---
-title: "Myocardial Infarction (Heart Attack) Treatment"
-description: "Expert myocardial infarction treatment in Istanbul. Assoc. Prof. Dr. Habib Çil offers emergency coronary intervention, angioplasty, and stent procedures. 24/7 emergency cardiology at Avrasya Hospital."
+title: "Myocardial Infarction - Heart Attack Emergency Treatment"
+description: "Expert myocardial infarction treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil offers emergency coronary intervention, angioplasty, and stent. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -191,3 +191,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Treatments
+
+Other coronary treatments related to myocardial infarction:
+
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease
+-   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [PCI](/en/services/pci/) - Percutaneous coronary intervention

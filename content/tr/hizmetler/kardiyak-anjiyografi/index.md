@@ -1,8 +1,8 @@
 ---
-title: "Kardiyak Anjiyografi - Kalp Anjiyografisi"
-description: "İstanbul'da kardiyak anjiyografi. Doç. Dr. Habib Çil ile kalp anjiyografisi. Koroner arter görüntüleme. Avrasya Hospital'da uzman kardiyoloji."
+title: "Kardiyak Anjiyografi - Koroner Arter Görüntüleme"
+description: "İstanbul'da kardiyak anjiyografi işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile koroner arter görüntüleme ve tanı. Radyal ve femoral anjiyografi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, lokal anestezi ile yapılır ve işlem boyunca uyanıksınız."
 ---
 
-Kardiyak anjiyografi, kalp damarlarının röntgen görüntüleme ile değerlendirilmesidir. Koroner arter hastalığının tanısında altın standart yöntemdir. Doç. Dr. Habib Çil, kardiyak anjiyografi işleminde geniş deneyime sahiptir.
+Kardiyak anjiyografi, kalp damarlarının röntgen görüntüleme ile değerlendirilmesidir. Koroner arter hastalığının tanısında altın standart yöntemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, 20 yılı aşkın deneyimiyle binlerce başarılı kardiyak anjiyografi işlemi gerçekleştirmiştir.
 
 ## Kardiyak Anjiyografi Nedir?
 
@@ -143,4 +143,13 @@ WhatsApp ile Randevu Al
 
 ---
 
-_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+_Bu içerik girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Tedaviler
+
+Kardiyak anjiyografi sonucuna göre uygulanabilecek tedaviler:
+
+-   [Koroner Anjiyoplasti ve Stent](/tr/hizmetler/koroner-anjiyoplasti/) - Damar darlıklarının balon ve stent ile açılması
+-   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
+-   [PCI - Perkütan Koroner Girişim](/tr/hizmetler/pci/) - Kapsamlı koroner girişim tedavisi
+-   [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi

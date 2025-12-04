@@ -1,8 +1,8 @@
 ---
-title: "Koroner Anjiyoplasti ve Stent"
-description: "İstanbul'da koroner anjiyoplasti ve stent tedavisi. Doç. Dr. Habib Çil ile tıkalı damarların açılması, balon ve stent uygulamaları. Avrasya Hospital'da uzman girişimsel kardiyoloji."
+title: "Koroner Anjiyoplasti ve Stent - Damar Açma İşlemi"
+description: "İstanbul'da koroner anjiyoplasti ve stent tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile tıkalı damarların balon ve ilaç salınımlı stent ile açılması. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Evet, stent kalıcıdır ve zamanla damar duvarına entegre olur. Vücut tarafından kabul edilir ve normal yaşamı etkilemez."
 ---
 
-Koroner anjiyoplasti, tıkalı veya daralmış koroner arterlerin balon ve stent kullanılarak açılması işlemidir. Perkütan koroner girişim (PKG) olarak da bilinen bu tedavi, kalp krizi ve anjina tedavisinde hayat kurtarıcı bir rol oynar. Doç. Dr. Habib Çil, 20 yılı aşkın deneyimiyle binlerce başarılı anjiyoplasti işlemi gerçekleştirmiştir.
+Koroner anjiyoplasti, tıkalı veya daralmış koroner arterlerin balon ve stent kullanılarak açılması işlemidir. Perkütan koroner girişim (PKG) olarak da bilinen bu tedavi, kalp krizi ve anjina tedavisinde hayat kurtarıcı bir rol oynar. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, 20 yılı aşkın deneyimiyle binlerce başarılı anjiyoplasti ve stent işlemi gerçekleştirmiştir.
 
 ## Koroner Anjiyoplasti Nedir?
 
@@ -221,4 +221,14 @@ WhatsApp ile Randevu Al
 
 ---
 
-_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+_Bu içerik girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Hizmetler
+
+Koroner anjiyoplasti ile bağlantılı diğer girişimsel işlemler:
+
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
+-   [Sol Ana Koroner Stent](/tr/hizmetler/sol-ana-koroner-stent/) - Sol ana koroner hastalığı tedavisi
+-   [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi
+-   [Radyal Anjiyografi](/tr/hizmetler/radyal-anjiyografi/) - Bilekten anjiyografi

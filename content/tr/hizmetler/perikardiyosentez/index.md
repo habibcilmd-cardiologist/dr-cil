@@ -1,8 +1,8 @@
 ---
-title: "Perikardiyosentez - Kalp Zarı Sıvı Boşaltma"
-description: "İstanbul'da perikardiyosentez. Doç. Dr. Habib Çil ile kalp zarı sıvı boşaltma işlemi. Perikardiyal efüzyon tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+title: "Perikardiyosentez - Perikardiyal Efüzyon Tedavisi"
+description: "İstanbul'da perikardiyosentez. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp zarı sıvı boşaltma işlemi. Perikardiyal efüzyon tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Ciddi komplikasyonlar nadir görülür. Kalp perforasyonu riski düşüktür."
 ---
 
-Perikardiyosentez, kalp zarı (perikard) ile kalp arasında biriken sıvının iğne ile boşaltılmasıdır. Doç. Dr. Habib Çil, perikardiyosentez işleminde geniş deneyime sahiptir.
+Perikardiyosentez, kalp zarı (perikard) ile kalp arasında biriken sıvının iğne ile boşaltılmasıdır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, perikardiyosentez işleminde geniş deneyime sahiptir.
 
 ## Perikardiyosentez Nedir?
 
@@ -159,3 +159,12 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kardiyoloji Girişimleri
+
+Perikardiyosentez ile bağlantılı diğer tedaviler:
+
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
+-   [Kardiyak Kateterizasyon](/tr/hizmetler/kardiyak-kateterizasyon/) - Kalp kateterizasyonu
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi

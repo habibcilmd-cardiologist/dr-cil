@@ -1,8 +1,8 @@
 ---
-title: "Kalıcı Kalp Pili (Pacemaker) Takılması"
-description: "İstanbul'da kalıcı kalp pili takılması. Doç. Dr. Habib Çil ile pacemaker implantasyonu. Bradikardi ve kalp blokları tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+title: "Kalıcı Kalp Pili (Pacemaker) İmplantasyonu"
+description: "İstanbul'da kalıcı kalp pili takılması. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile pacemaker implantasyonu. Bradikardi ve AV blok tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Genellikle 6-12 ayda bir kontrol önerilir. Uzaktan izleme sistemleri ile daha sık takip mümkündür."
 ---
 
-Kalıcı kalp pili (pacemaker), kalbin yavaş atmasını (bradikardi) veya iletim bozukluklarını tedavi etmek için kullanılan küçük bir elektronik cihazdır. Göğüs cildinin altına yerleştirilen bu cihaz, kalbin düzenli atmasını sağlar. Doç. Dr. Habib Çil, kalp pili implantasyonunda geniş deneyime sahip olup, en güncel teknolojileri kullanmaktadır.
+Kalıcı kalp pili (pacemaker), kalbin yavaş atmasını (bradikardi) veya iletim bozukluklarını tedavi etmek için kullanılan küçük bir elektronik cihazdır. Göğüs cildinin altına yerleştirilen bu cihaz, kalbin düzenli atmasını sağlar. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, kalp pili implantasyonunda geniş deneyime sahip olup en güncel teknolojileri kullanmaktadır.
 
 ## Kalp Pili Nedir?
 
@@ -201,4 +201,14 @@ WhatsApp ile Randevu Al
 
 ---
 
-_Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+_Bu içerik girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Cihaz Tedavileri
+
+Kalp pili ve diğer kardiyak cihaz implantasyonları:
+
+-   [Geçici Kalp Pili](/tr/hizmetler/gecici-kalp-pili/) - Acil bradikardi tedavisi
+-   [ICD](/tr/hizmetler/icd/) - Ani kardiyak ölüm önleme
+-   [Biventriküler Pacemaker](/tr/hizmetler/biventrikuler-pacemaker/) - CRT cihazı
+-   [Üç Odacıklı Kalp Pili](/tr/hizmetler/uc-odacikli-kalp-pili/) - Kardiyak resenkronizasyon
+-   [Holter](/tr/hizmetler/holter/) - Ritim bozukluğu tanısı

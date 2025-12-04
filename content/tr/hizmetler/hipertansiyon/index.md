@@ -1,8 +1,8 @@
 ---
-title: "Hipertansiyon (Yüksek Tansiyon) Tedavisi"
-description: "İstanbul'da hipertansiyon tedavisi. Doç. Dr. Habib Çil ile yüksek tansiyon tanısı, ilaç tedavisi ve yaşam tarzı değişiklikleri. Avrasya Hospital'da kapsamlı kardiyoloji hizmeti."
+title: "Hipertansiyon (Yüksek Tansiyon) Tanı ve Tedavisi"
+description: "İstanbul'da hipertansiyon tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile yüksek tansiyon tanısı, ilaç tedavisi ve yaşam tarzı önerileri. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -209,3 +209,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kardiyovasküler Tedaviler
+
+Hipertansiyon ile bağlantılı diğer tedaviler:
+
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [Renal Arter Stenozu](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damarı darlığı
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
+-   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi

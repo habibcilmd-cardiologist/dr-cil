@@ -1,8 +1,8 @@
 ---
-title: "Alkol Septal Ablasyon - Hipertrofik Kardiyomiyopati Tedavisi"
-description: "İstanbul'da alkol septal ablasyon. Doç. Dr. Habib Çil ile hipertrofik kardiyomiyopati tedavisi. Avrasya Hospital'da uzman girişimsel kardiyoloji hizmeti."
+title: "Alkol Septal Ablasyon (ASA) - HOKM Tedavisi"
+description: "İstanbul'da alkol septal ablasyon. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile hipertrofik kardiyomiyopati tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "HOKM hastalarında yarışmalı sporlar genellikle önerilmez. Hafif-orta düzeyde egzersiz doktor kontrolünde yapılabilir."
 ---
 
-Alkol septal ablasyon (ASA), hipertrofik obstrüktif kardiyomiyopati (HOKM) tedavisinde kullanılan minimal invaziv bir girişimsel işlemdir. Bu işlemde, kalın septum kasına alkol enjekte edilerek kontrollü bir hasar oluşturulur ve sol ventrikül çıkış yolu obstrüksiyonu azaltılır. Doç. Dr. Habib Çil, bu özel işlemde geniş deneyime sahiptir.
+Alkol septal ablasyon (ASA), hipertrofik obstrüktif kardiyomiyopati (HOKM) tedavisinde kullanılan minimal invaziv bir girişimsel işlemdir. Bu işlemde, kalın septum kasına alkol enjekte edilerek kontrollü bir hasar oluşturulur ve sol ventrikül çıkış yolu obstrüksiyonu azaltılır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, bu özel işlemde geniş deneyime sahiptir.
 
 ## Hipertrofik Kardiyomiyopati Nedir?
 
@@ -186,3 +186,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kardiyoloji Tedavileri
+
+Alkol septal ablasyon ile bağlantılı diğer tedaviler:
+
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
+-   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [Koroner Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Bradikardi tedavisi

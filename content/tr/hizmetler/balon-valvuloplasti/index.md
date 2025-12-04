@@ -1,8 +1,8 @@
 ---
-title: "Balon Valvüloplasti - Kapak Genişletme İşlemi"
-description: "İstanbul'da balon valvüloplasti. Doç. Dr. Habib Çil ile mitral ve aort kapak genişletme. Kateter ile kapak tedavisi. Avrasya Hospital'da uzman kardiyoloji."
+title: "Balon Valvüloplasti - Kapak Balonla Genişletme"
+description: "İstanbul'da balon valvüloplasti. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile mitral ve aort kapak genişletme. Kateter ile kapak tedavisi. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Kapak anatomisi ve eşlik eden durumlar değerlendirilerek karar verilir."
 ---
 
-Balon valvüloplasti, daralmış kalp kapağının balon kateter kullanılarak genişletilmesi işlemidir. Özellikle mitral ve pulmoner kapak darlıklarında etkili bir tedavi yöntemidir. Doç. Dr. Habib Çil, balon valvüloplasti işleminde geniş deneyime sahiptir.
+Balon valvüloplasti, daralmış kalp kapağının balon kateter kullanılarak genişletilmesi işlemidir. Özellikle mitral ve pulmoner kapak darlıklarında etkili bir tedavi yöntemidir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, balon valvüloplasti işleminde geniş deneyime sahiptir.
 
 ## Balon Valvüloplasti Nedir?
 
@@ -164,3 +164,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Kapak Tedavileri
+
+Balon valvüloplasti ile bağlantılı diğer yapısal kalp tedavileri:
+
+-   [TAVI](/tr/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
+-   [Aort Kapak Hastalığı](/tr/hizmetler/aort-kapak-hastaligi/) - Aort kapak hastalıkları hakkında
+-   [Mitral Kapak](/tr/hizmetler/mitral-kapak/) - Mitral kapak hastalıkları
+-   [MitraClip](/tr/hizmetler/mitraclip/) - Mitral kapak tamiri
+-   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi

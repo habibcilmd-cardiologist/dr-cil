@@ -1,8 +1,8 @@
 ---
-title: "Radial Angiography - Wrist Coronary Angiography"
-description: "Expert radial angiography in Istanbul. Assoc. Prof. Dr. Habib Çil performs coronary angiography via wrist. Fewer complications. Specialist cardiology at Avrasya Hospital."
+title: "Radial Angiography - Transradial Coronary Access"
+description: "Expert radial angiography in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs coronary angiography via wrist. Fewer complications. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Yes, bleeding and complication risk is lower."
 ---
 
-Radial angiography is coronary angiography performed through the wrist (radial artery). It has many advantages over traditional groin (femoral) access. Assoc. Prof. Dr. Habib Çil has extensive experience in radial angiography procedures.
+Radial angiography is coronary angiography performed through the wrist (radial artery). It has many advantages over traditional groin (femoral) access. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in radial angiography procedures.
 
 ## What is Radial Angiography?
 
@@ -144,3 +144,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Coronary Interventions
+
+Other coronary treatments related to radial angiography:
+
+-   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Angiography](/en/services/angiography/) - General angiography procedures
+-   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [PCI](/en/services/pci/) - Percutaneous coronary intervention

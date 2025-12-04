@@ -1,8 +1,8 @@
 ---
-title: "Koroner Anjiyografi - Kalp Damar Görüntüleme"
-description: "İstanbul'da koroner anjiyografi. Doç. Dr. Habib Çil ile kalp damarlarının görüntülenmesi. Tanısal kateterizasyon. Avrasya Hospital'da uzman kardiyoloji."
+title: "Koroner Anjiyografi - Kalp Damar Görüntüleme İşlemi"
+description: "İstanbul'da koroner anjiyografi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp damarlarının görüntülenmesi. Tanısal kateterizasyon. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Çoğu hasta 1-2 gün içinde normal aktivitelerine dönebilir."
 ---
 
-Koroner anjiyografi, kalp damarlarının (koroner arterler) röntgen ışınları ve kontrast madde kullanılarak görüntülenmesidir. Bu işlem, koroner arter hastalığının tanısında altın standart olarak kabul edilir. Doç. Dr. Habib Çil, koroner anjiyografi işleminde geniş deneyime sahiptir.
+Koroner anjiyografi, kalp damarlarının (koroner arterler) röntgen ışınları ve kontrast madde kullanılarak görüntülenmesidir. Bu işlem, koroner arter hastalığının tanısında altın standart olarak kabul edilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, koroner anjiyografi işleminde geniş deneyime sahiptir.
 
 ## Koroner Anjiyografi Nedir?
 
@@ -178,3 +178,13 @@ WhatsApp ile Randevu Al
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
+
+## İlgili Koroner Girişimler
+
+Anjiyografi ile bağlantılı diğer koroner işlemler:
+
+-   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
+-   [Radyal Anjiyografi](/tr/hizmetler/radyal-anjiyografi/) - Bilekten anjiyografi
+-   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
+-   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
+-   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı hakkında

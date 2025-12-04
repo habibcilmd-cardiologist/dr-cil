@@ -1,8 +1,8 @@
 ---
-title: "Ambulatory Cardiac Monitoring - Outpatient Heart Monitoring"
-description: "Expert ambulatory cardiac monitoring in Istanbul. Assoc. Prof. Dr. Habib Çil provides outpatient heart rhythm monitoring. Holter, event recorder. Specialist cardiology at Avrasya Hospital."
+title: "Ambulatory Cardiac Monitoring - Holter and Event Recorder"
+description: "Expert ambulatory cardiac monitoring in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides outpatient heart rhythm monitoring. Holter, event recorder. Avrasya Hospital."
 date: 2024-01-15
-lastmod: 2024-12-01
+lastmod: 2024-12-04
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -25,7 +25,7 @@ faq:
       answer: "Usually results are ready within 1-2 days."
 ---
 
-Ambulatory cardiac monitoring is continuous recording of heart rhythm during daily life. Assoc. Prof. Dr. Habib Çil has extensive experience in ambulatory cardiac monitoring and evaluation.
+Ambulatory cardiac monitoring is continuous recording of heart rhythm during daily life. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in ambulatory cardiac monitoring and evaluation.
 
 ## What is Ambulatory Cardiac Monitoring?
 
@@ -152,3 +152,13 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
+
+## Related Diagnostic Tests
+
+Other diagnostic tests related to ambulatory cardiac monitoring:
+
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Ablation](/en/services/ablation/) - Catheter ablation
