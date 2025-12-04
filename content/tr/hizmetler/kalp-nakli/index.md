@@ -12,6 +12,17 @@ translationKey: "heart-transplant"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Kalp nakli sonrası ne kadar yaşarım?"
+      answer: "1 yıllık sağkalım %85-90, 10 yıllık sağkalım %50-55 civarındadır."
+    - question: "Kalp nakli sonrası ilaç kullanımı gerekli mi?"
+      answer: "Evet, ömür boyu immünosupresif ilaç kullanımı gereklidir."
+    - question: "Kalp nakli bekleme süresi ne kadar?"
+      answer: "Bekleme süresi değişkendir. Aciliyet durumu ve uygun donör bulunmasına bağlıdır."
+    - question: "Kalp nakli sonrası normal yaşam mümkün mü?"
+      answer: "Evet, birçok hasta normal yaşama dönebilir."
+    - question: "Kalp nakli için yaş sınırı var mı?"
+      answer: "Genellikle 70 yaş üstü göreceli kontrendikasyondur."
 ---
 
 Kalp nakli, son dönem kalp yetmezliğinde uygulanan hayat kurtarıcı cerrahi işlemdir. Doç. Dr. Habib Çil, kalp nakli öncesi değerlendirme ve sonrası takipte geniş deneyime sahiptir.
@@ -117,25 +128,7 @@ Toplam süre: 4-8 saat
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Kalp nakli sonrası ne kadar yaşarım?" >}}
-1 yıllık sağkalım %85-90, 10 yıllık sağkalım %50-55 civarındadır.
-{{< /faq >}}
-
-{{< faq question="Kalp nakli sonrası ilaç kullanımı gerekli mi?" >}}
-Evet, ömür boyu immünosupresif ilaç kullanımı gereklidir.
-{{< /faq >}}
-
-{{< faq question="Kalp nakli bekleme süresi ne kadar?" >}}
-Bekleme süresi değişkendir. Aciliyet durumu ve uygun donör bulunmasına bağlıdır.
-{{< /faq >}}
-
-{{< faq question="Kalp nakli sonrası normal yaşam mümkün mü?" >}}
-Evet, birçok hasta normal yaşama dönebilir.
-{{< /faq >}}
-
-{{< faq question="Kalp nakli için yaş sınırı var mı?" >}}
-Genellikle 70 yaş üstü göreceli kontrendikasyondur.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

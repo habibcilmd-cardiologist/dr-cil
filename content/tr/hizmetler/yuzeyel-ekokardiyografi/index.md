@@ -12,6 +12,17 @@ translationKey: "surface-echocardiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Ekokardiyografi ağrılı mı?"
+      answer: "Hayır, tamamen ağrısız bir tetkiktir."
+    - question: "Ekokardiyografi için aç kalmam gerekir mi?"
+      answer: "Hayır, standart ekokardiyografi için açlık gerekmez."
+    - question: "Ekokardiyografi ne kadar sürer?"
+      answer: "Genellikle 20-45 dakika sürer."
+    - question: "Ekokardiyografi sonuçları ne zaman çıkar?"
+      answer: "Genellikle aynı gün sonuç alınabilir."
+    - question: "Ekokardiyografi zararlı mı?"
+      answer: "Hayır, ultrason kullanır ve radyasyon içermez."
 ---
 
 Yüzeyel ekokardiyografi (transtorasik ekokardiyografi - TTE), göğüs duvarı üzerinden yapılan kalp ultrasonu tetkikidir. Doç. Dr. Habib Çil, ekokardiyografi değerlendirmesinde geniş deneyime sahiptir.
@@ -125,25 +136,7 @@ Toplam süre: 20-45 dakika
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Ekokardiyografi ağrılı mı?" >}}
-Hayır, tamamen ağrısız bir tetkiktir.
-{{< /faq >}}
-
-{{< faq question="Ekokardiyografi için aç kalmam gerekir mi?" >}}
-Hayır, standart ekokardiyografi için açlık gerekmez.
-{{< /faq >}}
-
-{{< faq question="Ekokardiyografi ne kadar sürer?" >}}
-Genellikle 20-45 dakika sürer.
-{{< /faq >}}
-
-{{< faq question="Ekokardiyografi sonuçları ne zaman çıkar?" >}}
-Genellikle aynı gün sonuç alınabilir.
-{{< /faq >}}
-
-{{< faq question="Ekokardiyografi zararlı mı?" >}}
-Hayır, ultrason kullanır ve radyasyon içermez.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

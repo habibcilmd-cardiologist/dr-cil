@@ -12,6 +12,17 @@ translationKey: "permanent-pacemaker"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is pacemaker implantation painful?"
+      answer: "The procedure is performed under local anesthesia, so no pain is felt. There may be mild pain and discomfort after the procedure, but it is controlled with pain relievers."
+    - question: "How long does a pacemaker last?"
+      answer: "Modern pacemakers typically work for 8-15 years. When the battery runs out, only the generator is replaced; the electrodes usually remain in place."
+    - question: "Can I have an MRI with a pacemaker?"
+      answer: "MRI can be performed with new generation MRI-compatible pacemakers. However, you should consult your doctor beforehand and special precautions must be taken."
+    - question: "Can I exercise with a pacemaker?"
+      answer: "Yes, most sports activities can be done. However, contact sports and activities with risk of impact to the pacemaker area should be avoided."
+    - question: "How often are pacemaker check-ups done?"
+      answer: "Check-ups are generally recommended every 6-12 months. More frequent monitoring is possible with remote monitoring systems."
 ---
 
 A permanent pacemaker is a small electronic device used to treat slow heartbeat (bradycardia) or conduction disorders. This device, placed under the chest skin, ensures the heart beats regularly. Assoc. Prof. Dr. Habib Çil has extensive experience in pacemaker implantation and uses the most current technologies.
@@ -174,25 +185,7 @@ You can lead a normal life with a pacemaker:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is pacemaker implantation painful?" >}}
-The procedure is performed under local anesthesia, so no pain is felt. There may be mild pain and discomfort after the procedure, but it is controlled with pain relievers.
-{{< /faq >}}
-
-{{< faq question="How long does a pacemaker last?" >}}
-Modern pacemakers typically work for 8-15 years. When the battery runs out, only the generator is replaced; the electrodes usually remain in place.
-{{< /faq >}}
-
-{{< faq question="Can I have an MRI with a pacemaker?" >}}
-MRI can be performed with new generation MRI-compatible pacemakers. However, you should consult your doctor beforehand and special precautions must be taken.
-{{< /faq >}}
-
-{{< faq question="Can I exercise with a pacemaker?" >}}
-Yes, most sports activities can be done. However, contact sports and activities with risk of impact to the pacemaker area should be avoided.
-{{< /faq >}}
-
-{{< faq question="How often are pacemaker check-ups done?" >}}
-Check-ups are generally recommended every 6-12 months. More frequent monitoring is possible with remote monitoring systems.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

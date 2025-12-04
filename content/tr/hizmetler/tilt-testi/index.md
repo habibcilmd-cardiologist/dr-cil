@@ -12,6 +12,17 @@ translationKey: "tilt-table-test"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Tilt testi ağrılı mı?"
+      answer: "Hayır, ağrısız bir testtir. Sadece pozisyon değişikliği yapılır."
+    - question: "Tilt testi ne kadar sürer?"
+      answer: "Toplam test süresi 45-90 dakikadır."
+    - question: "Tilt testinde bayılır mıyım?"
+      answer: "Test pozitifse bayılma olabilir. Bu beklenen bir yanıttır ve güvenli ortamda gerçekleşir."
+    - question: "Tilt testi için aç olmak gerekir mi?"
+      answer: "Evet, testten 4-6 saat önce yemek yenmemelidir."
+    - question: "Tilt testi sonrası araba kullanabilir miyim?"
+      answer: "Test sonrası 1-2 saat dinlenmeniz önerilir. Mümkünse refakatçi ile gelin."
 ---
 
 Tilt testi (eğik masa testi), açıklanamayan bayılma (senkop) ataklarının nedenini araştırmak için kullanılan tanısal bir testtir. Vazovagal senkop tanısında altın standart yöntemdir. Doç. Dr. Habib Çil, tilt testi değerlendirmesinde geniş deneyime sahiptir.
@@ -129,25 +140,7 @@ Riskler düşüktür:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Tilt testi ağrılı mı?" >}}
-Hayır, ağrısız bir testtir. Sadece pozisyon değişikliği yapılır.
-{{< /faq >}}
-
-{{< faq question="Tilt testi ne kadar sürer?" >}}
-Toplam test süresi 45-90 dakikadır.
-{{< /faq >}}
-
-{{< faq question="Tilt testinde bayılır mıyım?" >}}
-Test pozitifse bayılma olabilir. Bu beklenen bir yanıttır ve güvenli ortamda gerçekleşir.
-{{< /faq >}}
-
-{{< faq question="Tilt testi için aç olmak gerekir mi?" >}}
-Evet, testten 4-6 saat önce yemek yenmemelidir.
-{{< /faq >}}
-
-{{< faq question="Tilt testi sonrası araba kullanabilir miyim?" >}}
-Test sonrası 1-2 saat dinlenmeniz önerilir. Mümkünse refakatçi ile gelin.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

@@ -12,6 +12,17 @@ translationKey: "hypertension"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Hipertansiyon ilaçlarını ömür boyu kullanmak zorunda mıyım?"
+      answer: "Çoğu hastada evet. Hipertansiyon kronik bir hastalıktır ve ilaçlar hastalığı tedavi etmez, kontrol altında tutar. Ancak yaşam tarzı değişiklikleriyle bazı hastalarda ilaç dozları azaltılabilir veya basit vakalarda kesilme denenebilir."
+    - question: "Tansiyonum normal olduktan sonra ilacı bırakabilir miyim?"
+      answer: "Hayır, bu çok tehlikeli bir yaklaşımdır. İlaç sayesinde tansiyonunuz normaldir. İlacı bıraktığınızda tansiyon tekrar yükselecektir. Herhangi bir değişiklik yapmadan önce mutlaka doktorunuza danışın."
+    - question: "Tansiyon ilaçları yan etki yapar mı?"
+      answer: "Her ilaç gibi antihipertansif ilaçların da yan etkileri olabilir. Ancak modern ilaçlar genellikle iyi tolere edilir. Yaşadığınız herhangi bir sorunu doktorunuzla paylaşın; alternatif ilaç seçenekleri değerlendirilebilir."
+    - question: "Evde tansiyon ölçümü yapmalı mıyım?"
+      answer: "Evet, evde düzenli ölçüm çok değerlidir. Doğru teknikle yapılan ev ölçümleri, tedavinin etkinliğini değerlendirmede yardımcıdır. Kol tipi dijital tansiyon aletleri tercih edilmelidir."
+    - question: "Stres tansiyonu ne kadar etkiler?"
+      answer: "Stres, geçici tansiyon yükselmelerine neden olabilir. Ancak kronik stres, kalıcı hipertansiyon gelişimine katkıda bulunabilir. Stres yönetimi, tedavinin önemli bir parçasıdır."
 ---
 
 Hipertansiyon, tıbbi adıyla arteriyel hipertansiyon, halk arasında "yüksek tansiyon" olarak bilinen ve dünya genelinde milyonlarca insanı etkileyen kronik bir sağlık sorunudur. Türkiye'de yetişkin nüfusun yaklaşık %30'u hipertansiyon hastası olup, bunların önemli bir kısmı tanı almamış veya yetersiz tedavi görmektedir. Sessiz katil olarak da bilinen bu durum, kontrol altına alınmazsa kalp krizi, inme, böbrek yetmezliği ve görme kaybı gibi ciddi komplikasyonlara yol açabilir.
@@ -181,25 +192,7 @@ Kontrol altına alınmayan hipertansiyon, zamanla birçok organda hasar oluştur
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Hipertansiyon ilaçlarını ömür boyu kullanmak zorunda mıyım?" >}}
-Çoğu hastada evet. Hipertansiyon kronik bir hastalıktır ve ilaçlar hastalığı tedavi etmez, kontrol altında tutar. Ancak yaşam tarzı değişiklikleriyle bazı hastalarda ilaç dozları azaltılabilir veya basit vakalarda kesilme denenebilir.
-{{< /faq >}}
-
-{{< faq question="Tansiyonum normal olduktan sonra ilacı bırakabilir miyim?" >}}
-Hayır, bu çok tehlikeli bir yaklaşımdır. İlaç sayesinde tansiyonunuz normaldir. İlacı bıraktığınızda tansiyon tekrar yükselecektir. Herhangi bir değişiklik yapmadan önce mutlaka doktorunuza danışın.
-{{< /faq >}}
-
-{{< faq question="Tansiyon ilaçları yan etki yapar mı?" >}}
-Her ilaç gibi antihipertansif ilaçların da yan etkileri olabilir. Ancak modern ilaçlar genellikle iyi tolere edilir. Yaşadığınız herhangi bir sorunu doktorunuzla paylaşın; alternatif ilaç seçenekleri değerlendirilebilir.
-{{< /faq >}}
-
-{{< faq question="Evde tansiyon ölçümü yapmalı mıyım?" >}}
-Evet, evde düzenli ölçüm çok değerlidir. Doğru teknikle yapılan ev ölçümleri, tedavinin etkinliğini değerlendirmede yardımcıdır. Kol tipi dijital tansiyon aletleri tercih edilmelidir.
-{{< /faq >}}
-
-{{< faq question="Stres tansiyonu ne kadar etkiler?" >}}
-Stres, geçici tansiyon yükselmelerine neden olabilir. Ancak kronik stres, kalıcı hipertansiyon gelişimine katkıda bulunabilir. Stres yönetimi, tedavinin önemli bir parçasıdır.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

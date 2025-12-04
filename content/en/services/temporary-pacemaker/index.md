@@ -12,6 +12,17 @@ translationKey: "temporary-pacemaker"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "How long does a temporary pacemaker stay in?"
+      answer: "Usually stays for a few days to 2 weeks. If a permanent pacemaker is needed, it is implanted as soon as possible."
+    - question: "Can I move with a temporary pacemaker?"
+      answer: "Movement restriction is required to prevent electrode displacement. Bed rest is recommended with femoral access."
+    - question: "Is temporary pacing painful?"
+      answer: "Transvenous pacing is done with local anesthesia and is usually painless. Transcutaneous pacing can be uncomfortable."
+    - question: "How is the temporary pacemaker removed?"
+      answer: "The electrode is gently pulled out and pressure is applied to the access site. It is usually a simple procedure."
+    - question: "Is a permanent pacemaker needed after temporary pacing?"
+      answer: "It depends on the underlying cause. If reversible causes are corrected, a permanent pacemaker may not be needed."
 ---
 
 A temporary pacemaker is a device used to support heart rhythm in emergencies or until a permanent pacemaker is implanted. Assoc. Prof. Dr. Habib Çil has extensive experience in temporary pacing procedures.
@@ -134,25 +145,7 @@ Temporary pacing is usually replaced with a permanent pacemaker in these situati
 
 ## Frequently Asked Questions
 
-{{< faq question="How long does a temporary pacemaker stay in?" >}}
-Usually stays for a few days to 2 weeks. If a permanent pacemaker is needed, it is implanted as soon as possible.
-{{< /faq >}}
-
-{{< faq question="Can I move with a temporary pacemaker?" >}}
-Movement restriction is required to prevent electrode displacement. Bed rest is recommended with femoral access.
-{{< /faq >}}
-
-{{< faq question="Is temporary pacing painful?" >}}
-Transvenous pacing is done with local anesthesia and is usually painless. Transcutaneous pacing can be uncomfortable.
-{{< /faq >}}
-
-{{< faq question="How is the temporary pacemaker removed?" >}}
-The electrode is gently pulled out and pressure is applied to the access site. It is usually a simple procedure.
-{{< /faq >}}
-
-{{< faq question="Is a permanent pacemaker needed after temporary pacing?" >}}
-It depends on the underlying cause. If reversible causes are corrected, a permanent pacemaker may not be needed.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

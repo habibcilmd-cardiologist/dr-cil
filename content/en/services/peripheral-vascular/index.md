@@ -12,6 +12,17 @@ translationKey: "peripheral-vascular"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is blockage in leg arteries dangerous?"
+      answer: "Yes, if untreated, it can progress to critical limb ischemia and gangrene. These complications can be prevented with early diagnosis and treatment."
+    - question: "Can I walk after peripheral angioplasty?"
+      answer: "Yes, most patients can walk the same day or the next day after the procedure. Walking distance usually increases significantly."
+    - question: "Can stents be placed in leg arteries?"
+      answer: "Yes, stents are frequently used especially in iliac and femoral arteries. Balloon angioplasty is generally preferred for below-knee vessels."
+    - question: "Is peripheral vascular disease related to heart disease?"
+      answer: "Yes, most patients with PAD also have coronary artery disease. Therefore, comprehensive cardiovascular evaluation is important."
+    - question: "Does quitting smoking help treatment?"
+      answer: "Absolutely. Smoking cessation is the most important component of PAD treatment. It slows disease progression and increases treatment success."
 ---
 
 Peripheral artery disease (PAD) is the narrowing or blockage of arteries outside the heart and brain due to atherosclerosis. This disease, which most commonly affects leg arteries, can lead to serious consequences from walking difficulty to gangrene. Assoc. Prof. Dr. Habib Çil has extensive experience in peripheral vascular interventions and improves patients' quality of life with modern techniques.
@@ -181,25 +192,7 @@ After peripheral intervention:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is blockage in leg arteries dangerous?" >}}
-Yes, if untreated, it can progress to critical limb ischemia and gangrene. These complications can be prevented with early diagnosis and treatment.
-{{< /faq >}}
-
-{{< faq question="Can I walk after peripheral angioplasty?" >}}
-Yes, most patients can walk the same day or the next day after the procedure. Walking distance usually increases significantly.
-{{< /faq >}}
-
-{{< faq question="Can stents be placed in leg arteries?" >}}
-Yes, stents are frequently used especially in iliac and femoral arteries. Balloon angioplasty is generally preferred for below-knee vessels.
-{{< /faq >}}
-
-{{< faq question="Is peripheral vascular disease related to heart disease?" >}}
-Yes, most patients with PAD also have coronary artery disease. Therefore, comprehensive cardiovascular evaluation is important.
-{{< /faq >}}
-
-{{< faq question="Does quitting smoking help treatment?" >}}
-Absolutely. Smoking cessation is the most important component of PAD treatment. It slows disease progression and increases treatment success.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

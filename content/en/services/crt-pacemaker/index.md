@@ -12,6 +12,17 @@ translationKey: "crt-pacemaker"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Does CRT cure heart failure?"
+      answer: "CRT significantly reduces heart failure symptoms and improves quality of life. In some patients, heart function may return to near-normal levels."
+    - question: "Is CRT implantation painful?"
+      answer: "The procedure is performed under local anesthesia. No pain is felt during the procedure. There may be mild discomfort after the procedure."
+    - question: "How long does a CRT battery last?"
+      answer: "CRT batteries typically work for 5-8 years. When the battery runs out, only the generator is replaced."
+    - question: "What if I don't respond to CRT?"
+      answer: "Approximately 30% of patients may not respond adequately to CRT. In this case, optimization, electrode revision, or alternative treatments may be considered."
+    - question: "Can I lead a normal life with CRT?"
+      answer: "Yes, you can continue your normal daily activities with CRT. In fact, your exercise capacity may increase."
 ---
 
 Cardiac resynchronization therapy (CRT) is an advanced treatment method that ensures synchronized heart function in heart failure patients. Also known as a three-chamber pacemaker, CRT improves pumping function by stimulating both ventricles of the heart simultaneously. Assoc. Prof. Dr. Habib Çil has extensive experience in CRT implantation.
@@ -136,25 +147,7 @@ Optimization may be needed for CRT to provide maximum benefit:
 
 ## Frequently Asked Questions
 
-{{< faq question="Does CRT cure heart failure?" >}}
-CRT significantly reduces heart failure symptoms and improves quality of life. In some patients, heart function may return to near-normal levels.
-{{< /faq >}}
-
-{{< faq question="Is CRT implantation painful?" >}}
-The procedure is performed under local anesthesia. No pain is felt during the procedure. There may be mild discomfort after the procedure.
-{{< /faq >}}
-
-{{< faq question="How long does a CRT battery last?" >}}
-CRT batteries typically work for 5-8 years. When the battery runs out, only the generator is replaced.
-{{< /faq >}}
-
-{{< faq question="What if I don't respond to CRT?" >}}
-Approximately 30% of patients may not respond adequately to CRT. In this case, optimization, electrode revision, or alternative treatments may be considered.
-{{< /faq >}}
-
-{{< faq question="Can I lead a normal life with CRT?" >}}
-Yes, you can continue your normal daily activities with CRT. In fact, your exercise capacity may increase.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

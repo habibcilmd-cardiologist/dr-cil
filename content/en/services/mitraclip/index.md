@@ -12,6 +12,17 @@ translationKey: "mitraclip"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is MitraClip surgery?"
+      answer: "No, it is not open heart surgery. It is a minimally invasive procedure performed via catheter."
+    - question: "How long is recovery after MitraClip?"
+      answer: "Usually 1-3 days hospital stay is sufficient. Normal activities can be resumed within 1-2 weeks."
+    - question: "Is MitraClip permanent?"
+      answer: "Yes, the clip is permanent. Long-term results are favorable."
+    - question: "Am I suitable for MitraClip?"
+      answer: "Decision is made by evaluating valve anatomy and general condition."
+    - question: "Do I need blood thinners after MitraClip?"
+      answer: "It varies by situation. Your doctor will determine the appropriate treatment for you."
 ---
 
 MitraClip is catheter-based treatment of severe mitral regurgitation. It is a minimally invasive alternative to open heart surgery. Assoc. Prof. Dr. Habib Çil has extensive experience in MitraClip procedures.
@@ -131,25 +142,7 @@ Complications are rare:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is MitraClip surgery?" >}}
-No, it is not open heart surgery. It is a minimally invasive procedure performed via catheter.
-{{< /faq >}}
-
-{{< faq question="How long is recovery after MitraClip?" >}}
-Usually 1-3 days hospital stay is sufficient. Normal activities can be resumed within 1-2 weeks.
-{{< /faq >}}
-
-{{< faq question="Is MitraClip permanent?" >}}
-Yes, the clip is permanent. Long-term results are favorable.
-{{< /faq >}}
-
-{{< faq question="Am I suitable for MitraClip?" >}}
-Decision is made by evaluating valve anatomy and general condition.
-{{< /faq >}}
-
-{{< faq question="Do I need blood thinners after MitraClip?" >}}
-It varies by situation. Your doctor will determine the appropriate treatment for you.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

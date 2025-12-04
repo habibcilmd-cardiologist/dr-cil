@@ -12,6 +12,17 @@ translationKey: "coronary-angioplasty"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is angioplasty a painful procedure?"
+      answer: "The procedure is performed under local anesthesia and sedation, so no pain is felt. There may be a brief pressure sensation in the chest when the balloon is inflated, but this lasts only a few seconds."
+    - question: "How long should I take medication after stent?"
+      answer: "Aspirin is taken for life, the second antiplatelet medication (clopidogrel, ticagrelor, or prasugrel) is usually taken for 6-12 months. Duration is adjusted according to individual risk assessment."
+    - question: "Can I have an MRI after stent placement?"
+      answer: "Yes, modern stents are MRI compatible. MRI can be safely performed 6 weeks after the procedure."
+    - question: "Can I exercise after stent?"
+      answer: "Yes, exercise is possible after the recovery period. Safe exercise level is determined through cardiac rehabilitation program."
+    - question: "Does the stent stay for life?"
+      answer: "Yes, the stent is permanent and integrates into the vessel wall over time. It is accepted by the body and does not affect normal life."
 ---
 
 Coronary angioplasty is a procedure to open blocked or narrowed coronary arteries using balloons and stents. Also known as percutaneous coronary intervention (PCI), this treatment plays a life-saving role in treating heart attacks and angina. Assoc. Prof. Dr. Habib Çil has performed thousands of successful angioplasty procedures with over 20 years of experience.
@@ -194,25 +205,7 @@ With modern drug-eluting stents:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is angioplasty a painful procedure?" >}}
-The procedure is performed under local anesthesia and sedation, so no pain is felt. There may be a brief pressure sensation in the chest when the balloon is inflated, but this lasts only a few seconds.
-{{< /faq >}}
-
-{{< faq question="How long should I take medication after stent?" >}}
-Aspirin is taken for life, the second antiplatelet medication (clopidogrel, ticagrelor, or prasugrel) is usually taken for 6-12 months. Duration is adjusted according to individual risk assessment.
-{{< /faq >}}
-
-{{< faq question="Can I have an MRI after stent placement?" >}}
-Yes, modern stents are MRI compatible. MRI can be safely performed 6 weeks after the procedure.
-{{< /faq >}}
-
-{{< faq question="Can I exercise after stent?" >}}
-Yes, exercise is possible after the recovery period. Safe exercise level is determined through cardiac rehabilitation program.
-{{< /faq >}}
-
-{{< faq question="Does the stent stay for life?" >}}
-Yes, the stent is permanent and integrates into the vessel wall over time. It is accepted by the body and does not affect normal life.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

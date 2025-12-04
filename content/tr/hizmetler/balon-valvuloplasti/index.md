@@ -12,6 +12,17 @@ translationKey: "balloon-valvuloplasty"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Balon valvüloplasti ağrılı mı?"
+      answer: "Lokal veya genel anestezi altında yapıldığı için ağrı hissedilmez."
+    - question: "Balon valvüloplasti sonrası iyileşme süresi ne kadar?"
+      answer: "Genellikle 1-2 gün hastanede kalış yeterlidir. 1 hafta içinde normal aktivitelere dönülebilir."
+    - question: "Balon valvüloplasti kalıcı mı?"
+      answer: "Mitral darlıkta uzun süreli etki sağlar. Aort darlığında geçici etkilidir."
+    - question: "Balon valvüloplasti riskleri nelerdir?"
+      answer: "Ciddi mitral yetersizliği, tamponad ve embolizm nadir görülen komplikasyonlardır."
+    - question: "Balon valvüloplasti için uygun muyum?"
+      answer: "Kapak anatomisi ve eşlik eden durumlar değerlendirilerek karar verilir."
 ---
 
 Balon valvüloplasti, daralmış kalp kapağının balon kateter kullanılarak genişletilmesi işlemidir. Özellikle mitral ve pulmoner kapak darlıklarında etkili bir tedavi yöntemidir. Doç. Dr. Habib Çil, balon valvüloplasti işleminde geniş deneyime sahiptir.
@@ -136,25 +147,7 @@ Toplam süre: 1-2 saat
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Balon valvüloplasti ağrılı mı?" >}}
-Lokal veya genel anestezi altında yapıldığı için ağrı hissedilmez.
-{{< /faq >}}
-
-{{< faq question="Balon valvüloplasti sonrası iyileşme süresi ne kadar?" >}}
-Genellikle 1-2 gün hastanede kalış yeterlidir. 1 hafta içinde normal aktivitelere dönülebilir.
-{{< /faq >}}
-
-{{< faq question="Balon valvüloplasti kalıcı mı?" >}}
-Mitral darlıkta uzun süreli etki sağlar. Aort darlığında geçici etkilidir.
-{{< /faq >}}
-
-{{< faq question="Balon valvüloplasti riskleri nelerdir?" >}}
-Ciddi mitral yetersizliği, tamponad ve embolizm nadir görülen komplikasyonlardır.
-{{< /faq >}}
-
-{{< faq question="Balon valvüloplasti için uygun muyum?" >}}
-Kapak anatomisi ve eşlik eden durumlar değerlendirilerek karar verilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

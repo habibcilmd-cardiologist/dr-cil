@@ -12,6 +12,17 @@ translationKey: "carotid-stenosis"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Does carotid stenosis always require treatment?"
+      answer: "No, mild narrowings can be followed with medical treatment. Treatment decision is based on stenosis degree, presence of symptoms, and plaque characteristics."
+    - question: "Does carotid stenting prevent stroke?"
+      answer: "Yes, carotid stenting significantly reduces stroke risk in appropriate patients. However, medical treatment and risk factor control must continue."
+    - question: "Can I return to normal life after stenting?"
+      answer: "Yes, most patients are discharged within 1-2 days and can return to normal activities within 1 week."
+    - question: "Does the carotid stent last a lifetime?"
+      answer: "Yes, the stent is permanent. With regular follow-up and medication use, it remains trouble-free for many years."
+    - question: "What is done if both carotids are narrowed?"
+      answer: "In bilateral stenosis, the more severe side is usually treated first. The second side is evaluated a few weeks later."
 ---
 
 Carotid artery stenosis is the narrowing of the main vessels that supply the brain and is one of the most important causes of stroke. Approximately 200,000 stroke cases occur in Turkey each year, a significant portion of which are related to carotid disease. Assoc. Prof. Dr. Habib Çil has extensive experience in carotid stenting and offers modern treatment methods to reduce stroke risk.
@@ -175,25 +186,7 @@ After carotid stenting:
 
 ## Frequently Asked Questions
 
-{{< faq question="Does carotid stenosis always require treatment?" >}}
-No, mild narrowings can be followed with medical treatment. Treatment decision is based on stenosis degree, presence of symptoms, and plaque characteristics.
-{{< /faq >}}
-
-{{< faq question="Does carotid stenting prevent stroke?" >}}
-Yes, carotid stenting significantly reduces stroke risk in appropriate patients. However, medical treatment and risk factor control must continue.
-{{< /faq >}}
-
-{{< faq question="Can I return to normal life after stenting?" >}}
-Yes, most patients are discharged within 1-2 days and can return to normal activities within 1 week.
-{{< /faq >}}
-
-{{< faq question="Does the carotid stent last a lifetime?" >}}
-Yes, the stent is permanent. With regular follow-up and medication use, it remains trouble-free for many years.
-{{< /faq >}}
-
-{{< faq question="What is done if both carotids are narrowed?" >}}
-In bilateral stenosis, the more severe side is usually treated first. The second side is evaluated a few weeks later.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

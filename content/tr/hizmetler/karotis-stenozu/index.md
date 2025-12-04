@@ -12,6 +12,17 @@ translationKey: "carotid-stenosis"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Karotis stenozu her zaman tedavi gerektirir mi?"
+      answer: "Hayır, hafif darlıklar medikal tedavi ile takip edilebilir. Tedavi kararı darlık derecesi, semptom varlığı ve plak özelliklerine göre verilir."
+    - question: "Karotis stentleme inmeyi önler mi?"
+      answer: "Evet, uygun hastalarda karotis stentleme inme riskini önemli ölçüde azaltır. Ancak medikal tedavi ve risk faktörü kontrolü de devam etmelidir."
+    - question: "Stentleme sonrası normal yaşama dönebilir miyim?"
+      answer: "Evet, çoğu hasta 1-2 gün içinde taburcu olur ve 1 hafta içinde normal aktivitelerine dönebilir."
+    - question: "Karotis stenti ömür boyu kalır mı?"
+      answer: "Evet, stent kalıcıdır. Düzenli takip ve ilaç kullanımı ile uzun yıllar sorunsuz kalır."
+    - question: "Her iki karotis de daralmışsa ne yapılır?"
+      answer: "Bilateral stenozda genellikle önce daha ciddi olan taraf tedavi edilir. İkinci taraf birkaç hafta sonra değerlendirilir."
 ---
 
 Karotis arter stenozu, beyni besleyen ana damarların daralmasıdır ve inmenin en önemli nedenlerinden biridir. Türkiye'de her yıl yaklaşık 200.000 inme vakası görülmekte olup, bunların önemli bir kısmı karotis hastalığına bağlıdır. Doç. Dr. Habib Çil, karotis stentleme konusunda geniş deneyime sahip olup, inme riskini azaltmak için modern tedavi yöntemleri sunmaktadır.
@@ -175,25 +186,7 @@ Karotis stentleme sonrası:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Karotis stenozu her zaman tedavi gerektirir mi?" >}}
-Hayır, hafif darlıklar medikal tedavi ile takip edilebilir. Tedavi kararı darlık derecesi, semptom varlığı ve plak özelliklerine göre verilir.
-{{< /faq >}}
-
-{{< faq question="Karotis stentleme inmeyi önler mi?" >}}
-Evet, uygun hastalarda karotis stentleme inme riskini önemli ölçüde azaltır. Ancak medikal tedavi ve risk faktörü kontrolü de devam etmelidir.
-{{< /faq >}}
-
-{{< faq question="Stentleme sonrası normal yaşama dönebilir miyim?" >}}
-Evet, çoğu hasta 1-2 gün içinde taburcu olur ve 1 hafta içinde normal aktivitelerine dönebilir.
-{{< /faq >}}
-
-{{< faq question="Karotis stenti ömür boyu kalır mı?" >}}
-Evet, stent kalıcıdır. Düzenli takip ve ilaç kullanımı ile uzun yıllar sorunsuz kalır.
-{{< /faq >}}
-
-{{< faq question="Her iki karotis de daralmışsa ne yapılır?" >}}
-Bilateral stenozda genellikle önce daha ciddi olan taraf tedavi edilir. İkinci taraf birkaç hafta sonra değerlendirilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

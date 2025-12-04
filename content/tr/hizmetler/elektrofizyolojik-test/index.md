@@ -12,6 +12,17 @@ translationKey: "electrophysiology-study"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "EPS ağrılı mı?"
+      answer: "İşlem lokal anestezi ve sedasyon altında yapılır. Kateter yerleştirme sırasında hafif rahatsızlık hissedilebilir."
+    - question: "EPS ne kadar sürer?"
+      answer: "Tanısal EPS genellikle 1-2 saat sürer. Ablasyon eklenirse 2-4 saat sürebilir."
+    - question: "EPS sonrası ne zaman eve gidebilirim?"
+      answer: "Çoğu hasta aynı gün veya ertesi gün taburcu edilir."
+    - question: "EPS sırasında aritmi tetiklenirse tehlikeli mi?"
+      answer: "Aritmiler kontrollü ortamda tetiklenir ve gerekirse hemen tedavi edilir. Ekip her türlü duruma hazırdır."
+    - question: "EPS sonuçları ne anlama gelir?"
+      answer: "Sonuçlar aritmi tipini, kaynağını ve en uygun tedavi yöntemini belirlemeye yardımcı olur."
 ---
 
 Elektrofizyolojik çalışma (EPS), kalbin elektriksel sistemini değerlendirmek için yapılan invaziv bir tanı işlemidir. Bu işlem, aritmilerin kaynağını belirlemek, risk değerlendirmesi yapmak ve tedavi planlamak için kullanılır. Doç. Dr. Habib Çil, elektrofizyolojik çalışmalarda geniş deneyime sahiptir.
@@ -143,25 +154,7 @@ EPS, kalbe yerleştirilen özel kateterler aracılığıyla kalbin elektriksel a
 
 ## Sık Sorulan Sorular
 
-{{< faq question="EPS ağrılı mı?" >}}
-İşlem lokal anestezi ve sedasyon altında yapılır. Kateter yerleştirme sırasında hafif rahatsızlık hissedilebilir.
-{{< /faq >}}
-
-{{< faq question="EPS ne kadar sürer?" >}}
-Tanısal EPS genellikle 1-2 saat sürer. Ablasyon eklenirse 2-4 saat sürebilir.
-{{< /faq >}}
-
-{{< faq question="EPS sonrası ne zaman eve gidebilirim?" >}}
-Çoğu hasta aynı gün veya ertesi gün taburcu edilir.
-{{< /faq >}}
-
-{{< faq question="EPS sırasında aritmi tetiklenirse tehlikeli mi?" >}}
-Aritmiler kontrollü ortamda tetiklenir ve gerekirse hemen tedavi edilir. Ekip her türlü duruma hazırdır.
-{{< /faq >}}
-
-{{< faq question="EPS sonuçları ne anlama gelir?" >}}
-Sonuçlar aritmi tipini, kaynağını ve en uygun tedavi yöntemini belirlemeye yardımcı olur.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

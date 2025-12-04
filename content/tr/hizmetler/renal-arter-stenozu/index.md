@@ -12,6 +12,17 @@ translationKey: "renal-artery-stenosis"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Renal arter stenozu tehlikeli mi?"
+      answer: "Evet, tedavi edilmezse böbrek yetmezliği ve kontrolsüz hipertansiyona yol açabilir."
+    - question: "Renal arter stentleme nasıl yapılır?"
+      answer: "Kasıktan girilerek böbrek arterine stent yerleştirilir. Lokal anestezi ile yapılır."
+    - question: "Stent sonrası tansiyon düşer mi?"
+      answer: "Uygun hastalarda tansiyon kontrolü iyileşir veya ilaç ihtiyacı azalır."
+    - question: "Renal arter stenti kalıcı mı?"
+      answer: "Evet, stent kalıcıdır. Düzenli takip gerekir."
+    - question: "Fibromusküler displazide tedavi farklı mı?"
+      answer: "Evet, genellikle sadece balon anjiyoplasti yeterlidir, stent gerekmez."
 ---
 
 Renal arter stenozu, böbreği besleyen arterin daralmasıdır. Hipertansiyon ve böbrek yetmezliğine yol açabilir. Doç. Dr. Habib Çil, renal arter stenozu tanı ve tedavisinde geniş deneyime sahiptir.
@@ -124,25 +135,7 @@ Renal arter stenozu, böbrek arterinin %50'den fazla daralmasıdır. Bu durum b�
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Renal arter stenozu tehlikeli mi?" >}}
-Evet, tedavi edilmezse böbrek yetmezliği ve kontrolsüz hipertansiyona yol açabilir.
-{{< /faq >}}
-
-{{< faq question="Renal arter stentleme nasıl yapılır?" >}}
-Kasıktan girilerek böbrek arterine stent yerleştirilir. Lokal anestezi ile yapılır.
-{{< /faq >}}
-
-{{< faq question="Stent sonrası tansiyon düşer mi?" >}}
-Uygun hastalarda tansiyon kontrolü iyileşir veya ilaç ihtiyacı azalır.
-{{< /faq >}}
-
-{{< faq question="Renal arter stenti kalıcı mı?" >}}
-Evet, stent kalıcıdır. Düzenli takip gerekir.
-{{< /faq >}}
-
-{{< faq question="Fibromusküler displazide tedavi farklı mı?" >}}
-Evet, genellikle sadece balon anjiyoplasti yeterlidir, stent gerekmez.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

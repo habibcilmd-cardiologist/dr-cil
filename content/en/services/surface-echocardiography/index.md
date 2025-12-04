@@ -12,6 +12,17 @@ translationKey: "surface-echocardiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is echocardiography painful?"
+      answer: "No, it is a completely painless examination."
+    - question: "Do I need to fast for echocardiography?"
+      answer: "No, fasting is not required for standard echocardiography."
+    - question: "How long does echocardiography take?"
+      answer: "It usually takes 20-45 minutes."
+    - question: "When do echocardiography results come out?"
+      answer: "Usually results can be obtained the same day."
+    - question: "Is echocardiography harmful?"
+      answer: "No, it uses ultrasound and contains no radiation."
 ---
 
 Surface echocardiography (transthoracic echocardiography - TTE) is a heart ultrasound examination performed through the chest wall. Assoc. Prof. Dr. Habib Çil has extensive experience in echocardiography evaluation.
@@ -125,25 +136,7 @@ Total duration: 20-45 minutes
 
 ## Frequently Asked Questions
 
-{{< faq question="Is echocardiography painful?" >}}
-No, it is a completely painless examination.
-{{< /faq >}}
-
-{{< faq question="Do I need to fast for echocardiography?" >}}
-No, fasting is not required for standard echocardiography.
-{{< /faq >}}
-
-{{< faq question="How long does echocardiography take?" >}}
-It usually takes 20-45 minutes.
-{{< /faq >}}
-
-{{< faq question="When do echocardiography results come out?" >}}
-Usually results can be obtained the same day.
-{{< /faq >}}
-
-{{< faq question="Is echocardiography harmful?" >}}
-No, it uses ultrasound and contains no radiation.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

@@ -12,6 +12,17 @@ translationKey: "angiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Anjiyografi ağrılı mı?"
+      answer: "Lokal anestezi uygulandığı için işlem sırasında ağrı hissedilmez. Kontrast madde verildiğinde geçici sıcaklık hissi olabilir."
+    - question: "Anjiyografi ne kadar sürer?"
+      answer: "Tanısal anjiyografi 15-30 dakika sürer. Stent takılırsa süre uzayabilir."
+    - question: "Anjiyografi sonrası ne zaman eve gidebilirim?"
+      answer: "Radyal erişimde aynı gün, femoral erişimde genellikle ertesi gün taburculuk mümkündür."
+    - question: "Anjiyografi için hastaneye yatış gerekir mi?"
+      answer: "Genellikle günübirlik işlem olarak yapılır. Komplikasyon riski yüksek hastalarda yatış gerekebilir."
+    - question: "Anjiyografi sonrası ne zaman işe dönebilirim?"
+      answer: "Çoğu hasta 1-2 gün içinde normal aktivitelerine dönebilir."
 ---
 
 Koroner anjiyografi, kalp damarlarının (koroner arterler) röntgen ışınları ve kontrast madde kullanılarak görüntülenmesidir. Bu işlem, koroner arter hastalığının tanısında altın standart olarak kabul edilir. Doç. Dr. Habib Çil, koroner anjiyografi işleminde geniş deneyime sahiptir.
@@ -150,25 +161,7 @@ Anjiyografi sonuçlarına göre:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Anjiyografi ağrılı mı?" >}}
-Lokal anestezi uygulandığı için işlem sırasında ağrı hissedilmez. Kontrast madde verildiğinde geçici sıcaklık hissi olabilir.
-{{< /faq >}}
-
-{{< faq question="Anjiyografi ne kadar sürer?" >}}
-Tanısal anjiyografi 15-30 dakika sürer. Stent takılırsa süre uzayabilir.
-{{< /faq >}}
-
-{{< faq question="Anjiyografi sonrası ne zaman eve gidebilirim?" >}}
-Radyal erişimde aynı gün, femoral erişimde genellikle ertesi gün taburculuk mümkündür.
-{{< /faq >}}
-
-{{< faq question="Anjiyografi için hastaneye yatış gerekir mi?" >}}
-Genellikle günübirlik işlem olarak yapılır. Komplikasyon riski yüksek hastalarda yatış gerekebilir.
-{{< /faq >}}
-
-{{< faq question="Anjiyografi sonrası ne zaman işe dönebilirim?" >}}
-Çoğu hasta 1-2 gün içinde normal aktivitelerine dönebilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

@@ -12,6 +12,17 @@ translationKey: "alcohol-septal-ablation"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Alkol septal ablasyon ağrılı mı?"
+      answer: "İşlem lokal anestezi ve sedasyon altında yapılır. Alkol enjeksiyonu sırasında geçici göğüs ağrısı hissedilebilir, ancak bu kontrol altındadır."
+    - question: "ASA sonrası kalıcı pacemaker gerekir mi?"
+      answer: "Hastaların yaklaşık %10-15'inde kalıcı pacemaker gerekebilir. Bu risk işlem öncesi hastaya anlatılır."
+    - question: "ASA sonrası ne zaman iyileşme görülür?"
+      answer: "Gradient azalması hemen başlar, ancak septum incelmesi ve tam iyileşme 3-6 ay sürer."
+    - question: "ASA başarısız olursa ne yapılır?"
+      answer: "Yetersiz yanıt durumunda ikinci ASA veya cerrahi miyektomi değerlendirilebilir."
+    - question: "ASA sonrası spor yapabilir miyim?"
+      answer: "HOKM hastalarında yarışmalı sporlar genellikle önerilmez. Hafif-orta düzeyde egzersiz doktor kontrolünde yapılabilir."
 ---
 
 Alkol septal ablasyon (ASA), hipertrofik obstrüktif kardiyomiyopati (HOKM) tedavisinde kullanılan minimal invaziv bir girişimsel işlemdir. Bu işlemde, kalın septum kasına alkol enjekte edilerek kontrollü bir hasar oluşturulur ve sol ventrikül çıkış yolu obstrüksiyonu azaltılır. Doç. Dr. Habib Çil, bu özel işlemde geniş deneyime sahiptir.
@@ -158,25 +169,7 @@ Karar, hastanın anatomisi, yaşı ve tercihine göre bireysel olarak verilir.
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Alkol septal ablasyon ağrılı mı?" >}}
-İşlem lokal anestezi ve sedasyon altında yapılır. Alkol enjeksiyonu sırasında geçici göğüs ağrısı hissedilebilir, ancak bu kontrol altındadır.
-{{< /faq >}}
-
-{{< faq question="ASA sonrası kalıcı pacemaker gerekir mi?" >}}
-Hastaların yaklaşık %10-15'inde kalıcı pacemaker gerekebilir. Bu risk işlem öncesi hastaya anlatılır.
-{{< /faq >}}
-
-{{< faq question="ASA sonrası ne zaman iyileşme görülür?" >}}
-Gradient azalması hemen başlar, ancak septum incelmesi ve tam iyileşme 3-6 ay sürer.
-{{< /faq >}}
-
-{{< faq question="ASA başarısız olursa ne yapılır?" >}}
-Yetersiz yanıt durumunda ikinci ASA veya cerrahi miyektomi değerlendirilebilir.
-{{< /faq >}}
-
-{{< faq question="ASA sonrası spor yapabilir miyim?" >}}
-HOKM hastalarında yarışmalı sporlar genellikle önerilmez. Hafif-orta düzeyde egzersiz doktor kontrolünde yapılabilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

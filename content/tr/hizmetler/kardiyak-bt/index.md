@@ -12,6 +12,17 @@ translationKey: "cardiac-ct"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Kardiyak BT ağrılı mı?"
+      answer: "Hayır, sadece IV kontrast enjeksiyonu yapılır. Ağrısız bir işlemdir."
+    - question: "Kardiyak BT ne kadar sürer?"
+      answer: "Toplam işlem süresi 15-30 dakikadır."
+    - question: "Kardiyak BT radyasyon içerir mi?"
+      answer: "Evet, düşük dozda radyasyon içerir. Modern cihazlarla doz minimize edilmiştir."
+    - question: "Kardiyak BT anjiyografinin yerini alabilir mi?"
+      answer: "Düşük-orta riskli hastalarda evet. Yüksek riskli hastalarda invaziv anjiyografi gerekebilir."
+    - question: "Kardiyak BT sonucu ne zaman çıkar?"
+      answer: "Sonuçlar genellikle aynı gün veya ertesi gün raporlanır."
 ---
 
 Kardiyak BT (Bilgisayarlı Tomografi), kalp ve koroner arterlerin non-invaziv olarak görüntülenmesidir. Koroner arter hastalığının taranmasında ve değerlendirilmesinde önemli bir yere sahiptir. Doç. Dr. Habib Çil, kardiyak BT sonuçlarının yorumlanmasında geniş deneyime sahiptir.
@@ -116,25 +127,7 @@ Toplam süre: 15-30 dakika
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Kardiyak BT ağrılı mı?" >}}
-Hayır, sadece IV kontrast enjeksiyonu yapılır. Ağrısız bir işlemdir.
-{{< /faq >}}
-
-{{< faq question="Kardiyak BT ne kadar sürer?" >}}
-Toplam işlem süresi 15-30 dakikadır.
-{{< /faq >}}
-
-{{< faq question="Kardiyak BT radyasyon içerir mi?" >}}
-Evet, düşük dozda radyasyon içerir. Modern cihazlarla doz minimize edilmiştir.
-{{< /faq >}}
-
-{{< faq question="Kardiyak BT anjiyografinin yerini alabilir mi?" >}}
-Düşük-orta riskli hastalarda evet. Yüksek riskli hastalarda invaziv anjiyografi gerekebilir.
-{{< /faq >}}
-
-{{< faq question="Kardiyak BT sonucu ne zaman çıkar?" >}}
-Sonuçlar genellikle aynı gün veya ertesi gün raporlanır.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

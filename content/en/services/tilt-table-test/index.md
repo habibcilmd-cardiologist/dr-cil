@@ -12,6 +12,17 @@ translationKey: "tilt-table-test"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is tilt table test painful?"
+      answer: "No, it is a painless test. Only position change is performed."
+    - question: "How long does tilt table test take?"
+      answer: "Total test duration is 45-90 minutes."
+    - question: "Will I faint during tilt test?"
+      answer: "If the test is positive, fainting may occur. This is an expected response and occurs in a safe environment."
+    - question: "Do I need to fast for tilt test?"
+      answer: "Yes, food should not be eaten 4-6 hours before the test."
+    - question: "Can I drive after tilt test?"
+      answer: "It is recommended to rest for 1-2 hours after the test. If possible, come with a companion."
 ---
 
 Tilt table test (head-up tilt test) is a diagnostic test used to investigate the cause of unexplained fainting (syncope) episodes. It is the gold standard method for diagnosing vasovagal syncope. Assoc. Prof. Dr. Habib Çil has extensive experience in tilt test evaluation.
@@ -129,25 +140,7 @@ Risks are low:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is tilt table test painful?" >}}
-No, it is a painless test. Only position change is performed.
-{{< /faq >}}
-
-{{< faq question="How long does tilt table test take?" >}}
-Total test duration is 45-90 minutes.
-{{< /faq >}}
-
-{{< faq question="Will I faint during tilt test?" >}}
-If the test is positive, fainting may occur. This is an expected response and occurs in a safe environment.
-{{< /faq >}}
-
-{{< faq question="Do I need to fast for tilt test?" >}}
-Yes, food should not be eaten 4-6 hours before the test.
-{{< /faq >}}
-
-{{< faq question="Can I drive after tilt test?" >}}
-It is recommended to rest for 1-2 hours after the test. If possible, come with a companion.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

@@ -12,6 +12,17 @@ translationKey: "ptca"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "PTKA ile stent arasındaki fark nedir?"
+      answer: "PTKA sadece balon ile genişletme, stent ise kalıcı metal kafes yerleştirmedir."
+    - question: "PTKA sonrası damar tekrar daralır mı?"
+      answer: "Tek başına PTKA'da restenoz oranı %30-40'tır. Stent ile bu oran %5-10'a düşer."
+    - question: "PTKA ağrılı mı?"
+      answer: "Lokal anestezi ile yapılır. Balon şişirilirken geçici göğüs ağrısı olabilir."
+    - question: "PTKA ne kadar sürer?"
+      answer: "İşlem genellikle 15-60 dakika sürer."
+    - question: "PTKA sonrası ne zaman taburcu olurum?"
+      answer: "Genellikle aynı gün veya ertesi gün taburcu olunabilir."
 ---
 
 PTKA (Perkütan Translüminal Koroner Anjiyoplasti), koroner arterlerdeki darlıkların balon ile genişletilmesidir. Modern koroner girişimlerin temelini oluşturur. Doç. Dr. Habib Çil, PTKA işleminde geniş deneyime sahiptir.
@@ -121,25 +132,7 @@ Modern pratikte PTKA genellikle stent implantasyonu ile birlikte uygulanır. Tek
 
 ## Sık Sorulan Sorular
 
-{{< faq question="PTKA ile stent arasındaki fark nedir?" >}}
-PTKA sadece balon ile genişletme, stent ise kalıcı metal kafes yerleştirmedir.
-{{< /faq >}}
-
-{{< faq question="PTKA sonrası damar tekrar daralır mı?" >}}
-Tek başına PTKA'da restenoz oranı %30-40'tır. Stent ile bu oran %5-10'a düşer.
-{{< /faq >}}
-
-{{< faq question="PTKA ağrılı mı?" >}}
-Lokal anestezi ile yapılır. Balon şişirilirken geçici göğüs ağrısı olabilir.
-{{< /faq >}}
-
-{{< faq question="PTKA ne kadar sürer?" >}}
-İşlem genellikle 15-60 dakika sürer.
-{{< /faq >}}
-
-{{< faq question="PTKA sonrası ne zaman taburcu olurum?" >}}
-Genellikle aynı gün veya ertesi gün taburcu olunabilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

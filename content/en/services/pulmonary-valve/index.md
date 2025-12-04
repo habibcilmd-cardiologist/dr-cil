@@ -12,6 +12,17 @@ translationKey: "pulmonary-valve"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is pulmonary stenosis dangerous?"
+      answer: "Severe pulmonary stenosis can lead to right heart failure. Treatment is important."
+    - question: "How is pulmonary balloon valvuloplasty performed?"
+      answer: "A catheter is inserted through the groin to reach the pulmonary valve and the valve is opened by inflating a balloon."
+    - question: "Is pulmonary balloon valvuloplasty permanent?"
+      answer: "Yes, it provides long-lasting effect in most patients."
+    - question: "Can I exercise with pulmonary valve disease?"
+      answer: "In mild disease, yes. Heavy exercise should be restricted in severe disease."
+    - question: "Does pulmonary regurgitation require treatment?"
+      answer: "Mild regurgitation usually does not require treatment. Valve replacement may be needed in severe regurgitation."
 ---
 
 Pulmonary valve disease is dysfunction of the valve between the right ventricle and pulmonary artery. It has two main forms: pulmonary stenosis and pulmonary regurgitation. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating pulmonary valve diseases.
@@ -134,25 +145,7 @@ The pulmonary valve regulates blood flow from the right ventricle to the pulmona
 
 ## Frequently Asked Questions
 
-{{< faq question="Is pulmonary stenosis dangerous?" >}}
-Severe pulmonary stenosis can lead to right heart failure. Treatment is important.
-{{< /faq >}}
-
-{{< faq question="How is pulmonary balloon valvuloplasty performed?" >}}
-A catheter is inserted through the groin to reach the pulmonary valve and the valve is opened by inflating a balloon.
-{{< /faq >}}
-
-{{< faq question="Is pulmonary balloon valvuloplasty permanent?" >}}
-Yes, it provides long-lasting effect in most patients.
-{{< /faq >}}
-
-{{< faq question="Can I exercise with pulmonary valve disease?" >}}
-In mild disease, yes. Heavy exercise should be restricted in severe disease.
-{{< /faq >}}
-
-{{< faq question="Does pulmonary regurgitation require treatment?" >}}
-Mild regurgitation usually does not require treatment. Valve replacement may be needed in severe regurgitation.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

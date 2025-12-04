@@ -12,6 +12,17 @@ translationKey: "radial-angiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is radial angiography painful?"
+      answer: "Since local anesthesia is applied, no pain is felt during the procedure."
+    - question: "When can I go home after radial angiography?"
+      answer: "Most patients can be discharged the same day."
+    - question: "Can I use my wrist after radial angiography?"
+      answer: "Yes, you can return to normal activities after 24 hours."
+    - question: "Is radial access possible in every patient?"
+      answer: "It is possible in most patients. Femoral access is preferred if Allen test is negative or there are anatomical issues."
+    - question: "Is radial angiography safer than femoral angiography?"
+      answer: "Yes, bleeding and complication risk is lower."
 ---
 
 Radial angiography is coronary angiography performed through the wrist (radial artery). It has many advantages over traditional groin (femoral) access. Assoc. Prof. Dr. Habib Çil has extensive experience in radial angiography procedures.
@@ -116,25 +127,7 @@ Complications are rare:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is radial angiography painful?" >}}
-Since local anesthesia is applied, no pain is felt during the procedure.
-{{< /faq >}}
-
-{{< faq question="When can I go home after radial angiography?" >}}
-Most patients can be discharged the same day.
-{{< /faq >}}
-
-{{< faq question="Can I use my wrist after radial angiography?" >}}
-Yes, you can return to normal activities after 24 hours.
-{{< /faq >}}
-
-{{< faq question="Is radial access possible in every patient?" >}}
-It is possible in most patients. Femoral access is preferred if Allen test is negative or there are anatomical issues.
-{{< /faq >}}
-
-{{< faq question="Is radial angiography safer than femoral angiography?" >}}
-Yes, bleeding and complication risk is lower.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

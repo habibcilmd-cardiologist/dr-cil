@@ -16,6 +16,23 @@ tags:
 author: "Doç. Dr. Habib ÇİL"
 showTableOfContents: true
 featured: "featured.svg"
+faq:
+    - question: "Koroner arter hastalığı tamamen iyileşir mi?"
+      answer: "Ateroskleroz kronik bir süreçtir ve tamamen geri dönmez. Ancak yaşam tarzı değişiklikleri ve ilaç tedavisi ile plak ilerlemesi durdurulabilir, hatta bazı vakalarda gerileme sağlanabilir. Stent veya by-pass tıkanan damarlarda kan akımını yeniden sağlar ancak hastalığın kendisini tedavi etmez; bu nedenle yaşam tarzı değişiklikleri ve ilaç tedavisi sürdürülmelidir."
+    - question: "Stent mi by-pass mı daha iyi?"
+      answer: "Her iki tedavinin de kendine özgü endikasyonları vardır. Stent daha az invazivdir ve tek veya iki damar hastalığında tercih edilir. By-pass ise çoklu damar hastalığı, sol ana koroner darlığı ve diyabetik hastalarda daha iyi uzun vadeli sonuçlar verir. Tedavi kararı anjiyografi bulgularına, eşlik eden hastalıklara ve hasta özelliklerine göre verilir."
+    - question: "Stent sonrası ne kadar süre ilaç kullanmalıyım?"
+      answer: "Stent sonrası ikili antiagregan tedavi (aspirin + klopidogrel/prasugrel/tikagrelor) genellikle en az 6-12 ay kullanılmalıdır. Aspirin ise ömür boyu devam eder. Statin ve diğer koruyucu ilaçlar da süresiz kullanılmalıdır. İlaç kesme kararı mutlaka doktorunuzla birlikte alınmalıdır."
+    - question: "Anjiyografide darlık görülse bile her zaman stent gerekir mi?"
+      answer: "Hayır, her darlık stent gerektirmez. Darlığın derecesi (%70 üzeri anlamlı), lokalizasyonu, semptom varlığı ve fonksiyonel testler (FFR) değerlendirilir. Bazı darlıklar sadece ilaç tedavisi ile takip edilebilir."
+    - question: "Koroner arter hastalığında egzersiz yapabilir miyim?"
+      answer: "Evet, düzenli egzersiz koroner arter hastalığı tedavisinin önemli bir parçasıdır. Ancak egzersiz programınız doktorunuz tarafından planlanmalı ve kardiyak rehabilitasyon programlarına katılmanız önerilir. Ani yoğun egzersizden kaçınılmalı, kademeli artış yapılmalıdır."
+    - question: "Ailede kalp hastalığı varsa ne yapmalıyım?"
+      answer: "Birinci derece akrabalarda erken yaşta (erkekte 55, kadında 65 yaş öncesi) kalp hastalığı varsa riskiniz artmıştır. Bu durumda risk faktörlerinizi daha sıkı kontrol etmeli ve 20-30'lu yaşlardan itibaren düzenli kontroller yaptırmalısınız. Proaktif yaşam tarzı değişiklikleri çok önemlidir."
+    - question: "Kadınlarda koroner arter hastalığı farklı mı seyreder?"
+      answer: "Evet, kadınlarda koroner arter hastalığı genellikle erkeklere göre 10 yıl daha geç ortaya çıkar (menopoz sonrası östrojen korumasının azalmasıyla). Ayrıca kadınlarda atipik belirtiler (nefes darlığı, yorgunluk, sırt ağrısı) daha sık görülür. Bu nedenle kadınlarda tanı bazen gecikebilir."
+    - question: "Stres koroner arter hastalığına neden olur mu?"
+      answer: "Kronik stres, hipertansiyon, sağlıksız beslenme ve sigara gibi davranışlara yol açarak dolaylı olarak koroner arter hastalığı riskini artırır. Ayrıca akut stres (ani öfke, şok) koroner spazma veya plak rüptürüne neden olarak kalp krizini tetikleyebilir. Stres yönetimi teknikleri öğrenmek önemlidir."
 ---
 
 {{< lead >}}
@@ -353,37 +370,7 @@ Aşağıdaki durumlarda kardiyoloji uzmanına başvurun:
 
 ## Sık Sorulan Sorular (SSS)
 
-{{< faq question="Koroner arter hastalığı tamamen iyileşir mi?" >}}
-Ateroskleroz kronik bir süreçtir ve tamamen geri dönmez. Ancak yaşam tarzı değişiklikleri ve ilaç tedavisi ile plak ilerlemesi durdurulabilir, hatta bazı vakalarda gerileme sağlanabilir. Stent veya by-pass tıkanan damarlarda kan akımını yeniden sağlar ancak hastalığın kendisini tedavi etmez; bu nedenle yaşam tarzı değişiklikleri ve ilaç tedavisi sürdürülmelidir.
-{{< /faq >}}
-
-{{< faq question="Stent mi by-pass mı daha iyi?" >}}
-Her iki tedavinin de kendine özgü endikasyonları vardır. Stent daha az invazivdir ve tek veya iki damar hastalığında tercih edilir. By-pass ise çoklu damar hastalığı, sol ana koroner darlığı ve diyabetik hastalarda daha iyi uzun vadeli sonuçlar verir. Tedavi kararı anjiyografi bulgularına, eşlik eden hastalıklara ve hasta özelliklerine göre verilir.
-{{< /faq >}}
-
-{{< faq question="Stent sonrası ne kadar süre ilaç kullanmalıyım?" >}}
-Stent sonrası ikili antiagregan tedavi (aspirin + klopidogrel/prasugrel/tikagrelor) genellikle en az 6-12 ay kullanılmalıdır. Aspirin ise ömür boyu devam eder. Statin ve diğer koruyucu ilaçlar da süresiz kullanılmalıdır. İlaç kesme kararı mutlaka doktorunuzla birlikte alınmalıdır.
-{{< /faq >}}
-
-{{< faq question="Anjiyografide darlık görülse bile her zaman stent gerekir mi?" >}}
-Hayır, her darlık stent gerektirmez. Darlığın derecesi (%70 üzeri anlamlı), lokalizasyonu, semptom varlığı ve fonksiyonel testler (FFR) değerlendirilir. Bazı darlıklar sadece ilaç tedavisi ile takip edilebilir.
-{{< /faq >}}
-
-{{< faq question="Koroner arter hastalığında egzersiz yapabilir miyim?" >}}
-Evet, düzenli egzersiz koroner arter hastalığı tedavisinin önemli bir parçasıdır. Ancak egzersiz programınız doktorunuz tarafından planlanmalı ve kardiyak rehabilitasyon programlarına katılmanız önerilir. Ani yoğun egzersizden kaçınılmalı, kademeli artış yapılmalıdır.
-{{< /faq >}}
-
-{{< faq question="Ailede kalp hastalığı varsa ne yapmalıyım?" >}}
-Birinci derece akrabalarda erken yaşta (erkekte 55, kadında 65 yaş öncesi) kalp hastalığı varsa riskiniz artmıştır. Bu durumda risk faktörlerinizi daha sıkı kontrol etmeli ve 20-30'lu yaşlardan itibaren düzenli kontroller yaptırmalısınız. Proaktif yaşam tarzı değişiklikleri çok önemlidir.
-{{< /faq >}}
-
-{{< faq question="Kadınlarda koroner arter hastalığı farklı mı seyreder?" >}}
-Evet, kadınlarda koroner arter hastalığı genellikle erkeklere göre 10 yıl daha geç ortaya çıkar (menopoz sonrası östrojen korumasının azalmasıyla). Ayrıca kadınlarda atipik belirtiler (nefes darlığı, yorgunluk, sırt ağrısı) daha sık görülür. Bu nedenle kadınlarda tanı bazen gecikebilir.
-{{< /faq >}}
-
-{{< faq question="Stres koroner arter hastalığına neden olur mu?" >}}
-Kronik stres, hipertansiyon, sağlıksız beslenme ve sigara gibi davranışlara yol açarak dolaylı olarak koroner arter hastalığı riskini artırır. Ayrıca akut stres (ani öfke, şok) koroner spazma veya plak rüptürüne neden olarak kalp krizini tetikleyebilir. Stres yönetimi teknikleri öğrenmek önemlidir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ---
 

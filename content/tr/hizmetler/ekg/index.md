@@ -12,6 +12,17 @@ translationKey: "ekg"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "EKG ağrılı mı?"
+      answer: "Hayır, EKG tamamen ağrısız bir işlemdir. Sadece elektrotların cilde yapıştırılması gerekir."
+    - question: "EKG için hazırlık gerekir mi?"
+      answer: "Özel bir hazırlık gerekmez. Ancak göğüs bölgesinin açık olması gerektiğinden rahat giysiler tercih edilebilir."
+    - question: "EKG sonucu ne zaman çıkar?"
+      answer: "EKG sonucu hemen değerlendirilir ve yorumlanır."
+    - question: "Normal EKG kalp hastalığı olmadığını gösterir mi?"
+      answer: "Normal EKG önemli bir bulgudur ancak bazı kalp hastalıkları EKG'de görülmeyebilir. Ek testler gerekebilir."
+    - question: "EKG ne sıklıkta çekilmeli?"
+      answer: "Semptomlar, risk faktörleri ve mevcut hastalıklara göre doktor tarafından belirlenir."
 ---
 
 Elektrokardiyografi (EKG), kalbin elektriksel aktivitesini kaydeden basit, ağrısız ve hızlı bir tanı yöntemidir. Kardiyolojide en sık kullanılan tetkiklerden biridir. Doç. Dr. Habib Çil, EKG yorumlamasında geniş deneyime sahiptir.
@@ -144,25 +155,7 @@ EKG çekimi yaklaşık 5-10 dakika sürer.
 
 ## Sık Sorulan Sorular
 
-{{< faq question="EKG ağrılı mı?" >}}
-Hayır, EKG tamamen ağrısız bir işlemdir. Sadece elektrotların cilde yapıştırılması gerekir.
-{{< /faq >}}
-
-{{< faq question="EKG için hazırlık gerekir mi?" >}}
-Özel bir hazırlık gerekmez. Ancak göğüs bölgesinin açık olması gerektiğinden rahat giysiler tercih edilebilir.
-{{< /faq >}}
-
-{{< faq question="EKG sonucu ne zaman çıkar?" >}}
-EKG sonucu hemen değerlendirilir ve yorumlanır.
-{{< /faq >}}
-
-{{< faq question="Normal EKG kalp hastalığı olmadığını gösterir mi?" >}}
-Normal EKG önemli bir bulgudur ancak bazı kalp hastalıkları EKG'de görülmeyebilir. Ek testler gerekebilir.
-{{< /faq >}}
-
-{{< faq question="EKG ne sıklıkta çekilmeli?" >}}
-Semptomlar, risk faktörleri ve mevcut hastalıklara göre doktor tarafından belirlenir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

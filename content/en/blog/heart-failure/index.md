@@ -16,6 +16,23 @@ tags:
 author: "Doç. Dr. Habib ÇİL"
 showTableOfContents: true
 featured: "featured.svg"
+faq:
+    - question: "Can heart failure be completely cured?"
+      answer: "Heart failure is usually a chronic condition and cannot be completely cured. However, with proper treatment, symptoms can be controlled, disease progression can be slowed, and quality of life can be significantly improved. In some cases (such as when caused by a temporary condition), ejection fraction may return to normal."
+    - question: "Can I exercise with heart failure?"
+      answer: "Yes, regular, moderate-intensity exercise is recommended for stable heart failure patients. Cardiac rehabilitation programs are particularly beneficial. It's important to plan your exercise program with your doctor. Gradually increase your activity without overexertion."
+    - question: "How much fluid should I drink?"
+      answer: "Generally, 1.5-2 liters of daily fluid intake is recommended. However, this amount may vary depending on your disease severity and diuretic use. Your doctor will determine specific fluid restrictions for you. Daily weight monitoring is the best way to track your fluid balance."
+    - question: "Can I use salt with heart failure?"
+      answer: "Salt restriction is a cornerstone of heart failure treatment. Daily sodium intake below 2 grams (about 1 teaspoon of salt) is recommended. Prepared foods, canned products, and restaurant meals typically contain high sodium levels."
+    - question: "Do I have to take heart failure medications for life?"
+      answer: "Most heart failure medications need to be taken long-term or for life. These medications don't just control symptoms; they also slow disease progression and extend life. Even if you feel well, don't stop your medications without consulting your doctor."
+    - question: "When is a pacemaker or shock device (ICD) needed?"
+      answer: "ICD is recommended for patients at high risk of sudden cardiac death. It's typically implanted in patients with ejection fraction at or below 35% despite optimal medical therapy and NYHA class II-III symptoms. CRT (cardiac resynchronization therapy) enables synchronized heart function in patients with left bundle branch block and low EF."
+    - question: "When is heart transplant considered?"
+      answer: "Heart transplantation is considered in end-stage heart failure patients whose symptoms cannot be controlled despite all medical and device therapies. For patients not eligible for transplant, LVAD (left ventricular assist device) may be an alternative."
+    - question: "Can I prevent heart failure?"
+      answer: "Yes, you can significantly reduce your risk by controlling the main causes of heart failure: - Keep your blood pressure under control - Monitor your cholesterol regularly - Eat healthy and maintain ideal weight - Exercise regularly - Avoid smoking - Limit alcohol consumption - If you have diabetes, keep it well controlled"
 ---
 
 {{< lead >}}
@@ -352,45 +369,7 @@ With modern treatments, heart failure patients can lead quality lives for many y
 
 ## Frequently Asked Questions (FAQ)
 
-{{< faq question="Can heart failure be completely cured?" >}}
-Heart failure is usually a chronic condition and cannot be completely cured. However, with proper treatment, symptoms can be controlled, disease progression can be slowed, and quality of life can be significantly improved. In some cases (such as when caused by a temporary condition), ejection fraction may return to normal.
-{{< /faq >}}
-
-{{< faq question="Can I exercise with heart failure?" >}}
-Yes, regular, moderate-intensity exercise is recommended for stable heart failure patients. Cardiac rehabilitation programs are particularly beneficial. It's important to plan your exercise program with your doctor. Gradually increase your activity without overexertion.
-{{< /faq >}}
-
-{{< faq question="How much fluid should I drink?" >}}
-Generally, 1.5-2 liters of daily fluid intake is recommended. However, this amount may vary depending on your disease severity and diuretic use. Your doctor will determine specific fluid restrictions for you. Daily weight monitoring is the best way to track your fluid balance.
-{{< /faq >}}
-
-{{< faq question="Can I use salt with heart failure?" >}}
-Salt restriction is a cornerstone of heart failure treatment. Daily sodium intake below 2 grams (about 1 teaspoon of salt) is recommended. Prepared foods, canned products, and restaurant meals typically contain high sodium levels.
-{{< /faq >}}
-
-{{< faq question="Do I have to take heart failure medications for life?" >}}
-Most heart failure medications need to be taken long-term or for life. These medications don't just control symptoms; they also slow disease progression and extend life. Even if you feel well, don't stop your medications without consulting your doctor.
-{{< /faq >}}
-
-{{< faq question="When is a pacemaker or shock device (ICD) needed?" >}}
-ICD is recommended for patients at high risk of sudden cardiac death. It's typically implanted in patients with ejection fraction at or below 35% despite optimal medical therapy and NYHA class II-III symptoms. CRT (cardiac resynchronization therapy) enables synchronized heart function in patients with left bundle branch block and low EF.
-{{< /faq >}}
-
-{{< faq question="When is heart transplant considered?" >}}
-Heart transplantation is considered in end-stage heart failure patients whose symptoms cannot be controlled despite all medical and device therapies. For patients not eligible for transplant, LVAD (left ventricular assist device) may be an alternative.
-{{< /faq >}}
-
-{{< faq question="Can I prevent heart failure?" >}}
-Yes, you can significantly reduce your risk by controlling the main causes of heart failure:
-
--   Keep your blood pressure under control
--   Monitor your cholesterol regularly
--   Eat healthy and maintain ideal weight
--   Exercise regularly
--   Avoid smoking
--   Limit alcohol consumption
--   If you have diabetes, keep it well controlled
-{{< /faq >}}
+{{< faq-list >}}
 
 ---
 

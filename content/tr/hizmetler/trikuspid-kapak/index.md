@@ -12,6 +12,17 @@ translationKey: "tricuspid-valve"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Triküspit yetersizliği tehlikeli mi?"
+      answer: "Ciddi triküspit yetersizliği sağ kalp yetmezliğine yol açabilir. Tedavi önemlidir."
+    - question: "Triküspit kapak hastalığı belirtileri nelerdir?"
+      answer: "Bacaklarda şişlik, karında şişlik, yorgunluk ve nefes darlığı başlıca belirtilerdir."
+    - question: "Triküspit yetersizliği nasıl tedavi edilir?"
+      answer: "Medikal tedavi, cerrahi tamir veya replasman, transkateter girişimler uygulanabilir."
+    - question: "Triküspit kapak ameliyatı riskli mi?"
+      answer: "İzole triküspit cerrahisi yüksek risklidir. Bu nedenle transkateter tedaviler geliştirilmektedir."
+    - question: "Triküspit yetersizliği kendiliğinden düzelir mi?"
+      answer: "Altta yatan neden tedavi edilirse fonksiyonel yetersizlik azalabilir."
 ---
 
 Triküspit kapak hastalığı, sağ atriyum ile sağ ventrikül arasındaki kapağın işlev bozukluğudur. En sık triküspit yetersizliği görülür. Doç. Dr. Habib Çil, triküspit kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
@@ -132,25 +143,7 @@ Tedavi kararı şunlara bağlıdır:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Triküspit yetersizliği tehlikeli mi?" >}}
-Ciddi triküspit yetersizliği sağ kalp yetmezliğine yol açabilir. Tedavi önemlidir.
-{{< /faq >}}
-
-{{< faq question="Triküspit kapak hastalığı belirtileri nelerdir?" >}}
-Bacaklarda şişlik, karında şişlik, yorgunluk ve nefes darlığı başlıca belirtilerdir.
-{{< /faq >}}
-
-{{< faq question="Triküspit yetersizliği nasıl tedavi edilir?" >}}
-Medikal tedavi, cerrahi tamir veya replasman, transkateter girişimler uygulanabilir.
-{{< /faq >}}
-
-{{< faq question="Triküspit kapak ameliyatı riskli mi?" >}}
-İzole triküspit cerrahisi yüksek risklidir. Bu nedenle transkateter tedaviler geliştirilmektedir.
-{{< /faq >}}
-
-{{< faq question="Triküspit yetersizliği kendiliğinden düzelir mi?" >}}
-Altta yatan neden tedavi edilirse fonksiyonel yetersizlik azalabilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

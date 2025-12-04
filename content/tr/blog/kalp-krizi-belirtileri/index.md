@@ -16,6 +16,17 @@ tags:
     ]
 author: "Doç. Dr. Habib ÇİL"
 showTableOfContents: true
+faq:
+    - question: "Göğsüm ağrıyor, kalp krizi mi geçiriyorum?"
+      answer: "Her göğüs ağrısı kalp krizi değildir. Kas ağrıları, reflü, anksiyete gibi birçok neden göğüs ağrısına yol açabilir. Ancak 15 dakikadan uzun süren, dinlenmeyle geçmeyen, baskı tarzında göğüs ağrısı ciddiye alınmalı ve acil yardım istenmelidir."
+    - question: "Genç yaşta kalp krizi geçirilir mi?"
+      answer: "Evet, özellikle risk faktörleri yoğun olan gençlerde (sigara, obezite, aile öyküsü, diyabet) kalp krizi görülebilir. Son yıllarda 40 yaş altı kalp krizleri maalesef artmaktadır."
+    - question: "Kalp krizi geçirdikten sonra normal yaşama dönebilir miyim?"
+      answer: "Evet, uygun tedavi ve rehabilitasyon ile çoğu hasta normal yaşamına dönebilir. Ancak ilaçların düzenli kullanımı ve yaşam tarzı değişiklikleri gereklidir."
+    - question: "Stent taktırdıktan sonra ne kadar dikkat etmeliyim?"
+      answer: "Stent sonrası en kritik dönem ilk yıldır. Kan sulandırıcı ilaçların düzenli kullanımı, kontrollerin aksatılmaması ve risk faktörlerinin kontrolü çok önemlidir."
+    - question: "Ailemde kalp krizi öyküsü var, ne yapmalıyım?"
+      answer: "Aile öyküsü riski artırır ancak bu kaçınılmaz değildir. Diğer risk faktörlerini kontrol altında tutarak (tansiyon, kolesterol, sigara, egzersiz) riskinizi önemli ölçüde azaltabilirsiniz."
 ---
 
 {{< lead >}}
@@ -220,25 +231,7 @@ Kalp krizi büyük ölçüde önlenebilir bir hastalıktır. İşte kanıta daya
 
 ## Sık Sorulan Sorular (SSS)
 
-{{< faq question="Göğsüm ağrıyor, kalp krizi mi geçiriyorum?" >}}
-Her göğüs ağrısı kalp krizi değildir. Kas ağrıları, reflü, anksiyete gibi birçok neden göğüs ağrısına yol açabilir. Ancak 15 dakikadan uzun süren, dinlenmeyle geçmeyen, baskı tarzında göğüs ağrısı ciddiye alınmalı ve acil yardım istenmelidir.
-{{< /faq >}}
-
-{{< faq question="Genç yaşta kalp krizi geçirilir mi?" >}}
-Evet, özellikle risk faktörleri yoğun olan gençlerde (sigara, obezite, aile öyküsü, diyabet) kalp krizi görülebilir. Son yıllarda 40 yaş altı kalp krizleri maalesef artmaktadır.
-{{< /faq >}}
-
-{{< faq question="Kalp krizi geçirdikten sonra normal yaşama dönebilir miyim?" >}}
-Evet, uygun tedavi ve rehabilitasyon ile çoğu hasta normal yaşamına dönebilir. Ancak ilaçların düzenli kullanımı ve yaşam tarzı değişiklikleri gereklidir.
-{{< /faq >}}
-
-{{< faq question="Stent taktırdıktan sonra ne kadar dikkat etmeliyim?" >}}
-Stent sonrası en kritik dönem ilk yıldır. Kan sulandırıcı ilaçların düzenli kullanımı, kontrollerin aksatılmaması ve risk faktörlerinin kontrolü çok önemlidir.
-{{< /faq >}}
-
-{{< faq question="Ailemde kalp krizi öyküsü var, ne yapmalıyım?" >}}
-Aile öyküsü riski artırır ancak bu kaçınılmaz değildir. Diğer risk faktörlerini kontrol altında tutarak (tansiyon, kolesterol, sigara, egzersiz) riskinizi önemli ölçüde azaltabilirsiniz.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Ne Zaman Doktora Başvurmalısınız?
 

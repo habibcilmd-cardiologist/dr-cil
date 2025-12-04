@@ -12,6 +12,17 @@ translationKey: "renal-artery-stenosis"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is renal artery stenosis dangerous?"
+      answer: "Yes, if untreated it can lead to kidney failure and uncontrolled hypertension."
+    - question: "How is renal artery stenting performed?"
+      answer: "A stent is placed in the kidney artery through the groin. It is performed under local anesthesia."
+    - question: "Does blood pressure decrease after stenting?"
+      answer: "In appropriate patients, blood pressure control improves or medication need decreases."
+    - question: "Is renal artery stent permanent?"
+      answer: "Yes, the stent is permanent. Regular follow-up is required."
+    - question: "Is treatment different in fibromuscular dysplasia?"
+      answer: "Yes, usually balloon angioplasty alone is sufficient, stent is not needed."
 ---
 
 Renal artery stenosis is narrowing of the artery that supplies the kidney. It can lead to hypertension and kidney failure. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating renal artery stenosis.
@@ -124,25 +135,7 @@ Renal artery stenosis is more than 50% narrowing of the kidney artery. This cond
 
 ## Frequently Asked Questions
 
-{{< faq question="Is renal artery stenosis dangerous?" >}}
-Yes, if untreated it can lead to kidney failure and uncontrolled hypertension.
-{{< /faq >}}
-
-{{< faq question="How is renal artery stenting performed?" >}}
-A stent is placed in the kidney artery through the groin. It is performed under local anesthesia.
-{{< /faq >}}
-
-{{< faq question="Does blood pressure decrease after stenting?" >}}
-In appropriate patients, blood pressure control improves or medication need decreases.
-{{< /faq >}}
-
-{{< faq question="Is renal artery stent permanent?" >}}
-Yes, the stent is permanent. Regular follow-up is required.
-{{< /faq >}}
-
-{{< faq question="Is treatment different in fibromuscular dysplasia?" >}}
-Yes, usually balloon angioplasty alone is sufficient, stent is not needed.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

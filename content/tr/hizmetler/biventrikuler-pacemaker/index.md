@@ -12,6 +12,17 @@ translationKey: "biventricular-pacemaker"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Biventriküler pacemaker kalp yetmezliğini iyileştirir mi?"
+      answer: "CRT, kalp yetmezliği semptomlarını önemli ölçüde azaltır. Bazı hastalarda kalp fonksiyonları normale yakın düzeye gelebilir."
+    - question: "Biventriküler pacemaker takılması ağrılı mı?"
+      answer: "İşlem lokal anestezi altında yapılır. İşlem sırasında ağrı hissedilmez, sonrasında hafif rahatsızlık olabilir."
+    - question: "Biventriküler pacemaker pili ne kadar süre çalışır?"
+      answer: "CRT pilleri genellikle 5-8 yıl çalışır. CRT-D'de pil ömrü biraz daha kısa olabilir."
+    - question: "CRT'ye yanıt vermezse ne olur?"
+      answer: "Optimizasyon, elektrot revizyonu veya alternatif tedaviler değerlendirilebilir."
+    - question: "Biventriküler pacemaker ile normal yaşam sürdürebilir miyim?"
+      answer: "Evet, normal günlük aktivitelerinizi sürdürebilirsiniz. Egzersiz kapasiteniz artabilir."
 ---
 
 Biventriküler pacemaker, kalp yetmezliği hastalarında her iki ventrikülü senkronize şekilde uyararak kalp fonksiyonunu iyileştiren özel bir cihazdır. Kardiyak resenkronizasyon tedavisi (CRT) olarak da bilinir. Doç. Dr. Habib Çil, biventriküler pacemaker implantasyonunda geniş deneyime sahiptir.
@@ -136,25 +147,7 @@ Biventriküler pacemaker implantasyonu genellikle 2-4 saat sürer.
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Biventriküler pacemaker kalp yetmezliğini iyileştirir mi?" >}}
-CRT, kalp yetmezliği semptomlarını önemli ölçüde azaltır. Bazı hastalarda kalp fonksiyonları normale yakın düzeye gelebilir.
-{{< /faq >}}
-
-{{< faq question="Biventriküler pacemaker takılması ağrılı mı?" >}}
-İşlem lokal anestezi altında yapılır. İşlem sırasında ağrı hissedilmez, sonrasında hafif rahatsızlık olabilir.
-{{< /faq >}}
-
-{{< faq question="Biventriküler pacemaker pili ne kadar süre çalışır?" >}}
-CRT pilleri genellikle 5-8 yıl çalışır. CRT-D'de pil ömrü biraz daha kısa olabilir.
-{{< /faq >}}
-
-{{< faq question="CRT'ye yanıt vermezse ne olur?" >}}
-Optimizasyon, elektrot revizyonu veya alternatif tedaviler değerlendirilebilir.
-{{< /faq >}}
-
-{{< faq question="Biventriküler pacemaker ile normal yaşam sürdürebilir miyim?" >}}
-Evet, normal günlük aktivitelerinizi sürdürebilirsiniz. Egzersiz kapasiteniz artabilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

@@ -12,6 +12,17 @@ translationKey: "biventricular-pacemaker"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Does a biventricular pacemaker cure heart failure?"
+      answer: "CRT significantly reduces heart failure symptoms. In some patients, heart function may return to near-normal levels."
+    - question: "Is biventricular pacemaker implantation painful?"
+      answer: "The procedure is performed under local anesthesia. No pain is felt during the procedure, there may be mild discomfort afterward."
+    - question: "How long does a biventricular pacemaker battery last?"
+      answer: "CRT batteries typically work for 5-8 years. Battery life may be slightly shorter in CRT-D."
+    - question: "What if I don't respond to CRT?"
+      answer: "Optimization, electrode revision, or alternative treatments may be considered."
+    - question: "Can I lead a normal life with a biventricular pacemaker?"
+      answer: "Yes, you can continue your normal daily activities. Your exercise capacity may increase."
 ---
 
 A biventricular pacemaker is a special device that improves heart function by stimulating both ventricles synchronously in heart failure patients. It is also known as cardiac resynchronization therapy (CRT). Assoc. Prof. Dr. Habib Çil has extensive experience in biventricular pacemaker implantation.
@@ -136,25 +147,7 @@ Procedure risks:
 
 ## Frequently Asked Questions
 
-{{< faq question="Does a biventricular pacemaker cure heart failure?" >}}
-CRT significantly reduces heart failure symptoms. In some patients, heart function may return to near-normal levels.
-{{< /faq >}}
-
-{{< faq question="Is biventricular pacemaker implantation painful?" >}}
-The procedure is performed under local anesthesia. No pain is felt during the procedure, there may be mild discomfort afterward.
-{{< /faq >}}
-
-{{< faq question="How long does a biventricular pacemaker battery last?" >}}
-CRT batteries typically work for 5-8 years. Battery life may be slightly shorter in CRT-D.
-{{< /faq >}}
-
-{{< faq question="What if I don't respond to CRT?" >}}
-Optimization, electrode revision, or alternative treatments may be considered.
-{{< /faq >}}
-
-{{< faq question="Can I lead a normal life with a biventricular pacemaker?" >}}
-Yes, you can continue your normal daily activities. Your exercise capacity may increase.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

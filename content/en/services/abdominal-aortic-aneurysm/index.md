@@ -12,6 +12,17 @@ translationKey: "abdominal-aortic-aneurysm"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is abdominal aortic aneurysm dangerous?"
+      answer: "Yes, it can be life-threatening due to rupture risk. Regular follow-up and timely treatment are important."
+    - question: "What are the symptoms of aneurysm?"
+      answer: "Most aneurysms are asymptomatic. Abdominal pain, back pain, or pulsating sensation may occur."
+    - question: "What is EVAR?"
+      answer: "EVAR is minimally invasive aneurysm repair with stent-graft placement through the groin."
+    - question: "When should aneurysm be treated?"
+      answer: "Treatment is usually recommended for aneurysms over 5.5 cm or rapidly growing aneurysms."
+    - question: "What is life like after aneurysm treatment?"
+      answer: "After successful treatment, you can return to normal life. Regular follow-up is required."
 ---
 
 Abdominal aortic aneurysm (AAA) is abnormal enlargement of the aorta in the abdominal region. It is a serious condition that can be life-threatening due to rupture risk. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating abdominal aortic aneurysm.
@@ -117,25 +128,7 @@ Treatment decision depends on:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is abdominal aortic aneurysm dangerous?" >}}
-Yes, it can be life-threatening due to rupture risk. Regular follow-up and timely treatment are important.
-{{< /faq >}}
-
-{{< faq question="What are the symptoms of aneurysm?" >}}
-Most aneurysms are asymptomatic. Abdominal pain, back pain, or pulsating sensation may occur.
-{{< /faq >}}
-
-{{< faq question="What is EVAR?" >}}
-EVAR is minimally invasive aneurysm repair with stent-graft placement through the groin.
-{{< /faq >}}
-
-{{< faq question="When should aneurysm be treated?" >}}
-Treatment is usually recommended for aneurysms over 5.5 cm or rapidly growing aneurysms.
-{{< /faq >}}
-
-{{< faq question="What is life like after aneurysm treatment?" >}}
-After successful treatment, you can return to normal life. Regular follow-up is required.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

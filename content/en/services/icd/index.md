@@ -12,6 +12,17 @@ translationKey: "icd"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is an ICD shock painful?"
+      answer: "An ICD shock gives a sudden, strong impact sensation. It can be uncomfortable but is life-saving. Most patients can tolerate the shock."
+    - question: "Can I drive with an ICD?"
+      answer: "If you haven't received a shock, you can usually drive. After a shock, driving restrictions apply for a certain period (usually 6 months)."
+    - question: "How long does an ICD battery last?"
+      answer: "ICD batteries typically last 5-10 years. When the battery runs out, only the generator is replaced."
+    - question: "Can I have an MRI with an ICD?"
+      answer: "MRI can be performed with new generation MRI-compatible ICDs. You should consult your doctor beforehand."
+    - question: "What if the ICD doesn't deliver a shock?"
+      answer: "The ICD continuously monitors the heart. If it doesn't detect a dangerous rhythm, it won't deliver a shock. This is normal operation."
 ---
 
 An implantable cardioverter defibrillator (ICD) is an advanced electronic device that detects and treats life-threatening heart rhythm disorders. ICD is the most effective treatment method for preventing sudden cardiac death. Assoc. Prof. Dr. Habib Çil has extensive experience in ICD implantation and uses the most current technologies to protect patients' lives.
@@ -138,25 +149,7 @@ Procedure risks:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is an ICD shock painful?" >}}
-An ICD shock gives a sudden, strong impact sensation. It can be uncomfortable but is life-saving. Most patients can tolerate the shock.
-{{< /faq >}}
-
-{{< faq question="Can I drive with an ICD?" >}}
-If you haven't received a shock, you can usually drive. After a shock, driving restrictions apply for a certain period (usually 6 months).
-{{< /faq >}}
-
-{{< faq question="How long does an ICD battery last?" >}}
-ICD batteries typically last 5-10 years. When the battery runs out, only the generator is replaced.
-{{< /faq >}}
-
-{{< faq question="Can I have an MRI with an ICD?" >}}
-MRI can be performed with new generation MRI-compatible ICDs. You should consult your doctor beforehand.
-{{< /faq >}}
-
-{{< faq question="What if the ICD doesn't deliver a shock?" >}}
-The ICD continuously monitors the heart. If it doesn't detect a dangerous rhythm, it won't deliver a shock. This is normal operation.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

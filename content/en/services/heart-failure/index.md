@@ -12,6 +12,17 @@ translationKey: "heart-failure"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Can heart failure be cured?"
+      answer: "Heart failure generally cannot be completely cured but can be controlled with appropriate treatment. Symptoms can be relieved, quality of life improved, and disease progression slowed."
+    - question: "Can I exercise with heart failure?"
+      answer: "Yes, regular exercise under medical supervision is beneficial for heart failure patients. Cardiac rehabilitation programs offer safe and effective exercise protocols."
+    - question: "How much fluid should I consume daily?"
+      answer: "In severe heart failure, fluid intake may be limited to 1.5-2 liters per day. However, this amount is determined by individual assessment."
+    - question: "Do I need a pacemaker or ICD?"
+      answer: "Not all patients do. Device therapies are considered in patients with low ejection fraction, wide QRS, or high risk of sudden death."
+    - question: "Am I a candidate for heart transplant?"
+      answer: "In advanced-stage heart failure, heart transplantation may be considered for patients who don't respond to other treatments and whose overall condition is suitable. This is a complex process evaluated by a specialist team."
 ---
 
 Heart failure is a condition where the heart cannot pump enough blood to meet the body's needs. This disease affects approximately 64 million people worldwide, particularly affecting 10% of the population over 65 years of age. In Turkey, there are approximately 2 million heart failure patients. With modern treatment approaches, the vast majority of patients can maintain a quality life.
@@ -216,25 +227,7 @@ I have comprehensive experience in heart failure management. While applying the 
 
 ## Frequently Asked Questions
 
-{{< faq question="Can heart failure be cured?" >}}
-Heart failure generally cannot be completely cured but can be controlled with appropriate treatment. Symptoms can be relieved, quality of life improved, and disease progression slowed.
-{{< /faq >}}
-
-{{< faq question="Can I exercise with heart failure?" >}}
-Yes, regular exercise under medical supervision is beneficial for heart failure patients. Cardiac rehabilitation programs offer safe and effective exercise protocols.
-{{< /faq >}}
-
-{{< faq question="How much fluid should I consume daily?" >}}
-In severe heart failure, fluid intake may be limited to 1.5-2 liters per day. However, this amount is determined by individual assessment.
-{{< /faq >}}
-
-{{< faq question="Do I need a pacemaker or ICD?" >}}
-Not all patients do. Device therapies are considered in patients with low ejection fraction, wide QRS, or high risk of sudden death.
-{{< /faq >}}
-
-{{< faq question="Am I a candidate for heart transplant?" >}}
-In advanced-stage heart failure, heart transplantation may be considered for patients who don't respond to other treatments and whose overall condition is suitable. This is a complex process evaluated by a specialist team.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

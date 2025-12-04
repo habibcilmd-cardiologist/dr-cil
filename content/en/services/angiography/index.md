@@ -12,6 +12,17 @@ translationKey: "angiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is angiography painful?"
+      answer: "Since local anesthesia is applied, no pain is felt during the procedure. There may be a temporary warm sensation when contrast is given."
+    - question: "How long does angiography take?"
+      answer: "Diagnostic angiography takes 15-30 minutes. Duration may extend if stent is placed."
+    - question: "When can I go home after angiography?"
+      answer: "Same-day discharge is possible with radial access, usually next day with femoral access."
+    - question: "Is hospitalization required for angiography?"
+      answer: "Usually performed as a day procedure. Hospitalization may be required in patients with high complication risk."
+    - question: "When can I return to work after angiography?"
+      answer: "Most patients can return to normal activities within 1-2 days."
 ---
 
 Coronary angiography is the imaging of heart vessels (coronary arteries) using X-rays and contrast material. This procedure is considered the gold standard in diagnosing coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in coronary angiography procedures.
@@ -150,25 +161,7 @@ Procedure risks are low:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is angiography painful?" >}}
-Since local anesthesia is applied, no pain is felt during the procedure. There may be a temporary warm sensation when contrast is given.
-{{< /faq >}}
-
-{{< faq question="How long does angiography take?" >}}
-Diagnostic angiography takes 15-30 minutes. Duration may extend if stent is placed.
-{{< /faq >}}
-
-{{< faq question="When can I go home after angiography?" >}}
-Same-day discharge is possible with radial access, usually next day with femoral access.
-{{< /faq >}}
-
-{{< faq question="Is hospitalization required for angiography?" >}}
-Usually performed as a day procedure. Hospitalization may be required in patients with high complication risk.
-{{< /faq >}}
-
-{{< faq question="When can I return to work after angiography?" >}}
-Most patients can return to normal activities within 1-2 days.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

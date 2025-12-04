@@ -12,6 +12,17 @@ translationKey: "cardiac-stent"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is stent permanent?"
+      answer: "Yes, metal stents are permanent. Bioresorbable stents dissolve over time."
+    - question: "How long does medication use last after stent?"
+      answer: "Dual antiplatelet therapy usually lasts 6-12 months. Aspirin continues for life."
+    - question: "Can I have MRI after stent?"
+      answer: "Yes, modern stents are MRI compatible."
+    - question: "Can I exercise after stent?"
+      answer: "Yes, regular exercise is recommended after recovery."
+    - question: "Can stent get blocked?"
+      answer: "Rarely. Medication compliance and lifestyle changes are important."
 ---
 
 Cardiac stent is a metal mesh structure placed to keep coronary artery stenosis open. It is widely used in the treatment of coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac stent implantation.
@@ -118,25 +129,7 @@ Total duration: 30-90 minutes
 
 ## Frequently Asked Questions
 
-{{< faq question="Is stent permanent?" >}}
-Yes, metal stents are permanent. Bioresorbable stents dissolve over time.
-{{< /faq >}}
-
-{{< faq question="How long does medication use last after stent?" >}}
-Dual antiplatelet therapy usually lasts 6-12 months. Aspirin continues for life.
-{{< /faq >}}
-
-{{< faq question="Can I have MRI after stent?" >}}
-Yes, modern stents are MRI compatible.
-{{< /faq >}}
-
-{{< faq question="Can I exercise after stent?" >}}
-Yes, regular exercise is recommended after recovery.
-{{< /faq >}}
-
-{{< faq question="Can stent get blocked?" >}}
-Rarely. Medication compliance and lifestyle changes are important.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

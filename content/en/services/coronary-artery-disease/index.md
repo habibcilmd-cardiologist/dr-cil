@@ -12,6 +12,17 @@ translationKey: "coronary-artery-disease"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Can coronary artery disease be completely cured?"
+      answer: "Atherosclerosis is an irreversible process, but with appropriate treatment, disease progression can be stopped and in some cases plaques can even shrink. With lifestyle modifications and medication therapy, the vast majority of patients can continue their normal lives."
+    - question: "How long should I take medication after stent placement?"
+      answer: "Dual antiplatelet therapy (aspirin + P2Y12 inhibitor) after stent typically lasts 6-12 months. Aspirin should be taken for life. Treatment duration is adjusted according to individual risk assessment."
+    - question: "Can I return to normal life after stent placement?"
+      answer: "Yes, most patients can return to normal activities within a few days after stent placement. Waiting 1-2 weeks is recommended for heavy physical activities. Cardiac rehabilitation program accelerates recovery."
+    - question: "Can a stent become blocked again?"
+      answer: "In modern drug-eluting stents, the restenosis rate is below 5%. However, medication adherence and control of risk factors further reduce this rate."
+    - question: "Is bypass or stent better?"
+      answer: "Both treatments have advantages. The decision is made by the \"Heart Team\" considering the patient's anatomy, comorbidities, and preferences."
 ---
 
 Coronary artery disease (CAD) is the leading cause of death from heart disease worldwide. This condition, which develops when the coronary arteries that supply the heart narrow or become blocked, affects millions of people every year. In Turkey, cardiovascular diseases are the leading cause of death, with coronary artery disease accounting for a large portion of these. With early diagnosis and appropriate treatment, this disease can be controlled and patients' quality of life can be significantly improved.
@@ -213,25 +224,7 @@ Coronary artery disease is a chronic condition requiring lifelong follow-up:
 
 ## Frequently Asked Questions
 
-{{< faq question="Can coronary artery disease be completely cured?" >}}
-Atherosclerosis is an irreversible process, but with appropriate treatment, disease progression can be stopped and in some cases plaques can even shrink. With lifestyle modifications and medication therapy, the vast majority of patients can continue their normal lives.
-{{< /faq >}}
-
-{{< faq question="How long should I take medication after stent placement?" >}}
-Dual antiplatelet therapy (aspirin + P2Y12 inhibitor) after stent typically lasts 6-12 months. Aspirin should be taken for life. Treatment duration is adjusted according to individual risk assessment.
-{{< /faq >}}
-
-{{< faq question="Can I return to normal life after stent placement?" >}}
-Yes, most patients can return to normal activities within a few days after stent placement. Waiting 1-2 weeks is recommended for heavy physical activities. Cardiac rehabilitation program accelerates recovery.
-{{< /faq >}}
-
-{{< faq question="Can a stent become blocked again?" >}}
-In modern drug-eluting stents, the restenosis rate is below 5%. However, medication adherence and control of risk factors further reduce this rate.
-{{< /faq >}}
-
-{{< faq question="Is bypass or stent better?" >}}
-Both treatments have advantages. The decision is made by the "Heart Team" considering the patient's anatomy, comorbidities, and preferences.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

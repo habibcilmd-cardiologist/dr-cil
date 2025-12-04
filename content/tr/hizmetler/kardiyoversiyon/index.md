@@ -12,6 +12,17 @@ translationKey: "cardioversion"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Kardiyoversiyon ağrılı mı?"
+      answer: "Elektriksel kardiyoversiyon sedasyon altında yapılır, bu nedenle ağrı hissedilmez. Uyanınca hafif göğüs rahatsızlığı olabilir."
+    - question: "Kardiyoversiyon ne kadar sürer?"
+      answer: "İşlemin kendisi birkaç saniye sürer. Hazırlık ve toparlanma dahil toplam 1-2 saat hastanede kalınır."
+    - question: "Kardiyoversiyon sonrası ne zaman işe dönebilirim?"
+      answer: "Çoğu hasta ertesi gün normal aktivitelerine dönebilir. Sedasyon nedeniyle aynı gün araç kullanılmamalıdır."
+    - question: "Kardiyoversiyon kalıcı mı?"
+      answer: "Kardiyoversiyon ritmi düzeltir ancak nüks olabilir. Uzun dönem başarı için altta yatan nedenlerin tedavisi önemlidir."
+    - question: "Kardiyoversiyon sonrası ilaç kullanmam gerekir mi?"
+      answer: "Evet, antikoagülan ve antiaritmik ilaçlar genellikle gereklidir. Süre ve tip doktor tarafından belirlenir."
 ---
 
 Kardiyoversiyon, anormal kalp ritmini normal sinüs ritmine döndürmek için uygulanan bir tedavi yöntemidir. Elektriksel veya farmakolojik olarak yapılabilir. Doç. Dr. Habib Çil, kardiyoversiyon işleminde geniş deneyime sahiptir.
@@ -146,25 +157,7 @@ Kardiyoversiyon, kalbin anormal ritmini (genellikle atriyal fibrilasyon veya atr
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Kardiyoversiyon ağrılı mı?" >}}
-Elektriksel kardiyoversiyon sedasyon altında yapılır, bu nedenle ağrı hissedilmez. Uyanınca hafif göğüs rahatsızlığı olabilir.
-{{< /faq >}}
-
-{{< faq question="Kardiyoversiyon ne kadar sürer?" >}}
-İşlemin kendisi birkaç saniye sürer. Hazırlık ve toparlanma dahil toplam 1-2 saat hastanede kalınır.
-{{< /faq >}}
-
-{{< faq question="Kardiyoversiyon sonrası ne zaman işe dönebilirim?" >}}
-Çoğu hasta ertesi gün normal aktivitelerine dönebilir. Sedasyon nedeniyle aynı gün araç kullanılmamalıdır.
-{{< /faq >}}
-
-{{< faq question="Kardiyoversiyon kalıcı mı?" >}}
-Kardiyoversiyon ritmi düzeltir ancak nüks olabilir. Uzun dönem başarı için altta yatan nedenlerin tedavisi önemlidir.
-{{< /faq >}}
-
-{{< faq question="Kardiyoversiyon sonrası ilaç kullanmam gerekir mi?" >}}
-Evet, antikoagülan ve antiaritmik ilaçlar genellikle gereklidir. Süre ve tip doktor tarafından belirlenir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

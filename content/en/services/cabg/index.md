@@ -12,6 +12,17 @@ translationKey: "cabg"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is bypass surgery risky?"
+      answer: "With modern techniques, surgical success is over 95%. Risk varies by patient."
+    - question: "How long will I live after bypass?"
+      answer: "10-year survival is 80-90%. Lifestyle changes are important."
+    - question: "Can I exercise after bypass?"
+      answer: "Yes, regular exercise is recommended after recovery."
+    - question: "How long do bypass grafts last?"
+      answer: "LIMA graft can last 20+ years, saphenous vein graft 10-15 years."
+    - question: "Can I have stent instead of bypass?"
+      answer: "In some patients, yes. Decision is made by heart team."
 ---
 
 Heart bypass surgery is a surgical procedure that provides blood flow to the heart muscle by creating a new vessel pathway around blocked coronary arteries. Assoc. Prof. Dr. Habib Çil has extensive experience in pre and post bypass surgery evaluation.
@@ -117,25 +128,7 @@ Total duration: 3-6 hours
 
 ## Frequently Asked Questions
 
-{{< faq question="Is bypass surgery risky?" >}}
-With modern techniques, surgical success is over 95%. Risk varies by patient.
-{{< /faq >}}
-
-{{< faq question="How long will I live after bypass?" >}}
-10-year survival is 80-90%. Lifestyle changes are important.
-{{< /faq >}}
-
-{{< faq question="Can I exercise after bypass?" >}}
-Yes, regular exercise is recommended after recovery.
-{{< /faq >}}
-
-{{< faq question="How long do bypass grafts last?" >}}
-LIMA graft can last 20+ years, saphenous vein graft 10-15 years.
-{{< /faq >}}
-
-{{< faq question="Can I have stent instead of bypass?" >}}
-In some patients, yes. Decision is made by heart team.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

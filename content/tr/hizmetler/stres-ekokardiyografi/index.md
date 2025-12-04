@@ -12,6 +12,17 @@ translationKey: "stress-echocardiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Stres ekokardiyografi ağrılı mı?"
+      answer: "Hayır, işlem ağrısızdır. Egzersiz sırasında yorgunluk hissedilebilir."
+    - question: "Stres ekokardiyografi ne kadar sürer?"
+      answer: "Toplam işlem süresi 45-60 dakikadır."
+    - question: "Stres ekokardiyografi için aç olmak gerekir mi?"
+      answer: "Evet, işlemden 4 saat önce yemek yenmemelidir."
+    - question: "Egzersiz yapamıyorsam stres ekokardiyografi olabilir miyim?"
+      answer: "Evet, ilaçlı (dobutamin) stres ekokardiyografi yapılabilir."
+    - question: "Stres ekokardiyografi sonucu ne zaman çıkar?"
+      answer: "Sonuçlar işlem sonrasında hemen değerlendirilir."
 ---
 
 Stres ekokardiyografi, egzersiz veya ilaç ile kalp stres altındayken yapılan ekokardiyografik değerlendirmedir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir. Doç. Dr. Habib Çil, stres ekokardiyografi değerlendirmesinde geniş deneyime sahiptir.
@@ -134,25 +145,7 @@ Riskler düşüktür:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Stres ekokardiyografi ağrılı mı?" >}}
-Hayır, işlem ağrısızdır. Egzersiz sırasında yorgunluk hissedilebilir.
-{{< /faq >}}
-
-{{< faq question="Stres ekokardiyografi ne kadar sürer?" >}}
-Toplam işlem süresi 45-60 dakikadır.
-{{< /faq >}}
-
-{{< faq question="Stres ekokardiyografi için aç olmak gerekir mi?" >}}
-Evet, işlemden 4 saat önce yemek yenmemelidir.
-{{< /faq >}}
-
-{{< faq question="Egzersiz yapamıyorsam stres ekokardiyografi olabilir miyim?" >}}
-Evet, ilaçlı (dobutamin) stres ekokardiyografi yapılabilir.
-{{< /faq >}}
-
-{{< faq question="Stres ekokardiyografi sonucu ne zaman çıkar?" >}}
-Sonuçlar işlem sonrasında hemen değerlendirilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

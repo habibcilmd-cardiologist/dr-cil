@@ -12,6 +12,17 @@ translationKey: "mitral-valve"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "What are the symptoms of mitral valve disease?"
+      answer: "Shortness of breath, palpitations, fatigue, and leg swelling are the main symptoms."
+    - question: "How is mitral stenosis treated?"
+      answer: "Balloon valvuloplasty in suitable patients, surgical treatment in others."
+    - question: "What is MitraClip?"
+      answer: "MitraClip is a clip treatment applied via catheter in severe mitral regurgitation."
+    - question: "Can I exercise with mitral valve disease?"
+      answer: "In mild disease, yes. Heavy exercise should be restricted in severe disease."
+    - question: "What is life like after mitral valve surgery?"
+      answer: "After successful treatment, you can return to normal life. Regular follow-up is required."
 ---
 
 Mitral valve disease is dysfunction of the valve between the left atrium and left ventricle. It has two main forms: mitral stenosis and mitral regurgitation. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating mitral valve diseases.
@@ -142,25 +153,7 @@ The mitral valve regulates blood flow from the left atrium to the left ventricle
 
 ## Frequently Asked Questions
 
-{{< faq question="What are the symptoms of mitral valve disease?" >}}
-Shortness of breath, palpitations, fatigue, and leg swelling are the main symptoms.
-{{< /faq >}}
-
-{{< faq question="How is mitral stenosis treated?" >}}
-Balloon valvuloplasty in suitable patients, surgical treatment in others.
-{{< /faq >}}
-
-{{< faq question="What is MitraClip?" >}}
-MitraClip is a clip treatment applied via catheter in severe mitral regurgitation.
-{{< /faq >}}
-
-{{< faq question="Can I exercise with mitral valve disease?" >}}
-In mild disease, yes. Heavy exercise should be restricted in severe disease.
-{{< /faq >}}
-
-{{< faq question="What is life like after mitral valve surgery?" >}}
-After successful treatment, you can return to normal life. Regular follow-up is required.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

@@ -12,6 +12,17 @@ translationKey: "lower-extremity-arterial-disease"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Yürürken bacak ağrısı neden olur?"
+      answer: "Bacak arterlerinin daralması nedeniyle kaslar yeterli kan alamaz ve ağrı oluşur."
+    - question: "Periferik arter hastalığı tedavi edilebilir mi?"
+      answer: "Evet, medikal tedavi, endovasküler girişim veya cerrahi ile tedavi edilebilir."
+    - question: "Stent sonrası yürüme mesafesi artar mı?"
+      answer: "Evet, başarılı tedavi sonrası yürüme mesafesi belirgin şekilde artar."
+    - question: "Kritik bacak iskemisi nedir?"
+      answer: "İstirahat ağrısı, yara veya gangren ile karakterize ileri evre hastalıktır."
+    - question: "Sigara bırakılmalı mı?"
+      answer: "Evet, sigara hastalığın en önemli nedenidir ve tedavi başarısını etkiler."
 ---
 
 Alt ekstremite arter hastalığı (AEAH), bacak arterlerinin ateroskleroz nedeniyle daralmasıdır. Yürüme ağrısı ve ileri evrelerde gangrene yol açabilir. Doç. Dr. Habib Çil, alt ekstremite arter hastalığı tanı ve tedavisinde geniş deneyime sahiptir.
@@ -131,25 +142,7 @@ Alt ekstremite arter hastalığı, bacak arterlerinin aterosklerotik plak biriki
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Yürürken bacak ağrısı neden olur?" >}}
-Bacak arterlerinin daralması nedeniyle kaslar yeterli kan alamaz ve ağrı oluşur.
-{{< /faq >}}
-
-{{< faq question="Periferik arter hastalığı tedavi edilebilir mi?" >}}
-Evet, medikal tedavi, endovasküler girişim veya cerrahi ile tedavi edilebilir.
-{{< /faq >}}
-
-{{< faq question="Stent sonrası yürüme mesafesi artar mı?" >}}
-Evet, başarılı tedavi sonrası yürüme mesafesi belirgin şekilde artar.
-{{< /faq >}}
-
-{{< faq question="Kritik bacak iskemisi nedir?" >}}
-İstirahat ağrısı, yara veya gangren ile karakterize ileri evre hastalıktır.
-{{< /faq >}}
-
-{{< faq question="Sigara bırakılmalı mı?" >}}
-Evet, sigara hastalığın en önemli nedenidir ve tedavi başarısını etkiler.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

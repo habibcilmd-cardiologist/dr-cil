@@ -12,6 +12,17 @@ translationKey: "aortic-valve-disease"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Aort darlığı tehlikeli mi?"
+      answer: "Ciddi aort darlığı tedavi edilmezse ölümcül olabilir. Erken tanı ve tedavi önemlidir."
+    - question: "Aort kapak hastalığı belirtileri nelerdir?"
+      answer: "Göğüs ağrısı, nefes darlığı, bayılma ve yorgunluk başlıca belirtilerdir."
+    - question: "TAVI nedir?"
+      answer: "TAVI, açık kalp cerrahisi olmadan kateter yoluyla aort kapağı değiştirilmesidir."
+    - question: "Aort kapak hastalığında spor yapılabilir mi?"
+      answer: "Hafif hastalıkta evet. Ciddi hastalıkta ağır egzersiz kısıtlanmalıdır."
+    - question: "Aort kapak ameliyatı sonrası yaşam nasıl?"
+      answer: "Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir."
 ---
 
 Aort kapak hastalığı, kalbin sol ventrikülü ile aort arasındaki kapağın işlev bozukluğudur. Aort darlığı (stenoz) ve aort yetersizliği (regürjitasyon) olmak üzere iki ana formu vardır. Doç. Dr. Habib Çil, aort kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
@@ -131,25 +142,7 @@ Tedavi kararı şunlara bağlıdır:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Aort darlığı tehlikeli mi?" >}}
-Ciddi aort darlığı tedavi edilmezse ölümcül olabilir. Erken tanı ve tedavi önemlidir.
-{{< /faq >}}
-
-{{< faq question="Aort kapak hastalığı belirtileri nelerdir?" >}}
-Göğüs ağrısı, nefes darlığı, bayılma ve yorgunluk başlıca belirtilerdir.
-{{< /faq >}}
-
-{{< faq question="TAVI nedir?" >}}
-TAVI, açık kalp cerrahisi olmadan kateter yoluyla aort kapağı değiştirilmesidir.
-{{< /faq >}}
-
-{{< faq question="Aort kapak hastalığında spor yapılabilir mi?" >}}
-Hafif hastalıkta evet. Ciddi hastalıkta ağır egzersiz kısıtlanmalıdır.
-{{< /faq >}}
-
-{{< faq question="Aort kapak ameliyatı sonrası yaşam nasıl?" >}}
-Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

@@ -12,6 +12,17 @@ translationKey: "tricuspid-valve"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is tricuspid regurgitation dangerous?"
+      answer: "Severe tricuspid regurgitation can lead to right heart failure. Treatment is important."
+    - question: "What are the symptoms of tricuspid valve disease?"
+      answer: "Leg swelling, abdominal swelling, fatigue, and shortness of breath are the main symptoms."
+    - question: "How is tricuspid regurgitation treated?"
+      answer: "Medical treatment, surgical repair or replacement, transcatheter interventions can be applied."
+    - question: "Is tricuspid valve surgery risky?"
+      answer: "Isolated tricuspid surgery is high risk. Therefore, transcatheter treatments are being developed."
+    - question: "Can tricuspid regurgitation resolve on its own?"
+      answer: "Functional regurgitation may decrease if the underlying cause is treated."
 ---
 
 Tricuspid valve disease is dysfunction of the valve between the right atrium and right ventricle. Tricuspid regurgitation is most common. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating tricuspid valve diseases.
@@ -132,25 +143,7 @@ Treatment decision depends on:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is tricuspid regurgitation dangerous?" >}}
-Severe tricuspid regurgitation can lead to right heart failure. Treatment is important.
-{{< /faq >}}
-
-{{< faq question="What are the symptoms of tricuspid valve disease?" >}}
-Leg swelling, abdominal swelling, fatigue, and shortness of breath are the main symptoms.
-{{< /faq >}}
-
-{{< faq question="How is tricuspid regurgitation treated?" >}}
-Medical treatment, surgical repair or replacement, transcatheter interventions can be applied.
-{{< /faq >}}
-
-{{< faq question="Is tricuspid valve surgery risky?" >}}
-Isolated tricuspid surgery is high risk. Therefore, transcatheter treatments are being developed.
-{{< /faq >}}
-
-{{< faq question="Can tricuspid regurgitation resolve on its own?" >}}
-Functional regurgitation may decrease if the underlying cause is treated.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

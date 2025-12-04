@@ -12,6 +12,17 @@ translationKey: "hypertension"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Do I have to take hypertension medications for life?"
+      answer: "In most patients, yes. Hypertension is a chronic condition, and medications don't cure the disease but keep it under control. However, with lifestyle changes, medication doses may be reduced in some patients, or discontinuation may be attempted in simple cases."
+    - question: "Can I stop medication after my blood pressure becomes normal?"
+      answer: "No, this is a very dangerous approach. Your blood pressure is normal because of the medication. When you stop the medication, your blood pressure will rise again. Always consult your doctor before making any changes."
+    - question: "Do blood pressure medications have side effects?"
+      answer: "Like any medication, antihypertensive drugs can have side effects. However, modern medications are generally well-tolerated. Share any problems you experience with your doctor; alternative medication options can be evaluated."
+    - question: "Should I measure blood pressure at home?"
+      answer: "Yes, regular home monitoring is very valuable. Home measurements taken with proper technique are helpful in evaluating treatment effectiveness. Upper arm digital blood pressure monitors are preferred."
+    - question: "How much does stress affect blood pressure?"
+      answer: "Stress can cause temporary blood pressure elevations. However, chronic stress can contribute to the development of permanent hypertension. Stress management is an important part of treatment."
 ---
 
 Hypertension, medically known as arterial hypertension and commonly called "high blood pressure," is a chronic health condition affecting millions worldwide. In Turkey, approximately 30% of the adult population has hypertension, with a significant portion remaining undiagnosed or inadequately treated. Known as the silent killer, this condition can lead to serious complications such as heart attack, stroke, kidney failure, and vision loss if not properly controlled.
@@ -181,25 +192,7 @@ Uncontrolled hypertension causes damage to multiple organs over time:
 
 ## Frequently Asked Questions
 
-{{< faq question="Do I have to take hypertension medications for life?" >}}
-In most patients, yes. Hypertension is a chronic condition, and medications don't cure the disease but keep it under control. However, with lifestyle changes, medication doses may be reduced in some patients, or discontinuation may be attempted in simple cases.
-{{< /faq >}}
-
-{{< faq question="Can I stop medication after my blood pressure becomes normal?" >}}
-No, this is a very dangerous approach. Your blood pressure is normal because of the medication. When you stop the medication, your blood pressure will rise again. Always consult your doctor before making any changes.
-{{< /faq >}}
-
-{{< faq question="Do blood pressure medications have side effects?" >}}
-Like any medication, antihypertensive drugs can have side effects. However, modern medications are generally well-tolerated. Share any problems you experience with your doctor; alternative medication options can be evaluated.
-{{< /faq >}}
-
-{{< faq question="Should I measure blood pressure at home?" >}}
-Yes, regular home monitoring is very valuable. Home measurements taken with proper technique are helpful in evaluating treatment effectiveness. Upper arm digital blood pressure monitors are preferred.
-{{< /faq >}}
-
-{{< faq question="How much does stress affect blood pressure?" >}}
-Stress can cause temporary blood pressure elevations. However, chronic stress can contribute to the development of permanent hypertension. Stress management is an important part of treatment.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

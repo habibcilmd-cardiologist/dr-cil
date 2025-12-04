@@ -12,6 +12,17 @@ translationKey: "pci"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "PCI ameliyat mı?"
+      answer: "Hayır, açık cerrahi değildir. Kateter yoluyla yapılan minimal invaziv bir işlemdir."
+    - question: "PCI sonrası ne kadar hastanede kalırım?"
+      answer: "Elektif işlemlerde genellikle 1-2 gün, acil işlemlerde daha uzun kalış gerekebilir."
+    - question: "PCI bypass cerrahisine alternatif mi?"
+      answer: "Bazı hastalarda evet. Karar hastaya özel değerlendirme ile verilir."
+    - question: "PCI sonrası normal yaşama ne zaman dönebilirim?"
+      answer: "Genellikle 1-2 hafta içinde normal aktivitelere dönülebilir."
+    - question: "PCI tekrarlanabilir mi?"
+      answer: "Evet, gerekirse farklı damarlara veya aynı damara tekrar PCI yapılabilir."
 ---
 
 PCI (Perkütan Koroner Girişim), koroner arter hastalığının kateter yoluyla tedavisidir. Balon anjiyoplasti ve stent implantasyonunu kapsar. Doç. Dr. Habib Çil, PCI işleminde geniş deneyime sahiptir.
@@ -125,25 +136,7 @@ Toplam süre: 30-120 dakika
 
 ## Sık Sorulan Sorular
 
-{{< faq question="PCI ameliyat mı?" >}}
-Hayır, açık cerrahi değildir. Kateter yoluyla yapılan minimal invaziv bir işlemdir.
-{{< /faq >}}
-
-{{< faq question="PCI sonrası ne kadar hastanede kalırım?" >}}
-Elektif işlemlerde genellikle 1-2 gün, acil işlemlerde daha uzun kalış gerekebilir.
-{{< /faq >}}
-
-{{< faq question="PCI bypass cerrahisine alternatif mi?" >}}
-Bazı hastalarda evet. Karar hastaya özel değerlendirme ile verilir.
-{{< /faq >}}
-
-{{< faq question="PCI sonrası normal yaşama ne zaman dönebilirim?" >}}
-Genellikle 1-2 hafta içinde normal aktivitelere dönülebilir.
-{{< /faq >}}
-
-{{< faq question="PCI tekrarlanabilir mi?" >}}
-Evet, gerekirse farklı damarlara veya aynı damara tekrar PCI yapılabilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

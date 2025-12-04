@@ -12,6 +12,17 @@ translationKey: "atherectomy"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "When is atherectomy needed?"
+      answer: "It is needed in severely calcified lesions, lesions that cannot be crossed with balloon, or when stent expansion is inadequate."
+    - question: "Is atherectomy painful?"
+      answer: "No, it is performed under local anesthesia and no pain is felt."
+    - question: "Is stent needed after atherectomy?"
+      answer: "In most cases, a stent is placed after atherectomy."
+    - question: "What are the risks of atherectomy?"
+      answer: "Complications such as distal embolization, perforation, and slow flow are rare."
+    - question: "How long is recovery after atherectomy?"
+      answer: "Usually 1-2 days hospital stay is sufficient."
 ---
 
 Atherectomy is mechanical removal of atherosclerotic plaque from inside the vessel. It is used especially in calcified lesions and situations where stent placement is difficult. Assoc. Prof. Dr. Habib Çil has extensive experience in atherectomy procedures.
@@ -118,25 +129,7 @@ Total duration: 1-3 hours
 
 ## Frequently Asked Questions
 
-{{< faq question="When is atherectomy needed?" >}}
-It is needed in severely calcified lesions, lesions that cannot be crossed with balloon, or when stent expansion is inadequate.
-{{< /faq >}}
-
-{{< faq question="Is atherectomy painful?" >}}
-No, it is performed under local anesthesia and no pain is felt.
-{{< /faq >}}
-
-{{< faq question="Is stent needed after atherectomy?" >}}
-In most cases, a stent is placed after atherectomy.
-{{< /faq >}}
-
-{{< faq question="What are the risks of atherectomy?" >}}
-Complications such as distal embolization, perforation, and slow flow are rare.
-{{< /faq >}}
-
-{{< faq question="How long is recovery after atherectomy?" >}}
-Usually 1-2 days hospital stay is sufficient.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

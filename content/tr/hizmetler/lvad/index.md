@@ -12,6 +12,17 @@ translationKey: "lvad"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "LVAD ile normal yaşam mümkün mü?"
+      answer: "Evet, birçok hasta günlük aktivitelerini sürdürebilir."
+    - question: "LVAD bataryaları ne kadar dayanır?"
+      answer: "Bataryalar genellikle 10-12 saat dayanır ve değiştirilebilir."
+    - question: "LVAD ile yüzebilir miyim?"
+      answer: "Hayır, cihaz suya dayanıklı değildir."
+    - question: "LVAD kalıcı mı?"
+      answer: "Köprü tedavisinde geçici, hedef tedavide kalıcıdır."
+    - question: "LVAD sonrası MR çekilebilir mi?"
+      answer: "Hayır, LVAD MR uyumlu değildir."
 ---
 
 LVAD (Sol Ventrikül Destek Cihazı), ileri kalp yetmezliğinde kalbin pompalama fonksiyonunu destekleyen mekanik cihazdır. Doç. Dr. Habib Çil, LVAD hastalarının takibinde geniş deneyime sahiptir.
@@ -127,25 +138,7 @@ Toplam süre: 4-6 saat
 
 ## Sık Sorulan Sorular
 
-{{< faq question="LVAD ile normal yaşam mümkün mü?" >}}
-Evet, birçok hasta günlük aktivitelerini sürdürebilir.
-{{< /faq >}}
-
-{{< faq question="LVAD bataryaları ne kadar dayanır?" >}}
-Bataryalar genellikle 10-12 saat dayanır ve değiştirilebilir.
-{{< /faq >}}
-
-{{< faq question="LVAD ile yüzebilir miyim?" >}}
-Hayır, cihaz suya dayanıklı değildir.
-{{< /faq >}}
-
-{{< faq question="LVAD kalıcı mı?" >}}
-Köprü tedavisinde geçici, hedef tedavide kalıcıdır.
-{{< /faq >}}
-
-{{< faq question="LVAD sonrası MR çekilebilir mi?" >}}
-Hayır, LVAD MR uyumlu değildir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

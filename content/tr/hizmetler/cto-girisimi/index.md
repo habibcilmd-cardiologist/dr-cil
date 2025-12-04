@@ -12,6 +12,17 @@ translationKey: "cto-intervention"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "CTO girişimi bypass ameliyatından daha mı iyi?"
+      answer: "Her iki tedavinin de avantajları vardır. CTO girişimi minimal invazivdir ve iyileşme süresi kısadır. Ancak çok damar hastalığı veya kompleks anatomide bypass daha uygun olabilir. Karar bireysel değerlendirmeye göre verilir."
+    - question: "CTO girişimi ne kadar sürer?"
+      answer: "CTO girişimi standart anjiyoplastiden daha uzun sürer. Tipik bir işlem 1-3 saat arasında değişir, kompleks vakalarda daha uzun olabilir."
+    - question: "CTO girişimi başarısız olursa ne olur?"
+      answer: "Başarısız girişim sonrası hasta genellikle medikal tedavi ile takip edilir. Bazı vakalarda ikinci bir girişim denenebilir veya bypass cerrahisi değerlendirilebilir."
+    - question: "CTO girişimi sonrası iyileşme süresi ne kadar?"
+      answer: "Çoğu hasta 1-2 gün içinde taburcu olur ve 1 hafta içinde normal aktivitelerine dönebilir. Tam iyileşme 2-4 hafta sürer."
+    - question: "Her CTO açılabilir mi?"
+      answer: "Hayır, bazı CTO'lar anatomik veya teknik nedenlerle açılamayabilir. Ancak deneyimli operatörler ve modern tekniklerle başarı oranları %90'ın üzerine çıkmıştır."
 ---
 
 Kronik total oklüzyon (CTO), koroner arterin en az 3 aydır tamamen tıkalı olması durumudur. CTO girişimi, bu tıkalı damarların özel tekniklerle açılmasını sağlayan ileri düzey bir kardiyolojik işlemdir. Doç. Dr. Habib Çil, CTO alanında uzmanlaşmış deneyimli bir operatör olarak, daha önce "açılamaz" denilen birçok vakayı başarıyla tedavi etmiştir.
@@ -196,25 +207,7 @@ CTO girişimi, girişimsel kardiyolojinin en zorlu alanlarından biridir. Bu ala
 
 ## Sık Sorulan Sorular
 
-{{< faq question="CTO girişimi bypass ameliyatından daha mı iyi?" >}}
-Her iki tedavinin de avantajları vardır. CTO girişimi minimal invazivdir ve iyileşme süresi kısadır. Ancak çok damar hastalığı veya kompleks anatomide bypass daha uygun olabilir. Karar bireysel değerlendirmeye göre verilir.
-{{< /faq >}}
-
-{{< faq question="CTO girişimi ne kadar sürer?" >}}
-CTO girişimi standart anjiyoplastiden daha uzun sürer. Tipik bir işlem 1-3 saat arasında değişir, kompleks vakalarda daha uzun olabilir.
-{{< /faq >}}
-
-{{< faq question="CTO girişimi başarısız olursa ne olur?" >}}
-Başarısız girişim sonrası hasta genellikle medikal tedavi ile takip edilir. Bazı vakalarda ikinci bir girişim denenebilir veya bypass cerrahisi değerlendirilebilir.
-{{< /faq >}}
-
-{{< faq question="CTO girişimi sonrası iyileşme süresi ne kadar?" >}}
-Çoğu hasta 1-2 gün içinde taburcu olur ve 1 hafta içinde normal aktivitelerine dönebilir. Tam iyileşme 2-4 hafta sürer.
-{{< /faq >}}
-
-{{< faq question="Her CTO açılabilir mi?" >}}
-Hayır, bazı CTO'lar anatomik veya teknik nedenlerle açılamayabilir. Ancak deneyimli operatörler ve modern tekniklerle başarı oranları %90'ın üzerine çıkmıştır.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

@@ -12,6 +12,17 @@ translationKey: "abdominal-aortic-aneurysm"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Abdominal aort anevrizması tehlikeli mi?"
+      answer: "Evet, rüptür riski nedeniyle hayatı tehdit edebilir. Düzenli takip ve uygun zamanda tedavi önemlidir."
+    - question: "Anevrizma belirtileri nelerdir?"
+      answer: "Çoğu anevrizma belirti vermez. Karın ağrısı, sırt ağrısı veya nabız hissi olabilir."
+    - question: "EVAR nedir?"
+      answer: "EVAR, kasıktan girilerek stent-greft yerleştirilen minimal invaziv anevrizma onarımıdır."
+    - question: "Anevrizma ne zaman tedavi edilmeli?"
+      answer: "Genellikle 5.5 cm üzerinde veya hızlı büyüyen anevrizmalarda tedavi önerilir."
+    - question: "Anevrizma tedavisi sonrası yaşam nasıl?"
+      answer: "Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir."
 ---
 
 Abdominal aort anevrizması (AAA), karın bölgesindeki aortun anormal genişlemesidir. Rüptür riski nedeniyle hayatı tehdit edebilen ciddi bir durumdur. Doç. Dr. Habib Çil, abdominal aort anevrizması tanı ve tedavisinde geniş deneyime sahiptir.
@@ -117,25 +128,7 @@ Tedavi kararı şunlara bağlıdır:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Abdominal aort anevrizması tehlikeli mi?" >}}
-Evet, rüptür riski nedeniyle hayatı tehdit edebilir. Düzenli takip ve uygun zamanda tedavi önemlidir.
-{{< /faq >}}
-
-{{< faq question="Anevrizma belirtileri nelerdir?" >}}
-Çoğu anevrizma belirti vermez. Karın ağrısı, sırt ağrısı veya nabız hissi olabilir.
-{{< /faq >}}
-
-{{< faq question="EVAR nedir?" >}}
-EVAR, kasıktan girilerek stent-greft yerleştirilen minimal invaziv anevrizma onarımıdır.
-{{< /faq >}}
-
-{{< faq question="Anevrizma ne zaman tedavi edilmeli?" >}}
-Genellikle 5.5 cm üzerinde veya hızlı büyüyen anevrizmalarda tedavi önerilir.
-{{< /faq >}}
-
-{{< faq question="Anevrizma tedavisi sonrası yaşam nasıl?" >}}
-Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

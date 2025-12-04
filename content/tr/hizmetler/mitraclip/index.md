@@ -12,6 +12,17 @@ translationKey: "mitraclip"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "MitraClip ameliyat mı?"
+      answer: "Hayır, açık kalp cerrahisi değildir. Kateter yoluyla yapılan minimal invaziv bir işlemdir."
+    - question: "MitraClip sonrası iyileşme süresi ne kadar?"
+      answer: "Genellikle 1-3 gün hastanede kalış yeterlidir. 1-2 hafta içinde normal aktivitelere dönülebilir."
+    - question: "MitraClip kalıcı mı?"
+      answer: "Evet, klip kalıcıdır. Uzun dönem sonuçlar olumludur."
+    - question: "MitraClip için uygun muyum?"
+      answer: "Kapak anatomisi ve genel durum değerlendirilerek karar verilir."
+    - question: "MitraClip sonrası kan sulandırıcı kullanmam gerekir mi?"
+      answer: "Duruma göre değişir. Doktorunuz size uygun tedaviyi belirleyecektir."
 ---
 
 MitraClip, ciddi mitral yetersizliğinin kateter yoluyla tedavi edilmesidir. Açık kalp cerrahisine alternatif minimal invaziv bir yöntemdir. Doç. Dr. Habib Çil, MitraClip işleminde geniş deneyime sahiptir.
@@ -131,25 +142,7 @@ Komplikasyonlar nadirdir:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="MitraClip ameliyat mı?" >}}
-Hayır, açık kalp cerrahisi değildir. Kateter yoluyla yapılan minimal invaziv bir işlemdir.
-{{< /faq >}}
-
-{{< faq question="MitraClip sonrası iyileşme süresi ne kadar?" >}}
-Genellikle 1-3 gün hastanede kalış yeterlidir. 1-2 hafta içinde normal aktivitelere dönülebilir.
-{{< /faq >}}
-
-{{< faq question="MitraClip kalıcı mı?" >}}
-Evet, klip kalıcıdır. Uzun dönem sonuçlar olumludur.
-{{< /faq >}}
-
-{{< faq question="MitraClip için uygun muyum?" >}}
-Kapak anatomisi ve genel durum değerlendirilerek karar verilir.
-{{< /faq >}}
-
-{{< faq question="MitraClip sonrası kan sulandırıcı kullanmam gerekir mi?" >}}
-Duruma göre değişir. Doktorunuz size uygun tedaviyi belirleyecektir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

@@ -12,6 +12,17 @@ translationKey: "exercise-stress-test"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is exercise stress test dangerous?"
+      answer: "It is safe when performed in a controlled environment. Experienced team and emergency intervention equipment are kept ready."
+    - question: "How long does exercise stress test take?"
+      answer: "Total duration including exercise and recovery is 15-30 minutes."
+    - question: "Do I need to fast for exercise stress test?"
+      answer: "Complete fasting is not required, but heavy meals should be avoided 3 hours before the test."
+    - question: "When do exercise stress test results come out?"
+      answer: "Results are evaluated and explained immediately after the test."
+    - question: "Can another test be done instead of exercise stress test?"
+      answer: "Pharmacological stress test or stress echocardiography can be performed in patients who cannot exercise."
 ---
 
 Exercise stress test is an important diagnostic method that evaluates the heart's performance during exercise. It is widely used in detecting coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in exercise stress test evaluation.
@@ -143,25 +154,7 @@ Risks are low but may include:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is exercise stress test dangerous?" >}}
-It is safe when performed in a controlled environment. Experienced team and emergency intervention equipment are kept ready.
-{{< /faq >}}
-
-{{< faq question="How long does exercise stress test take?" >}}
-Total duration including exercise and recovery is 15-30 minutes.
-{{< /faq >}}
-
-{{< faq question="Do I need to fast for exercise stress test?" >}}
-Complete fasting is not required, but heavy meals should be avoided 3 hours before the test.
-{{< /faq >}}
-
-{{< faq question="When do exercise stress test results come out?" >}}
-Results are evaluated and explained immediately after the test.
-{{< /faq >}}
-
-{{< faq question="Can another test be done instead of exercise stress test?" >}}
-Pharmacological stress test or stress echocardiography can be performed in patients who cannot exercise.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

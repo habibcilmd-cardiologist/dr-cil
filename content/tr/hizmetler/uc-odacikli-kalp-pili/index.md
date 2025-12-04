@@ -12,6 +12,17 @@ translationKey: "crt-pacemaker"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "CRT kalp yetmezliğini iyileştirir mi?"
+      answer: "CRT, kalp yetmezliği semptomlarını önemli ölçüde azaltır ve yaşam kalitesini artırır. Bazı hastalarda kalp fonksiyonları normale yakın düzeye gelebilir."
+    - question: "CRT takılması ağrılı mı?"
+      answer: "İşlem lokal anestezi altında yapılır. İşlem sırasında ağrı hissedilmez. İşlem sonrası hafif rahatsızlık olabilir."
+    - question: "CRT pili ne kadar süre çalışır?"
+      answer: "CRT pilleri genellikle 5-8 yıl çalışır. Pil bittiğinde sadece jeneratör değiştirilir."
+    - question: "CRT'ye yanıt vermezse ne olur?"
+      answer: "Hastaların yaklaşık %30'u CRT'ye yeterli yanıt vermeyebilir. Bu durumda optimizasyon, elektrot revizyonu veya alternatif tedaviler değerlendirilebilir."
+    - question: "CRT ile normal yaşam sürdürebilir miyim?"
+      answer: "Evet, CRT ile normal günlük aktivitelerinizi sürdürebilirsiniz. Hatta egzersiz kapasiteniz artabilir."
 ---
 
 Kardiyak resenkronizasyon tedavisi (CRT), kalp yetmezliği hastalarında kalbin senkronize çalışmasını sağlayan ileri bir tedavi yöntemidir. Üç odacıklı kalp pili olarak da bilinen CRT, kalbin her iki ventrikülünü aynı anda uyararak pompalama fonksiyonunu iyileştirir. Doç. Dr. Habib Çil, CRT implantasyonunda geniş deneyime sahiptir.
@@ -136,25 +147,7 @@ CRT'nin maksimum fayda sağlaması için optimizasyon gerekebilir:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="CRT kalp yetmezliğini iyileştirir mi?" >}}
-CRT, kalp yetmezliği semptomlarını önemli ölçüde azaltır ve yaşam kalitesini artırır. Bazı hastalarda kalp fonksiyonları normale yakın düzeye gelebilir.
-{{< /faq >}}
-
-{{< faq question="CRT takılması ağrılı mı?" >}}
-İşlem lokal anestezi altında yapılır. İşlem sırasında ağrı hissedilmez. İşlem sonrası hafif rahatsızlık olabilir.
-{{< /faq >}}
-
-{{< faq question="CRT pili ne kadar süre çalışır?" >}}
-CRT pilleri genellikle 5-8 yıl çalışır. Pil bittiğinde sadece jeneratör değiştirilir.
-{{< /faq >}}
-
-{{< faq question="CRT'ye yanıt vermezse ne olur?" >}}
-Hastaların yaklaşık %30'u CRT'ye yeterli yanıt vermeyebilir. Bu durumda optimizasyon, elektrot revizyonu veya alternatif tedaviler değerlendirilebilir.
-{{< /faq >}}
-
-{{< faq question="CRT ile normal yaşam sürdürebilir miyim?" >}}
-Evet, CRT ile normal günlük aktivitelerinizi sürdürebilirsiniz. Hatta egzersiz kapasiteniz artabilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

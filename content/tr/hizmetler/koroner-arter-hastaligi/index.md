@@ -12,6 +12,17 @@ translationKey: "coronary-artery-disease"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Koroner arter hastalığı tamamen iyileşir mi?"
+      answer: "Ateroskleroz geri dönüşümsüz bir süreçtir, ancak uygun tedavi ile hastalığın ilerlemesi durdurulabilir ve hatta bazı durumlarda plaklar küçülebilir. Yaşam tarzı değişiklikleri ve ilaç tedavisi ile hastaların büyük çoğunluğu normal yaşamlarına devam edebilir."
+    - question: "Stent sonrası ne kadar süre ilaç kullanmalıyım?"
+      answer: "Stent sonrası ikili antiplatelet tedavi (aspirin + P2Y12 inhibitörü) genellikle 6-12 ay sürer. Aspirin ise ömür boyu kullanılmalıdır. Tedavi süresi bireysel risk değerlendirmesine göre ayarlanır."
+    - question: "Stent takıldıktan sonra normal yaşama dönebilir miyim?"
+      answer: "Evet, çoğu hasta stent sonrası birkaç gün içinde normal aktivitelerine dönebilir. Ağır fiziksel aktiviteler için 1-2 hafta beklenmesi önerilir. Kardiyak rehabilitasyon programı iyileşmeyi hızlandırır."
+    - question: "Stent tekrar tıkanabilir mi?"
+      answer: "Modern ilaç salınımlı stentlerde yeniden daralma (restenoz) oranı %5'in altındadır. Ancak ilaç uyumu ve risk faktörlerinin kontrolü bu oranı daha da düşürür."
+    - question: "Bypass mı stent mi daha iyi?"
+      answer: "Her iki tedavinin de avantajları vardır. Karar, hastanın anatomisi, eşlik eden hastalıkları ve tercihleri göz önünde bulundurularak \"Kalp Takımı\" tarafından verilir."
 ---
 
 Koroner arter hastalığı (KAH), dünya genelinde kalp hastalıklarından ölümlerin birincil nedenidir. Kalbi besleyen koroner arterlerin daralması veya tıkanması sonucu gelişen bu durum, her yıl milyonlarca insanı etkilemektedir. Türkiye'de kardiyovasküler hastalıklar ölüm nedenlerinin başında gelmekte olup, koroner arter hastalığı bunların büyük bölümünü oluşturmaktadır. Erken tanı ve uygun tedavi ile bu hastalık kontrol altına alınabilir ve hastaların yaşam kalitesi önemli ölçüde artırılabilir.
@@ -213,25 +224,7 @@ Koroner arter hastalığı kronik bir durumdur ve ömür boyu takip gerektirir:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Koroner arter hastalığı tamamen iyileşir mi?" >}}
-Ateroskleroz geri dönüşümsüz bir süreçtir, ancak uygun tedavi ile hastalığın ilerlemesi durdurulabilir ve hatta bazı durumlarda plaklar küçülebilir. Yaşam tarzı değişiklikleri ve ilaç tedavisi ile hastaların büyük çoğunluğu normal yaşamlarına devam edebilir.
-{{< /faq >}}
-
-{{< faq question="Stent sonrası ne kadar süre ilaç kullanmalıyım?" >}}
-Stent sonrası ikili antiplatelet tedavi (aspirin + P2Y12 inhibitörü) genellikle 6-12 ay sürer. Aspirin ise ömür boyu kullanılmalıdır. Tedavi süresi bireysel risk değerlendirmesine göre ayarlanır.
-{{< /faq >}}
-
-{{< faq question="Stent takıldıktan sonra normal yaşama dönebilir miyim?" >}}
-Evet, çoğu hasta stent sonrası birkaç gün içinde normal aktivitelerine dönebilir. Ağır fiziksel aktiviteler için 1-2 hafta beklenmesi önerilir. Kardiyak rehabilitasyon programı iyileşmeyi hızlandırır.
-{{< /faq >}}
-
-{{< faq question="Stent tekrar tıkanabilir mi?" >}}
-Modern ilaç salınımlı stentlerde yeniden daralma (restenoz) oranı %5'in altındadır. Ancak ilaç uyumu ve risk faktörlerinin kontrolü bu oranı daha da düşürür.
-{{< /faq >}}
-
-{{< faq question="Bypass mı stent mi daha iyi?" >}}
-Her iki tedavinin de avantajları vardır. Karar, hastanın anatomisi, eşlik eden hastalıkları ve tercihleri göz önünde bulundurularak "Kalp Takımı" tarafından verilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

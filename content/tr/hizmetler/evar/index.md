@@ -12,6 +12,17 @@ translationKey: "evar"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "EVAR ameliyat mı?"
+      answer: "Hayır, açık cerrahi değildir. Kasıktan girilerek yapılan minimal invaziv bir işlemdir."
+    - question: "EVAR sonrası iyileşme süresi ne kadar?"
+      answer: "Genellikle 2-3 gün hastanede kalış yeterlidir. 2-4 hafta içinde normal aktivitelere dönülebilir."
+    - question: "EVAR kalıcı mı?"
+      answer: "Evet, stent-greft kalıcıdır. Düzenli takip gerekir."
+    - question: "EVAR için uygun muyum?"
+      answer: "Aort anatomisi değerlendirilerek karar verilir. BT anjiyografi gereklidir."
+    - question: "EVAR sonrası MR çekilebilir mi?"
+      answer: "Çoğu modern stent-greft MR uyumludur. Doktorunuza danışın."
 ---
 
 EVAR (Endovasküler Anevrizma Onarımı), abdominal aort anevrizmasının kateter yoluyla tedavi edilmesidir. Açık cerrahiye alternatif minimal invaziv bir yöntemdir. Doç. Dr. Habib Çil, EVAR işleminde geniş deneyime sahiptir.
@@ -121,25 +132,7 @@ Toplam süre: 1-3 saat
 
 ## Sık Sorulan Sorular
 
-{{< faq question="EVAR ameliyat mı?" >}}
-Hayır, açık cerrahi değildir. Kasıktan girilerek yapılan minimal invaziv bir işlemdir.
-{{< /faq >}}
-
-{{< faq question="EVAR sonrası iyileşme süresi ne kadar?" >}}
-Genellikle 2-3 gün hastanede kalış yeterlidir. 2-4 hafta içinde normal aktivitelere dönülebilir.
-{{< /faq >}}
-
-{{< faq question="EVAR kalıcı mı?" >}}
-Evet, stent-greft kalıcıdır. Düzenli takip gerekir.
-{{< /faq >}}
-
-{{< faq question="EVAR için uygun muyum?" >}}
-Aort anatomisi değerlendirilerek karar verilir. BT anjiyografi gereklidir.
-{{< /faq >}}
-
-{{< faq question="EVAR sonrası MR çekilebilir mi?" >}}
-Çoğu modern stent-greft MR uyumludur. Doktorunuza danışın.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

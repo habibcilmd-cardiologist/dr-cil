@@ -12,6 +12,17 @@ translationKey: "ekg"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is an ECG painful?"
+      answer: "No, an ECG is a completely painless procedure. Only electrodes need to be attached to the skin."
+    - question: "Is preparation required for an ECG?"
+      answer: "No special preparation is required. However, comfortable clothing may be preferred as the chest area needs to be exposed."
+    - question: "When do ECG results come out?"
+      answer: "ECG results are evaluated and interpreted immediately."
+    - question: "Does a normal ECG mean no heart disease?"
+      answer: "A normal ECG is an important finding, but some heart diseases may not be visible on ECG. Additional tests may be needed."
+    - question: "How often should an ECG be done?"
+      answer: "Determined by the doctor based on symptoms, risk factors, and existing diseases."
 ---
 
 Electrocardiography (ECG/EKG) is a simple, painless, and quick diagnostic method that records the heart's electrical activity. It is one of the most commonly used tests in cardiology. Assoc. Prof. Dr. Habib Çil has extensive experience in ECG interpretation.
@@ -144,25 +155,7 @@ ECG recording takes approximately 5-10 minutes.
 
 ## Frequently Asked Questions
 
-{{< faq question="Is an ECG painful?" >}}
-No, an ECG is a completely painless procedure. Only electrodes need to be attached to the skin.
-{{< /faq >}}
-
-{{< faq question="Is preparation required for an ECG?" >}}
-No special preparation is required. However, comfortable clothing may be preferred as the chest area needs to be exposed.
-{{< /faq >}}
-
-{{< faq question="When do ECG results come out?" >}}
-ECG results are evaluated and interpreted immediately.
-{{< /faq >}}
-
-{{< faq question="Does a normal ECG mean no heart disease?" >}}
-A normal ECG is an important finding, but some heart diseases may not be visible on ECG. Additional tests may be needed.
-{{< /faq >}}
-
-{{< faq question="How often should an ECG be done?" >}}
-Determined by the doctor based on symptoms, risk factors, and existing diseases.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

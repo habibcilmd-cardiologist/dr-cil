@@ -17,6 +17,19 @@ tags:
     ]
 author: "Doç. Dr. Habib ÇİL"
 showTableOfContents: true
+faq:
+    - question: "Kolesterol ilacı ömür boyu mu kullanılacak?"
+      answer: "Çoğu hastada evet. Kolesterol ilaçları bırakıldığında değerler yeniden yükselir. Ancak yaşam tarzı değişiklikleriyle bazı hastalarda doz azaltılabilir."
+    - question: "Statin kas ağrısı yaparsa ne yapmalıyım?"
+      answer: "Doktorunuza danışın. Doz azaltma, ilaç değişikliği veya alternatif tedaviler denenebilir. Kendi başınıza ilaç bırakmayın."
+    - question: "Yumurta yiyebilir miyim?"
+      answer: "Evet, ancak ölçülü. Günde 1 yumurta çoğu kişi için güvenlidir. Diyetle alınan kolesterolün etkisi kişiden kişiye değişir."
+    - question: "Kolesterol düşürücü gıda takviyeleri işe yarar mı?"
+      answer: "Bazıları (kırmızı maya pirinci, bitkisel steroller) hafif etki gösterebilir, ancak ilaç tedavisinin yerini tutmaz. Doktorunuza danışmadan kullanmayın."
+    - question: "Çocuklarda kolesterol taraması gerekli mi?"
+      answer: "Aile öyküsü varsa veya obezite, diyabet gibi risk faktörleri varsa 2 yaşından itibaren tarama önerilir."
+    - question: "HDL'yi nasıl artırabilirim?"
+      answer: "Egzersiz, kilo verme, sigarayı bırakma ve sağlıklı yağlar (zeytinyağı, balık) HDL'yi artırır. İlaçlarla HDL artışı sınırlıdır."
 ---
 
 {{< lead >}}
@@ -334,29 +347,7 @@ Tek ilaçla hedefe ulaşılamadığında:
 
 ## Sık Sorulan Sorular (SSS)
 
-{{< faq question="Kolesterol ilacı ömür boyu mu kullanılacak?" >}}
-Çoğu hastada evet. Kolesterol ilaçları bırakıldığında değerler yeniden yükselir. Ancak yaşam tarzı değişiklikleriyle bazı hastalarda doz azaltılabilir.
-{{< /faq >}}
-
-{{< faq question="Statin kas ağrısı yaparsa ne yapmalıyım?" >}}
-Doktorunuza danışın. Doz azaltma, ilaç değişikliği veya alternatif tedaviler denenebilir. Kendi başınıza ilaç bırakmayın.
-{{< /faq >}}
-
-{{< faq question="Yumurta yiyebilir miyim?" >}}
-Evet, ancak ölçülü. Günde 1 yumurta çoğu kişi için güvenlidir. Diyetle alınan kolesterolün etkisi kişiden kişiye değişir.
-{{< /faq >}}
-
-{{< faq question="Kolesterol düşürücü gıda takviyeleri işe yarar mı?" >}}
-Bazıları (kırmızı maya pirinci, bitkisel steroller) hafif etki gösterebilir, ancak ilaç tedavisinin yerini tutmaz. Doktorunuza danışmadan kullanmayın.
-{{< /faq >}}
-
-{{< faq question="Çocuklarda kolesterol taraması gerekli mi?" >}}
-Aile öyküsü varsa veya obezite, diyabet gibi risk faktörleri varsa 2 yaşından itibaren tarama önerilir.
-{{< /faq >}}
-
-{{< faq question="HDL'yi nasıl artırabilirim?" >}}
-Egzersiz, kilo verme, sigarayı bırakma ve sağlıklı yağlar (zeytinyağı, balık) HDL'yi artırır. İlaçlarla HDL artışı sınırlıdır.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Ne Zaman Doktora Başvurmalısınız?
 

@@ -12,6 +12,17 @@ translationKey: "ptca"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "What is the difference between PTCA and stent?"
+      answer: "PTCA is only dilation with balloon, stent is placement of permanent metal mesh."
+    - question: "Does the vessel narrow again after PTCA?"
+      answer: "Restenosis rate with PTCA alone is 30-40%. With stent, this rate drops to 5-10%."
+    - question: "Is PTCA painful?"
+      answer: "It is performed under local anesthesia. Temporary chest pain may occur during balloon inflation."
+    - question: "How long does PTCA take?"
+      answer: "The procedure usually takes 15-60 minutes."
+    - question: "When will I be discharged after PTCA?"
+      answer: "Usually same day or next day discharge is possible."
 ---
 
 PTCA (Percutaneous Transluminal Coronary Angioplasty) is dilation of coronary artery stenosis with balloon. It forms the basis of modern coronary interventions. Assoc. Prof. Dr. Habib Çil has extensive experience in PTCA procedures.
@@ -121,25 +132,7 @@ In modern practice, PTCA is usually performed together with stent implantation. 
 
 ## Frequently Asked Questions
 
-{{< faq question="What is the difference between PTCA and stent?" >}}
-PTCA is only dilation with balloon, stent is placement of permanent metal mesh.
-{{< /faq >}}
-
-{{< faq question="Does the vessel narrow again after PTCA?" >}}
-Restenosis rate with PTCA alone is 30-40%. With stent, this rate drops to 5-10%.
-{{< /faq >}}
-
-{{< faq question="Is PTCA painful?" >}}
-It is performed under local anesthesia. Temporary chest pain may occur during balloon inflation.
-{{< /faq >}}
-
-{{< faq question="How long does PTCA take?" >}}
-The procedure usually takes 15-60 minutes.
-{{< /faq >}}
-
-{{< faq question="When will I be discharged after PTCA?" >}}
-Usually same day or next day discharge is possible.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

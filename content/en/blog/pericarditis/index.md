@@ -15,6 +15,23 @@ tags:
     ]
 author: "Assoc. Prof. Dr. Habib ÇİL"
 showTableOfContents: true
+faq:
+    - question: "Is pericarditis dangerous?"
+      answer: "Most pericarditis cases have good outcomes and achieve complete recovery with appropriate treatment. However, complications such as cardiac tamponade or constrictive pericarditis can be life-threatening. Therefore, timely diagnosis and treatment are important."
+    - question: "How is pericarditis distinguished from heart attack?"
+      answer: "Pericarditis pain is sharp and stabbing in nature, increases with breathing, and decreases when leaning forward. Heart attack pain is pressure-type, does not change with breathing or position. However, medical evaluation is always necessary for definitive differentiation."
+    - question: "Does pericarditis recur?"
+      answer: "Yes, pericarditis may recur in 15-30% of patients. Colchicine use significantly reduces the recurrence rate. Recurrent pericarditis episodes may be seen for years in some patients."
+    - question: "Is pericarditis contagious?"
+      answer: "Pericarditis itself is not contagious. However, the underlying viral infection may be contagious. Therefore, attention should be paid to basic hygiene rules during the acute phase."
+    - question: "How long does pericarditis last?"
+      answer: "Acute pericarditis usually resolves within 4-6 weeks. It may last longer in some cases. Recurrent pericarditis may continue for years. Treatment compliance shortens recovery time."
+    - question: "Can I exercise with pericarditis?"
+      answer: "Exercise is not recommended during acute pericarditis. Gradual return to sports can be done after symptoms have completely resolved, inflammation markers have returned to normal, and echocardiography is normal. At least 3 months of restriction is recommended for athletes."
+    - question: "Can pericarditis occur during pregnancy?"
+      answer: "Yes, pericarditis can also occur during pregnancy. Some medications used in treatment are not safe during pregnancy. Therefore, pericarditis treatment during pregnancy should be done in collaboration with a specialist cardiologist and obstetrician."
+    - question: "Is surgery needed for pericarditis?"
+      answer: "Most pericarditis cases recover with medication therapy. Surgery is usually needed in constrictive pericarditis, recurrent large effusions, or cases not responding to medication therapy."
 ---
 
 {{< lead >}}
@@ -364,37 +381,7 @@ Things to pay attention to during pericarditis treatment:
 
 ## Frequently Asked Questions (FAQ)
 
-{{< faq question="Is pericarditis dangerous?" >}}
-Most pericarditis cases have good outcomes and achieve complete recovery with appropriate treatment. However, complications such as cardiac tamponade or constrictive pericarditis can be life-threatening. Therefore, timely diagnosis and treatment are important.
-{{< /faq >}}
-
-{{< faq question="How is pericarditis distinguished from heart attack?" >}}
-Pericarditis pain is sharp and stabbing in nature, increases with breathing, and decreases when leaning forward. Heart attack pain is pressure-type, does not change with breathing or position. However, medical evaluation is always necessary for definitive differentiation.
-{{< /faq >}}
-
-{{< faq question="Does pericarditis recur?" >}}
-Yes, pericarditis may recur in 15-30% of patients. Colchicine use significantly reduces the recurrence rate. Recurrent pericarditis episodes may be seen for years in some patients.
-{{< /faq >}}
-
-{{< faq question="Is pericarditis contagious?" >}}
-Pericarditis itself is not contagious. However, the underlying viral infection may be contagious. Therefore, attention should be paid to basic hygiene rules during the acute phase.
-{{< /faq >}}
-
-{{< faq question="How long does pericarditis last?" >}}
-Acute pericarditis usually resolves within 4-6 weeks. It may last longer in some cases. Recurrent pericarditis may continue for years. Treatment compliance shortens recovery time.
-{{< /faq >}}
-
-{{< faq question="Can I exercise with pericarditis?" >}}
-Exercise is not recommended during acute pericarditis. Gradual return to sports can be done after symptoms have completely resolved, inflammation markers have returned to normal, and echocardiography is normal. At least 3 months of restriction is recommended for athletes.
-{{< /faq >}}
-
-{{< faq question="Can pericarditis occur during pregnancy?" >}}
-Yes, pericarditis can also occur during pregnancy. Some medications used in treatment are not safe during pregnancy. Therefore, pericarditis treatment during pregnancy should be done in collaboration with a specialist cardiologist and obstetrician.
-{{< /faq >}}
-
-{{< faq question="Is surgery needed for pericarditis?" >}}
-Most pericarditis cases recover with medication therapy. Surgery is usually needed in constrictive pericarditis, recurrent large effusions, or cases not responding to medication therapy.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## When Should You See a Doctor?
 

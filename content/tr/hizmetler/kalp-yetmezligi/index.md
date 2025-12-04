@@ -12,6 +12,17 @@ translationKey: "heart-failure"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Kalp yetmezliği tedavi edilebilir mi?"
+      answer: "Kalp yetmezliği genellikle tam olarak iyileşmez ancak uygun tedaviyle kontrol altına alınabilir. Belirtiler hafifletilebilir, yaşam kalitesi artırılabilir ve hastalığın ilerlemesi yavaşlatılabilir."
+    - question: "Kalp yetmezliğinde egzersiz yapabilir miyim?"
+      answer: "Evet, doktor kontrolünde yapılan düzenli egzersiz kalp yetmezliği hastalarında faydalıdır. Kardiyak rehabilitasyon programları güvenli ve etkili egzersiz protokolleri sunar."
+    - question: "Günde ne kadar sıvı almalıyım?"
+      answer: "Şiddetli kalp yetmezliğinde sıvı alımı günde 1.5-2 litre ile sınırlandırılabilir. Ancak bu miktar bireysel değerlendirmeye göre belirlenir."
+    - question: "Kalp pili veya ICD gerekli mi?"
+      answer: "Tüm hastalarda değil. Düşük ejeksiyon fraksiyonu, geniş QRS veya yüksek ani ölüm riski olan hastalarda cihaz tedavileri değerlendirilir."
+    - question: "Kalp nakli için aday mıyım?"
+      answer: "İleri evre kalp yetmezliğinde, diğer tedavilere yanıt vermeyen ve genel durumu uygun hastalarda kalp nakli değerlendirilebilir. Bu karmaşık bir süreçtir ve uzman ekip tarafından değerlendirilir."
 ---
 
 Kalp yetmezliği, kalbin vücudun ihtiyaç duyduğu kanı yeterince pompalayamaması durumudur. Dünya genelinde yaklaşık 64 milyon insanı etkileyen bu hastalık, özellikle 65 yaş üstü nüfusun %10'unu etkilemektedir. Türkiye'de ise yaklaşık 2 milyon kalp yetmezliği hastası bulunmaktadır. Modern tedavi yaklaşımlarıyla, hastaların büyük çoğunluğu kaliteli bir yaşam sürdürebilmektedir.
@@ -216,25 +227,7 @@ Kalp yetmezliği yönetiminde kapsamlı deneyime sahibim. Hastalarıma en günce
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Kalp yetmezliği tedavi edilebilir mi?" >}}
-Kalp yetmezliği genellikle tam olarak iyileşmez ancak uygun tedaviyle kontrol altına alınabilir. Belirtiler hafifletilebilir, yaşam kalitesi artırılabilir ve hastalığın ilerlemesi yavaşlatılabilir.
-{{< /faq >}}
-
-{{< faq question="Kalp yetmezliğinde egzersiz yapabilir miyim?" >}}
-Evet, doktor kontrolünde yapılan düzenli egzersiz kalp yetmezliği hastalarında faydalıdır. Kardiyak rehabilitasyon programları güvenli ve etkili egzersiz protokolleri sunar.
-{{< /faq >}}
-
-{{< faq question="Günde ne kadar sıvı almalıyım?" >}}
-Şiddetli kalp yetmezliğinde sıvı alımı günde 1.5-2 litre ile sınırlandırılabilir. Ancak bu miktar bireysel değerlendirmeye göre belirlenir.
-{{< /faq >}}
-
-{{< faq question="Kalp pili veya ICD gerekli mi?" >}}
-Tüm hastalarda değil. Düşük ejeksiyon fraksiyonu, geniş QRS veya yüksek ani ölüm riski olan hastalarda cihaz tedavileri değerlendirilir.
-{{< /faq >}}
-
-{{< faq question="Kalp nakli için aday mıyım?" >}}
-İleri evre kalp yetmezliğinde, diğer tedavilere yanıt vermeyen ve genel durumu uygun hastalarda kalp nakli değerlendirilebilir. Bu karmaşık bir süreçtir ve uzman ekip tarafından değerlendirilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

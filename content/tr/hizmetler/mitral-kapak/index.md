@@ -12,6 +12,17 @@ translationKey: "mitral-valve"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Mitral kapak hastalığı belirtileri nelerdir?"
+      answer: "Nefes darlığı, çarpıntı, yorgunluk ve bacaklarda şişlik başlıca belirtilerdir."
+    - question: "Mitral darlığı nasıl tedavi edilir?"
+      answer: "Uygun hastalarda balon valvüloplasti, diğerlerinde cerrahi tedavi uygulanır."
+    - question: "MitraClip nedir?"
+      answer: "MitraClip, ciddi mitral yetersizliğinde kateter yoluyla uygulanan klip tedavisidir."
+    - question: "Mitral kapak hastalığında spor yapılabilir mi?"
+      answer: "Hafif hastalıkta evet. Ciddi hastalıkta ağır egzersiz kısıtlanmalıdır."
+    - question: "Mitral kapak ameliyatı sonrası yaşam nasıl?"
+      answer: "Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir."
 ---
 
 Mitral kapak hastalığı, sol atriyum ile sol ventrikül arasındaki kapağın işlev bozukluğudur. Mitral darlığı ve mitral yetersizliği olmak üzere iki ana formu vardır. Doç. Dr. Habib Çil, mitral kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
@@ -142,25 +153,7 @@ Mitral kapak, sol atriyumdan sol ventriküle kan akışını düzenler. Kapak ha
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Mitral kapak hastalığı belirtileri nelerdir?" >}}
-Nefes darlığı, çarpıntı, yorgunluk ve bacaklarda şişlik başlıca belirtilerdir.
-{{< /faq >}}
-
-{{< faq question="Mitral darlığı nasıl tedavi edilir?" >}}
-Uygun hastalarda balon valvüloplasti, diğerlerinde cerrahi tedavi uygulanır.
-{{< /faq >}}
-
-{{< faq question="MitraClip nedir?" >}}
-MitraClip, ciddi mitral yetersizliğinde kateter yoluyla uygulanan klip tedavisidir.
-{{< /faq >}}
-
-{{< faq question="Mitral kapak hastalığında spor yapılabilir mi?" >}}
-Hafif hastalıkta evet. Ciddi hastalıkta ağır egzersiz kısıtlanmalıdır.
-{{< /faq >}}
-
-{{< faq question="Mitral kapak ameliyatı sonrası yaşam nasıl?" >}}
-Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

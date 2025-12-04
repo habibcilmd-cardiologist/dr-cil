@@ -12,6 +12,17 @@ translationKey: "cardiac-angiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is cardiac angiography painful?"
+      answer: "It is performed under local anesthesia and usually no pain is felt. Only temporary warmth sensation may occur during contrast injection."
+    - question: "How long is hospital stay after angiography?"
+      answer: "With radial approach, same-day discharge is usually possible. Femoral approach requires 4-6 hours bed rest."
+    - question: "What are the risks of angiography?"
+      answer: "Serious complications are rare. Bleeding, infection, and contrast reaction may occur."
+    - question: "When can I return to normal activity after angiography?"
+      answer: "With radial approach 1-2 days, with femoral approach 3-5 days after normal activities can be resumed."
+    - question: "Am I awake during angiography?"
+      answer: "Yes, it is performed under local anesthesia and you are awake throughout the procedure."
 ---
 
 Cardiac angiography is evaluation of heart vessels using X-ray imaging. It is the gold standard method for diagnosing coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac angiography procedures.
@@ -116,25 +127,7 @@ Total duration: 15-30 minutes
 
 ## Frequently Asked Questions
 
-{{< faq question="Is cardiac angiography painful?" >}}
-It is performed under local anesthesia and usually no pain is felt. Only temporary warmth sensation may occur during contrast injection.
-{{< /faq >}}
-
-{{< faq question="How long is hospital stay after angiography?" >}}
-With radial approach, same-day discharge is usually possible. Femoral approach requires 4-6 hours bed rest.
-{{< /faq >}}
-
-{{< faq question="What are the risks of angiography?" >}}
-Serious complications are rare. Bleeding, infection, and contrast reaction may occur.
-{{< /faq >}}
-
-{{< faq question="When can I return to normal activity after angiography?" >}}
-With radial approach 1-2 days, with femoral approach 3-5 days after normal activities can be resumed.
-{{< /faq >}}
-
-{{< faq question="Am I awake during angiography?" >}}
-Yes, it is performed under local anesthesia and you are awake throughout the procedure.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

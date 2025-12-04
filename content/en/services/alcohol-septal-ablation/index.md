@@ -12,6 +12,17 @@ translationKey: "alcohol-septal-ablation"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is alcohol septal ablation painful?"
+      answer: "The procedure is performed under local anesthesia and sedation. Temporary chest pain may be felt during alcohol injection, but this is controlled."
+    - question: "Is a permanent pacemaker needed after ASA?"
+      answer: "Approximately 10-15% of patients may require a permanent pacemaker. This risk is explained to the patient before the procedure."
+    - question: "When is improvement seen after ASA?"
+      answer: "Gradient reduction begins immediately, but septal thinning and full recovery takes 3-6 months."
+    - question: "What is done if ASA fails?"
+      answer: "In case of insufficient response, a second ASA or surgical myectomy may be considered."
+    - question: "Can I exercise after ASA?"
+      answer: "Competitive sports are generally not recommended in HOCM patients. Light to moderate exercise can be done under doctor supervision."
 ---
 
 Alcohol septal ablation (ASA) is a minimally invasive interventional procedure used in the treatment of hypertrophic obstructive cardiomyopathy (HOCM). In this procedure, alcohol is injected into the thickened septal muscle to create controlled damage and reduce left ventricular outflow tract obstruction. Assoc. Prof. Dr. Habib Çil has extensive experience in this specialized procedure.
@@ -158,25 +169,7 @@ The decision is made individually based on patient anatomy, age, and preference.
 
 ## Frequently Asked Questions
 
-{{< faq question="Is alcohol septal ablation painful?" >}}
-The procedure is performed under local anesthesia and sedation. Temporary chest pain may be felt during alcohol injection, but this is controlled.
-{{< /faq >}}
-
-{{< faq question="Is a permanent pacemaker needed after ASA?" >}}
-Approximately 10-15% of patients may require a permanent pacemaker. This risk is explained to the patient before the procedure.
-{{< /faq >}}
-
-{{< faq question="When is improvement seen after ASA?" >}}
-Gradient reduction begins immediately, but septal thinning and full recovery takes 3-6 months.
-{{< /faq >}}
-
-{{< faq question="What is done if ASA fails?" >}}
-In case of insufficient response, a second ASA or surgical myectomy may be considered.
-{{< /faq >}}
-
-{{< faq question="Can I exercise after ASA?" >}}
-Competitive sports are generally not recommended in HOCM patients. Light to moderate exercise can be done under doctor supervision.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

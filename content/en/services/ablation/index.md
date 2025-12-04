@@ -12,6 +12,17 @@ translationKey: "ablation"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Does ablation provide permanent treatment?"
+      answer: "For most SVTs, ablation provides permanent treatment. Recurrence may occur in AF and VT, but repeat ablation can be performed."
+    - question: "Is ablation painful?"
+      answer: "The procedure is performed under sedation or general anesthesia. There may be a mild burning sensation during ablation."
+    - question: "When can I return to work after ablation?"
+      answer: "Most patients can return to normal activities within 2-3 days. Waiting 1-2 weeks is recommended for heavy physical work."
+    - question: "Do I need to take medication after AF ablation?"
+      answer: "Antiarrhythmic and anticoagulant drugs are used for the first 3 months. They may be reduced afterward based on doctor evaluation."
+    - question: "What if ablation fails?"
+      answer: "Repeat ablation can be performed or medical treatment can be continued. Surgical ablation may be considered in some cases."
 ---
 
 Catheter ablation is a minimally invasive procedure used to treat heart rhythm disorders (arrhythmias). In this procedure, radiofrequency or cryotherapy is applied to abnormal heart tissue causing the arrhythmia, providing permanent treatment. Assoc. Prof. Dr. Habib Çil has extensive experience in arrhythmia ablation.
@@ -149,25 +160,7 @@ Procedure risks:
 
 ## Frequently Asked Questions
 
-{{< faq question="Does ablation provide permanent treatment?" >}}
-For most SVTs, ablation provides permanent treatment. Recurrence may occur in AF and VT, but repeat ablation can be performed.
-{{< /faq >}}
-
-{{< faq question="Is ablation painful?" >}}
-The procedure is performed under sedation or general anesthesia. There may be a mild burning sensation during ablation.
-{{< /faq >}}
-
-{{< faq question="When can I return to work after ablation?" >}}
-Most patients can return to normal activities within 2-3 days. Waiting 1-2 weeks is recommended for heavy physical work.
-{{< /faq >}}
-
-{{< faq question="Do I need to take medication after AF ablation?" >}}
-Antiarrhythmic and anticoagulant drugs are used for the first 3 months. They may be reduced afterward based on doctor evaluation.
-{{< /faq >}}
-
-{{< faq question="What if ablation fails?" >}}
-Repeat ablation can be performed or medical treatment can be continued. Surgical ablation may be considered in some cases.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

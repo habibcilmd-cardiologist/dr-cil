@@ -12,6 +12,17 @@ translationKey: "radial-angiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Radyal anjiyografi ağrılı mı?"
+      answer: "Lokal anestezi uygulandığı için işlem sırasında ağrı hissedilmez."
+    - question: "Radyal anjiyografi sonrası ne zaman eve gidebilirim?"
+      answer: "Çoğu hasta aynı gün taburcu edilebilir."
+    - question: "Radyal anjiyografi sonrası bilek kullanabilir miyim?"
+      answer: "Evet, 24 saat sonra normal aktivitelere dönebilirsiniz."
+    - question: "Radyal erişim her hastada mümkün mü?"
+      answer: "Çoğu hastada mümkündür. Allen testi negatif veya anatomik sorunlarda femoral erişim tercih edilir."
+    - question: "Radyal anjiyografi femoral anjiyografiden daha mı güvenli?"
+      answer: "Evet, kanama ve komplikasyon riski daha düşüktür."
 ---
 
 Radyal anjiyografi, koroner anjiyografinin bilek (radyal arter) yoluyla yapılmasıdır. Geleneksel kasık (femoral) erişime göre birçok avantajı vardır. Doç. Dr. Habib Çil, radyal anjiyografi işleminde geniş deneyime sahiptir.
@@ -116,25 +127,7 @@ Komplikasyonlar nadirdir:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Radyal anjiyografi ağrılı mı?" >}}
-Lokal anestezi uygulandığı için işlem sırasında ağrı hissedilmez.
-{{< /faq >}}
-
-{{< faq question="Radyal anjiyografi sonrası ne zaman eve gidebilirim?" >}}
-Çoğu hasta aynı gün taburcu edilebilir.
-{{< /faq >}}
-
-{{< faq question="Radyal anjiyografi sonrası bilek kullanabilir miyim?" >}}
-Evet, 24 saat sonra normal aktivitelere dönebilirsiniz.
-{{< /faq >}}
-
-{{< faq question="Radyal erişim her hastada mümkün mü?" >}}
-Çoğu hastada mümkündür. Allen testi negatif veya anatomik sorunlarda femoral erişim tercih edilir.
-{{< /faq >}}
-
-{{< faq question="Radyal anjiyografi femoral anjiyografiden daha mı güvenli?" >}}
-Evet, kanama ve komplikasyon riski daha düşüktür.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

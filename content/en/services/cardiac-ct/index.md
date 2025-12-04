@@ -12,6 +12,17 @@ translationKey: "cardiac-ct"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is cardiac CT painful?"
+      answer: "No, only IV contrast injection is done. It is a painless procedure."
+    - question: "How long does cardiac CT take?"
+      answer: "Total procedure duration is 15-30 minutes."
+    - question: "Does cardiac CT contain radiation?"
+      answer: "Yes, it contains low-dose radiation. Dose is minimized with modern devices."
+    - question: "Can cardiac CT replace angiography?"
+      answer: "In low-intermediate risk patients, yes. Invasive angiography may be needed in high-risk patients."
+    - question: "When do cardiac CT results come out?"
+      answer: "Results are usually reported the same day or next day."
 ---
 
 Cardiac CT (Computed Tomography) is non-invasive imaging of the heart and coronary arteries. It has an important place in screening and evaluating coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in interpreting cardiac CT results.
@@ -116,25 +127,7 @@ Total duration: 15-30 minutes
 
 ## Frequently Asked Questions
 
-{{< faq question="Is cardiac CT painful?" >}}
-No, only IV contrast injection is done. It is a painless procedure.
-{{< /faq >}}
-
-{{< faq question="How long does cardiac CT take?" >}}
-Total procedure duration is 15-30 minutes.
-{{< /faq >}}
-
-{{< faq question="Does cardiac CT contain radiation?" >}}
-Yes, it contains low-dose radiation. Dose is minimized with modern devices.
-{{< /faq >}}
-
-{{< faq question="Can cardiac CT replace angiography?" >}}
-In low-intermediate risk patients, yes. Invasive angiography may be needed in high-risk patients.
-{{< /faq >}}
-
-{{< faq question="When do cardiac CT results come out?" >}}
-Results are usually reported the same day or next day.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

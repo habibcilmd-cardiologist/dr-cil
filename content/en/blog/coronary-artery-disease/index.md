@@ -16,6 +16,23 @@ tags:
 author: "Doç. Dr. Habib ÇİL"
 showTableOfContents: true
 featured: "featured.svg"
+faq:
+    - question: "Can coronary artery disease be completely cured?"
+      answer: "Atherosclerosis is a chronic process and cannot be completely reversed. However, plaque progression can be stopped with lifestyle changes and medication therapy, and in some cases, regression can be achieved. Stents or bypass restore blood flow in blocked vessels but don't treat the disease itself; therefore, lifestyle changes and medication must be continued."
+    - question: "Is stent or bypass better?"
+      answer: "Both treatments have their own indications. Stent is less invasive and preferred for single or double vessel disease. Bypass provides better long-term results in multi-vessel disease, left main coronary stenosis, and diabetic patients. Treatment decision is based on angiography findings, comorbidities, and patient characteristics."
+    - question: "How long should I take medications after a stent?"
+      answer: "After stent placement, dual antiplatelet therapy (aspirin + clopidogrel/prasugrel/ticagrelor) should generally be used for at least 6-12 months. Aspirin continues for life. Statins and other protective medications should also be used indefinitely. Medication discontinuation decisions should always be made with your doctor."
+    - question: "Does every narrowing seen on angiography require a stent?"
+      answer: "No, not every narrowing requires a stent. The degree of stenosis (>70% is significant), location, presence of symptoms, and functional tests (FFR) are evaluated. Some narrowings can be monitored with medication therapy alone."
+    - question: "Can I exercise with coronary artery disease?"
+      answer: "Yes, regular exercise is an important part of coronary artery disease treatment. However, your exercise program should be planned by your doctor, and participation in cardiac rehabilitation programs is recommended. Avoid sudden intense exercise; increase gradually."
+    - question: "What should I do if there's heart disease in my family?"
+      answer: "If first-degree relatives have heart disease at an early age (before 55 in men, before 65 in women), your risk is increased. In this case, you should control your risk factors more strictly and have regular check-ups starting from your 20s-30s. Proactive lifestyle changes are very important."
+    - question: "Does coronary artery disease progress differently in women?"
+      answer: "Yes, coronary artery disease generally appears about 10 years later in women compared to men (with decreased estrogen protection after menopause). Additionally, atypical symptoms (shortness of breath, fatigue, back pain) are more common in women. Therefore, diagnosis in women may sometimes be delayed."
+    - question: "Can stress cause coronary artery disease?"
+      answer: "Chronic stress indirectly increases coronary artery disease risk by leading to behaviors such as hypertension, unhealthy eating, and smoking. Additionally, acute stress (sudden anger, shock) can trigger heart attack by causing coronary spasm or plaque rupture. Learning stress management techniques is important."
 ---
 
 {{< lead >}}
@@ -353,37 +370,7 @@ Consult a cardiologist if you experience:
 
 ## Frequently Asked Questions (FAQ)
 
-{{< faq question="Can coronary artery disease be completely cured?" >}}
-Atherosclerosis is a chronic process and cannot be completely reversed. However, plaque progression can be stopped with lifestyle changes and medication therapy, and in some cases, regression can be achieved. Stents or bypass restore blood flow in blocked vessels but don't treat the disease itself; therefore, lifestyle changes and medication must be continued.
-{{< /faq >}}
-
-{{< faq question="Is stent or bypass better?" >}}
-Both treatments have their own indications. Stent is less invasive and preferred for single or double vessel disease. Bypass provides better long-term results in multi-vessel disease, left main coronary stenosis, and diabetic patients. Treatment decision is based on angiography findings, comorbidities, and patient characteristics.
-{{< /faq >}}
-
-{{< faq question="How long should I take medications after a stent?" >}}
-After stent placement, dual antiplatelet therapy (aspirin + clopidogrel/prasugrel/ticagrelor) should generally be used for at least 6-12 months. Aspirin continues for life. Statins and other protective medications should also be used indefinitely. Medication discontinuation decisions should always be made with your doctor.
-{{< /faq >}}
-
-{{< faq question="Does every narrowing seen on angiography require a stent?" >}}
-No, not every narrowing requires a stent. The degree of stenosis (>70% is significant), location, presence of symptoms, and functional tests (FFR) are evaluated. Some narrowings can be monitored with medication therapy alone.
-{{< /faq >}}
-
-{{< faq question="Can I exercise with coronary artery disease?" >}}
-Yes, regular exercise is an important part of coronary artery disease treatment. However, your exercise program should be planned by your doctor, and participation in cardiac rehabilitation programs is recommended. Avoid sudden intense exercise; increase gradually.
-{{< /faq >}}
-
-{{< faq question="What should I do if there's heart disease in my family?" >}}
-If first-degree relatives have heart disease at an early age (before 55 in men, before 65 in women), your risk is increased. In this case, you should control your risk factors more strictly and have regular check-ups starting from your 20s-30s. Proactive lifestyle changes are very important.
-{{< /faq >}}
-
-{{< faq question="Does coronary artery disease progress differently in women?" >}}
-Yes, coronary artery disease generally appears about 10 years later in women compared to men (with decreased estrogen protection after menopause). Additionally, atypical symptoms (shortness of breath, fatigue, back pain) are more common in women. Therefore, diagnosis in women may sometimes be delayed.
-{{< /faq >}}
-
-{{< faq question="Can stress cause coronary artery disease?" >}}
-Chronic stress indirectly increases coronary artery disease risk by leading to behaviors such as hypertension, unhealthy eating, and smoking. Additionally, acute stress (sudden anger, shock) can trigger heart attack by causing coronary spasm or plaque rupture. Learning stress management techniques is important.
-{{< /faq >}}
+{{< faq-list >}}
 
 ---
 

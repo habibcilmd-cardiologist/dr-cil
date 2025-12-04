@@ -12,6 +12,17 @@ translationKey: "cardiac-angiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Kardiyak anjiyografi ağrılı mı?"
+      answer: "Lokal anestezi ile yapılır ve genellikle ağrı hissedilmez. Sadece kontrast enjeksiyonunda geçici sıcaklık hissi olabilir."
+    - question: "Anjiyografi sonrası ne kadar yatış gerekir?"
+      answer: "Radyal yaklaşımda genellikle aynı gün taburcu olunabilir. Femoral yaklaşımda 4-6 saat yatak istirahati gerekir."
+    - question: "Anjiyografi riskleri nelerdir?"
+      answer: "Ciddi komplikasyonlar nadir görülür. Kanama, enfeksiyon ve kontrast reaksiyonu olabilir."
+    - question: "Anjiyografi sonrası ne zaman normal aktiviteye dönebilirim?"
+      answer: "Radyal yaklaşımda 1-2 gün, femoral yaklaşımda 3-5 gün sonra normal aktivitelere dönülebilir."
+    - question: "Anjiyografi sırasında uyanık mıyım?"
+      answer: "Evet, lokal anestezi ile yapılır ve işlem boyunca uyanıksınız."
 ---
 
 Kardiyak anjiyografi, kalp damarlarının röntgen görüntüleme ile değerlendirilmesidir. Koroner arter hastalığının tanısında altın standart yöntemdir. Doç. Dr. Habib Çil, kardiyak anjiyografi işleminde geniş deneyime sahiptir.
@@ -116,25 +127,7 @@ Toplam süre: 15-30 dakika
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Kardiyak anjiyografi ağrılı mı?" >}}
-Lokal anestezi ile yapılır ve genellikle ağrı hissedilmez. Sadece kontrast enjeksiyonunda geçici sıcaklık hissi olabilir.
-{{< /faq >}}
-
-{{< faq question="Anjiyografi sonrası ne kadar yatış gerekir?" >}}
-Radyal yaklaşımda genellikle aynı gün taburcu olunabilir. Femoral yaklaşımda 4-6 saat yatak istirahati gerekir.
-{{< /faq >}}
-
-{{< faq question="Anjiyografi riskleri nelerdir?" >}}
-Ciddi komplikasyonlar nadir görülür. Kanama, enfeksiyon ve kontrast reaksiyonu olabilir.
-{{< /faq >}}
-
-{{< faq question="Anjiyografi sonrası ne zaman normal aktiviteye dönebilirim?" >}}
-Radyal yaklaşımda 1-2 gün, femoral yaklaşımda 3-5 gün sonra normal aktivitelere dönülebilir.
-{{< /faq >}}
-
-{{< faq question="Anjiyografi sırasında uyanık mıyım?" >}}
-Evet, lokal anestezi ile yapılır ve işlem boyunca uyanıksınız.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

@@ -12,6 +12,17 @@ translationKey: "lvad"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is normal life possible with LVAD?"
+      answer: "Yes, many patients can continue their daily activities."
+    - question: "How long do LVAD batteries last?"
+      answer: "Batteries usually last 10-12 hours and are replaceable."
+    - question: "Can I swim with LVAD?"
+      answer: "No, the device is not waterproof."
+    - question: "Is LVAD permanent?"
+      answer: "Temporary in bridge therapy, permanent in destination therapy."
+    - question: "Can I have MRI after LVAD?"
+      answer: "No, LVAD is not MRI compatible."
 ---
 
 LVAD (Left Ventricular Assist Device) is a mechanical device that supports the heart's pumping function in advanced heart failure. Assoc. Prof. Dr. Habib Çil has extensive experience in LVAD patient follow-up.
@@ -127,25 +138,7 @@ Total duration: 4-6 hours
 
 ## Frequently Asked Questions
 
-{{< faq question="Is normal life possible with LVAD?" >}}
-Yes, many patients can continue their daily activities.
-{{< /faq >}}
-
-{{< faq question="How long do LVAD batteries last?" >}}
-Batteries usually last 10-12 hours and are replaceable.
-{{< /faq >}}
-
-{{< faq question="Can I swim with LVAD?" >}}
-No, the device is not waterproof.
-{{< /faq >}}
-
-{{< faq question="Is LVAD permanent?" >}}
-Temporary in bridge therapy, permanent in destination therapy.
-{{< /faq >}}
-
-{{< faq question="Can I have MRI after LVAD?" >}}
-No, LVAD is not MRI compatible.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

@@ -12,6 +12,17 @@ translationKey: "left-main-coronary-stent"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Sol ana koroner hastalığı tehlikeli mi?"
+      answer: "Evet, sol ana koroner hastalığı yüksek riskli bir durumdur çünkü kalbin büyük bölümünü besler. Ancak uygun tedavi ile mükemmel sonuçlar elde edilebilir."
+    - question: "Stentleme bypass kadar etkili mi?"
+      answer: "Uygun hastalarda (düşük-orta SYNTAX skoru) stentleme bypass ile benzer sonuçlar verir. Hasta seçimi kritik öneme sahiptir."
+    - question: "Sol ana stent sonrası ne kadar ilaç kullanmalıyım?"
+      answer: "Dual antiplatelet tedavi (aspirin + P2Y12 inhibitörü) en az 12 ay, bazı hastalarda daha uzun süre kullanılmalıdır."
+    - question: "Stent sonrası kontrol anjiyografi gerekli mi?"
+      answer: "Sol ana stentleme sonrası genellikle 3-6 ay içinde kontrol anjiyografi önerilir. IVUS/OCT ile değerlendirme yapılır."
+    - question: "Sol ana stent ömür boyu kalır mı?"
+      answer: "Evet, stent kalıcıdır. Düzenli takip ve ilaç kullanımı ile uzun yıllar sorunsuz kalır."
 ---
 
 Sol ana koroner arter (LMCA), kalbin sol tarafını besleyen ana damardır ve kalp kasının yaklaşık %75'ini besler. Bu kritik damardaki hastalık, bypass cerrahisi veya stentleme ile tedavi edilebilir. Doç. Dr. Habib Çil, sol ana koroner stentleme konusunda geniş deneyime sahip olup, uygun hastalarda minimal invaziv tedavi sunmaktadır.
@@ -189,25 +200,7 @@ Sol ana stentleme sonrası:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Sol ana koroner hastalığı tehlikeli mi?" >}}
-Evet, sol ana koroner hastalığı yüksek riskli bir durumdur çünkü kalbin büyük bölümünü besler. Ancak uygun tedavi ile mükemmel sonuçlar elde edilebilir.
-{{< /faq >}}
-
-{{< faq question="Stentleme bypass kadar etkili mi?" >}}
-Uygun hastalarda (düşük-orta SYNTAX skoru) stentleme bypass ile benzer sonuçlar verir. Hasta seçimi kritik öneme sahiptir.
-{{< /faq >}}
-
-{{< faq question="Sol ana stent sonrası ne kadar ilaç kullanmalıyım?" >}}
-Dual antiplatelet tedavi (aspirin + P2Y12 inhibitörü) en az 12 ay, bazı hastalarda daha uzun süre kullanılmalıdır.
-{{< /faq >}}
-
-{{< faq question="Stent sonrası kontrol anjiyografi gerekli mi?" >}}
-Sol ana stentleme sonrası genellikle 3-6 ay içinde kontrol anjiyografi önerilir. IVUS/OCT ile değerlendirme yapılır.
-{{< /faq >}}
-
-{{< faq question="Sol ana stent ömür boyu kalır mı?" >}}
-Evet, stent kalıcıdır. Düzenli takip ve ilaç kullanımı ile uzun yıllar sorunsuz kalır.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

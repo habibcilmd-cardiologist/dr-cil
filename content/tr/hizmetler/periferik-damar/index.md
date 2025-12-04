@@ -12,6 +12,17 @@ translationKey: "peripheral-vascular"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Bacak damarlarındaki tıkanıklık tehlikeli mi?"
+      answer: "Evet, tedavi edilmezse kritik bacak iskemisi ve gangrene ilerleyebilir. Erken tanı ve tedavi ile bu komplikasyonlar önlenebilir."
+    - question: "Periferik anjiyoplasti sonrası yürüyebilir miyim?"
+      answer: "Evet, çoğu hasta işlem sonrası aynı gün veya ertesi gün yürüyebilir. Yürüme mesafesi genellikle belirgin şekilde artar."
+    - question: "Bacak damarlarına stent takılabilir mi?"
+      answer: "Evet, özellikle iliak ve femoral arterlerde stent sıklıkla kullanılır. Diz altı damarlarda genellikle balon anjiyoplasti tercih edilir."
+    - question: "Periferik damar hastalığı kalp hastalığı ile ilişkili mi?"
+      answer: "Evet, PAH olan hastaların çoğunda koroner arter hastalığı da vardır. Bu nedenle kapsamlı kardiyovasküler değerlendirme önemlidir."
+    - question: "Sigara bırakma tedaviye yardımcı olur mu?"
+      answer: "Kesinlikle. Sigara bırakma, PAH tedavisinin en önemli bileşenidir. Hastalığın ilerlemesini yavaşlatır ve tedavi başarısını artırır."
 ---
 
 Periferik arter hastalığı (PAH), kalp ve beyin dışındaki arterlerin ateroskleroz nedeniyle daralması veya tıkanmasıdır. En sık bacak arterlerini etkileyen bu hastalık, yürüme güçlüğünden gangrene kadar ciddi sonuçlara yol açabilir. Doç. Dr. Habib Çil, periferik damar girişimlerinde geniş deneyime sahip olup, modern tekniklerle hastaların yaşam kalitesini artırmaktadır.
@@ -181,25 +192,7 @@ Periferik girişim sonrası:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Bacak damarlarındaki tıkanıklık tehlikeli mi?" >}}
-Evet, tedavi edilmezse kritik bacak iskemisi ve gangrene ilerleyebilir. Erken tanı ve tedavi ile bu komplikasyonlar önlenebilir.
-{{< /faq >}}
-
-{{< faq question="Periferik anjiyoplasti sonrası yürüyebilir miyim?" >}}
-Evet, çoğu hasta işlem sonrası aynı gün veya ertesi gün yürüyebilir. Yürüme mesafesi genellikle belirgin şekilde artar.
-{{< /faq >}}
-
-{{< faq question="Bacak damarlarına stent takılabilir mi?" >}}
-Evet, özellikle iliak ve femoral arterlerde stent sıklıkla kullanılır. Diz altı damarlarda genellikle balon anjiyoplasti tercih edilir.
-{{< /faq >}}
-
-{{< faq question="Periferik damar hastalığı kalp hastalığı ile ilişkili mi?" >}}
-Evet, PAH olan hastaların çoğunda koroner arter hastalığı da vardır. Bu nedenle kapsamlı kardiyovasküler değerlendirme önemlidir.
-{{< /faq >}}
-
-{{< faq question="Sigara bırakma tedaviye yardımcı olur mu?" >}}
-Kesinlikle. Sigara bırakma, PAH tedavisinin en önemli bileşenidir. Hastalığın ilerlemesini yavaşlatır ve tedavi başarısını artırır.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

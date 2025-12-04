@@ -12,6 +12,17 @@ translationKey: "lower-extremity-arterial-disease"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Why does leg pain occur while walking?"
+      answer: "Due to narrowing of leg arteries, muscles cannot receive adequate blood and pain occurs."
+    - question: "Can peripheral artery disease be treated?"
+      answer: "Yes, it can be treated with medical therapy, endovascular intervention, or surgery."
+    - question: "Does walking distance increase after stenting?"
+      answer: "Yes, walking distance significantly increases after successful treatment."
+    - question: "What is critical limb ischemia?"
+      answer: "It is advanced stage disease characterized by rest pain, wound, or gangrene."
+    - question: "Should smoking be stopped?"
+      answer: "Yes, smoking is the most important cause of the disease and affects treatment success."
 ---
 
 Lower extremity arterial disease (LEAD) is narrowing of leg arteries due to atherosclerosis. It can cause walking pain and gangrene in advanced stages. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating lower extremity arterial disease.
@@ -131,25 +142,7 @@ Lower extremity arterial disease is narrowing of leg arteries due to atheroscler
 
 ## Frequently Asked Questions
 
-{{< faq question="Why does leg pain occur while walking?" >}}
-Due to narrowing of leg arteries, muscles cannot receive adequate blood and pain occurs.
-{{< /faq >}}
-
-{{< faq question="Can peripheral artery disease be treated?" >}}
-Yes, it can be treated with medical therapy, endovascular intervention, or surgery.
-{{< /faq >}}
-
-{{< faq question="Does walking distance increase after stenting?" >}}
-Yes, walking distance significantly increases after successful treatment.
-{{< /faq >}}
-
-{{< faq question="What is critical limb ischemia?" >}}
-It is advanced stage disease characterized by rest pain, wound, or gangrene.
-{{< /faq >}}
-
-{{< faq question="Should smoking be stopped?" >}}
-Yes, smoking is the most important cause of the disease and affects treatment success.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

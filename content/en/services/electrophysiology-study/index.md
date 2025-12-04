@@ -12,6 +12,17 @@ translationKey: "electrophysiology-study"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is EPS painful?"
+      answer: "The procedure is performed under local anesthesia and sedation. Mild discomfort may be felt during catheter placement."
+    - question: "How long does EPS take?"
+      answer: "Diagnostic EPS usually takes 1-2 hours. If ablation is added, it may take 2-4 hours."
+    - question: "When can I go home after EPS?"
+      answer: "Most patients are discharged the same day or the next day."
+    - question: "Is it dangerous if arrhythmia is triggered during EPS?"
+      answer: "Arrhythmias are triggered in a controlled environment and treated immediately if necessary. The team is prepared for all situations."
+    - question: "What do EPS results mean?"
+      answer: "Results help determine the arrhythmia type, source, and most appropriate treatment method."
 ---
 
 Electrophysiology study (EPS) is an invasive diagnostic procedure performed to evaluate the heart's electrical system. This procedure is used to determine the source of arrhythmias, perform risk assessment, and plan treatment. Assoc. Prof. Dr. Habib Çil has extensive experience in electrophysiology studies.
@@ -143,25 +154,7 @@ Procedure risks are low:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is EPS painful?" >}}
-The procedure is performed under local anesthesia and sedation. Mild discomfort may be felt during catheter placement.
-{{< /faq >}}
-
-{{< faq question="How long does EPS take?" >}}
-Diagnostic EPS usually takes 1-2 hours. If ablation is added, it may take 2-4 hours.
-{{< /faq >}}
-
-{{< faq question="When can I go home after EPS?" >}}
-Most patients are discharged the same day or the next day.
-{{< /faq >}}
-
-{{< faq question="Is it dangerous if arrhythmia is triggered during EPS?" >}}
-Arrhythmias are triggered in a controlled environment and treated immediately if necessary. The team is prepared for all situations.
-{{< /faq >}}
-
-{{< faq question="What do EPS results mean?" >}}
-Results help determine the arrhythmia type, source, and most appropriate treatment method.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

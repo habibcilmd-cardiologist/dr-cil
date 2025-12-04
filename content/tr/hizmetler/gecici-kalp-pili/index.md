@@ -12,6 +12,17 @@ translationKey: "temporary-pacemaker"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Geçici kalp pili ne kadar süre kalır?"
+      answer: "Genellikle birkaç gün ile 2 hafta arasında kalır. Kalıcı pacemaker gerekirse mümkün olan en kısa sürede takılır."
+    - question: "Geçici kalp pili ile hareket edebilir miyim?"
+      answer: "Elektrot yerinden oynamaması için hareket kısıtlaması gerekir. Femoral erişimde yatak istirahati önerilir."
+    - question: "Geçici pacing ağrılı mı?"
+      answer: "Transvenöz pacing lokal anestezi ile yapılır ve genellikle ağrısızdır. Transkutanöz pacing rahatsız edici olabilir."
+    - question: "Geçici kalp pili çıkarılması nasıl yapılır?"
+      answer: "Elektrot nazikçe çekilir ve erişim bölgesine bası uygulanır. Genellikle basit bir işlemdir."
+    - question: "Geçici pacing sonrası kalıcı pacemaker gerekir mi?"
+      answer: "Altta yatan nedene bağlıdır. Geri dönüşümlü nedenler düzelirse kalıcı pacemaker gerekmeyebilir."
 ---
 
 Geçici kalp pili, acil durumlarda veya kalıcı pacemaker takılana kadar kalp ritmini desteklemek için kullanılan bir cihazdır. Doç. Dr. Habib Çil, geçici pacing işlemlerinde geniş deneyime sahiptir.
@@ -134,25 +145,7 @@ Geçici pacing genellikle şu durumlarda kalıcı pacemaker ile değiştirilir:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Geçici kalp pili ne kadar süre kalır?" >}}
-Genellikle birkaç gün ile 2 hafta arasında kalır. Kalıcı pacemaker gerekirse mümkün olan en kısa sürede takılır.
-{{< /faq >}}
-
-{{< faq question="Geçici kalp pili ile hareket edebilir miyim?" >}}
-Elektrot yerinden oynamaması için hareket kısıtlaması gerekir. Femoral erişimde yatak istirahati önerilir.
-{{< /faq >}}
-
-{{< faq question="Geçici pacing ağrılı mı?" >}}
-Transvenöz pacing lokal anestezi ile yapılır ve genellikle ağrısızdır. Transkutanöz pacing rahatsız edici olabilir.
-{{< /faq >}}
-
-{{< faq question="Geçici kalp pili çıkarılması nasıl yapılır?" >}}
-Elektrot nazikçe çekilir ve erişim bölgesine bası uygulanır. Genellikle basit bir işlemdir.
-{{< /faq >}}
-
-{{< faq question="Geçici pacing sonrası kalıcı pacemaker gerekir mi?" >}}
-Altta yatan nedene bağlıdır. Geri dönüşümlü nedenler düzelirse kalıcı pacemaker gerekmeyebilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

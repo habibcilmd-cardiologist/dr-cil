@@ -12,6 +12,17 @@ translationKey: "cto-intervention"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is CTO intervention better than bypass surgery?"
+      answer: "Both treatments have advantages. CTO intervention is minimally invasive with shorter recovery time. However, bypass may be more appropriate in multi-vessel disease or complex anatomy. The decision is made based on individual assessment."
+    - question: "How long does CTO intervention take?"
+      answer: "CTO intervention takes longer than standard angioplasty. A typical procedure ranges from 1-3 hours and may be longer in complex cases."
+    - question: "What happens if CTO intervention fails?"
+      answer: "After unsuccessful intervention, the patient is usually followed with medical treatment. In some cases, a second attempt may be tried or bypass surgery may be considered."
+    - question: "How long is recovery after CTO intervention?"
+      answer: "Most patients are discharged within 1-2 days and can return to normal activities within 1 week. Full recovery takes 2-4 weeks."
+    - question: "Can every CTO be opened?"
+      answer: "No, some CTOs may not be openable due to anatomical or technical reasons. However, with experienced operators and modern techniques, success rates have exceeded 90%."
 ---
 
 Chronic total occlusion (CTO) is a condition where a coronary artery has been completely blocked for at least 3 months. CTO intervention is an advanced cardiological procedure that enables opening of these blocked vessels using special techniques. Assoc. Prof. Dr. Habib Çil, as an experienced operator specialized in CTO, has successfully treated many cases previously deemed "unopenable."
@@ -196,25 +207,7 @@ CTO intervention is one of the most challenging areas of interventional cardiolo
 
 ## Frequently Asked Questions
 
-{{< faq question="Is CTO intervention better than bypass surgery?" >}}
-Both treatments have advantages. CTO intervention is minimally invasive with shorter recovery time. However, bypass may be more appropriate in multi-vessel disease or complex anatomy. The decision is made based on individual assessment.
-{{< /faq >}}
-
-{{< faq question="How long does CTO intervention take?" >}}
-CTO intervention takes longer than standard angioplasty. A typical procedure ranges from 1-3 hours and may be longer in complex cases.
-{{< /faq >}}
-
-{{< faq question="What happens if CTO intervention fails?" >}}
-After unsuccessful intervention, the patient is usually followed with medical treatment. In some cases, a second attempt may be tried or bypass surgery may be considered.
-{{< /faq >}}
-
-{{< faq question="How long is recovery after CTO intervention?" >}}
-Most patients are discharged within 1-2 days and can return to normal activities within 1 week. Full recovery takes 2-4 weeks.
-{{< /faq >}}
-
-{{< faq question="Can every CTO be opened?" >}}
-No, some CTOs may not be openable due to anatomical or technical reasons. However, with experienced operators and modern techniques, success rates have exceeded 90%.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

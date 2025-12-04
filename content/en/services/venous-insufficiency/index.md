@@ -12,6 +12,17 @@ translationKey: "venous-insufficiency"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Why do varicose veins form?"
+      answer: "Due to insufficiency of vein valves, blood flows backward and veins dilate."
+    - question: "Is varicose vein treatment permanent?"
+      answer: "Permanent results are achieved with modern treatment methods. New varicose vein formation can be prevented."
+    - question: "Are compression stockings necessary?"
+      answer: "Yes, compression stockings are important before and after treatment."
+    - question: "Is laser treatment painful?"
+      answer: "It is performed under local anesthesia and minimal pain is felt."
+    - question: "When can I return to work after treatment?"
+      answer: "Usually normal activities can be resumed within 1-2 days."
 ---
 
 Venous insufficiency is dysfunction of valves in leg veins. It leads to varicose veins, swelling, and skin changes. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating venous insufficiency.
@@ -135,25 +146,7 @@ Venous insufficiency is the inability of vein valves to prevent backward flow of
 
 ## Frequently Asked Questions
 
-{{< faq question="Why do varicose veins form?" >}}
-Due to insufficiency of vein valves, blood flows backward and veins dilate.
-{{< /faq >}}
-
-{{< faq question="Is varicose vein treatment permanent?" >}}
-Permanent results are achieved with modern treatment methods. New varicose vein formation can be prevented.
-{{< /faq >}}
-
-{{< faq question="Are compression stockings necessary?" >}}
-Yes, compression stockings are important before and after treatment.
-{{< /faq >}}
-
-{{< faq question="Is laser treatment painful?" >}}
-It is performed under local anesthesia and minimal pain is felt.
-{{< /faq >}}
-
-{{< faq question="When can I return to work after treatment?" >}}
-Usually normal activities can be resumed within 1-2 days.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

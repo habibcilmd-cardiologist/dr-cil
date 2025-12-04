@@ -12,6 +12,17 @@ translationKey: "venous-insufficiency"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Varis neden oluşur?"
+      answer: "Toplardamar kapaklarının yetersizliği nedeniyle kan geriye akar ve damarlar genişler."
+    - question: "Varis tedavisi kalıcı mı?"
+      answer: "Modern tedavi yöntemleri ile kalıcı sonuçlar elde edilir. Yeni varis oluşumu önlenebilir."
+    - question: "Kompresyon çorabı gerekli mi?"
+      answer: "Evet, tedavi öncesi ve sonrası kompresyon çorabı önemlidir."
+    - question: "Lazer tedavisi ağrılı mı?"
+      answer: "Lokal anestezi ile yapılır ve minimal ağrı hissedilir."
+    - question: "Tedavi sonrası ne zaman işe dönebilirim?"
+      answer: "Genellikle 1-2 gün içinde normal aktivitelere dönülebilir."
 ---
 
 Venöz yetmezlik, bacak toplardamarlarındaki kapakların işlev bozukluğudur. Varis, şişlik ve cilt değişikliklerine yol açar. Doç. Dr. Habib Çil, venöz yetmezlik tanı ve tedavisinde geniş deneyime sahiptir.
@@ -135,25 +146,7 @@ Venöz yetmezlik, toplardamar kapaklarının kanın geriye akışını engelleye
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Varis neden oluşur?" >}}
-Toplardamar kapaklarının yetersizliği nedeniyle kan geriye akar ve damarlar genişler.
-{{< /faq >}}
-
-{{< faq question="Varis tedavisi kalıcı mı?" >}}
-Modern tedavi yöntemleri ile kalıcı sonuçlar elde edilir. Yeni varis oluşumu önlenebilir.
-{{< /faq >}}
-
-{{< faq question="Kompresyon çorabı gerekli mi?" >}}
-Evet, tedavi öncesi ve sonrası kompresyon çorabı önemlidir.
-{{< /faq >}}
-
-{{< faq question="Lazer tedavisi ağrılı mı?" >}}
-Lokal anestezi ile yapılır ve minimal ağrı hissedilir.
-{{< /faq >}}
-
-{{< faq question="Tedavi sonrası ne zaman işe dönebilirim?" >}}
-Genellikle 1-2 gün içinde normal aktivitelere dönülebilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

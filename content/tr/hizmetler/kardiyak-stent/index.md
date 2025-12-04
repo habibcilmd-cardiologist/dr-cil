@@ -12,6 +12,17 @@ translationKey: "cardiac-stent"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Stent kalıcı mı?"
+      answer: "Evet, metal stentler kalıcıdır. Biyoemilebilir stentler zamanla erir."
+    - question: "Stent sonrası ilaç kullanımı ne kadar sürer?"
+      answer: "İkili antiplatelet tedavi genellikle 6-12 ay sürer. Aspirin ömür boyu devam eder."
+    - question: "Stent sonrası MR çekilebilir mi?"
+      answer: "Evet, modern stentler MR uyumludur."
+    - question: "Stent sonrası spor yapabilir miyim?"
+      answer: "Evet, iyileşme sonrası düzenli egzersiz önerilir."
+    - question: "Stent tıkanabilir mi?"
+      answer: "Nadir görülür. İlaç uyumu ve yaşam tarzı değişikliği önemlidir."
 ---
 
 Kardiyak stent, koroner arterlerdeki darlıkların açık tutulması için yerleştirilen metal kafes yapısıdır. Koroner arter hastalığının tedavisinde yaygın olarak kullanılır. Doç. Dr. Habib Çil, kardiyak stent implantasyonunda geniş deneyime sahiptir.
@@ -118,25 +129,7 @@ Toplam süre: 30-90 dakika
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Stent kalıcı mı?" >}}
-Evet, metal stentler kalıcıdır. Biyoemilebilir stentler zamanla erir.
-{{< /faq >}}
-
-{{< faq question="Stent sonrası ilaç kullanımı ne kadar sürer?" >}}
-İkili antiplatelet tedavi genellikle 6-12 ay sürer. Aspirin ömür boyu devam eder.
-{{< /faq >}}
-
-{{< faq question="Stent sonrası MR çekilebilir mi?" >}}
-Evet, modern stentler MR uyumludur.
-{{< /faq >}}
-
-{{< faq question="Stent sonrası spor yapabilir miyim?" >}}
-Evet, iyileşme sonrası düzenli egzersiz önerilir.
-{{< /faq >}}
-
-{{< faq question="Stent tıkanabilir mi?" >}}
-Nadir görülür. İlaç uyumu ve yaşam tarzı değişikliği önemlidir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

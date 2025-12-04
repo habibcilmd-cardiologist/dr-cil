@@ -12,6 +12,17 @@ translationKey: "evar"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is EVAR surgery?"
+      answer: "No, it is not open surgery. It is a minimally invasive procedure performed through the groin."
+    - question: "How long is recovery after EVAR?"
+      answer: "Usually 2-3 days hospital stay is sufficient. Normal activities can be resumed within 2-4 weeks."
+    - question: "Is EVAR permanent?"
+      answer: "Yes, the stent-graft is permanent. Regular follow-up is required."
+    - question: "Am I suitable for EVAR?"
+      answer: "Decision is made by evaluating aortic anatomy. CT angiography is required."
+    - question: "Can I have MRI after EVAR?"
+      answer: "Most modern stent-grafts are MRI compatible. Consult your doctor."
 ---
 
 EVAR (Endovascular Aneurysm Repair) is catheter-based treatment of abdominal aortic aneurysm. It is a minimally invasive alternative to open surgery. Assoc. Prof. Dr. Habib Çil has extensive experience in EVAR procedures.
@@ -121,25 +132,7 @@ Total duration: 1-3 hours
 
 ## Frequently Asked Questions
 
-{{< faq question="Is EVAR surgery?" >}}
-No, it is not open surgery. It is a minimally invasive procedure performed through the groin.
-{{< /faq >}}
-
-{{< faq question="How long is recovery after EVAR?" >}}
-Usually 2-3 days hospital stay is sufficient. Normal activities can be resumed within 2-4 weeks.
-{{< /faq >}}
-
-{{< faq question="Is EVAR permanent?" >}}
-Yes, the stent-graft is permanent. Regular follow-up is required.
-{{< /faq >}}
-
-{{< faq question="Am I suitable for EVAR?" >}}
-Decision is made by evaluating aortic anatomy. CT angiography is required.
-{{< /faq >}}
-
-{{< faq question="Can I have MRI after EVAR?" >}}
-Most modern stent-grafts are MRI compatible. Consult your doctor.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

@@ -12,6 +12,17 @@ translationKey: "icd"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "ICD şoku ağrılı mı?"
+      answer: "ICD şoku ani ve güçlü bir darbe hissi verir. Rahatsız edici olabilir ancak hayat kurtarıcıdır. Çoğu hasta şoku tolere edebilir."
+    - question: "ICD ile araç kullanabilir miyim?"
+      answer: "Şok almadıysanız genellikle araç kullanabilirsiniz. Şok sonrası belirli bir süre (genellikle 6 ay) araç kullanma kısıtlaması uygulanır."
+    - question: "ICD pili ne kadar süre dayanır?"
+      answer: "ICD pilleri genellikle 5-10 yıl dayanır. Pil bittiğinde sadece jeneratör değiştirilir."
+    - question: "ICD ile MR çekilebilir mi?"
+      answer: "Yeni nesil MR uyumlu ICD'ler ile MR çekilebilir. Önceden doktorunuza danışmanız gerekir."
+    - question: "ICD şoku vermezse ne olur?"
+      answer: "ICD sürekli kalbi izler. Tehlikeli ritim algılamazsa şok vermez. Bu normal çalışmadır."
 ---
 
 İmplante edilebilir kardiyoverter defibrilatör (ICD), hayatı tehdit eden kalp ritim bozukluklarını tespit edip tedavi eden gelişmiş bir elektronik cihazdır. ICD, ani kardiyak ölümü önlemede en etkili tedavi yöntemidir. Doç. Dr. Habib Çil, ICD implantasyonunda geniş deneyime sahip olup, hastaların yaşamlarını korumak için en güncel teknolojileri kullanmaktadır.
@@ -138,25 +149,7 @@ ICD ile normal bir yaşam sürdürebilirsiniz:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="ICD şoku ağrılı mı?" >}}
-ICD şoku ani ve güçlü bir darbe hissi verir. Rahatsız edici olabilir ancak hayat kurtarıcıdır. Çoğu hasta şoku tolere edebilir.
-{{< /faq >}}
-
-{{< faq question="ICD ile araç kullanabilir miyim?" >}}
-Şok almadıysanız genellikle araç kullanabilirsiniz. Şok sonrası belirli bir süre (genellikle 6 ay) araç kullanma kısıtlaması uygulanır.
-{{< /faq >}}
-
-{{< faq question="ICD pili ne kadar süre dayanır?" >}}
-ICD pilleri genellikle 5-10 yıl dayanır. Pil bittiğinde sadece jeneratör değiştirilir.
-{{< /faq >}}
-
-{{< faq question="ICD ile MR çekilebilir mi?" >}}
-Yeni nesil MR uyumlu ICD'ler ile MR çekilebilir. Önceden doktorunuza danışmanız gerekir.
-{{< /faq >}}
-
-{{< faq question="ICD şoku vermezse ne olur?" >}}
-ICD sürekli kalbi izler. Tehlikeli ritim algılamazsa şok vermez. Bu normal çalışmadır.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

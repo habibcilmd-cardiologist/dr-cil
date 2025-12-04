@@ -12,6 +12,17 @@ translationKey: "ambulatory-cardiac-monitoring"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Can I shower while wearing Holter?"
+      answer: "No, the device is not waterproof. You should avoid showering."
+    - question: "Does Holter affect my daily activities?"
+      answer: "No, you can continue your normal activities."
+    - question: "How long is event recorder worn?"
+      answer: "It can last weeks depending on symptom frequency."
+    - question: "Is implantable loop recorder surgery?"
+      answer: "No, it is a small procedure under local anesthesia."
+    - question: "When do Holter results come out?"
+      answer: "Usually results are ready within 1-2 days."
 ---
 
 Ambulatory cardiac monitoring is continuous recording of heart rhythm during daily life. Assoc. Prof. Dr. Habib Çil has extensive experience in ambulatory cardiac monitoring and evaluation.
@@ -124,25 +135,7 @@ Ambulatory cardiac monitoring is recording heart rhythm during patient's daily a
 
 ## Frequently Asked Questions
 
-{{< faq question="Can I shower while wearing Holter?" >}}
-No, the device is not waterproof. You should avoid showering.
-{{< /faq >}}
-
-{{< faq question="Does Holter affect my daily activities?" >}}
-No, you can continue your normal activities.
-{{< /faq >}}
-
-{{< faq question="How long is event recorder worn?" >}}
-It can last weeks depending on symptom frequency.
-{{< /faq >}}
-
-{{< faq question="Is implantable loop recorder surgery?" >}}
-No, it is a small procedure under local anesthesia.
-{{< /faq >}}
-
-{{< faq question="When do Holter results come out?" >}}
-Usually results are ready within 1-2 days.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

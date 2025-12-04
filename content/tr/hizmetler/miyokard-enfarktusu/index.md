@@ -12,6 +12,17 @@ translationKey: "myocardial-infarction"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Kalp krizi geçirdikten sonra normal yaşama dönebilir miyim?"
+      answer: "Evet, zamanında ve doğru tedavi uygulanan hastaların büyük çoğunluğu normal yaşamlarına dönebilmektedir. Kardiyak rehabilitasyon programına katılım, ilaçların düzenli kullanımı ve yaşam tarzı değişiklikleri bu süreçte kritik öneme sahiptir."
+    - question: "Stent takıldıktan sonra ne kadar süre kan sulandırıcı kullanmam gerekiyor?"
+      answer: "Stent tipine ve hastanın durumuna göre değişmekle birlikte, genellikle ikili antiplatelet tedavi (aspirin + bir P2Y12 inhibitörü) en az 6-12 ay süreyle kullanılmalıdır. Aspirin ise ömür boyu devam eder."
+    - question: "Kalp krizi tekrarlayabilir mi?"
+      answer: "Ne yazık ki evet. Ancak ilaç tedavisine uyum, yaşam tarzı değişiklikleri ve düzenli kontroller ile tekrar riski önemli ölçüde azaltılabilir. Risk faktörlerinin kontrolü bu noktada hayati önem taşır."
+    - question: "Kalp krizi geçirdikten sonra cinsel yaşamıma ne zaman dönebilirim?"
+      answer: "Genellikle komplikasyonsuz iyileşme durumunda, bir kat merdiven çıkabilecek duruma geldikten sonra (yaklaşık 2-4 hafta) cinsel aktiviteye dönülebilir. Ancak bu konuda mutlaka doktorunuzla görüşmeniz önerilir."
+    - question: "Acil durumda ne yapmalıyım?"
+      answer: "Kalp krizi belirtileri yaşadığınızda: 1) Hemen 112'yi arayın, 2) Varsa aspirin çiğneyin, 3) Sakin kalın ve oturun veya yarı yatar pozisyon alın, 4) Sıkı giysileri gevşetin. Asla kendiniz araba kullanarak hastaneye gitmeye çalışmayın."
 ---
 
 Kalbiniz, vücudunuzdaki en önemli organ olarak her dakika yaklaşık 100.000 kez atarak tüm organlarınıza kan pompalar. Ancak kalbi besleyen koroner damarlar tıkandığında, bu hayati organın bir bölümü oksijensiz kalır ve geri dönüşü olmayan hasarlar meydana gelebilir. İşte bu durum, tıpta **miyokard enfarktüsü**, halk arasında ise **kalp krizi** olarak bilinir.
@@ -163,25 +174,7 @@ Kalp krizi riskini artıran faktörlerin bir kısmı değiştirilebilir, bir kı
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Kalp krizi geçirdikten sonra normal yaşama dönebilir miyim?" >}}
-Evet, zamanında ve doğru tedavi uygulanan hastaların büyük çoğunluğu normal yaşamlarına dönebilmektedir. Kardiyak rehabilitasyon programına katılım, ilaçların düzenli kullanımı ve yaşam tarzı değişiklikleri bu süreçte kritik öneme sahiptir.
-{{< /faq >}}
-
-{{< faq question="Stent takıldıktan sonra ne kadar süre kan sulandırıcı kullanmam gerekiyor?" >}}
-Stent tipine ve hastanın durumuna göre değişmekle birlikte, genellikle ikili antiplatelet tedavi (aspirin + bir P2Y12 inhibitörü) en az 6-12 ay süreyle kullanılmalıdır. Aspirin ise ömür boyu devam eder.
-{{< /faq >}}
-
-{{< faq question="Kalp krizi tekrarlayabilir mi?" >}}
-Ne yazık ki evet. Ancak ilaç tedavisine uyum, yaşam tarzı değişiklikleri ve düzenli kontroller ile tekrar riski önemli ölçüde azaltılabilir. Risk faktörlerinin kontrolü bu noktada hayati önem taşır.
-{{< /faq >}}
-
-{{< faq question="Kalp krizi geçirdikten sonra cinsel yaşamıma ne zaman dönebilirim?" >}}
-Genellikle komplikasyonsuz iyileşme durumunda, bir kat merdiven çıkabilecek duruma geldikten sonra (yaklaşık 2-4 hafta) cinsel aktiviteye dönülebilir. Ancak bu konuda mutlaka doktorunuzla görüşmeniz önerilir.
-{{< /faq >}}
-
-{{< faq question="Acil durumda ne yapmalıyım?" >}}
-Kalp krizi belirtileri yaşadığınızda: 1) Hemen 112'yi arayın, 2) Varsa aspirin çiğneyin, 3) Sakin kalın ve oturun veya yarı yatar pozisyon alın, 4) Sıkı giysileri gevşetin. Asla kendiniz araba kullanarak hastaneye gitmeye çalışmayın.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

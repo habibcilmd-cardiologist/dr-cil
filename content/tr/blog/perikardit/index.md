@@ -15,6 +15,23 @@ tags:
     ]
 author: "Doç. Dr. Habib ÇİL"
 showTableOfContents: true
+faq:
+    - question: "Perikardit tehlikeli midir?"
+      answer: "Çoğu perikardit vakası iyi seyirlidir ve uygun tedavi ile tam iyileşme sağlanır. Ancak kardiyak tamponad veya konstriktif perikardit gibi komplikasyonlar hayatı tehdit edebilir. Bu nedenle zamanında tanı ve tedavi önemlidir."
+    - question: "Perikardit kalp krizinden nasıl ayırt edilir?"
+      answer: "Perikardit ağrısı keskin ve batıcı niteliktedir, nefes almakla artar ve öne eğilmekle azalır. Kalp krizi ağrısı ise baskı tarzındadır, nefes veya pozisyonla değişmez. Ancak kesin ayırım için mutlaka tıbbi değerlendirme gerekir."
+    - question: "Perikardit tekrarlar mı?"
+      answer: "Evet, hastaların %15-30'unda perikardit tekrarlayabilir. Kolşisin kullanımı tekrarlama oranını önemli ölçüde azaltır. Bazı hastalarda yıllarca tekrarlayan perikardit ataakları görülebilir."
+    - question: "Perikardit bulaşıcı mıdır?"
+      answer: "Perikarditin kendisi bulaşıcı değildir. Ancak altta yatan viral enfeksiyon bulaşıcı olabilir. Bu nedenle akut dönemde temel hijyen kurallarına dikkat edilmelidir."
+    - question: "Perikardit ne kadar sürer?"
+      answer: "Akut perikardit genellikle 4-6 hafta içinde iyileşir. Bazı vakalarda daha uzun sürebilir. Tekrarlayan perikardit yıllarca devam edebilir. Tedaviye uyum iyileşme süresini kısaltır."
+    - question: "Perikarditte spor yapabilir miyim?"
+      answer: "Akut perikardit döneminde spor yapmak önerilmez. Semptomlar tamamen geçtikten, inflamasyon belirteçleri normale döndükten ve ekokardiyografi normal olduktan sonra spora kademeli dönüş yapılabilir. Sporcularda en az 3 ay kısıtlama önerilir."
+    - question: "Perikardit hamilelikte görülür mü?"
+      answer: "Evet, perikardit hamilelik döneminde de görülebilir. Tedavide kullanılan ilaçların bir kısmı gebelikte güvenli değildir. Bu nedenle hamilelikte perikardit tedavisi uzman kardiyolog ve kadın doğum uzmanı işbirliğinde yapılmalıdır."
+    - question: "Perikardit için ameliyat gerekir mi?"
+      answer: "Çoğu perikardit vakası ilaç tedavisiyle iyileşir. Ameliyat genellikle konstriktif perikardit, tekrarlayan büyük efüzyonlar veya ilaç tedavisine yanıt vermeyen olgularda gerekebilir."
 ---
 
 {{< lead >}}
@@ -364,37 +381,7 @@ Perikardit tedavisi sırasında dikkat edilmesi gerekenler:
 
 ## Sık Sorulan Sorular (SSS)
 
-{{< faq question="Perikardit tehlikeli midir?" >}}
-Çoğu perikardit vakası iyi seyirlidir ve uygun tedavi ile tam iyileşme sağlanır. Ancak kardiyak tamponad veya konstriktif perikardit gibi komplikasyonlar hayatı tehdit edebilir. Bu nedenle zamanında tanı ve tedavi önemlidir.
-{{< /faq >}}
-
-{{< faq question="Perikardit kalp krizinden nasıl ayırt edilir?" >}}
-Perikardit ağrısı keskin ve batıcı niteliktedir, nefes almakla artar ve öne eğilmekle azalır. Kalp krizi ağrısı ise baskı tarzındadır, nefes veya pozisyonla değişmez. Ancak kesin ayırım için mutlaka tıbbi değerlendirme gerekir.
-{{< /faq >}}
-
-{{< faq question="Perikardit tekrarlar mı?" >}}
-Evet, hastaların %15-30'unda perikardit tekrarlayabilir. Kolşisin kullanımı tekrarlama oranını önemli ölçüde azaltır. Bazı hastalarda yıllarca tekrarlayan perikardit ataakları görülebilir.
-{{< /faq >}}
-
-{{< faq question="Perikardit bulaşıcı mıdır?" >}}
-Perikarditin kendisi bulaşıcı değildir. Ancak altta yatan viral enfeksiyon bulaşıcı olabilir. Bu nedenle akut dönemde temel hijyen kurallarına dikkat edilmelidir.
-{{< /faq >}}
-
-{{< faq question="Perikardit ne kadar sürer?" >}}
-Akut perikardit genellikle 4-6 hafta içinde iyileşir. Bazı vakalarda daha uzun sürebilir. Tekrarlayan perikardit yıllarca devam edebilir. Tedaviye uyum iyileşme süresini kısaltır.
-{{< /faq >}}
-
-{{< faq question="Perikarditte spor yapabilir miyim?" >}}
-Akut perikardit döneminde spor yapmak önerilmez. Semptomlar tamamen geçtikten, inflamasyon belirteçleri normale döndükten ve ekokardiyografi normal olduktan sonra spora kademeli dönüş yapılabilir. Sporcularda en az 3 ay kısıtlama önerilir.
-{{< /faq >}}
-
-{{< faq question="Perikardit hamilelikte görülür mü?" >}}
-Evet, perikardit hamilelik döneminde de görülebilir. Tedavide kullanılan ilaçların bir kısmı gebelikte güvenli değildir. Bu nedenle hamilelikte perikardit tedavisi uzman kardiyolog ve kadın doğum uzmanı işbirliğinde yapılmalıdır.
-{{< /faq >}}
-
-{{< faq question="Perikardit için ameliyat gerekir mi?" >}}
-Çoğu perikardit vakası ilaç tedavisiyle iyileşir. Ameliyat genellikle konstriktif perikardit, tekrarlayan büyük efüzyonlar veya ilaç tedavisine yanıt vermeyen olgularda gerekebilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Ne Zaman Doktora Başvurmalısınız?
 

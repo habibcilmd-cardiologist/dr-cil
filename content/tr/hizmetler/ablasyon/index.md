@@ -12,6 +12,17 @@ translationKey: "ablation"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Ablasyon kalıcı tedavi sağlar mı?"
+      answer: "Çoğu SVT için ablasyon kalıcı tedavi sağlar. AF ve VT'de nüks olabilir, ancak tekrar ablasyon yapılabilir."
+    - question: "Ablasyon ağrılı mı?"
+      answer: "İşlem sedasyon veya genel anestezi altında yapılır. Ablasyon sırasında hafif yanma hissi olabilir."
+    - question: "Ablasyon sonrası ne zaman işe dönebilirim?"
+      answer: "Çoğu hasta 2-3 gün içinde normal aktivitelerine dönebilir. Ağır fiziksel iş için 1-2 hafta beklenmesi önerilir."
+    - question: "AF ablasyonu sonrası ilaç kullanmam gerekir mi?"
+      answer: "İlk 3 ay antiaritmik ve antikoagülan ilaçlar kullanılır. Sonrasında doktor değerlendirmesine göre azaltılabilir."
+    - question: "Ablasyon başarısız olursa ne olur?"
+      answer: "Tekrar ablasyon yapılabilir veya medikal tedavi ile devam edilebilir. Bazı vakalarda cerrahi ablasyon değerlendirilebilir."
 ---
 
 Kateter ablasyon, kalp ritim bozukluklarının (aritmilerin) tedavisinde kullanılan minimal invaziv bir işlemdir. Bu işlemde, aritmiye neden olan anormal kalp dokusuna radyofrekans veya kriyoterapi uygulanarak kalıcı tedavi sağlanır. Doç. Dr. Habib Çil, aritmi ablasyonunda geniş deneyime sahiptir.
@@ -149,25 +160,7 @@ Kateter ablasyon, ince kateterler aracılığıyla kalbe ulaşarak aritmiye nede
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Ablasyon kalıcı tedavi sağlar mı?" >}}
-Çoğu SVT için ablasyon kalıcı tedavi sağlar. AF ve VT'de nüks olabilir, ancak tekrar ablasyon yapılabilir.
-{{< /faq >}}
-
-{{< faq question="Ablasyon ağrılı mı?" >}}
-İşlem sedasyon veya genel anestezi altında yapılır. Ablasyon sırasında hafif yanma hissi olabilir.
-{{< /faq >}}
-
-{{< faq question="Ablasyon sonrası ne zaman işe dönebilirim?" >}}
-Çoğu hasta 2-3 gün içinde normal aktivitelerine dönebilir. Ağır fiziksel iş için 1-2 hafta beklenmesi önerilir.
-{{< /faq >}}
-
-{{< faq question="AF ablasyonu sonrası ilaç kullanmam gerekir mi?" >}}
-İlk 3 ay antiaritmik ve antikoagülan ilaçlar kullanılır. Sonrasında doktor değerlendirmesine göre azaltılabilir.
-{{< /faq >}}
-
-{{< faq question="Ablasyon başarısız olursa ne olur?" >}}
-Tekrar ablasyon yapılabilir veya medikal tedavi ile devam edilebilir. Bazı vakalarda cerrahi ablasyon değerlendirilebilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

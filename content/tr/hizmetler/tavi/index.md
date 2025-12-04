@@ -12,6 +12,17 @@ translationKey: "tavi"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "TAVI ameliyat mı?"
+      answer: "TAVI, geleneksel anlamda bir ameliyat değildir. Göğüs kemiği kesilmez ve kalp durdurulmaz. Kateter yoluyla yapılan minimal invaziv bir işlemdir. Ancak hibrit ameliyathanede veya kateter laboratuvarında gerçekleştirilir."
+    - question: "TAVI kapağı ne kadar dayanır?"
+      answer: "Modern TAVI kapakları 10-15 yıl veya daha uzun süre dayanabilir. Uzun dönem veriler hala toplanmaktadır, ancak mevcut sonuçlar cerrahi kapaklar ile karşılaştırılabilir dayanıklılık göstermektedir."
+    - question: "TAVI sonrası kan sulandırıcı kullanmam gerekir mi?"
+      answer: "Genellikle evet. Çoğu hastada aspirin ve kısa süreli ikinci bir antiplatelet ilaç önerilir. Atriyal fibrilasyon gibi ek durumlar varsa antikoagülan tedavi gerekebilir."
+    - question: "TAVI işlemi ağrılı mı?"
+      answer: "İşlem anestezi altında yapıldığı için ağrı hissedilmez. İşlem sonrası kasık bölgesinde hafif rahatsızlık olabilir, ancak bu genellikle birkaç gün içinde geçer."
+    - question: "TAVI sonrası ne zaman normal yaşama dönebilirim?"
+      answer: "Çoğu hasta 1-2 hafta içinde günlük aktivitelerine dönebilir. Tam iyileşme genellikle 4-6 hafta sürer. Kardiyak rehabilitasyon programı iyileşmeyi hızlandırır."
 ---
 
 TAVI (Transkateter Aort Kapak İmplantasyonu), ciddi aort darlığı olan hastalarda açık kalp ameliyatı yapılmadan, kateter yoluyla yeni bir aort kapağı yerleştirilmesi işlemidir. Bu devrim niteliğindeki tedavi, özellikle cerrahi riski yüksek yaşlı hastalarda hayat kurtarıcı bir seçenek sunmaktadır. Türkiye'de TAVI işlemi deneyimli merkezlerde başarıyla uygulanmakta olup, Doç. Dr. Habib Çil bu alanda geniş deneyime sahiptir.
@@ -191,25 +202,7 @@ TAVI gibi kompleks girişimsel işlemlerde deneyim kritik öneme sahiptir. Yüzl
 
 ## Sık Sorulan Sorular
 
-{{< faq question="TAVI ameliyat mı?" >}}
-TAVI, geleneksel anlamda bir ameliyat değildir. Göğüs kemiği kesilmez ve kalp durdurulmaz. Kateter yoluyla yapılan minimal invaziv bir işlemdir. Ancak hibrit ameliyathanede veya kateter laboratuvarında gerçekleştirilir.
-{{< /faq >}}
-
-{{< faq question="TAVI kapağı ne kadar dayanır?" >}}
-Modern TAVI kapakları 10-15 yıl veya daha uzun süre dayanabilir. Uzun dönem veriler hala toplanmaktadır, ancak mevcut sonuçlar cerrahi kapaklar ile karşılaştırılabilir dayanıklılık göstermektedir.
-{{< /faq >}}
-
-{{< faq question="TAVI sonrası kan sulandırıcı kullanmam gerekir mi?" >}}
-Genellikle evet. Çoğu hastada aspirin ve kısa süreli ikinci bir antiplatelet ilaç önerilir. Atriyal fibrilasyon gibi ek durumlar varsa antikoagülan tedavi gerekebilir.
-{{< /faq >}}
-
-{{< faq question="TAVI işlemi ağrılı mı?" >}}
-İşlem anestezi altında yapıldığı için ağrı hissedilmez. İşlem sonrası kasık bölgesinde hafif rahatsızlık olabilir, ancak bu genellikle birkaç gün içinde geçer.
-{{< /faq >}}
-
-{{< faq question="TAVI sonrası ne zaman normal yaşama dönebilirim?" >}}
-Çoğu hasta 1-2 hafta içinde günlük aktivitelerine dönebilir. Tam iyileşme genellikle 4-6 hafta sürer. Kardiyak rehabilitasyon programı iyileşmeyi hızlandırır.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

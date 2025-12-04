@@ -12,6 +12,17 @@ translationKey: "exercise-stress-test"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Efor testi tehlikeli mi?"
+      answer: "Kontrollü ortamda yapıldığında güvenlidir. Deneyimli ekip ve acil müdahale ekipmanları hazır bulundurulur."
+    - question: "Efor testi ne kadar sürer?"
+      answer: "Egzersiz ve toparlanma dahil toplam 15-30 dakika sürer."
+    - question: "Efor testi için aç olmak gerekir mi?"
+      answer: "Tam aç olmak gerekmez ancak testten 3 saat önce ağır yemek yenmemelidir."
+    - question: "Efor testi sonucu ne zaman çıkar?"
+      answer: "Sonuçlar test sonrasında hemen değerlendirilir ve açıklanır."
+    - question: "Efor testi yerine başka test yapılabilir mi?"
+      answer: "Egzersiz yapamayan hastalarda farmakolojik stres testi veya stres ekokardiyografi yapılabilir."
 ---
 
 Efor testi, kalbin egzersiz sırasındaki performansını değerlendiren önemli bir tanı yöntemidir. Koroner arter hastalığının tespitinde yaygın olarak kullanılır. Doç. Dr. Habib Çil, efor testi değerlendirmesinde geniş deneyime sahiptir.
@@ -143,25 +154,7 @@ Riskler düşüktür ancak şunlar olabilir:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Efor testi tehlikeli mi?" >}}
-Kontrollü ortamda yapıldığında güvenlidir. Deneyimli ekip ve acil müdahale ekipmanları hazır bulundurulur.
-{{< /faq >}}
-
-{{< faq question="Efor testi ne kadar sürer?" >}}
-Egzersiz ve toparlanma dahil toplam 15-30 dakika sürer.
-{{< /faq >}}
-
-{{< faq question="Efor testi için aç olmak gerekir mi?" >}}
-Tam aç olmak gerekmez ancak testten 3 saat önce ağır yemek yenmemelidir.
-{{< /faq >}}
-
-{{< faq question="Efor testi sonucu ne zaman çıkar?" >}}
-Sonuçlar test sonrasında hemen değerlendirilir ve açıklanır.
-{{< /faq >}}
-
-{{< faq question="Efor testi yerine başka test yapılabilir mi?" >}}
-Egzersiz yapamayan hastalarda farmakolojik stres testi veya stres ekokardiyografi yapılabilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

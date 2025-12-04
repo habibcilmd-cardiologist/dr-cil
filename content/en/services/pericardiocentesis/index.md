@@ -12,6 +12,17 @@ translationKey: "pericardiocentesis"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is pericardiocentesis painful?"
+      answer: "It is performed under local anesthesia and usually no pain is felt."
+    - question: "Does fluid accumulate again after pericardiocentesis?"
+      answer: "It depends on the underlying cause. It may recur in some patients."
+    - question: "How long does pericardiocentesis take?"
+      answer: "The procedure usually takes 30-60 minutes."
+    - question: "When will I be discharged after pericardiocentesis?"
+      answer: "Usually discharge is possible after 1-2 days of observation."
+    - question: "What are the risks of pericardiocentesis?"
+      answer: "Serious complications are rare. Heart perforation risk is low."
 ---
 
 Pericardiocentesis is draining fluid accumulated between the pericardium (heart sac) and the heart with a needle. Assoc. Prof. Dr. Habib Çil has extensive experience in pericardiocentesis procedures.
@@ -131,25 +142,7 @@ Total duration: 30-60 minutes
 
 ## Frequently Asked Questions
 
-{{< faq question="Is pericardiocentesis painful?" >}}
-It is performed under local anesthesia and usually no pain is felt.
-{{< /faq >}}
-
-{{< faq question="Does fluid accumulate again after pericardiocentesis?" >}}
-It depends on the underlying cause. It may recur in some patients.
-{{< /faq >}}
-
-{{< faq question="How long does pericardiocentesis take?" >}}
-The procedure usually takes 30-60 minutes.
-{{< /faq >}}
-
-{{< faq question="When will I be discharged after pericardiocentesis?" >}}
-Usually discharge is possible after 1-2 days of observation.
-{{< /faq >}}
-
-{{< faq question="What are the risks of pericardiocentesis?" >}}
-Serious complications are rare. Heart perforation risk is low.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

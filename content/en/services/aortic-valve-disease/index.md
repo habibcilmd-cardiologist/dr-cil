@@ -12,6 +12,17 @@ translationKey: "aortic-valve-disease"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is aortic stenosis dangerous?"
+      answer: "Severe aortic stenosis can be fatal if untreated. Early diagnosis and treatment are important."
+    - question: "What are the symptoms of aortic valve disease?"
+      answer: "Chest pain, shortness of breath, fainting, and fatigue are the main symptoms."
+    - question: "What is TAVI?"
+      answer: "TAVI is aortic valve replacement via catheter without open heart surgery."
+    - question: "Can I exercise with aortic valve disease?"
+      answer: "In mild disease, yes. Heavy exercise should be restricted in severe disease."
+    - question: "What is life like after aortic valve surgery?"
+      answer: "After successful treatment, you can return to normal life. Regular follow-up is required."
 ---
 
 Aortic valve disease is dysfunction of the valve between the left ventricle and aorta. It has two main forms: aortic stenosis and aortic regurgitation. Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating aortic valve diseases.
@@ -131,25 +142,7 @@ Treatment decision depends on:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is aortic stenosis dangerous?" >}}
-Severe aortic stenosis can be fatal if untreated. Early diagnosis and treatment are important.
-{{< /faq >}}
-
-{{< faq question="What are the symptoms of aortic valve disease?" >}}
-Chest pain, shortness of breath, fainting, and fatigue are the main symptoms.
-{{< /faq >}}
-
-{{< faq question="What is TAVI?" >}}
-TAVI is aortic valve replacement via catheter without open heart surgery.
-{{< /faq >}}
-
-{{< faq question="Can I exercise with aortic valve disease?" >}}
-In mild disease, yes. Heavy exercise should be restricted in severe disease.
-{{< /faq >}}
-
-{{< faq question="What is life like after aortic valve surgery?" >}}
-After successful treatment, you can return to normal life. Regular follow-up is required.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

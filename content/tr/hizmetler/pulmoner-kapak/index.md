@@ -12,6 +12,17 @@ translationKey: "pulmonary-valve"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Pulmoner darlık tehlikeli mi?"
+      answer: "Ciddi pulmoner darlık sağ kalp yetmezliğine yol açabilir. Tedavi önemlidir."
+    - question: "Pulmoner balon valvüloplasti nasıl yapılır?"
+      answer: "Kasıktan girilerek kateter ile pulmoner kapağa ulaşılır ve balon şişirilerek kapak açılır."
+    - question: "Pulmoner balon valvüloplasti kalıcı mı?"
+      answer: "Evet, çoğu hastada uzun süreli etki sağlar."
+    - question: "Pulmoner kapak hastalığında spor yapılabilir mi?"
+      answer: "Hafif hastalıkta evet. Ciddi hastalıkta ağır egzersiz kısıtlanmalıdır."
+    - question: "Pulmoner yetersizlik tedavi gerektirir mi?"
+      answer: "Hafif yetersizlik genellikle tedavi gerektirmez. Ciddi yetersizlikte kapak replasmanı gerekebilir."
 ---
 
 Pulmoner kapak hastalığı, sağ ventrikül ile pulmoner arter arasındaki kapağın işlev bozukluğudur. Pulmoner darlık ve pulmoner yetersizlik olmak üzere iki ana formu vardır. Doç. Dr. Habib Çil, pulmoner kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
@@ -134,25 +145,7 @@ Pulmoner kapak, sağ ventrikülden pulmoner artere kan akışını düzenler. Ka
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Pulmoner darlık tehlikeli mi?" >}}
-Ciddi pulmoner darlık sağ kalp yetmezliğine yol açabilir. Tedavi önemlidir.
-{{< /faq >}}
-
-{{< faq question="Pulmoner balon valvüloplasti nasıl yapılır?" >}}
-Kasıktan girilerek kateter ile pulmoner kapağa ulaşılır ve balon şişirilerek kapak açılır.
-{{< /faq >}}
-
-{{< faq question="Pulmoner balon valvüloplasti kalıcı mı?" >}}
-Evet, çoğu hastada uzun süreli etki sağlar.
-{{< /faq >}}
-
-{{< faq question="Pulmoner kapak hastalığında spor yapılabilir mi?" >}}
-Hafif hastalıkta evet. Ciddi hastalıkta ağır egzersiz kısıtlanmalıdır.
-{{< /faq >}}
-
-{{< faq question="Pulmoner yetersizlik tedavi gerektirir mi?" >}}
-Hafif yetersizlik genellikle tedavi gerektirmez. Ciddi yetersizlikte kapak replasmanı gerekebilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

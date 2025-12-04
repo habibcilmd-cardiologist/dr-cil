@@ -15,6 +15,23 @@ tags:
     ]
 author: "Doç. Dr. Habib ÇİL"
 showTableOfContents: true
+faq:
+    - question: "Kardiyomiyopati iyileşir mi?"
+      answer: "Bazı türler düzelebilir. Takotsubo kardiyomiyopatisi genellikle birkaç hafta içinde iyileşir. Alkolik kardiyomiyopatide alkol bırakıldığında kalp fonksiyonu düzelebilir. Ancak HKM ve genetik kökenli kardiyomiyopatiler genellikle kalıcıdır ve yaşam boyu izlem gerektirir."
+    - question: "Kardiyomiyopati kalıtsal mıdır?"
+      answer: "Bazı türler genetik geçişlidir. HKM vakalarının %60-70'i, DKM vakalarının %30-40'ı genetik kökenlidir. Ailede kardiyomiyopati öyküsü varsa, birinci derece akrabaların taranması önerilir."
+    - question: "Kardiyomiyopati ile spor yapabilir miyim?"
+      answer: "Duruma bağlıdır. HKM'li hastalarda yarışmacı sporlar önerilmez. DKM'li hastalar doktor kontrolünde hafif-orta şiddette egzersiz yapabilir. Her hastanın egzersiz kapasitesi bireysel olarak değerlendirilmelidir."
+    - question: "Kardiyomiyopati hamileliği etkiler mi?"
+      answer: "Evet, kardiyomiyopati hamilelikte risk oluşturur. Gebelik kalp üzerindeki yükü artırır. Hamilelik öncesi kardiyoloji değerlendirmesi şarttır. Bazı kardiyomiyopatilerde gebelik kontrendike olabilir."
+    - question: "Ne zaman ICD takılması gerekir?"
+      answer: "ICD, ani kalp ölümü riski yüksek hastalarda takılır. DKM'de ejeksiyon fraksiyonu %35'in altındaysa, HKM'de yüksek risk skorları varsa veya daha önce hayatı tehdit eden aritmi geçirildiyse ICD düşünülür."
+    - question: "Kardiyomiyopatide kalp nakli ne zaman gerekir?"
+      answer: "Son dönem kalp yetmezliğinde, ilaç tedavisine yanıt alınamadığında ve diğer tedavi seçenekleri tükendiğinde kalp nakli değerlendirilir. Nakil değerlendirmesi için ileri kalp yetmezliği merkezlerine yönlendirme yapılır."
+    - question: "Genetik test yaptırmalı mıyım?"
+      answer: "Ailede kardiyomiyopati öyküsü varsa veya tanı konduysa genetik test önerilir. Genetik danışmanlık, test öncesi ve sonrası süreçte yol gösterici olur. Pozitif sonuçlarda aile taraması planlanır."
+    - question: "Kardiyomiyopati ile ne kadar yaşayabilirim?"
+      answer: "Prognoz kardiyomiyopati türüne, evresine ve tedaviye yanıta bağlıdır. Modern tedavilerle birçok hasta yıllarca kaliteli yaşam sürdürebilir. Düzenli takip ve tedaviye uyum hayatta kalımı önemli ölçüde artırır."
 ---
 
 {{< lead >}}
@@ -337,37 +354,7 @@ Kardiyomiyopati ile yaşarken dikkat edilmesi gerekenler:
 
 ## Sık Sorulan Sorular (SSS)
 
-{{< faq question="Kardiyomiyopati iyileşir mi?" >}}
-Bazı türler düzelebilir. Takotsubo kardiyomiyopatisi genellikle birkaç hafta içinde iyileşir. Alkolik kardiyomiyopatide alkol bırakıldığında kalp fonksiyonu düzelebilir. Ancak HKM ve genetik kökenli kardiyomiyopatiler genellikle kalıcıdır ve yaşam boyu izlem gerektirir.
-{{< /faq >}}
-
-{{< faq question="Kardiyomiyopati kalıtsal mıdır?" >}}
-Bazı türler genetik geçişlidir. HKM vakalarının %60-70'i, DKM vakalarının %30-40'ı genetik kökenlidir. Ailede kardiyomiyopati öyküsü varsa, birinci derece akrabaların taranması önerilir.
-{{< /faq >}}
-
-{{< faq question="Kardiyomiyopati ile spor yapabilir miyim?" >}}
-Duruma bağlıdır. HKM'li hastalarda yarışmacı sporlar önerilmez. DKM'li hastalar doktor kontrolünde hafif-orta şiddette egzersiz yapabilir. Her hastanın egzersiz kapasitesi bireysel olarak değerlendirilmelidir.
-{{< /faq >}}
-
-{{< faq question="Kardiyomiyopati hamileliği etkiler mi?" >}}
-Evet, kardiyomiyopati hamilelikte risk oluşturur. Gebelik kalp üzerindeki yükü artırır. Hamilelik öncesi kardiyoloji değerlendirmesi şarttır. Bazı kardiyomiyopatilerde gebelik kontrendike olabilir.
-{{< /faq >}}
-
-{{< faq question="Ne zaman ICD takılması gerekir?" >}}
-ICD, ani kalp ölümü riski yüksek hastalarda takılır. DKM'de ejeksiyon fraksiyonu %35'in altındaysa, HKM'de yüksek risk skorları varsa veya daha önce hayatı tehdit eden aritmi geçirildiyse ICD düşünülür.
-{{< /faq >}}
-
-{{< faq question="Kardiyomiyopatide kalp nakli ne zaman gerekir?" >}}
-Son dönem kalp yetmezliğinde, ilaç tedavisine yanıt alınamadığında ve diğer tedavi seçenekleri tükendiğinde kalp nakli değerlendirilir. Nakil değerlendirmesi için ileri kalp yetmezliği merkezlerine yönlendirme yapılır.
-{{< /faq >}}
-
-{{< faq question="Genetik test yaptırmalı mıyım?" >}}
-Ailede kardiyomiyopati öyküsü varsa veya tanı konduysa genetik test önerilir. Genetik danışmanlık, test öncesi ve sonrası süreçte yol gösterici olur. Pozitif sonuçlarda aile taraması planlanır.
-{{< /faq >}}
-
-{{< faq question="Kardiyomiyopati ile ne kadar yaşayabilirim?" >}}
-Prognoz kardiyomiyopati türüne, evresine ve tedaviye yanıta bağlıdır. Modern tedavilerle birçok hasta yıllarca kaliteli yaşam sürdürebilir. Düzenli takip ve tedaviye uyum hayatta kalımı önemli ölçüde artırır.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Ne Zaman Doktora Başvurmalısınız?
 

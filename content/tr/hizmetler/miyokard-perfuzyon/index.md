@@ -12,6 +12,17 @@ translationKey: "myocardial-perfusion"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "MPS radyasyon içerir mi?"
+      answer: "Evet, düşük dozda radyasyon içerir. Ancak tanısal faydası radyasyon riskinden çok daha fazladır."
+    - question: "MPS ne kadar sürer?"
+      answer: "Tek gün protokolünde toplam 3-4 saat sürer."
+    - question: "MPS için aç olmak gerekir mi?"
+      answer: "Evet, işlemden 4 saat önce yemek yenmemelidir."
+    - question: "MPS sonucu ne zaman çıkar?"
+      answer: "Sonuçlar genellikle 1-2 gün içinde raporlanır."
+    - question: "MPS hamilelikte yapılabilir mi?"
+      answer: "Hayır, hamilelik döneminde radyasyon içeren testler yapılmaz."
 ---
 
 Miyokard perfüzyon sintigrafisi (MPS), kalp kasına olan kan akımını değerlendiren nükleer tıp görüntüleme yöntemidir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir. Doç. Dr. Habib Çil, MPS sonuçlarının yorumlanmasında geniş deneyime sahiptir.
@@ -124,25 +135,7 @@ Riskler düşüktür:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="MPS radyasyon içerir mi?" >}}
-Evet, düşük dozda radyasyon içerir. Ancak tanısal faydası radyasyon riskinden çok daha fazladır.
-{{< /faq >}}
-
-{{< faq question="MPS ne kadar sürer?" >}}
-Tek gün protokolünde toplam 3-4 saat sürer.
-{{< /faq >}}
-
-{{< faq question="MPS için aç olmak gerekir mi?" >}}
-Evet, işlemden 4 saat önce yemek yenmemelidir.
-{{< /faq >}}
-
-{{< faq question="MPS sonucu ne zaman çıkar?" >}}
-Sonuçlar genellikle 1-2 gün içinde raporlanır.
-{{< /faq >}}
-
-{{< faq question="MPS hamilelikte yapılabilir mi?" >}}
-Hayır, hamilelik döneminde radyasyon içeren testler yapılmaz.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

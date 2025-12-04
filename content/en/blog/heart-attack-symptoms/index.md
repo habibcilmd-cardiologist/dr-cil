@@ -16,6 +16,17 @@ tags:
     ]
 author: "Assoc. Prof. Dr. Habib ÇİL"
 showTableOfContents: true
+faq:
+    - question: "My chest hurts—am I having a heart attack?"
+      answer: "Not every chest pain is a heart attack. Muscle pain, acid reflux, anxiety, and many other conditions can cause chest pain. However, chest pain that lasts more than 15 minutes, doesn't go away with rest, and feels like pressure should be taken seriously, and emergency help should be sought."
+    - question: "Can young people have heart attacks?"
+      answer: "Yes, especially young people with significant risk factors (smoking, obesity, family history, diabetes) can experience heart attacks. Unfortunately, heart attacks in people under 40 have been increasing in recent years."
+    - question: "Can I return to normal life after a heart attack?"
+      answer: "Yes, with proper treatment and rehabilitation, most patients can return to their normal lives. However, regular use of medications and lifestyle changes are necessary."
+    - question: "How careful should I be after getting a stent?"
+      answer: "The first year after stent placement is the most critical period. Regular use of blood-thinning medications, attending follow-up appointments, and controlling risk factors are very important."
+    - question: "There's a history of heart attack in my family—what should I do?"
+      answer: "Family history increases risk, but it's not inevitable. You can significantly reduce your risk by controlling other risk factors (blood pressure, cholesterol, smoking, exercise)."
 ---
 
 {{< lead >}}
@@ -220,25 +231,7 @@ Heart attack is largely a preventable condition. Here are evidence-based prevent
 
 ## Frequently Asked Questions (FAQ)
 
-{{< faq question="My chest hurts—am I having a heart attack?" >}}
-Not every chest pain is a heart attack. Muscle pain, acid reflux, anxiety, and many other conditions can cause chest pain. However, chest pain that lasts more than 15 minutes, doesn't go away with rest, and feels like pressure should be taken seriously, and emergency help should be sought.
-{{< /faq >}}
-
-{{< faq question="Can young people have heart attacks?" >}}
-Yes, especially young people with significant risk factors (smoking, obesity, family history, diabetes) can experience heart attacks. Unfortunately, heart attacks in people under 40 have been increasing in recent years.
-{{< /faq >}}
-
-{{< faq question="Can I return to normal life after a heart attack?" >}}
-Yes, with proper treatment and rehabilitation, most patients can return to their normal lives. However, regular use of medications and lifestyle changes are necessary.
-{{< /faq >}}
-
-{{< faq question="How careful should I be after getting a stent?" >}}
-The first year after stent placement is the most critical period. Regular use of blood-thinning medications, attending follow-up appointments, and controlling risk factors are very important.
-{{< /faq >}}
-
-{{< faq question="There's a history of heart attack in my family—what should I do?" >}}
-Family history increases risk, but it's not inevitable. You can significantly reduce your risk by controlling other risk factors (blood pressure, cholesterol, smoking, exercise).
-{{< /faq >}}
+{{< faq-list >}}
 
 ## When Should You See a Doctor?
 

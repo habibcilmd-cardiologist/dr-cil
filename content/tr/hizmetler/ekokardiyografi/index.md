@@ -12,6 +12,17 @@ translationKey: "echocardiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Ekokardiyografi ağrılı mı?"
+      answer: "Hayır, transtorasik ekokardiyografi tamamen ağrısız bir işlemdir. Sadece göğse jel sürülür ve prob ile görüntüleme yapılır."
+    - question: "Ekokardiyografi ne kadar sürer?"
+      answer: "Standart transtorasik ekokardiyografi 20-45 dakika sürer."
+    - question: "Ekokardiyografi için aç olmak gerekir mi?"
+      answer: "Transtorasik eko için aç olmak gerekmez. Transözofageal eko için 6 saat açlık gerekir."
+    - question: "Ekokardiyografi zararlı mı?"
+      answer: "Hayır, ultrason dalgaları kullanıldığı için radyasyon içermez ve tamamen güvenlidir."
+    - question: "Ekokardiyografi sonucu ne zaman çıkar?"
+      answer: "Sonuçlar genellikle aynı gün değerlendirilir ve raporlanır."
 ---
 
 Ekokardiyografi, ultrason dalgaları kullanarak kalbin yapısını ve fonksiyonunu değerlendiren non-invaziv bir görüntüleme yöntemidir. Kardiyolojide en değerli tanı araçlarından biridir. Doç. Dr. Habib Çil, ekokardiyografi yorumlamasında geniş deneyime sahiptir.
@@ -143,25 +154,7 @@ Ekokardiyografi, ses dalgalarını kullanarak kalbin gerçek zamanlı hareketli 
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Ekokardiyografi ağrılı mı?" >}}
-Hayır, transtorasik ekokardiyografi tamamen ağrısız bir işlemdir. Sadece göğse jel sürülür ve prob ile görüntüleme yapılır.
-{{< /faq >}}
-
-{{< faq question="Ekokardiyografi ne kadar sürer?" >}}
-Standart transtorasik ekokardiyografi 20-45 dakika sürer.
-{{< /faq >}}
-
-{{< faq question="Ekokardiyografi için aç olmak gerekir mi?" >}}
-Transtorasik eko için aç olmak gerekmez. Transözofageal eko için 6 saat açlık gerekir.
-{{< /faq >}}
-
-{{< faq question="Ekokardiyografi zararlı mı?" >}}
-Hayır, ultrason dalgaları kullanıldığı için radyasyon içermez ve tamamen güvenlidir.
-{{< /faq >}}
-
-{{< faq question="Ekokardiyografi sonucu ne zaman çıkar?" >}}
-Sonuçlar genellikle aynı gün değerlendirilir ve raporlanır.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

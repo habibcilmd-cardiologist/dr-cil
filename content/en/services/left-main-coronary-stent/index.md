@@ -12,6 +12,17 @@ translationKey: "left-main-coronary-stent"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is left main coronary disease dangerous?"
+      answer: "Yes, left main coronary disease is a high-risk condition because it supplies a large portion of the heart. However, excellent results can be achieved with appropriate treatment."
+    - question: "Is stenting as effective as bypass?"
+      answer: "In appropriate patients (low-intermediate SYNTAX score), stenting gives similar results to bypass. Patient selection is critically important."
+    - question: "How long should I take medication after left main stent?"
+      answer: "Dual antiplatelet therapy (aspirin + P2Y12 inhibitor) should be used for at least 12 months, longer in some patients."
+    - question: "Is control angiography necessary after stenting?"
+      answer: "After left main stenting, control angiography is usually recommended within 3-6 months. Evaluation is done with IVUS/OCT."
+    - question: "Does the left main stent last a lifetime?"
+      answer: "Yes, the stent is permanent. With regular follow-up and medication use, it remains trouble-free for many years."
 ---
 
 The left main coronary artery (LMCA) is the main vessel that supplies the left side of the heart and feeds approximately 75% of the heart muscle. Disease in this critical vessel can be treated with bypass surgery or stenting. Assoc. Prof. Dr. Habib Çil has extensive experience in left main coronary stenting and offers minimally invasive treatment in appropriate patients.
@@ -189,25 +200,7 @@ After left main stenting:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is left main coronary disease dangerous?" >}}
-Yes, left main coronary disease is a high-risk condition because it supplies a large portion of the heart. However, excellent results can be achieved with appropriate treatment.
-{{< /faq >}}
-
-{{< faq question="Is stenting as effective as bypass?" >}}
-In appropriate patients (low-intermediate SYNTAX score), stenting gives similar results to bypass. Patient selection is critically important.
-{{< /faq >}}
-
-{{< faq question="How long should I take medication after left main stent?" >}}
-Dual antiplatelet therapy (aspirin + P2Y12 inhibitor) should be used for at least 12 months, longer in some patients.
-{{< /faq >}}
-
-{{< faq question="Is control angiography necessary after stenting?" >}}
-After left main stenting, control angiography is usually recommended within 3-6 months. Evaluation is done with IVUS/OCT.
-{{< /faq >}}
-
-{{< faq question="Does the left main stent last a lifetime?" >}}
-Yes, the stent is permanent. With regular follow-up and medication use, it remains trouble-free for many years.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

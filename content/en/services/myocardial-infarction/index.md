@@ -12,6 +12,17 @@ translationKey: "myocardial-infarction"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Can I return to normal life after a heart attack?"
+      answer: "Yes, the vast majority of patients who receive timely and appropriate treatment can return to their normal lives. Participation in a cardiac rehabilitation program, regular medication use, and lifestyle changes are critical during this process."
+    - question: "How long do I need to take blood thinners after stent placement?"
+      answer: "While it varies depending on the type of stent and the patient's condition, dual antiplatelet therapy (aspirin + a P2Y12 inhibitor) is generally required for at least 6-12 months. Aspirin continues for life."
+    - question: "Can a heart attack recur?"
+      answer: "Unfortunately, yes. However, the risk of recurrence can be significantly reduced through medication compliance, lifestyle changes, and regular check-ups. Controlling risk factors is vitally important in this regard."
+    - question: "When can I resume sexual activity after a heart attack?"
+      answer: "Generally, for uncomplicated recovery, sexual activity can be resumed once you can climb one flight of stairs (approximately 2-4 weeks). However, consulting with your doctor on this matter is highly recommended."
+    - question: "What should I do in an emergency?"
+      answer: "If experiencing heart attack symptoms: 1) Call emergency services immediately, 2) Chew aspirin if available, 3) Stay calm and sit or recline in a semi-upright position, 4) Loosen tight clothing. Never try to drive yourself to the hospital."
 ---
 
 Your heart, the most vital organ in your body, beats approximately 100,000 times daily, pumping blood to every organ. When the coronary arteries that supply blood to the heart become blocked, this essential organ is deprived of oxygen, and irreversible damage can occur. This condition is medically known as **myocardial infarction**, commonly called a **heart attack**.
@@ -163,25 +174,7 @@ Throughout my 20+ years of cardiology experience, I have treated thousands of he
 
 ## Frequently Asked Questions
 
-{{< faq question="Can I return to normal life after a heart attack?" >}}
-Yes, the vast majority of patients who receive timely and appropriate treatment can return to their normal lives. Participation in a cardiac rehabilitation program, regular medication use, and lifestyle changes are critical during this process.
-{{< /faq >}}
-
-{{< faq question="How long do I need to take blood thinners after stent placement?" >}}
-While it varies depending on the type of stent and the patient's condition, dual antiplatelet therapy (aspirin + a P2Y12 inhibitor) is generally required for at least 6-12 months. Aspirin continues for life.
-{{< /faq >}}
-
-{{< faq question="Can a heart attack recur?" >}}
-Unfortunately, yes. However, the risk of recurrence can be significantly reduced through medication compliance, lifestyle changes, and regular check-ups. Controlling risk factors is vitally important in this regard.
-{{< /faq >}}
-
-{{< faq question="When can I resume sexual activity after a heart attack?" >}}
-Generally, for uncomplicated recovery, sexual activity can be resumed once you can climb one flight of stairs (approximately 2-4 weeks). However, consulting with your doctor on this matter is highly recommended.
-{{< /faq >}}
-
-{{< faq question="What should I do in an emergency?" >}}
-If experiencing heart attack symptoms: 1) Call emergency services immediately, 2) Chew aspirin if available, 3) Stay calm and sit or recline in a semi-upright position, 4) Loosen tight clothing. Never try to drive yourself to the hospital.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

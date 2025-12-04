@@ -12,6 +12,17 @@ translationKey: "atherectomy"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Aterektomi ne zaman gerekir?"
+      answer: "Ciddi kalsifiye lezyonlarda, balon ile geçilemeyen darlıklarda veya stent ekspansiyonu yetersiz olduğunda gerekir."
+    - question: "Aterektomi ağrılı mı?"
+      answer: "Hayır, lokal anestezi altında yapılır ve ağrı hissedilmez."
+    - question: "Aterektomi sonrası stent gerekir mi?"
+      answer: "Çoğu durumda aterektomi sonrası stent yerleştirilir."
+    - question: "Aterektomi riskleri nelerdir?"
+      answer: "Distal embolizasyon, perforasyon ve yavaş akım gibi komplikasyonlar nadir görülür."
+    - question: "Aterektomi sonrası iyileşme süresi ne kadar?"
+      answer: "Genellikle 1-2 gün hastanede kalış yeterlidir."
 ---
 
 Aterektomi, damar içindeki aterosklerotik plağın mekanik olarak temizlenmesidir. Özellikle kalsifiye lezyonlarda ve stent yerleştirmenin zor olduğu durumlarda kullanılır. Doç. Dr. Habib Çil, aterektomi işleminde geniş deneyime sahiptir.
@@ -118,25 +129,7 @@ Toplam süre: 1-3 saat
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Aterektomi ne zaman gerekir?" >}}
-Ciddi kalsifiye lezyonlarda, balon ile geçilemeyen darlıklarda veya stent ekspansiyonu yetersiz olduğunda gerekir.
-{{< /faq >}}
-
-{{< faq question="Aterektomi ağrılı mı?" >}}
-Hayır, lokal anestezi altında yapılır ve ağrı hissedilmez.
-{{< /faq >}}
-
-{{< faq question="Aterektomi sonrası stent gerekir mi?" >}}
-Çoğu durumda aterektomi sonrası stent yerleştirilir.
-{{< /faq >}}
-
-{{< faq question="Aterektomi riskleri nelerdir?" >}}
-Distal embolizasyon, perforasyon ve yavaş akım gibi komplikasyonlar nadir görülür.
-{{< /faq >}}
-
-{{< faq question="Aterektomi sonrası iyileşme süresi ne kadar?" >}}
-Genellikle 1-2 gün hastanede kalış yeterlidir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

@@ -12,6 +12,17 @@ translationKey: "cabg"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Bypass ameliyatı riskli mi?"
+      answer: "Modern tekniklerle ameliyat başarısı %95'in üzerindedir. Risk hastaya göre değişir."
+    - question: "Bypass sonrası ne kadar yaşarım?"
+      answer: "10 yıllık sağkalım %80-90 arasındadır. Yaşam tarzı değişikliği önemlidir."
+    - question: "Bypass sonrası spor yapabilir miyim?"
+      answer: "Evet, iyileşme sonrası düzenli egzersiz önerilir."
+    - question: "Bypass greftleri ne kadar dayanır?"
+      answer: "LIMA grefti 20+ yıl, safen ven grefti 10-15 yıl dayanabilir."
+    - question: "Bypass yerine stent olabilir mi?"
+      answer: "Bazı hastalarda evet. Karar kalp takımı tarafından verilir."
 ---
 
 Kalp bypass ameliyatı, tıkalı koroner arterlerin etrafından yeni damar yolu oluşturarak kalp kasına kan akışını sağlayan cerrahi işlemdir. Doç. Dr. Habib Çil, bypass cerrahisi öncesi ve sonrası değerlendirmede geniş deneyime sahiptir.
@@ -117,25 +128,7 @@ Toplam süre: 3-6 saat
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Bypass ameliyatı riskli mi?" >}}
-Modern tekniklerle ameliyat başarısı %95'in üzerindedir. Risk hastaya göre değişir.
-{{< /faq >}}
-
-{{< faq question="Bypass sonrası ne kadar yaşarım?" >}}
-10 yıllık sağkalım %80-90 arasındadır. Yaşam tarzı değişikliği önemlidir.
-{{< /faq >}}
-
-{{< faq question="Bypass sonrası spor yapabilir miyim?" >}}
-Evet, iyileşme sonrası düzenli egzersiz önerilir.
-{{< /faq >}}
-
-{{< faq question="Bypass greftleri ne kadar dayanır?" >}}
-LIMA grefti 20+ yıl, safen ven grefti 10-15 yıl dayanabilir.
-{{< /faq >}}
-
-{{< faq question="Bypass yerine stent olabilir mi?" >}}
-Bazı hastalarda evet. Karar kalp takımı tarafından verilir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

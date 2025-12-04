@@ -12,6 +12,17 @@ translationKey: "pci"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is PCI surgery?"
+      answer: "No, it is not open surgery. It is a minimally invasive procedure performed through catheter."
+    - question: "How long will I stay in hospital after PCI?"
+      answer: "In elective procedures usually 1-2 days, emergency procedures may require longer stay."
+    - question: "Is PCI an alternative to bypass surgery?"
+      answer: "In some patients, yes. Decision is made with patient-specific evaluation."
+    - question: "When can I return to normal life after PCI?"
+      answer: "Usually normal activities can be resumed within 1-2 weeks."
+    - question: "Can PCI be repeated?"
+      answer: "Yes, if needed, PCI can be performed again on different vessels or the same vessel."
 ---
 
 PCI (Percutaneous Coronary Intervention) is catheter-based treatment of coronary artery disease. It includes balloon angioplasty and stent implantation. Assoc. Prof. Dr. Habib Çil has extensive experience in PCI procedures.
@@ -125,25 +136,7 @@ Total duration: 30-120 minutes
 
 ## Frequently Asked Questions
 
-{{< faq question="Is PCI surgery?" >}}
-No, it is not open surgery. It is a minimally invasive procedure performed through catheter.
-{{< /faq >}}
-
-{{< faq question="How long will I stay in hospital after PCI?" >}}
-In elective procedures usually 1-2 days, emergency procedures may require longer stay.
-{{< /faq >}}
-
-{{< faq question="Is PCI an alternative to bypass surgery?" >}}
-In some patients, yes. Decision is made with patient-specific evaluation.
-{{< /faq >}}
-
-{{< faq question="When can I return to normal life after PCI?" >}}
-Usually normal activities can be resumed within 1-2 weeks.
-{{< /faq >}}
-
-{{< faq question="Can PCI be repeated?" >}}
-Yes, if needed, PCI can be performed again on different vessels or the same vessel.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

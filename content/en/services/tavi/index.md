@@ -12,6 +12,17 @@ translationKey: "tavi"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is TAVI surgery?"
+      answer: "TAVI is not surgery in the traditional sense. The sternum is not cut and the heart is not stopped. It is a minimally invasive procedure performed via catheter. However, it is performed in a hybrid operating room or catheterization laboratory."
+    - question: "How long does a TAVI valve last?"
+      answer: "Modern TAVI valves can last 10-15 years or longer. Long-term data is still being collected, but current results show durability comparable to surgical valves."
+    - question: "Do I need to take blood thinners after TAVI?"
+      answer: "Usually yes. Aspirin and a short-term second antiplatelet medication are recommended for most patients. If there are additional conditions such as atrial fibrillation, anticoagulant therapy may be required."
+    - question: "Is the TAVI procedure painful?"
+      answer: "Since the procedure is performed under anesthesia, no pain is felt. There may be mild discomfort in the groin area after the procedure, but this usually resolves within a few days."
+    - question: "When can I return to normal life after TAVI?"
+      answer: "Most patients can return to daily activities within 1-2 weeks. Full recovery usually takes 4-6 weeks. Cardiac rehabilitation program accelerates recovery."
 ---
 
 TAVI (Transcatheter Aortic Valve Implantation) is a procedure where a new aortic valve is placed via catheter without open-heart surgery in patients with severe aortic stenosis. This revolutionary treatment offers a life-saving option, especially for elderly patients with high surgical risk. TAVI is successfully performed at experienced centers in Turkey, and Assoc. Prof. Dr. Habib Çil has extensive experience in this field.
@@ -191,25 +202,7 @@ Experience is critical in complex interventional procedures like TAVI. As an exp
 
 ## Frequently Asked Questions
 
-{{< faq question="Is TAVI surgery?" >}}
-TAVI is not surgery in the traditional sense. The sternum is not cut and the heart is not stopped. It is a minimally invasive procedure performed via catheter. However, it is performed in a hybrid operating room or catheterization laboratory.
-{{< /faq >}}
-
-{{< faq question="How long does a TAVI valve last?" >}}
-Modern TAVI valves can last 10-15 years or longer. Long-term data is still being collected, but current results show durability comparable to surgical valves.
-{{< /faq >}}
-
-{{< faq question="Do I need to take blood thinners after TAVI?" >}}
-Usually yes. Aspirin and a short-term second antiplatelet medication are recommended for most patients. If there are additional conditions such as atrial fibrillation, anticoagulant therapy may be required.
-{{< /faq >}}
-
-{{< faq question="Is the TAVI procedure painful?" >}}
-Since the procedure is performed under anesthesia, no pain is felt. There may be mild discomfort in the groin area after the procedure, but this usually resolves within a few days.
-{{< /faq >}}
-
-{{< faq question="When can I return to normal life after TAVI?" >}}
-Most patients can return to daily activities within 1-2 weeks. Full recovery usually takes 4-6 weeks. Cardiac rehabilitation program accelerates recovery.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

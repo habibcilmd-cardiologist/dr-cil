@@ -12,6 +12,17 @@ translationKey: "cardiac-catheterization"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is cardiac catheterization painful?"
+      answer: "It is performed under local anesthesia and usually no pain is felt."
+    - question: "How long does catheterization take?"
+      answer: "Diagnostic procedure takes 30-60 minutes, interventional procedures may take longer."
+    - question: "When will I be discharged after catheterization?"
+      answer: "Usually same day or next day discharge is possible."
+    - question: "What are the risks of catheterization?"
+      answer: "Serious complications are rare. Bleeding and infection risk is low."
+    - question: "Am I awake during catheterization?"
+      answer: "Yes, it is performed under local anesthesia and you are awake throughout the procedure."
 ---
 
 Cardiac catheterization is a diagnostic and therapeutic procedure performed by placing a catheter into heart chambers and vessels. Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac catheterization procedures.
@@ -118,25 +129,7 @@ Total duration: 30-60 minutes
 
 ## Frequently Asked Questions
 
-{{< faq question="Is cardiac catheterization painful?" >}}
-It is performed under local anesthesia and usually no pain is felt.
-{{< /faq >}}
-
-{{< faq question="How long does catheterization take?" >}}
-Diagnostic procedure takes 30-60 minutes, interventional procedures may take longer.
-{{< /faq >}}
-
-{{< faq question="When will I be discharged after catheterization?" >}}
-Usually same day or next day discharge is possible.
-{{< /faq >}}
-
-{{< faq question="What are the risks of catheterization?" >}}
-Serious complications are rare. Bleeding and infection risk is low.
-{{< /faq >}}
-
-{{< faq question="Am I awake during catheterization?" >}}
-Yes, it is performed under local anesthesia and you are awake throughout the procedure.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

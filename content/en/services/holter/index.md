@@ -12,6 +12,17 @@ translationKey: "holter"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Can I shower while wearing a Holter?"
+      answer: "No, the device is not waterproof. Showering or bathing should be avoided during the recording period."
+    - question: "Does Holter affect daily activities?"
+      answer: "No, you can continue normal daily activities. Just avoid contact with water."
+    - question: "When do Holter results come out?"
+      answer: "Results are evaluated within 1-2 days after recording is completed."
+    - question: "Is Holter painful?"
+      answer: "No, only electrodes need to be attached. There is no pain or discomfort."
+    - question: "Can I sleep while wearing a Holter?"
+      answer: "Yes, you can sleep normally. The device records during sleep as well."
 ---
 
 Holter monitoring is the continuous recording of the heart's electrical activity for 24-48 hours or longer. It is the gold standard method for detecting intermittent rhythm disorders. Assoc. Prof. Dr. Habib Çil has extensive experience in Holter evaluation.
@@ -137,25 +148,7 @@ A Holter is a portable ECG recording device. It continuously records heart rhyth
 
 ## Frequently Asked Questions
 
-{{< faq question="Can I shower while wearing a Holter?" >}}
-No, the device is not waterproof. Showering or bathing should be avoided during the recording period.
-{{< /faq >}}
-
-{{< faq question="Does Holter affect daily activities?" >}}
-No, you can continue normal daily activities. Just avoid contact with water.
-{{< /faq >}}
-
-{{< faq question="When do Holter results come out?" >}}
-Results are evaluated within 1-2 days after recording is completed.
-{{< /faq >}}
-
-{{< faq question="Is Holter painful?" >}}
-No, only electrodes need to be attached. There is no pain or discomfort.
-{{< /faq >}}
-
-{{< faq question="Can I sleep while wearing a Holter?" >}}
-Yes, you can sleep normally. The device records during sleep as well.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

@@ -12,6 +12,17 @@ translationKey: "myocardial-perfusion"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Does MPS contain radiation?"
+      answer: "Yes, it contains low-dose radiation. However, its diagnostic benefit far outweighs the radiation risk."
+    - question: "How long does MPS take?"
+      answer: "Total duration is 3-4 hours in single-day protocol."
+    - question: "Do I need to fast for MPS?"
+      answer: "Yes, food should not be eaten 4 hours before the procedure."
+    - question: "When do MPS results come out?"
+      answer: "Results are usually reported within 1-2 days."
+    - question: "Can MPS be done during pregnancy?"
+      answer: "No, tests containing radiation are not performed during pregnancy."
 ---
 
 Myocardial perfusion scintigraphy (MPS) is a nuclear medicine imaging method that evaluates blood flow to the heart muscle. It has high accuracy in diagnosing coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in interpreting MPS results.
@@ -124,25 +135,7 @@ Risks are low:
 
 ## Frequently Asked Questions
 
-{{< faq question="Does MPS contain radiation?" >}}
-Yes, it contains low-dose radiation. However, its diagnostic benefit far outweighs the radiation risk.
-{{< /faq >}}
-
-{{< faq question="How long does MPS take?" >}}
-Total duration is 3-4 hours in single-day protocol.
-{{< /faq >}}
-
-{{< faq question="Do I need to fast for MPS?" >}}
-Yes, food should not be eaten 4 hours before the procedure.
-{{< /faq >}}
-
-{{< faq question="When do MPS results come out?" >}}
-Results are usually reported within 1-2 days.
-{{< /faq >}}
-
-{{< faq question="Can MPS be done during pregnancy?" >}}
-No, tests containing radiation are not performed during pregnancy.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

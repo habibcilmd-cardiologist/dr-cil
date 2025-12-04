@@ -12,6 +12,17 @@ translationKey: "permanent-pacemaker"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Kalp pili takılması ağrılı mı?"
+      answer: "İşlem lokal anestezi altında yapılır, bu nedenle ağrı hissedilmez. İşlem sonrası hafif ağrı ve rahatsızlık olabilir, ancak ağrı kesicilerle kontrol altına alınır."
+    - question: "Kalp pili ne kadar süre çalışır?"
+      answer: "Modern kalp pilleri genellikle 8-15 yıl çalışır. Pil bittiğinde sadece jeneratör değiştirilir, elektrotlar genellikle yerinde kalır."
+    - question: "Kalp pili ile MR çekilebilir mi?"
+      answer: "Yeni nesil MR uyumlu kalp pilleri ile MR çekilebilir. Ancak önceden doktorunuza danışmanız ve özel önlemler alınması gerekir."
+    - question: "Kalp pili ile spor yapabilir miyim?"
+      answer: "Evet, çoğu spor aktivitesi yapılabilir. Ancak temas sporları ve pil bölgesine darbe riski olan aktivitelerden kaçınılmalıdır."
+    - question: "Kalp pili kontrolleri ne sıklıkta yapılır?"
+      answer: "Genellikle 6-12 ayda bir kontrol önerilir. Uzaktan izleme sistemleri ile daha sık takip mümkündür."
 ---
 
 Kalıcı kalp pili (pacemaker), kalbin yavaş atmasını (bradikardi) veya iletim bozukluklarını tedavi etmek için kullanılan küçük bir elektronik cihazdır. Göğüs cildinin altına yerleştirilen bu cihaz, kalbin düzenli atmasını sağlar. Doç. Dr. Habib Çil, kalp pili implantasyonunda geniş deneyime sahip olup, en güncel teknolojileri kullanmaktadır.
@@ -174,25 +185,7 @@ Kalp pili ile normal bir yaşam sürdürebilirsiniz:
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Kalp pili takılması ağrılı mı?" >}}
-İşlem lokal anestezi altında yapılır, bu nedenle ağrı hissedilmez. İşlem sonrası hafif ağrı ve rahatsızlık olabilir, ancak ağrı kesicilerle kontrol altına alınır.
-{{< /faq >}}
-
-{{< faq question="Kalp pili ne kadar süre çalışır?" >}}
-Modern kalp pilleri genellikle 8-15 yıl çalışır. Pil bittiğinde sadece jeneratör değiştirilir, elektrotlar genellikle yerinde kalır.
-{{< /faq >}}
-
-{{< faq question="Kalp pili ile MR çekilebilir mi?" >}}
-Yeni nesil MR uyumlu kalp pilleri ile MR çekilebilir. Ancak önceden doktorunuza danışmanız ve özel önlemler alınması gerekir.
-{{< /faq >}}
-
-{{< faq question="Kalp pili ile spor yapabilir miyim?" >}}
-Evet, çoğu spor aktivitesi yapılabilir. Ancak temas sporları ve pil bölgesine darbe riski olan aktivitelerden kaçınılmalıdır.
-{{< /faq >}}
-
-{{< faq question="Kalp pili kontrolleri ne sıklıkta yapılır?" >}}
-Genellikle 6-12 ayda bir kontrol önerilir. Uzaktan izleme sistemleri ile daha sık takip mümkündür.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

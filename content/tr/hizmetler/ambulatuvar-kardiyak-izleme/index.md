@@ -12,6 +12,17 @@ translationKey: "ambulatory-cardiac-monitoring"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Holter takılıyken duş alabilir miyim?"
+      answer: "Hayır, cihaz suya dayanıklı değildir. Duş almaktan kaçınmalısınız."
+    - question: "Holter günlük aktivitelerimi etkiler mi?"
+      answer: "Hayır, normal aktivitelerinize devam edebilirsiniz."
+    - question: "Event recorder ne kadar süre takılır?"
+      answer: "Semptomların sıklığına göre haftalar sürebilir."
+    - question: "İmplante loop recorder ameliyat mı?"
+      answer: "Hayır, lokal anestezi ile küçük bir işlemdir."
+    - question: "Holter sonuçları ne zaman çıkar?"
+      answer: "Genellikle 1-2 gün içinde sonuçlar hazır olur."
 ---
 
 Ambulatuvar kardiyak izleme, günlük yaşam sırasında kalp ritminin sürekli kaydedilmesidir. Doç. Dr. Habib Çil, ambulatuvar kardiyak izleme ve değerlendirmede geniş deneyime sahiptir.
@@ -124,25 +135,7 @@ Ambulatuvar kardiyak izleme, hastanın günlük aktiviteleri sırasında kalp ri
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Holter takılıyken duş alabilir miyim?" >}}
-Hayır, cihaz suya dayanıklı değildir. Duş almaktan kaçınmalısınız.
-{{< /faq >}}
-
-{{< faq question="Holter günlük aktivitelerimi etkiler mi?" >}}
-Hayır, normal aktivitelerinize devam edebilirsiniz.
-{{< /faq >}}
-
-{{< faq question="Event recorder ne kadar süre takılır?" >}}
-Semptomların sıklığına göre haftalar sürebilir.
-{{< /faq >}}
-
-{{< faq question="İmplante loop recorder ameliyat mı?" >}}
-Hayır, lokal anestezi ile küçük bir işlemdir.
-{{< /faq >}}
-
-{{< faq question="Holter sonuçları ne zaman çıkar?" >}}
-Genellikle 1-2 gün içinde sonuçlar hazır olur.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

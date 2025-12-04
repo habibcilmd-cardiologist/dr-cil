@@ -12,6 +12,17 @@ translationKey: "pericardiocentesis"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Perikardiyosentez ağrılı mı?"
+      answer: "Lokal anestezi ile yapılır ve genellikle ağrı hissedilmez."
+    - question: "Perikardiyosentez sonrası sıvı tekrar birikir mi?"
+      answer: "Altta yatan nedene bağlıdır. Bazı hastalarda tekrarlayabilir."
+    - question: "Perikardiyosentez ne kadar sürer?"
+      answer: "İşlem genellikle 30-60 dakika sürer."
+    - question: "Perikardiyosentez sonrası ne zaman taburcu olurum?"
+      answer: "Genellikle 1-2 gün gözlem sonrası taburcu olunabilir."
+    - question: "Perikardiyosentez riskleri nelerdir?"
+      answer: "Ciddi komplikasyonlar nadir görülür. Kalp perforasyonu riski düşüktür."
 ---
 
 Perikardiyosentez, kalp zarı (perikard) ile kalp arasında biriken sıvının iğne ile boşaltılmasıdır. Doç. Dr. Habib Çil, perikardiyosentez işleminde geniş deneyime sahiptir.
@@ -131,25 +142,7 @@ Toplam süre: 30-60 dakika
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Perikardiyosentez ağrılı mı?" >}}
-Lokal anestezi ile yapılır ve genellikle ağrı hissedilmez.
-{{< /faq >}}
-
-{{< faq question="Perikardiyosentez sonrası sıvı tekrar birikir mi?" >}}
-Altta yatan nedene bağlıdır. Bazı hastalarda tekrarlayabilir.
-{{< /faq >}}
-
-{{< faq question="Perikardiyosentez ne kadar sürer?" >}}
-İşlem genellikle 30-60 dakika sürer.
-{{< /faq >}}
-
-{{< faq question="Perikardiyosentez sonrası ne zaman taburcu olurum?" >}}
-Genellikle 1-2 gün gözlem sonrası taburcu olunabilir.
-{{< /faq >}}
-
-{{< faq question="Perikardiyosentez riskleri nelerdir?" >}}
-Ciddi komplikasyonlar nadir görülür. Kalp perforasyonu riski düşüktür.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

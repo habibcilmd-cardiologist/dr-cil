@@ -12,6 +12,17 @@ translationKey: "cardiac-catheterization"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Kardiyak kateterizasyon ağrılı mı?"
+      answer: "Lokal anestezi ile yapılır ve genellikle ağrı hissedilmez."
+    - question: "Kateterizasyon ne kadar sürer?"
+      answer: "Tanısal işlem 30-60 dakika, girişimsel işlemler daha uzun sürebilir."
+    - question: "Kateterizasyon sonrası ne zaman taburcu olurum?"
+      answer: "Genellikle aynı gün veya ertesi gün taburcu olunabilir."
+    - question: "Kateterizasyon riskleri nelerdir?"
+      answer: "Ciddi komplikasyonlar nadir görülür. Kanama ve enfeksiyon riski düşüktür."
+    - question: "Kateterizasyon sırasında uyanık mıyım?"
+      answer: "Evet, lokal anestezi ile yapılır ve işlem boyunca uyanıksınız."
 ---
 
 Kardiyak kateterizasyon, kalp odacıkları ve damarlarına kateter yerleştirilerek yapılan tanısal ve tedavi amaçlı işlemdir. Doç. Dr. Habib Çil, kardiyak kateterizasyon işleminde geniş deneyime sahiptir.
@@ -118,25 +129,7 @@ Toplam süre: 30-60 dakika
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Kardiyak kateterizasyon ağrılı mı?" >}}
-Lokal anestezi ile yapılır ve genellikle ağrı hissedilmez.
-{{< /faq >}}
-
-{{< faq question="Kateterizasyon ne kadar sürer?" >}}
-Tanısal işlem 30-60 dakika, girişimsel işlemler daha uzun sürebilir.
-{{< /faq >}}
-
-{{< faq question="Kateterizasyon sonrası ne zaman taburcu olurum?" >}}
-Genellikle aynı gün veya ertesi gün taburcu olunabilir.
-{{< /faq >}}
-
-{{< faq question="Kateterizasyon riskleri nelerdir?" >}}
-Ciddi komplikasyonlar nadir görülür. Kanama ve enfeksiyon riski düşüktür.
-{{< /faq >}}
-
-{{< faq question="Kateterizasyon sırasında uyanık mıyım?" >}}
-Evet, lokal anestezi ile yapılır ve işlem boyunca uyanıksınız.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

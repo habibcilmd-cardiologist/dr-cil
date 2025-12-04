@@ -12,6 +12,17 @@ translationKey: "holter"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Holter takılıyken duş alabilir miyim?"
+      answer: "Hayır, cihaz suya dayanıklı değildir. Kayıt süresince duş veya banyo yapılmamalıdır."
+    - question: "Holter günlük aktiviteleri etkiler mi?"
+      answer: "Hayır, normal günlük aktivitelere devam edebilirsiniz. Sadece su ile temastan kaçınmalısınız."
+    - question: "Holter sonucu ne zaman çıkar?"
+      answer: "Kayıt tamamlandıktan sonra 1-2 gün içinde sonuçlar değerlendirilir."
+    - question: "Holter ağrılı mı?"
+      answer: "Hayır, sadece elektrotların yapıştırılması gerekir. Ağrı veya rahatsızlık yoktur."
+    - question: "Holter takılıyken uyuyabilir miyim?"
+      answer: "Evet, normal şekilde uyuyabilirsiniz. Cihaz uyku sırasında da kayıt yapar."
 ---
 
 Holter monitörizasyonu, kalbin elektriksel aktivitesinin 24-48 saat veya daha uzun süre sürekli olarak kaydedilmesidir. Aralıklı ritim bozukluklarının tespitinde altın standart yöntemdir. Doç. Dr. Habib Çil, Holter değerlendirmesinde geniş deneyime sahiptir.
@@ -137,25 +148,7 @@ Holter, taşınabilir bir EKG kayıt cihazıdır. Günlük aktiviteler sırasın
 
 ## Sık Sorulan Sorular
 
-{{< faq question="Holter takılıyken duş alabilir miyim?" >}}
-Hayır, cihaz suya dayanıklı değildir. Kayıt süresince duş veya banyo yapılmamalıdır.
-{{< /faq >}}
-
-{{< faq question="Holter günlük aktiviteleri etkiler mi?" >}}
-Hayır, normal günlük aktivitelere devam edebilirsiniz. Sadece su ile temastan kaçınmalısınız.
-{{< /faq >}}
-
-{{< faq question="Holter sonucu ne zaman çıkar?" >}}
-Kayıt tamamlandıktan sonra 1-2 gün içinde sonuçlar değerlendirilir.
-{{< /faq >}}
-
-{{< faq question="Holter ağrılı mı?" >}}
-Hayır, sadece elektrotların yapıştırılması gerekir. Ağrı veya rahatsızlık yoktur.
-{{< /faq >}}
-
-{{< faq question="Holter takılıyken uyuyabilir miyim?" >}}
-Evet, normal şekilde uyuyabilirsiniz. Cihaz uyku sırasında da kayıt yapar.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Randevu ve İletişim
 

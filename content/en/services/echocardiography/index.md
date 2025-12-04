@@ -12,6 +12,17 @@ translationKey: "echocardiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is echocardiography painful?"
+      answer: "No, transthoracic echocardiography is a completely painless procedure. Only gel is applied to the chest and imaging is done with a probe."
+    - question: "How long does echocardiography take?"
+      answer: "Standard transthoracic echocardiography takes 20-45 minutes."
+    - question: "Do I need to fast for echocardiography?"
+      answer: "Fasting is not required for transthoracic echo. 6 hours fasting is required for transesophageal echo."
+    - question: "Is echocardiography harmful?"
+      answer: "No, since ultrasound waves are used, it contains no radiation and is completely safe."
+    - question: "When do echocardiography results come out?"
+      answer: "Results are usually evaluated and reported on the same day."
 ---
 
 Echocardiography is a non-invasive imaging method that evaluates the structure and function of the heart using ultrasound waves. It is one of the most valuable diagnostic tools in cardiology. Assoc. Prof. Dr. Habib Çil has extensive experience in echocardiography interpretation.
@@ -143,25 +154,7 @@ Echocardiography uses sound waves to create real-time moving images of the heart
 
 ## Frequently Asked Questions
 
-{{< faq question="Is echocardiography painful?" >}}
-No, transthoracic echocardiography is a completely painless procedure. Only gel is applied to the chest and imaging is done with a probe.
-{{< /faq >}}
-
-{{< faq question="How long does echocardiography take?" >}}
-Standard transthoracic echocardiography takes 20-45 minutes.
-{{< /faq >}}
-
-{{< faq question="Do I need to fast for echocardiography?" >}}
-Fasting is not required for transthoracic echo. 6 hours fasting is required for transesophageal echo.
-{{< /faq >}}
-
-{{< faq question="Is echocardiography harmful?" >}}
-No, since ultrasound waves are used, it contains no radiation and is completely safe.
-{{< /faq >}}
-
-{{< faq question="When do echocardiography results come out?" >}}
-Results are usually evaluated and reported on the same day.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

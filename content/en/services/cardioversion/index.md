@@ -12,6 +12,17 @@ translationKey: "cardioversion"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is cardioversion painful?"
+      answer: "Electrical cardioversion is performed under sedation, so no pain is felt. There may be mild chest discomfort when you wake up."
+    - question: "How long does cardioversion take?"
+      answer: "The procedure itself takes a few seconds. Including preparation and recovery, you stay in the hospital for 1-2 hours total."
+    - question: "When can I return to work after cardioversion?"
+      answer: "Most patients can return to normal activities the next day. You should not drive the same day due to sedation."
+    - question: "Is cardioversion permanent?"
+      answer: "Cardioversion corrects the rhythm but recurrence may occur. Treatment of underlying causes is important for long-term success."
+    - question: "Do I need to take medication after cardioversion?"
+      answer: "Yes, anticoagulant and antiarrhythmic medications are usually required. Duration and type are determined by the doctor."
 ---
 
 Cardioversion is a treatment method applied to restore abnormal heart rhythm to normal sinus rhythm. It can be performed electrically or pharmacologically. Assoc. Prof. Dr. Habib Çil has extensive experience in cardioversion procedures.
@@ -146,25 +157,7 @@ Procedure risks:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is cardioversion painful?" >}}
-Electrical cardioversion is performed under sedation, so no pain is felt. There may be mild chest discomfort when you wake up.
-{{< /faq >}}
-
-{{< faq question="How long does cardioversion take?" >}}
-The procedure itself takes a few seconds. Including preparation and recovery, you stay in the hospital for 1-2 hours total.
-{{< /faq >}}
-
-{{< faq question="When can I return to work after cardioversion?" >}}
-Most patients can return to normal activities the next day. You should not drive the same day due to sedation.
-{{< /faq >}}
-
-{{< faq question="Is cardioversion permanent?" >}}
-Cardioversion corrects the rhythm but recurrence may occur. Treatment of underlying causes is important for long-term success.
-{{< /faq >}}
-
-{{< faq question="Do I need to take medication after cardioversion?" >}}
-Yes, anticoagulant and antiarrhythmic medications are usually required. Duration and type are determined by the doctor.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

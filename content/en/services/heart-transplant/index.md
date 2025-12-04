@@ -12,6 +12,17 @@ translationKey: "heart-transplant"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "How long will I live after heart transplant?"
+      answer: "1-year survival is 85-90%, 10-year survival is around 50-55%."
+    - question: "Is medication use necessary after heart transplant?"
+      answer: "Yes, lifelong immunosuppressive medication use is required."
+    - question: "How long is the heart transplant waiting time?"
+      answer: "Waiting time is variable. It depends on urgency and finding a suitable donor."
+    - question: "Is normal life possible after heart transplant?"
+      answer: "Yes, many patients can return to normal life."
+    - question: "Is there an age limit for heart transplant?"
+      answer: "Generally, over 70 years is a relative contraindication."
 ---
 
 Heart transplant is a life-saving surgical procedure performed in end-stage heart failure. Assoc. Prof. Dr. Habib Çil has extensive experience in pre-transplant evaluation and post-transplant follow-up.
@@ -117,25 +128,7 @@ Total duration: 4-8 hours
 
 ## Frequently Asked Questions
 
-{{< faq question="How long will I live after heart transplant?" >}}
-1-year survival is 85-90%, 10-year survival is around 50-55%.
-{{< /faq >}}
-
-{{< faq question="Is medication use necessary after heart transplant?" >}}
-Yes, lifelong immunosuppressive medication use is required.
-{{< /faq >}}
-
-{{< faq question="How long is the heart transplant waiting time?" >}}
-Waiting time is variable. It depends on urgency and finding a suitable donor.
-{{< /faq >}}
-
-{{< faq question="Is normal life possible after heart transplant?" >}}
-Yes, many patients can return to normal life.
-{{< /faq >}}
-
-{{< faq question="Is there an age limit for heart transplant?" >}}
-Generally, over 70 years is a relative contraindication.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

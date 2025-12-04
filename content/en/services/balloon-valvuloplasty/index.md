@@ -12,6 +12,17 @@ translationKey: "balloon-valvuloplasty"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is balloon valvuloplasty painful?"
+      answer: "No pain is felt as it is performed under local or general anesthesia."
+    - question: "How long is recovery after balloon valvuloplasty?"
+      answer: "Usually 1-2 days hospital stay is sufficient. Normal activities can be resumed within 1 week."
+    - question: "Is balloon valvuloplasty permanent?"
+      answer: "It provides long-term effect in mitral stenosis. It is temporary in aortic stenosis."
+    - question: "What are the risks of balloon valvuloplasty?"
+      answer: "Severe mitral regurgitation, tamponade, and embolism are rare complications."
+    - question: "Am I suitable for balloon valvuloplasty?"
+      answer: "Decision is made by evaluating valve anatomy and accompanying conditions."
 ---
 
 Balloon valvuloplasty is a procedure to dilate a narrowed heart valve using a balloon catheter. It is an effective treatment method especially for mitral and pulmonary valve stenosis. Assoc. Prof. Dr. Habib Çil has extensive experience in balloon valvuloplasty procedures.
@@ -136,25 +147,7 @@ Total duration: 1-2 hours
 
 ## Frequently Asked Questions
 
-{{< faq question="Is balloon valvuloplasty painful?" >}}
-No pain is felt as it is performed under local or general anesthesia.
-{{< /faq >}}
-
-{{< faq question="How long is recovery after balloon valvuloplasty?" >}}
-Usually 1-2 days hospital stay is sufficient. Normal activities can be resumed within 1 week.
-{{< /faq >}}
-
-{{< faq question="Is balloon valvuloplasty permanent?" >}}
-It provides long-term effect in mitral stenosis. It is temporary in aortic stenosis.
-{{< /faq >}}
-
-{{< faq question="What are the risks of balloon valvuloplasty?" >}}
-Severe mitral regurgitation, tamponade, and embolism are rare complications.
-{{< /faq >}}
-
-{{< faq question="Am I suitable for balloon valvuloplasty?" >}}
-Decision is made by evaluating valve anatomy and accompanying conditions.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 

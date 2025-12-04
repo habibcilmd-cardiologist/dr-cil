@@ -15,6 +15,23 @@ tags:
     ]
 author: "Doç. Dr. Habib ÇİL"
 showTableOfContents: true
+faq:
+    - question: "PAH tamamen iyileşir mi?"
+      answer: "PAH'ın altta yatan nedeni olan ateroskleroz kronik bir süreçtir ve tamamen geri dönmez. Ancak yaşam tarzı değişiklikleri, ilaç tedavisi ve gerektiğinde girişimsel tedavilerle hastalığın ilerlemesi durdurulabilir, belirtiler azaltılabilir ve ampütasyon önlenebilir."
+    - question: "Yürüyüş ağrı yapıyorsa egzersiz yapmalı mıyım?"
+      answer: "Evet! Paradoks gibi görünse de, düzenli yürüyüş programları PAH tedavisinin temel taşlarından biridir. Ağrı başlayınca durup dinlenin, geçince tekrar yürümeye devam edin. Bu \"dur-kalk\" yöntemi ile damarlarınız yeni bağlantılar (kollateral) geliştirerek kan akışını artırır."
+    - question: "Sigara ile PAH arasındaki ilişki nedir?"
+      answer: "Sigara, PAH'ın en önemli risk faktörüdür ve hastalığı hızla ilerletir. Sigara içenler içmeyenlere göre 4 kat fazla PAH riski taşır. Sigarayı bırakmak tedavinin en kritik adımıdır ve tek başına hastalığın seyrini değiştirebilir."
+    - question: "PAH kalp krizine neden olur mu?"
+      answer: "PAH, tüm vücuttaki aterosklerozun bir göstergesidir. PAH tanısı alan hastaların %50'sinden fazlasında aynı zamanda koroner arter hastalığı da vardır. Bu nedenle PAH hastaları kalp krizi ve inme açısından yüksek risk altındadır ve kalp sağlığı takibi gereklidir."
+    - question: "Stent mi bypass mı daha iyi?"
+      answer: "Her iki tedavinin de avantaj ve dezavantajları vardır. Karar, tıkanıklığın yeri ve uzunluğu, hastanın genel durumu ve eşlik eden hastalıklara göre bireysel olarak verilir. Kısa segment tıkanıklıklarda endovasküler tedavi, uzun segment ve çok sayıda tıkanıklıkta bypass tercih edilebilir."
+    - question: "Diyabet PAH'ı nasıl etkiler?"
+      answer: "Diyabet, PAH riskini 2-4 kat artırır ve hastalığın seyrini olumsuz etkiler. Diyabetik hastalarda periferik nöropati nedeniyle ağrı duyumu azalabilir, bu da tanının gecikmesine neden olabilir. Ayrıca yara iyileşmesi bozulur ve enfeksiyon riski artar."
+    - question: "PAH'ta ayak bakımı neden önemli?"
+      answer: "PAH'ta kan akışının azalması nedeniyle küçük yaralar bile iyileşmekte zorlanır ve enfeksiyona yatkındır. Fark edilmeyen ayak yaraları gangrene ilerleyebilir. Bu nedenle ayakların günlük kontrolü, uygun ayakkabı seçimi ve düzenli bakım hayati önem taşır."
+    - question: "PAH önlenebilir mi?"
+      answer: "PAH büyük ölçüde önlenebilir bir hastalıktır. Sigara içmemek, düzenli egzersiz, sağlıklı beslenme, kan basıncı ve kolesterol kontrolü, diyabet yönetimi ile PAH riski önemli ölçüde azaltılabilir. Risk faktörlerinin erken dönemde kontrolü kritik öneme sahiptir."
 ---
 
 {{< lead >}}
@@ -340,37 +357,7 @@ PAH ile yaşarken dikkat edilmesi gerekenler:
 
 ## Sık Sorulan Sorular (SSS)
 
-{{< faq question="PAH tamamen iyileşir mi?" >}}
-PAH'ın altta yatan nedeni olan ateroskleroz kronik bir süreçtir ve tamamen geri dönmez. Ancak yaşam tarzı değişiklikleri, ilaç tedavisi ve gerektiğinde girişimsel tedavilerle hastalığın ilerlemesi durdurulabilir, belirtiler azaltılabilir ve ampütasyon önlenebilir.
-{{< /faq >}}
-
-{{< faq question="Yürüyüş ağrı yapıyorsa egzersiz yapmalı mıyım?" >}}
-Evet! Paradoks gibi görünse de, düzenli yürüyüş programları PAH tedavisinin temel taşlarından biridir. Ağrı başlayınca durup dinlenin, geçince tekrar yürümeye devam edin. Bu "dur-kalk" yöntemi ile damarlarınız yeni bağlantılar (kollateral) geliştirerek kan akışını artırır.
-{{< /faq >}}
-
-{{< faq question="Sigara ile PAH arasındaki ilişki nedir?" >}}
-Sigara, PAH'ın en önemli risk faktörüdür ve hastalığı hızla ilerletir. Sigara içenler içmeyenlere göre 4 kat fazla PAH riski taşır. Sigarayı bırakmak tedavinin en kritik adımıdır ve tek başına hastalığın seyrini değiştirebilir.
-{{< /faq >}}
-
-{{< faq question="PAH kalp krizine neden olur mu?" >}}
-PAH, tüm vücuttaki aterosklerozun bir göstergesidir. PAH tanısı alan hastaların %50'sinden fazlasında aynı zamanda koroner arter hastalığı da vardır. Bu nedenle PAH hastaları kalp krizi ve inme açısından yüksek risk altındadır ve kalp sağlığı takibi gereklidir.
-{{< /faq >}}
-
-{{< faq question="Stent mi bypass mı daha iyi?" >}}
-Her iki tedavinin de avantaj ve dezavantajları vardır. Karar, tıkanıklığın yeri ve uzunluğu, hastanın genel durumu ve eşlik eden hastalıklara göre bireysel olarak verilir. Kısa segment tıkanıklıklarda endovasküler tedavi, uzun segment ve çok sayıda tıkanıklıkta bypass tercih edilebilir.
-{{< /faq >}}
-
-{{< faq question="Diyabet PAH'ı nasıl etkiler?" >}}
-Diyabet, PAH riskini 2-4 kat artırır ve hastalığın seyrini olumsuz etkiler. Diyabetik hastalarda periferik nöropati nedeniyle ağrı duyumu azalabilir, bu da tanının gecikmesine neden olabilir. Ayrıca yara iyileşmesi bozulur ve enfeksiyon riski artar.
-{{< /faq >}}
-
-{{< faq question="PAH'ta ayak bakımı neden önemli?" >}}
-PAH'ta kan akışının azalması nedeniyle küçük yaralar bile iyileşmekte zorlanır ve enfeksiyona yatkındır. Fark edilmeyen ayak yaraları gangrene ilerleyebilir. Bu nedenle ayakların günlük kontrolü, uygun ayakkabı seçimi ve düzenli bakım hayati önem taşır.
-{{< /faq >}}
-
-{{< faq question="PAH önlenebilir mi?" >}}
-PAH büyük ölçüde önlenebilir bir hastalıktır. Sigara içmemek, düzenli egzersiz, sağlıklı beslenme, kan basıncı ve kolesterol kontrolü, diyabet yönetimi ile PAH riski önemli ölçüde azaltılabilir. Risk faktörlerinin erken dönemde kontrolü kritik öneme sahiptir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Ne Zaman Doktora Başvurmalısınız?
 

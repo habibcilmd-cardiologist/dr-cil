@@ -12,6 +12,17 @@ translationKey: "stress-echocardiography"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
+faq:
+    - question: "Is stress echocardiography painful?"
+      answer: "No, the procedure is painless. Fatigue may be felt during exercise."
+    - question: "How long does stress echocardiography take?"
+      answer: "Total procedure duration is 45-60 minutes."
+    - question: "Do I need to fast for stress echocardiography?"
+      answer: "Yes, food should not be eaten 4 hours before the procedure."
+    - question: "Can I have stress echocardiography if I cannot exercise?"
+      answer: "Yes, pharmacological (dobutamine) stress echocardiography can be performed."
+    - question: "When do stress echocardiography results come out?"
+      answer: "Results are evaluated immediately after the procedure."
 ---
 
 Stress echocardiography is an echocardiographic evaluation performed while the heart is under stress from exercise or medication. It has high accuracy in diagnosing coronary artery disease. Assoc. Prof. Dr. Habib Çil has extensive experience in stress echocardiography evaluation.
@@ -134,25 +145,7 @@ Risks are low:
 
 ## Frequently Asked Questions
 
-{{< faq question="Is stress echocardiography painful?" >}}
-No, the procedure is painless. Fatigue may be felt during exercise.
-{{< /faq >}}
-
-{{< faq question="How long does stress echocardiography take?" >}}
-Total procedure duration is 45-60 minutes.
-{{< /faq >}}
-
-{{< faq question="Do I need to fast for stress echocardiography?" >}}
-Yes, food should not be eaten 4 hours before the procedure.
-{{< /faq >}}
-
-{{< faq question="Can I have stress echocardiography if I cannot exercise?" >}}
-Yes, pharmacological (dobutamine) stress echocardiography can be performed.
-{{< /faq >}}
-
-{{< faq question="When do stress echocardiography results come out?" >}}
-Results are evaluated immediately after the procedure.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Appointment and Contact
 
