@@ -282,9 +282,8 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	  ]
 	}
 </script>
-{{ else if or (in .File.Path "klinik") (in .File.Path "clinic") (in .File.Path
-"hizmetler") (in .File.Path "services") }} {{/* MedicalWebPage Schema for
-clinic/service pages */}}
+{{ else if or (in .File.Path "klinik") (in .File.Path "clinic") }} {{/* MedicalWebPage Schema for
+clinic pages */}}
 <script type="application/ld+json">
 	{
 	  "@context": "https://schema.org",

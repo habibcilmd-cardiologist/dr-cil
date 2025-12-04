@@ -3,8 +3,8 @@
 Dr. Habib ÇİL - MedicalProcedure Schema Partial Generates JSON-LD for medical
 procedure pages
 =============================================================================
-*/}} {{ if .File }} {{ if or (in .File.Path "hizmetler/") (in .File.Path
-"services/") }} {{ if not (eq .File.ContentBaseName "index") }}
+*/}} {{ if .File }} {{ if and (or (in .File.Path "hizmetler/") (in .File.Path
+"services/")) (eq .Kind "page") }}
 <script type="application/ld+json">
 	{
 	  "@context": "https://schema.org",
@@ -104,4 +104,4 @@ procedure pages
 	  ]
 	}
 </script>
-{{ end }} {{ end }} {{ end }}
+{{ end }} {{ end }}
