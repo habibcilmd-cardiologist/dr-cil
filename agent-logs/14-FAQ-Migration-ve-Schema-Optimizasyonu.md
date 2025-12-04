@@ -1,4 +1,4 @@
-# Task 12: FAQ Migration ve Schema Optimizasyonu
+# Task 14: FAQ Migration ve Schema Optimizasyonu
 
 **Tarih:** 2024-12-04  
 **Durum:** ✅ TAMAMLANDI  
@@ -12,13 +12,13 @@ Bu görevde tüm FAQ shortcode'ları front matter YAML formatına migrate edildi
 
 ### Yapılan İşlemler
 
-| İşlem | Sonuç |
-|-------|-------|
-| FAQ Migration | 126 sayfa, 668 FAQ |
-| JSON-LD FAQPage Schema | ✅ Tüm FAQ sayfalarında |
-| Microdata FAQPage | ✅ HTML içinde |
-| Schema Çakışması | ✅ Giderildi |
-| Google Rich Snippets Uyumu | ✅ Tam uyumlu |
+| İşlem                      | Sonuç                   |
+| -------------------------- | ----------------------- |
+| FAQ Migration              | 126 sayfa, 668 FAQ      |
+| JSON-LD FAQPage Schema     | ✅ Tüm FAQ sayfalarında |
+| Microdata FAQPage          | ✅ HTML içinde          |
+| Schema Çakışması           | ✅ Giderildi            |
+| Google Rich Snippets Uyumu | ✅ Tam uyumlu           |
 
 ---
 
@@ -96,24 +96,25 @@ flowchart LR
 ```
 
 **JSON-LD Yapısı:**
+
 ```json
 {
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": ["Person", "Physician"],
-      "@id": "https://drhabibcil.com/#physician",
-      "name": "Doç. Dr. Habib ÇİL",
-      "medicalSpecialty": ["Cardiology", "InterventionalCardiology"],
-      "worksFor": { "@id": "https://drhabibcil.com/#business" }
-    },
-    {
-      "@type": ["MedicalBusiness", "MedicalClinic"],
-      "@id": "https://drhabibcil.com/#business",
-      "name": "Doç. Dr. Habib ÇİL Kardiyoloji",
-      "founder": { "@id": "https://drhabibcil.com/#physician" }
-    }
-  ]
+	"@context": "https://schema.org",
+	"@graph": [
+		{
+			"@type": ["Person", "Physician"],
+			"@id": "https://drhabibcil.com/#physician",
+			"name": "Doç. Dr. Habib ÇİL",
+			"medicalSpecialty": ["Cardiology", "InterventionalCardiology"],
+			"worksFor": { "@id": "https://drhabibcil.com/#business" }
+		},
+		{
+			"@type": ["MedicalBusiness", "MedicalClinic"],
+			"@id": "https://drhabibcil.com/#business",
+			"name": "Doç. Dr. Habib ÇİL Kardiyoloji",
+			"founder": { "@id": "https://drhabibcil.com/#physician" }
+		}
+	]
 }
 ```
 
@@ -125,13 +126,13 @@ flowchart LR
 flowchart TB
     subgraph BLOG_PAGE["📝 Blog Sayfası Schema Yapısı"]
         direction LR
-        
+
         subgraph GRAPH1["@graph Array"]
             direction TB
             ARTICLE["@type: [Article, MedicalWebPage, MedicalScholarlyArticle]"]
             BREADCRUMB["@type: BreadcrumbList"]
         end
-        
+
         subgraph GRAPH2["Ayrı Script"]
             FAQPAGE["@type: FAQPage"]
         end
@@ -140,7 +141,7 @@ flowchart TB
     ARTICLE --> |"headline"| TITLE["Makale Başlığı"]
     ARTICLE --> |"author"| AUTHOR["Doç. Dr. Habib ÇİL"]
     ARTICLE --> |"medicalAudience"| AUDIENCE["Patient, Clinician"]
-    
+
     FAQPAGE --> |"mainEntity"| QUESTIONS["Question Array"]
     QUESTIONS --> Q1["Soru 1 + Answer"]
     QUESTIONS --> Q2["Soru 2 + Answer"]
@@ -160,9 +161,9 @@ flowchart LR
         B["MedicalWebPage"] --> |"Tıbbi içerik işareti"| PROPS2["medicalAudience, specialty"]
         C["MedicalScholarlyArticle"] --> |"Akademik makale"| PROPS3["publicationType, citation"]
     end
-    
+
     RESULT["Sonuç: Google bu içeriği<br/>ZENGİN TIBBİ MAKALE<br/>olarak algılar"]
-    
+
     A --> RESULT
     B --> RESULT
     C --> RESULT
@@ -180,7 +181,7 @@ flowchart LR
 flowchart TB
     subgraph SERVICE_PAGE["🏥 Hizmet Sayfası Schema"]
         direction LR
-        
+
         subgraph PROC_SCHEMA["MedicalProcedure Schema"]
             MP["@type: MedicalProcedure"]
             MP --> NAME["name: TAVI"]
@@ -191,12 +192,12 @@ flowchart TB
             MP --> PREP["preparation: ..."]
             MP --> FOLLOW["followup: ..."]
         end
-        
+
         subgraph FAQ_SCHEMA["FAQPage Schema"]
             FAQ["@type: FAQPage"]
             FAQ --> ME["mainEntity: [...]"]
         end
-        
+
         subgraph BC_SCHEMA["BreadcrumbList"]
             BC["@type: BreadcrumbList"]
         end
@@ -219,11 +220,11 @@ flowchart TB
         ROOT --> NAME["name: Sayfa Başlığı - SSS"]
         ROOT --> URL["url: /page/"]
         ROOT --> MAIN["mainEntity: Array"]
-        
+
         MAIN --> Q1["Question 1"]
         MAIN --> Q2["Question 2"]
         MAIN --> QN["Question N"]
-        
+
         Q1 --> Q1_NAME["name: Soru metni?"]
         Q1 --> Q1_ANS["acceptedAnswer"]
         Q1_ANS --> A1["Answer"]
@@ -236,23 +237,24 @@ flowchart TB
 ```
 
 **Örnek FAQPage JSON-LD:**
+
 ```json
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "@id": "https://drhabibcil.com/tr/blog/koroner-arter-hastaligi/#faq",
-  "name": "Koroner Arter Hastalığı - Sık Sorulan Sorular",
-  "url": "https://drhabibcil.com/tr/blog/koroner-arter-hastaligi/",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Koroner arter hastalığı tamamen iyileşir mi?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ateroskleroz kronik bir süreçtir..."
-      }
-    }
-  ]
+	"@context": "https://schema.org",
+	"@type": "FAQPage",
+	"@id": "https://drhabibcil.com/tr/blog/koroner-arter-hastaligi/#faq",
+	"name": "Koroner Arter Hastalığı - Sık Sorulan Sorular",
+	"url": "https://drhabibcil.com/tr/blog/koroner-arter-hastaligi/",
+	"mainEntity": [
+		{
+			"@type": "Question",
+			"name": "Koroner arter hastalığı tamamen iyileşir mi?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Ateroskleroz kronik bir süreçtir..."
+			}
+		}
+	]
 }
 ```
 
@@ -276,7 +278,7 @@ flowchart TD
         A_OVERRIDE --> |"Hizmetler?"| A_SKIP2["ATLA"]
         A_OVERRIDE --> |"Klinik?"| A_SKIP3["ATLA"]
         A_OVERRIDE --> |"Diğer?"| A_BASIC["Basit Article"]
-        
+
         A_CUSTOM["extend-head-uncached.html"]
         A_CUSTOM --> A_MEDICAL["MedicalScholarlyArticle<br/>MedicalProcedure<br/>MedicalWebPage"]
     end
@@ -317,30 +319,30 @@ flowchart TD
 flowchart TB
     subgraph FULL_SCHEMA["🌐 drhabibcil.com - Tam Schema Haritası"]
         direction TB
-        
+
         subgraph HOME_S["🏠 Homepage"]
             H_WS["WebSite"]
             H_PHY["Physician"]
             H_MB["MedicalBusiness"]
         end
-        
+
         subgraph BLOG_S["📝 Blog (21 sayfa)"]
             B_MSA["[Article, MedicalWebPage,<br/>MedicalScholarlyArticle]"]
             B_FAQ["FAQPage"]
             B_BC["BreadcrumbList"]
         end
-        
+
         subgraph HIZMET_S["🏥 Hizmetler (53 sayfa)"]
             S_MP["MedicalProcedure"]
             S_FAQ["FAQPage"]
             S_BC["BreadcrumbList"]
         end
-        
+
         subgraph KLINIK_S["🏢 Klinik"]
             K_MWP["MedicalWebPage"]
             K_BC["BreadcrumbList"]
         end
-        
+
         subgraph YAYIN_S["📚 Yayınlar"]
             Y_MSA["MedicalScholarlyArticle"]
             Y_BC["BreadcrumbList"]
@@ -361,25 +363,25 @@ flowchart TB
 
 ### Rich Snippets Test Sonuçları
 
-| Schema Türü | Format | Google Desteği | Durum |
-|-------------|--------|----------------|-------|
-| FAQPage | JSON-LD | ✅ Destekleniyor | ✅ Aktif |
-| FAQPage | Microdata | ✅ Destekleniyor | ✅ Aktif |
-| MedicalScholarlyArticle | JSON-LD | ✅ Destekleniyor | ✅ Aktif |
-| MedicalProcedure | JSON-LD | ✅ Destekleniyor | ✅ Aktif |
-| Physician | JSON-LD | ✅ Destekleniyor | ✅ Aktif |
-| MedicalBusiness | JSON-LD | ✅ Destekleniyor | ✅ Aktif |
-| BreadcrumbList | JSON-LD | ✅ Destekleniyor | ✅ Aktif |
+| Schema Türü             | Format    | Google Desteği   | Durum    |
+| ----------------------- | --------- | ---------------- | -------- |
+| FAQPage                 | JSON-LD   | ✅ Destekleniyor | ✅ Aktif |
+| FAQPage                 | Microdata | ✅ Destekleniyor | ✅ Aktif |
+| MedicalScholarlyArticle | JSON-LD   | ✅ Destekleniyor | ✅ Aktif |
+| MedicalProcedure        | JSON-LD   | ✅ Destekleniyor | ✅ Aktif |
+| Physician               | JSON-LD   | ✅ Destekleniyor | ✅ Aktif |
+| MedicalBusiness         | JSON-LD   | ✅ Destekleniyor | ✅ Aktif |
+| BreadcrumbList          | JSON-LD   | ✅ Destekleniyor | ✅ Aktif |
 
 ### Sayfa Başına Schema Dağılımı
 
-| Sayfa Tipi | Sayfa Sayısı | Schema Türleri |
-|------------|--------------|----------------|
-| Homepage | 2 (TR+EN) | WebSite, Physician, MedicalBusiness |
-| Blog | 22 (11 TR + 11 EN) | Article+MedicalWebPage+MedicalScholarlyArticle, FAQPage, BreadcrumbList |
-| Hizmetler | 106 (53 TR + 53 EN) | MedicalProcedure, FAQPage, BreadcrumbList |
-| Klinik | 2 (TR+EN) | MedicalWebPage, BreadcrumbList |
-| Yayınlar | Variable | MedicalScholarlyArticle, BreadcrumbList |
+| Sayfa Tipi | Sayfa Sayısı        | Schema Türleri                                                          |
+| ---------- | ------------------- | ----------------------------------------------------------------------- |
+| Homepage   | 2 (TR+EN)           | WebSite, Physician, MedicalBusiness                                     |
+| Blog       | 22 (11 TR + 11 EN)  | Article+MedicalWebPage+MedicalScholarlyArticle, FAQPage, BreadcrumbList |
+| Hizmetler  | 106 (53 TR + 53 EN) | MedicalProcedure, FAQPage, BreadcrumbList                               |
+| Klinik     | 2 (TR+EN)           | MedicalWebPage, BreadcrumbList                                          |
+| Yayınlar   | Variable            | MedicalScholarlyArticle, BreadcrumbList                                 |
 
 ---
 
@@ -411,10 +413,9 @@ faq:
     - question: "Soru 2?"
       answer: "Cevap 2 metni."
 ---
-
 ## Sık Sorulan Sorular
 
-{{</* faq-list */>}}
+{ { </* faq-list */> } }
 ```
 
 ### faq-list.html Shortcode
@@ -422,18 +423,25 @@ faq:
 ```html
 {{ if .Page.Params.faq }}
 <div class="faq-container" itemscope itemtype="https://schema.org/FAQPage">
-    {{ range .Page.Params.faq }}
-    <div class="faq-item" itemscope itemprop="mainEntity" 
-         itemtype="https://schema.org/Question">
-        <h3>
-            <span itemprop="name">{{ .question }}</span>
-        </h3>
-        <div itemscope itemprop="acceptedAnswer" 
-             itemtype="https://schema.org/Answer">
-            <div itemprop="text">{{ .answer | markdownify }}</div>
-        </div>
-    </div>
-    {{ end }}
+	{{ range .Page.Params.faq }}
+	<div
+		class="faq-item"
+		itemscope
+		itemprop="mainEntity"
+		itemtype="https://schema.org/Question"
+	>
+		<h3>
+			<span itemprop="name">{{ .question }}</span>
+		</h3>
+		<div
+			itemscope
+			itemprop="acceptedAnswer"
+			itemtype="https://schema.org/Answer"
+		>
+			<div itemprop="text">{{ .answer | markdownify }}</div>
+		</div>
+	</div>
+	{{ end }}
 </div>
 {{ end }}
 ```
@@ -483,38 +491,42 @@ flowchart LR
 ## 🧪 Doğrulama Araçları
 
 ### Google Rich Results Test
+
 URL: https://search.google.com/test/rich-results
 
 Test edilecek sayfalar:
-- `https://drhabibcil.com/` (Homepage - Physician, MedicalBusiness)
-- `https://drhabibcil.com/tr/blog/koroner-arter-hastaligi/` (Blog - FAQPage)
-- `https://drhabibcil.com/tr/hizmetler/tavi/` (Hizmet - MedicalProcedure, FAQPage)
+
+-   `https://drhabibcil.com/` (Homepage - Physician, MedicalBusiness)
+-   `https://drhabibcil.com/tr/blog/koroner-arter-hastaligi/` (Blog - FAQPage)
+-   `https://drhabibcil.com/tr/hizmetler/tavi/` (Hizmet - MedicalProcedure, FAQPage)
 
 ### Schema Markup Validator
+
 URL: https://validator.schema.org/
 
 ### Google Search Console
-- Rich Results raporu kontrol edilmeli
-- FAQ enhancement'lar görülmeli
+
+-   Rich Results raporu kontrol edilmeli
+-   FAQ enhancement'lar görülmeli
 
 ---
 
 ## 📋 Migration İstatistikleri
 
-| Metrik | Değer |
-|--------|-------|
-| Migrate edilen dosya sayısı | 126 |
-| Toplam FAQ sayısı | 668 |
-| TR Blog sayfaları | 11 |
-| EN Blog sayfaları | 11 |
-| TR Hizmet sayfaları | 53 |
-| EN Service sayfaları | 53 |
+| Metrik                      | Değer |
+| --------------------------- | ----- |
+| Migrate edilen dosya sayısı | 126   |
+| Toplam FAQ sayısı           | 668   |
+| TR Blog sayfaları           | 11    |
+| EN Blog sayfaları           | 11    |
+| TR Hizmet sayfaları         | 53    |
+| EN Service sayfaları        | 53    |
 
 ### Commit Geçmişi
 
 ```
 7e50115 - Migrate FAQ shortcodes to front matter YAML format
-4af6529 - Pre-FAQ migration backup  
+4af6529 - Pre-FAQ migration backup
 e1db6c4 - Schema conflicts resolved, Blowfish override created
 ```
 
@@ -532,12 +544,11 @@ e1db6c4 - Schema conflicts resolved, Blowfish override created
 
 Bu web sitesi artık:
 
-- ✅ **Google'ın tüm schema gereksinimlerini** karşılıyor
-- ✅ **Çift schema sorunu** tamamen giderildi
-- ✅ **126 sayfada FAQPage** rich snippet desteği var
-- ✅ **Tıbbi içerik** olarak doğru işaretlendi
-- ✅ **Doktor ve klinik bilgileri** yapılandırılmış veri olarak mevcut
-- ✅ **Tüm diller** (TR/EN) için optimize edildi
+-   ✅ **Google'ın tüm schema gereksinimlerini** karşılıyor
+-   ✅ **Çift schema sorunu** tamamen giderildi
+-   ✅ **126 sayfada FAQPage** rich snippet desteği var
+-   ✅ **Tıbbi içerik** olarak doğru işaretlendi
+-   ✅ **Doktor ve klinik bilgileri** yapılandırılmış veri olarak mevcut
+-   ✅ **Tüm diller** (TR/EN) için optimize edildi
 
 **Bu yapı, kardiyoloji alanındaki web siteleri arasında en kapsamlı schema implementasyonlarından birine sahiptir.**
-
