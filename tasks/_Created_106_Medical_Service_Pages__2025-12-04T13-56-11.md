@@ -1,0 +1,36 @@
+[ ] NAME:Current Task List DESCRIPTION:Root task for conversation __NEW_AGENT__
+-[x] NAME:Create Service Detail Pages for Dr. Cil Website DESCRIPTION:Create individual, SEO-optimized service detail pages for all 53 services in both Turkish and English (106 pages total). Each page will have 1500-2000 words of humanized content with MedicalProcedure schema.
+-[x] NAME:Phase 1: Setup Schema and Template Infrastructure DESCRIPTION:Create MedicalProcedure schema partial and update extend-head-uncached.html to include schema for service pages
+-[x] NAME:Phase 2: Coronary Heart Diseases (4 services × 2 languages = 8 pages) DESCRIPTION:Create pages for: Myocardial Infarction, Hypertension, Heart Failure, Coronary Artery Disease
+-[x] NAME:Phase 3: Interventional Cardiology (7 services × 2 languages = 14 pages) DESCRIPTION:Create pages for: TAVI, Coronary Angioplasty, CTO Interventions, Peripheral Vascular, Carotid Stenosis, Left Main Coronary Stent, Alcohol Septal Ablation
+-[x] NAME:Phase 4: Pacemaker and Electrophysiology (8 services × 2 languages = 16 pages) DESCRIPTION:Create pages for: Three-Chamber Pacemaker, Permanent Pacemaker, Temporary Pacemaker, Biventricular Pacemaker, ICD, Ablation, Electrophysiology Study, Cardioversion
+-[x] NAME:Phase 5: Diagnostic Procedures (10 services × 2 languages = 20 pages) DESCRIPTION:Create pages for: Angiography, Exercise Stress Test, EKG, Echocardiography, Holter Monitoring, Stress Echocardiography, Myocardial Perfusion, Radial Angiography, Cardiac CT, Tilt Table Test
+-[x] NAME:Phase 6: Valve Diseases (6 services × 2 languages = 12 pages) DESCRIPTION:Create pages for: Aortic Valve Replacement, Balloon Valvuloplasty, Mitral Balloon Valvuloplasty, Mechanical Valve, Tricuspid Replacement, Valve Repair
+-[x] NAME:Phase 7: Vascular Surgery and Interventions (6 services × 2 languages = 12 pages) DESCRIPTION:Create pages for: AAA Repair, EVAR, Aortic Aneurysm Surgery, Peripheral Bypass, Atherectomy, Carotid Endarterectomy
+-[x] NAME:Phase 8: Coronary Interventions (6 services × 2 languages = 12 pages) DESCRIPTION:Create pages for: Cardiac Angiography, Cardiac Catheterization, Cardiac Stent, Coronary Angioplasty, PCI, PTCA
+-[x] NAME:Phase 9: Cardiac Surgery (4 services × 2 languages = 8 pages) DESCRIPTION:Create pages for: CABG, Heart Transplant, LVAD, Pericardiocentesis
+-[x] NAME:Phase 10: Other Services (2 services × 2 languages = 4 pages) DESCRIPTION:Create pages for: Ambulatory Cardiac Monitoring, Surface Echocardiography
+-[x] NAME:Phase 11: Update Service Listing Pages with Links DESCRIPTION:Hugo automatically links service pages through its routing system. All 106 service pages are accessible.
+-[x] NAME:Phase 12: Build Verification and Testing DESCRIPTION:Hugo build successful with 427 EN pages and 424 TR pages. Schema partial fixed for nil File handling. All service pages are accessible.
+-[ ] NAME:Current Task List DESCRIPTION:Root task for conversation __NEW_AGENT__
+--[x] NAME:FAQ Migration - Full Implementation DESCRIPTION:Migrate all FAQ shortcodes to front matter YAML format with JSON-LD support
+--[x] NAME:Phase 1: Proof of Concept DESCRIPTION:Test migration on 2-3 sample pages before full automation
+--[x] NAME:Phase 2: Automated Migration Script DESCRIPTION:Create Python script to automate FAQ extraction and migration
+--[x] NAME:Phase 3: Full Migration DESCRIPTION:Run migration on all blog and service pages
+--[x] NAME:Phase 4: Cleanup and Documentation DESCRIPTION:Migration complete. Old faq.html shortcode kept for backward compatibility. New faq-list.html shortcode reads from front matter.
+--[ ] NAME:Current Task List DESCRIPTION:Root task for conversation __NEW_AGENT__
+---[x] NAME:SEO Improvements for Cardiology Website DESCRIPTION:Implement comprehensive SEO improvements for service pages and blog posts including title/meta optimization, doctor title updates, internal linking, and heading hierarchy fixes.
+---[x] NAME:1. Analyze current SEO state of all service pages DESCRIPTION:Review all 54 TR and 53 EN service pages to identify generic terminology, incorrect doctor titles, and missing internal links
+---[x] NAME:2. Update Turkish service page titles and descriptions DESCRIPTION:Replace generic 'Medical Services' with specific cardiology terms, update doctor titles to 'Girişimsel Kardiyoloji Uzmanı' where appropriate
+---[x] NAME:3. Update English service page titles and descriptions DESCRIPTION:Replace generic terminology with specific cardiology terms like 'interventional cardiology specialist', 'cardiologist'
+---[x] NAME:4. Implement internal linking strategy for TR service pages DESCRIPTION:Add contextual internal links connecting related cardiology procedures in Turkish service pages
+---[x] NAME:5. Implement internal linking strategy for EN service pages DESCRIPTION:Add contextual internal links connecting related cardiology procedures in English service pages
+---[x] NAME:6. Audit and fix heading hierarchy for TR blog posts DESCRIPTION:Audited all 11 Turkish blog posts. Heading hierarchy is correct: all posts use H2 for main sections, H3 for subsections, and H4 for sub-subsections (where needed). No skipped levels, no multiple H1 tags. Structure is SEO-friendly and follows best practices.
+---[x] NAME:7. Audit and fix heading hierarchy for EN blog posts DESCRIPTION:Audited all 11 English blog posts. Heading hierarchy is correct: all posts use H2 for main sections, H3 for subsections, and H4 for sub-subsections (where needed). No skipped levels, no multiple H1 tags. Structure is SEO-friendly and follows best practices.
+---[x] NAME:8. Audit and fix heading hierarchy for TR service pages DESCRIPTION:Audited all 52 Turkish service pages. Heading hierarchy is correct: all pages use H2 for main sections and H3 for subsections. No H1 tags in content, no skipped levels, no H4+ tags. Structure is SEO-friendly and follows best practices.
+---[x] NAME:9. Audit and fix heading hierarchy for EN service pages DESCRIPTION:Audited all 52 English service pages. Heading hierarchy is correct: all pages use H2 for main sections and H3 for subsections. No H1 tags in content, no skipped levels, no H4+ tags. Structure is SEO-friendly and follows best practices.
+---[x] NAME:10. Final verification and testing DESCRIPTION:Final verification completed successfully. Hugo build passed with no errors (381 total pages). All 104 service pages have updated doctor titles and internal linking. All 22 blog posts have correct heading hierarchy. SEO improvements fully implemented.
+---[ ] NAME:Current Task List DESCRIPTION:Root task for conversation __NEW_AGENT__
+----[x] NAME:Analyze search.js issue DESCRIPTION:Identify the root cause of search not working - fuse object not initialized before executeQuery is called
+----[x] NAME:Fix search.js to handle async index building DESCRIPTION:Add proper checks to ensure fuse is initialized before executing queries, and show loading/no results states
+----[x] NAME:Test search functionality DESCRIPTION:Build the site and test the search feature to ensure it works properly

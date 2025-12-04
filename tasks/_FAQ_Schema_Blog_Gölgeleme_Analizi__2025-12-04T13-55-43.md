@@ -1,0 +1,22 @@
+[ ] NAME:Current Task List DESCRIPTION:Root task for conversation __NEW_AGENT__
+-[x] NAME:FAQ Migration - Full Implementation DESCRIPTION:Migrate all FAQ shortcodes to front matter YAML format with JSON-LD support
+-[x] NAME:Phase 1: Proof of Concept DESCRIPTION:Test migration on 2-3 sample pages before full automation
+-[x] NAME:Phase 2: Automated Migration Script DESCRIPTION:Create Python script to automate FAQ extraction and migration
+-[x] NAME:Phase 3: Full Migration DESCRIPTION:Run migration on all blog and service pages
+-[x] NAME:Phase 4: Cleanup and Documentation DESCRIPTION:Migration complete. Old faq.html shortcode kept for backward compatibility. New faq-list.html shortcode reads from front matter.
+-[ ] NAME:Current Task List DESCRIPTION:Root task for conversation __NEW_AGENT__
+--[x] NAME:SEO Improvements for Cardiology Website DESCRIPTION:Implement comprehensive SEO improvements for service pages and blog posts including title/meta optimization, doctor title updates, internal linking, and heading hierarchy fixes.
+--[x] NAME:1. Analyze current SEO state of all service pages DESCRIPTION:Review all 54 TR and 53 EN service pages to identify generic terminology, incorrect doctor titles, and missing internal links
+--[x] NAME:2. Update Turkish service page titles and descriptions DESCRIPTION:Replace generic 'Medical Services' with specific cardiology terms, update doctor titles to 'Girişimsel Kardiyoloji Uzmanı' where appropriate
+--[x] NAME:3. Update English service page titles and descriptions DESCRIPTION:Replace generic terminology with specific cardiology terms like 'interventional cardiology specialist', 'cardiologist'
+--[x] NAME:4. Implement internal linking strategy for TR service pages DESCRIPTION:Add contextual internal links connecting related cardiology procedures in Turkish service pages
+--[x] NAME:5. Implement internal linking strategy for EN service pages DESCRIPTION:Add contextual internal links connecting related cardiology procedures in English service pages
+--[x] NAME:6. Audit and fix heading hierarchy for TR blog posts DESCRIPTION:Audited all 11 Turkish blog posts. Heading hierarchy is correct: all posts use H2 for main sections, H3 for subsections, and H4 for sub-subsections (where needed). No skipped levels, no multiple H1 tags. Structure is SEO-friendly and follows best practices.
+--[x] NAME:7. Audit and fix heading hierarchy for EN blog posts DESCRIPTION:Audited all 11 English blog posts. Heading hierarchy is correct: all posts use H2 for main sections, H3 for subsections, and H4 for sub-subsections (where needed). No skipped levels, no multiple H1 tags. Structure is SEO-friendly and follows best practices.
+--[x] NAME:8. Audit and fix heading hierarchy for TR service pages DESCRIPTION:Audited all 52 Turkish service pages. Heading hierarchy is correct: all pages use H2 for main sections and H3 for subsections. No H1 tags in content, no skipped levels, no H4+ tags. Structure is SEO-friendly and follows best practices.
+--[x] NAME:9. Audit and fix heading hierarchy for EN service pages DESCRIPTION:Audited all 52 English service pages. Heading hierarchy is correct: all pages use H2 for main sections and H3 for subsections. No H1 tags in content, no skipped levels, no H4+ tags. Structure is SEO-friendly and follows best practices.
+--[x] NAME:10. Final verification and testing DESCRIPTION:Final verification completed successfully. Hugo build passed with no errors (381 total pages). All 104 service pages have updated doctor titles and internal linking. All 22 blog posts have correct heading hierarchy. SEO improvements fully implemented.
+--[ ] NAME:Current Task List DESCRIPTION:Root task for conversation __NEW_AGENT__
+---[x] NAME:Analyze search.js issue DESCRIPTION:Identify the root cause of search not working - fuse object not initialized before executeQuery is called
+---[x] NAME:Fix search.js to handle async index building DESCRIPTION:Add proper checks to ensure fuse is initialized before executing queries, and show loading/no results states
+---[x] NAME:Test search functionality DESCRIPTION:Build the site and test the search feature to ensure it works properly
