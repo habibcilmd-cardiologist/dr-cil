@@ -1,0 +1,31 @@
+{{/* FAQ List Shortcode - Renders FAQs from front matter with Microdata */}}
+{{/* Usage: {{< faq-list >}} */}}
+{{/* Requires front matter: 
+faq:
+  - question: "Question text?"
+    answer: "Answer text."
+*/}}
+
+{{ if .Page.Params.faq }}
+<div class="faq-container" itemscope itemtype="https://schema.org/FAQPage">
+    {{ range .Page.Params.faq }}
+    <div class="faq-item py-4 border-b border-neutral-200 dark:border-neutral-700" itemscope itemprop="mainEntity"
+        itemtype="https://schema.org/Question">
+        <h3 class="text-lg font-medium cursor-pointer flex justify-between items-center"
+            onclick="this.nextElementSibling.classList.toggle('hidden'); var icon = this.querySelector('.faq-icon'); icon.textContent = icon.textContent === '+' ? '-' : '+';">
+            <span itemprop="name">{{ .question }}</span>
+            <span class="faq-icon text-2xl text-primary-500">+</span>
+        </h3>
+        <div class="faq-answer hidden mt-2 text-neutral-600 dark:text-neutral-400" itemscope itemprop="acceptedAnswer"
+            itemtype="https://schema.org/Answer">
+            <div itemprop="text">
+                {{ .answer | markdownify }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>
+{{ else }}
+<!-- No FAQ data found in front matter -->
+{{ end }}
+

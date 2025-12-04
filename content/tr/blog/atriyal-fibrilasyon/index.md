@@ -17,6 +17,19 @@ tags:
     ]
 author: "Doç. Dr. Habib ÇİL"
 showTableOfContents: true
+faq:
+    - question: "AF ile normal yaşam sürdürebilir miyim?"
+      answer: "Evet! Uygun tedavi ve yaşam tarzı değişiklikleri ile AF'li hastalar aktif ve kaliteli bir yaşam sürdürebilir. Düzenli takip ve tedaviye uyum önemlidir."
+    - question: "Kan sulandırıcı ilaç ömür boyu mu kullanılacak?"
+      answer: "Çoğu hastada evet. İnme riski devam ettiği sürece antikoagülan tedavi sürdürülmelidir. Ablasyon sonrası bile risk değerlendirmesine göre devam edilebilir."
+    - question: "Ablasyon AF'yi tamamen tedavi eder mi?"
+      answer: "Ablasyon AF'yi kontrol altına almada çok etkilidir, ancak 'kesin tedavi' garantisi yoktur. Başarı oranı %70-80 civarındadır ve bazı hastalarda tekrar gerekebilir."
+    - question: "Kahve içebilir miyim?"
+      answer: "Orta düzeyde kafein tüketimi (günde 2-3 fincan kahve) çoğu hastada güvenlidir. Ancak kafein AF ataklarını tetikliyorsa kısıtlanmalıdır."
+    - question: "Spor yapabilir miyim?"
+      answer: "Evet, ancak doktorunuzla görüşerek uygun egzersiz programı belirlenmelidir. Aşırı yoğun egzersizden kaçınılmalıdır."
+    - question: "AF kalıtsal mıdır?"
+      answer: "Genetik yatkınlık vardır. Ailede AF öyküsü varsa risk artar, ancak bu kaçınılmaz değildir. Yaşam tarzı faktörleri de önemlidir."
 ---
 
 {{< lead >}}
@@ -323,29 +336,7 @@ AF yönetiminde yaşam tarzı değişiklikleri kritik öneme sahiptir:
 
 ## Sık Sorulan Sorular (SSS)
 
-{{< faq question="AF ile normal yaşam sürdürebilir miyim?" >}}
-Evet! Uygun tedavi ve yaşam tarzı değişiklikleri ile AF'li hastalar aktif ve kaliteli bir yaşam sürdürebilir. Düzenli takip ve tedaviye uyum önemlidir.
-{{< /faq >}}
-
-{{< faq question="Kan sulandırıcı ilaç ömür boyu mu kullanılacak?" >}}
-Çoğu hastada evet. İnme riski devam ettiği sürece antikoagülan tedavi sürdürülmelidir. Ablasyon sonrası bile risk değerlendirmesine göre devam edilebilir.
-{{< /faq >}}
-
-{{< faq question="Ablasyon AF'yi tamamen tedavi eder mi?" >}}
-Ablasyon AF'yi kontrol altına almada çok etkilidir, ancak "kesin tedavi" garantisi yoktur. Başarı oranı %70-80 civarındadır ve bazı hastalarda tekrar gerekebilir.
-{{< /faq >}}
-
-{{< faq question="Kahve içebilir miyim?" >}}
-Orta düzeyde kafein tüketimi (günde 2-3 fincan kahve) çoğu hastada güvenlidir. Ancak kafein AF ataklarını tetikliyorsa kısıtlanmalıdır.
-{{< /faq >}}
-
-{{< faq question="Spor yapabilir miyim?" >}}
-Evet, ancak doktorunuzla görüşerek uygun egzersiz programı belirlenmelidir. Aşırı yoğun egzersizden kaçınılmalıdır.
-{{< /faq >}}
-
-{{< faq question="AF kalıtsal mıdır?" >}}
-Genetik yatkınlık vardır. Ailede AF öyküsü varsa risk artar, ancak bu kaçınılmaz değildir. Yaşam tarzı faktörleri de önemlidir.
-{{< /faq >}}
+{{< faq-list >}}
 
 ## Ne Zaman Doktora Başvurmalısınız?
 
