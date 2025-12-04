@@ -208,8 +208,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other peripheral vascular treatments related to carotid stenosis:
 
--   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
--   [Renal Artery Stenosis](/en/services/renal-artery-stenosis/) - Renal artery stenosis treatment
--   [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg artery disease
--   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
--   [Hypertension](/en/services/hypertension/) - High blood pressure treatment
+-   [Peripheral Vascular](/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Renal Artery Stenosis](/services/renal-artery-stenosis/) - Renal artery stenosis treatment
+-   [Lower Extremity Arterial Disease](/services/lower-extremity-arterial-disease/) - Leg artery disease
+-   [Atherectomy](/services/atherectomy/) - Plaque removal procedure
+-   [Hypertension](/services/hypertension/) - High blood pressure treatment

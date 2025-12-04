@@ -164,8 +164,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other cardiology treatments related to pericardiocentesis:
 
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
--   [EKG](/en/services/ekg/) - Electrocardiography
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
--   [Cardiac Catheterization](/en/services/cardiac-catheterization/) - Cardiac catheterization
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound
+-   [Cardiac CT](/services/cardiac-ct/) - Computed tomography
+-   [EKG](/services/ekg/) - Electrocardiography
+-   [Heart Failure](/services/heart-failure/) - Heart failure treatment
+-   [Cardiac Catheterization](/services/cardiac-catheterization/) - Cardiac catheterization

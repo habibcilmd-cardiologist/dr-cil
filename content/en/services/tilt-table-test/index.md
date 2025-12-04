@@ -162,8 +162,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to tilt table test:
 
--   [EKG](/en/services/ekg/) - Electrocardiography
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [EKG](/services/ekg/) - Electrocardiography
+-   [Holter](/services/holter/) - 24-hour rhythm monitoring
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound
+-   [Electrophysiology Study](/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Permanent Pacemaker](/services/permanent-pacemaker/) - Bradycardia treatment

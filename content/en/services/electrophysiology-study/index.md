@@ -176,8 +176,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to electrophysiology study:
 
--   [Ablation](/en/services/ablation/) - Catheter ablation
--   [Cardioversion](/en/services/cardioversion/) - Electrical cardioversion
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [Ablation](/services/ablation/) - Catheter ablation
+-   [Cardioversion](/services/cardioversion/) - Electrical cardioversion
+-   [ICD](/services/icd/) - Implantable cardioverter defibrillator
+-   [Permanent Pacemaker](/services/permanent-pacemaker/) - Bradycardia treatment
+-   [Holter](/services/holter/) - 24-hour rhythm monitoring

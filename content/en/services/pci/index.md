@@ -158,8 +158,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to PCI:
 
--   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
--   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
--   [CTO Intervention](/en/services/cto-intervention/) - Chronic total occlusion treatment
--   [Myocardial Infarction](/en/services/myocardial-infarction/) - Heart attack treatment
+-   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Stent](/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
+-   [CTO Intervention](/services/cto-intervention/) - Chronic total occlusion treatment
+-   [Myocardial Infarction](/services/myocardial-infarction/) - Heart attack treatment

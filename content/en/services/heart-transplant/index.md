@@ -150,8 +150,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other heart failure treatments related to heart transplant:
 
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
--   [LVAD](/en/services/lvad/) - Left ventricular assist device
--   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Heart Failure](/services/heart-failure/) - Heart failure treatment
+-   [LVAD](/services/lvad/) - Left ventricular assist device
+-   [Biventricular Pacemaker](/services/biventricular-pacemaker/) - CRT pacemaker
+-   [ICD](/services/icd/) - Implantable cardioverter defibrillator
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound

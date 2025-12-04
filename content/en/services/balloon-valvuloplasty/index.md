@@ -169,8 +169,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other structural heart treatments related to balloon valvuloplasty:
 
--   [TAVI](/en/services/tavi/) - Transcatheter aortic valve implantation
--   [Aortic Valve Disease](/en/services/aortic-valve-disease/) - About aortic valve diseases
--   [Mitral Valve](/en/services/mitral-valve/) - Mitral valve diseases
--   [MitraClip](/en/services/mitraclip/) - Mitral valve repair
--   [Echocardiography](/en/services/echocardiography/) - Valve assessment
+-   [TAVI](/services/tavi/) - Transcatheter aortic valve implantation
+-   [Aortic Valve Disease](/services/aortic-valve-disease/) - About aortic valve diseases
+-   [Mitral Valve](/services/mitral-valve/) - Mitral valve diseases
+-   [MitraClip](/services/mitraclip/) - Mitral valve repair
+-   [Echocardiography](/services/echocardiography/) - Valve assessment

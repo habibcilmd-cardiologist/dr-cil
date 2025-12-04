@@ -157,8 +157,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to ambulatory cardiac monitoring:
 
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
--   [EKG](/en/services/ekg/) - Electrocardiography
--   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Ablation](/en/services/ablation/) - Catheter ablation
+-   [Holter](/services/holter/) - 24-hour rhythm monitoring
+-   [EKG](/services/ekg/) - Electrocardiography
+-   [Electrophysiology Study](/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound
+-   [Ablation](/services/ablation/) - Catheter ablation

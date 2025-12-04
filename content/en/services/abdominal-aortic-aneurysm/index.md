@@ -150,8 +150,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other peripheral vascular treatments related to abdominal aortic aneurysm:
 
--   [EVAR](/en/services/evar/) - Endovascular aneurysm repair
--   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
--   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Hypertension](/en/services/hypertension/) - High blood pressure treatment
+-   [EVAR](/services/evar/) - Endovascular aneurysm repair
+-   [Peripheral Vascular](/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Cardiac CT](/services/cardiac-ct/) - Computed tomography
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound
+-   [Hypertension](/services/hypertension/) - High blood pressure treatment

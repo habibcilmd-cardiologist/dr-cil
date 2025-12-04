@@ -164,8 +164,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other peripheral vascular treatments related to lower extremity arterial disease:
 
--   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
--   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
--   [Angiography](/en/services/angiography/) - General angiography procedures
--   [Venous Insufficiency](/en/services/venous-insufficiency/) - Venous insufficiency treatment
--   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease
+-   [Peripheral Vascular](/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Atherectomy](/services/atherectomy/) - Plaque removal procedure
+-   [Angiography](/services/angiography/) - General angiography procedures
+-   [Venous Insufficiency](/services/venous-insufficiency/) - Venous insufficiency treatment
+-   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease

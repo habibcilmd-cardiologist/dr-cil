@@ -151,8 +151,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to cardiac stent:
 
--   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon vessel opening procedure
--   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
--   [CTO Intervention](/en/services/cto-intervention/) - Chronic total occlusion treatment
--   [Left Main Coronary Stent](/en/services/left-main-coronary-stent/) - Left main disease treatment
--   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease
+-   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon vessel opening procedure
+-   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
+-   [CTO Intervention](/services/cto-intervention/) - Chronic total occlusion treatment
+-   [Left Main Coronary Stent](/services/left-main-coronary-stent/) - Left main disease treatment
+-   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease

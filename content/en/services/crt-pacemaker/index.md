@@ -169,8 +169,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to CRT pacemaker:
 
--   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [Biventricular Pacemaker](/services/biventricular-pacemaker/) - CRT pacemaker
+-   [Heart Failure](/services/heart-failure/) - Heart failure treatment
+-   [ICD](/services/icd/) - Implantable cardioverter defibrillator
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound
+-   [Permanent Pacemaker](/services/permanent-pacemaker/) - Bradycardia treatment

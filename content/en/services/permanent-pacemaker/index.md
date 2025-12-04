@@ -207,8 +207,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to permanent pacemaker:
 
--   [Temporary Pacemaker](/en/services/temporary-pacemaker/) - Temporary pacing
--   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
--   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Temporary Pacemaker](/services/temporary-pacemaker/) - Temporary pacing
+-   [Biventricular Pacemaker](/services/biventricular-pacemaker/) - CRT pacemaker
+-   [ICD](/services/icd/) - Implantable cardioverter defibrillator
+-   [Holter](/services/holter/) - 24-hour rhythm monitoring
+-   [EKG](/services/ekg/) - Electrocardiography

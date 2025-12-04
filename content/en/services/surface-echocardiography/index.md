@@ -158,8 +158,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to surface echocardiography:
 
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Stress Echocardiography](/en/services/stress-echocardiography/) - Exercise echo
--   [EKG](/en/services/ekg/) - Electrocardiography
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
--   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound
+-   [Stress Echocardiography](/services/stress-echocardiography/) - Exercise echo
+-   [EKG](/services/ekg/) - Electrocardiography
+-   [Holter](/services/holter/) - 24-hour rhythm monitoring
+-   [Cardiac CT](/services/cardiac-ct/) - Computed tomography

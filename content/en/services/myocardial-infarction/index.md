@@ -196,8 +196,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to myocardial infarction:
 
--   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
--   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease
--   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
--   [PCI](/en/services/pci/) - Percutaneous coronary intervention
+-   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease
+-   [Cardiac Stent](/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [PCI](/services/pci/) - Percutaneous coronary intervention

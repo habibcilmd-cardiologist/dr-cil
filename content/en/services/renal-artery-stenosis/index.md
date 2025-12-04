@@ -157,8 +157,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other peripheral vascular treatments related to renal artery stenosis:
 
--   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
--   [Carotid Stenosis](/en/services/carotid-stenosis/) - Carotid artery stenosis treatment
--   [Hypertension](/en/services/hypertension/) - High blood pressure treatment
--   [Angiography](/en/services/angiography/) - General angiography procedures
--   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
+-   [Peripheral Vascular](/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Carotid Stenosis](/services/carotid-stenosis/) - Carotid artery stenosis treatment
+-   [Hypertension](/services/hypertension/) - High blood pressure treatment
+-   [Angiography](/services/angiography/) - General angiography procedures
+-   [Atherectomy](/services/atherectomy/) - Plaque removal procedure

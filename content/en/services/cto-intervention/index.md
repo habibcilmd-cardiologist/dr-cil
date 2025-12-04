@@ -229,8 +229,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to CTO intervention:
 
--   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
--   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
--   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
--   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease
+-   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Stent](/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
+-   [Atherectomy](/services/atherectomy/) - Plaque removal procedure
+-   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease

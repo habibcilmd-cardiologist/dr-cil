@@ -168,8 +168,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other peripheral vascular treatments related to venous insufficiency:
 
--   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
--   [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg artery disease
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
--   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Peripheral Vascular](/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Lower Extremity Arterial Disease](/services/lower-extremity-arterial-disease/) - Leg artery disease
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound
+-   [Heart Failure](/services/heart-failure/) - Heart failure treatment
+-   [EKG](/services/ekg/) - Electrocardiography

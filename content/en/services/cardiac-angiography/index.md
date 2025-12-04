@@ -149,8 +149,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to cardiac angiography:
 
--   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Cardiac Stent](/en/services/cardiac-stent/) - Drug-eluting stent implantation
--   [CTO Intervention](/en/services/cto-intervention/) - Chronic total occlusion treatment
--   [Radial Angiography](/en/services/radial-angiography/) - Wrist access angiography
--   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease
+-   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Stent](/services/cardiac-stent/) - Drug-eluting stent implantation
+-   [CTO Intervention](/services/cto-intervention/) - Chronic total occlusion treatment
+-   [Radial Angiography](/services/radial-angiography/) - Wrist access angiography
+-   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease

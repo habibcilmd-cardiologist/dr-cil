@@ -191,8 +191,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other treatments related to alcohol septal ablation:
 
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
--   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound
+-   [Heart Failure](/services/heart-failure/) - Heart failure treatment
+-   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
+-   [ICD](/services/icd/) - Implantable cardioverter defibrillator
+-   [Permanent Pacemaker](/services/permanent-pacemaker/) - Bradycardia treatment

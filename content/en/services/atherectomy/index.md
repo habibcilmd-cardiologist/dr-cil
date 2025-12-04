@@ -151,8 +151,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other peripheral vascular treatments related to atherectomy:
 
--   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
--   [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg artery disease
--   [CTO Intervention](/en/services/cto-intervention/) - Chronic total occlusion treatment
--   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Angiography](/en/services/angiography/) - General angiography procedures
+-   [Peripheral Vascular](/services/peripheral-vascular/) - Peripheral vascular disease
+-   [Lower Extremity Arterial Disease](/services/lower-extremity-arterial-disease/) - Leg artery disease
+-   [CTO Intervention](/services/cto-intervention/) - Chronic total occlusion treatment
+-   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Angiography](/services/angiography/) - General angiography procedures

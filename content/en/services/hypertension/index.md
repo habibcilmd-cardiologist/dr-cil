@@ -214,8 +214,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other cardiology treatments related to hypertension:
 
--   [Renal Artery Stenosis](/en/services/renal-artery-stenosis/) - Renal artery stenosis treatment
--   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Renal Artery Stenosis](/services/renal-artery-stenosis/) - Renal artery stenosis treatment
+-   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease
+-   [Heart Failure](/services/heart-failure/) - Heart failure treatment
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound
+-   [EKG](/services/ekg/) - Electrocardiography

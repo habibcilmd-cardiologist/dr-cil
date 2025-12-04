@@ -246,8 +246,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to coronary artery disease:
 
--   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
--   [Myocardial Infarction](/en/services/myocardial-infarction/) - Heart attack treatment
--   [Stress Test](/en/services/stress-test/) - Exercise stress test
--   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
+-   [Myocardial Infarction](/services/myocardial-infarction/) - Heart attack treatment
+-   [Stress Test](/services/stress-test/) - Exercise stress test
+-   [Cardiac CT](/services/cardiac-ct/) - Computed tomography

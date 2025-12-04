@@ -170,8 +170,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to Holter monitoring:
 
--   [EKG](/en/services/ekg/) - Electrocardiography
--   [Ambulatory Cardiac Monitoring](/en/services/ambulatory-cardiac-monitoring/) - Extended rhythm monitoring
--   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Ablation](/en/services/ablation/) - Catheter ablation
+-   [EKG](/services/ekg/) - Electrocardiography
+-   [Ambulatory Cardiac Monitoring](/services/ambulatory-cardiac-monitoring/) - Extended rhythm monitoring
+-   [Electrophysiology Study](/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Echocardiography](/services/echocardiography/) - Heart ultrasound
+-   [Ablation](/services/ablation/) - Catheter ablation

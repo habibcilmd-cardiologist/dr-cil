@@ -165,8 +165,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other structural heart treatments related to tricuspid valve disease:
 
--   [Mitral Valve](/en/services/mitral-valve/) - Mitral valve diseases
--   [Pulmonary Valve](/en/services/pulmonary-valve/) - Pulmonary valve diseases
--   [Echocardiography](/en/services/echocardiography/) - Valve assessment
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
--   [CABG](/en/services/cabg/) - Coronary bypass surgery
+-   [Mitral Valve](/services/mitral-valve/) - Mitral valve diseases
+-   [Pulmonary Valve](/services/pulmonary-valve/) - Pulmonary valve diseases
+-   [Echocardiography](/services/echocardiography/) - Valve assessment
+-   [Heart Failure](/services/heart-failure/) - Heart failure treatment
+-   [CABG](/services/cabg/) - Coronary bypass surgery

@@ -214,8 +214,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other peripheral vascular treatments related to peripheral vascular disease:
 
--   [Carotid Stenosis](/en/services/carotid-stenosis/) - Carotid artery stenosis treatment
--   [Renal Artery Stenosis](/en/services/renal-artery-stenosis/) - Renal artery stenosis treatment
--   [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg artery disease
--   [Abdominal Aortic Aneurysm](/en/services/abdominal-aortic-aneurysm/) - Aortic aneurysm treatment
--   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
+-   [Carotid Stenosis](/services/carotid-stenosis/) - Carotid artery stenosis treatment
+-   [Renal Artery Stenosis](/services/renal-artery-stenosis/) - Renal artery stenosis treatment
+-   [Lower Extremity Arterial Disease](/services/lower-extremity-arterial-disease/) - Leg artery disease
+-   [Abdominal Aortic Aneurysm](/services/abdominal-aortic-aneurysm/) - Aortic aneurysm treatment
+-   [Atherectomy](/services/atherectomy/) - Plaque removal procedure

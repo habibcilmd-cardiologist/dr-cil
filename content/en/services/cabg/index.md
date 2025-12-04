@@ -150,8 +150,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to CABG:
 
--   [Coronary Angioplasty](/en/services/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Left Main Coronary Stent](/en/services/left-main-coronary-stent/) - Left main disease treatment
--   [Coronary Artery Disease](/en/services/coronary-artery-disease/) - About coronary artery disease
--   [Myocardial Infarction](/en/services/myocardial-infarction/) - Heart attack treatment
--   [Cardiac Angiography](/en/services/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Left Main Coronary Stent](/services/left-main-coronary-stent/) - Left main disease treatment
+-   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease
+-   [Myocardial Infarction](/services/myocardial-infarction/) - Heart attack treatment
+-   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
