@@ -1,0 +1,92 @@
+{{/*
+=============================================================================
+Dr. Habib ÇİL - Schema Override Blowfish temasının default schema.html dosyasını
+override eder. Sayfa tiplerine göre koşullu schema yapısı kurarak çakışmaları
+önler. Mantık: - Homepage: WebSite schema (Blowfish default) - Blog: ATLA
+(extend-head-uncached.html'de MedicalScholarlyArticle var) - Hizmetler/Services:
+ATLA (schema-procedure.html'de MedicalProcedure var) - Yayınlar: ATLA
+(schema-scholarly.html'de MedicalScholarlyArticle var) - Klinik/Clinic: ATLA
+(extend-head-uncached.html'de MedicalWebPage var) - Diğer sayfalar: Basit
+Article schema
+=============================================================================
+*/}} {{/* Homepage - WebSite Schema */}} {{ if .IsHome -}}
+<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "WebSite",
+	  "@id": {{ site.Home.Permalink | safeURL }},
+	  "name": "{{ .Site.Title | safeJS }}",
+	  {{ with .Site.Params.description }}"description": "{{ . | safeJS }}",{{ end }}
+	  {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
+	  "url": {{ site.Home.Permalink | safeURL }},
+	  {{ with .Site.Params.keywords }}"keywords": {{ . }},{{ end }}
+	  "publisher": {
+	    "@type": "Person",
+	    "name": "{{ .Site.Params.Author.name | safeJS }}"
+	  }
+	}
+</script>
+{{ else }} {{/* Özel schema'ları olan sayfaları ATLA - çakışmayı önle */}} {{
+$skipSchema := false }} {{ with .File }} {{/* Blog sayfaları -
+extend-head-uncached.html'de MedicalScholarlyArticle var */}} {{ if in .Path
+"blog" }} {{ $skipSchema = true }} {{ end }} {{/* Hizmetler -
+schema-procedure.html'de MedicalProcedure var */}} {{/* Hem TR (tr/hizmetler/)
+hem EN (en/services/) kontrolü */}} {{ if or (in .Path "hizmetler") (in .Path
+"services") }} {{ $skipSchema = true }} {{ end }} {{/* Klinik -
+extend-head-uncached.html'de MedicalWebPage var */}} {{ if or (in .Path
+"klinik") (in .Path "clinic") }} {{ $skipSchema = true }} {{ end }} {{ end }}
+{{/* Yayınlar - schema-scholarly.html'de MedicalScholarlyArticle var */}} {{ if
+eq .Section "yayinlar" }} {{ $skipSchema = true }} {{ end }} {{/* Özel schema'sı
+olmayan sayfalar için basit Article schema */}} {{ if not $skipSchema }} {{-
+$iso8601 := "2006-01-02T15:04:05-07:00" -}}
+<script type="application/ld+json">
+	[{
+	  "@context": "https://schema.org",
+	  "@type": "Article",
+	  "articleSection": "{{ (site.GetPage .Section).Title | safeJS }}",
+	  "name": "{{ .Title | safeJS }}",
+	  "headline": "{{ .Title | safeJS }}",
+	  {{ with .Description }}"description": "{{ . | safeJS }}",{{ end }}
+	  {{ with .Summary }}"abstract": "{{ . | safeJS }}",{{ end }}
+	  {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
+	  "url": {{ .Permalink }},
+	  "author": {
+	    "@type": "Person",
+	    "name": "{{ .Site.Params.Author.name | safeJS }}"
+	  },
+	  {{ with .PublishDate }}"copyrightYear": "{{ .Format "2006" }}",{{ end }}
+	  {{ with .Date }}"dateCreated": "{{ .Format $iso8601 }}",{{ end }}
+	  {{ with .PublishDate }}"datePublished": "{{ .Format $iso8601 }}",{{ end }}
+	  {{ with .ExpiryDate }}"expires": "{{ .Format $iso8601 }}",{{ end }}
+	  {{ with .Lastmod }}"dateModified": "{{ .Format $iso8601 }}",{{ end }}
+	  {{ if .Keywords }}
+	  {{ with .Keywords }}"keywords": {{ . }},{{ end }}
+	  {{ else }}
+	  {{ with .Params.tags }}"keywords": {{ . }},{{ end }}
+	  {{ end }}
+	  "mainEntityOfPage": "true",
+	  "wordCount": "{{ .WordCount }}"
+	}{{ if site.Params.enableStructuredBreadcrumbs | default false }},
+	{
+	  "@context": "https://schema.org",
+	  "@type": "BreadcrumbList",
+	  "itemListElement": [
+	    {{- $breadcrumbs := slice -}}
+	    {{- range .Ancestors -}}
+	      {{- if not .IsHome -}}
+	        {{- $breadcrumbs = $breadcrumbs | append . -}}
+	      {{- end -}}
+	    {{- end -}}
+	    {{- $breadcrumbs = $breadcrumbs | append . -}}
+	    {{- range $index, $element := $breadcrumbs -}}
+	    {
+	      "@type": "ListItem",
+	      "position": {{ add $index 1 }},
+	      "name": "{{ .Title }}",
+	      "item": {{ .Permalink }}
+	    }{{ if ne (add $index 1) (len $breadcrumbs) }},{{ end }}
+	    {{- end -}}
+	  ]
+	}{{ end }}]
+</script>
+{{ end }} {{ end }}
