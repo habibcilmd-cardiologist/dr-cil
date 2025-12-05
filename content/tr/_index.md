@@ -16,36 +16,36 @@ Ben **Doç. Dr. Habib ÇİL**, İstanbul Üniversitesi Cerrahpaşa Tıp Fakülte
 ## Hizmetlerim
 
 <div class="services-grid">
-  <div class="service-card">
+  <a href="/tr/hizmetler/#koroner-kalp-hastaliklari" class="service-card">
     <div class="service-icon">🫀</div>
     <h4>Koroner Kalp Hastalıkları</h4>
     <p>Kalp krizi, hipertansiyon, kalp yetmezliği tedavisi</p>
-  </div>
-  <div class="service-card">
+  </a>
+  <a href="/tr/hizmetler/#girisimsel-kardiyoloji" class="service-card">
     <div class="service-icon">🔧</div>
     <h4>Girişimsel Kardiyoloji</h4>
     <p>TAVI, anjiyoplasti, stent, CTO girişimleri</p>
-  </div>
-  <div class="service-card">
+  </a>
+  <a href="/tr/hizmetler/#kalp-pili-ve-elektrofizyoloji" class="service-card">
     <div class="service-icon">⚡</div>
     <h4>Kalp Pili ve Elektrofizyoloji</h4>
     <p>Kalp pili, ICD, ablasyon tedavileri</p>
-  </div>
-  <div class="service-card">
+  </a>
+  <a href="/tr/hizmetler/#tanisal-islemler" class="service-card">
     <div class="service-icon">🩺</div>
     <h4>Tanısal İşlemler</h4>
     <p>Anjiyografi, EKG, ekokardiyografi, holter</p>
-  </div>
-  <div class="service-card">
+  </a>
+  <a href="/tr/hizmetler/#kapak-hastaliklari" class="service-card">
     <div class="service-icon">💓</div>
     <h4>Kapak Hastalıkları</h4>
     <p>Kapak replasmanı, valvüloplasti, onarım</p>
-  </div>
-  <div class="service-card">
+  </a>
+  <a href="/tr/hizmetler/#damar-cerrahisi-ve-girisimleri" class="service-card">
     <div class="service-icon">🩹</div>
     <h4>Damar Cerrahisi</h4>
     <p>Anevrizma, karotis, periferik damar girişimleri</p>
-  </div>
+  </a>
 </div>
 
 <div style="text-align: center; margin-top: 2rem;">

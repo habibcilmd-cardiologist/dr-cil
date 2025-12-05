@@ -10,7 +10,7 @@ translationKey: "services"
 
 ## 🏥 Treatments and Procedures
 
-### 🫀 Coronary Heart Diseases
+### 🫀 Coronary Heart Diseases {#coronary-heart-diseases}
 
 <div class="services-grid">
   <a href="/services/myocardial-infarction/" class="service-card"><div class="service-icon">💔</div><h4>Myocardial Infarction</h4><p>Heart Attack - Emergency intervention</p></a>
@@ -21,7 +21,7 @@ translationKey: "services"
 
 ---
 
-### 🔧 Interventional Cardiology
+### 🔧 Interventional Cardiology {#interventional-cardiology}
 
 <div class="services-grid">
   <a href="/services/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transcatheter Aortic Valve Implantation</p></a>
@@ -35,7 +35,7 @@ translationKey: "services"
 
 ---
 
-### ⚡ Pacemaker and Electrophysiology
+### ⚡ Pacemaker and Electrophysiology {#pacemaker-and-electrophysiology}
 
 <div class="services-grid">
   <a href="/services/crt-pacemaker/" class="service-card"><div class="service-icon">🔋</div><h4>Three-Chamber Pacemaker</h4><p>CRT implantation</p></a>
@@ -50,7 +50,7 @@ translationKey: "services"
 
 ---
 
-### 🩺 Diagnostic Procedures
+### 🩺 Diagnostic Procedures {#diagnostic-procedures}
 
 <div class="services-grid">
   <a href="/services/angiography/" class="service-card"><div class="service-icon">📊</div><h4>Angiography</h4><p>Cardiac and peripheral angiography</p></a>
@@ -67,7 +67,7 @@ translationKey: "services"
 
 ---
 
-### 🫀 Valve Diseases
+### 🫀 Valve Diseases {#valve-diseases}
 
 <div class="services-grid">
   <a href="/services/aortic-valve-disease/" class="service-card"><div class="service-icon">🔄</div><h4>Aortic Valve Replacement</h4><p>Aortic valve surgery</p></a>
@@ -80,7 +80,7 @@ translationKey: "services"
 
 ---
 
-### 🩹 Vascular Surgery and Interventions
+### 🩹 Vascular Surgery and Interventions {#vascular-surgery-and-interventions}
 
 <div class="services-grid">
   <a href="/services/abdominal-aortic-aneurysm/" class="service-card"><div class="service-icon">🏥</div><h4>AAA Repair</h4><p>Abdominal Aortic Aneurysm surgery</p></a>
@@ -93,7 +93,7 @@ translationKey: "services"
 
 ---
 
-### 💓 Coronary Interventions
+### 💓 Coronary Interventions {#coronary-interventions}
 
 <div class="services-grid">
   <a href="/services/cardiac-angiography/" class="service-card"><div class="service-icon">💉</div><h4>Cardiac Angiography</h4><p>Heart angiography</p></a>
@@ -106,7 +106,7 @@ translationKey: "services"
 
 ---
 
-### ❤️ Cardiac Surgery
+### ❤️ Cardiac Surgery {#cardiac-surgery}
 
 <div class="services-grid">
   <a href="/services/cabg/" class="service-card"><div class="service-icon">🏥</div><h4>CABG</h4><p>Coronary Artery Bypass Grafting</p></a>
@@ -117,7 +117,7 @@ translationKey: "services"
 
 ---
 
-### 🩺 Other Services
+### 🩺 Other Services {#other-services}
 
 <div class="services-grid">
   <a href="/services/ambulatory-cardiac-monitoring/" class="service-card"><div class="service-icon">📟</div><h4>Ambulatory Cardiac Monitoring</h4><p>Outpatient heart monitoring</p></a>

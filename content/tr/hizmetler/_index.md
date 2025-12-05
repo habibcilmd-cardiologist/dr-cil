@@ -10,7 +10,7 @@ translationKey: "services"
 
 ## 🏥 Uygulanan Tedaviler ve Yöntemler
 
-### 🫀 Koroner Kalp Hastalıkları
+### 🫀 Koroner Kalp Hastalıkları {#koroner-kalp-hastaliklari}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/miyokard-enfarktusu/" class="service-card"><div class="service-icon">💔</div><h4>Miyokard Enfarktüsü</h4><p>Kalp Krizi - Acil müdahale ve tedavi</p></a>
@@ -21,7 +21,7 @@ translationKey: "services"
 
 ---
 
-### 🔧 Girişimsel Kardiyoloji
+### 🔧 Girişimsel Kardiyoloji {#girisimsel-kardiyoloji}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transkateter Aort Kapak İmplantasyonu</p></a>
@@ -35,7 +35,7 @@ translationKey: "services"
 
 ---
 
-### ⚡ Kalp Pili ve Elektrofizyoloji
+### ⚡ Kalp Pili ve Elektrofizyoloji {#kalp-pili-ve-elektrofizyoloji}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/uc-odacikli-kalp-pili/" class="service-card"><div class="service-icon">🔋</div><h4>Üç Odacıklı Kalp Pili</h4><p>CRT implantasyonu</p></a>
@@ -50,7 +50,7 @@ translationKey: "services"
 
 ---
 
-### 🩺 Tanısal İşlemler
+### 🩺 Tanısal İşlemler {#tanisal-islemler}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/anjiyografi/" class="service-card"><div class="service-icon">📊</div><h4>Anjiyografi</h4><p>Kardiyak ve periferik anjiyografi</p></a>
@@ -67,7 +67,7 @@ translationKey: "services"
 
 ---
 
-### 🫀 Kapak Hastalıkları
+### 🫀 Kapak Hastalıkları {#kapak-hastaliklari}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/aort-kapak-hastaligi/" class="service-card"><div class="service-icon">🔄</div><h4>Aort Kapak Replasmanı</h4><p>Aort kapak değişimi</p></a>
@@ -80,7 +80,7 @@ translationKey: "services"
 
 ---
 
-### 🩹 Damar Cerrahisi ve Girişimleri
+### 🩹 Damar Cerrahisi ve Girişimleri {#damar-cerrahisi-ve-girisimleri}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/abdominal-aort-anevrizması/" class="service-card"><div class="service-icon">🏥</div><h4>AAA Onarımı</h4><p>Abdominal Aort Anevrizması ameliyatı</p></a>
@@ -93,7 +93,7 @@ translationKey: "services"
 
 ---
 
-### 💓 Koroner Girişimler
+### 💓 Koroner Girişimler {#koroner-girisimler}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/kardiyak-anjiyografi/" class="service-card"><div class="service-icon">💉</div><h4>Kardiyak Anjiyografi</h4><p>Kalp anjiyografi</p></a>
@@ -106,7 +106,7 @@ translationKey: "services"
 
 ---
 
-### ❤️ Kalp Cerrahisi
+### ❤️ Kalp Cerrahisi {#kalp-cerrahisi}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/kalp-bypass/" class="service-card"><div class="service-icon">🏥</div><h4>Kalp Bypass</h4><p>Koroner bypass cerrahisi</p></a>
@@ -117,7 +117,7 @@ translationKey: "services"
 
 ---
 
-### 🩺 Diğer Hizmetler
+### 🩺 Diğer Hizmetler {#diger-hizmetler}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/ambulatuvar-kardiyak-izleme/" class="service-card"><div class="service-icon">📟</div><h4>Ambulatuvar Kardiyak İzleme</h4><p>Ayaktan kalp takibi</p></a>

@@ -16,36 +16,36 @@ With over 20 years of clinical experience and academic career, I provide my pati
 ## Services
 
 <div class="services-grid">
-  <div class="service-card">
+  <a href="/services/#coronary-heart-diseases" class="service-card">
     <div class="service-icon">🫀</div>
     <h4>Coronary Heart Diseases</h4>
     <p>Heart attack, hypertension, heart failure treatment</p>
-  </div>
-  <div class="service-card">
+  </a>
+  <a href="/services/#interventional-cardiology" class="service-card">
     <div class="service-icon">🔧</div>
     <h4>Interventional Cardiology</h4>
     <p>TAVI, angioplasty, stent, CTO interventions</p>
-  </div>
-  <div class="service-card">
+  </a>
+  <a href="/services/#pacemaker-and-electrophysiology" class="service-card">
     <div class="service-icon">⚡</div>
     <h4>Pacemaker & Electrophysiology</h4>
     <p>Pacemaker, ICD, ablation therapies</p>
-  </div>
-  <div class="service-card">
+  </a>
+  <a href="/services/#diagnostic-procedures" class="service-card">
     <div class="service-icon">🩺</div>
     <h4>Diagnostic Procedures</h4>
     <p>Angiography, EKG, echocardiography, holter</p>
-  </div>
-  <div class="service-card">
+  </a>
+  <a href="/services/#valve-diseases" class="service-card">
     <div class="service-icon">💓</div>
     <h4>Valve Diseases</h4>
     <p>Valve replacement, valvuloplasty, repair</p>
-  </div>
-  <div class="service-card">
+  </a>
+  <a href="/services/#vascular-surgery-and-interventions" class="service-card">
     <div class="service-icon">🩹</div>
     <h4>Vascular Surgery</h4>
     <p>Aneurysm, carotid, peripheral vascular interventions</p>
-  </div>
+  </a>
 </div>
 
 <div style="text-align: center; margin-top: 2rem;">
