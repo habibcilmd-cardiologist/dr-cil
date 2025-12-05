@@ -5,8 +5,8 @@
 			class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
 			href="{{ .Site.Home.RelPermalink }}"
 		>
-			{{- if eq .Site.Language.Lang "tr" -}} Ana Sayfa {{- else -}} Home
-			{{- end -}}
+			{{- if eq .Site.Language.Lang "tr" -}} Ana Sayfa {{- else if eq
+			.Site.Language.Lang "ar" -}} الرئيسية {{- else -}} Home {{- end -}}
 		</a>
 		<span class="px-1 text-primary-500">/</span>
 	</li>

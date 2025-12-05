@@ -1,0 +1,94 @@
+# =============================================================================
+# Dr. Habib ÇİL - Arabic Language Configuration
+# =============================================================================
+
+disabled = false
+languageCode = "ar-SA"
+languageName = "العربية"
+weight = 3
+title = "أ.د. حبيب جيل | أخصائي أمراض القلب"
+contentDir = "content/ar"
+
+[params]
+  displayName = "AR"
+  isoCode = "ar"
+  rtl = true
+  dateFormat = "2 January 2006"
+  description = "أ.د. حبيب جيل - أخصائي أمراض القلب. خبير في تخطيط صدى القلب، القسطرة القلبية، علاج ارتفاع ضغط الدم وأمراض الشرايين التاجية."
+  copyright = "© 2024 أ.د. حبيب جيل. جميع الحقوق محفوظة."
+
+  [params.author]
+    name = "أ.د. حبيب جيل"
+    image = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
+    headline = "أخصائي أمراض القلب"
+    bio = "خريج كلية الطب بجامعة إسطنبول، تخصص أمراض القلب من جامعة أكدينيز. خبير في أمراض القلب التداخلية، رأب الأوعية التاجية وزراعة الصمام الأبهري عبر القسطرة (TAVI)."
+    links = [
+      { email = "mailto:info@drhabibcil.com" },
+      { whatsapp = "https://wa.me/905339454639" },
+    ]
+
+  # Homepage Layout
+  [params.homepage]
+    layout = "profile"
+    homepageImage = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
+    showRecent = true
+    showRecentItems = 6
+    showMoreLink = true
+    showMoreLinkDest = "/ar/blog"
+    cardView = true
+    cardViewScreenWidth = false
+
+  # Article Settings
+  [params.article]
+    showDate = true
+    showViews = false
+    showLikes = false
+    showDateUpdated = true
+    showAuthor = true
+    showHero = true
+    heroStyle = "background"
+    showBreadcrumbs = true
+    showDraftLabel = true
+    showEdit = false
+    showSummary = true
+    showTableOfContents = true
+    showTaxonomies = true
+    showWordCount = true
+    showReadingTime = true
+    showComments = false
+    sharingLinks = ["facebook", "twitter", "linkedin", "whatsapp", "telegram", "email"]
+
+  # List Settings
+  [params.list]
+    showHero = true
+    heroStyle = "background"
+    showBreadcrumbs = true
+    showSummary = true
+    showTableOfContents = false
+    showCards = true
+    groupByYear = false
+    cardView = true
+
+  # Taxonomy Settings
+  [params.taxonomy]
+    showTermCount = true
+    showHero = true
+    heroStyle = "background"
+    showBreadcrumbs = true
+    showViews = false
+    showLikes = false
+    showTableOfContents = false
+    cardView = true
+
+  # Term Settings
+  [params.term]
+    showHero = true
+    heroStyle = "background"
+    showBreadcrumbs = true
+    showViews = false
+    showLikes = false
+    showTableOfContents = true
+    groupByYear = false
+    cardView = true
+    cardViewScreenWidth = false
+

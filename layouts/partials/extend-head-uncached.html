@@ -250,7 +250,7 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	        "@id": "{{ .Site.BaseURL }}#physician"
 	      },
 	      "lastReviewed": "{{ .Lastmod.Format "2006-01-02" }}",
-	      "articleSection": {{ if eq .Site.Language.Lang "tr" }}"Kardiyoloji"{{ else }}"Cardiology"{{ end }},
+	      "articleSection": {{ if eq .Site.Language.Lang "tr" }}"Kardiyoloji"{{ else if eq .Site.Language.Lang "ar" }}"أمراض القلب"{{ else }}"Cardiology"{{ end }},
 	      "wordCount": "{{ .WordCount }}",
 	      "keywords": [{{ range $i, $tag := .Params.tags }}{{ if $i }}, {{ end }}"{{ $tag }}"{{ end }}],
 	      "publicationType": "Medical Journal"
@@ -262,14 +262,14 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	        {
 	          "@type": "ListItem",
 	          "position": 1,
-	          "name": {{ if eq .Site.Language.Lang "tr" }}"Ana Sayfa"{{ else }}"Home"{{ end }},
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Ana Sayfa"{{ else if eq .Site.Language.Lang "ar" }}"الرئيسية"{{ else }}"Home"{{ end }},
 	          "item": "{{ .Site.BaseURL }}"
 	        },
 	        {
 	          "@type": "ListItem",
 	          "position": 2,
-	          "name": "Blog",
-	          "item": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr/{{ end }}blog/"
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Blog"{{ else if eq .Site.Language.Lang "ar" }}"المدونة"{{ else }}"Blog"{{ end }},
+	          "item": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr/{{ else if eq .Site.Language.Lang "ar" }}ar/{{ end }}blog/"
 	        },
 	        {
 	          "@type": "ListItem",

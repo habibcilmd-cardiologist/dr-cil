@@ -7,4 +7,5 @@
 # Language-specific 404 pages
 /tr/* /tr/404.html 404
 /en/* /en/404.html 404
+/ar/* /ar/404.html 404
 
