@@ -5,15 +5,54 @@ layout: "profile"
 translationKey: "home"
 ---
 
-## Hoş Geldiniz
+<div class="hero-section">
+  <div class="hero-badges">
+    <span class="badge">20+ Yıl Deneyim</span>
+    <span class="badge">Doçent</span>
+    <span class="badge">Girişimsel Kardiyoloji</span>
+  </div>
 
-Ben **Doç. Dr. Habib ÇİL**, İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi mezunu ve Akdeniz Üniversitesi'nde Kardiyoloji ihtisasını tamamlamış bir **Kardiyoloji Uzmanıyım**.
+  <h1 class="hero-title">Doç. Dr. Habib ÇİL</h1>
+  <p class="hero-subtitle">Kardiyoloji Uzmanı | İstanbul</p>
 
-20 yılı aşkın klinik deneyimim ve akademik kariyerimle hastalarıma en güncel tanı ve tedavi yöntemlerini sunmaktayım. Dicle Üniversitesi Tıp Fakültesi'nde Doçent olarak görev yaptım ve girişimsel kardiyoloji alanında uzmanlaştım.
+  <div class="hero-description">
+    <p>İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. 20 yılı aşkın klinik deneyimim ve akademik kariyerimle hastalarıma en güncel tanı ve tedavi yöntemlerini sunmaktayım.</p>
+  </div>
+
+  <div class="hero-stats">
+    <div class="stat-item">
+      <span class="stat-number">20+</span>
+      <span class="stat-label">Yıl Deneyim</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5000+</span>
+      <span class="stat-label">Hasta</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">100+</span>
+      <span class="stat-label">Yayın</span>
+    </div>
+  </div>
+
+  <div class="hero-cta">
+    <a href="https://wa.me/905339454639" class="btn btn-primary" target="_blank" rel="noopener">
+      <span class="btn-icon">📱</span>
+      <span>WhatsApp ile Randevu Al</span>
+    </a>
+    <a href="/tr/hizmetler/" class="btn btn-secondary">
+      <span class="btn-icon">🔍</span>
+      <span>Hizmetleri Keşfet</span>
+    </a>
+  </div>
+</div>
 
 ---
 
+<div class="services-section">
+
 ## Hizmetlerim
+
+<p class="section-subtitle">Kardiyoloji alanında sunduğum kapsamlı hizmetler</p>
 
 <div class="services-grid">
   <a href="/tr/hizmetler/#koroner-kalp-hastaliklari" class="service-card">
@@ -48,13 +87,16 @@ Ben **Doç. Dr. Habib ÇİL**, İstanbul Üniversitesi Cerrahpaşa Tıp Fakülte
   </a>
 </div>
 
-<div style="text-align: center; margin-top: 2rem;">
+<div class="services-cta">
 
 {{< button href="/tr/hizmetler/" >}}
 Tüm Hizmetleri Gör →
 {{< /button >}}
 
 </div>
+
+</div>
+<!-- End services-section -->
 
 ---
 
@@ -69,3 +111,8 @@ WhatsApp ile Randevu Al
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 
 📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+<!-- Floating WhatsApp Button -->
+<a href="https://wa.me/905339454639" class="whatsapp-float" target="_blank" rel="noopener" aria-label="WhatsApp ile iletişime geç">
+  <span class="icon">💬</span>
+</a>

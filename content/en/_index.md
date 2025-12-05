@@ -5,15 +5,54 @@ layout: "profile"
 translationKey: "home"
 ---
 
-## Welcome
+<div class="hero-section">
+  <div class="hero-badges">
+    <span class="badge">20+ Years Experience</span>
+    <span class="badge">Associate Professor</span>
+    <span class="badge">Interventional Cardiology</span>
+  </div>
 
-I am **Assoc. Prof. Dr. Habib ÇİL**, a graduate of Istanbul University Cerrahpaşa Faculty of Medicine and completed my Cardiology specialization at Akdeniz University.
+  <h1 class="hero-title">Assoc. Prof. Dr. Habib ÇİL</h1>
+  <p class="hero-subtitle">Cardiologist | Istanbul, Turkey</p>
 
-With over 20 years of clinical experience and academic career, I provide my patients with the most up-to-date diagnostic and treatment methods. I served as Associate Professor at Dicle University Faculty of Medicine and specialized in interventional cardiology.
+  <div class="hero-description">
+    <p>Graduate of Istanbul University Cerrahpaşa Faculty of Medicine, specialized in Cardiology at Akdeniz University. With over 20 years of clinical experience and academic career, I provide my patients with the most up-to-date diagnostic and treatment methods.</p>
+  </div>
+
+  <div class="hero-stats">
+    <div class="stat-item">
+      <span class="stat-number">20+</span>
+      <span class="stat-label">Years Experience</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5000+</span>
+      <span class="stat-label">Patients</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">100+</span>
+      <span class="stat-label">Publications</span>
+    </div>
+  </div>
+
+  <div class="hero-cta">
+    <a href="https://wa.me/905339454639" class="btn btn-primary" target="_blank" rel="noopener">
+      <span class="btn-icon">📱</span>
+      <span>Book Appointment via WhatsApp</span>
+    </a>
+    <a href="/services/" class="btn btn-secondary">
+      <span class="btn-icon">🔍</span>
+      <span>Explore Services</span>
+    </a>
+  </div>
+</div>
 
 ---
 
+<div class="services-section">
+
 ## Services
+
+<p class="section-subtitle">Comprehensive cardiology services I provide</p>
 
 <div class="services-grid">
   <a href="/services/#coronary-heart-diseases" class="service-card">
@@ -48,13 +87,16 @@ With over 20 years of clinical experience and academic career, I provide my pati
   </a>
 </div>
 
-<div style="text-align: center; margin-top: 2rem;">
+<div class="services-cta">
 
 {{< button href="/services/" >}}
 View All Services →
 {{< /button >}}
 
 </div>
+
+</div>
+<!-- End services-section -->
 
 ---
 
@@ -69,3 +111,8 @@ Book Appointment via WhatsApp
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul, Turkey
 
 📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
+
+<!-- Floating WhatsApp Button -->
+<a href="https://wa.me/905339454639" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Contact via WhatsApp">
+  <span class="icon">💬</span>
+</a>
