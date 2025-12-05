@@ -88,11 +88,20 @@ translationKey: "home"
 </div>
 
 <div class="services-cta">
-
-{{< button href="/services/" >}}
-View All Services →
-{{< /button >}}
-
+  <div class="cta-content">
+    <h3 class="cta-title">Detailed Information About Our Cardiology Services</h3>
+    <p class="cta-subtitle">Explore all treatment options and find the most suitable solution for you</p>
+    <div class="cta-buttons">
+      <a href="https://wa.me/905339454639" class="btn btn-primary" target="_blank" rel="noopener">
+        <span class="btn-icon">📱</span>
+        <span>Consult Now</span>
+      </a>
+      <a href="/services/" class="btn btn-secondary">
+        <span class="btn-icon">📋</span>
+        <span>View All Services</span>
+      </a>
+    </div>
+  </div>
 </div>
 
 </div>
@@ -102,15 +111,26 @@ View All Services →
 
 ### Appointment
 
-To make an appointment, you can contact us via WhatsApp or phone.
+<div class="appointment-cta">
+  <p class="appointment-intro">To make an appointment, you can contact us via WhatsApp or phone.</p>
+  <p class="urgency-text">⏰ We typically respond within 24 hours</p>
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
+  <div class="cta-buttons">
+    <a href="https://wa.me/905339454639" class="btn btn-primary" target="_blank" rel="noopener">
+      <span class="btn-icon">💬</span>
+      <span>Message on WhatsApp</span>
+    </a>
+    <a href="tel:+902126655050" class="btn btn-secondary">
+      <span class="btn-icon">📞</span>
+      <span>Call Now</span>
+    </a>
+  </div>
 
-📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul, Turkey
-
-📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
+  <div class="contact-info">
+    <p>📍 <strong>Avrasya Hospital</strong> - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul, Turkey</p>
+    <p>📞 <strong>Phone:</strong> +90 212 665 50 50 (Ext: 4012)</p>
+  </div>
+</div>
 
 <!-- Floating WhatsApp Button -->
 <a href="https://wa.me/905339454639" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Contact via WhatsApp">

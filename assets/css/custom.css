@@ -650,7 +650,67 @@ button:focus-visible {
 /* Services CTA Container */
 .services-cta {
 	text-align: center;
-	margin-top: 3rem;
+	margin-top: 4rem;
+	margin-bottom: 2rem;
+}
+
+.cta-content {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 3rem 2rem;
+	background: linear-gradient(
+		135deg,
+		rgba(var(--color-primary-50), 0.3) 0%,
+		rgba(var(--color-primary-100), 0.2) 100%
+	);
+	border-radius: 1.5rem;
+	border: 1px solid rgba(var(--color-primary-200), 0.5);
+	position: relative;
+	overflow: hidden;
+}
+
+.cta-content::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: -100%;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(
+		90deg,
+		transparent,
+		rgba(255, 255, 255, 0.3),
+		transparent
+	);
+	transition: left 0.5s ease;
+}
+
+.cta-content:hover::before {
+	left: 100%;
+}
+
+.cta-title {
+	font-size: 1.75rem;
+	font-weight: 700;
+	color: rgb(var(--color-neutral-900));
+	margin-bottom: 0.75rem;
+	line-height: 1.3;
+}
+
+.cta-subtitle {
+	font-size: 1.125rem;
+	color: rgb(var(--color-neutral-600));
+	margin-bottom: 2rem;
+	line-height: 1.6;
+}
+
+.cta-buttons {
+	display: flex;
+	gap: 1rem;
+	justify-content: center;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
 }
 
 .service-card {
@@ -825,6 +885,42 @@ a.service-card:hover {
 	.services-cta {
 		margin-top: 2rem;
 	}
+
+	.cta-content {
+		padding: 2rem 1.5rem;
+	}
+
+	.cta-title {
+		font-size: 1.5rem;
+	}
+
+	.cta-subtitle {
+		font-size: 1rem;
+		margin-bottom: 1.5rem;
+	}
+
+	.cta-buttons {
+		flex-direction: column;
+		gap: 0.75rem;
+	}
+
+	.btn {
+		width: 100%;
+		min-width: auto;
+	}
+
+	.appointment-cta {
+		padding: 2rem 1.5rem;
+	}
+
+	.urgency-text {
+		font-size: 0.875rem;
+		padding: 0.4rem 1rem;
+	}
+
+	.contact-info p {
+		font-size: 0.9rem;
+	}
 }
 
 @media (min-width: 641px) and (max-width: 1024px) {
@@ -842,6 +938,22 @@ a.service-card:hover {
 
 	.services-grid {
 		grid-template-columns: repeat(2, 1fr);
+	}
+
+	.cta-content {
+		padding: 2.5rem 2rem;
+	}
+
+	.cta-title {
+		font-size: 1.625rem;
+	}
+
+	.cta-buttons {
+		flex-direction: row;
+	}
+
+	.btn {
+		min-width: 180px;
 	}
 }
 
@@ -1073,11 +1185,39 @@ a.service-card:hover {
 	border: none;
 	font-family: inherit;
 	line-height: 1.5;
+	position: relative;
+	overflow: hidden;
+	min-width: 200px;
+	justify-content: center;
+}
+
+/* Button ripple effect */
+.btn::before {
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 0;
+	height: 0;
+	border-radius: 50%;
+	background: rgba(255, 255, 255, 0.3);
+	transform: translate(-50%, -50%);
+	transition: width 0.6s ease, height 0.6s ease;
+}
+
+.btn:hover::before {
+	width: 300px;
+	height: 300px;
 }
 
 .btn-icon {
 	font-size: 1.25rem;
 	line-height: 1;
+	transition: transform 0.3s ease;
+}
+
+.btn:hover .btn-icon {
+	transform: scale(1.2) rotate(5deg);
 }
 
 /* Primary Button - WhatsApp */
@@ -1085,6 +1225,17 @@ a.service-card:hover {
 	background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
 	color: white;
 	box-shadow: 0 8px 24px rgba(37, 211, 102, 0.3);
+	position: relative;
+}
+
+.btn-primary::after {
+	content: "";
+	position: absolute;
+	inset: 0;
+	background: linear-gradient(135deg, #128c7e 0%, #25d366 100%);
+	opacity: 0;
+	transition: opacity 0.3s ease;
+	border-radius: 12px;
 }
 
 .btn-primary:hover {
@@ -1094,8 +1245,18 @@ a.service-card:hover {
 	color: white;
 }
 
+.btn-primary:hover::after {
+	opacity: 1;
+}
+
 .btn-primary:active {
 	transform: translateY(0);
+}
+
+/* Ensure text stays on top */
+.btn-primary > * {
+	position: relative;
+	z-index: 1;
 }
 
 /* Secondary Button - Outline */
@@ -1104,14 +1265,34 @@ a.service-card:hover {
 	color: rgb(var(--color-primary-600));
 	border: 2px solid rgb(var(--color-primary-600));
 	box-shadow: none;
+	position: relative;
+}
+
+.btn-secondary::after {
+	content: "";
+	position: absolute;
+	inset: 0;
+	background: rgb(var(--color-primary-600));
+	opacity: 0;
+	transition: opacity 0.3s ease;
+	border-radius: 10px;
 }
 
 .btn-secondary:hover {
-	background: rgb(var(--color-primary-600));
 	color: white;
 	transform: translateY(-2px);
 	box-shadow: 0 8px 24px rgba(99, 102, 241, 0.3);
 	text-decoration: none;
+}
+
+.btn-secondary:hover::after {
+	opacity: 1;
+}
+
+/* Ensure text stays on top */
+.btn-secondary > * {
+	position: relative;
+	z-index: 1;
 }
 
 .dark .btn-secondary {
@@ -1119,9 +1300,57 @@ a.service-card:hover {
 	border-color: rgb(var(--color-primary-400));
 }
 
-.dark .btn-secondary:hover {
+.dark .btn-secondary::after {
 	background: rgb(var(--color-primary-400));
+}
+
+.dark .btn-secondary:hover {
 	color: rgb(var(--color-neutral-900));
+}
+
+/* Appointment CTA Section */
+.appointment-cta {
+	max-width: 800px;
+	margin: 2rem auto;
+	padding: 2.5rem 2rem;
+	background: linear-gradient(
+		135deg,
+		rgba(var(--color-primary-50), 0.2) 0%,
+		rgba(var(--color-secondary-50), 0.1) 100%
+	);
+	border-radius: 1.5rem;
+	border: 1px solid rgba(var(--color-primary-200), 0.3);
+	text-align: center;
+}
+
+.appointment-intro {
+	font-size: 1.125rem;
+	color: rgb(var(--color-neutral-700));
+	margin-bottom: 1rem;
+}
+
+.urgency-text {
+	display: inline-block;
+	font-size: 0.95rem;
+	font-weight: 600;
+	color: rgb(var(--color-primary-700));
+	background: rgba(var(--color-primary-100), 0.5);
+	padding: 0.5rem 1.25rem;
+	border-radius: 2rem;
+	margin-bottom: 2rem;
+	border: 1px solid rgba(var(--color-primary-300), 0.5);
+}
+
+.contact-info {
+	margin-top: 2rem;
+	padding-top: 2rem;
+	border-top: 1px solid rgba(var(--color-neutral-300), 0.5);
+}
+
+.contact-info p {
+	font-size: 1rem;
+	color: rgb(var(--color-neutral-600));
+	margin: 0.5rem 0;
 }
 
 /* Floating WhatsApp Button */
@@ -1230,4 +1459,52 @@ a.service-card:hover {
 		grid-template-columns: repeat(3, 1fr);
 		gap: 1.5rem;
 	}
+}
+
+/* -----------------------------------------------------------------------------
+   Dark Mode - CTA Sections
+   ----------------------------------------------------------------------------- */
+
+.dark .cta-content {
+	background: linear-gradient(
+		135deg,
+		rgba(var(--color-primary-900), 0.3) 0%,
+		rgba(var(--color-primary-800), 0.2) 100%
+	);
+	border-color: rgba(var(--color-primary-700), 0.5);
+}
+
+.dark .cta-title {
+	color: rgb(var(--color-neutral-100));
+}
+
+.dark .cta-subtitle {
+	color: rgb(var(--color-neutral-400));
+}
+
+.dark .appointment-cta {
+	background: linear-gradient(
+		135deg,
+		rgba(var(--color-primary-900), 0.2) 0%,
+		rgba(var(--color-secondary-900), 0.1) 100%
+	);
+	border-color: rgba(var(--color-primary-700), 0.3);
+}
+
+.dark .appointment-intro {
+	color: rgb(var(--color-neutral-300));
+}
+
+.dark .urgency-text {
+	color: rgb(var(--color-primary-300));
+	background: rgba(var(--color-primary-900), 0.5);
+	border-color: rgba(var(--color-primary-700), 0.5);
+}
+
+.dark .contact-info {
+	border-top-color: rgba(var(--color-neutral-700), 0.5);
+}
+
+.dark .contact-info p {
+	color: rgb(var(--color-neutral-400));
 }
