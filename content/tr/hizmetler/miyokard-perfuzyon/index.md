@@ -141,7 +141,7 @@ Riskler düşüktür:
 
 Miyokard perfüzyon sintigrafisi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 WhatsApp ile Randevu Al
 {{< /button >}}
 

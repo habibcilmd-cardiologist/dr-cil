@@ -151,7 +151,7 @@ Pulmoner kapak, sağ ventrikülden pulmoner artere kan akışını düzenler. Ka
 
 Pulmoner kapak hastalığı değerlendirmesi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 WhatsApp ile Randevu Al
 {{< /button >}}
 

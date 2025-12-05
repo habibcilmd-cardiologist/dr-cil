@@ -160,7 +160,7 @@ Procedure risks are low:
 
 If you would like to schedule an appointment for electrophysiology study:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 Book Appointment via WhatsApp
 {{< /button >}}
 

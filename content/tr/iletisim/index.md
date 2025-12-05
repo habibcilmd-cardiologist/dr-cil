@@ -12,11 +12,13 @@ Randevu almak veya sorularınız için bizimle iletişime geçebilirsiniz.
 
 ## İletişim Bilgileri
 
-📍 **Avrasya Hospital**  
-Beştelsiz Mah. 101. Sokak No:107  
+📍 **Avrasya Hospital**
+Beştelsiz Mah. 101. Sokak No:107
 Zeytinburnu, İstanbul
 
 📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+
+📱 **WhatsApp:** +90 533 945 46 39
 
 📧 **E-posta:** info@drhabibcil.com
 
@@ -27,7 +29,7 @@ Pazar: Kapalı
 
 ---
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 WhatsApp ile Randevu Al
 {{< /button >}}
 

@@ -206,7 +206,7 @@ After left main stenting:
 
 If you would like to schedule an appointment for left main coronary disease evaluation or treatment:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 Book Appointment via WhatsApp
 {{< /button >}}
 

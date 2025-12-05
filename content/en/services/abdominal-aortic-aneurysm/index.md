@@ -134,7 +134,7 @@ Treatment decision depends on:
 
 If you would like to schedule an appointment for abdominal aortic aneurysm evaluation:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 Book Appointment via WhatsApp
 {{< /button >}}
 

@@ -230,7 +230,7 @@ Coronary artery disease is a chronic condition requiring lifelong follow-up:
 
 If you would like to schedule an appointment for coronary artery disease diagnosis, treatment, or follow-up:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 Book Appointment via WhatsApp
 {{< /button >}}
 

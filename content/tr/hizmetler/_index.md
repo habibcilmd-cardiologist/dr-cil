@@ -130,7 +130,7 @@ translationKey: "services"
 
 Hizmetlerimiz hakkında daha fazla bilgi almak ve randevu oluşturmak için:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 WhatsApp ile Randevu Al
 {{< /button >}}
 

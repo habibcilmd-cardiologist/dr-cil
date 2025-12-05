@@ -618,7 +618,7 @@ Cardiac rehabilitation is an indispensable part of heart disease treatment. Earl
 
 If you would like information about the cardiac rehabilitation program or schedule an evaluation appointment:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 Book Appointment via WhatsApp
 {{< /button >}}
 

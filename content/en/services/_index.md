@@ -130,7 +130,7 @@ translationKey: "services"
 
 For more information about our services and to schedule an appointment:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 Book Appointment via WhatsApp
 {{< /button >}}
 

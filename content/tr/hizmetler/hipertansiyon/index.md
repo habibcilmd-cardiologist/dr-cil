@@ -198,7 +198,7 @@ Kontrol altına alınmayan hipertansiyon, zamanla birçok organda hasar oluştur
 
 Tansiyon kontrolü veya hipertansiyon tedavisi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 WhatsApp ile Randevu Al
 {{< /button >}}
 

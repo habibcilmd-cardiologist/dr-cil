@@ -141,7 +141,7 @@ Renal arter stenozu, böbrek arterinin %50'den fazla daralmasıdır. Bu durum b�
 
 Renal arter stenozu değerlendirmesi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/902126655050" target="_blank" >}}
+{{< button href="https://wa.me/905339454639" target="_blank" >}}
 WhatsApp ile Randevu Al
 {{< /button >}}
 
