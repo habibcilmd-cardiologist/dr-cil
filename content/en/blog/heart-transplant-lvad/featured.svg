@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F472B6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="deviceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34D399;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGrad)"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="650" cy="80" r="60" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="720" cy="150" r="40" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="100" cy="320" r="50" fill="rgba(255,255,255,0.1)"/>
+  
+  <!-- Heart with LVAD illustration -->
+  <g transform="translate(480, 50)">
+    <!-- Heart shape -->
+    <path d="M100,30 C60,-10 0,20 0,70 C0,120 50,160 100,200 C150,160 200,120 200,70 C200,20 140,-10 100,30" 
+          fill="url(#heartGrad)" opacity="0.9"/>
+    
+    <!-- LVAD device representation (simplified pump) -->
+    <rect x="130" y="80" width="40" height="60" rx="5" fill="url(#deviceGrad)" opacity="0.9"/>
+    <rect x="125" y="75" width="50" height="70" rx="7" fill="none" stroke="white" stroke-width="2" opacity="0.7"/>
+    
+    <!-- Connection line from heart to LVAD -->
+    <path d="M100,100 L130,110" fill="none" stroke="white" stroke-width="3" stroke-dasharray="5,5"/>
+    
+    <!-- Blood flow arrows -->
+    <path d="M50,150 L80,150 L75,145 L80,150 L75,155" fill="none" stroke="white" stroke-width="2"/>
+    <path d="M170,150 L200,150 L195,145 L200,150 L195,155" fill="none" stroke="white" stroke-width="2"/>
+    
+    <!-- Pulsing circle animation -->
+    <circle cx="100" cy="100" r="15" fill="rgba(255,255,255,0.7)" opacity="0.6">
+      <animate attributeName="r" values="15;25;15" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Text content -->
+  <text x="60" y="110" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white">
+    Heart Transplant &amp; LVAD
+  </text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.9)">
+    End-Stage Heart Failure Treatments
+  </text>
+  
+  <!-- Info boxes -->
+  <g transform="translate(60, 200)">
+    <rect x="0" y="0" width="130" height="55" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="65" y="25" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">Heart Transplant</text>
+    <text x="65" y="43" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.8)" text-anchor="middle">Life-Saving</text>
+  </g>
+  
+  <g transform="translate(210, 200)">
+    <rect x="0" y="0" width="130" height="55" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="65" y="25" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">LVAD Support</text>
+    <text x="65" y="43" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.8)" text-anchor="middle">Heart Function</text>
+  </g>
+  
+  <!-- Bottom text -->
+  <text x="60" y="340" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)">
+    Assoc. Prof. Habib ÇİL | Cardiology Specialist
+  </text>
+</svg>
