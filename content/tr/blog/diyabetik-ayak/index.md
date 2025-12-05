@@ -1,6 +1,6 @@
 ---
 title: "Diyabetik Ayak Nedir? Belirtileri, Tedavisi ve Korunma Yöntemleri"
-description: "Diyabetik ayak hakkında kapsamlı rehber. Diyabet hastalarında ayak yarası, enfeksiyon ve ampütasyon riskini azaltmak için belirtiler, tedavi ve önleme stratejileri. Kardiyoloji uzmanından bilgiler."
+description: "Diyabetik ayak hakkında kapsamlı rehber. Girişimsel kardiyoloji ile bacak kurtarma, endovasküler tedavi, damar açma işlemleri. Belirtiler, tedavi yöntemleri ve ampütasyon riskini azaltma stratejileri."
 date: 2024-12-05
 lastmod: 2024-12-05
 translationKey: "diabetic-foot"
@@ -13,6 +13,13 @@ tags:
         "periferik nöropati",
         "damar hastalığı",
         "ampütasyon önleme",
+        "girişimsel kardiyoloji",
+        "endovasküler tedavi",
+        "bacak kurtarma",
+        "damar açma",
+        "balon anjiyoplasti",
+        "stent",
+        "periferik arter hastalığı",
     ]
 author: "Doç. Dr. Habib ÇİL"
 showTableOfContents: true
@@ -287,22 +294,192 @@ Tedavinin en temel ve kritik adımı:
 -   Cerrahi debridman gerekebilir
 -   Enfekte kemik rezeksiyonu
 
-### 4. Vasküler Tedavi
+### 4. Vasküler Tedavi ve Girişimsel Kardiyoloji
 
-Damar hastalığı varsa revaskülarizasyon (damar açma) gerekebilir:
+Diyabetik ayakta damar hastalığı (periferik arter hastalığı) varlığında, ayağa yeterli kan akışının sağlanması tedavinin en kritik bileşenlerinden biridir. Yetersiz kan akışı yara iyileşmesini engeller ve ampütasyon riskini önemli ölçüde artırır. Modern tıpta, damar tıkanıklıklarını açmak için çeşitli tedavi seçenekleri bulunmaktadır.
 
-**Endovasküler Tedavi:**
+#### Girişimsel Kardiyoloji ve Endovasküler Tedaviler
 
--   Balon anjiyoplasti
--   Stent yerleştirme
--   Aterektomi
--   Minimal invaziv, hızlı iyileşme
+Girişimsel kardiyoloji, diyabetik ayakta bacak kurtarma (limb salvage) açısından kritik öneme sahiptir. Araştırmalar, zamanında yapılan endovasküler müdahalelerin ampütasyon riskini önemli ölçüde azalttığını göstermektedir. Tıbbi literatürde, uygun hastalarda endovasküler revaskülarizasyon sonrası %85-95 oranında bacak kurtarma başarısı bildirilmektedir.
 
-**Cerrahi Bypass:**
+**Endovasküler Tedavi Yöntemleri:**
 
--   Uzun segment tıkanıklıklarda
--   Endovasküler tedaviye uygun olmayan vakalarda
--   Ven veya sentetik greft kullanımı
+Endovasküler tedaviler, kasık bölgesinden küçük bir giriş ile damar içinden yapılan minimal invaziv işlemlerdir. Bu yöntemler genel anestezi gerektirmez ve hastanede kalış süresi kısadır.
+
+**1. Balon Anjiyoplasti:**
+
+-   Tıkalı veya daralmış damara özel bir balon kateter yerleştirilir
+-   Balon şişirilerek damar genişletilir ve kan akışı restore edilir
+-   İşlem süresi genellikle 1-2 saat arasındadır
+-   Çalışmalar, balon anjiyoplasti sonrası teknik başarı oranının %90'ın üzerinde olduğunu göstermektedir
+
+**2. İlaç Kaplı Balonlar (Drug-Coated Balloons - DCB):**
+
+-   Balon yüzeyi damar daralmasını önleyen ilaçlarla kaplanmıştır
+-   Standart balona göre damarın tekrar daralma riskini azaltır
+-   Özellikle diz altı (below-the-knee - BTK) damarlarda etkili olduğu gösterilmiştir
+-   Araştırmalar, ilaç kaplı balonların 1 yıllık açıklık oranlarını %20-30 artırdığını bildirmektedir
+
+**3. Stent Yerleştirme:**
+
+-   Damar içine metal kafes yapısında destek yerleştirilir
+-   Damarın açık kalmasını sağlar
+-   Uzun segment tıkanıklıklarda veya balon anjiyoplasti sonrası yetersiz sonuçlarda kullanılır
+-   İlaç salınımlı stentler (drug-eluting stents) damarın tekrar daralmasını önlemeye yardımcı olur
+
+**4. Aterektomi:**
+
+-   Damar içindeki plak ve kireçlenmiş dokuların özel cihazlarla çıkarılması
+-   Ağır kireçlenmiş damarlarda etkilidir
+-   Balon anjiyoplasti ile kombine edilebilir
+-   Özellikle diz altı damarlarda başarılı sonuçlar bildirilmektedir
+
+#### Diz Altı (Below-the-Knee - BTK) Müdahaleler
+
+Diyabetik hastalarda damar hastalığı sıklıkla diz altı damarları (tibial ve pedal arterler) etkiler. Bu bölgedeki müdahaleler teknik olarak daha zorlayıcı olsa da, bacak kurtarma açısından hayati öneme sahiptir.
+
+**Tibial ve Pedal Arter Müdahaleleri:**
+
+-   Anterior tibial, posterior tibial ve peroneal arterlere müdahale
+-   Ayak arkı (pedal arch) revaskülarizasyonu
+-   Çalışmalar, pedal ark açıklığının yara iyileşmesi ve bacak kurtarma ile güçlü ilişkisini göstermektedir
+-   Tıbbi literatürde, başarılı BTK müdahalesi sonrası %80-90 yara iyileşme oranları bildirilmektedir
+
+**Kronik Total Oklüzyon (CTO) Teknikleri:**
+
+-   Tamamen tıkalı damarların açılması için özel teknikler
+-   İleri düzey kateter ve tel teknolojileri kullanılır
+-   Deneyimli merkezlerde %85-90 teknik başarı oranları rapor edilmektedir
+-   Retrograd (ayak damarlarından geriye doğru) yaklaşımlar da kullanılabilir
+
+#### Hibrit Prosedürler
+
+Bazı karmaşık vakalarda, endovasküler ve cerrahi yöntemler birlikte kullanılabilir:
+
+-   Üst segment için cerrahi bypass + alt segment için endovasküler tedavi
+-   Aynı seansta her iki yöntemin uygulanması
+-   Araştırmalar, hibrit yaklaşımların seçilmiş hastalarda mükemmel sonuçlar verdiğini göstermektedir
+
+#### Cerrahi Bypass
+
+Endovasküler tedaviye uygun olmayan veya başarısız olan vakalarda cerrahi bypass düşünülür:
+
+**Bypass Cerrahisi Endikasyonları:**
+
+-   Uzun segment tıkanıklıklar (>20 cm)
+-   Ağır kireçlenme nedeniyle endovasküler tedavinin teknik olarak mümkün olmadığı durumlar
+-   Endovasküler tedavi başarısızlığı
+-   Akut iskemi (ani damar tıkanması)
+
+**Bypass Tipleri:**
+
+-   Femoral-popliteal bypass (diz üstü veya diz altı)
+-   Femoral-tibial bypass (diz altı damarlara)
+-   Femoral-pedal bypass (ayak damarlarına)
+-   Otojen ven grefti (hastanın kendi toplardamarı) tercih edilir
+-   Sentetik greft (PTFE, Dacron) ven yoksa kullanılabilir
+
+**Bypass Sonuçları:**
+
+-   Otojen ven grefti ile 5 yıllık açıklık oranları %60-70
+-   Sentetik greft ile 5 yıllık açıklık oranları %40-50
+-   Bacak kurtarma oranları bypass açıklığından daha yüksektir (%70-80)
+
+#### Tedavi Seçimi: Endovasküler vs. Cerrahi
+
+Günümüzde "endovascular-first" (önce endovasküler) yaklaşımı yaygın olarak kabul görmektedir:
+
+**Endovasküler Tedavinin Avantajları:**
+
+-   Minimal invaziv (küçük giriş)
+-   Lokal anestezi ile yapılabilir
+-   Hastanede kalış süresi kısa (genellikle 1 gün)
+-   Komplikasyon riski düşük
+-   Tekrarlanabilir
+-   İleri yaş ve komorbid hastalarda daha güvenli
+-   Başarısız olsa bile cerrahi seçeneği ortadan kaldırmaz
+
+**Cerrahi Bypass'ın Avantajları:**
+
+-   Uzun segment tıkanıklıklarda daha dayanıklı olabilir
+-   Ağır kireçlenmiş damarlarda daha etkili olabilir
+-   Tek seansta uzun süreli çözüm sağlayabilir
+
+#### Revaskülarizasyon Sonrası Sonuçlar
+
+Başarılı revaskülarizasyon sonrası beklenen iyileşmeler:
+
+**Kısa Dönem (0-3 ay):**
+
+-   İstirahat ağrısında azalma veya kaybolma
+-   Ayak ısısında artış
+-   Cilt renginde düzelme
+-   Yara kenarlarında granülasyon dokusu oluşumu
+-   Ödem azalması
+
+**Orta-Uzun Dönem (3-12 ay):**
+
+-   Yara iyileşmesi (%70-85 iyileşme oranı)
+-   Ağrısız yürüme mesafesinde artış
+-   Yaşam kalitesinde iyileşme
+-   Ampütasyon riskinde %60-70 azalma
+
+**Bacak Kurtarma Oranları:**
+Tıbbi literatürde bildirilen bacak kurtarma oranları:
+
+-   1 yıllık bacak kurtarma: %85-95
+-   3 yıllık bacak kurtarma: %75-85
+-   5 yıllık bacag kurtarma: %70-80
+
+{{< alert "warning" >}}
+**Önemli:** Revaskülarizasyon tek başına yeterli değildir. Başarılı sonuç için kan şekeri kontrolü, yara bakımı, basınç azaltma, enfeksiyon tedavisi ve risk faktörlerinin yönetimi birlikte yapılmalıdır. Multidisipliner yaklaşım esastır.
+{{< /alert >}}
+
+#### Revaskülarizasyon Zamanlaması
+
+Zamanında müdahale kritik öneme sahiptir:
+
+-   **Acil (24-48 saat içinde):** Akut iskemi, hızla ilerleyen enfeksiyon
+-   **Erken (1-2 hafta içinde):** İstirahat ağrısı, iyileşmeyen yara, gangren başlangıcı
+-   **Elektif (planlanmış):** Kronik klaudikasyo, yara iyileşmesini desteklemek için
+
+Araştırmalar, erken revaskülarizasyonun ampütasyon oranlarını %50'den fazla azalttığını göstermektedir.
+
+#### Görüntüleme ve Tanı
+
+Revaskülarizasyon öncesi detaylı damar görüntülemesi gereklidir:
+
+**Non-invaziv Görüntüleme:**
+
+-   Doppler ultrasonografi: İlk değerlendirme
+-   CT anjiyografi: Damar anatomisinin detaylı görüntülenmesi
+-   MR anjiyografi: Böbrek fonksiyonu bozuk hastalarda alternatif
+
+**İnvaziv Görüntüleme:**
+
+-   Dijital subtraksiyon anjiyografi (DSA): Altın standart
+-   Tedavi ile aynı seansta yapılabilir
+-   Damar anatomisi, tıkanıklık yeri ve şiddeti hakkında en detaylı bilgi
+
+#### Tedavi Sonrası Takip
+
+Revaskülarizasyon sonrası düzenli takip esastır:
+
+**Takip Programı:**
+
+-   İlk ay: Haftalık kontrol
+-   2-6. aylar: Aylık kontrol
+-   6-12. aylar: 2-3 ayda bir kontrol
+-   1 yıl sonrası: 3-6 ayda bir kontrol
+
+**Takipte Yapılacaklar:**
+
+-   Yara iyileşmesinin değerlendirilmesi
+-   Nabız muayenesi
+-   Ayak bileği-kol indeksi (ABI) ölçümü
+-   Doppler ultrasonografi
+-   Semptom değerlendirmesi
+-   Risk faktörlerinin kontrolü
 
 ### 5. İleri Tedavi Yöntemleri
 

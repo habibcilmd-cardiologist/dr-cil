@@ -1,6 +1,6 @@
 ---
 title: "What is Diabetic Foot? Symptoms, Treatment, and Prevention Methods"
-description: "Comprehensive guide to diabetic foot. Learn about foot wounds, infection, and amputation risk reduction in diabetic patients. Symptoms, treatment, and prevention strategies from a cardiology specialist."
+description: "Comprehensive guide to diabetic foot. Interventional cardiology for limb salvage, endovascular treatment, revascularization procedures. Symptoms, treatment methods, and amputation risk reduction strategies."
 date: 2024-12-05
 lastmod: 2024-12-05
 translationKey: "diabetic-foot"
@@ -13,6 +13,13 @@ tags:
         "peripheral neuropathy",
         "vascular disease",
         "amputation prevention",
+        "interventional cardiology",
+        "endovascular treatment",
+        "limb salvage",
+        "revascularization",
+        "balloon angioplasty",
+        "stent",
+        "peripheral artery disease",
     ]
 author: "Assoc. Prof. Dr. Habib ÇİL"
 showTableOfContents: true
@@ -287,22 +294,192 @@ Good glycemic control:
 -   Surgical debridement may be needed
 -   Infected bone resection
 
-### 4. Vascular Treatment
+### 4. Vascular Treatment and Interventional Cardiology
 
-If vascular disease is present, revascularization (vessel opening) may be needed:
+In diabetic foot with vascular disease (peripheral artery disease), ensuring adequate blood flow to the foot is one of the most critical components of treatment. Insufficient blood flow prevents wound healing and significantly increases amputation risk. Modern medicine offers various treatment options for opening vascular blockages.
 
-**Endovascular Treatment:**
+#### Interventional Cardiology and Endovascular Treatments
 
--   Balloon angioplasty
--   Stent placement
--   Atherectomy
--   Minimally invasive, rapid recovery
+Interventional cardiology is critically important for limb salvage in diabetic foot. Research shows that timely endovascular interventions significantly reduce amputation risk. Medical literature reports limb salvage success rates of 85-95% following endovascular revascularization in appropriate patients.
 
-**Surgical Bypass:**
+**Endovascular Treatment Methods:**
 
--   For long segment blockages
--   In cases not suitable for endovascular treatment
--   Use of vein or synthetic graft
+Endovascular treatments are minimally invasive procedures performed from inside the vessel through a small groin access. These methods do not require general anesthesia and hospital stay is short.
+
+**1. Balloon Angioplasty:**
+
+-   A special balloon catheter is placed in the blocked or narrowed vessel
+-   The balloon is inflated to widen the vessel and restore blood flow
+-   Procedure duration is typically 1-2 hours
+-   Studies show technical success rates exceeding 90% after balloon angioplasty
+
+**2. Drug-Coated Balloons (DCB):**
+
+-   The balloon surface is coated with drugs that prevent vessel re-narrowing
+-   Reduces risk of vessel re-stenosis compared to standard balloons
+-   Shown to be particularly effective in below-the-knee (BTK) vessels
+-   Research reports that drug-coated balloons increase 1-year patency rates by 20-30%
+
+**3. Stent Placement:**
+
+-   A metal mesh-like support is placed inside the vessel
+-   Ensures the vessel remains open
+-   Used in long segment blockages or after insufficient balloon angioplasty results
+-   Drug-eluting stents help prevent vessel re-narrowing
+
+**4. Atherectomy:**
+
+-   Removal of plaque and calcified tissue inside the vessel with special devices
+-   Effective in heavily calcified vessels
+-   Can be combined with balloon angioplasty
+-   Successful results particularly reported in below-the-knee vessels
+
+#### Below-the-Knee (BTK) Interventions
+
+In diabetic patients, vascular disease frequently affects below-the-knee vessels (tibial and pedal arteries). Although interventions in this region are technically more challenging, they are vital for limb salvage.
+
+**Tibial and Pedal Artery Interventions:**
+
+-   Intervention in anterior tibial, posterior tibial, and peroneal arteries
+-   Pedal arch revascularization
+-   Studies show strong association between pedal arch patency and wound healing and limb salvage
+-   Medical literature reports 80-90% wound healing rates after successful BTK intervention
+
+**Chronic Total Occlusion (CTO) Techniques:**
+
+-   Special techniques for opening completely blocked vessels
+-   Advanced catheter and wire technologies are used
+-   Experienced centers report 85-90% technical success rates
+-   Retrograde (backward from foot vessels) approaches can also be used
+
+#### Hybrid Procedures
+
+In some complex cases, endovascular and surgical methods can be used together:
+
+-   Surgical bypass for upper segment + endovascular treatment for lower segment
+-   Application of both methods in the same session
+-   Research shows hybrid approaches yield excellent results in selected patients
+
+#### Surgical Bypass
+
+Surgical bypass is considered in cases unsuitable for or failed endovascular treatment:
+
+**Bypass Surgery Indications:**
+
+-   Long segment blockages (>20 cm)
+-   Situations where endovascular treatment is technically not possible due to severe calcification
+-   Endovascular treatment failure
+-   Acute ischemia (sudden vessel blockage)
+
+**Bypass Types:**
+
+-   Femoral-popliteal bypass (above or below knee)
+-   Femoral-tibial bypass (to below-knee vessels)
+-   Femoral-pedal bypass (to foot vessels)
+-   Autogenous vein graft (patient's own vein) is preferred
+-   Synthetic graft (PTFE, Dacron) can be used if vein unavailable
+
+**Bypass Results:**
+
+-   5-year patency rates with autogenous vein graft: 60-70%
+-   5-year patency rates with synthetic graft: 40-50%
+-   Limb salvage rates are higher than bypass patency (70-80%)
+
+#### Treatment Selection: Endovascular vs. Surgical
+
+Currently, the "endovascular-first" approach is widely accepted:
+
+**Advantages of Endovascular Treatment:**
+
+-   Minimally invasive (small access)
+-   Can be performed with local anesthesia
+-   Short hospital stay (typically 1 day)
+-   Low complication risk
+-   Repeatable
+-   Safer in elderly and comorbid patients
+-   Does not eliminate surgical option even if unsuccessful
+
+**Advantages of Surgical Bypass:**
+
+-   May be more durable in long segment blockages
+-   May be more effective in heavily calcified vessels
+-   Can provide long-term solution in single session
+
+#### Post-Revascularization Outcomes
+
+Expected improvements after successful revascularization:
+
+**Short Term (0-3 months):**
+
+-   Reduction or disappearance of rest pain
+-   Increase in foot warmth
+-   Improvement in skin color
+-   Granulation tissue formation at wound edges
+-   Reduction in edema
+
+**Medium-Long Term (3-12 months):**
+
+-   Wound healing (70-85% healing rate)
+-   Increase in pain-free walking distance
+-   Improvement in quality of life
+-   60-70% reduction in amputation risk
+
+**Limb Salvage Rates:**
+Limb salvage rates reported in medical literature:
+
+-   1-year limb salvage: 85-95%
+-   3-year limb salvage: 75-85%
+-   5-year limb salvage: 70-80%
+
+{{< alert "warning" >}}
+**Important:** Revascularization alone is not sufficient. For successful outcomes, blood sugar control, wound care, pressure relief, infection treatment, and risk factor management must be done together. Multidisciplinary approach is essential.
+{{< /alert >}}
+
+#### Revascularization Timing
+
+Timely intervention is critically important:
+
+-   **Urgent (within 24-48 hours):** Acute ischemia, rapidly progressing infection
+-   **Early (within 1-2 weeks):** Rest pain, non-healing wound, gangrene onset
+-   **Elective (planned):** Chronic claudication, to support wound healing
+
+Research shows early revascularization reduces amputation rates by more than 50%.
+
+#### Imaging and Diagnosis
+
+Detailed vascular imaging is required before revascularization:
+
+**Non-invasive Imaging:**
+
+-   Doppler ultrasonography: Initial assessment
+-   CT angiography: Detailed imaging of vascular anatomy
+-   MR angiography: Alternative in patients with impaired kidney function
+
+**Invasive Imaging:**
+
+-   Digital subtraction angiography (DSA): Gold standard
+-   Can be performed in same session as treatment
+-   Most detailed information about vascular anatomy, blockage location and severity
+
+#### Post-Treatment Follow-up
+
+Regular follow-up after revascularization is essential:
+
+**Follow-up Program:**
+
+-   First month: Weekly check
+-   Months 2-6: Monthly check
+-   Months 6-12: Check every 2-3 months
+-   After 1 year: Check every 3-6 months
+
+**Follow-up Activities:**
+
+-   Assessment of wound healing
+-   Pulse examination
+-   Ankle-brachial index (ABI) measurement
+-   Doppler ultrasonography
+-   Symptom assessment
+-   Risk factor control
 
 ### 5. Advanced Treatment Methods
 
