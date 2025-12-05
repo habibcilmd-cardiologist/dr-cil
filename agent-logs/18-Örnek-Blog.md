@@ -1,3 +1,5 @@
+## SAMPLE BLOG POST
+
 Create comprehensive, medically accurate blog articles about "Heart Transplantation and Artificial Heart (LVAD) - End-Stage Heart Failure Treatments" in both Turkish and English languages, following the exact structure, style, and technical specifications of existing blog posts in the codebase.
 
 **CRITICAL REQUIREMENTS:**
