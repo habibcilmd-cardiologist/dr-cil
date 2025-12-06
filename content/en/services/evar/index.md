@@ -38,21 +38,23 @@ EVAR is stent-graft placement into the aortic aneurysm through the groin. The an
 -   Shorter hospital stay
 -   Rapid recovery
 -   Less pain
+-   Local anesthesia option in selected cases
 
 ## EVAR Indications
 
 ### Anatomical Criteria
 
--   Suitable proximal neck
+-   Suitable proximal neck (length and angulation)
 -   Adequate iliac artery diameter
--   Suitable angulation
+-   Suitable access vessel condition (calcification, tortuosity)
 
 ### Patient Criteria
 
 -   Aneurysm diameter ≥5.5 cm (male)
 -   Aneurysm diameter ≥5.0 cm (female)
--   Rapidly growing aneurysm
--   Symptomatic aneurysm
+-   Rapidly growing aneurysm (>0.5 cm in 6 months)
+-   Symptomatic aneurysm (pain, tenderness)
+-   Review of co-morbidities
 
 ### EVAR vs Open Surgery
 
@@ -63,6 +65,7 @@ EVAR is stent-graft placement into the aortic aneurysm through the groin. The an
 | Hospital stay | 2-3 days       | 7-10 days       |
 | Recovery      | 2-4 weeks      | 6-12 weeks      |
 | Follow-up     | Regular CT     | Less frequent   |
+| Mortality     | Lower          | Higher          |
 
 ## Pre-EVAR Evaluation
 
@@ -72,6 +75,7 @@ EVAR is stent-graft placement into the aortic aneurysm through the groin. The an
 -   Aortic anatomy assessment
 -   Iliac artery evaluation
 -   Renal arteries
+-   Visceral arteries
 
 ### Patient Preparation
 
@@ -79,6 +83,7 @@ EVAR is stent-graft placement into the aortic aneurysm through the groin. The an
 -   Cardiac evaluation
 -   Anticoagulation adjustment
 -   Hydration
+-   Pre-op antibiotics
 
 ## How is EVAR Performed?
 
@@ -91,6 +96,7 @@ EVAR is stent-graft placement into the aortic aneurysm through the groin. The an
 5. **Limb extensions**: To iliac arteries
 6. **Balloon dilation**: For sealing
 7. **Control angiography**: Result evaluation
+8. **Closure**: Percutaneous or surgical
 
 ### Procedure Duration
 
@@ -104,6 +110,7 @@ Total duration: 1-3 hours
 -   No endoleak
 -   Stent-graft patency
 -   Organ perfusion preserved
+-   Aneurysm sac shrinkage
 
 ### Complications
 
@@ -111,6 +118,8 @@ Total duration: 1-3 hours
 -   Stent migration
 -   Limb thrombosis
 -   Kidney injury
+-   Access site complications
+-   Device failure
 
 ## Post-EVAR Follow-up
 
@@ -119,6 +128,7 @@ Total duration: 1-3 hours
 -   1 month: CT Angiography
 -   6 months: CT Angiography
 -   Annual: CT or Ultrasonography
+-   Regular follow-up is lifelong
 
 ### Endoleak Types
 
@@ -135,21 +145,7 @@ Total duration: 1-3 hours
 {{< faq-list >}}
 
 ## Appointment and Contact
-
-If you would like to schedule an appointment for EVAR evaluation:
-
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
-
-📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
-
-📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
-
----
-
-_This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
-
+...
 ## Related Peripheral Vascular Treatments
 
 Other peripheral vascular treatments related to EVAR:
