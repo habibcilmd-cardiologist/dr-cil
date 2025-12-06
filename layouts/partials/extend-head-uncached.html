@@ -16,8 +16,8 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	      "givenName": "Habib",
 	      "familyName": "ÇİL",
 	      "honorificPrefix": "Doç. Dr.",
-	      "jobTitle": {{ if eq .Site.Language.Lang "tr" }}"Kardiyoloji Uzmanı"{{ else }}"Cardiology Specialist"{{ end }},
-	      "description": {{ if eq .Site.Language.Lang "tr" }}"Girişimsel kardiyoloji, diyabetik ayak tedavisi, periferik arter hastalıkları ve TAVI konularında uzman kardiyolog. 20+ yıllık deneyim."{{ else }}"Expert cardiologist specializing in interventional cardiology, diabetic foot treatment, peripheral artery disease and TAVI. 20+ years of experience."{{ end }},
+	      "jobTitle": {{ if eq .Site.Language.Lang "tr" }}"Kardiyoloji Uzmanı"{{ else if eq .Site.Language.Lang "ar" }}"أخصائي أمراض القلب"{{ else }}"Cardiology Specialist"{{ end }},
+	      "description": {{ if eq .Site.Language.Lang "tr" }}"İstanbul'da Kardiyoloji Uzmanı. Bacak damarlarını açma, diyabetik ayak tedavisi, periferik arter hastalıkları ve TAVI konularında uzman. 20+ yıllık deneyim."{{ else if eq .Site.Language.Lang "ar" }}"أخصائي أمراض القلب في إسطنبول. خبير في فتح شرايين الساق، وعلاج القدم السكري، وأمراض الشرايين الدقيقة، و TAVI. خبرة أكثر من 20 عاماً."{{ else }}"Cardiology Specialist in Istanbul. Expert in leg artery opening, diabetic foot treatment, peripheral artery disease and TAVI. 20+ years of experience."{{ end }},
 	      "url": "{{ .Site.BaseURL }}",
 	      "image": "{{ .Site.BaseURL }}img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp",
 	      "telephone": "+90 212 665 50 50",
@@ -57,7 +57,20 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	        "https://wa.me/905339454639"
 	      ],
 	      "knowsAbout": [
+	      "knowsAbout": [
 	        {{ if eq .Site.Language.Lang "tr" }}
+	        "İstanbul Kardiyolog",
+	        "Kardiyolog İstanbul",
+	        "İstanbul Kardiyoloji Uzmanı",
+	        "Kardiyoloji Uzmanı İstanbul",
+	        "Bacak Damarlarını Açma",
+	        "Ayak Damarlarını Açma",
+	        "Periferik Arter Hastalığı Tedavisi",
+	        "Girişimsel Kardiyoloji İstanbul",
+	        "Damar Açma",
+	        "Ameliyatsız Damar Açma",
+	        "Ayak Yarası",
+	        "Diyabetik Ayak",
 	        "Kardiyoloji",
 	        "Diyabetik Ayak Tedavisi",
 	        "Periferik Arter Hastalıkları",
@@ -75,7 +88,46 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	        "Konjenital Defekt Kapatma (ASD/PFO)",
 	        "Ekokardiyografi",
 	        "Hipertansiyon Tedavisi"
+	        {{ else if eq .Site.Language.Lang "ar" }}
+	        "طبيب قلب في اسطنبول",
+	        "أخصائي قلب إسطنبول",
+	        "علاج انسداد شرايين الساق",
+	        "علاج القدم السكري",
+	        "قسطرة علاجية إسطنبول",
+	        "فتح الشرايين بدون جراحة",
+	        "أمراض القلب التداخلية",
+	        "دوالي الساقين",
+	        "طبيب قلب عربي في اسطنبول",
+	        "أمراض القلب",
+	        "علاج القدم السكري",
+	        "أمراض الشرايين المحيطية",
+	        "تدخلات الأوعية الدموية الطرفية",
+	        "تصوير الأوعية التاجية",
+	        "رأب الأوعية التاجية والدعامات",
+	        "TAVI - زراعة الصمام الأبهري عبر القسطرة",
+	        "زراعة جهاز تنظيم ضربات القلب و ICD",
+	        "CRT - علاج إعادة التزامن القلبي",
+	        "تدخلات الانسداد الكلي المزمن (CTO)",
+	        "تدخلات الجذع الرئيسي الأيسر المعقدة",
+	        "تدخلات الشريان السباتي",
+	        "تدخلات الشريان الكلوي",
+	        "تذويب الحاجز بالكحول",
+	        "إغلاق العيوب الخلقية (ASD/PFO)",
+	        "تخطيط صدى القلب",
+	        "علاج ارتفاع ضغط الدم"
 	        {{ else }}
+	        "İstanbul Cardiologist",
+	        "Cardiologist Istanbul",
+	        "Istanbul Cardiology Specialist",
+	        "Cardiology Specialist Istanbul",
+	        "Leg Artery Opening",
+	        "Foot Artery Opening",
+	        "Peripheral Artery Disease Treatment",
+	        "Interventional Cardiology Istanbul",
+	        "Vessel Opening",
+	        "Non-surgical Vessel Opening",
+	        "Foot Wound",
+	        "Diabetic Foot",
 	        "Cardiology",
 	        "Diabetic Foot Treatment",
 	        "Peripheral Artery Disease",
@@ -98,22 +150,22 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	      "availableService": [
 	        {
 	          "@type": "MedicalProcedure",
-	          "name": {{ if eq .Site.Language.Lang "tr" }}"Diyabetik Ayak Tedavisi"{{ else }}"Diabetic Foot Treatment"{{ end }},
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Diyabetik Ayak Tedavisi"{{ else if eq .Site.Language.Lang "ar" }}"علاج القدم السكري"{{ else }}"Diabetic Foot Treatment"{{ end }},
 	          "procedureType": "PercutaneousProcedure"
 	        },
 	        {
 	          "@type": "MedicalProcedure",
-	          "name": {{ if eq .Site.Language.Lang "tr" }}"Periferik Arter Hastalıkları Tedavisi"{{ else }}"Peripheral Artery Disease Treatment"{{ end }},
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Periferik Arter Hastalıkları Tedavisi"{{ else if eq .Site.Language.Lang "ar" }}"علاج أمراض الشرايين الطرفية"{{ else }}"Peripheral Artery Disease Treatment"{{ end }},
 	          "procedureType": "PercutaneousProcedure"
 	        },
 	        {
 	          "@type": "MedicalProcedure",
-	          "name": {{ if eq .Site.Language.Lang "tr" }}"Alt Ekstremite Damar Girişimleri"{{ else }}"Lower Extremity Vascular Interventions"{{ end }},
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Alt Ekstremite Damar Girişimleri"{{ else if eq .Site.Language.Lang "ar" }}"تدخلات الأوعية الدموية للطرف السفلي"{{ else }}"Lower Extremity Vascular Interventions"{{ end }},
 	          "procedureType": "PercutaneousProcedure"
 	        },
 	        {
 	          "@type": "MedicalProcedure",
-	          "name": {{ if eq .Site.Language.Lang "tr" }}"Koroner Anjiyoplasti ve Stent"{{ else }}"Coronary Angioplasty and Stenting"{{ end }},
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Koroner Anjiyoplasti ve Stent"{{ else if eq .Site.Language.Lang "ar" }}"رأب الأوعية التاجية والدعامات"{{ else }}"Coronary Angioplasty and Stenting"{{ end }},
 	          "procedureType": "PercutaneousProcedure"
 	        },
 	        {
@@ -123,17 +175,17 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	        },
 	        {
 	          "@type": "MedicalProcedure",
-	          "name": {{ if eq .Site.Language.Lang "tr" }}"Kalp Pili İmplantasyonu"{{ else }}"Pacemaker Implantation"{{ end }},
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Kalp Pili İmplantasyonu"{{ else if eq .Site.Language.Lang "ar" }}"زراعة جهاز تنظيم ضربات القلب"{{ else }}"Pacemaker Implantation"{{ end }},
 	          "procedureType": "SurgicalProcedure"
 	        },
 	        {
 	          "@type": "MedicalProcedure",
-	          "name": {{ if eq .Site.Language.Lang "tr" }}"Karotis Arter Stentleme"{{ else }}"Carotid Artery Stenting"{{ end }},
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Karotis Arter Stentleme"{{ else if eq .Site.Language.Lang "ar" }}"دعامة الشريان السباتي"{{ else }}"Carotid Artery Stenting"{{ end }},
 	          "procedureType": "PercutaneousProcedure"
 	        },
 	        {
 	          "@type": "MedicalProcedure",
-	          "name": {{ if eq .Site.Language.Lang "tr" }}"Ekokardiyografi"{{ else }}"Echocardiography"{{ end }},
+	          "name": {{ if eq .Site.Language.Lang "tr" }}"Ekokardiyografi"{{ else if eq .Site.Language.Lang "ar" }}"تخطيط صدى القلب"{{ else }}"Echocardiography"{{ end }},
 	          "procedureType": "DiagnosticProcedure"
 	        }
 	      ]
