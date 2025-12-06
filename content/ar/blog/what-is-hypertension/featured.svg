@@ -27,10 +27,10 @@
   </g>
   
   <!-- Text content -->
-  <text x="490" y="120" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+  <text x="350" y="120" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="start" direction="rtl">
     ارتفاع ضغط الدم
   </text>
-  <text x="490" y="170" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+  <text x="350" y="170" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.9)" text-anchor="start" direction="rtl">
     ما هو فرط ضغط الدم؟
   </text>
 
@@ -46,7 +46,7 @@
   </g>
   
   <!-- Bottom text -->
-  <text x="490" y="340" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+  <text x="350" y="340" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="start" direction="rtl">
     أ.م.د. حبيب جيل | أخصائي أمراض القلب
   </text>
 </svg>

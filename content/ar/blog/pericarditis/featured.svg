@@ -48,10 +48,10 @@
   </g>
 
   <!-- Text content -->
-  <text x="490" y="120" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="end">
+  <text x="350" y="120" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="start">
     التهاب التامور
   </text>
-  <text x="490" y="170" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end">
+  <text x="350" y="170" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="start">
     فهم التهاب غشاء القلب
   </text>
 
@@ -66,7 +66,7 @@
   </g>
  
   <!-- Doctor's Name -->
-  <text x="490" y="350" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.85)" text-anchor="end">
+  <text x="350" y="350" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.85)" text-anchor="start">
     أ.م.د. حبيب جيل | أخصائي أمراض القلب
   </text>
 </svg>

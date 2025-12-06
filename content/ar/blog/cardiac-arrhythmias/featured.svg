@@ -39,10 +39,10 @@
   </g>
   
   <!-- Text content -->
-  <text x="440" y="110" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+  <text x="350" y="110" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="start" direction="rtl">
     اضطرابات نظم القلب
   </text>
-  <text x="440" y="160" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+  <text x="350" y="160" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.9)" text-anchor="start" direction="rtl">
     الأنواع والأعراض والعلاج
   </text>
   
@@ -60,7 +60,7 @@
   </g>
   
   <!-- Bottom text -->
-  <text x="440" y="340" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+  <text x="350" y="340" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="start" direction="rtl">
     أ.م.د. حبيب جيل | أخصائي أمراض القلب
   </text>
 </svg>
