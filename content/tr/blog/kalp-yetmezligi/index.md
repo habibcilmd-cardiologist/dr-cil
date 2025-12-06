@@ -159,7 +159,6 @@ Kalp yetmezliği hastalarının klinik durumunu değerlendirmek için New York K
 | **Sınıf III** | Belirgin aktivite kısıtlaması, hafif aktivitelerde bile semptomlar     |
 | **Sınıf IV**  | İstirahatte bile semptomlar, yatak bağımlılığı                         |
 
-{{< alert icon="triangle-exclamation" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 
 ## Tanı Yöntemleri
 
@@ -334,6 +333,7 @@ Kalp yetmezliği tedavisi, hastalığın tipine, şiddetine ve altta yatan neden
 -   Tüm diğer tedavilere yanıt vermeyenlerde
 -   Organ bulunabilirliğine bağlı
 
+{{< alert icon="triangle-exclamation" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 **Acil Belirtiler:** Şiddetli nefes darlığı, göğüs ağrısı, bilinç bulanıklığı, dudaklarda morarma (siyanoz) veya hızlı kilo alımı (birkaç günde 2-3 kg) durumlarında acil tıbbi yardım alın!
 {{< /alert >}}
 
