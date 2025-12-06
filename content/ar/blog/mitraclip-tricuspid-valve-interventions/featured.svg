@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F472B6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="clipGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FBBF24;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGrad)"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="650" cy="80" r="60" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="720" cy="150" r="40" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="100" cy="320" r="50" fill="rgba(255,255,255,0.1)"/>
+  
+  <!-- Heart illustration -->
+  <g transform="translate(520, 70) scale(0.7)">
+    <!-- Heart shape -->
+    <path d="M150,50 C100,-20 0,30 0,110 C0,190 75,250 150,320 C225,250 300,190 300,110 C300,30 200,-20 150,50" 
+          fill="url(#heartGrad)" opacity="0.9"/>
+    
+    <!-- MitraClip device -->
+    <g transform="translate(150, 165)">
+      <path d="M-15,-10 L-15,10 L-12,12 L-8,10 L-8,-10 L-12,-12 Z" fill="url(#clipGrad)" stroke="white" stroke-width="1"/>
+      <path d="M8,-10 L8,10 L12,12 L15,10 L15,-10 L12,-12 Z" fill="url(#clipGrad)" stroke="white" stroke-width="1"/>
+      <rect x="-8" y="-3" width="16" height="6" rx="2" fill="url(#clipGrad)" stroke="white" stroke-width="1"/>
+    </g>
+    
+    <!-- Catheter path -->
+    <path d="M150,320 Q180,280 200,220" fill="none" stroke="rgba(255,255,255,0.5)" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Text content -->
+  <text x="490" y="110" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+    MitraClip وتدخلات الصمام
+  </text>
+   <text x="490" y="155" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+    ثلاثي الشرفات
+  </text>
+  <text x="490" y="200" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+    علاج الصمام طفيف التوغل بدون جراحة
+  </text>
+
+  <!-- Info boxes -->
+  <g transform="translate(60, 240)">
+    <rect x="0" y="0" width="180" height="55" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" direction="rtl">طريقة القسطرة</text>
+    <text x="90" y="45" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.8)" text-anchor="middle" direction="rtl">بدون فتح الصدر</text>
+  </g>
+  
+  <g transform="translate(260, 240)">
+    <rect x="0" y="0" width="180" height="55" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" direction="rtl">تعافي سريع</text>
+    <text x="90" y="45" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.8)" text-anchor="middle" direction="rtl">1-3 أيام بالمستشفى</text>
+  </g>
+  
+  <!-- Bottom text -->
+  <text x="490" y="340" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+    أ.م.د. حبيب جيل | أخصائي أمراض القلب
+  </text>
+</svg>

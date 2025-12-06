@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" direction="rtl">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGrad)"/>
+
+  <!-- Abstract background shapes -->
+  <path d="M-100,50 Q100,200 300,50 T700,150 L850,450 L-100,450 Z" fill="rgba(255,255,255,0.05)"/>
+  <path d="M500,0 Q600,100 800,50 L800,300 Q700,250 500,400 Z" fill="rgba(255,255,255,0.08)"/>
+
+  <!-- Pericarditis Illustration -->
+  <g transform="translate(550, 120) scale(1.2)">
+    <!-- Healthy Heart -->
+    <path d="M0,-30 C-50,-60 -80,-10 -50,20 L0,70 L50,20 C80,-10 50,-60 0,-30 Z" 
+          fill="#EC4899" stroke="#C44D58" stroke-width="2"/>
+    
+    <!-- Pericardium (Inflamed) -->
+    <path d="M0,-40 C-60,-70 -95,-15 -60,30 L0,85 L60,30 C95,-15 60,-70 0,-40 Z" 
+          fill="rgba(255, 204, 0, 0.4)" stroke="#FFD700" stroke-width="3" stroke-dasharray="6 3" filter="url(#glow)">
+       <animate attributeName="stroke-dashoffset" from="0" to="9" dur="0.8s" repeatCount="indefinite" />
+    </path>
+
+    <!-- Pain/Inflammation sparks -->
+    <g stroke="#FFD700" stroke-width="2">
+        <path d="M-60,-50 l-10,-10">
+            <animateTransform attributeName="transform" type="translate" values="0 0; 3 3; 0 0" dur="1.5s" repeatCount="indefinite" />
+        </path>
+        <path d="M70,-40 l10,-10">
+            <animateTransform attributeName="transform" type="translate" values="0 0; -3 -3; 0 0" dur="1.3s" begin="0.2s" repeatCount="indefinite" />
+        </path>
+         <path d="M-70,20 l-10,10">
+            <animateTransform attributeName="transform" type="translate" values="0 0; 3 -3; 0 0" dur="1.4s" begin="0.4s" repeatCount="indefinite" />
+        </path>
+    </g>
+  </g>
+
+  <!-- Text content -->
+  <text x="490" y="120" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="end">
+    التهاب التامور
+  </text>
+  <text x="490" y="170" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end">
+    فهم التهاب غشاء القلب
+  </text>
+
+  <!-- Info Tags -->
+   <g transform="translate(60, 240)">
+    <rect x="0" y="0" width="160" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+    <text x="80" y="27" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">ألم حاد في الصدر</text>
+  </g>
+  <g transform="translate(240, 240)">
+    <rect x="0" y="0" width="110" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+    <text x="55" y="27" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">التهاب</text>
+  </g>
+ 
+  <!-- Doctor's Name -->
+  <text x="490" y="350" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.85)" text-anchor="end">
+    أ.م.د. حبيب جيل | أخصائي أمراض القلب
+  </text>
+</svg>
