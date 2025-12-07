@@ -1,3 +1,27 @@
+# Geolocation Redirects
+# Rule 1: Western Countries -> English
+[[redirects]]
+  from = "/"
+  to = "/en/"
+  status = 302
+  force = true
+  conditions = {Country = ["US", "GB", "CA", "AU", "IE", "NZ", "DE", "FR", "IT", "ES", "NL", "CH", "BE", "AT", "SE", "NO", "DK", "FI", "PT"]}
+
+# Rule 2: Arab Countries -> Arabic
+[[redirects]]
+  from = "/"
+  to = "/ar/"
+  status = 302
+  force = true
+  conditions = {Country = ["SA", "AE", "EG", "KW", "QA", "BH", "OM", "JO", "LB", "IQ", "YE", "SY", "PS", "DZ", "MA", "TN", "LY", "SD"]}
+
+# Rule 3: Default (Turkey & others) -> Turkish
+[[redirects]]
+  from = "/"
+  to = "/tr/"
+  status = 302
+  force = true
+
 [build]
   command = "hugo --gc --minify"
   publish = "public"
