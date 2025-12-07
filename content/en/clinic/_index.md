@@ -1,6 +1,6 @@
 ---
 title: "My Clinic"
-description: "Assoc. Prof. Dr. Habib ÇİL Cardiology Clinic - Cardiology diagnosis and treatment services at Avrasya Hospital in Istanbul Zeytinburnu. Angiography, TAVI, pacemaker and more."
+description: "Assoc. Prof. Dr. Habib ÇİL Cardiology Clinic - Diagnostic and treatment information services at Avrasya Hospital in Istanbul Zeytinburnu."
 date: 2024-01-01
 translationKey: "clinic"
 showTableOfContents: true
@@ -9,108 +9,82 @@ showAuthor: false
 ---
 
 {{< lead >}}
-I provide cardiology services with the most up-to-date technology and methods at Avrasya Hospital.
+At Avrasya Hospital, we provide services for the diagnosis, examination, and treatment processes of cardiovascular diseases, rhythm disorders, heart valve diseases, and structural heart diseases, in line with current medical approaches.
 {{< /lead >}}
 
-## Our Services
+## Service Areas
 
-We offer the following cardiology services at our clinic:
+Our clinic offers medical consultation, diagnosis, and treatment services in the following areas:
 
-### Diagnostic Procedures
+### Diagnostic Methods
 
-🔊 **Echocardiography (ECHO)**
-Evaluation of heart structure and function with ultrasound
+Procedures in this group cover examinations performed for the diagnosis and follow-up of heart diseases.
 
-❤️ **Electrocardiography (ECG)**
-Recording of the heart's electrical activity
-
-🏃 **Stress Test (Exercise ECG)**
-Evaluation of heart function during exercise
-
-⏱️ **Holter Monitoring**
-24-hour continuous heart rhythm monitoring
-
-🔍 **Coronary Angiography**
-Imaging of heart vessels
+*   [**Echocardiography (ECHO)**](/en/services/echocardiography/) - Ultrasound imaging of the heart
+*   [**Electrocardiography (ECG)**](/en/services/ekg/) - Analysis of heart rhythm via electrodes
+*   [**Stress Test (Exercise ECG)**](/en/services/exercise-stress-test/) - Monitoring heart performance during exercise
+*   [**Holter Monitoring**](/en/services/holter/) - Continuous recording of heart rhythm for a specific period
+*   [**Coronary Angiography**](/en/services/cardiac-angiography/) - Imaging of heart vessels
 
 ---
 
-### Interventional Treatments
+### Interventional Cardiology
 
-⚡ **Coronary Angioplasty and Stent**
-Opening blocked heart vessels with balloon and stent
+Includes procedures aimed at opening vascular occlusions and stenoses via catheterization.
 
-🛡️ **CTO Interventions**
-Opening completely blocked vessels (Chronic Total Occlusion)
-
-🎯 **Left Main Coronary Stent**
-Treatment of critical left main coronary artery stenosis
-
-🔀 **Complex Bifurcation Interventions**
-Treatment of lesions at vessel bifurcation points
+*   [**Coronary Angioplasty and Stent**](/en/services/coronary-angioplasty/) - Vessel opening procedures
+*   [**CTO Interventions**](/en/services/cto-intervention/) - Opening completely blocked vessels
+*   [**Left Main Coronary Stent**](/en/services/left-main-coronary-stent/) - Interventional procedure for main vessel stenosis
+*   **Complex Bifurcation Interventions** - Interventional procedures for challenging vessel structures
 
 ---
 
-### Structural Heart Disease
+### Structural Heart Diseases
 
-🫀 **TAVI (Transcatheter Aortic Valve Implantation)**
-Aortic valve replacement through the groin
+Procedures for the repair of heart valves and congenital structural defects using catheter methods.
 
-⭕ **ASD/PFO Closure**
-Catheter-based closure of heart holes
-
-💧 **Septal Alcohol Ablation**
-Treatment of hypertrophic cardiomyopathy
+*   [**TAVI (Transcatheter Aortic Valve Implantation)**](/en/services/tavi/) - Non-surgical valve replacement method
+*   **ASD/PFO Closure** - Closure of heart holes
+*   [**Septal Alcohol Ablation**](/en/services/alcohol-septal-ablation/) - Method used in heart muscle thickening
 
 ---
 
-### Peripheral Vascular Disease
+### Peripheral Vascular Diseases
 
-🌿 **Carotid Artery Interventions**
-Treatment of carotid artery stenosis
+Applications for the treatment of stenoses in major vessels outside the heart (carotid artery, leg vessels, etc.).
 
-🦵 **Lower/Upper Extremity Interventions**
-Treatment of arm and leg vascular diseases
-
-🫘 **Renal Artery Interventions**
-Treatment of kidney vessel stenosis
+*   [**Carotid Artery Interventions**](/en/services/carotid-stenosis/) - Management of carotid artery stenosis
+*   [**Lower/Upper Extremity Interventions**](/en/services/lower-extremity-arterial-disease/) - Management of arm and leg vessel occlusions
+*   [**Renal Artery Interventions**](/en/services/renal-artery-stenosis/) - Procedures for kidney vessel stenosis
 
 ---
 
-### Arrhythmia Treatments
+### Arrhythmia and Pacemaker Applications
 
-🔋 **Pacemaker Implantation**
-Temporary and permanent pacemaker placement
+Covers device applications for the diagnosis and treatment of heart rhythm disorders.
 
-💡 **ICD (Implantable Cardioverter Defibrillator)**
-Shock-capable pacemaker implantation
-
-📡 **CRT (Biventricular Pacemaker)**
-Three-chamber pacemaker - cardiac resynchronization therapy
+*   [**Pacemaker Implantation**](/en/services/permanent-pacemaker/) - Permanent pacemaker implantation procedures
+*   [**ICD (Implantable Cardioverter Defibrillator)**](/en/services/icd/) - Shock-capable device applications
+*   [**CRT (Biventricular Pacemaker)**](/en/services/crt-pacemaker/) - Pacemakers used in heart failure treatment
 
 ---
 
-## Conditions We Treat
+## Clinic Gallery
 
--   **Myocardial Infarction (Heart Attack)**
--   **Coronary Artery Disease**
--   **High Blood Pressure (Hypertension)**
--   **Heart Failure**
--   **Heart Rhythm Disorders (Arrhythmias)**
--   **Peripheral Vascular Disease**
--   **Aortic Aneurysm**
--   **Valve Diseases**
+Images of our clinic will be displayed in this section.
 
-## Working Hours
+*(Images to be added)*
 
-📅 **Monday - Saturday:** 08:00 - 18:00
+---
 
-📍 **Address:** Avrasya Hospital, Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul, Turkey
+## Transport and Contact
 
-📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
+**Address:** Avrasya Hospital, Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul, Turkey
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.0253503204364!2d28.91316631540356!3d40.9922009793025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cabb3b8bec9b2f%3A0x608292850387402!2sPrivate%20Avrasya%20Hospital!5e0!3m2!1sen!2str!4v1642150000000!5m2!1sen!2str" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ---
 
 {{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
+Contact via WhatsApp
 {{< /button >}}

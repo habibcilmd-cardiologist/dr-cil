@@ -4,7 +4,8 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 (JSON-LD), LocalBusiness Schema Note: Uses page context (.), not .Site - allows
 .IsHome check Language-specific content for TR/EN
 =============================================================================
-*/}} {{/* Physician / Doctor Schema - Only on homepage */}} {{ if .IsHome }}
+{{ */}} {{/* Physician / Doctor Schema - Homepage and About Page */}} {{ if or .IsHome (eq .Params.translationKey
+"about") }}
 <script type="application/ld+json">
 	{
 	  "@context": "https://schema.org",
@@ -20,8 +21,11 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	      "description": {{ if eq .Site.Language.Lang "tr" }}"İstanbul'da Kardiyoloji Uzmanı. Bacak damarlarını açma, diyabetik ayak tedavisi, periferik arter hastalıkları ve TAVI konularında uzman. 20+ yıllık deneyim."{{ else if eq .Site.Language.Lang "ar" }}"أخصائي أمراض القلب في إسطنبول. خبير في فتح شرايين الساق، وعلاج القدم السكري، وأمراض الشرايين الدقيقة، و TAVI. خبرة أكثر من 20 عاماً."{{ else }}"Cardiology Specialist in Istanbul. Expert in leg artery opening, diabetic foot treatment, peripheral artery disease and TAVI. 20+ years of experience."{{ end }},
 	      "url": "{{ .Site.BaseURL }}",
 	      "image": "{{ .Site.BaseURL }}img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp",
-	      "telephone": "+90 212 665 50 50",
+	      "telephone": "+908503330388",
 	      "email": "info@drhabibcil.com",
+	      "priceRange": "SGK Anlaşmalı / Özel Sigorta",
+	      "isAcceptingNewPatients": true,
+	      "gender": "Male",
 	      "medicalSpecialty": [
 	        "Cardiology",
 	        "Cardiovascular Medicine",
@@ -39,21 +43,39 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	          "name": "Akdeniz Üniversitesi Tıp Fakültesi"
 	        }
 	      ],
+	      "address": {
+	        "@type": "PostalAddress",
+	        "streetAddress": "Beştelsiz Mah. 101. Sokak. No:107",
+	        "addressLocality": "Zeytinburnu",
+	        "addressRegion": "İstanbul",
+	        "postalCode": "34020",
+	        "addressCountry": "TR"
+	      },
+	      "geo": {
+	        "@type": "GeoCoordinates",
+	        "latitude": 41.0082,
+	        "longitude": 28.9784
+	      },
+	      "hasMap": "https://maps.app.goo.gl/wSsq2vC2X8X3fG8t7",
 	      "worksFor": {
 	        "@type": "Hospital",
 	        "@id": "{{ .Site.BaseURL }}#hospital",
-	        "name": "Avrasya Hospital",
+	        "name": "Özel Avrasya Hospital",
 	        "address": {
 	          "@type": "PostalAddress",
-	          "streetAddress": "Beştelsiz Mah. 101. Sokak No:107",
+	          "streetAddress": "Beştelsiz Mah. 101. Sokak. No:107",
 	          "addressLocality": "Zeytinburnu",
 	          "addressRegion": "İstanbul",
 	          "postalCode": "34020",
 	          "addressCountry": "TR"
 	        },
-	        "telephone": "+90 212 665 50 50"
+	        "telephone": "+908503330388"
 	      },
 	      "sameAs": [
+	        "https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul",
+	        "https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul",
+	        "https://www.facebook.com/drhabibcil",
+	        "https://www.instagram.com/doc.dr.habibcil",
 	        "https://wa.me/905339454639"
 	      ],
 	      "knowsAbout": [
@@ -63,16 +85,17 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	        "Kardiyolog İstanbul",
 	        "İstanbul Kardiyoloji Uzmanı",
 	        "Kardiyoloji Uzmanı İstanbul",
+	        "Girişimsel Kardiyolog",
+	        "Girişimsel Kardiyoloji İstanbul",
 	        "Bacak Damarlarını Açma",
 	        "Ayak Damarlarını Açma",
 	        "Periferik Arter Hastalığı Tedavisi",
-	        "Girişimsel Kardiyoloji İstanbul",
 	        "Damar Açma",
 	        "Ameliyatsız Damar Açma",
 	        "Ayak Yarası",
 	        "Diyabetik Ayak",
-	        "Kardiyoloji",
 	        "Diyabetik Ayak Tedavisi",
+	        "Kardiyoloji",
 	        "Periferik Arter Hastalıkları",
 	        "Alt Ekstremite Damar Girişimleri",
 	        "Koroner Anjiyografi",

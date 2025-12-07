@@ -8,7 +8,7 @@ service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
 procedure_type: "TherapeuticProcedure"
 body_location: "Cardiovascular System"
-translationKey: "hypertension"
+translationKey: "hypertension-service"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true

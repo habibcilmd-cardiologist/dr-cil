@@ -8,7 +8,7 @@ service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
 procedure_type: "PercutaneousProcedure"
 body_location: "Heart"
-translationKey: "coronary-artery-disease"
+translationKey: "coronary-artery-disease-service"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true

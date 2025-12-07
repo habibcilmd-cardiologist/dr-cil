@@ -1,6 +1,6 @@
 ---
 title: "Kliniğim"
-description: "Doç. Dr. Habib ÇİL Kardiyoloji Kliniği - İstanbul Zeytinburnu'nda Avrasya Hospital'da kardiyoloji tanı ve tedavi hizmetleri. Anjiyografi, TAVI, kalp pili ve daha fazlası."
+description: "Doç. Dr. Habib ÇİL Kardiyoloji Kliniği - İstanbul Zeytinburnu'nda Avrasya Hospital'da kardiyolojik tanı, tetkik ve tedavi bilgilendirme hizmetleri."
 date: 2024-01-01
 translationKey: "clinic"
 showTableOfContents: true
@@ -9,108 +9,82 @@ showAuthor: false
 ---
 
 {{< lead >}}
-Avrasya Hospital bünyesinde en güncel teknoloji ve yöntemlerle kardiyoloji hizmeti sunmaktayım.
+Avrasya Hospital bünyesinde; kalp damar hastalıkları, ritim bozuklukları, kalp kapak hastalıkları ve yapısal kalp hastalıkları ile ilgili tanı, tetkik ve tedavi süreçlerinde güncel tıbbi yaklaşımlar doğrultusunda hizmet verilmektedir.
 {{< /lead >}}
 
-## Hizmetlerimiz
+## Hizmet Alanları
 
-Kliniğimizde aşağıdaki kardiyoloji hizmetlerini sunmaktayız:
+Kliniğimizde aşağıdaki alanlarda tıbbi danışmanlık, tanı ve tedavi hizmetleri sunulmaktadır:
 
-### Tanısal İşlemler
+### Tanısal Yöntemler
 
-🔊 **Ekokardiyografi (EKO)**
-Kalbin yapı ve fonksiyonlarını ultrason ile değerlendirme
+Bu gruptaki işlemler, kalp hastalıklarının teşhisi ve takibi amacıyla uygulanan tetkikleri kapsar.
 
-❤️ **Elektrokardiyografi (EKG)**
-Kalbin elektriksel aktivitesinin kaydı
-
-🏃 **Eforlu EKG (Stres Testi)**
-Egzersiz sırasında kalp fonksiyonlarının değerlendirilmesi
-
-⏱️ **Holter Monitörizasyonu**
-24 saat sürekli kalp ritmi takibi
-
-🔍 **Koroner Anjiyografi**
-Kalp damarlarının görüntülenmesi
+*   [**Ekokardiyografi (EKO)**](/tr/hizmetler/ekokardiyografi/) - Kalbin ultrason ile görüntülenmesi
+*   [**Elektrokardiyografi (EKG)**](/tr/hizmetler/ekg/) - Kalp ritminin elektrotlar aracılığıyla analizi
+*   [**Eforlu EKG (Stres Testi)**](/tr/hizmetler/efor-testi/) - Kalbin egzersiz altındaki performansının izlenmesi
+*   [**Holter Monitörizasyonu**](/tr/hizmetler/holter/) - Kalp ritminin belirli bir süre boyunca kesintisiz kaydı
+*   [**Koroner Anjiyografi**](/tr/hizmetler/koroner-anjiyografi/) - Kalp damarlarının görüntülenmesi
 
 ---
 
-### Girişimsel Tedaviler
+### Girişimsel Kardiyoloji
 
-⚡ **Koroner Anjiyoplasti ve Stent**
-Tıkalı kalp damarlarının balon ve stent ile açılması
+Damar tıkanıklıkları ve darlıklarının kateter yoluyla açılmasını hedefleyen işlemleri içerir.
 
-🛡️ **CTO Girişimleri**
-Tamamen tıkalı damarların açılması (Chronic Total Occlusion)
-
-🎯 **Sol Ana Koroner Stent**
-Kritik sol ana koroner arter darlıklarının tedavisi
-
-🔀 **Kompleks Bifurkasyon Girişimleri**
-Damar çatallanma noktalarındaki lezyonların tedavisi
+*   [**Koroner Anjiyoplasti ve Stent**](/tr/hizmetler/koroner-anjiyoplasti/) - Damar açma işlemleri
+*   [**CTO Girişimleri**](/tr/hizmetler/cto-girisimi/) - Tam tıkanmış damar açma işlemleri
+*   [**Sol Ana Koroner Stent**](/tr/hizmetler/sol-ana-koroner-stent/) - Ana damar darlıklarında girişimsel işlem
+*   **Kompleks Bifurkasyon Girişimleri** - Zorlu damar yapılarında girişimsel işlemler
 
 ---
 
 ### Yapısal Kalp Hastalıkları
 
-🫀 **TAVI (Transkateter Aort Kapak İmplantasyonu)**
-Kasıktan girilerek aort kapağının değiştirilmesi
+Kalp kapakları ve doğuştan gelen yapısal bozuklukların kateter yöntemiyle onarımına yönelik işlemlerdir.
 
-⭕ **ASD/PFO Kapatma**
-Kalp deliklerinin katetere dayalı kapatılması
-
-💧 **Septal Alkol Ablasyonu**
-Hipertrofik kardiyomiyopati tedavisi
+*   [**TAVI (Transkateter Aort Kapak İmplantasyonu)**](/tr/hizmetler/tavi/) - Ameliyatsız kapak değişimi yöntemi
+*   **ASD/PFO Kapatma** - Kalp deliklerinin kapatılması
+*   [**Septal Alkol Ablasyonu**](/tr/hizmetler/alkol-septal-ablation/) - Kalp kası kalınlaşmasında uygulanan bir yöntem
 
 ---
 
 ### Periferik Damar Hastalıkları
 
-🌿 **Karotis Arter Girişimleri**
-Şah damarı darlıklarının tedavisi
+Kalp dışındaki büyük damarlarda (şah damarı, bacak nakil damarları vb.) görülen darlıkların tedavisine yönelik uygulamalardır.
 
-🦵 **Alt/Üst Ekstremite Girişimleri**
-Kol ve bacak damar hastalıklarının tedavisi
-
-🫘 **Renal Arter Girişimleri**
-Böbrek damarı darlıklarının tedavisi
+*   [**Karotis Arter Girişimleri**](/tr/hizmetler/karotis-arter-girisimleri/) - Şah damarı darlıklarının yönetimi
+*   [**Alt/Üst Ekstremite Girişimleri**](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Kol ve bacak damar tıkanıklıklarının yönetimi
+*   [**Renal Arter Girişimleri**](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damar darlıklarına yönelik işlemler
 
 ---
 
-### Aritmi Tedavileri
+### Aritmi ve Kalp Pili Uygulamaları
 
-🔋 **Kalp Pili İmplantasyonu**
-Geçici ve kalıcı kalp pili takılması
+Kalp ritim bozukluklarının tanı ve tedavisine yönelik cihaz uygulamalarını kapsar.
 
-💡 **ICD (Şoklu Kalp Pili)**
-İmplante edilebilir kardiyoverter defibrilatör
-
-📡 **CRT (Biventriküler Pacemaker)**
-Üç odacıklı kalp pili - kardiyak resenkronizasyon tedavisi
+*   [**Kalp Pili İmplantasyonu**](/tr/hizmetler/kalici-kalp-pili/) - Kalıcı pil takılması işlemleri
+*   [**ICD (Şoklu Kalp Pili)**](/tr/hizmetler/icd/) - Şok özellikli cihaz uygulamaları
+*   [**CRT (Biventriküler Pacemaker)**](/tr/hizmetler/biventrikuler-pacemaker/) - Kalp yetmezliği tedavisinde kullanılan piller
 
 ---
 
-## Tedavi Ettiğimiz Hastalıklar
+## Klinik Galeri
 
--   **Miyokard Enfarktüsü (Kalp Krizi)**
--   **Koroner Arter Hastalığı**
--   **Yüksek Tansiyon (Hipertansiyon)**
--   **Kalp Yetmezliği**
--   **Kalp Ritim Bozuklukları (Aritmiler)**
--   **Periferik Damar Hastalığı**
--   **Aort Anevrizması**
--   **Kapak Hastalıkları**
+Bu alanda kliniğimize ait görseller yer alacaktır.
 
-## Çalışma Saatleri
+*(Görseller eklenecektir)*
 
-📅 **Pazartesi - Cumartesi:** 08:00 - 18:00
+---
 
-📍 **Adres:** Avrasya Hospital, Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+## Ulaşım ve İletişim
 
-📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
+**Adres:** Avrasya Hospital, Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.0253503204364!2d28.91316631540356!3d40.9922009793025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cabb3b8bec9b2f%3A0x608292850387402!2sPrivate%20Avrasya%20Hospital!5e0!3m2!1sen!2str!4v1642150000000!5m2!1sen!2str" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ---
 
 {{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
+WhatsApp ile İletişime Geçin
 {{< /button >}}

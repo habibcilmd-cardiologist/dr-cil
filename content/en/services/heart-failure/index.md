@@ -8,7 +8,7 @@ service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
 procedure_type: "TherapeuticProcedure"
 body_location: "Heart"
-translationKey: "heart-failure"
+translationKey: "heart-failure-service"
 showBreadcrumbs: true
 showTableOfContents: true
 showReadingTime: true
