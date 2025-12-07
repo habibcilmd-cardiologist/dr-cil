@@ -4,7 +4,17 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 (JSON-LD), LocalBusiness Schema Note: Uses page context (.), not .Site - allows
 .IsHome check Language-specific content for TR/EN
 =============================================================================
-{{ */}} {{/* Physician / Doctor Schema - Homepage and About Page */}} {{ if or .IsHome (eq .Params.translationKey
+*/}}
+
+{{/* Hreflang Tags */}}
+{{ if .IsTranslated }}
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ .Sites.Default.Home.Permalink }}" />
+{{ end }}
+
+{{/* Physician / Doctor Schema - Homepage and About Page */}} {{ if or .IsHome (eq .Params.translationKey
 "about") }}
 <script type="application/ld+json">
 	{

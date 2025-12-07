@@ -13,7 +13,7 @@ keywords: ["İstanbul Kardiyolog", "Kardiyolog İstanbul", "İstanbul Kardiyoloj
     <span class="badge">Girişimsel Kardiyoloji</span>
   </div>
 
-  <h1 class="hero-title">Doç. Dr. Habib ÇİL</h1>
+  <h1 class="hero-title">Doç. Dr. Habib ÇİL <span class="sr-only">| İstanbul Kardiyoloji Uzmanı</span></h1>
   <p class="hero-subtitle">Kardiyoloji Uzmanı | İstanbul</p>
 
   <div class="hero-description">
@@ -56,32 +56,32 @@ keywords: ["İstanbul Kardiyolog", "Kardiyolog İstanbul", "İstanbul Kardiyoloj
 <p class="section-subtitle">Kardiyoloji alanında sunduğum kapsamlı hizmetler</p>
 
 <div class="services-grid">
-  <a href="/tr/hizmetler/#koroner-kalp-hastaliklari" class="service-card">
+  <a href="/tr/hizmetler/koroner-arter-hastaligi/" class="service-card">
     <div class="service-icon">🫀</div>
     <h4>Koroner Kalp Hastalıkları</h4>
     <p>Kalp krizi, hipertansiyon, kalp yetmezliği tedavisi</p>
   </a>
-  <a href="/tr/hizmetler/#girisimsel-kardiyoloji" class="service-card">
+  <a href="/tr/hizmetler/tavi/" class="service-card">
     <div class="service-icon">🔧</div>
     <h4>Girişimsel Kardiyoloji</h4>
     <p>TAVI, anjiyoplasti, stent, CTO girişimleri</p>
   </a>
-  <a href="/tr/hizmetler/#kalp-pili-ve-elektrofizyoloji" class="service-card">
+  <a href="/tr/hizmetler/kalici-kalp-pili/" class="service-card">
     <div class="service-icon">⚡</div>
     <h4>Kalp Pili ve Elektrofizyoloji</h4>
     <p>Kalp pili, ICD, ablasyon tedavileri</p>
   </a>
-  <a href="/tr/hizmetler/#tanisal-islemler" class="service-card">
+  <a href="/tr/hizmetler/anjiyografi/" class="service-card">
     <div class="service-icon">🩺</div>
     <h4>Tanısal İşlemler</h4>
     <p>Anjiyografi, EKG, ekokardiyografi, holter</p>
   </a>
-  <a href="/tr/hizmetler/#kapak-hastaliklari" class="service-card">
+  <a href="/tr/hizmetler/mitraclip/" class="service-card">
     <div class="service-icon">💓</div>
     <h4>Kapak Hastalıkları</h4>
     <p>Kapak replasmanı, valvüloplasti, onarım</p>
   </a>
-  <a href="/tr/hizmetler/#damar-cerrahisi-ve-girisimleri" class="service-card">
+  <a href="/tr/hizmetler/periferik-damar/" class="service-card">
     <div class="service-icon">🩹</div>
     <h4>Damar Cerrahisi</h4>
     <p>Anevrizma, karotis, periferik damar girişimleri</p>
