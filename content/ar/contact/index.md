@@ -37,6 +37,15 @@ Zeytinburnu, إسطنبول، تركيا
 
 ---
 
+## وسائل التواصل الاجتماعي والملفات الشخصية
+
+👨‍⚕️ **DoktorTakvimi:** [عرض الملف الشخصي](https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul)  
+👨‍⚕️ **DoktorSitesi:** [عرض الملف الشخصي](https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul)  
+📘 **فيسبوك:** [تابعنا](https://www.facebook.com/drhabibcil)  
+📸 **إنستغرام:** [تابعنا](https://www.instagram.com/doc.dr.habibcil)
+
+---
+
 ## نموذج الاتصال
 
 املأ النموذج أدناه للتواصل معنا. سنعاود الاتصال بك في أقرب وقت ممكن.

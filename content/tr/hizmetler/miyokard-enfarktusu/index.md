@@ -25,7 +25,7 @@ faq:
       answer: "Kalp krizi belirtileri yaşadığınızda: 1) Hemen 112'yi arayın, 2) Varsa aspirin çiğneyin, 3) Sakin kalın ve oturun veya yarı yatar pozisyon alın, 4) Sıkı giysileri gevşetin. Asla kendiniz araba kullanarak hastaneye gitmeye çalışmayın."
 ---
 
-Kalbiniz, vücudunuzdaki en önemli organ olarak her dakika yaklaşık 100.000 kez atarak tüm organlarınıza kan pompalar. Ancak kalbi besleyen koroner damarlar tıkandığında, bu hayati organın bir bölümü oksijensiz kalır ve geri dönüşü olmayan hasarlar meydana gelebilir. İşte bu durum, tıpta **miyokard enfarktüsü**, halk arasında ise **kalp krizi** olarak bilinir.
+Kalbiniz, vücudunuzdaki en önemli organlardan biri olarak her gün yaklaşık 100.000 kez atarak tüm organlarınıza kan pompalar. Ancak kalbi besleyen koroner damarlar tıkandığında, bu hayati organın bir bölümü oksijensiz kalır ve geri dönüşü olmayan hasarlar meydana gelebilir. İşte bu durum, tıpta **miyokard enfarktüsü**, halk arasında ise **kalp krizi** olarak bilinir.
 
 ## Miyokard Enfarktüsü Nedir?
 

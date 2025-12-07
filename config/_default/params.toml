@@ -30,7 +30,7 @@ robots = "index, follow"
 keywords = ["kardiyoloji", "kardiyolog", "istanbul", "doktor", "kalp hastalığı", "anjiyografi", "ekokardiyografi", "hipertansiyon", "TAVI", "kalp pili"]
 
 # Open Graph - Default social sharing image
-defaultSocialImage = "img/og-image.jpg"
+defaultSocialImage = "img/og-image.webp"
 
 # Author bilgileri languages.tr.toml ve languages.en.toml dosyalarında tanımlanır
 

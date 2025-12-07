@@ -37,6 +37,15 @@ Book Appointment via WhatsApp
 
 ---
 
+## Social Media and Profiles
+
+👨‍⚕️ **DoktorTakvimi:** [View Profile](https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul)  
+👨‍⚕️ **DoktorSitesi:** [View Profile](https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul)  
+📘 **Facebook:** [Follow](https://www.facebook.com/drhabibcil)  
+📸 **Instagram:** [Follow](https://www.instagram.com/doc.dr.habibcil)
+
+---
+
 ## Contact Form
 
 Fill out the form below to reach us. We will get back to you as soon as possible.

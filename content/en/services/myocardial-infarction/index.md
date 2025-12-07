@@ -25,7 +25,7 @@ faq:
       answer: "If experiencing heart attack symptoms: 1) Call emergency services immediately, 2) Chew aspirin if available, 3) Stay calm and sit or recline in a semi-upright position, 4) Loosen tight clothing. Never try to drive yourself to the hospital."
 ---
 
-Your heart, the most vital organ in your body, beats approximately 100,000 times daily, pumping blood to every organ. When the coronary arteries that supply blood to the heart become blocked, this essential organ is deprived of oxygen, and irreversible damage can occur. This condition is medically known as **myocardial infarction**, commonly called a **heart attack**.
+Your heart, one of the most vital organ in your body, beats approximately 100,000 times daily, pumping blood to every organ. When the coronary arteries that supply blood to the heart become blocked, this essential organ is deprived of oxygen, and irreversible damage can occur. This condition is medically known as **myocardial infarction**, commonly called a **heart attack**.
 
 ## What is Myocardial Infarction?
 

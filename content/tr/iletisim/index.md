@@ -37,6 +37,15 @@ WhatsApp ile Randevu Al
 
 ---
 
+## Sosyal Medya ve Profiller
+
+👨‍⚕️ **DoktorTakvimi:** [Profilimi İnceleyin](https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul)  
+👨‍⚕️ **DoktorSitesi:** [Profilimi İnceleyin](https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul)  
+📘 **Facebook:** [Takip Edin](https://www.facebook.com/drhabibcil)  
+📸 **Instagram:** [Takip Edin](https://www.instagram.com/doc.dr.habibcil)
+
+---
+
 ## İletişim Formu
 
 Aşağıdaki formu doldurarak bize ulaşabilirsiniz. En kısa sürede size dönüş yapacağız.
