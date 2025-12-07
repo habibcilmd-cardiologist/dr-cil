@@ -422,7 +422,7 @@ Randevu Al
           "@type": "Question",
           "name": "TAVI sonrası kalp piline neden ihtiyaç duyulur?",
           "acceptedAnswer": {
-            "@type "Answer",
+            "@type": "Answer",
             "text": "Yeni kapak, kalbin kendi elektriksel ileti sistemine yakın bir yere yerleştirilir. Bazen bu yerleşim, ileti sistemine baskı yaparak kalp atışlarında yavaşlamaya (ileti bloğuna) neden olabilir. Bu durum kalıcı hale gelirse, kalp hızını düzenlemek için bir kalp piline ihtiyaç duyulabilir. Bu risk yaklaşık %5-15 arasındadır."
           }
         },
