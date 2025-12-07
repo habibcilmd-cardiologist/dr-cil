@@ -11,6 +11,11 @@ categories:
 tags:
 - Bacak Damar Hastalıkları
 - Koroner Arter Hastalığı
+- Bacak Damarlarını Açma
+- Ameliyatsız Damar Açma
+- Damar Açma
+- Girişimsel Kardiyoloji İstanbul
+- İstanbul Kardiyolog
 author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
@@ -56,7 +61,7 @@ faq:
 ---
 
 {{< lead >}}
-Periferik arter hastalığı (PAH), bacak ve kollardaki atardamarların daralması veya tıkanması sonucu ortaya çıkan ciddi bir dolaşım bozukluğudur. Genellikle ateroskleroz (damar sertliği) nedeniyle gelişen bu durum, erken tanı ve uygun tedavi ile ciddi komplikasyonlar önlenebilir. Bu kapsamlı rehberde, periferik arter hastalığının ne olduğunu, belirtilerini, risk faktörlerini, tanı yöntemlerini ve tedavi seçeneklerini detaylı olarak ele alacağım.
+Periferik arter hastalığı (PAH), bacak ve kollardaki atardamarların daralması veya tıkanması sonucu ortaya çıkan ciddi bir dolaşım bozukluğudur. Genellikle ateroskleroz (damar sertliği) nedeniyle gelişen bu durum, erken tanı ve uygun tedavi ile ciddi komplikasyonlar önlenebilir. Bu kapsamlı rehberde, periferik arter hastalığının ne olduğunu, belirtilerini, risk faktörlerini, tanı yöntemlerini ve tedavi seçeneklerini detaylı olarak ele alınmaktadır.
 {{< /lead >}}
 
 ## Periferik Arter Hastalığı Nedir?
@@ -396,7 +401,7 @@ Aşağıdaki durumlarda gecikmeden tıbbi yardım alın:
 
 ---
 
-Periferik arter hastalığı hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, benimle iletişime geçebilirsiniz.
+Periferik arter hastalığı hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, uzman bir sağlık kuruluşu ile iletişime geçebilirsiniz.
 
 {{< button href="/tr/iletisim/" >}}
 Randevu Al →

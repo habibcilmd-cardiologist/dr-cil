@@ -35,7 +35,7 @@ faq:
 ---
 
 {{< lead >}}
-Yüksek kolesterol, kalp krizi ve inme gibi kardiyovasküler hastalıkların en önemli risk faktörlerinden biridir. Genellikle belirti vermeden yıllarca damar sağlığını tehdit eden bu durum, erken tanı ve uygun tedavi ile başarıyla kontrol altına alınabilir. Bu yazımda, kolesterolün ne olduğunu, neden önemli olduğunu, risk faktörlerini ve etkili yönetim stratejilerini detaylı olarak ele alacağım.
+Yüksek kolesterol, kalp krizi ve inme gibi kardiyovasküler hastalıkların en önemli risk faktörlerinden biridir. Genellikle belirti vermeden yıllarca damar sağlığını tehdit eden bu durum, erken tanı ve uygun tedavi ile başarıyla kontrol altına alınabilir. Bu yazıda, kolesterolün ne olduğunu, neden önemli olduğunu, risk faktörlerini ve etkili yönetim stratejilerini detaylı olarak ele alınmaktadır.
 {{< /lead >}}
 
 ## Kolesterol Nedir?
@@ -365,7 +365,7 @@ Düzenli kolesterol takibi ve uygun tedavi, kalp hastalığı riskini önemli ö
 
 ---
 
-Kolesterol değerleriniz hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, benimle iletişime geçebilirsiniz.
+Kolesterol değerleriniz hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, uzman bir hekime danışabilirsiniz.
 
 {{< button href="/tr/iletisim/" >}}
 Randevu Al →

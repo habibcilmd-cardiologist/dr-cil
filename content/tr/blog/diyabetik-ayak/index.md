@@ -11,6 +11,11 @@ categories:
 tags:
 - Bacak Damar Hastalıkları
 - Koroner Arter Hastalığı
+- Diyabetik Ayak
+- Ayak Yarası
+- Ameliyatsız Damar Açma
+- Bacak Damarlarını Açma
+- Girişimsel Kardiyoloji İstanbul
 author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
@@ -78,7 +83,7 @@ faq:
 ---
 
 {{< lead >}}
-Diyabetik ayak, diyabet hastalarında gelişen ve ayakları etkileyen ciddi bir komplikasyondur. Sinir hasarı (nöropati) ve damar hastalığının (vaskülopati) birleşimi sonucu ortaya çıkan bu durum, yara oluşumu, enfeksiyon ve ampütasyon riskini önemli ölçüde artırır. Ancak iyi haber şu ki, diyabetik ayak komplikasyonlarının büyük çoğunluğu önlenebilir! Bu kapsamlı rehberde, diyabetik ayağın ne olduğunu, risk faktörlerini, belirtilerini, tedavi yöntemlerini ve en önemlisi nasıl önlenebileceğini detaylı olarak ele alacağım.
+Diyabetik ayak, diyabet hastalarında gelişen ve ayakları etkileyen ciddi bir komplikasyondur. Sinir hasarı (nöropati) ve damar hastalığının (vaskülopati) birleşimi sonucu ortaya çıkan bu durum, yara oluşumu, enfeksiyon ve ampütasyon riskini önemli ölçüde artırır. Ancak iyi haber şu ki, diyabetik ayak komplikasyonlarının büyük çoğunluğu önlenebilir! Bu kapsamlı rehberde, diyabetik ayağın ne olduğunu, risk faktörlerini, belirtilerini, tedavi yöntemlerini ve en önemlisi nasıl önlenebileceğini detaylı olarak ele alınmaktadır.
 {{< /lead >}}
 
 ## Diyabetik Ayak Nedir?
@@ -751,7 +756,7 @@ Diyabetik ayak, diyabet hastalarında ciddi komplikasyonlara yol açabilen ancak
 
 Erken tanı ve uygun tedavi hayati önem taşır. Ayaklarınızda herhangi bir değişiklik fark ederseniz hemen doktorunuza başvurun. Unutmayın, diyabetik ayak tedavisinde en önemli kişi sizsiniz - kendi ayak sağlığınızın sorumluluğunu alın!
 
-Diyabetik ayak hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, benimle iletişime geçebilirsiniz.
+Diyabetik ayak hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, uzman bir sağlık kuruluşu ile iletişime geçebilirsiniz.
 
 {{< button href="/tr/iletisim/" >}}
 Randevu Al →

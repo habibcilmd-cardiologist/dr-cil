@@ -65,7 +65,7 @@ faq:
 ---
 
 {{< lead >}}
-Aort anevrizması, vücudun ana atardamarı olan aortun duvarında zayıflama sonucu balonlaşma şeklinde genişlemesidir. Sessizce ilerleyebilen ve yırtılma riski taşıyan bu ciddi durum, erken tanı ve uygun tedavi ile kontrol altına alınabilir. Bu kapsamlı rehberde aort anevrizması türlerini, belirtilerini, risk faktörlerini, tanı yöntemlerini ve güncel tedavi seçeneklerini detaylı olarak ele alacağım.
+Aort anevrizması, vücudun ana atardamarı olan aortun duvarında zayıflama sonucu balonlaşma şeklinde genişlemesidir. Sessizce ilerleyebilen ve yırtılma riski taşıyan bu ciddi durum, erken tanı ve uygun tedavi ile kontrol altına alınabilir. Bu kapsamlı rehberde aort anevrizması türlerini, belirtilerini, risk faktörlerini, tanı yöntemlerini ve güncel tedavi seçeneklerini detaylı olarak ele alınmaktadır.
 {{< /lead >}}
 
 ## Aort Anevrizması Nedir?
