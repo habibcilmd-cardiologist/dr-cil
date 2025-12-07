@@ -17,7 +17,7 @@
 }
 
 /* Site title text styling - visible on desktop */
-.main-menu .flex-1 > nav.flex.space-x-3 a {
+.main-menu .flex-1>nav.flex.space-x-3 a {
 	font-size: 1rem !important;
 	font-weight: 600 !important;
 	white-space: nowrap !important;
@@ -25,11 +25,11 @@
 
 /* Mobile: Show site title with smaller font */
 @media (max-width: 1024px) {
-	.main-menu .flex-1 > nav.flex.space-x-3 {
+	.main-menu .flex-1>nav.flex.space-x-3 {
 		display: flex !important;
 	}
 
-	.main-menu .flex-1 > nav.flex.space-x-3 a {
+	.main-menu .flex-1>nav.flex.space-x-3 a {
 		font-size: 0.75rem !important;
 		font-weight: 500 !important;
 		line-height: 1.2 !important;
@@ -45,7 +45,7 @@
 
 /* Even smaller on very small screens */
 @media (max-width: 400px) {
-	.main-menu .flex-1 > nav.flex.space-x-3 a {
+	.main-menu .flex-1>nav.flex.space-x-3 a {
 		font-size: 0.65rem !important;
 		max-width: 140px !important;
 	}
@@ -59,6 +59,7 @@ header nav a p {
 
 /* Mobile adjustments */
 @media (max-width: 768px) {
+
 	/* Smaller logo on mobile */
 	.main-menu .logo,
 	.main-menu .logo svg {
@@ -96,19 +97,24 @@ h6 {
 
 /* Heart icon animation for cardiology branding */
 @keyframes heartbeat {
+
 	0%,
 	100% {
 		transform: scale(1);
 	}
+
 	14% {
 		transform: scale(1.1);
 	}
+
 	28% {
 		transform: scale(1);
 	}
+
 	42% {
 		transform: scale(1.1);
 	}
+
 	70% {
 		transform: scale(1);
 	}
@@ -134,13 +140,13 @@ a[href*="wa.me"]:hover {
    ----------------------------------------------------------------------------- */
 
 /* Hero container - moderate height for portrait photos */
-article > div.overflow-hidden {
+article>div.overflow-hidden {
 	max-height: 320px !important;
 	height: 320px !important;
 }
 
 /* Hero image on about/single pages - position to show face */
-article > div.overflow-hidden img {
+article>div.overflow-hidden img {
 	object-position: center 20% !important;
 	object-fit: cover !important;
 }
@@ -168,11 +174,9 @@ article.flex.flex-col.items-center header img:hover {
 
 /* Profile title (doctor name) - gradient text */
 article.flex.flex-col.items-center h1 {
-	background: linear-gradient(
-		135deg,
-		rgb(var(--color-primary-600)),
-		rgb(var(--color-primary-800))
-	);
+	background: linear-gradient(135deg,
+			rgb(var(--color-primary-600)),
+			rgb(var(--color-primary-800)));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
@@ -198,7 +202,7 @@ article.flex.flex-col.items-center .mt-1 a:hover {
 }
 
 /* Content section styling */
-article.flex.flex-col.items-center > div.prose {
+article.flex.flex-col.items-center>div.prose {
 	max-width: 48rem;
 	margin: 0 auto;
 	padding: 1.5rem;
@@ -218,11 +222,9 @@ article.flex.flex-col.items-center > div.prose {
 	left: 0;
 	width: 60px;
 	height: 3px;
-	background: linear-gradient(
-		90deg,
-		rgb(var(--color-primary-500)),
-		rgb(var(--color-secondary-500))
-	);
+	background: linear-gradient(90deg,
+			rgb(var(--color-primary-500)),
+			rgb(var(--color-secondary-500)));
 	border-radius: 2px;
 }
 
@@ -255,14 +257,14 @@ article:hover {
    ============================================================================= */
 
 /* Blog Grid - 2 columns instead of 3 */
-main > .grid {
+main>.grid {
 	grid-template-columns: repeat(2, 1fr) !important;
 	gap: 1.5rem !important;
 }
 
 /* Mobile: 1 column */
 @media (max-width: 768px) {
-	main > .grid {
+	main>.grid {
 		grid-template-columns: 1fr !important;
 	}
 }
@@ -279,12 +281,10 @@ article.min-h-full {
 	position: relative !important;
 	width: 100% !important;
 	overflow: hidden !important;
-	background: linear-gradient(
-		135deg,
-		#6366f1 0%,
-		#8b5cf6 50%,
-		#a78bfa 100%
-	) !important;
+	background: linear-gradient(135deg,
+			#6366f1 0%,
+			#8b5cf6 50%,
+			#a78bfa 100%) !important;
 }
 
 /* Image inside thumbnail card - natural size, no cropping */
@@ -326,7 +326,7 @@ article.min-h-full .thumbnail_card {
    ============================================================================= */
 
 /* Article cards in tag/category pages - Modern card style */
-section.space-y-10 > article {
+section.space-y-10>article {
 	display: flex !important;
 	flex-direction: column !important;
 	background: white !important;
@@ -337,13 +337,13 @@ section.space-y-10 > article {
 	margin-bottom: 1.5rem !important;
 }
 
-section.space-y-10 > article:hover {
+section.space-y-10>article:hover {
 	transform: translateY(-4px) !important;
 	box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12) !important;
 }
 
 /* Dark mode for article cards */
-.dark section.space-y-10 > article {
+.dark section.space-y-10>article {
 	background: rgb(var(--color-neutral-800)) !important;
 }
 
@@ -355,12 +355,10 @@ section.space-y-10 > article:hover {
 	height: auto !important;
 	overflow: hidden !important;
 	border-radius: 16px 16px 0 0 !important;
-	background: linear-gradient(
-		135deg,
-		#6366f1 0%,
-		#8b5cf6 50%,
-		#a78bfa 100%
-	) !important;
+	background: linear-gradient(135deg,
+			#6366f1 0%,
+			#8b5cf6 50%,
+			#a78bfa 100%) !important;
 }
 
 /* Image inside thumbnail - show full image */
@@ -374,12 +372,12 @@ section.space-y-10 > article:hover {
 }
 
 /* Content section in tag/category cards */
-section.space-y-10 > article > div:last-child {
+section.space-y-10>article>div:last-child {
 	padding: 1.5rem !important;
 }
 
 /* Title styling in tag/category cards */
-section.space-y-10 > article h2 {
+section.space-y-10>article h2 {
 	font-size: 1.25rem !important;
 	font-weight: 700 !important;
 	line-height: 1.4 !important;
@@ -387,12 +385,12 @@ section.space-y-10 > article h2 {
 	color: rgb(var(--color-neutral-800)) !important;
 }
 
-.dark section.space-y-10 > article h2 {
+.dark section.space-y-10>article h2 {
 	color: rgb(var(--color-neutral-100)) !important;
 }
 
 /* Tags in article cards */
-section.space-y-10 > article .flex.flex-wrap a {
+section.space-y-10>article .flex.flex-wrap a {
 	background: rgb(var(--color-primary-50)) !important;
 	color: rgb(var(--color-primary-700)) !important;
 	padding: 0.25rem 0.75rem !important;
@@ -402,17 +400,17 @@ section.space-y-10 > article .flex.flex-wrap a {
 	transition: all 0.2s ease !important;
 }
 
-section.space-y-10 > article .flex.flex-wrap a:hover {
+section.space-y-10>article .flex.flex-wrap a:hover {
 	background: rgb(var(--color-primary-100)) !important;
 }
 
-.dark section.space-y-10 > article .flex.flex-wrap a {
+.dark section.space-y-10>article .flex.flex-wrap a {
 	background: rgba(var(--color-primary-500), 0.2) !important;
 	color: rgb(var(--color-primary-300)) !important;
 }
 
 /* Summary text styling */
-section.space-y-10 > article .prose {
+section.space-y-10>article .prose {
 	font-size: 0.95rem !important;
 	line-height: 1.6 !important;
 	color: rgb(var(--color-neutral-600)) !important;
@@ -422,21 +420,22 @@ section.space-y-10 > article .prose {
 	overflow: hidden !important;
 }
 
-.dark section.space-y-10 > article .prose {
+.dark section.space-y-10>article .prose {
 	color: rgb(var(--color-neutral-400)) !important;
 }
 
 /* Responsive: On larger screens, side-by-side layout */
 @media (min-width: 768px) {
-	section.space-y-10 > article {
+	section.space-y-10>article {
 		flex-direction: row !important;
 		align-items: stretch !important;
 	}
 
 	.thumbnail {
-		width: 320px !important;
-		min-width: 320px !important;
-		max-width: 320px !important;
+		/* Updated for 550px width */
+		width: 550px !important;
+		min-width: 550px !important;
+		max-width: 550px !important;
 		border-radius: 16px 0 0 16px !important;
 		display: flex !important;
 		align-items: center !important;
@@ -449,7 +448,7 @@ section.space-y-10 > article .prose {
 		object-fit: cover !important;
 	}
 
-	section.space-y-10 > article > div:last-child {
+	section.space-y-10>article>div:last-child {
 		flex: 1 !important;
 		display: flex !important;
 		flex-direction: column !important;
@@ -600,10 +599,10 @@ button:focus-visible {
 }
 
 /* Inner wrapper for max-width and centering */
-.services-section > h2,
-.services-section > .section-subtitle,
-.services-section > .services-grid,
-.services-section > .services-cta {
+.services-section>h2,
+.services-section>.section-subtitle,
+.services-section>.services-grid,
+.services-section>.services-cta {
 	max-width: 1280px;
 	margin-left: auto;
 	margin-right: auto;
@@ -643,7 +642,8 @@ button:focus-visible {
 .services-grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-	gap: 2rem; /* Increased from 1.5rem */
+	gap: 2rem;
+	/* Increased from 1.5rem */
 	margin: 2rem 0;
 }
 
@@ -658,11 +658,9 @@ button:focus-visible {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 3rem 2rem;
-	background: linear-gradient(
-		135deg,
-		rgba(var(--color-primary-50), 0.3) 0%,
-		rgba(var(--color-primary-100), 0.2) 100%
-	);
+	background: linear-gradient(135deg,
+			rgba(var(--color-primary-50), 0.3) 0%,
+			rgba(var(--color-primary-100), 0.2) 100%);
 	border-radius: 1.5rem;
 	border: 1px solid rgba(var(--color-primary-200), 0.5);
 	position: relative;
@@ -676,12 +674,10 @@ button:focus-visible {
 	left: -100%;
 	width: 100%;
 	height: 100%;
-	background: linear-gradient(
-		90deg,
-		transparent,
-		rgba(255, 255, 255, 0.3),
-		transparent
-	);
+	background: linear-gradient(90deg,
+			transparent,
+			rgba(255, 255, 255, 0.3),
+			transparent);
 	transition: left 0.5s ease;
 }
 
@@ -717,10 +713,13 @@ button:focus-visible {
 	display: block;
 	background: rgb(var(--color-neutral-100));
 	border: 1px solid rgb(var(--color-neutral-200));
-	border-radius: 1.5rem; /* Increased from 1rem */
-	padding: 2rem; /* Increased from 1.5rem */
+	border-radius: 1.5rem;
+	/* Increased from 1rem */
+	padding: 2rem;
+	/* Increased from 1.5rem */
 	text-align: center;
-	transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); /* Smoother easing */
+	transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+	/* Smoother easing */
 	position: relative;
 	overflow: hidden;
 	text-decoration: none;
@@ -752,11 +751,9 @@ a.service-card:hover {
 	left: 0;
 	right: 0;
 	height: 4px;
-	background: linear-gradient(
-		90deg,
-		rgb(var(--color-primary-500)),
-		rgb(var(--color-secondary-500))
-	);
+	background: linear-gradient(90deg,
+			rgb(var(--color-primary-500)),
+			rgb(var(--color-secondary-500)));
 	opacity: 0;
 	transition: opacity 0.3s ease;
 }
@@ -768,11 +765,9 @@ a.service-card:hover {
 	inset: 0;
 	border-radius: inherit;
 	padding: 2px;
-	background: linear-gradient(
-		135deg,
-		rgb(var(--color-primary-500)),
-		rgb(var(--color-secondary-500))
-	);
+	background: linear-gradient(135deg,
+			rgb(var(--color-primary-500)),
+			rgb(var(--color-secondary-500)));
 	-webkit-mask: linear-gradient(#fff 0 0) content-box,
 		linear-gradient(#fff 0 0);
 	-webkit-mask-composite: xor;
@@ -784,8 +779,10 @@ a.service-card:hover {
 
 /* Enhanced hover state */
 .service-card:hover {
-	transform: translateY(-8px); /* Increased from -4px */
-	box-shadow: 0 16px 40px rgba(0, 0, 0, 0.15); /* Enhanced shadow */
+	transform: translateY(-8px);
+	/* Increased from -4px */
+	box-shadow: 0 16px 40px rgba(0, 0, 0, 0.15);
+	/* Enhanced shadow */
 }
 
 .dark .service-card:hover {
@@ -802,8 +799,10 @@ a.service-card:hover {
 
 /* Icon with animation */
 .service-icon {
-	font-size: 3rem; /* Increased from 2.5rem */
-	margin-bottom: 1.5rem; /* Increased from 1rem */
+	font-size: 3rem;
+	/* Increased from 2.5rem */
+	margin-bottom: 1.5rem;
+	/* Increased from 1rem */
 	line-height: 1;
 	transition: transform 0.3s ease;
 }
@@ -816,8 +815,10 @@ a.service-card:hover {
 .service-card h4 {
 	color: rgb(var(--color-primary-600));
 	font-weight: 600;
-	font-size: 1.25rem; /* Increased from 1.125rem */
-	margin-bottom: 0.75rem; /* Increased from 0.5rem */
+	font-size: 1.25rem;
+	/* Increased from 1.125rem */
+	margin-bottom: 0.75rem;
+	/* Increased from 0.5rem */
 	transition: color 0.3s ease;
 }
 
@@ -836,8 +837,10 @@ a.service-card:hover {
 /* Card description */
 .service-card p {
 	color: rgb(var(--color-neutral-600));
-	font-size: 0.95rem; /* Slightly increased from 0.9rem */
-	line-height: 1.6; /* Increased from 1.5 */
+	font-size: 0.95rem;
+	/* Slightly increased from 0.9rem */
+	line-height: 1.6;
+	/* Increased from 1.5 */
 	margin: 0;
 }
 
@@ -851,10 +854,10 @@ a.service-card:hover {
 		margin: 3rem 0;
 	}
 
-	.services-section > h2,
-	.services-section > .section-subtitle,
-	.services-section > .services-grid,
-	.services-section > .services-cta {
+	.services-section>h2,
+	.services-section>.section-subtitle,
+	.services-section>.services-grid,
+	.services-section>.services-cta {
 		padding-left: 1rem;
 		padding-right: 1rem;
 	}
@@ -924,10 +927,11 @@ a.service-card:hover {
 }
 
 @media (min-width: 641px) and (max-width: 1024px) {
-	.services-section > h2,
-	.services-section > .section-subtitle,
-	.services-section > .services-grid,
-	.services-section > .services-cta {
+
+	.services-section>h2,
+	.services-section>.section-subtitle,
+	.services-section>.services-grid,
+	.services-section>.services-cta {
 		padding-left: 1.5rem;
 		padding-right: 1.5rem;
 	}
@@ -968,6 +972,7 @@ a.service-card:hover {
    ----------------------------------------------------------------------------- */
 
 @media print {
+
 	/* Show full URLs in print */
 	a[href]:after {
 		content: " (" attr(href) ")";
@@ -991,11 +996,9 @@ a.service-card:hover {
 .hero-section {
 	text-align: center;
 	padding: 3rem 1.5rem;
-	background: linear-gradient(
-		135deg,
-		rgba(99, 102, 241, 0.05) 0%,
-		rgba(139, 92, 246, 0.05) 100%
-	);
+	background: linear-gradient(135deg,
+			rgba(99, 102, 241, 0.05) 0%,
+			rgba(139, 92, 246, 0.05) 100%);
 	border-radius: 24px;
 	margin-bottom: 4rem;
 	position: relative;
@@ -1010,11 +1013,9 @@ a.service-card:hover {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-image: radial-gradient(
-		circle at 20% 50%,
-		rgba(99, 102, 241, 0.03) 0%,
-		transparent 50%
-	);
+	background-image: radial-gradient(circle at 20% 50%,
+			rgba(99, 102, 241, 0.03) 0%,
+			transparent 50%);
 	pointer-events: none;
 }
 
@@ -1062,11 +1063,9 @@ a.service-card:hover {
 	font-size: 3rem;
 	font-weight: 700;
 	margin-bottom: 0.75rem;
-	background: linear-gradient(
-		135deg,
-		rgb(var(--color-primary-600)),
-		rgb(var(--color-secondary-600))
-	);
+	background: linear-gradient(135deg,
+			rgb(var(--color-primary-600)),
+			rgb(var(--color-secondary-600)));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
@@ -1254,7 +1253,7 @@ a.service-card:hover {
 }
 
 /* Ensure text stays on top */
-.btn-primary > * {
+.btn-primary>* {
 	position: relative;
 	z-index: 1;
 }
@@ -1290,7 +1289,7 @@ a.service-card:hover {
 }
 
 /* Ensure text stays on top */
-.btn-secondary > * {
+.btn-secondary>* {
 	position: relative;
 	z-index: 1;
 }
@@ -1313,11 +1312,9 @@ a.service-card:hover {
 	max-width: 800px;
 	margin: 2rem auto;
 	padding: 2.5rem 2rem;
-	background: linear-gradient(
-		135deg,
-		rgba(var(--color-primary-50), 0.2) 0%,
-		rgba(var(--color-secondary-50), 0.1) 100%
-	);
+	background: linear-gradient(135deg,
+			rgba(var(--color-primary-50), 0.2) 0%,
+			rgba(var(--color-secondary-50), 0.1) 100%);
 	border-radius: 1.5rem;
 	border: 1px solid rgba(var(--color-primary-200), 0.3);
 	text-align: center;
@@ -1385,10 +1382,12 @@ a.service-card:hover {
 
 /* Pulse Animation */
 @keyframes pulse {
+
 	0%,
 	100% {
 		box-shadow: 0 8px 24px rgba(37, 211, 102, 0.4);
 	}
+
 	50% {
 		box-shadow: 0 8px 24px rgba(37, 211, 102, 0.4),
 			0 0 0 10px rgba(37, 211, 102, 0.1);
@@ -1466,11 +1465,9 @@ a.service-card:hover {
    ----------------------------------------------------------------------------- */
 
 .dark .cta-content {
-	background: linear-gradient(
-		135deg,
-		rgba(var(--color-primary-900), 0.3) 0%,
-		rgba(var(--color-primary-800), 0.2) 100%
-	);
+	background: linear-gradient(135deg,
+			rgba(var(--color-primary-900), 0.3) 0%,
+			rgba(var(--color-primary-800), 0.2) 100%);
 	border-color: rgba(var(--color-primary-700), 0.5);
 }
 
@@ -1483,11 +1480,9 @@ a.service-card:hover {
 }
 
 .dark .appointment-cta {
-	background: linear-gradient(
-		135deg,
-		rgba(var(--color-primary-900), 0.2) 0%,
-		rgba(var(--color-secondary-900), 0.1) 100%
-	);
+	background: linear-gradient(135deg,
+			rgba(var(--color-primary-900), 0.2) 0%,
+			rgba(var(--color-secondary-900), 0.1) 100%);
 	border-color: rgba(var(--color-primary-700), 0.3);
 }
 
