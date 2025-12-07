@@ -1,40 +1,67 @@
 ---
-title: "Aortic Aneurysm: Symptoms, Diagnosis and Modern Treatment Methods"
-description: "What is an aortic aneurysm? Comprehensive guide on thoracic and abdominal aortic aneurysm symptoms, risk factors, diagnostic methods and current treatment options."
+title: 'Aortic Aneurysm: Symptoms, Diagnosis and Modern Treatment Methods'
+description: What is an aortic aneurysm? Comprehensive guide on thoracic and abdominal
+  aortic aneurysm symptoms, risk factors, diagnostic methods and current treatment
+  options.
 date: 2024-12-04
 lastmod: 2024-12-04
-translationKey: "aortic-aneurysm"
-categories: ["Cardiology", "Vascular Diseases"]
+translationKey: aortic-aneurysm
+categories:
+- Cardiology
+- Vascular Diseases
 tags:
-    [
-        "aortic aneurysm",
-        "abdominal aortic aneurysm",
-        "thoracic aortic aneurysm",
-        "EVAR",
-        "TEVAR",
-        "vascular dilation",
-        "aneurysm treatment",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Aortic Diseases
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
-featured: "featured.svg"
+featured: featured.svg
 faq:
-    - question: "What is an aortic aneurysm and why is it dangerous?"
-      answer: "An aortic aneurysm is a balloon-like enlargement of the aorta, the body's main artery, due to weakening of the vessel wall. Its danger lies in the risk of rupture. If rupture occurs, internal bleeding results, creating a life-threatening emergency. Rupture risk increases with aneurysm diameter."
-    - question: "What are the symptoms of aortic aneurysm?"
-      answer: "Most aortic aneurysms are asymptomatic and discovered incidentally. Large aneurysms may cause chest or back pain, cough, hoarseness, swallowing difficulty (thoracic), or pulsating sensation/pain in the abdomen (abdominal). Rupture presents with sudden severe pain, dizziness, fainting, and shock symptoms requiring immediate medical intervention."
-    - question: "How is aneurysm diagnosed?"
-      answer: "Aortic aneurysm diagnosis is typically made through imaging. Ultrasound is commonly used for screening and follow-up. CT angiography provides detailed visualization of aneurysm size, shape, and related vascular structures. MR angiography uses no radiation and provides magnetic resonance imaging. Echocardiography is helpful especially for thoracic aortic aneurysm evaluation."
-    - question: "When should an aneurysm be treated?"
-      answer: "Treatment decision depends on aneurysm diameter, growth rate, patient symptoms, and overall health. Generally, abdominal aortic aneurysm is recommended for treatment when >5.5 cm in men or >5.0 cm in women, or if growing >0.5 cm/year. Thresholds for thoracic aortic aneurysms are slightly different, around 5.5-6.0 cm."
-    - question: "What is the difference between EVAR and open surgery?"
-      answer: "EVAR (Endovascular Aneurysm Repair) is a minimally invasive method; stent-graft is placed via catheters through the groin. Recovery time is short, hospital stay is brief. Open surgery is the traditional method; the aneurysm is replaced with a graft through an abdominal or chest incision. Recovery is longer, but it may be more suitable for certain anatomical structures. The choice depends on patient condition and aneurysm characteristics."
-    - question: "Can aortic aneurysm be prevented?"
-      answer: "Smoking cessation is the most important step to reduce aneurysm development risk. Hypertension control, cholesterol-lowering treatment, healthy diet, regular exercise, and weight control reduce risk. Those with family history, men, individuals over 65, and smokers should undergo regular screening."
-    - question: "What is life like after aneurysm treatment?"
-      answer: "After successful aneurysm treatment, patients can return to normal life. After EVAR, discharge usually occurs within a few days, and daily activities can resume in 1-2 weeks. After open surgery, recovery is longer (4-6 weeks). In both cases, regular follow-up is important; stent-graft or graft status and aneurysm dimensions are monitored. Lifestyle modifications and risk factor control should continue."
-    - question: "What are the differences between thoracic and abdominal aortic aneurysm?"
-      answer: "Thoracic aortic aneurysm affects the aortic segment in the chest cavity and is less common. Causes include atherosclerosis, genetic connective tissue disorders (Marfan syndrome, Ehlers-Danlos), trauma, and infection. Abdominal aortic aneurysm affects the abdominal aorta, is more common, and is usually associated with atherosclerosis. Symptoms, diagnosis, and treatment approaches differ."
+- question: What is an aortic aneurysm and why is it dangerous?
+  answer: An aortic aneurysm is a balloon-like enlargement of the aorta, the body's
+    main artery, due to weakening of the vessel wall. Its danger lies in the risk
+    of rupture. If rupture occurs, internal bleeding results, creating a life-threatening
+    emergency. Rupture risk increases with aneurysm diameter.
+- question: What are the symptoms of aortic aneurysm?
+  answer: Most aortic aneurysms are asymptomatic and discovered incidentally. Large
+    aneurysms may cause chest or back pain, cough, hoarseness, swallowing difficulty
+    (thoracic), or pulsating sensation/pain in the abdomen (abdominal). Rupture presents
+    with sudden severe pain, dizziness, fainting, and shock symptoms requiring immediate
+    medical intervention.
+- question: How is aneurysm diagnosed?
+  answer: Aortic aneurysm diagnosis is typically made through imaging. Ultrasound
+    is commonly used for screening and follow-up. CT angiography provides detailed
+    visualization of aneurysm size, shape, and related vascular structures. MR angiography
+    uses no radiation and provides magnetic resonance imaging. Echocardiography is
+    helpful especially for thoracic aortic aneurysm evaluation.
+- question: When should an aneurysm be treated?
+  answer: Treatment decision depends on aneurysm diameter, growth rate, patient symptoms,
+    and overall health. Generally, abdominal aortic aneurysm is recommended for treatment
+    when >5.5 cm in men or >5.0 cm in women, or if growing >0.5 cm/year. Thresholds
+    for thoracic aortic aneurysms are slightly different, around 5.5-6.0 cm.
+- question: What is the difference between EVAR and open surgery?
+  answer: EVAR (Endovascular Aneurysm Repair) is a minimally invasive method; stent-graft
+    is placed via catheters through the groin. Recovery time is short, hospital stay
+    is brief. Open surgery is the traditional method; the aneurysm is replaced with
+    a graft through an abdominal or chest incision. Recovery is longer, but it may
+    be more suitable for certain anatomical structures. The choice depends on patient
+    condition and aneurysm characteristics.
+- question: Can aortic aneurysm be prevented?
+  answer: Smoking cessation is the most important step to reduce aneurysm development
+    risk. Hypertension control, cholesterol-lowering treatment, healthy diet, regular
+    exercise, and weight control reduce risk. Those with family history, men, individuals
+    over 65, and smokers should undergo regular screening.
+- question: What is life like after aneurysm treatment?
+  answer: After successful aneurysm treatment, patients can return to normal life.
+    After EVAR, discharge usually occurs within a few days, and daily activities can
+    resume in 1-2 weeks. After open surgery, recovery is longer (4-6 weeks). In both
+    cases, regular follow-up is important; stent-graft or graft status and aneurysm
+    dimensions are monitored. Lifestyle modifications and risk factor control should
+    continue.
+- question: What are the differences between thoracic and abdominal aortic aneurysm?
+  answer: Thoracic aortic aneurysm affects the aortic segment in the chest cavity
+    and is less common. Causes include atherosclerosis, genetic connective tissue
+    disorders (Marfan syndrome, Ehlers-Danlos), trauma, and infection. Abdominal aortic
+    aneurysm affects the abdominal aorta, is more common, and is usually associated
+    with atherosclerosis. Symptoms, diagnosis, and treatment approaches differ.
 ---
 
 {{< lead >}}

@@ -1,49 +1,80 @@
 ---
-title: "Diyabetik Ayak Nedir? Belirtileri, Tedavisi ve Korunma Yöntemleri"
-description: "Diyabetik ayak hakkında kapsamlı rehber. Girişimsel kardiyoloji ile bacak kurtarma, endovasküler tedavi, damar açma işlemleri. Belirtiler, tedavi yöntemleri ve ampütasyon riskini azaltma stratejileri."
+title: Diyabetik Ayak Nedir? Belirtileri, Tedavisi ve Korunma Yöntemleri
+description: Diyabetik ayak hakkında kapsamlı rehber. Girişimsel kardiyoloji ile bacak
+  kurtarma, endovasküler tedavi, damar açma işlemleri. Belirtiler, tedavi yöntemleri
+  ve ampütasyon riskini azaltma stratejileri.
 date: 2024-12-05
 lastmod: 2024-12-05
-translationKey: "diabetic-foot"
-categories: ["Kardiyoloji"]
+translationKey: diabetic-foot
+categories:
+- Kardiyoloji
 tags:
-    [
-        "diyabetik ayak",
-        "diyabet komplikasyonları",
-        "ayak yarası",
-        "periferik nöropati",
-        "damar hastalığı",
-        "ampütasyon önleme",
-        "girişimsel kardiyoloji",
-        "endovasküler tedavi",
-        "bacak kurtarma",
-        "damar açma",
-        "balon anjiyoplasti",
-        "stent",
-        "periferik arter hastalığı",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Bacak Damar Hastalıkları
+- Koroner Arter Hastalığı
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Diyabetik ayak tamamen iyileşir mi?"
-      answer: "Diyabetik ayak erken dönemde yakalanır ve uygun tedavi edilirse tamamen iyileşebilir. Ancak ilerlemiş vakalarda tam iyileşme zor olabilir. En önemli nokta, kan şekeri kontrolü, düzenli ayak bakımı ve erken müdahale ile komplikasyonların önlenmesidir. Tedavi süreci hastanın genel durumuna, yaranın derinliğine ve enfeksiyon varlığına göre değişir."
-    - question: "Diyabetik ayak yarasını nasıl fark ederim?"
-      answer: "Diyabetik ayaklarda sinir hasarı nedeniyle ağrı hissi azalmış olabilir, bu nedenle yaralar fark edilmeyebilir. Ayaklarınızı her gün kontrol edin: kızarıklık, şişlik, sıcaklık artışı, renk değişikliği, nasır, su toplaması, kesik veya çatlaklar için. Ayna kullanarak ayak tabanınızı da kontrol edin. Herhangi bir değişiklik fark ederseniz hemen doktorunuza başvurun."
-    - question: "Diyabetik ayakta hangi ayakkabıları giymeliyim?"
-      answer: "Yumuşak, esnek ve geniş burunlu ayakkabılar tercih edin. Ayakkabılar ayağınızı sıkmamalı, sürtmemeli ve basınç noktası oluşturmamalıdır. Deri veya nefes alabilen malzemelerden yapılmış ayakkabılar idealdir. Yüksek topuklu, dar burunlu veya sert ayakkabılardan kaçının. Yeni ayakkabıları kademeli olarak giyin. Özel diyabetik ayakkabılar veya ortopedik tabanlar gerekebilir."
-    - question: "Diyabette ayak bakımı neden bu kadar önemli?"
-      answer: "Diyabet hem sinir hasarına (nöropati) hem de damar hasarına (vaskülopati) neden olur. Sinir hasarı ağrı hissini azaltır, küçük yaralanmalar fark edilmez. Damar hasarı ise yara iyileşmesini bozar ve enfeksiyon riskini artırır. Bu iki faktörün birleşimi, küçük bir yaranın bile ciddi enfeksiyona, gangrene ve ampütasyona yol açabilmesine neden olur. Düzenli ayak bakımı bu riskleri önemli ölçüde azaltır."
-    - question: "Diyabetik ayak enfeksiyonu ne kadar ciddidir?"
-      answer: "Diyabetik ayak enfeksiyonları çok ciddi olabilir ve hızla ilerleyebilir. Enfeksiyon kemiğe yayılabilir (osteomiyelit), kan dolaşımına girebilir (sepsis) ve hayatı tehdit edebilir. Diyabetik ayak enfeksiyonları, diyabetik olmayan hastalara göre daha ağır seyreder ve tedavisi daha zordur. Erken tanı ve agresif tedavi hayati önem taşır. Ateş, titreme, yarada kötü koku, artan kızarıklık ve şişlik gibi belirtiler acil müdahale gerektirir."
-    - question: "Kan şekeri kontrolü ayak sağlığını nasıl etkiler?"
-      answer: "İyi kan şekeri kontrolü diyabetik ayak komplikasyonlarını önlemede en kritik faktördür. Yüksek kan şekeri sinir hasarını hızlandırır, bağışıklık sistemini zayıflatır, yara iyileşmesini bozar ve enfeksiyon riskini artırır. HbA1c değerinin %7'nin altında tutulması hedeflenmelidir. Düzenli kan şekeri takibi, ilaç uyumu ve yaşam tarzı değişiklikleri ile iyi kontrol sağlanabilir."
-    - question: "Diyabetik ayakta ampütasyon riski nedir?"
-      answer: "Diyabet, travmatik olmayan alt ekstremite ampütasyonlarının en sık nedenidir. Ancak ampütasyonların %85'i önlenebilir! Erken tanı, düzenli ayak muayeneleri, uygun ayak bakımı, iyi kan şekeri kontrolü ve risk faktörlerinin yönetimi ile ampütasyon riski önemli ölçüde azaltılabilir. Yara geliştiğinde erken ve agresif tedavi kritik öneme sahiptir."
-    - question: "Diyabetik ayak için ne sıklıkla doktor kontrolüne gitmeliyim?"
-      answer: "Risk düzeyinize göre kontrol sıklığı değişir. Düşük riskli hastalarda yılda en az bir kez, orta riskli hastalarda 3-6 ayda bir, yüksek riskli hastalarda (önceden yara veya ampütasyon öyküsü) 1-3 ayda bir kontrol önerilir. Aktif yara varsa daha sık takip gerekir. Herhangi bir değişiklik, yara veya enfeksiyon belirtisi fark ederseniz hemen doktorunuza başvurun."
-    - question: "Diyabetik ayakta sigara kullanımı neden tehlikelidir?"
-      answer: "Sigara damar hasarını ciddi şekilde artırır, kan akışını azaltır ve yara iyileşmesini bozar. Sigara içen diyabet hastalarında ampütasyon riski 2-3 kat daha yüksektir. Sigara ayrıca enfeksiyon riskini artırır ve tedaviye yanıtı azaltır. Diyabetik ayak riski olan hastalarda sigarayı bırakmak mutlaka gereklidir. Sigarayı bırakmak için destek programları ve ilaç tedavileri mevcuttur."
-    - question: "Diyabetik ayakta evde nasıl bakım yapmalıyım?"
-      answer: "Ayaklarınızı her gün ılık suyla yıkayın (sıcak değil!), nazikçe kurulayın, özellikle parmak aralarını. Nemlendirici krem sürün ama parmak aralarına değil. Tırnaklarınızı düz kesin, köşeleri yuvarlamayın. Kalın çoraplar giyin, dikişsiz olanları tercih edin. Çıplak ayakla yürümeyin. Her gün ayaklarınızı kontrol edin. Nasırları kendiniz kesmemeye çalışmayın, profesyonel yardım alın."
+- question: Diyabetik ayak tamamen iyileşir mi?
+  answer: Diyabetik ayak erken dönemde yakalanır ve uygun tedavi edilirse tamamen
+    iyileşebilir. Ancak ilerlemiş vakalarda tam iyileşme zor olabilir. En önemli nokta,
+    kan şekeri kontrolü, düzenli ayak bakımı ve erken müdahale ile komplikasyonların
+    önlenmesidir. Tedavi süreci hastanın genel durumuna, yaranın derinliğine ve enfeksiyon
+    varlığına göre değişir.
+- question: Diyabetik ayak yarasını nasıl fark ederim?
+  answer: 'Diyabetik ayaklarda sinir hasarı nedeniyle ağrı hissi azalmış olabilir,
+    bu nedenle yaralar fark edilmeyebilir. Ayaklarınızı her gün kontrol edin: kızarıklık,
+    şişlik, sıcaklık artışı, renk değişikliği, nasır, su toplaması, kesik veya çatlaklar
+    için. Ayna kullanarak ayak tabanınızı da kontrol edin. Herhangi bir değişiklik
+    fark ederseniz hemen doktorunuza başvurun.'
+- question: Diyabetik ayakta hangi ayakkabıları giymeliyim?
+  answer: Yumuşak, esnek ve geniş burunlu ayakkabılar tercih edin. Ayakkabılar ayağınızı
+    sıkmamalı, sürtmemeli ve basınç noktası oluşturmamalıdır. Deri veya nefes alabilen
+    malzemelerden yapılmış ayakkabılar idealdir. Yüksek topuklu, dar burunlu veya
+    sert ayakkabılardan kaçının. Yeni ayakkabıları kademeli olarak giyin. Özel diyabetik
+    ayakkabılar veya ortopedik tabanlar gerekebilir.
+- question: Diyabette ayak bakımı neden bu kadar önemli?
+  answer: Diyabet hem sinir hasarına (nöropati) hem de damar hasarına (vaskülopati)
+    neden olur. Sinir hasarı ağrı hissini azaltır, küçük yaralanmalar fark edilmez.
+    Damar hasarı ise yara iyileşmesini bozar ve enfeksiyon riskini artırır. Bu iki
+    faktörün birleşimi, küçük bir yaranın bile ciddi enfeksiyona, gangrene ve ampütasyona
+    yol açabilmesine neden olur. Düzenli ayak bakımı bu riskleri önemli ölçüde azaltır.
+- question: Diyabetik ayak enfeksiyonu ne kadar ciddidir?
+  answer: Diyabetik ayak enfeksiyonları çok ciddi olabilir ve hızla ilerleyebilir.
+    Enfeksiyon kemiğe yayılabilir (osteomiyelit), kan dolaşımına girebilir (sepsis)
+    ve hayatı tehdit edebilir. Diyabetik ayak enfeksiyonları, diyabetik olmayan hastalara
+    göre daha ağır seyreder ve tedavisi daha zordur. Erken tanı ve agresif tedavi
+    hayati önem taşır. Ateş, titreme, yarada kötü koku, artan kızarıklık ve şişlik
+    gibi belirtiler acil müdahale gerektirir.
+- question: Kan şekeri kontrolü ayak sağlığını nasıl etkiler?
+  answer: İyi kan şekeri kontrolü diyabetik ayak komplikasyonlarını önlemede en kritik
+    faktördür. Yüksek kan şekeri sinir hasarını hızlandırır, bağışıklık sistemini
+    zayıflatır, yara iyileşmesini bozar ve enfeksiyon riskini artırır. HbA1c değerinin
+    %7'nin altında tutulması hedeflenmelidir. Düzenli kan şekeri takibi, ilaç uyumu
+    ve yaşam tarzı değişiklikleri ile iyi kontrol sağlanabilir.
+- question: Diyabetik ayakta ampütasyon riski nedir?
+  answer: Diyabet, travmatik olmayan alt ekstremite ampütasyonlarının en sık nedenidir.
+    Ancak ampütasyonların %85'i önlenebilir! Erken tanı, düzenli ayak muayeneleri,
+    uygun ayak bakımı, iyi kan şekeri kontrolü ve risk faktörlerinin yönetimi ile
+    ampütasyon riski önemli ölçüde azaltılabilir. Yara geliştiğinde erken ve agresif
+    tedavi kritik öneme sahiptir.
+- question: Diyabetik ayak için ne sıklıkla doktor kontrolüne gitmeliyim?
+  answer: Risk düzeyinize göre kontrol sıklığı değişir. Düşük riskli hastalarda yılda
+    en az bir kez, orta riskli hastalarda 3-6 ayda bir, yüksek riskli hastalarda (önceden
+    yara veya ampütasyon öyküsü) 1-3 ayda bir kontrol önerilir. Aktif yara varsa daha
+    sık takip gerekir. Herhangi bir değişiklik, yara veya enfeksiyon belirtisi fark
+    ederseniz hemen doktorunuza başvurun.
+- question: Diyabetik ayakta sigara kullanımı neden tehlikelidir?
+  answer: Sigara damar hasarını ciddi şekilde artırır, kan akışını azaltır ve yara
+    iyileşmesini bozar. Sigara içen diyabet hastalarında ampütasyon riski 2-3 kat
+    daha yüksektir. Sigara ayrıca enfeksiyon riskini artırır ve tedaviye yanıtı azaltır.
+    Diyabetik ayak riski olan hastalarda sigarayı bırakmak mutlaka gereklidir. Sigarayı
+    bırakmak için destek programları ve ilaç tedavileri mevcuttur.
+- question: Diyabetik ayakta evde nasıl bakım yapmalıyım?
+  answer: Ayaklarınızı her gün ılık suyla yıkayın (sıcak değil!), nazikçe kurulayın,
+    özellikle parmak aralarını. Nemlendirici krem sürün ama parmak aralarına değil.
+    Tırnaklarınızı düz kesin, köşeleri yuvarlamayın. Kalın çoraplar giyin, dikişsiz
+    olanları tercih edin. Çıplak ayakla yürümeyin. Her gün ayaklarınızı kontrol edin.
+    Nasırları kendiniz kesmemeye çalışmayın, profesyonel yardım alın.
 ---
 
 {{< lead >}}

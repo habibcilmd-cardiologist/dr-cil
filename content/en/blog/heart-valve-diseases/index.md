@@ -1,34 +1,40 @@
 ---
-title: "Heart Valve Diseases: Symptoms, Diagnosis, and Treatment"
-description: "Comprehensive guide to heart valve diseases. Aortic stenosis, mitral regurgitation, valve replacement and repair. Symptoms, diagnostic methods, and modern treatment options."
+title: 'Heart Valve Diseases: Symptoms, Diagnosis, and Treatment'
+description: Comprehensive guide to heart valve diseases. Aortic stenosis, mitral
+  regurgitation, valve replacement and repair. Symptoms, diagnostic methods, and modern
+  treatment options.
 date: 2024-10-20
 lastmod: 2024-12-03
-translationKey: "heart-valve-diseases"
-categories: ["Heart Diseases"]
+translationKey: heart-valve-diseases
+categories:
+- Heart Diseases
 tags:
-    [
-        "heart valve",
-        "aortic stenosis",
-        "mitral regurgitation",
-        "valve replacement",
-        "TAVI",
-        "cardiology",
-    ]
-author: "Assoc. Prof. Dr. Habib ÇİL"
+- Heart Inflammation
+- Heart Valve Diseases
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Does everyone with valve disease need surgery?"
-      answer: "No. Mild-moderate valve diseases can be managed with medication and monitoring. Surgery is needed when there's severe disease and symptoms."
-    - question: "Should mechanical or biological valve be preferred?"
-      answer: "Depends on age, lifestyle, and ability to take anticoagulants. Mechanical preferred in young patients, biological in elderly. Make the decision together with your doctor."
-    - question: "Is TAVI safer than surgery?"
-      answer: "TAVI is safer than open surgery in high-risk patients. However, surgery remains the gold standard in low-risk young patients. Risk assessment should be individualized."
-    - question: "Can I return to normal life after valve surgery?"
-      answer: "Yes! Most patients return to normal activities within 6-12 weeks after surgery. Regular follow-up and medication compliance are important."
-    - question: "How long does a prosthetic valve last?"
-      answer: "Mechanical valves last 20-30 years or more. Biological valves last 10-20 years and may need replacement afterward."
-    - question: "Is valve disease hereditary?"
-      answer: "Some valve diseases (bicuspid aortic valve, mitral valve prolapse) show genetic predisposition. Screening is recommended if there's family history of valve disease."
+- question: Does everyone with valve disease need surgery?
+  answer: No. Mild-moderate valve diseases can be managed with medication and monitoring.
+    Surgery is needed when there's severe disease and symptoms.
+- question: Should mechanical or biological valve be preferred?
+  answer: Depends on age, lifestyle, and ability to take anticoagulants. Mechanical
+    preferred in young patients, biological in elderly. Make the decision together
+    with your doctor.
+- question: Is TAVI safer than surgery?
+  answer: TAVI is safer than open surgery in high-risk patients. However, surgery
+    remains the gold standard in low-risk young patients. Risk assessment should be
+    individualized.
+- question: Can I return to normal life after valve surgery?
+  answer: Yes! Most patients return to normal activities within 6-12 weeks after surgery.
+    Regular follow-up and medication compliance are important.
+- question: How long does a prosthetic valve last?
+  answer: Mechanical valves last 20-30 years or more. Biological valves last 10-20
+    years and may need replacement afterward.
+- question: Is valve disease hereditary?
+  answer: Some valve diseases (bicuspid aortic valve, mitral valve prolapse) show
+    genetic predisposition. Screening is recommended if there's family history of
+    valve disease.
 ---
 
 {{< lead >}}

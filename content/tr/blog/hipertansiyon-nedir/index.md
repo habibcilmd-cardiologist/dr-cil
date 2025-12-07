@@ -1,34 +1,39 @@
 ---
-title: "Hipertansiyon (Yüksek Tansiyon) Nedir?"
-description: "Hipertansiyon belirtileri, nedenleri ve tedavi yöntemleri. Yüksek tansiyon nasıl kontrol altına alınır? Yaşam tarzı değişiklikleri, ilaç tedavisi ve korunma yolları hakkında kapsamlı rehber."
+title: Hipertansiyon (Yüksek Tansiyon) Nedir?
+description: Hipertansiyon belirtileri, nedenleri ve tedavi yöntemleri. Yüksek tansiyon
+  nasıl kontrol altına alınır? Yaşam tarzı değişiklikleri, ilaç tedavisi ve korunma
+  yolları hakkında kapsamlı rehber.
 date: 2024-01-10
 lastmod: 2024-12-03
-translationKey: "hypertension"
-categories: ["Kalp Hastalıkları"]
+translationKey: hypertension
+categories:
+- Kalp Hastalıkları
 tags:
-    [
-        "hipertansiyon",
-        "yüksek tansiyon",
-        "tansiyon",
-        "kardiyovasküler",
-        "kalp sağlığı",
-        "kan basıncı",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Hipertansiyon ve Kolesterol
+- Kalp Sağlığı ve Yaşam
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Tansiyonum ara sıra yükseliyor, ilaç kullanmalı mıyım?"
-      answer: "Tek bir yüksek ölçüm hipertansiyon tanısı koymak için yeterli değildir. Farklı zamanlarda yapılan ölçümlerle ortalama değerler değerlendirilmelidir. Tedavi kararı doktorunuz tarafından verilmelidir."
-    - question: "İlaç kullanmaya başladım ama yan etkisi var, bıraksam mı?"
-      answer: "Kesinlikle doktorunuza danışmadan ilaç bırakmayın. Yan etkileri olan başka ilaçlar mevcuttur; doktorunuz ilacınızı değiştirebilir."
-    - question: "Tansiyonum normale döndü, ilacı bıraksam olur mu?"
-      answer: "Hayır! Tansiyonunuzun normal olması, ilaçların işe yaradığı anlamına gelir. İlaç bırakıldığında tansiyon yeniden yükselir. Tedavi genellikle ömür boyudur."
-    - question: "Hangi yaştan sonra tansiyon ölçtürmeliyim?"
-      answer: "18 yaşından itibaren en az 2-3 yılda bir, 40 yaşından sonra yılda bir, hipertansiyon veya risk faktörü varsa daha sık ölçtürmelisiniz."
-    - question: "Stres tansiyonu nasıl etkiler?"
-      answer: "Stres geçici olarak tansiyonu artırır. Kronik stres ise hipertansiyon gelişimine katkıda bulunabilir. Stres yönetimi tedavinin önemli bir parçasıdır."
-    - question: "Hamileyken tansiyon yüksekliği tehlikeli mi?"
-      answer: "Evet, gebelikte hipertansiyon hem anne hem de bebek için risk oluşturur. Preeklampsi gibi ciddi durumlar gelişebilir. Mutlaka doktor kontrolünde takip edilmelidir."
+- question: Tansiyonum ara sıra yükseliyor, ilaç kullanmalı mıyım?
+  answer: Tek bir yüksek ölçüm hipertansiyon tanısı koymak için yeterli değildir.
+    Farklı zamanlarda yapılan ölçümlerle ortalama değerler değerlendirilmelidir. Tedavi
+    kararı doktorunuz tarafından verilmelidir.
+- question: İlaç kullanmaya başladım ama yan etkisi var, bıraksam mı?
+  answer: Kesinlikle doktorunuza danışmadan ilaç bırakmayın. Yan etkileri olan başka
+    ilaçlar mevcuttur; doktorunuz ilacınızı değiştirebilir.
+- question: Tansiyonum normale döndü, ilacı bıraksam olur mu?
+  answer: Hayır! Tansiyonunuzun normal olması, ilaçların işe yaradığı anlamına gelir.
+    İlaç bırakıldığında tansiyon yeniden yükselir. Tedavi genellikle ömür boyudur.
+- question: Hangi yaştan sonra tansiyon ölçtürmeliyim?
+  answer: 18 yaşından itibaren en az 2-3 yılda bir, 40 yaşından sonra yılda bir, hipertansiyon
+    veya risk faktörü varsa daha sık ölçtürmelisiniz.
+- question: Stres tansiyonu nasıl etkiler?
+  answer: Stres geçici olarak tansiyonu artırır. Kronik stres ise hipertansiyon gelişimine
+    katkıda bulunabilir. Stres yönetimi tedavinin önemli bir parçasıdır.
+- question: Hamileyken tansiyon yüksekliği tehlikeli mi?
+  answer: Evet, gebelikte hipertansiyon hem anne hem de bebek için risk oluşturur.
+    Preeklampsi gibi ciddi durumlar gelişebilir. Mutlaka doktor kontrolünde takip
+    edilmelidir.
 ---
 
 {{< lead >}}

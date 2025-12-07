@@ -1,37 +1,54 @@
 ---
-title: "What is Pericarditis? Causes, Symptoms, and Treatment Options"
-description: "Comprehensive guide to pericarditis. Learn about heart membrane inflammation causes, symptoms, diagnostic methods, and treatment options from a cardiology specialist."
+title: What is Pericarditis? Causes, Symptoms, and Treatment Options
+description: Comprehensive guide to pericarditis. Learn about heart membrane inflammation
+  causes, symptoms, diagnostic methods, and treatment options from a cardiology specialist.
 date: 2024-12-03
 lastmod: 2024-12-03
-translationKey: "pericarditis"
-categories: ["Cardiology"]
+translationKey: pericarditis
+categories:
+- Cardiology
 tags:
-    [
-        "pericarditis",
-        "heart membrane inflammation",
-        "chest pain",
-        "pericardial effusion",
-        "heart disease",
-    ]
-author: "Assoc. Prof. Dr. Habib ÇİL"
+- Coronary Artery Disease
+- Heart Inflammation
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Is pericarditis dangerous?"
-      answer: "Most pericarditis cases have good outcomes and achieve complete recovery with appropriate treatment. However, complications such as cardiac tamponade or constrictive pericarditis can be life-threatening. Therefore, timely diagnosis and treatment are important."
-    - question: "How is pericarditis distinguished from heart attack?"
-      answer: "Pericarditis pain is sharp and stabbing in nature, increases with breathing, and decreases when leaning forward. Heart attack pain is pressure-type, does not change with breathing or position. However, medical evaluation is always necessary for definitive differentiation."
-    - question: "Does pericarditis recur?"
-      answer: "Yes, pericarditis may recur in 15-30% of patients. Colchicine use significantly reduces the recurrence rate. Recurrent pericarditis episodes may be seen for years in some patients."
-    - question: "Is pericarditis contagious?"
-      answer: "Pericarditis itself is not contagious. However, the underlying viral infection may be contagious. Therefore, attention should be paid to basic hygiene rules during the acute phase."
-    - question: "How long does pericarditis last?"
-      answer: "Acute pericarditis usually resolves within 4-6 weeks. It may last longer in some cases. Recurrent pericarditis may continue for years. Treatment compliance shortens recovery time."
-    - question: "Can I exercise with pericarditis?"
-      answer: "Exercise is not recommended during acute pericarditis. Gradual return to sports can be done after symptoms have completely resolved, inflammation markers have returned to normal, and echocardiography is normal. At least 3 months of restriction is recommended for athletes."
-    - question: "Can pericarditis occur during pregnancy?"
-      answer: "Yes, pericarditis can also occur during pregnancy. Some medications used in treatment are not safe during pregnancy. Therefore, pericarditis treatment during pregnancy should be done in collaboration with a specialist cardiologist and obstetrician."
-    - question: "Is surgery needed for pericarditis?"
-      answer: "Most pericarditis cases recover with medication therapy. Surgery is usually needed in constrictive pericarditis, recurrent large effusions, or cases not responding to medication therapy."
+- question: Is pericarditis dangerous?
+  answer: Most pericarditis cases have good outcomes and achieve complete recovery
+    with appropriate treatment. However, complications such as cardiac tamponade or
+    constrictive pericarditis can be life-threatening. Therefore, timely diagnosis
+    and treatment are important.
+- question: How is pericarditis distinguished from heart attack?
+  answer: Pericarditis pain is sharp and stabbing in nature, increases with breathing,
+    and decreases when leaning forward. Heart attack pain is pressure-type, does not
+    change with breathing or position. However, medical evaluation is always necessary
+    for definitive differentiation.
+- question: Does pericarditis recur?
+  answer: Yes, pericarditis may recur in 15-30% of patients. Colchicine use significantly
+    reduces the recurrence rate. Recurrent pericarditis episodes may be seen for years
+    in some patients.
+- question: Is pericarditis contagious?
+  answer: Pericarditis itself is not contagious. However, the underlying viral infection
+    may be contagious. Therefore, attention should be paid to basic hygiene rules
+    during the acute phase.
+- question: How long does pericarditis last?
+  answer: Acute pericarditis usually resolves within 4-6 weeks. It may last longer
+    in some cases. Recurrent pericarditis may continue for years. Treatment compliance
+    shortens recovery time.
+- question: Can I exercise with pericarditis?
+  answer: Exercise is not recommended during acute pericarditis. Gradual return to
+    sports can be done after symptoms have completely resolved, inflammation markers
+    have returned to normal, and echocardiography is normal. At least 3 months of
+    restriction is recommended for athletes.
+- question: Can pericarditis occur during pregnancy?
+  answer: Yes, pericarditis can also occur during pregnancy. Some medications used
+    in treatment are not safe during pregnancy. Therefore, pericarditis treatment
+    during pregnancy should be done in collaboration with a specialist cardiologist
+    and obstetrician.
+- question: Is surgery needed for pericarditis?
+  answer: Most pericarditis cases recover with medication therapy. Surgery is usually
+    needed in constrictive pericarditis, recurrent large effusions, or cases not responding
+    to medication therapy.
 ---
 
 {{< lead >}}

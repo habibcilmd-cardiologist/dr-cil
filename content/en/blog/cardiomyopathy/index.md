@@ -1,37 +1,51 @@
 ---
-title: "What is Cardiomyopathy? Types, Symptoms, and Treatment Options"
-description: "Comprehensive guide to cardiomyopathy. Learn about heart muscle disease types, symptoms, diagnostic methods, and modern treatment options from a cardiology specialist."
+title: What is Cardiomyopathy? Types, Symptoms, and Treatment Options
+description: Comprehensive guide to cardiomyopathy. Learn about heart muscle disease
+  types, symptoms, diagnostic methods, and modern treatment options from a cardiology
+  specialist.
 date: 2024-12-03
 lastmod: 2024-12-03
-translationKey: "cardiomyopathy"
-categories: ["Cardiology"]
+translationKey: cardiomyopathy
+categories:
+- Cardiology
 tags:
-    [
-        "cardiomyopathy",
-        "heart muscle disease",
-        "dilated cardiomyopathy",
-        "hypertrophic cardiomyopathy",
-        "heart failure",
-    ]
-author: "Assoc. Prof. Dr. Habib ÇİL"
+- Heart Failure
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Does cardiomyopathy heal?"
-      answer: "Some types can improve. Takotsubo cardiomyopathy usually recovers within a few weeks. In alcoholic cardiomyopathy, heart function may improve when alcohol is stopped. However, HCM and genetically-caused cardiomyopathies are usually permanent and require lifelong monitoring."
-    - question: "Is cardiomyopathy hereditary?"
-      answer: "Some types are genetically transmitted. 60-70% of HCM cases and 30-40% of DCM cases are genetic in origin. If there is a family history of cardiomyopathy, screening of first-degree relatives is recommended."
-    - question: "Can I exercise with cardiomyopathy?"
-      answer: "It depends on the situation. Competitive sports are not recommended for HCM patients. DCM patients can do mild to moderate exercise under doctor supervision. Each patient's exercise capacity should be individually evaluated."
-    - question: "Does cardiomyopathy affect pregnancy?"
-      answer: "Yes, cardiomyopathy poses risks during pregnancy. Pregnancy increases the workload on the heart. Cardiology evaluation before pregnancy is essential. Pregnancy may be contraindicated in some cardiomyopathies."
-    - question: "When is ICD implantation necessary?"
-      answer: "ICD is implanted in patients with high risk of sudden cardiac death. ICD is considered in DCM when ejection fraction is below 35%, in HCM with high risk scores, or if life-threatening arrhythmia has occurred previously."
-    - question: "When is heart transplant needed for cardiomyopathy?"
-      answer: "Heart transplant is evaluated in end-stage heart failure, when response to medication therapy is not achieved, and when other treatment options are exhausted. Referral to advanced heart failure centers is made for transplant evaluation."
-    - question: "Should I get genetic testing?"
-      answer: "Genetic testing is recommended if there is a family history of cardiomyopathy or if you have been diagnosed. Genetic counseling provides guidance before and after testing. Family screening is planned for positive results."
-    - question: "How long can I live with cardiomyopathy?"
-      answer: "Prognosis depends on the type of cardiomyopathy, stage, and response to treatment. With modern treatments, many patients can live quality lives for years. Regular follow-up and treatment compliance significantly increase survival."
+- question: Does cardiomyopathy heal?
+  answer: Some types can improve. Takotsubo cardiomyopathy usually recovers within
+    a few weeks. In alcoholic cardiomyopathy, heart function may improve when alcohol
+    is stopped. However, HCM and genetically-caused cardiomyopathies are usually permanent
+    and require lifelong monitoring.
+- question: Is cardiomyopathy hereditary?
+  answer: Some types are genetically transmitted. 60-70% of HCM cases and 30-40% of
+    DCM cases are genetic in origin. If there is a family history of cardiomyopathy,
+    screening of first-degree relatives is recommended.
+- question: Can I exercise with cardiomyopathy?
+  answer: It depends on the situation. Competitive sports are not recommended for
+    HCM patients. DCM patients can do mild to moderate exercise under doctor supervision.
+    Each patient's exercise capacity should be individually evaluated.
+- question: Does cardiomyopathy affect pregnancy?
+  answer: Yes, cardiomyopathy poses risks during pregnancy. Pregnancy increases the
+    workload on the heart. Cardiology evaluation before pregnancy is essential. Pregnancy
+    may be contraindicated in some cardiomyopathies.
+- question: When is ICD implantation necessary?
+  answer: ICD is implanted in patients with high risk of sudden cardiac death. ICD
+    is considered in DCM when ejection fraction is below 35%, in HCM with high risk
+    scores, or if life-threatening arrhythmia has occurred previously.
+- question: When is heart transplant needed for cardiomyopathy?
+  answer: Heart transplant is evaluated in end-stage heart failure, when response
+    to medication therapy is not achieved, and when other treatment options are exhausted.
+    Referral to advanced heart failure centers is made for transplant evaluation.
+- question: Should I get genetic testing?
+  answer: Genetic testing is recommended if there is a family history of cardiomyopathy
+    or if you have been diagnosed. Genetic counseling provides guidance before and
+    after testing. Family screening is planned for positive results.
+- question: How long can I live with cardiomyopathy?
+  answer: Prognosis depends on the type of cardiomyopathy, stage, and response to
+    treatment. With modern treatments, many patients can live quality lives for years.
+    Regular follow-up and treatment compliance significantly increase survival.
 ---
 
 {{< lead >}}

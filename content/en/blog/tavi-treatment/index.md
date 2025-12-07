@@ -1,42 +1,60 @@
 ---
-title: "TAVI Treatment: Minimally Invasive Aortic Valve Replacement"
-description: "TAVI (Transcatheter Aortic Valve Implantation) treats aortic valve disease without open-heart surgery. Learn about the procedure, benefits, and outcomes from a cardiology expert."
+title: 'TAVI Treatment: Minimally Invasive Aortic Valve Replacement'
+description: TAVI (Transcatheter Aortic Valve Implantation) treats aortic valve disease
+  without open-heart surgery. Learn about the procedure, benefits, and outcomes from
+  a cardiology expert.
 date: 2024-12-05
 lastmod: 2024-12-05
 draft: false
-translationKey: "tavi-treatment"
+translationKey: tavi-treatment
 categories:
-    - "Cardiology"
+- Cardiology
 tags:
-    - "TAVI"
-    - "Transcatheter Aortic Valve Implantation"
-    - "Aortic Stenosis"
-    - "Minimally Invasive Heart Surgery"
-    - "Aortic Valve Disease"
-    - "TAVR"
-    - "Valve Replacement"
-    - "Aortic Valve Treatment"
-    - "Structural Heart Disease"
-author: "Doç. Dr. Habib ÇİL"
-featured_image: "featured.svg"
+- Heart Valve Diseases
+author: Doç. Dr. Habib ÇİL
+featured_image: featured.svg
 showTableOfContents: true
 faq:
-    - question: "Is the TAVI procedure painful?"
-      answer: "No, the patient does not feel pain during the TAVI procedure as they are under sedation. There may be mild discomfort or bruising at the access site afterward, but this is easily managed with pain relievers. There is no major incision pain like in open-heart surgery."
-    - question: "How long will I stay in the hospital after TAVI?"
-      answer: "Patients are typically ready for discharge within 1 to 3 days after the TAVI procedure. This period may vary depending on the patient's overall condition and post-procedure progress."
-    - question: "How long does a TAVI valve last?"
-      answer: "Current clinical data show that TAVI valves function well for at least 10-15 years. As technology advances and newer generation valves are used, this duration is expected to be even longer. Valve function is monitored with annual echocardiograms."
-    - question: "Can TAVI be performed at any age?"
-      answer: "There is no strict age limit for TAVI. The decision is based on the patient's biological age, overall health, and surgical risk. While it is often preferred for older patients, it can also be a suitable option for younger patients who are at intermediate or even low risk."
-    - question: "Why is a pacemaker needed after TAVI?"
-      answer: "The new valve is placed close to the heart's own electrical conduction system. Sometimes, this placement can put pressure on the conduction system, causing a slowdown in heart rate (conduction block). If this becomes permanent, a pacemaker is needed to regulate the heart rate. This risk is about 5-15%."
-    - question: "When can I return to my normal life after TAVI?"
-      answer: "Most patients can return to normal daily activities like driving and shopping within 1-2 weeks. It is recommended to wait for your doctor's approval before engaging in more strenuous activities and sports. The recovery is much faster compared to open-heart surgery."
-    - question: "Are the valves used for TAVI metallic?"
-      answer: "No, TAVI valves are biological. They consist of leaflets made from bovine or porcine pericardium (heart sac tissue) mounted on a stent (a metal mesh frame) made of nickel-titanium (nitinol) or cobalt-chromium alloy. These valves do not make a clicking sound like metallic valves and usually do not require lifelong use of strong blood thinners like Coumadin."
-    - question: "Can't aortic stenosis be treated with medication?"
-      answer: "No. Aortic stenosis is a mechanical problem—a physical narrowing of the valve. Medications can help alleviate symptoms of heart failure or control blood pressure, but they cannot open a narrowed valve. The only effective treatment for severe aortic stenosis is to replace the valve (either surgically or with TAVI)."
+- question: Is the TAVI procedure painful?
+  answer: No, the patient does not feel pain during the TAVI procedure as they are
+    under sedation. There may be mild discomfort or bruising at the access site afterward,
+    but this is easily managed with pain relievers. There is no major incision pain
+    like in open-heart surgery.
+- question: How long will I stay in the hospital after TAVI?
+  answer: Patients are typically ready for discharge within 1 to 3 days after the
+    TAVI procedure. This period may vary depending on the patient's overall condition
+    and post-procedure progress.
+- question: How long does a TAVI valve last?
+  answer: Current clinical data show that TAVI valves function well for at least 10-15
+    years. As technology advances and newer generation valves are used, this duration
+    is expected to be even longer. Valve function is monitored with annual echocardiograms.
+- question: Can TAVI be performed at any age?
+  answer: There is no strict age limit for TAVI. The decision is based on the patient's
+    biological age, overall health, and surgical risk. While it is often preferred
+    for older patients, it can also be a suitable option for younger patients who
+    are at intermediate or even low risk.
+- question: Why is a pacemaker needed after TAVI?
+  answer: The new valve is placed close to the heart's own electrical conduction system.
+    Sometimes, this placement can put pressure on the conduction system, causing a
+    slowdown in heart rate (conduction block). If this becomes permanent, a pacemaker
+    is needed to regulate the heart rate. This risk is about 5-15%.
+- question: When can I return to my normal life after TAVI?
+  answer: Most patients can return to normal daily activities like driving and shopping
+    within 1-2 weeks. It is recommended to wait for your doctor's approval before
+    engaging in more strenuous activities and sports. The recovery is much faster
+    compared to open-heart surgery.
+- question: Are the valves used for TAVI metallic?
+  answer: No, TAVI valves are biological. They consist of leaflets made from bovine
+    or porcine pericardium (heart sac tissue) mounted on a stent (a metal mesh frame)
+    made of nickel-titanium (nitinol) or cobalt-chromium alloy. These valves do not
+    make a clicking sound like metallic valves and usually do not require lifelong
+    use of strong blood thinners like Coumadin.
+- question: Can't aortic stenosis be treated with medication?
+  answer: No. Aortic stenosis is a mechanical problem—a physical narrowing of the
+    valve. Medications can help alleviate symptoms of heart failure or control blood
+    pressure, but they cannot open a narrowed valve. The only effective treatment
+    for severe aortic stenosis is to replace the valve (either surgically or with
+    TAVI).
 ---
 
 {{< lead >}}

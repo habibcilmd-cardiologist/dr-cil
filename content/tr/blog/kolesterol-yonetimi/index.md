@@ -1,35 +1,37 @@
 ---
-title: "Kolesterol Yönetimi: Yüksek Kolesterol Nedenleri, Riskleri ve Tedavisi"
-description: "Yüksek kolesterol hakkında kapsamlı rehber. LDL ve HDL kolesterol nedir, normal değerler, risk faktörleri, diyet önerileri ve ilaç tedavisi. Kardiyoloji uzmanından bilgiler."
+title: 'Kolesterol Yönetimi: Yüksek Kolesterol Nedenleri, Riskleri ve Tedavisi'
+description: Yüksek kolesterol hakkında kapsamlı rehber. LDL ve HDL kolesterol nedir,
+  normal değerler, risk faktörleri, diyet önerileri ve ilaç tedavisi. Kardiyoloji
+  uzmanından bilgiler.
 date: 2024-11-15
 lastmod: 2024-12-03
-translationKey: "cholesterol-management"
-categories: ["Kalp Hastalıkları"]
+translationKey: cholesterol-management
+categories:
+- Kalp Hastalıkları
 tags:
-    [
-        "kolesterol",
-        "LDL",
-        "HDL",
-        "hiperlipidemi",
-        "statin",
-        "kalp sağlığı",
-        "kardiyovasküler risk",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Hipertansiyon ve Kolesterol
+- Kalp Sağlığı ve Yaşam
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Kolesterol ilacı ömür boyu mu kullanılacak?"
-      answer: "Çoğu hastada evet. Kolesterol ilaçları bırakıldığında değerler yeniden yükselir. Ancak yaşam tarzı değişiklikleriyle bazı hastalarda doz azaltılabilir."
-    - question: "Statin kas ağrısı yaparsa ne yapmalıyım?"
-      answer: "Doktorunuza danışın. Doz azaltma, ilaç değişikliği veya alternatif tedaviler denenebilir. Kendi başınıza ilaç bırakmayın."
-    - question: "Yumurta yiyebilir miyim?"
-      answer: "Evet, ancak ölçülü. Günde 1 yumurta çoğu kişi için güvenlidir. Diyetle alınan kolesterolün etkisi kişiden kişiye değişir."
-    - question: "Kolesterol düşürücü gıda takviyeleri işe yarar mı?"
-      answer: "Bazıları (kırmızı maya pirinci, bitkisel steroller) hafif etki gösterebilir, ancak ilaç tedavisinin yerini tutmaz. Doktorunuza danışmadan kullanmayın."
-    - question: "Çocuklarda kolesterol taraması gerekli mi?"
-      answer: "Aile öyküsü varsa veya obezite, diyabet gibi risk faktörleri varsa 2 yaşından itibaren tarama önerilir."
-    - question: "HDL'yi nasıl artırabilirim?"
-      answer: "Egzersiz, kilo verme, sigarayı bırakma ve sağlıklı yağlar (zeytinyağı, balık) HDL'yi artırır. İlaçlarla HDL artışı sınırlıdır."
+- question: Kolesterol ilacı ömür boyu mu kullanılacak?
+  answer: Çoğu hastada evet. Kolesterol ilaçları bırakıldığında değerler yeniden yükselir.
+    Ancak yaşam tarzı değişiklikleriyle bazı hastalarda doz azaltılabilir.
+- question: Statin kas ağrısı yaparsa ne yapmalıyım?
+  answer: Doktorunuza danışın. Doz azaltma, ilaç değişikliği veya alternatif tedaviler
+    denenebilir. Kendi başınıza ilaç bırakmayın.
+- question: Yumurta yiyebilir miyim?
+  answer: Evet, ancak ölçülü. Günde 1 yumurta çoğu kişi için güvenlidir. Diyetle alınan
+    kolesterolün etkisi kişiden kişiye değişir.
+- question: Kolesterol düşürücü gıda takviyeleri işe yarar mı?
+  answer: Bazıları (kırmızı maya pirinci, bitkisel steroller) hafif etki gösterebilir,
+    ancak ilaç tedavisinin yerini tutmaz. Doktorunuza danışmadan kullanmayın.
+- question: Çocuklarda kolesterol taraması gerekli mi?
+  answer: Aile öyküsü varsa veya obezite, diyabet gibi risk faktörleri varsa 2 yaşından
+    itibaren tarama önerilir.
+- question: HDL'yi nasıl artırabilirim?
+  answer: Egzersiz, kilo verme, sigarayı bırakma ve sağlıklı yağlar (zeytinyağı, balık)
+    HDL'yi artırır. İlaçlarla HDL artışı sınırlıdır.
 ---
 
 {{< lead >}}

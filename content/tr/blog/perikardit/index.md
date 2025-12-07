@@ -1,37 +1,49 @@
 ---
-title: "Perikardit Nedir? Nedenleri, Belirtileri ve Tedavi Yöntemleri"
-description: "Perikardit hakkında kapsamlı rehber. Kalp zarı iltihabının nedenleri, belirtileri, tanı yöntemleri ve tedavi seçenekleri. Kardiyoloji uzmanından bilgiler."
+title: Perikardit Nedir? Nedenleri, Belirtileri ve Tedavi Yöntemleri
+description: Perikardit hakkında kapsamlı rehber. Kalp zarı iltihabının nedenleri,
+  belirtileri, tanı yöntemleri ve tedavi seçenekleri. Kardiyoloji uzmanından bilgiler.
 date: 2024-12-03
 lastmod: 2024-12-03
-translationKey: "pericarditis"
-categories: ["Kardiyoloji"]
+translationKey: pericarditis
+categories:
+- Kardiyoloji
 tags:
-    [
-        "perikardit",
-        "kalp zarı iltihabı",
-        "göğüs ağrısı",
-        "perikard efüzyonu",
-        "kalp hastalığı",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Kalp İltihabı
+- Koroner Arter Hastalığı
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Perikardit tehlikeli midir?"
-      answer: "Çoğu perikardit vakası iyi seyirlidir ve uygun tedavi ile tam iyileşme sağlanır. Ancak kardiyak tamponad veya konstriktif perikardit gibi komplikasyonlar hayatı tehdit edebilir. Bu nedenle zamanında tanı ve tedavi önemlidir."
-    - question: "Perikardit kalp krizinden nasıl ayırt edilir?"
-      answer: "Perikardit ağrısı keskin ve batıcı niteliktedir, nefes almakla artar ve öne eğilmekle azalır. Kalp krizi ağrısı ise baskı tarzındadır, nefes veya pozisyonla değişmez. Ancak kesin ayırım için mutlaka tıbbi değerlendirme gerekir."
-    - question: "Perikardit tekrarlar mı?"
-      answer: "Evet, hastaların %15-30'unda perikardit tekrarlayabilir. Kolşisin kullanımı tekrarlama oranını önemli ölçüde azaltır. Bazı hastalarda yıllarca tekrarlayan perikardit ataakları görülebilir."
-    - question: "Perikardit bulaşıcı mıdır?"
-      answer: "Perikarditin kendisi bulaşıcı değildir. Ancak altta yatan viral enfeksiyon bulaşıcı olabilir. Bu nedenle akut dönemde temel hijyen kurallarına dikkat edilmelidir."
-    - question: "Perikardit ne kadar sürer?"
-      answer: "Akut perikardit genellikle 4-6 hafta içinde iyileşir. Bazı vakalarda daha uzun sürebilir. Tekrarlayan perikardit yıllarca devam edebilir. Tedaviye uyum iyileşme süresini kısaltır."
-    - question: "Perikarditte spor yapabilir miyim?"
-      answer: "Akut perikardit döneminde spor yapmak önerilmez. Semptomlar tamamen geçtikten, inflamasyon belirteçleri normale döndükten ve ekokardiyografi normal olduktan sonra spora kademeli dönüş yapılabilir. Sporcularda en az 3 ay kısıtlama önerilir."
-    - question: "Perikardit hamilelikte görülür mü?"
-      answer: "Evet, perikardit hamilelik döneminde de görülebilir. Tedavide kullanılan ilaçların bir kısmı gebelikte güvenli değildir. Bu nedenle hamilelikte perikardit tedavisi uzman kardiyolog ve kadın doğum uzmanı işbirliğinde yapılmalıdır."
-    - question: "Perikardit için ameliyat gerekir mi?"
-      answer: "Çoğu perikardit vakası ilaç tedavisiyle iyileşir. Ameliyat genellikle konstriktif perikardit, tekrarlayan büyük efüzyonlar veya ilaç tedavisine yanıt vermeyen olgularda gerekebilir."
+- question: Perikardit tehlikeli midir?
+  answer: Çoğu perikardit vakası iyi seyirlidir ve uygun tedavi ile tam iyileşme sağlanır.
+    Ancak kardiyak tamponad veya konstriktif perikardit gibi komplikasyonlar hayatı
+    tehdit edebilir. Bu nedenle zamanında tanı ve tedavi önemlidir.
+- question: Perikardit kalp krizinden nasıl ayırt edilir?
+  answer: Perikardit ağrısı keskin ve batıcı niteliktedir, nefes almakla artar ve
+    öne eğilmekle azalır. Kalp krizi ağrısı ise baskı tarzındadır, nefes veya pozisyonla
+    değişmez. Ancak kesin ayırım için mutlaka tıbbi değerlendirme gerekir.
+- question: Perikardit tekrarlar mı?
+  answer: Evet, hastaların %15-30'unda perikardit tekrarlayabilir. Kolşisin kullanımı
+    tekrarlama oranını önemli ölçüde azaltır. Bazı hastalarda yıllarca tekrarlayan
+    perikardit ataakları görülebilir.
+- question: Perikardit bulaşıcı mıdır?
+  answer: Perikarditin kendisi bulaşıcı değildir. Ancak altta yatan viral enfeksiyon
+    bulaşıcı olabilir. Bu nedenle akut dönemde temel hijyen kurallarına dikkat edilmelidir.
+- question: Perikardit ne kadar sürer?
+  answer: Akut perikardit genellikle 4-6 hafta içinde iyileşir. Bazı vakalarda daha
+    uzun sürebilir. Tekrarlayan perikardit yıllarca devam edebilir. Tedaviye uyum
+    iyileşme süresini kısaltır.
+- question: Perikarditte spor yapabilir miyim?
+  answer: Akut perikardit döneminde spor yapmak önerilmez. Semptomlar tamamen geçtikten,
+    inflamasyon belirteçleri normale döndükten ve ekokardiyografi normal olduktan
+    sonra spora kademeli dönüş yapılabilir. Sporcularda en az 3 ay kısıtlama önerilir.
+- question: Perikardit hamilelikte görülür mü?
+  answer: Evet, perikardit hamilelik döneminde de görülebilir. Tedavide kullanılan
+    ilaçların bir kısmı gebelikte güvenli değildir. Bu nedenle hamilelikte perikardit
+    tedavisi uzman kardiyolog ve kadın doğum uzmanı işbirliğinde yapılmalıdır.
+- question: Perikardit için ameliyat gerekir mi?
+  answer: Çoğu perikardit vakası ilaç tedavisiyle iyileşir. Ameliyat genellikle konstriktif
+    perikardit, tekrarlayan büyük efüzyonlar veya ilaç tedavisine yanıt vermeyen olgularda
+    gerekebilir.
 ---
 
 {{< lead >}}

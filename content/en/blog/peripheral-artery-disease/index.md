@@ -1,37 +1,59 @@
 ---
-title: "What is Peripheral Artery Disease? Symptoms, Diagnosis, and Treatment"
-description: "Comprehensive guide to peripheral artery disease. Learn about leg artery blockage symptoms, risk factors, diagnostic methods, and treatment options from a cardiology specialist."
+title: What is Peripheral Artery Disease? Symptoms, Diagnosis, and Treatment
+description: Comprehensive guide to peripheral artery disease. Learn about leg artery
+  blockage symptoms, risk factors, diagnostic methods, and treatment options from
+  a cardiology specialist.
 date: 2024-12-03
 lastmod: 2024-12-03
-translationKey: "peripheral-artery-disease"
-categories: ["Cardiology"]
+translationKey: peripheral-artery-disease
+categories:
+- Cardiology
 tags:
-    [
-        "peripheral artery disease",
-        "artery blockage",
-        "leg pain",
-        "atherosclerosis",
-        "circulation problems",
-    ]
-author: "Assoc. Prof. Dr. Habib ÇİL"
+- Coronary Artery Disease
+- Peripheral Vascular Disease
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Does PAD completely heal?"
-      answer: "Atherosclerosis, the underlying cause of PAD, is a chronic process and does not completely reverse. However, disease progression can be stopped, symptoms reduced, and amputation prevented with lifestyle changes, medication therapy, and interventional treatments when needed."
-    - question: "Should I exercise if walking causes pain?"
-      answer: "Yes! Although it seems like a paradox, regular walking programs are one of the cornerstones of PAD treatment. Stop and rest when pain starts, continue walking when it passes. With this \"stop-start\" method, your vessels develop new connections (collaterals) to increase blood flow."
-    - question: "What is the relationship between smoking and PAD?"
-      answer: "Smoking is the most important risk factor for PAD and rapidly advances the disease. Smokers have 4 times more PAD risk than non-smokers. Quitting smoking is the most critical step in treatment and can change the course of the disease on its own."
-    - question: "Does PAD cause heart attacks?"
-      answer: "PAD is an indicator of atherosclerosis throughout the body. More than 50% of patients diagnosed with PAD also have coronary artery disease. Therefore, PAD patients are at high risk for heart attack and stroke, and cardiac health monitoring is required."
-    - question: "Is stent or bypass better?"
-      answer: "Both treatments have advantages and disadvantages. The decision is made individually based on the location and length of the blockage, patient's general condition, and accompanying diseases. Endovascular treatment may be preferred for short segment blockages, and bypass for long segments and multiple blockages."
-    - question: "How does diabetes affect PAD?"
-      answer: "Diabetes increases PAD risk 2-4 fold and negatively affects disease course. Pain sensation may be reduced in diabetic patients due to peripheral neuropathy, which may cause delayed diagnosis. Additionally, wound healing is impaired and infection risk increases."
-    - question: "Why is foot care important in PAD?"
-      answer: "Due to reduced blood flow in PAD, even small wounds have difficulty healing and are prone to infection. Unnoticed foot wounds can progress to gangrene. Therefore, daily foot inspection, proper footwear selection, and regular care are vitally important."
-    - question: "Can PAD be prevented?"
-      answer: "PAD is largely a preventable disease. PAD risk can be significantly reduced by not smoking, regular exercise, healthy nutrition, blood pressure and cholesterol control, and diabetes management. Early control of risk factors is critically important."
+- question: Does PAD completely heal?
+  answer: Atherosclerosis, the underlying cause of PAD, is a chronic process and does
+    not completely reverse. However, disease progression can be stopped, symptoms
+    reduced, and amputation prevented with lifestyle changes, medication therapy,
+    and interventional treatments when needed.
+- question: Should I exercise if walking causes pain?
+  answer: Yes! Although it seems like a paradox, regular walking programs are one
+    of the cornerstones of PAD treatment. Stop and rest when pain starts, continue
+    walking when it passes. With this "stop-start" method, your vessels develop new
+    connections (collaterals) to increase blood flow.
+- question: What is the relationship between smoking and PAD?
+  answer: Smoking is the most important risk factor for PAD and rapidly advances the
+    disease. Smokers have 4 times more PAD risk than non-smokers. Quitting smoking
+    is the most critical step in treatment and can change the course of the disease
+    on its own.
+- question: Does PAD cause heart attacks?
+  answer: PAD is an indicator of atherosclerosis throughout the body. More than 50%
+    of patients diagnosed with PAD also have coronary artery disease. Therefore, PAD
+    patients are at high risk for heart attack and stroke, and cardiac health monitoring
+    is required.
+- question: Is stent or bypass better?
+  answer: Both treatments have advantages and disadvantages. The decision is made
+    individually based on the location and length of the blockage, patient's general
+    condition, and accompanying diseases. Endovascular treatment may be preferred
+    for short segment blockages, and bypass for long segments and multiple blockages.
+- question: How does diabetes affect PAD?
+  answer: Diabetes increases PAD risk 2-4 fold and negatively affects disease course.
+    Pain sensation may be reduced in diabetic patients due to peripheral neuropathy,
+    which may cause delayed diagnosis. Additionally, wound healing is impaired and
+    infection risk increases.
+- question: Why is foot care important in PAD?
+  answer: Due to reduced blood flow in PAD, even small wounds have difficulty healing
+    and are prone to infection. Unnoticed foot wounds can progress to gangrene. Therefore,
+    daily foot inspection, proper footwear selection, and regular care are vitally
+    important.
+- question: Can PAD be prevented?
+  answer: PAD is largely a preventable disease. PAD risk can be significantly reduced
+    by not smoking, regular exercise, healthy nutrition, blood pressure and cholesterol
+    control, and diabetes management. Early control of risk factors is critically
+    important.
 ---
 
 {{< lead >}}

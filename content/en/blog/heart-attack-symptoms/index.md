@@ -1,32 +1,40 @@
 ---
-title: "Heart Attack Symptoms: Early Detection Saves Lives"
-description: "What are the symptoms of a heart attack (myocardial infarction)? Learn about chest pain, shortness of breath, and other warning signs. Comprehensive guide on emergency response, risk factors, diagnosis methods, and treatment options."
+title: 'Heart Attack Symptoms: Early Detection Saves Lives'
+description: What are the symptoms of a heart attack (myocardial infarction)? Learn
+  about chest pain, shortness of breath, and other warning signs. Comprehensive guide
+  on emergency response, risk factors, diagnosis methods, and treatment options.
 date: 2024-01-15
 lastmod: 2024-12-03
-translationKey: "heart-attack"
-categories: ["Heart Diseases"]
+translationKey: heart-attack
+categories:
+- Heart Diseases
 tags:
-    [
-        "heart attack",
-        "myocardial infarction",
-        "chest pain",
-        "emergency",
-        "coronary artery disease",
-        "heart health",
-    ]
-author: "Assoc. Prof. Dr. Habib ÇİL"
+- Coronary Artery Disease
+- Heart Health & Living
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "My chest hurts—am I having a heart attack?"
-      answer: "Not every chest pain is a heart attack. Muscle pain, acid reflux, anxiety, and many other conditions can cause chest pain. However, chest pain that lasts more than 15 minutes, doesn't go away with rest, and feels like pressure should be taken seriously, and emergency help should be sought."
-    - question: "Can young people have heart attacks?"
-      answer: "Yes, especially young people with significant risk factors (smoking, obesity, family history, diabetes) can experience heart attacks. Unfortunately, heart attacks in people under 40 have been increasing in recent years."
-    - question: "Can I return to normal life after a heart attack?"
-      answer: "Yes, with proper treatment and rehabilitation, most patients can return to their normal lives. However, regular use of medications and lifestyle changes are necessary."
-    - question: "How careful should I be after getting a stent?"
-      answer: "The first year after stent placement is the most critical period. Regular use of blood-thinning medications, attending follow-up appointments, and controlling risk factors are very important."
-    - question: "There's a history of heart attack in my family—what should I do?"
-      answer: "Family history increases risk, but it's not inevitable. You can significantly reduce your risk by controlling other risk factors (blood pressure, cholesterol, smoking, exercise)."
+- question: My chest hurts—am I having a heart attack?
+  answer: Not every chest pain is a heart attack. Muscle pain, acid reflux, anxiety,
+    and many other conditions can cause chest pain. However, chest pain that lasts
+    more than 15 minutes, doesn't go away with rest, and feels like pressure should
+    be taken seriously, and emergency help should be sought.
+- question: Can young people have heart attacks?
+  answer: Yes, especially young people with significant risk factors (smoking, obesity,
+    family history, diabetes) can experience heart attacks. Unfortunately, heart attacks
+    in people under 40 have been increasing in recent years.
+- question: Can I return to normal life after a heart attack?
+  answer: Yes, with proper treatment and rehabilitation, most patients can return
+    to their normal lives. However, regular use of medications and lifestyle changes
+    are necessary.
+- question: How careful should I be after getting a stent?
+  answer: The first year after stent placement is the most critical period. Regular
+    use of blood-thinning medications, attending follow-up appointments, and controlling
+    risk factors are very important.
+- question: There's a history of heart attack in my family—what should I do?
+  answer: Family history increases risk, but it's not inevitable. You can significantly
+    reduce your risk by controlling other risk factors (blood pressure, cholesterol,
+    smoking, exercise).
 ---
 
 {{< lead >}}

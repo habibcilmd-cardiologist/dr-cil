@@ -1,40 +1,67 @@
 ---
-title: "Aort Anevrizması: Belirtileri, Tanısı ve Modern Tedavi Yöntemleri"
-description: "Aort anevrizması nedir? Torasik ve abdominal aort anevrizması belirtileri, risk faktörleri, tanı yöntemleri ve güncel tedavi seçenekleri hakkında kapsamlı rehber."
+title: 'Aort Anevrizması: Belirtileri, Tanısı ve Modern Tedavi Yöntemleri'
+description: Aort anevrizması nedir? Torasik ve abdominal aort anevrizması belirtileri,
+  risk faktörleri, tanı yöntemleri ve güncel tedavi seçenekleri hakkında kapsamlı
+  rehber.
 date: 2024-12-04
 lastmod: 2024-12-04
-translationKey: "aortic-aneurysm"
-categories: ["Kardiyoloji", "Vasküler Hastalıklar"]
+translationKey: aortic-aneurysm
+categories:
+- Kardiyoloji
+- Vasküler Hastalıklar
 tags:
-    [
-        "aort anevrizması",
-        "abdominal aort anevrizması",
-        "torasik aort anevrizması",
-        "EVAR",
-        "TEVAR",
-        "damar genişlemesi",
-        "anevrizma tedavisi",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Aort Hastalıkları
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
-featured: "featured.svg"
+featured: featured.svg
 faq:
-    - question: "Aort anevrizması nedir ve neden tehlikelidir?"
-      answer: "Aort anevrizması, vücudun ana atardamarı olan aortun duvarında zayıflama sonucu balonlaşma şeklinde genişlemesidir. Tehlikesi, anevrizmanın yırtılma (rüptür) riski taşımasıdır. Rüptür geliştiğinde iç kanama meydana gelir ve bu durum hayatı tehdit eden acil bir durumdur. Rüptür riski anevrizma çapı arttıkça yükselir."
-    - question: "Aort anevrizması belirtileri nelerdir?"
-      answer: "Çoğu aort anevrizması belirti vermez ve tesadüfen saptanır. Büyük anevrizmalarda göğüs veya sırt ağrısı, öksürük, ses kısıklığı, yutma güçlüğü (torasik), karında nabız hissi veya ağrı (abdominal) görülebilir. Rüptür durumunda ani şiddetli ağrı, baş dönmesi, bayılma, şok bulguları acil tıbbi müdahale gerektirir."
-    - question: "Anevrizma tanısı nasıl konulur?"
-      answer: "Aort anevrizması tanısı genellikle görüntüleme yöntemleriyle konur. Ultrasonografi tarama ve takipte sıklıkla kullanılır. BT anjiyografi anevrizma boyutunu, şeklini ve ilişkili damar yapılarını detaylı gösterir. MR anjiyografi radyasyon içermez, manyetik rezonans ile görüntüleme sağlar. Ekokardiyografi özellikle torasik aort anevrizmalarını değerlendirmede yardımcıdır."
-    - question: "Anevrizma ne zaman tedavi edilmelidir?"
-      answer: "Tedavi kararı anevrizma çapına, büyüme hızına, hastanın semptomlarına ve genel sağlık durumuna bağlıdır. Genellikle abdominal aort anevrizması erkeklerde 5.5 cm, kadınlarda 5.0 cm üzerinde veya yılda 0.5 cm'den fazla büyüme gösteriyorsa tedavi önerilir. Torasik aort anevrizmaları için eşik değerler biraz daha farklıdır ve 5.5-6.0 cm civarındadır."
-    - question: "EVAR ve açık cerrahi arasındaki fark nedir?"
-      answer: "EVAR (Endovasküler Anevrizma Onarımı) minimal invaziv bir yöntemdir; kasıktan girilerek kateterle stent-greft yerleştirilir. İyileşme süresi kısa, hastanede kalış süresi azdır. Açık cerrahi ise geleneksel yöntemdir; karın veya göğüs açılarak anevrizma bölgesi greft ile değiştirilir. Daha uzun iyileşme süresi vardır ancak bazı anatomik yapılar için daha uygundur. Hangi yöntemin seçileceği hastanın durumuna ve anevrizmanın özelliklerine göre belirlenir."
-    - question: "Aort anevrizması önlenebilir mi?"
-      answer: "Aort anevrizması gelişim riskini azaltmak için sigarayı bırakmak en önemli adımdır. Hipertansiyon kontrolü, kolesterol düşürücü tedavi, sağlıklı beslenme, düzenli egzersiz ve kilo kontrolü riski azaltır. Ailede anevrizma öyküsü olanlar, erkekler, 65 yaş üstü bireyler ve sigara içenler düzenli tarama yaptırmalıdır."
-    - question: "Anevrizma tedavisi sonrası yaşam nasıldır?"
-      answer: "Başarılı bir anevrizma tedavisi sonrası hastalar normal yaşamlarına dönebilirler. EVAR sonrası genellikle birkaç gün içinde taburcu olunur, 1-2 haftada günlük aktivitelere dönülebilir. Açık cerrahi sonrası iyileşme daha uzun sürer (4-6 hafta). Her iki durumda da düzenli takip önemlidir; stent-greft veya greftin durumu, anevrizma boyutları takip edilir. Yaşam tarzı değişiklikleri ve risk faktörü kontrolü sürdürülmelidir."
-    - question: "Torasik aort anevrizması ile abdominal aort anevrizması arasındaki farklar nelerdir?"
-      answer: "Torasik aort anevrizması göğüs boşluğundaki aort segmentini tutar, daha az sıklıkta görülür. Nedenleri arasında ateroskleroz, genetik bağ dokusu hastalıkları (Marfan sendromu, Ehlers-Danlos), travma, enfeksiyon sayılabilir. Abdominal aort anevrizması karın bölgesindeki aortu tutar, daha sık görülür ve genellikle ateroskleroz ile ilişkilidir. Belirtileri, tanı ve tedavi yaklaşımları farklılık gösterir."
+- question: Aort anevrizması nedir ve neden tehlikelidir?
+  answer: Aort anevrizması, vücudun ana atardamarı olan aortun duvarında zayıflama
+    sonucu balonlaşma şeklinde genişlemesidir. Tehlikesi, anevrizmanın yırtılma (rüptür)
+    riski taşımasıdır. Rüptür geliştiğinde iç kanama meydana gelir ve bu durum hayatı
+    tehdit eden acil bir durumdur. Rüptür riski anevrizma çapı arttıkça yükselir.
+- question: Aort anevrizması belirtileri nelerdir?
+  answer: Çoğu aort anevrizması belirti vermez ve tesadüfen saptanır. Büyük anevrizmalarda
+    göğüs veya sırt ağrısı, öksürük, ses kısıklığı, yutma güçlüğü (torasik), karında
+    nabız hissi veya ağrı (abdominal) görülebilir. Rüptür durumunda ani şiddetli ağrı,
+    baş dönmesi, bayılma, şok bulguları acil tıbbi müdahale gerektirir.
+- question: Anevrizma tanısı nasıl konulur?
+  answer: Aort anevrizması tanısı genellikle görüntüleme yöntemleriyle konur. Ultrasonografi
+    tarama ve takipte sıklıkla kullanılır. BT anjiyografi anevrizma boyutunu, şeklini
+    ve ilişkili damar yapılarını detaylı gösterir. MR anjiyografi radyasyon içermez,
+    manyetik rezonans ile görüntüleme sağlar. Ekokardiyografi özellikle torasik aort
+    anevrizmalarını değerlendirmede yardımcıdır.
+- question: Anevrizma ne zaman tedavi edilmelidir?
+  answer: Tedavi kararı anevrizma çapına, büyüme hızına, hastanın semptomlarına ve
+    genel sağlık durumuna bağlıdır. Genellikle abdominal aort anevrizması erkeklerde
+    5.5 cm, kadınlarda 5.0 cm üzerinde veya yılda 0.5 cm'den fazla büyüme gösteriyorsa
+    tedavi önerilir. Torasik aort anevrizmaları için eşik değerler biraz daha farklıdır
+    ve 5.5-6.0 cm civarındadır.
+- question: EVAR ve açık cerrahi arasındaki fark nedir?
+  answer: EVAR (Endovasküler Anevrizma Onarımı) minimal invaziv bir yöntemdir; kasıktan
+    girilerek kateterle stent-greft yerleştirilir. İyileşme süresi kısa, hastanede
+    kalış süresi azdır. Açık cerrahi ise geleneksel yöntemdir; karın veya göğüs açılarak
+    anevrizma bölgesi greft ile değiştirilir. Daha uzun iyileşme süresi vardır ancak
+    bazı anatomik yapılar için daha uygundur. Hangi yöntemin seçileceği hastanın durumuna
+    ve anevrizmanın özelliklerine göre belirlenir.
+- question: Aort anevrizması önlenebilir mi?
+  answer: Aort anevrizması gelişim riskini azaltmak için sigarayı bırakmak en önemli
+    adımdır. Hipertansiyon kontrolü, kolesterol düşürücü tedavi, sağlıklı beslenme,
+    düzenli egzersiz ve kilo kontrolü riski azaltır. Ailede anevrizma öyküsü olanlar,
+    erkekler, 65 yaş üstü bireyler ve sigara içenler düzenli tarama yaptırmalıdır.
+- question: Anevrizma tedavisi sonrası yaşam nasıldır?
+  answer: Başarılı bir anevrizma tedavisi sonrası hastalar normal yaşamlarına dönebilirler.
+    EVAR sonrası genellikle birkaç gün içinde taburcu olunur, 1-2 haftada günlük aktivitelere
+    dönülebilir. Açık cerrahi sonrası iyileşme daha uzun sürer (4-6 hafta). Her iki
+    durumda da düzenli takip önemlidir; stent-greft veya greftin durumu, anevrizma
+    boyutları takip edilir. Yaşam tarzı değişiklikleri ve risk faktörü kontrolü sürdürülmelidir.
+- question: Torasik aort anevrizması ile abdominal aort anevrizması arasındaki farklar
+    nelerdir?
+  answer: Torasik aort anevrizması göğüs boşluğundaki aort segmentini tutar, daha
+    az sıklıkta görülür. Nedenleri arasında ateroskleroz, genetik bağ dokusu hastalıkları
+    (Marfan sendromu, Ehlers-Danlos), travma, enfeksiyon sayılabilir. Abdominal aort
+    anevrizması karın bölgesindeki aortu tutar, daha sık görülür ve genellikle ateroskleroz
+    ile ilişkilidir. Belirtileri, tanı ve tedavi yaklaşımları farklılık gösterir.
 ---
 
 {{< lead >}}

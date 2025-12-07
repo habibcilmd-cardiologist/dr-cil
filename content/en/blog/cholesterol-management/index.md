@@ -1,35 +1,37 @@
 ---
-title: "Cholesterol Management: Causes, Risks, and Treatment of High Cholesterol"
-description: "Comprehensive guide to high cholesterol. Learn about LDL and HDL cholesterol, normal values, risk factors, dietary recommendations, and medication therapy from a cardiology specialist."
+title: 'Cholesterol Management: Causes, Risks, and Treatment of High Cholesterol'
+description: Comprehensive guide to high cholesterol. Learn about LDL and HDL cholesterol,
+  normal values, risk factors, dietary recommendations, and medication therapy from
+  a cardiology specialist.
 date: 2024-11-15
 lastmod: 2024-12-03
-translationKey: "cholesterol-management"
-categories: ["Heart Diseases"]
+translationKey: cholesterol-management
+categories:
+- Heart Diseases
 tags:
-    [
-        "cholesterol",
-        "LDL",
-        "HDL",
-        "hyperlipidemia",
-        "statin",
-        "heart health",
-        "cardiovascular risk",
-    ]
-author: "Assoc. Prof. Dr. Habib ÇİL"
+- Heart Health & Living
+- Hypertension & Cholesterol
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Will I need cholesterol medication for life?"
-      answer: "In most patients, yes. When cholesterol medications are stopped, levels rise again. However, with lifestyle changes, doses may be reduced in some patients."
-    - question: "What should I do if statins cause muscle pain?"
-      answer: "Consult your doctor. Dose reduction, medication change, or alternative treatments can be tried. Don't stop medication on your own."
-    - question: "Can I eat eggs?"
-      answer: "Yes, but in moderation. One egg daily is safe for most people. The effect of dietary cholesterol varies from person to person."
-    - question: "Do cholesterol-lowering supplements work?"
-      answer: "Some (red yeast rice, plant sterols) may have mild effects, but don't replace medication therapy. Don't use without consulting your doctor."
-    - question: "Is cholesterol screening necessary in children?"
-      answer: "If there's family history or risk factors like obesity or diabetes, screening is recommended from age 2."
-    - question: "How can I increase HDL?"
-      answer: "Exercise, weight loss, quitting smoking, and healthy fats (olive oil, fish) increase HDL. HDL increase with medications is limited."
+- question: Will I need cholesterol medication for life?
+  answer: In most patients, yes. When cholesterol medications are stopped, levels
+    rise again. However, with lifestyle changes, doses may be reduced in some patients.
+- question: What should I do if statins cause muscle pain?
+  answer: Consult your doctor. Dose reduction, medication change, or alternative treatments
+    can be tried. Don't stop medication on your own.
+- question: Can I eat eggs?
+  answer: Yes, but in moderation. One egg daily is safe for most people. The effect
+    of dietary cholesterol varies from person to person.
+- question: Do cholesterol-lowering supplements work?
+  answer: Some (red yeast rice, plant sterols) may have mild effects, but don't replace
+    medication therapy. Don't use without consulting your doctor.
+- question: Is cholesterol screening necessary in children?
+  answer: If there's family history or risk factors like obesity or diabetes, screening
+    is recommended from age 2.
+- question: How can I increase HDL?
+  answer: Exercise, weight loss, quitting smoking, and healthy fats (olive oil, fish)
+    increase HDL. HDL increase with medications is limited.
 ---
 
 {{< lead >}}

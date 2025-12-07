@@ -1,42 +1,60 @@
 ---
-title: "TAVI Tedavisi: Minimal İnvaziv Aort Kapak Değişimi"
-description: "TAVI (Transkateter Aort Kapak İmplantasyonu) ile açık kalp ameliyatı olmadan aort kapak hastalıklarının tedavisi. Prosedür, avantajlar ve sonuçlar hakkında detaylı bilgi."
+title: 'TAVI Tedavisi: Minimal İnvaziv Aort Kapak Değişimi'
+description: TAVI (Transkateter Aort Kapak İmplantasyonu) ile açık kalp ameliyatı
+  olmadan aort kapak hastalıklarının tedavisi. Prosedür, avantajlar ve sonuçlar hakkında
+  detaylı bilgi.
 date: 2024-12-05
 lastmod: 2024-12-05
 draft: false
-translationKey: "tavi-treatment"
+translationKey: tavi-treatment
 categories:
-    - "Kardiyoloji"
+- Kardiyoloji
 tags:
-    - "TAVI"
-    - "Transkateter Aort Kapak İmplantasyonu"
-    - "Aort Kapak Darlığı"
-    - "Minimal İnvaziv Kalp Cerrahisi"
-    - "Aort Stenozu"
-    - "Kapak Hastalıkları"
-    - "TAVR"
-    - "Kalp Kapağı Değişimi"
-    - "Aort Kapak Tedavisi"
-author: "Doç. Dr. Habib ÇİL"
-featured_image: "featured.svg"
+- Kalp Kapak Hastalıkları
+author: Doç. Dr. Habib ÇİL
+featured_image: featured.svg
 showTableOfContents: true
 faq:
-    - question: "TAVI ameliyatı ağrılı mı?"
-      answer: "Hayır, TAVI işlemi sırasında hasta sedasyon altında olduğu için ağrı hissetmez. İşlem sonrası giriş yerinde hafif bir rahatsızlık veya morarma olabilir, ancak bu genellikle ağrı kesicilerle kolayca kontrol altına alınır. Açık kalp ameliyatındaki gibi büyük bir kesi ağrısı olmaz."
-    - question: "TAVI sonrası ne kadar hastanede kalırım?"
-      answer: "Hastalar genellikle TAVI işleminden sonra 1 ila 3 gün içinde taburcu olmaya hazır hale gelir. Bu süre, hastanın genel durumuna ve işlem sonrası seyrine göre değişebilir."
-    - question: "TAVI kapağı ne kadar dayanır?"
-      answer: "Mevcut klinik veriler, TAVI kapaklarının en az 10-15 yıl boyunca iyi çalıştığını göstermektedir. Teknoloji geliştikçe ve yeni nesil kapaklar kullanıldıkça bu sürenin daha da uzaması beklenmektedir. Kapak fonksiyonları yıllık ekokardiyografi kontrolleri ile takip edilir."
-    - question: "TAVI her yaşta uygulanabilir mi?"
-      answer: "TAVI için kesin bir yaş sınırı yoktur. Karar, hastanın biyolojik yaşına, genel sağlık durumuna ve cerrahi risklerine göre verilir. Genellikle ileri yaştaki hastalar için tercih edilse de, orta ve hatta düşük riskli daha genç hastalarda da uygun bir seçenek olabilir."
-    - question: "TAVI sonrası kalp piline neden ihtiyaç duyulur?"
-      answer: "Yeni kapak, kalbin kendi elektriksel ileti sistemine yakın bir yere yerleştirilir. Bazen bu yerleşim, ileti sistemine baskı yaparak kalp atışlarında yavaşlamaya (ileti bloğuna) neden olabilir. Bu durum kalıcı hale gelirse, kalp hızını düzenlemek için bir kalp piline ihtiyaç duyulabilir. Bu risk yaklaşık %5-15 arasındadır."
-    - question: "TAVI sonrası ne zaman normal hayatıma dönebilirim?"
-      answer: "Çoğu hasta 1-2 hafta içinde araba kullanmak, alışveriş yapmak gibi normal günlük aktivitelerine dönebilir. Daha yorucu aktiviteler ve spor için doktorunuzun onayını beklemeniz önerilir. İyileşme süreci açık kalp ameliyatına göre çok daha hızlıdır."
-    - question: "TAVI için kullanılan kapaklar metal midir?"
-      answer: "Hayır, TAVI kapakları biyolojiktir. Genellikle sığır veya domuz perikardından (kalp zarı) yapılmış yaprakçıklar, nikel-titanyum (nitinol) veya kobalt-krom alaşımlı bir stent (metal kafes) üzerine monte edilir. Bu kapaklar metalik kapaklar gibi ses çıkarmaz ve genellikle ömür boyu kan sulandırıcı (Coumadin gibi) kullanımını gerektirmez."
-    - question: "Aort darlığı ilaçla tedavi edilemez mi?"
-      answer: "Hayır. Aort darlığı mekanik bir problemdir, yani kapağın fiziksel olarak daralmasıdır. İlaçlar, kalp yetmezliği semptomlarını hafifletmeye veya tansiyonu düzenlemeye yardımcı olabilir, ancak daralmış kapağı açamazlar. Ciddi aort darlığının tek etkili tedavisi, kapağın değiştirilmesidir (cerrahi veya TAVI ile)."
+- question: TAVI ameliyatı ağrılı mı?
+  answer: Hayır, TAVI işlemi sırasında hasta sedasyon altında olduğu için ağrı hissetmez.
+    İşlem sonrası giriş yerinde hafif bir rahatsızlık veya morarma olabilir, ancak
+    bu genellikle ağrı kesicilerle kolayca kontrol altına alınır. Açık kalp ameliyatındaki
+    gibi büyük bir kesi ağrısı olmaz.
+- question: TAVI sonrası ne kadar hastanede kalırım?
+  answer: Hastalar genellikle TAVI işleminden sonra 1 ila 3 gün içinde taburcu olmaya
+    hazır hale gelir. Bu süre, hastanın genel durumuna ve işlem sonrası seyrine göre
+    değişebilir.
+- question: TAVI kapağı ne kadar dayanır?
+  answer: Mevcut klinik veriler, TAVI kapaklarının en az 10-15 yıl boyunca iyi çalıştığını
+    göstermektedir. Teknoloji geliştikçe ve yeni nesil kapaklar kullanıldıkça bu sürenin
+    daha da uzaması beklenmektedir. Kapak fonksiyonları yıllık ekokardiyografi kontrolleri
+    ile takip edilir.
+- question: TAVI her yaşta uygulanabilir mi?
+  answer: TAVI için kesin bir yaş sınırı yoktur. Karar, hastanın biyolojik yaşına,
+    genel sağlık durumuna ve cerrahi risklerine göre verilir. Genellikle ileri yaştaki
+    hastalar için tercih edilse de, orta ve hatta düşük riskli daha genç hastalarda
+    da uygun bir seçenek olabilir.
+- question: TAVI sonrası kalp piline neden ihtiyaç duyulur?
+  answer: Yeni kapak, kalbin kendi elektriksel ileti sistemine yakın bir yere yerleştirilir.
+    Bazen bu yerleşim, ileti sistemine baskı yaparak kalp atışlarında yavaşlamaya
+    (ileti bloğuna) neden olabilir. Bu durum kalıcı hale gelirse, kalp hızını düzenlemek
+    için bir kalp piline ihtiyaç duyulabilir. Bu risk yaklaşık %5-15 arasındadır.
+- question: TAVI sonrası ne zaman normal hayatıma dönebilirim?
+  answer: Çoğu hasta 1-2 hafta içinde araba kullanmak, alışveriş yapmak gibi normal
+    günlük aktivitelerine dönebilir. Daha yorucu aktiviteler ve spor için doktorunuzun
+    onayını beklemeniz önerilir. İyileşme süreci açık kalp ameliyatına göre çok daha
+    hızlıdır.
+- question: TAVI için kullanılan kapaklar metal midir?
+  answer: Hayır, TAVI kapakları biyolojiktir. Genellikle sığır veya domuz perikardından
+    (kalp zarı) yapılmış yaprakçıklar, nikel-titanyum (nitinol) veya kobalt-krom alaşımlı
+    bir stent (metal kafes) üzerine monte edilir. Bu kapaklar metalik kapaklar gibi
+    ses çıkarmaz ve genellikle ömür boyu kan sulandırıcı (Coumadin gibi) kullanımını
+    gerektirmez.
+- question: Aort darlığı ilaçla tedavi edilemez mi?
+  answer: Hayır. Aort darlığı mekanik bir problemdir, yani kapağın fiziksel olarak
+    daralmasıdır. İlaçlar, kalp yetmezliği semptomlarını hafifletmeye veya tansiyonu
+    düzenlemeye yardımcı olabilir, ancak daralmış kapağı açamazlar. Ciddi aort darlığının
+    tek etkili tedavisi, kapağın değiştirilmesidir (cerrahi veya TAVI ile).
 ---
 
 {{< lead >}}

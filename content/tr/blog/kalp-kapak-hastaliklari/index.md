@@ -1,34 +1,39 @@
 ---
-title: "Kalp Kapak Hastalıkları: Belirtileri, Tanısı ve Tedavisi"
-description: "Kalp kapak hastalıkları hakkında kapsamlı rehber. Aort darlığı, mitral yetmezliği, kapak değişimi ve onarımı. Belirtiler, tanı yöntemleri ve modern tedavi seçenekleri."
+title: 'Kalp Kapak Hastalıkları: Belirtileri, Tanısı ve Tedavisi'
+description: Kalp kapak hastalıkları hakkında kapsamlı rehber. Aort darlığı, mitral
+  yetmezliği, kapak değişimi ve onarımı. Belirtiler, tanı yöntemleri ve modern tedavi
+  seçenekleri.
 date: 2024-10-20
 lastmod: 2024-12-03
-translationKey: "heart-valve-diseases"
-categories: ["Kalp Hastalıkları"]
+translationKey: heart-valve-diseases
+categories:
+- Kalp Hastalıkları
 tags:
-    [
-        "kalp kapağı",
-        "aort darlığı",
-        "mitral yetmezliği",
-        "kapak değişimi",
-        "TAVI",
-        "kardiyoloji",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Kalp Kapak Hastalıkları
+- kardiyoloji
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Kapak hastalığı olan herkes ameliyat olmalı mı?"
-      answer: "Hayır. Hafif-orta dereceli kapak hastalıkları ilaç tedavisi ve takiple yönetilebilir. Ameliyat, ciddi hastalık ve belirtiler olduğunda gerekir."
-    - question: "Mekanik kapak mı biyolojik kapak mı tercih edilmeli?"
-      answer: "Yaş, yaşam tarzı ve antikoagülan kullanabilme durumuna göre değişir. Genç hastalarda mekanik, yaşlı hastalarda biyolojik kapak tercih edilir. Kararı doktorunuzla birlikte verin."
-    - question: "TAVI ameliyattan daha mı güvenli?"
-      answer: "TAVI, yüksek riskli hastalarda açık ameliyata göre daha güvenlidir. Ancak düşük riskli genç hastalarda cerrahi hala altın standarttır. Risk değerlendirmesi bireysel yapılmalıdır."
-    - question: "Kapak ameliyatı sonrası normal yaşama dönebilir miyim?"
-      answer: "Evet! Çoğu hasta ameliyat sonrası 6-12 hafta içinde normal aktivitelerine döner. Düzenli takip ve ilaç uyumu önemlidir."
-    - question: "Protez kapak ne kadar dayanır?"
-      answer: "Mekanik kapaklar 20-30 yıl veya daha fazla dayanır. Biyolojik kapaklar 10-20 yıl dayanır ve sonra değişim gerekebilir."
-    - question: "Kapak hastalığı kalıtsal mıdır?"
-      answer: "Bazı kapak hastalıkları (biküspit aort kapağı, mitral kapak prolapsusu) genetik yatkınlık gösterir. Ailede kapak hastalığı varsa tarama önerilir."
+- question: Kapak hastalığı olan herkes ameliyat olmalı mı?
+  answer: Hayır. Hafif-orta dereceli kapak hastalıkları ilaç tedavisi ve takiple yönetilebilir.
+    Ameliyat, ciddi hastalık ve belirtiler olduğunda gerekir.
+- question: Mekanik kapak mı biyolojik kapak mı tercih edilmeli?
+  answer: Yaş, yaşam tarzı ve antikoagülan kullanabilme durumuna göre değişir. Genç
+    hastalarda mekanik, yaşlı hastalarda biyolojik kapak tercih edilir. Kararı doktorunuzla
+    birlikte verin.
+- question: TAVI ameliyattan daha mı güvenli?
+  answer: TAVI, yüksek riskli hastalarda açık ameliyata göre daha güvenlidir. Ancak
+    düşük riskli genç hastalarda cerrahi hala altın standarttır. Risk değerlendirmesi
+    bireysel yapılmalıdır.
+- question: Kapak ameliyatı sonrası normal yaşama dönebilir miyim?
+  answer: Evet! Çoğu hasta ameliyat sonrası 6-12 hafta içinde normal aktivitelerine
+    döner. Düzenli takip ve ilaç uyumu önemlidir.
+- question: Protez kapak ne kadar dayanır?
+  answer: Mekanik kapaklar 20-30 yıl veya daha fazla dayanır. Biyolojik kapaklar 10-20
+    yıl dayanır ve sonra değişim gerekebilir.
+- question: Kapak hastalığı kalıtsal mıdır?
+  answer: Bazı kapak hastalıkları (biküspit aort kapağı, mitral kapak prolapsusu)
+    genetik yatkınlık gösterir. Ailede kapak hastalığı varsa tarama önerilir.
 ---
 
 {{< lead >}}

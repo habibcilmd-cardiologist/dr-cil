@@ -1,42 +1,79 @@
 ---
-title: "Cardiac Rehabilitation - Improving Quality of Life After Heart Disease"
-description: "Cardiac rehabilitation program in Istanbul. Assoc. Prof. Dr. Habib Çil provides post-heart attack, angioplasty, and cardiac surgery recovery. Exercise and lifestyle modifications. Avrasya Hospital."
+title: Cardiac Rehabilitation - Improving Quality of Life After Heart Disease
+description: Cardiac rehabilitation program in Istanbul. Assoc. Prof. Dr. Habib Çil
+  provides post-heart attack, angioplasty, and cardiac surgery recovery. Exercise
+  and lifestyle modifications. Avrasya Hospital.
 date: 2024-12-05
 lastmod: 2024-12-05
 draft: false
-author: "Assoc. Prof. Dr. Habib ÇİL"
-categories: ["Cardiology"]
+author: Assoc. Prof. Dr. Habib ÇİL
+categories:
+- Cardiology
 tags:
-    [
-        "cardiac rehabilitation",
-        "post-heart attack",
-        "exercise program",
-        "quality of life",
-        "heart health",
-    ]
-translationKey: "cardiac-rehabilitation"
+- Heart Health & Living
+translationKey: cardiac-rehabilitation
 showTableOfContents: true
 faq:
-    - question: "What is cardiac rehabilitation and why is it important?"
-      answer: "Cardiac rehabilitation is a comprehensive program that supports the physical, psychological, and social recovery of patients who have experienced heart disease. It includes supervised exercise, nutritional counseling, risk factor management, and psychological support. Research shows that patients participating in cardiac rehabilitation have a 25-30% reduction in mortality risk, improved quality of life, and decreased hospitalizations."
-    - question: "How long does a cardiac rehabilitation program last?"
-      answer: "A standard cardiac rehabilitation program typically lasts 12 weeks with 2-3 sessions per week, totaling 36 sessions. However, program duration can be personalized based on the patient's condition, progress rate, and individual needs. Some patients may continue the program longer or transition to a home-based program."
-    - question: "Which patients should undergo cardiac rehabilitation?"
-      answer: "Cardiac rehabilitation is indicated for patients after heart attack (myocardial infarction), angioplasty and stent placement, coronary bypass surgery, heart valve surgery, heart failure, heart transplant, TAVI, MitraClip procedures, and patients with stable angina pectoris. It can also be used preventively in individuals with high cardiac risk factors."
-    - question: "Is cardiac rehabilitation safe?"
-      answer: "Yes, cardiac rehabilitation is very safe. The program is conducted in a supervised environment by experienced healthcare professionals. Heart rhythm, blood pressure, and oxygen saturation are continuously monitored during exercise. Emergency equipment is readily available. The risk of serious complications is very low (less than 1 in 100,000 sessions). The benefits far outweigh the risks."
-    - question: "What exercises are performed in cardiac rehabilitation?"
-      answer: "The program includes aerobic exercises (treadmill, bicycle, elliptical), resistance exercises (light weights, elastic bands), and flexibility and balance exercises. Exercises are personalized according to the patient's cardiac function, physical capacity, and goals. Starting at low intensity, they are gradually increased. Each session consists of warm-up, main exercise, and cool-down phases."
-    - question: "Can I exercise at home or must I attend a center?"
-      answer: "Ideally, the first 12 weeks should be center-based supervised program. However, for those unable to attend due to geographic distance, transportation issues, or pandemic, home-based hybrid programs are available. Home programs also include regular follow-up, telerehabilitation, and periodic check-ups. However, center-based programs are preferred for high-risk patients."
-    - question: "Should I continue exercising after cardiac rehabilitation?"
-      answer: "Absolutely yes! After completing the cardiac rehabilitation program, you should continue regular exercise for life to maintain the benefits gained. At least 150 minutes of moderate-intensity aerobic exercise per week and resistance exercise 2 days per week are recommended. Many patients join local fitness centers, walking groups, or continue their exercise routine at home."
-    - question: "Does cardiac rehabilitation consist only of exercise?"
-      answer: "No, cardiac rehabilitation is a multifaceted program. In addition to exercise training, it includes nutritional counseling, smoking cessation support, stress management, medication adherence education, risk factor control (diabetes, hypertension, cholesterol), psychological support, and patient education. This holistic approach supports not only physical but also emotional and social recovery."
-    - question: "Can elderly patients participate in cardiac rehabilitation?"
-      answer: "Yes, age is not a barrier to cardiac rehabilitation. Research shows that elderly patients benefit from the program as much as younger patients. The program is adapted to the special needs of elderly patients. Age-specific issues such as fall risk, muscle loss, and balance problems are considered. Maintaining functional independence is particularly important in elderly patients."
-    - question: "What is the cost of cardiac rehabilitation and does insurance cover it?"
-      answer: "In Turkey, SGK (Social Security Institution) and private health insurance cover cardiac rehabilitation. SGK pays for a certain number of sessions. Private insurance varies according to policy terms. Cardiac rehabilitation is a cost-effective treatment as it reduces hospitalizations and complications in the long term. The benefits of the program far exceed its cost."
+- question: What is cardiac rehabilitation and why is it important?
+  answer: Cardiac rehabilitation is a comprehensive program that supports the physical,
+    psychological, and social recovery of patients who have experienced heart disease.
+    It includes supervised exercise, nutritional counseling, risk factor management,
+    and psychological support. Research shows that patients participating in cardiac
+    rehabilitation have a 25-30% reduction in mortality risk, improved quality of
+    life, and decreased hospitalizations.
+- question: How long does a cardiac rehabilitation program last?
+  answer: A standard cardiac rehabilitation program typically lasts 12 weeks with
+    2-3 sessions per week, totaling 36 sessions. However, program duration can be
+    personalized based on the patient's condition, progress rate, and individual needs.
+    Some patients may continue the program longer or transition to a home-based program.
+- question: Which patients should undergo cardiac rehabilitation?
+  answer: Cardiac rehabilitation is indicated for patients after heart attack (myocardial
+    infarction), angioplasty and stent placement, coronary bypass surgery, heart valve
+    surgery, heart failure, heart transplant, TAVI, MitraClip procedures, and patients
+    with stable angina pectoris. It can also be used preventively in individuals with
+    high cardiac risk factors.
+- question: Is cardiac rehabilitation safe?
+  answer: Yes, cardiac rehabilitation is very safe. The program is conducted in a
+    supervised environment by experienced healthcare professionals. Heart rhythm,
+    blood pressure, and oxygen saturation are continuously monitored during exercise.
+    Emergency equipment is readily available. The risk of serious complications is
+    very low (less than 1 in 100,000 sessions). The benefits far outweigh the risks.
+- question: What exercises are performed in cardiac rehabilitation?
+  answer: The program includes aerobic exercises (treadmill, bicycle, elliptical),
+    resistance exercises (light weights, elastic bands), and flexibility and balance
+    exercises. Exercises are personalized according to the patient's cardiac function,
+    physical capacity, and goals. Starting at low intensity, they are gradually increased.
+    Each session consists of warm-up, main exercise, and cool-down phases.
+- question: Can I exercise at home or must I attend a center?
+  answer: Ideally, the first 12 weeks should be center-based supervised program. However,
+    for those unable to attend due to geographic distance, transportation issues,
+    or pandemic, home-based hybrid programs are available. Home programs also include
+    regular follow-up, telerehabilitation, and periodic check-ups. However, center-based
+    programs are preferred for high-risk patients.
+- question: Should I continue exercising after cardiac rehabilitation?
+  answer: Absolutely yes! After completing the cardiac rehabilitation program, you
+    should continue regular exercise for life to maintain the benefits gained. At
+    least 150 minutes of moderate-intensity aerobic exercise per week and resistance
+    exercise 2 days per week are recommended. Many patients join local fitness centers,
+    walking groups, or continue their exercise routine at home.
+- question: Does cardiac rehabilitation consist only of exercise?
+  answer: No, cardiac rehabilitation is a multifaceted program. In addition to exercise
+    training, it includes nutritional counseling, smoking cessation support, stress
+    management, medication adherence education, risk factor control (diabetes, hypertension,
+    cholesterol), psychological support, and patient education. This holistic approach
+    supports not only physical but also emotional and social recovery.
+- question: Can elderly patients participate in cardiac rehabilitation?
+  answer: Yes, age is not a barrier to cardiac rehabilitation. Research shows that
+    elderly patients benefit from the program as much as younger patients. The program
+    is adapted to the special needs of elderly patients. Age-specific issues such
+    as fall risk, muscle loss, and balance problems are considered. Maintaining functional
+    independence is particularly important in elderly patients.
+- question: What is the cost of cardiac rehabilitation and does insurance cover it?
+  answer: In Turkey, SGK (Social Security Institution) and private health insurance
+    cover cardiac rehabilitation. SGK pays for a certain number of sessions. Private
+    insurance varies according to policy terms. Cardiac rehabilitation is a cost-effective
+    treatment as it reduces hospitalizations and complications in the long term. The
+    benefits of the program far exceed its cost.
 ---
 
 {{< lead >}}

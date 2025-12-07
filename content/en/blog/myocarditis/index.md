@@ -1,41 +1,48 @@
 ---
-title: "What is Myocarditis? Symptoms, Causes, and Treatment"
-description: "Comprehensive guide to Myocarditis (heart muscle inflammation). Learn about the silent danger of myocarditis, its symptoms, viral causes, diagnosis, and recovery process from a cardiology specialist."
+title: What is Myocarditis? Symptoms, Causes, and Treatment
+description: Comprehensive guide to Myocarditis (heart muscle inflammation). Learn
+  about the silent danger of myocarditis, its symptoms, viral causes, diagnosis, and
+  recovery process from a cardiology specialist.
 date: 2024-12-07
 lastmod: 2024-12-07
-translationKey: "myocarditis"
-categories: ["Heart Diseases"]
+translationKey: myocarditis
+categories:
+- Heart Diseases
 tags:
-    [
-        "myocarditis",
-        "heart inflammation",
-        "chest pain",
-        "shortness of breath",
-        "palpitations",
-        "cardiology",
-        "heart failure",
-        "viral infection",
-        "sudden cardiac death",
-    ]
-author: "Assoc. Prof. Dr. Habib ÇİL"
+- Coronary Artery Disease
+- Heart Failure
+- Heart Inflammation
+- Heart Rhythm Disorders
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Does myocarditis go away completely?"
-      answer: "Most cases of myocarditis, especially mild ones, resolve completely with appropriate rest and treatment, leaving no permanent damage. However, some severe cases can lead to lasting heart failure."
-    - question: "Is myocarditis contagious?"
-      answer: "Myocarditis itself is not contagious. However, the viruses that cause it (like the flu or Coxsackie) are contagious. Thus, preventing infection is key."
-    - question: "How long should I rest?"
-      answer: "Patients diagnosed with myocarditis are generally advised to avoid sports and strenuous physical activity for 3-6 months. This duration is determined based on follow-up tests by a cardiologist."
-    - question: "Can myocarditis recur?"
-      answer: "Although rare, myocarditis can recur. The risk of recurrence might be higher if there is an underlying autoimmune condition."
-    - question: "Do vaccines cause myocarditis?"
-      answer: "Myocarditis can be a very rare side effect of some vaccines (e.g., COVID-19 mRNA vaccines), but the risk is significantly lower than the risk of heart damage caused by the disease (COVID-19 infection) itself."
-    - question: "Who is most at risk?"
-      answer: "Myocarditis can affect people of all ages but is most frequently observed in otherwise healthy young adults and males."
-    - question: "How is it different from a heart attack?"
-      answer: "The symptoms (chest pain, shortness of breath) are very similar. Differentiation requires ECG, blood tests (troponin), and especially Cardiac MRI."
-    - question: "Is diet important for recovery?"
-      answer: "Yes. A heart-healthy, low-salt diet rich in vegetables and fruits supports the recovery process and reduces the workload on the heart."
+- question: Does myocarditis go away completely?
+  answer: Most cases of myocarditis, especially mild ones, resolve completely with
+    appropriate rest and treatment, leaving no permanent damage. However, some severe
+    cases can lead to lasting heart failure.
+- question: Is myocarditis contagious?
+  answer: Myocarditis itself is not contagious. However, the viruses that cause it
+    (like the flu or Coxsackie) are contagious. Thus, preventing infection is key.
+- question: How long should I rest?
+  answer: Patients diagnosed with myocarditis are generally advised to avoid sports
+    and strenuous physical activity for 3-6 months. This duration is determined based
+    on follow-up tests by a cardiologist.
+- question: Can myocarditis recur?
+  answer: Although rare, myocarditis can recur. The risk of recurrence might be higher
+    if there is an underlying autoimmune condition.
+- question: Do vaccines cause myocarditis?
+  answer: Myocarditis can be a very rare side effect of some vaccines (e.g., COVID-19
+    mRNA vaccines), but the risk is significantly lower than the risk of heart damage
+    caused by the disease (COVID-19 infection) itself.
+- question: Who is most at risk?
+  answer: Myocarditis can affect people of all ages but is most frequently observed
+    in otherwise healthy young adults and males.
+- question: How is it different from a heart attack?
+  answer: The symptoms (chest pain, shortness of breath) are very similar. Differentiation
+    requires ECG, blood tests (troponin), and especially Cardiac MRI.
+- question: Is diet important for recovery?
+  answer: Yes. A heart-healthy, low-salt diet rich in vegetables and fruits supports
+    the recovery process and reduces the workload on the heart.
 ---
 
 {{< lead >}}

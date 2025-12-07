@@ -1,47 +1,99 @@
 ---
-title: "Heart Transplant & LVAD: End-Stage Heart Failure Treatments"
-description: "What are heart transplant and LVAD (left ventricular assist device)? Comprehensive guide on current approaches, success rates, life expectancy, and treatment options for end-stage heart failure."
+title: 'Heart Transplant & LVAD: End-Stage Heart Failure Treatments'
+description: What are heart transplant and LVAD (left ventricular assist device)?
+  Comprehensive guide on current approaches, success rates, life expectancy, and treatment
+  options for end-stage heart failure.
 date: 2024-12-05
 lastmod: 2024-12-05
-translationKey: "heart-transplant-lvad"
-categories: ["Cardiology", "Cardiac Surgery"]
+translationKey: heart-transplant-lvad
+categories:
+- Cardiology
+- Cardiac Surgery
 tags:
-    [
-        "heart transplant",
-        "LVAD",
-        "left ventricular assist device",
-        "artificial heart",
-        "end-stage heart failure",
-        "heart transplantation",
-        "mechanical circulatory support",
-        "heart failure treatment",
-        "cardiac transplant",
-        "ventricular assist device",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Heart Failure
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
-featured: "featured.svg"
+featured: featured.svg
 faq:
-    - question: "Who is eligible for a heart transplant?"
-      answer: "Heart transplant is performed for patients with advanced (end-stage) heart failure who do not respond to medication and other treatment options. Generally, patients under 65 with expected life expectancy less than 1 year, severe functional limitations (NYHA Class III-IV), and no other major organ failure may be candidates. Conditions such as liver, kidney, lung failure, active cancer, or uncontrolled infection are contraindications for transplantation."
-    - question: "What is LVAD and how does it work?"
-      answer: "LVAD (Left Ventricular Assist Device) is a mechanical device that supports the pumping function of the heart. It takes blood from the left ventricle and pumps it into the aorta, thus reducing the heart's workload. There are two main types: temporary support for patients awaiting transplant (bridge-to-transplant) and permanent support for patients not eligible for transplant (destination therapy). The device consists of two parts: internal (inside the body) and external (outside the body). The internal part is surgically connected to the heart and major vessels, while the external part contains the battery and controller."
-    - question: "Which is better: heart transplant or LVAD?"
-      answer: "This decision is made based on the patient's age, overall health, status on the transplant waiting list, and personal preferences. Heart transplant generally offers longer life expectancy and better quality of life but requires waiting for an organ and lifelong immunosuppressive medication. LVAD can be applied earlier and does not require waiting for an organ but has risks of device dependence, infection, bleeding, and stroke. Transplant is preferred for young patients without other health problems, while LVAD is considered for patients not eligible for transplant or whose condition deteriorates while waiting for an organ."
-    - question: "What is life like after heart transplant?"
-      answer: "After a successful heart transplant, patients can return to normal life. The first year requires regular check-ups and medication adjustments. Patients can usually return to daily activities within 3-6 months and to work within 6-12 months. They can exercise regularly, drive, and travel. However, they must take immunosuppressive drugs for life, protect themselves from infections, and attend regular cardiology follow-ups. Sexual life usually returns to normal, and female patients can become pregnant under doctor's supervision."
-    - question: "Can I live a normal life with an LVAD?"
-      answer: "Yes, most LVAD patients can return home, perform light to moderate activities, drive, and participate in social life. However, it is important to monitor battery life, watch for signs of infection, and attend regular check-ups. Water activities such as swimming and bathing are usually restricted. Magnetic fields (MRI machines, strong magnets) should be avoided. The device's noise may be bothersome for some patients, but newer generation devices operate more quietly."
-    - question: "What is the risk of death while waiting for a heart transplant?"
-      answer: "The risk of death for patients on the transplant waiting list depends on the severity of heart failure and the time to organ availability. The risk is higher for patients in intensive care, requiring intravenous medications or mechanical support devices. Mechanical support devices like LVAD can reduce this risk. In Turkey, the average waiting time varies between 6-24 months, and factors such as blood type and body size affect waiting time. Priority is given to emergency patients."
-    - question: "What is the risk of rejection after heart transplant?"
-      answer: "Rejection reaction occurs when the body's immune system recognizes the transplanted heart as foreign and attacks it. It is most common within the first year. Acute cellular rejection can usually be controlled with immunosuppressive drugs. Chronic rejection (cardiac allograft vasculopathy) may develop in the long term and cause narrowing of the vessels, impairing the function of the transplanted heart. Regular endomyocardial biopsy and echocardiography can detect rejection early. Appropriate drug therapy reduces rejection risk."
-    - question: "What are the complications of LVAD?"
-      answer: "The main complications of LVAD include: Bleeding (especially in the gastrointestinal tract), infection (device, driveline, or thoracotomy site), stroke (due to clot formation), device failure or thrombosis, right heart failure, arrhythmias, and driveline tear. Thromboembolic events are less common with newer generation continuous-flow LVADs. To reduce complication risk, blood thinners are used, infection control is emphasized, and regular device checks are performed."
-    - question: "How long do heart transplant patients live?"
-      answer: "Survival rates after heart transplant are continuously improving. According to current data, 1-year survival after transplant is 85-90%, 5-year survival is 70-75%, and 10-year survival is around 50-55%. The longest-living transplant patients have survived over 30 years. Factors affecting survival include recipient age, pre-transplant condition, donor heart characteristics, immunosuppressive medication adherence, and rejection episodes. Regular follow-up and healthy lifestyle can extend life expectancy."
-    - question: "Can I get pregnant with an LVAD?"
-      answer: "Pregnancy in LVAD patients is rare and high-risk. During pregnancy, blood volume increases, cardiac output rises, and clotting tendency changes. These changes can affect LVAD function and increase bleeding and thromboembolism risk. Additionally, medications used (such as warfarin) may have fetal effects. If pregnancy is planned in an LVAD patient, close monitoring by a multidisciplinary team (cardiologist, obstetrician, hematologist) is required. Most centers do not recommend pregnancy in LVAD patients."
+- question: Who is eligible for a heart transplant?
+  answer: Heart transplant is performed for patients with advanced (end-stage) heart
+    failure who do not respond to medication and other treatment options. Generally,
+    patients under 65 with expected life expectancy less than 1 year, severe functional
+    limitations (NYHA Class III-IV), and no other major organ failure may be candidates.
+    Conditions such as liver, kidney, lung failure, active cancer, or uncontrolled
+    infection are contraindications for transplantation.
+- question: What is LVAD and how does it work?
+  answer: 'LVAD (Left Ventricular Assist Device) is a mechanical device that supports
+    the pumping function of the heart. It takes blood from the left ventricle and
+    pumps it into the aorta, thus reducing the heart''s workload. There are two main
+    types: temporary support for patients awaiting transplant (bridge-to-transplant)
+    and permanent support for patients not eligible for transplant (destination therapy).
+    The device consists of two parts: internal (inside the body) and external (outside
+    the body). The internal part is surgically connected to the heart and major vessels,
+    while the external part contains the battery and controller.'
+- question: 'Which is better: heart transplant or LVAD?'
+  answer: This decision is made based on the patient's age, overall health, status
+    on the transplant waiting list, and personal preferences. Heart transplant generally
+    offers longer life expectancy and better quality of life but requires waiting
+    for an organ and lifelong immunosuppressive medication. LVAD can be applied earlier
+    and does not require waiting for an organ but has risks of device dependence,
+    infection, bleeding, and stroke. Transplant is preferred for young patients without
+    other health problems, while LVAD is considered for patients not eligible for
+    transplant or whose condition deteriorates while waiting for an organ.
+- question: What is life like after heart transplant?
+  answer: After a successful heart transplant, patients can return to normal life.
+    The first year requires regular check-ups and medication adjustments. Patients
+    can usually return to daily activities within 3-6 months and to work within 6-12
+    months. They can exercise regularly, drive, and travel. However, they must take
+    immunosuppressive drugs for life, protect themselves from infections, and attend
+    regular cardiology follow-ups. Sexual life usually returns to normal, and female
+    patients can become pregnant under doctor's supervision.
+- question: Can I live a normal life with an LVAD?
+  answer: Yes, most LVAD patients can return home, perform light to moderate activities,
+    drive, and participate in social life. However, it is important to monitor battery
+    life, watch for signs of infection, and attend regular check-ups. Water activities
+    such as swimming and bathing are usually restricted. Magnetic fields (MRI machines,
+    strong magnets) should be avoided. The device's noise may be bothersome for some
+    patients, but newer generation devices operate more quietly.
+- question: What is the risk of death while waiting for a heart transplant?
+  answer: The risk of death for patients on the transplant waiting list depends on
+    the severity of heart failure and the time to organ availability. The risk is
+    higher for patients in intensive care, requiring intravenous medications or mechanical
+    support devices. Mechanical support devices like LVAD can reduce this risk. In
+    Turkey, the average waiting time varies between 6-24 months, and factors such
+    as blood type and body size affect waiting time. Priority is given to emergency
+    patients.
+- question: What is the risk of rejection after heart transplant?
+  answer: Rejection reaction occurs when the body's immune system recognizes the transplanted
+    heart as foreign and attacks it. It is most common within the first year. Acute
+    cellular rejection can usually be controlled with immunosuppressive drugs. Chronic
+    rejection (cardiac allograft vasculopathy) may develop in the long term and cause
+    narrowing of the vessels, impairing the function of the transplanted heart. Regular
+    endomyocardial biopsy and echocardiography can detect rejection early. Appropriate
+    drug therapy reduces rejection risk.
+- question: What are the complications of LVAD?
+  answer: 'The main complications of LVAD include: Bleeding (especially in the gastrointestinal
+    tract), infection (device, driveline, or thoracotomy site), stroke (due to clot
+    formation), device failure or thrombosis, right heart failure, arrhythmias, and
+    driveline tear. Thromboembolic events are less common with newer generation continuous-flow
+    LVADs. To reduce complication risk, blood thinners are used, infection control
+    is emphasized, and regular device checks are performed.'
+- question: How long do heart transplant patients live?
+  answer: Survival rates after heart transplant are continuously improving. According
+    to current data, 1-year survival after transplant is 85-90%, 5-year survival is
+    70-75%, and 10-year survival is around 50-55%. The longest-living transplant patients
+    have survived over 30 years. Factors affecting survival include recipient age,
+    pre-transplant condition, donor heart characteristics, immunosuppressive medication
+    adherence, and rejection episodes. Regular follow-up and healthy lifestyle can
+    extend life expectancy.
+- question: Can I get pregnant with an LVAD?
+  answer: Pregnancy in LVAD patients is rare and high-risk. During pregnancy, blood
+    volume increases, cardiac output rises, and clotting tendency changes. These changes
+    can affect LVAD function and increase bleeding and thromboembolism risk. Additionally,
+    medications used (such as warfarin) may have fetal effects. If pregnancy is planned
+    in an LVAD patient, close monitoring by a multidisciplinary team (cardiologist,
+    obstetrician, hematologist) is required. Most centers do not recommend pregnancy
+    in LVAD patients.
 ---
 
 {{< lead >}}

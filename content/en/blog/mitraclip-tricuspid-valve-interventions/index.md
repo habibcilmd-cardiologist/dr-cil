@@ -1,42 +1,75 @@
 ---
-title: "MitraClip and Tricuspid Valve Interventions - Minimally Invasive Valve Treatment"
-description: "MitraClip and tricuspid valve interventions in Istanbul. Assoc. Prof. Dr. Habib Çil treats mitral and tricuspid regurgitation. Minimally invasive catheter method. Avrasya Hospital."
+title: MitraClip and Tricuspid Valve Interventions - Minimally Invasive Valve Treatment
+description: MitraClip and tricuspid valve interventions in Istanbul. Assoc. Prof.
+  Dr. Habib Çil treats mitral and tricuspid regurgitation. Minimally invasive catheter
+  method. Avrasya Hospital.
 date: 2024-12-05
 lastmod: 2024-12-05
 draft: false
-author: "Assoc. Prof. Dr. Habib ÇİL"
-categories: ["Interventional Cardiology"]
+author: Assoc. Prof. Dr. Habib ÇİL
+categories:
+- Interventional Cardiology
 tags:
-    [
-        "mitraclip",
-        "tricuspid valve",
-        "mitral regurgitation",
-        "catheter treatment",
-        "minimally invasive valve treatment",
-    ]
-translationKey: "mitraclip-tricuspid-interventions"
+- Heart Valve Diseases
+translationKey: mitraclip-tricuspid-interventions
 showTableOfContents: true
 faq:
-    - question: "Is MitraClip surgery or a catheter procedure?"
-      answer: "MitraClip is not open-heart surgery. It is a minimally invasive procedure performed via catheter through the groin. It is done under general anesthesia but does not require opening the chest or using a heart-lung machine. Therefore, recovery time is much shorter and complication risk is lower."
-    - question: "How long does MitraClip procedure take and how long is hospital stay?"
-      answer: "MitraClip procedure typically takes 2-4 hours. Hospital stay is 1-3 days for uncomplicated cases. Considering that open-heart surgery requires 7-10 days of hospitalization, this is a significant advantage. Most patients can walk 24-48 hours after the procedure."
-    - question: "Is tricuspid valve regurgitation dangerous?"
-      answer: "Severe tricuspid regurgitation can lead to right heart failure and significantly reduce quality of life. It causes symptoms such as leg swelling, fluid accumulation in the abdomen, liver enlargement, and fatigue. If left untreated, hospitalizations increase and survival decreases. Early diagnosis and appropriate treatment can prevent these complications."
-    - question: "Which patients are suitable for MitraClip?"
-      answer: "MitraClip is performed on patients with severe mitral regurgitation who are at high risk for open-heart surgery. It is an ideal option for patients at high surgical risk due to advanced age, low heart function, comorbidities, or previous heart surgeries. Additionally, valve anatomy must be suitable."
-    - question: "When can I return to normal life after MitraClip?"
-      answer: "Most patients can return to daily activities within 1-2 weeks. Light exercise can begin after 1 week, heavy lifting and intense exercise after 4-6 weeks. Since this period is 2-3 months for open-heart surgery, MitraClip provides a significant advantage. However, each patient's recovery process is different."
-    - question: "What methods are used for tricuspid valve interventions?"
-      answer: "Catheter methods such as TriClip, PASCAL, and Cardioband have been developed for tricuspid regurgitation. These methods are applied minimally invasively similar to MitraClip. Although not yet as widespread as MitraClip, they show promising results especially in patients at high surgical risk. Method selection is based on patient anatomy and clinical condition."
-    - question: "What is the success rate of MitraClip procedure?"
-      answer: "The technical success rate of MitraClip procedure is 80-90%. In most patients, mitral regurgitation is significantly reduced and symptoms improve. Quality of life increases, hospitalizations decrease, and survival advantage is provided in some patient groups. Success rate is even higher in experienced centers and with appropriate patient selection."
-    - question: "What are the risks of MitraClip procedure?"
-      answer: "Since MitraClip is a minimally invasive procedure, complication risk is low. Possible risks include clip detachment (2-3%), mitral stenosis formation, vascular complications, bleeding, and infection. Serious complications are rare and risk is even lower in experienced centers. Risks are minimized with detailed pre-procedure evaluation."
-    - question: "Do I need to continue medication after MitraClip?"
-      answer: "Yes, heart failure medications should be continued after MitraClip. Blood thinners are used for the first 3-6 months after the procedure. Additionally, heart failure medications such as ACE inhibitors, beta blockers, and diuretics are optimized. Medication therapy and MitraClip together provide the best results. Medication changes should be made under doctor supervision."
-    - question: "Can tricuspid valve regurgitation resolve on its own?"
-      answer: "Functional (secondary) tricuspid regurgitation may decrease if the underlying cause is treated. For example, if mitral valve disease is corrected or heart failure treatment is optimized, tricuspid regurgitation may also improve. However, severe and long-standing regurgitation is usually permanent and requires treatment. Early intervention provides better results."
+- question: Is MitraClip surgery or a catheter procedure?
+  answer: MitraClip is not open-heart surgery. It is a minimally invasive procedure
+    performed via catheter through the groin. It is done under general anesthesia
+    but does not require opening the chest or using a heart-lung machine. Therefore,
+    recovery time is much shorter and complication risk is lower.
+- question: How long does MitraClip procedure take and how long is hospital stay?
+  answer: MitraClip procedure typically takes 2-4 hours. Hospital stay is 1-3 days
+    for uncomplicated cases. Considering that open-heart surgery requires 7-10 days
+    of hospitalization, this is a significant advantage. Most patients can walk 24-48
+    hours after the procedure.
+- question: Is tricuspid valve regurgitation dangerous?
+  answer: Severe tricuspid regurgitation can lead to right heart failure and significantly
+    reduce quality of life. It causes symptoms such as leg swelling, fluid accumulation
+    in the abdomen, liver enlargement, and fatigue. If left untreated, hospitalizations
+    increase and survival decreases. Early diagnosis and appropriate treatment can
+    prevent these complications.
+- question: Which patients are suitable for MitraClip?
+  answer: MitraClip is performed on patients with severe mitral regurgitation who
+    are at high risk for open-heart surgery. It is an ideal option for patients at
+    high surgical risk due to advanced age, low heart function, comorbidities, or
+    previous heart surgeries. Additionally, valve anatomy must be suitable.
+- question: When can I return to normal life after MitraClip?
+  answer: Most patients can return to daily activities within 1-2 weeks. Light exercise
+    can begin after 1 week, heavy lifting and intense exercise after 4-6 weeks. Since
+    this period is 2-3 months for open-heart surgery, MitraClip provides a significant
+    advantage. However, each patient's recovery process is different.
+- question: What methods are used for tricuspid valve interventions?
+  answer: Catheter methods such as TriClip, PASCAL, and Cardioband have been developed
+    for tricuspid regurgitation. These methods are applied minimally invasively similar
+    to MitraClip. Although not yet as widespread as MitraClip, they show promising
+    results especially in patients at high surgical risk. Method selection is based
+    on patient anatomy and clinical condition.
+- question: What is the success rate of MitraClip procedure?
+  answer: The technical success rate of MitraClip procedure is 80-90%. In most patients,
+    mitral regurgitation is significantly reduced and symptoms improve. Quality of
+    life increases, hospitalizations decrease, and survival advantage is provided
+    in some patient groups. Success rate is even higher in experienced centers and
+    with appropriate patient selection.
+- question: What are the risks of MitraClip procedure?
+  answer: Since MitraClip is a minimally invasive procedure, complication risk is
+    low. Possible risks include clip detachment (2-3%), mitral stenosis formation,
+    vascular complications, bleeding, and infection. Serious complications are rare
+    and risk is even lower in experienced centers. Risks are minimized with detailed
+    pre-procedure evaluation.
+- question: Do I need to continue medication after MitraClip?
+  answer: Yes, heart failure medications should be continued after MitraClip. Blood
+    thinners are used for the first 3-6 months after the procedure. Additionally,
+    heart failure medications such as ACE inhibitors, beta blockers, and diuretics
+    are optimized. Medication therapy and MitraClip together provide the best results.
+    Medication changes should be made under doctor supervision.
+- question: Can tricuspid valve regurgitation resolve on its own?
+  answer: Functional (secondary) tricuspid regurgitation may decrease if the underlying
+    cause is treated. For example, if mitral valve disease is corrected or heart failure
+    treatment is optimized, tricuspid regurgitation may also improve. However, severe
+    and long-standing regurgitation is usually permanent and requires treatment. Early
+    intervention provides better results.
 ---
 
 {{< lead >}}

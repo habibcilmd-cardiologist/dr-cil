@@ -1,38 +1,57 @@
 ---
-title: "Cardiac Arrhythmias: Types, Symptoms and Treatment"
-description: "What are cardiac arrhythmias? Learn about tachycardia, bradycardia, atrial fibrillation symptoms, diagnosis and treatment methods."
+title: 'Cardiac Arrhythmias: Types, Symptoms and Treatment'
+description: What are cardiac arrhythmias? Learn about tachycardia, bradycardia, atrial
+  fibrillation symptoms, diagnosis and treatment methods.
 date: 2024-12-03
 lastmod: 2024-12-03
-translationKey: "cardiac-arrhythmias"
-categories: ["Cardiology"]
+translationKey: cardiac-arrhythmias
+categories:
+- Cardiology
 tags:
-    [
-        "arrhythmia",
-        "cardiac rhythm disorder",
-        "tachycardia",
-        "bradycardia",
-        "pacemaker",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Heart Rhythm Disorders
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
-featured: "featured.svg"
+featured: featured.svg
 faq:
-    - question: "Is every palpitation dangerous?"
-      answer: "No, most palpitations are harmless. Conditions like stress, caffeine, exercise, or anxiety can cause temporary palpitations. However, palpitations that are frequent, prolonged, or accompanied by fainting or chest pain should always be evaluated."
-    - question: "Is atrial fibrillation life-threatening?"
-      answer: "AF is not directly life-threatening, but its complications can be serious. The most important risk is clots forming in the atria traveling to the brain and causing stroke. Therefore, blood thinner therapy is very important in appropriate patients. Additionally, uncontrolled AF can lead to heart failure over time."
-    - question: "Can I live normally after getting a pacemaker?"
-      answer: "Yes, the vast majority of patients with pacemakers can lead normal, active lives. Although there are some restrictions (MRI machines, strong magnetic fields), daily activities and even sports are generally possible. Regular check-ups and device monitoring are important."
-    - question: "How effective is ablation therapy?"
-      answer: "Ablation success varies by arrhythmia type. In SVTs (AVNRT, AVRT), success rate is 95-98% and permanent cure is usually achieved in a single session. In AF ablation, success is around 70-80% and sometimes multiple procedures may be needed."
-    - question: "Are arrhythmias hereditary?"
-      answer: "Some arrhythmias are associated with genetic predisposition. Conditions like Long QT syndrome, Brugada syndrome, and hypertrophic cardiomyopathy can run in families. If there's a family history of sudden death or arrhythmia at a young age, genetic screening may be recommended."
-    - question: "Can coffee and alcohol cause arrhythmias?"
-      answer: "Excessive caffeine and alcohol consumption can trigger arrhythmias. Alcohol is particularly an important trigger in AF patients. Coffee may cause palpitations in some people depending on individual sensitivity. Moderate consumption is generally recommended."
-    - question: "Does an ICD shock hurt?"
-      answer: "Yes, ICD shock is felt and some patients describe it as a strong kick or electric shock. However, this shock is life-saving and terminates ventricular fibrillation. Device programming and medication therapy are optimized to prevent inappropriate shocks."
-    - question: "How is arrhythmia treated during pregnancy?"
-      answer: "Arrhythmia treatment during pregnancy requires special attention. Most antiarrhythmic drugs carry risk for the fetus. Beta blockers are relatively safe. Anticoagulation in AF requires special protocols. Ablation is generally postponed until before or after pregnancy. Each case should be evaluated individually."
+- question: Is every palpitation dangerous?
+  answer: No, most palpitations are harmless. Conditions like stress, caffeine, exercise,
+    or anxiety can cause temporary palpitations. However, palpitations that are frequent,
+    prolonged, or accompanied by fainting or chest pain should always be evaluated.
+- question: Is atrial fibrillation life-threatening?
+  answer: AF is not directly life-threatening, but its complications can be serious.
+    The most important risk is clots forming in the atria traveling to the brain and
+    causing stroke. Therefore, blood thinner therapy is very important in appropriate
+    patients. Additionally, uncontrolled AF can lead to heart failure over time.
+- question: Can I live normally after getting a pacemaker?
+  answer: Yes, the vast majority of patients with pacemakers can lead normal, active
+    lives. Although there are some restrictions (MRI machines, strong magnetic fields),
+    daily activities and even sports are generally possible. Regular check-ups and
+    device monitoring are important.
+- question: How effective is ablation therapy?
+  answer: Ablation success varies by arrhythmia type. In SVTs (AVNRT, AVRT), success
+    rate is 95-98% and permanent cure is usually achieved in a single session. In
+    AF ablation, success is around 70-80% and sometimes multiple procedures may be
+    needed.
+- question: Are arrhythmias hereditary?
+  answer: Some arrhythmias are associated with genetic predisposition. Conditions
+    like Long QT syndrome, Brugada syndrome, and hypertrophic cardiomyopathy can run
+    in families. If there's a family history of sudden death or arrhythmia at a young
+    age, genetic screening may be recommended.
+- question: Can coffee and alcohol cause arrhythmias?
+  answer: Excessive caffeine and alcohol consumption can trigger arrhythmias. Alcohol
+    is particularly an important trigger in AF patients. Coffee may cause palpitations
+    in some people depending on individual sensitivity. Moderate consumption is generally
+    recommended.
+- question: Does an ICD shock hurt?
+  answer: Yes, ICD shock is felt and some patients describe it as a strong kick or
+    electric shock. However, this shock is life-saving and terminates ventricular
+    fibrillation. Device programming and medication therapy are optimized to prevent
+    inappropriate shocks.
+- question: How is arrhythmia treated during pregnancy?
+  answer: Arrhythmia treatment during pregnancy requires special attention. Most antiarrhythmic
+    drugs carry risk for the fetus. Beta blockers are relatively safe. Anticoagulation
+    in AF requires special protocols. Ablation is generally postponed until before
+    or after pregnancy. Each case should be evaluated individually.
 ---
 
 {{< lead >}}

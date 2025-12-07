@@ -1,37 +1,51 @@
 ---
-title: "Kardiyomiyopati Nedir? Türleri, Belirtileri ve Tedavi Yöntemleri"
-description: "Kardiyomiyopati hakkında kapsamlı rehber. Kalp kası hastalığının türleri, belirtileri, tanı yöntemleri ve modern tedavi seçenekleri. Kardiyoloji uzmanından bilgiler."
+title: Kardiyomiyopati Nedir? Türleri, Belirtileri ve Tedavi Yöntemleri
+description: Kardiyomiyopati hakkında kapsamlı rehber. Kalp kası hastalığının türleri,
+  belirtileri, tanı yöntemleri ve modern tedavi seçenekleri. Kardiyoloji uzmanından
+  bilgiler.
 date: 2024-12-03
 lastmod: 2024-12-03
-translationKey: "cardiomyopathy"
-categories: ["Kardiyoloji"]
+translationKey: cardiomyopathy
+categories:
+- Kardiyoloji
 tags:
-    [
-        "kardiyomiyopati",
-        "kalp kası hastalığı",
-        "dilate kardiyomiyopati",
-        "hipertrofik kardiyomiyopati",
-        "kalp yetmezliği",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Kalp Yetmezliği
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Kardiyomiyopati iyileşir mi?"
-      answer: "Bazı türler düzelebilir. Takotsubo kardiyomiyopatisi genellikle birkaç hafta içinde iyileşir. Alkolik kardiyomiyopatide alkol bırakıldığında kalp fonksiyonu düzelebilir. Ancak HKM ve genetik kökenli kardiyomiyopatiler genellikle kalıcıdır ve yaşam boyu izlem gerektirir."
-    - question: "Kardiyomiyopati kalıtsal mıdır?"
-      answer: "Bazı türler genetik geçişlidir. HKM vakalarının %60-70'i, DKM vakalarının %30-40'ı genetik kökenlidir. Ailede kardiyomiyopati öyküsü varsa, birinci derece akrabaların taranması önerilir."
-    - question: "Kardiyomiyopati ile spor yapabilir miyim?"
-      answer: "Duruma bağlıdır. HKM'li hastalarda yarışmacı sporlar önerilmez. DKM'li hastalar doktor kontrolünde hafif-orta şiddette egzersiz yapabilir. Her hastanın egzersiz kapasitesi bireysel olarak değerlendirilmelidir."
-    - question: "Kardiyomiyopati hamileliği etkiler mi?"
-      answer: "Evet, kardiyomiyopati hamilelikte risk oluşturur. Gebelik kalp üzerindeki yükü artırır. Hamilelik öncesi kardiyoloji değerlendirmesi şarttır. Bazı kardiyomiyopatilerde gebelik kontrendike olabilir."
-    - question: "Ne zaman ICD takılması gerekir?"
-      answer: "ICD, ani kalp ölümü riski yüksek hastalarda takılır. DKM'de ejeksiyon fraksiyonu %35'in altındaysa, HKM'de yüksek risk skorları varsa veya daha önce hayatı tehdit eden aritmi geçirildiyse ICD düşünülür."
-    - question: "Kardiyomiyopatide kalp nakli ne zaman gerekir?"
-      answer: "Son dönem kalp yetmezliğinde, ilaç tedavisine yanıt alınamadığında ve diğer tedavi seçenekleri tükendiğinde kalp nakli değerlendirilir. Nakil değerlendirmesi için ileri kalp yetmezliği merkezlerine yönlendirme yapılır."
-    - question: "Genetik test yaptırmalı mıyım?"
-      answer: "Ailede kardiyomiyopati öyküsü varsa veya tanı konduysa genetik test önerilir. Genetik danışmanlık, test öncesi ve sonrası süreçte yol gösterici olur. Pozitif sonuçlarda aile taraması planlanır."
-    - question: "Kardiyomiyopati ile ne kadar yaşayabilirim?"
-      answer: "Prognoz kardiyomiyopati türüne, evresine ve tedaviye yanıta bağlıdır. Modern tedavilerle birçok hasta yıllarca kaliteli yaşam sürdürebilir. Düzenli takip ve tedaviye uyum hayatta kalımı önemli ölçüde artırır."
+- question: Kardiyomiyopati iyileşir mi?
+  answer: Bazı türler düzelebilir. Takotsubo kardiyomiyopatisi genellikle birkaç hafta
+    içinde iyileşir. Alkolik kardiyomiyopatide alkol bırakıldığında kalp fonksiyonu
+    düzelebilir. Ancak HKM ve genetik kökenli kardiyomiyopatiler genellikle kalıcıdır
+    ve yaşam boyu izlem gerektirir.
+- question: Kardiyomiyopati kalıtsal mıdır?
+  answer: Bazı türler genetik geçişlidir. HKM vakalarının %60-70'i, DKM vakalarının
+    %30-40'ı genetik kökenlidir. Ailede kardiyomiyopati öyküsü varsa, birinci derece
+    akrabaların taranması önerilir.
+- question: Kardiyomiyopati ile spor yapabilir miyim?
+  answer: Duruma bağlıdır. HKM'li hastalarda yarışmacı sporlar önerilmez. DKM'li hastalar
+    doktor kontrolünde hafif-orta şiddette egzersiz yapabilir. Her hastanın egzersiz
+    kapasitesi bireysel olarak değerlendirilmelidir.
+- question: Kardiyomiyopati hamileliği etkiler mi?
+  answer: Evet, kardiyomiyopati hamilelikte risk oluşturur. Gebelik kalp üzerindeki
+    yükü artırır. Hamilelik öncesi kardiyoloji değerlendirmesi şarttır. Bazı kardiyomiyopatilerde
+    gebelik kontrendike olabilir.
+- question: Ne zaman ICD takılması gerekir?
+  answer: ICD, ani kalp ölümü riski yüksek hastalarda takılır. DKM'de ejeksiyon fraksiyonu
+    %35'in altındaysa, HKM'de yüksek risk skorları varsa veya daha önce hayatı tehdit
+    eden aritmi geçirildiyse ICD düşünülür.
+- question: Kardiyomiyopatide kalp nakli ne zaman gerekir?
+  answer: Son dönem kalp yetmezliğinde, ilaç tedavisine yanıt alınamadığında ve diğer
+    tedavi seçenekleri tükendiğinde kalp nakli değerlendirilir. Nakil değerlendirmesi
+    için ileri kalp yetmezliği merkezlerine yönlendirme yapılır.
+- question: Genetik test yaptırmalı mıyım?
+  answer: Ailede kardiyomiyopati öyküsü varsa veya tanı konduysa genetik test önerilir.
+    Genetik danışmanlık, test öncesi ve sonrası süreçte yol gösterici olur. Pozitif
+    sonuçlarda aile taraması planlanır.
+- question: Kardiyomiyopati ile ne kadar yaşayabilirim?
+  answer: Prognoz kardiyomiyopati türüne, evresine ve tedaviye yanıta bağlıdır. Modern
+    tedavilerle birçok hasta yıllarca kaliteli yaşam sürdürebilir. Düzenli takip ve
+    tedaviye uyum hayatta kalımı önemli ölçüde artırır.
 ---
 
 {{< lead >}}

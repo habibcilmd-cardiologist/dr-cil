@@ -1,41 +1,49 @@
 ---
-title: "Miyokardit (Kalp Kası İltihabı) Nedir? Belirtileri, Nedenleri ve Tedavisi"
-description: "Miyokardit (kalp kası iltihabı) hakkında kapsamlı rehber. Gizli tehlike miyokarditin belirtileri, nedenleri, tanı yöntemleri ve güncel tedavi seçeneklerini Kardiyoloji Uzmanından öğrenin."
+title: Miyokardit (Kalp Kası İltihabı) Nedir? Belirtileri, Nedenleri ve Tedavisi
+description: Miyokardit (kalp kası iltihabı) hakkında kapsamlı rehber. Gizli tehlike
+  miyokarditin belirtileri, nedenleri, tanı yöntemleri ve güncel tedavi seçeneklerini
+  Kardiyoloji Uzmanından öğrenin.
 date: 2024-12-07
 lastmod: 2024-12-07
-translationKey: "myocarditis"
-categories: ["Kalp Hastalıkları"]
+translationKey: myocarditis
+categories:
+- Kalp Hastalıkları
 tags:
-    [
-        "miyokardit",
-        "kalp kası iltihabı",
-        "kalp romatizması",
-        "nefes darlığı",
-        "göğüs ağrısı",
-        "çarpıntı",
-        "kardiyoloji",
-        "kalp yetmezliği",
-        "viral enfeksiyon",
-    ]
-author: "Doç. Dr. Habib ÇİL"
+- Kalp Ritim Bozuklukları
+- Kalp Yetmezliği
+- Kalp İltihabı
+- Koroner Arter Hastalığı
+- kardiyoloji
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Miyokardit tamamen iyileşir mi?"
-      answer: "Çoğu miyokardit vakası, özellikle hafif olanlar, uygun dinlenme ve tedavi ile tamamen iyileşir ve kalıcı hasar bırakmaz. Ancak bazı şiddetli vakalarda kalıcı kalp yetmezliği gelişebilir."
-    - question: "Miyokardit bulaşıcı mıdır?"
-      answer: "Miyokarditin kendisi bulaşıcı değildir. Ancak miyokardite neden olan virüsler (grip gibi) bulaşıcı olabilir. Bu nedenle enfeksiyonlardan korunmak önemlidir."
-    - question: "Ne kadar süre dinlenmeliyim?"
-      answer: "Miyokardit tanısı alan hastaların spora ve ağır fiziksel aktiviteye dönüşü genellikle 3-6 ay sürebilir. Bu süre, kardiyolog kontrolünde yapılan testlere göre belirlenir."
-    - question: "Miyokardit tekrar eder mi?"
-      answer: "Nadir de olsa miyokardit tekrarlayabilir. Özellikle altta yatan bir otoimmün hastalık varsa nüks riski daha yüksek olabilir."
-    - question: "Aşılar miyokardit yapar mı?"
-      answer: "Bazı aşıların (örn. COVID-19) çok nadir yan etkisi olarak miyokardit görülebilir, ancak bu risk, hastalığın kendisinin (COVID-19 enfeksiyonunun) neden olduğu kalp hasarı riskinden çok daha düşüktür."
-    - question: "Hangi yaşlarda görülür?"
-      answer: "Miyokardit her yaşta görülebilir, ancak sıklıkla sağlıklı genç yetişkinleri ve erkekleri daha fazla etkiler."
-    - question: "Miyokardit kalp krizinden nasıl ayırt edilir?"
-      answer: "Belirtileri çok benzer (göğüs ağrısı, nefes darlığı). Ayırt etmek için EKG, kan testleri (troponin) ve özellikle Kalp MR'ı gibi ileri tetkikler gerekir."
-    - question: "Beslenme tedavide önemli mi?"
-      answer: "Evet. Kalp sağlığını destekleyen, tuzu kısıtlanmış, sebze ve meyve ağırlıklı bir diyet iyileşme sürecini destekler ve kalp yükünü hafifletir."
+- question: Miyokardit tamamen iyileşir mi?
+  answer: Çoğu miyokardit vakası, özellikle hafif olanlar, uygun dinlenme ve tedavi
+    ile tamamen iyileşir ve kalıcı hasar bırakmaz. Ancak bazı şiddetli vakalarda kalıcı
+    kalp yetmezliği gelişebilir.
+- question: Miyokardit bulaşıcı mıdır?
+  answer: Miyokarditin kendisi bulaşıcı değildir. Ancak miyokardite neden olan virüsler
+    (grip gibi) bulaşıcı olabilir. Bu nedenle enfeksiyonlardan korunmak önemlidir.
+- question: Ne kadar süre dinlenmeliyim?
+  answer: Miyokardit tanısı alan hastaların spora ve ağır fiziksel aktiviteye dönüşü
+    genellikle 3-6 ay sürebilir. Bu süre, kardiyolog kontrolünde yapılan testlere
+    göre belirlenir.
+- question: Miyokardit tekrar eder mi?
+  answer: Nadir de olsa miyokardit tekrarlayabilir. Özellikle altta yatan bir otoimmün
+    hastalık varsa nüks riski daha yüksek olabilir.
+- question: Aşılar miyokardit yapar mı?
+  answer: Bazı aşıların (örn. COVID-19) çok nadir yan etkisi olarak miyokardit görülebilir,
+    ancak bu risk, hastalığın kendisinin (COVID-19 enfeksiyonunun) neden olduğu kalp
+    hasarı riskinden çok daha düşüktür.
+- question: Hangi yaşlarda görülür?
+  answer: Miyokardit her yaşta görülebilir, ancak sıklıkla sağlıklı genç yetişkinleri
+    ve erkekleri daha fazla etkiler.
+- question: Miyokardit kalp krizinden nasıl ayırt edilir?
+  answer: Belirtileri çok benzer (göğüs ağrısı, nefes darlığı). Ayırt etmek için EKG,
+    kan testleri (troponin) ve özellikle Kalp MR'ı gibi ileri tetkikler gerekir.
+- question: Beslenme tedavide önemli mi?
+  answer: Evet. Kalp sağlığını destekleyen, tuzu kısıtlanmış, sebze ve meyve ağırlıklı
+    bir diyet iyileşme sürecini destekler ve kalp yükünü hafifletir.
 ---
 
 {{< lead >}}

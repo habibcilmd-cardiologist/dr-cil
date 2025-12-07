@@ -1,49 +1,77 @@
 ---
-title: "What is Diabetic Foot? Symptoms, Treatment, and Prevention Methods"
-description: "Comprehensive guide to diabetic foot. Interventional cardiology for limb salvage, endovascular treatment, revascularization procedures. Symptoms, treatment methods, and amputation risk reduction strategies."
+title: What is Diabetic Foot? Symptoms, Treatment, and Prevention Methods
+description: Comprehensive guide to diabetic foot. Interventional cardiology for limb
+  salvage, endovascular treatment, revascularization procedures. Symptoms, treatment
+  methods, and amputation risk reduction strategies.
 date: 2024-12-05
 lastmod: 2024-12-05
-translationKey: "diabetic-foot"
-categories: ["Cardiology"]
+translationKey: diabetic-foot
+categories:
+- Cardiology
 tags:
-    [
-        "diabetic foot",
-        "diabetes complications",
-        "foot ulcer",
-        "peripheral neuropathy",
-        "vascular disease",
-        "amputation prevention",
-        "interventional cardiology",
-        "endovascular treatment",
-        "limb salvage",
-        "revascularization",
-        "balloon angioplasty",
-        "stent",
-        "peripheral artery disease",
-    ]
-author: "Assoc. Prof. Dr. Habib ÇİL"
+- Coronary Artery Disease
+- Peripheral Vascular Disease
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
 faq:
-    - question: "Does diabetic foot completely heal?"
-      answer: "Diabetic foot can completely heal if caught early and treated appropriately. However, complete healing may be difficult in advanced cases. The most important point is preventing complications through blood sugar control, regular foot care, and early intervention. The treatment process varies depending on the patient's general condition, wound depth, and presence of infection."
-    - question: "How do I recognize a diabetic foot wound?"
-      answer: "Due to nerve damage in diabetic feet, pain sensation may be reduced, so wounds may go unnoticed. Check your feet daily for redness, swelling, increased warmth, color changes, calluses, blisters, cuts, or cracks. Use a mirror to check the bottom of your feet. If you notice any changes, contact your doctor immediately."
-    - question: "What shoes should I wear with diabetic foot?"
-      answer: "Choose soft, flexible, wide-toed shoes. Shoes should not squeeze, rub, or create pressure points on your feet. Shoes made of leather or breathable materials are ideal. Avoid high heels, narrow-toed, or hard shoes. Break in new shoes gradually. Special diabetic shoes or orthopedic insoles may be needed."
-    - question: "Why is foot care so important in diabetes?"
-      answer: "Diabetes causes both nerve damage (neuropathy) and vascular damage (vasculopathy). Nerve damage reduces pain sensation, so minor injuries go unnoticed. Vascular damage impairs wound healing and increases infection risk. The combination of these two factors means even a small wound can lead to serious infection, gangrene, and amputation. Regular foot care significantly reduces these risks."
-    - question: "How serious is diabetic foot infection?"
-      answer: "Diabetic foot infections can be very serious and progress rapidly. Infection can spread to bone (osteomyelitis), enter the bloodstream (sepsis), and become life-threatening. Diabetic foot infections are more severe than in non-diabetic patients and more difficult to treat. Early diagnosis and aggressive treatment are vital. Symptoms like fever, chills, foul odor from wound, increased redness and swelling require emergency intervention."
-    - question: "How does blood sugar control affect foot health?"
-      answer: "Good blood sugar control is the most critical factor in preventing diabetic foot complications. High blood sugar accelerates nerve damage, weakens the immune system, impairs wound healing, and increases infection risk. HbA1c should be kept below 7%. Good control can be achieved through regular blood sugar monitoring, medication compliance, and lifestyle changes."
-    - question: "What is the amputation risk in diabetic foot?"
-      answer: "Diabetes is the most common cause of non-traumatic lower extremity amputations. However, 85% of amputations are preventable! Amputation risk can be significantly reduced through early diagnosis, regular foot examinations, proper foot care, good blood sugar control, and risk factor management. When wounds develop, early and aggressive treatment is critically important."
-    - question: "How often should I see a doctor for diabetic foot?"
-      answer: "Control frequency varies based on your risk level. Low-risk patients should have at least annual checks, moderate-risk patients every 3-6 months, high-risk patients (with previous wound or amputation history) every 1-3 months. More frequent follow-up is needed if there's an active wound. If you notice any changes, wounds, or signs of infection, contact your doctor immediately."
-    - question: "Why is smoking dangerous in diabetic foot?"
-      answer: "Smoking severely increases vascular damage, reduces blood flow, and impairs wound healing. Amputation risk is 2-3 times higher in diabetic patients who smoke. Smoking also increases infection risk and reduces treatment response. Quitting smoking is absolutely necessary for patients at risk of diabetic foot. Support programs and medication treatments are available for smoking cessation."
-    - question: "How should I care for diabetic foot at home?"
-      answer: "Wash your feet daily with lukewarm water (not hot!), dry gently, especially between toes. Apply moisturizing cream but not between toes. Cut nails straight, don't round corners. Wear thick socks, preferably seamless. Don't walk barefoot. Check your feet daily. Don't try to cut calluses yourself, seek professional help."
+- question: Does diabetic foot completely heal?
+  answer: Diabetic foot can completely heal if caught early and treated appropriately.
+    However, complete healing may be difficult in advanced cases. The most important
+    point is preventing complications through blood sugar control, regular foot care,
+    and early intervention. The treatment process varies depending on the patient's
+    general condition, wound depth, and presence of infection.
+- question: How do I recognize a diabetic foot wound?
+  answer: Due to nerve damage in diabetic feet, pain sensation may be reduced, so
+    wounds may go unnoticed. Check your feet daily for redness, swelling, increased
+    warmth, color changes, calluses, blisters, cuts, or cracks. Use a mirror to check
+    the bottom of your feet. If you notice any changes, contact your doctor immediately.
+- question: What shoes should I wear with diabetic foot?
+  answer: Choose soft, flexible, wide-toed shoes. Shoes should not squeeze, rub, or
+    create pressure points on your feet. Shoes made of leather or breathable materials
+    are ideal. Avoid high heels, narrow-toed, or hard shoes. Break in new shoes gradually.
+    Special diabetic shoes or orthopedic insoles may be needed.
+- question: Why is foot care so important in diabetes?
+  answer: Diabetes causes both nerve damage (neuropathy) and vascular damage (vasculopathy).
+    Nerve damage reduces pain sensation, so minor injuries go unnoticed. Vascular
+    damage impairs wound healing and increases infection risk. The combination of
+    these two factors means even a small wound can lead to serious infection, gangrene,
+    and amputation. Regular foot care significantly reduces these risks.
+- question: How serious is diabetic foot infection?
+  answer: Diabetic foot infections can be very serious and progress rapidly. Infection
+    can spread to bone (osteomyelitis), enter the bloodstream (sepsis), and become
+    life-threatening. Diabetic foot infections are more severe than in non-diabetic
+    patients and more difficult to treat. Early diagnosis and aggressive treatment
+    are vital. Symptoms like fever, chills, foul odor from wound, increased redness
+    and swelling require emergency intervention.
+- question: How does blood sugar control affect foot health?
+  answer: Good blood sugar control is the most critical factor in preventing diabetic
+    foot complications. High blood sugar accelerates nerve damage, weakens the immune
+    system, impairs wound healing, and increases infection risk. HbA1c should be kept
+    below 7%. Good control can be achieved through regular blood sugar monitoring,
+    medication compliance, and lifestyle changes.
+- question: What is the amputation risk in diabetic foot?
+  answer: Diabetes is the most common cause of non-traumatic lower extremity amputations.
+    However, 85% of amputations are preventable! Amputation risk can be significantly
+    reduced through early diagnosis, regular foot examinations, proper foot care,
+    good blood sugar control, and risk factor management. When wounds develop, early
+    and aggressive treatment is critically important.
+- question: How often should I see a doctor for diabetic foot?
+  answer: Control frequency varies based on your risk level. Low-risk patients should
+    have at least annual checks, moderate-risk patients every 3-6 months, high-risk
+    patients (with previous wound or amputation history) every 1-3 months. More frequent
+    follow-up is needed if there's an active wound. If you notice any changes, wounds,
+    or signs of infection, contact your doctor immediately.
+- question: Why is smoking dangerous in diabetic foot?
+  answer: Smoking severely increases vascular damage, reduces blood flow, and impairs
+    wound healing. Amputation risk is 2-3 times higher in diabetic patients who smoke.
+    Smoking also increases infection risk and reduces treatment response. Quitting
+    smoking is absolutely necessary for patients at risk of diabetic foot. Support
+    programs and medication treatments are available for smoking cessation.
+- question: How should I care for diabetic foot at home?
+  answer: Wash your feet daily with lukewarm water (not hot!), dry gently, especially
+    between toes. Apply moisturizing cream but not between toes. Cut nails straight,
+    don't round corners. Wear thick socks, preferably seamless. Don't walk barefoot.
+    Check your feet daily. Don't try to cut calluses yourself, seek professional help.
 ---
 
 {{< lead >}}
