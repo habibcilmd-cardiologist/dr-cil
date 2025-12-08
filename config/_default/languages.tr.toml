@@ -25,7 +25,8 @@ contentDir = "content/tr"
     links = [
       { email = "mailto:habibcilmd@gmail.com" },
       { whatsapp = "https://wa.me/905339454639" },
-      { facebook = "https://www.facebook.com/drhabibcil" },
+      { facebook = "https://www.facebook.com/docdrhabibcil/" },
       { instagram = "https://www.instagram.com/doc.dr.habibcil" },
+      { linkedin = "https://www.linkedin.com/in/do%C3%A7-dr-habib-%C3%A7il-988695a3/" },
     ]
 
