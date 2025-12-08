@@ -13,7 +13,7 @@ showAuthor: false
 **Doç. Dr. Habib ÇİL**  
 Avrasya Hospital, Beştelsiz Mah. 101. Sokak No:107  
 Zeytinburnu, İstanbul  
-E-posta: info@drhabibcil.com
+E-posta: habibcilmd@gmail.com
 
 ## Kişisel Verilerin İşlenme Amacı
 
@@ -70,7 +70,7 @@ KVKK'nın 11. maddesi kapsamında aşağıdaki haklara sahipsiniz:
 
 ## Başvuru
 
-Haklarınızı kullanmak için **info@drhabibcil.com** adresine yazılı olarak veya KEP adresi üzerinden başvurabilirsiniz.
+Haklarınızı kullanmak için **habibcilmd@gmail.com** adresine yazılı olarak veya KEP adresi üzerinden başvurabilirsiniz.
 
 ---
 

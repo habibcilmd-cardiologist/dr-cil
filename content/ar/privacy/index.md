@@ -13,7 +13,7 @@ showAuthor: false
 **أ.م.د. حبيب جيل**  
 مستشفى أفراسيا، Beştelsiz Mah. 101. Sokak No:107  
 Zeytinburnu، إسطنبول، تركيا  
-البريد الإلكتروني: info@drhabibcil.com
+البريد الإلكتروني: habibcilmd@gmail.com
 
 ## الغرض من معالجة البيانات
 
@@ -66,7 +66,7 @@ Zeytinburnu، إسطنبول، تركيا
 
 ## الاتصال
 
-لممارسة حقوقك، يرجى الاتصال بنا على **info@drhabibcil.com**.
+لممارسة حقوقك، يرجى الاتصال بنا على **habibcilmd@gmail.com**.
 
 ---
 

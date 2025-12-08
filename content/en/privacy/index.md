@@ -13,7 +13,7 @@ showAuthor: false
 **Assoc. Prof. Dr. Habib ÇİL**  
 Avrasya Hospital, Beştelsiz Mah. 101. Sokak No:107  
 Zeytinburnu, Istanbul, Turkey  
-Email: info@drhabibcil.com
+Email: habibcilmd@gmail.com
 
 ## Purpose of Data Processing
 
@@ -66,7 +66,7 @@ You have the following rights regarding your personal data:
 
 ## Contact
 
-To exercise your rights, please contact us at **info@drhabibcil.com**.
+To exercise your rights, please contact us at **habibcilmd@gmail.com**.
 
 ---
 
