@@ -1,6 +1,6 @@
 ---
 title: "İstanbul Kardiyolog | Doç. Dr. Habib ÇİL"
-description: "Doç. Dr. Habib ÇİL - İstanbul'da Kardiyoloji Uzmanı. Koroner anjiyoplasti, TAVI, kalp pili, ekokardiyografi ve girişimsel kardiyoloji konularında 20+ yıllık deneyim."
+description: "Doç. Dr. Habib ÇİL - İstanbul'da Kardiyoloji Uzmanı. Koroner anjiyoplasti, TAVI, kalp pili, ekokardiyografi ve girişimsel kardiyoloji konularında 25+ yıllık deneyim."
 layout: "profile"
 translationKey: "home"
 keywords: ["İstanbul Kardiyolog", "Kardiyolog İstanbul", "İstanbul Kardiyoloji Uzmanı", "Kardiyoloji Uzmanı İstanbul", "Bacak Damarlarını Açma", "Ayak Damarlarını Açma", "Periferik Arter Hastalığı Tedavisi", "Girişimsel Kardiyoloji İstanbul", "Damar Açma", "Ameliyatsız Damar Açma", "Ayak Yarası", "Diyabetik Ayak"]
@@ -8,7 +8,7 @@ keywords: ["İstanbul Kardiyolog", "Kardiyolog İstanbul", "İstanbul Kardiyoloj
 
 <div class="hero-section">
   <div class="hero-badges">
-    <span class="badge">20+ Yıl Deneyim</span>
+    <span class="badge">25+ Yıl Deneyim</span>
     <span class="badge">Doçent</span>
     <span class="badge">Girişimsel Kardiyoloji</span>
   </div>
@@ -17,17 +17,17 @@ keywords: ["İstanbul Kardiyolog", "Kardiyolog İstanbul", "İstanbul Kardiyoloj
   <p class="hero-subtitle">Kardiyoloji Uzmanı | İstanbul</p>
 
   <div class="hero-description">
-    <p>İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. 20 yılı aşkın klinik deneyimim ve akademik kariyerimle hastalarıma en güncel tanı ve tedavi yöntemlerini sunmaktayım.</p>
+    <p>İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. 25 yılı aşkın klinik deneyim ve akademik kariyer ile hastalarına en güncel tanı ve tedavi yöntemlerini sunmaktadır.</p>
   </div>
 
   <div class="hero-stats">
     <div class="stat-item">
-      <span class="stat-number">20+</span>
+      <span class="stat-number">25+</span>
       <span class="stat-label">Yıl Deneyim</span>
     </div>
     <div class="stat-item">
-      <span class="stat-number">5000+</span>
-      <span class="stat-label">Hasta</span>
+      <span class="stat-number">20.000+</span>
+      <span class="stat-label">İnvaziv Girişim</span>
     </div>
     <div class="stat-item">
       <span class="stat-number">100+</span>

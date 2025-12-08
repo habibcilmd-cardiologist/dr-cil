@@ -1,6 +1,6 @@
 ---
 title: "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
-description: "Assoc. Prof. Dr. Habib ÇİL - Cardiology Specialist in Istanbul. Expert in coronary angioplasty, TAVI, pacemaker implantation, echocardiography and interventional cardiology with 20+ years experience."
+description: "Assoc. Prof. Dr. Habib ÇİL - Cardiology Specialist in Istanbul. Expert in coronary angioplasty, TAVI, pacemaker implantation, echocardiography and interventional cardiology with 25+ years experience."
 layout: "profile"
 translationKey: "home"
 keywords: ["Istanbul Cardiologist", "Cardiologist Istanbul", "Istanbul Cardiology Specialist", "Interventional Cardiology Istanbul", "Leg Artery Opening", "Peripheral Artery Disease Treatment", "Non-surgical Vessel Opening", "Diabetic Foot Treatment", "Leg Vascular Blockage", "Angioplasty Istanbul"]
@@ -8,7 +8,7 @@ keywords: ["Istanbul Cardiologist", "Cardiologist Istanbul", "Istanbul Cardiolog
 
 <div class="hero-section">
   <div class="hero-badges">
-    <span class="badge">20+ Years Experience</span>
+    <span class="badge">25+ Years Experience</span>
     <span class="badge">Associate Professor</span>
     <span class="badge">Interventional Cardiology</span>
   </div>
@@ -17,17 +17,17 @@ keywords: ["Istanbul Cardiologist", "Cardiologist Istanbul", "Istanbul Cardiolog
   <p class="hero-subtitle">Cardiologist | Istanbul, Turkey</p>
 
   <div class="hero-description">
-    <p>Graduate of Istanbul University Cerrahpaşa Faculty of Medicine, specialized in Cardiology at Akdeniz University. With over 20 years of clinical experience and academic career, I provide my patients with the most up-to-date diagnostic and treatment methods.</p>
+    <p>Graduate of Istanbul University Cerrahpaşa Faculty of Medicine, specialized in Cardiology at Akdeniz University. With over 25 years of clinical experience and academic career, he provides his patients with the most up-to-date diagnostic and treatment methods.</p>
   </div>
 
   <div class="hero-stats">
     <div class="stat-item">
-      <span class="stat-number">20+</span>
+      <span class="stat-number">25+</span>
       <span class="stat-label">Years Experience</span>
     </div>
     <div class="stat-item">
-      <span class="stat-number">5000+</span>
-      <span class="stat-label">Patients</span>
+      <span class="stat-number">20.000+</span>
+      <span class="stat-label">Invasive Procedures</span>
     </div>
     <div class="stat-item">
       <span class="stat-number">100+</span>
