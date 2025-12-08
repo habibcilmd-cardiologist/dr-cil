@@ -10,7 +10,7 @@ translationKey: "services"
 
 ## 🏥 العلاجات والإجراءات المطبقة
 
-### 🫀 أمراض القلب التاجية {#coronary-heart-diseases}
+### 🫀 طب القلب السريري {#clinical-cardiology}
 
 <div class="services-grid">
   <a href="/ar/services/myocardial-infarction/" class="service-card"><div class="service-icon">💔</div><h4>احتشاء عضلة القلب</h4><p>النوبة القلبية - التدخل الطارئ والعلاج</p></a>

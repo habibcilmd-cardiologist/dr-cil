@@ -10,7 +10,7 @@ translationKey: "services"
 
 ## 🏥 Treatments and Procedures
 
-### 🫀 Coronary Heart Diseases {#coronary-heart-diseases}
+### 🫀 Clinical Cardiology {#clinical-cardiology}
 
 <div class="services-grid">
   <a href="/services/myocardial-infarction/" class="service-card"><div class="service-icon">💔</div><h4>Myocardial Infarction</h4><p>Heart Attack - Emergency intervention</p></a>

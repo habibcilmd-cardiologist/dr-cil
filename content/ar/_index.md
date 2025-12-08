@@ -56,10 +56,10 @@ keywords: ["طبيب قلب في اسطنبول", "أخصائي قلب إسطن�
 <p class="section-subtitle">خدمات شاملة في أمراض القلب أقدمها لكم</p>
 
 <div class="services-grid">
-  <a href="/ar/services/#coronary-heart-diseases" class="service-card">
+  <a href="/ar/services/#clinical-cardiology" class="service-card">
     <div class="service-icon">🫀</div>
-    <h4>أمراض القلب التاجية</h4>
-    <p>علاج النوبة القلبية، ارتفاع ضغط الدم، قصور القلب</p>
+    <h4>طب القلب السريري</h4>
+    <p>الوقاية من أمراض القلب التاجية، ارتفاع ضغط الدم، فرط شحوم الدم، علاج قصور القلب، العلاج الطبي للرجفان الأذيني</p>
   </a>
   <a href="/ar/services/#interventional-cardiology" class="service-card">
     <div class="service-icon">🔧</div>

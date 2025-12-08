@@ -56,10 +56,10 @@ keywords: ["İstanbul Kardiyolog", "Kardiyolog İstanbul", "İstanbul Kardiyoloj
 <p class="section-subtitle">Kardiyoloji alanında sunduğum kapsamlı hizmetler</p>
 
 <div class="services-grid">
-  <a href="/tr/hizmetler/#koroner-kalp-hastaliklari" class="service-card">
+  <a href="/tr/hizmetler/#klinik-kardiyoloji" class="service-card">
     <div class="service-icon">🫀</div>
-    <h4>Koroner Kalp Hastalıkları</h4>
-    <p>Kalp krizi, hipertansiyon, kalp yetmezliği tedavisi</p>
+    <h4>Klinik Kardiyoloji</h4>
+    <p>Koroner Kalp Hastalığından Korunma, Hipertansiyon, Hiperlipidemi, Kalp Yetersizliği Tedavisi, Atriyal Fibrilasyonun Tıbbi Tedavisi</p>
   </a>
   <a href="/tr/hizmetler/#girisimsel-kardiyoloji" class="service-card">
     <div class="service-icon">🔧</div>

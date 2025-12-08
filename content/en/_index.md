@@ -56,10 +56,10 @@ keywords: ["Istanbul Cardiologist", "Cardiologist Istanbul", "Istanbul Cardiolog
 <p class="section-subtitle">Comprehensive cardiology services I provide</p>
 
 <div class="services-grid">
-  <a href="/services/#coronary-heart-diseases" class="service-card">
+  <a href="/services/#clinical-cardiology" class="service-card">
     <div class="service-icon">🫀</div>
-    <h4>Coronary Heart Diseases</h4>
-    <p>Heart attack, hypertension, heart failure treatment</p>
+    <h4>Clinical Cardiology</h4>
+    <p>Prevention of Coronary Heart Disease, Hypertension, Hyperlipidemia, Treatment of Heart Failure, Medical Treatment of Atrial Fibrillation</p>
   </a>
   <a href="/services/#interventional-cardiology" class="service-card">
     <div class="service-icon">🔧</div>

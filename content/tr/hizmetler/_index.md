@@ -10,7 +10,7 @@ translationKey: "services"
 
 ## 🏥 Uygulanan Tedaviler ve Yöntemler
 
-### 🫀 Koroner Kalp Hastalıkları {#koroner-kalp-hastaliklari}
+### 🫀 Klinik Kardiyoloji {#klinik-kardiyoloji}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/miyokard-enfarktusu/" class="service-card"><div class="service-icon">💔</div><h4>Miyokard Enfarktüsü</h4><p>Kalp Krizi - Acil müdahale ve tedavi</p></a>
