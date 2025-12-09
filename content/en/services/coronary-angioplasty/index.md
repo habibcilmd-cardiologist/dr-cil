@@ -1,4 +1,4 @@
----
+﻿---
 title: "Coronary Angioplasty and Stent - Balloon Angioplasty"
 description: "Expert coronary angioplasty and stent treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs balloon and stent procedures. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Does the stent stay for life?"
       answer: "Yes, the stent is permanent and integrates into the vessel wall over time. It is accepted by the body and does not affect normal life."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Coronary angioplasty is a procedure to open blocked or narrowed coronary arteries using balloons and stents. Also known as percutaneous coronary intervention (PCI), this treatment plays a life-saving role in treating heart attacks and angina. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has performed thousands of successful angioplasty procedures with over 20 years of experience.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Alt Ekstremite Arter Hastalığı - Bacak Damar Tıkanıklığı"
 description: "İstanbul'da alt ekstremite arter hastalığı tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile periferik arter hastalığı. Anjiyoplasti ve stent. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Sigara bırakılmalı mı?"
       answer: "Evet, sigara hastalığın en önemli nedenidir ve tedavi başarısını etkiler."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Alt ekstremite arter hastalığı (AEAH), bacak arterlerinin ateroskleroz nedeniyle daralmasıdır. Yürüme ağrısı ve ileri evrelerde gangrene yol açabilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, alt ekstremite arter hastalığı tanı ve tedavisinde geniş deneyime sahiptir.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Heart Transplant & LVAD: End-Stage Heart Failure Treatments'
 description: What are heart transplant and LVAD (left ventricular assist device)?
   Comprehensive guide on current approaches, success rates, life expectancy, and treatment
@@ -95,6 +95,11 @@ faq:
     obstetrician, hematologist) is required. Most centers do not recommend pregnancy
     in LVAD patients.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 End-stage heart failure is an advanced condition where the heart cannot pump enough blood to meet the body's needs. Modern medicine offers two important weapons against this serious disease: heart transplant and LVAD (left ventricular assist device). This comprehensive guide examines the details of both treatment methods, who they are suitable for, success rates, risks, and their effects on patients' quality of life.

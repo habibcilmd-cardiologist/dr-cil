@@ -1,4 +1,4 @@
----
+﻿---
 title: "PCI - Perkütan Koroner Girişim (Stent Tedavisi)"
 description: "İstanbul'da PCI işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile perkütan koroner girişim, anjiyoplasti ve stent implantasyonu. Kalp krizi acil tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "PCI tekrarlanabilir mi?"
       answer: "Evet, gerekirse farklı damarlara veya aynı damara tekrar PCI yapılabilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 PCI (Perkütan Koroner Girişim), koroner arter hastalığının kateter yoluyla tedavisidir. Balon anjiyoplasti ve stent implantasyonunu kapsar. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, primer ve elektif PCI işlemlerinde 20 yılı aşkın deneyime sahiptir.
 

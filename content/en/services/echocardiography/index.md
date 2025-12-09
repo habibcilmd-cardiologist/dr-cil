@@ -1,4 +1,4 @@
----
+﻿---
 title: "Echocardiography - Heart Ultrasound Imaging"
 description: "Expert echocardiography in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs heart ultrasound evaluation. Transthoracic and transesophageal echo. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "When do echocardiography results come out?"
       answer: "Results are usually evaluated and reported on the same day."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Echocardiography is a non-invasive imaging method that evaluates the structure and function of the heart using ultrasound waves. It is one of the most valuable diagnostic tools in cardiology. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in echocardiography interpretation.
 

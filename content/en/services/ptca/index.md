@@ -1,4 +1,4 @@
----
+﻿---
 title: "PTCA - Balloon Coronary Angioplasty"
 description: "Expert PTCA procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs percutaneous transluminal coronary angioplasty. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "When will I be discharged after PTCA?"
       answer: "Usually same day or next day discharge is possible."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 PTCA (Percutaneous Transluminal Coronary Angioplasty) is dilation of coronary artery stenosis with balloon. It forms the basis of modern coronary interventions. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in PTCA procedures.
 

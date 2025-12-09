@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kardiyak Kateterizasyon - Kalp Kateteri İşlemi"
 description: "İstanbul'da kardiyak kateterizasyon. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp kateteri işlemi. Tanısal ve girişimsel kateterizasyon. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Kateterizasyon sırasında uyanık mıyım?"
       answer: "Evet, lokal anestezi ile yapılır ve işlem boyunca uyanıksınız."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kardiyak kateterizasyon, kalp odacıkları ve damarlarına kateter yerleştirilerek yapılan tanısal ve tedavi amaçlı işlemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, kardiyak kateterizasyon işleminde geniş deneyime sahiptir.
 

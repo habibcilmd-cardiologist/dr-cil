@@ -1,4 +1,4 @@
----
+﻿---
 title: "Coronary Angiography - Diagnostic Catheterization"
 description: "Expert coronary angiography in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs heart vessel imaging. Diagnostic catheterization. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "When can I return to work after angiography?"
       answer: "Most patients can return to normal activities within 1-2 days."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Coronary angiography is the imaging of heart vessels (coronary arteries) using X-rays and contrast material. This procedure is considered the gold standard in diagnosing coronary artery disease. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in coronary angiography procedures.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: What is Myocarditis? Symptoms, Causes, and Treatment
 description: Comprehensive guide to Myocarditis (heart muscle inflammation). Learn
   about the silent danger of myocarditis, its symptoms, viral causes, diagnosis, and
@@ -44,6 +44,11 @@ faq:
   answer: Yes. A heart-healthy, low-salt diet rich in vegetables and fruits supports
     the recovery process and reduces the workload on the heart.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Myocarditis is an inflammation of the heart muscle, most commonly triggered by viral infections. Often cited as a leading cause of "sudden death in young people," this condition can range from a mild illness with vague symptoms to life-threatening heart failure. In this comprehensive guide, I explain what myocarditis is, its symptoms, causes, and the treatment journey.

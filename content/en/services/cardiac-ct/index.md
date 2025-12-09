@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cardiac CT - Coronary CT Angiography (CCTA)"
 description: "Expert cardiac CT in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs coronary CT angiography. Non-invasive heart vessel imaging. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "When do cardiac CT results come out?"
       answer: "Results are usually reported the same day or next day."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Cardiac CT (Computed Tomography) is non-invasive imaging of the heart and coronary arteries. It has an important place in screening and evaluating coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in interpreting cardiac CT results.
 

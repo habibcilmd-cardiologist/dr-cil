@@ -1,4 +1,4 @@
----
+﻿---
 title: "Alkol Septal Ablasyon (ASA) - HOKM Tedavisi"
 description: "İstanbul'da alkol septal ablasyon. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile hipertrofik kardiyomiyopati tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "ASA sonrası spor yapabilir miyim?"
       answer: "HOKM hastalarında yarışmalı sporlar genellikle önerilmez. Hafif-orta düzeyde egzersiz doktor kontrolünde yapılabilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Alkol septal ablasyon (ASA), hipertrofik obstrüktif kardiyomiyopati (HOKM) tedavisinde kullanılan minimal invaziv bir girişimsel işlemdir. Bu işlemde, kalın septum kasına alkol enjekte edilerek kontrollü bir hasar oluşturulur ve sol ventrikül çıkış yolu obstrüksiyonu azaltılır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, bu özel işlemde geniş deneyime sahiptir.
 

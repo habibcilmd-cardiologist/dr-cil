@@ -1,4 +1,4 @@
----
+﻿---
 title: "Elektrofizyolojik Çalışma (EPS) - Aritmi Haritalama"
 description: "İstanbul'da elektrofizyolojik çalışma. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp ritim bozuklukları tanısı ve haritalama. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "EPS sonuçları ne anlama gelir?"
       answer: "Sonuçlar aritmi tipini, kaynağını ve en uygun tedavi yöntemini belirlemeye yardımcı olur."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Elektrofizyolojik çalışma (EPS), kalbin elektriksel sistemini değerlendirmek için yapılan invaziv bir tanı işlemidir. Bu işlem, aritmilerin kaynağını belirlemek, risk değerlendirmesi yapmak ve tedavi planlamak için kullanılır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, elektrofizyolojik çalışmalarda geniş deneyime sahiptir.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "PTKA - Perkütan Koroner Balon Anjiyoplasti"
 description: "İstanbul'da PTKA işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile perkütan translüminal koroner anjiyoplasti. Balon anjiyoplasti. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "PTKA sonrası ne zaman taburcu olurum?"
       answer: "Genellikle aynı gün veya ertesi gün taburcu olunabilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 PTKA (Perkütan Translüminal Koroner Anjiyoplasti), koroner arterlerdeki darlıkların balon ile genişletilmesidir. Modern koroner girişimlerin temelini oluşturur. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, PTKA işleminde geniş deneyime sahiptir.
 

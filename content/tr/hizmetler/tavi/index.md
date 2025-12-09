@@ -1,4 +1,4 @@
----
+﻿---
 title: "TAVI - Ameliyatsız Aort Kapak Değişimi"
 description: "İstanbul'da TAVI işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile transkateter aort kapak implantasyonu. Yüksek riskli hastalarda ameliyatsız kapak tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "TAVI sonrası ne zaman normal yaşama dönebilirim?"
       answer: "Çoğu hasta 1-2 hafta içinde günlük aktivitelerine dönebilir. Tam iyileşme genellikle 4-6 hafta sürer. Kardiyak rehabilitasyon programı iyileşmeyi hızlandırır."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 TAVI (Transkateter Aort Kapak İmplantasyonu), ciddi aort darlığı olan hastalarda açık kalp ameliyatı yapılmadan, kateter yoluyla yeni bir aort kapağı yerleştirilmesi işlemidir. Bu devrim niteliğindeki tedavi, özellikle cerrahi riski yüksek yaşlı hastalarda hayat kurtarıcı bir seçenek sunmaktadır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, yüzlerce başarılı TAVI işlemi gerçekleştirmiş olup bu alanda Türkiye'nin önde gelen uzmanlarından biridir.
 

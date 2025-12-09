@@ -1,4 +1,4 @@
----
+﻿---
 title: What is Cardiomyopathy? Types, Symptoms, and Treatment Options
 description: Comprehensive guide to cardiomyopathy. Learn about heart muscle disease
   types, symptoms, diagnostic methods, and modern treatment options from a cardiology
@@ -47,6 +47,11 @@ faq:
     treatment. With modern treatments, many patients can live quality lives for years.
     Regular follow-up and treatment compliance significantly increase survival.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Cardiomyopathy is a serious group of diseases that affects the structure and function of the heart muscle. This condition, which weakens the heart's ability to pump blood, can be controlled with early diagnosis and appropriate treatment. In this comprehensive guide, I will discuss in detail what cardiomyopathy is, its different types, symptoms, diagnostic methods, and current treatment approaches.

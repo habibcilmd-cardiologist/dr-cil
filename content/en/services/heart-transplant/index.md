@@ -1,4 +1,4 @@
----
+﻿---
 title: "Heart Transplant - Cardiac Transplantation Evaluation"
 description: "Expert heart transplant evaluation in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides pre and post heart transplantation follow-up. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Is there an age limit for heart transplant?"
       answer: "Generally, over 70 years is a relative contraindication."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Heart transplant is a life-saving surgical procedure performed in end-stage heart failure. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in pre-transplant evaluation and post-transplant follow-up.
 

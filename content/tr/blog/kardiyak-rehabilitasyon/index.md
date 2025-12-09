@@ -1,4 +1,4 @@
----
+﻿---
 title: Kardiyak Rehabilitasyon - Kalp Hastalıkları Sonrası Yaşam Kalitesi
 description: İstanbul'da kardiyak rehabilitasyon programı. Doç. Dr. Habib Çil ile
   kalp krizi, anjiyoplasti ve kalp cerrahisi sonrası iyileşme. Egzersiz ve yaşam tarzı
@@ -74,6 +74,11 @@ faq:
     ve komplikasyonları azalttığı için maliyet-etkin bir tedavidir. Programın faydaları
     maliyetinden çok daha fazladır.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Kalp krizi, anjiyoplasti, by-pass cerrahisi veya diğer kardiyak olaylar sonrası iyileşme süreci, sadece fiziksel değil, psikolojik ve sosyal boyutları da olan kapsamlı bir süreçtir. Kardiyak rehabilitasyon, bu süreçte hastaların en iyi şekilde iyileşmesini, yaşam kalitesini artırmasını ve gelecekteki kardiyak olayları önlemesini sağlayan kanıta dayalı bir programdır. Bu kapsamlı rehberde, kardiyak rehabilitasyonun ne olduğunu, kimler için uygun olduğunu, nasıl uygulandığını ve sağladığı faydaları detaylı olarak ele alacağım.

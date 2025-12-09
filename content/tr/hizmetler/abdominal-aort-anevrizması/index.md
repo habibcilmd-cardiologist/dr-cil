@@ -1,4 +1,4 @@
----
+﻿---
 title: "Abdominal Aort Anevrizması (AAA) - Tedavi Seçenekleri"
 description: "İstanbul'da abdominal aort anevrizması tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile karın aort anevrizması. EVAR ve cerrahi tedavi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Anevrizma tedavisi sonrası yaşam nasıl?"
       answer: "Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Abdominal aort anevrizması (AAA), karın bölgesindeki aortun anormal genişlemesidir. Rüptür riski nedeniyle hayatı tehdit edebilen ciddi bir durumdur. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, abdominal aort anevrizması tanı ve tedavisinde geniş deneyime sahiptir.
 

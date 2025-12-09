@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Aortic Aneurysm: Symptoms, Diagnosis and Modern Treatment Methods'
 description: What is an aortic aneurysm? Comprehensive guide on thoracic and abdominal
   aortic aneurysm symptoms, risk factors, diagnostic methods and current treatment
@@ -63,6 +63,11 @@ faq:
     aneurysm affects the abdominal aorta, is more common, and is usually associated
     with atherosclerosis. Symptoms, diagnosis, and treatment approaches differ.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 An aortic aneurysm is a balloon-like enlargement of the aorta, the body's main artery, due to weakening of the vessel wall. This serious condition can progress silently and carries rupture risk but can be controlled with early diagnosis and appropriate treatment. This comprehensive guide examines aortic aneurysm types, symptoms, risk factors, diagnostic methods, and current treatment options.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hipertansiyon (Yüksek Tansiyon) Tanı ve Tedavisi"
 description: "İstanbul'da hipertansiyon tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile yüksek tansiyon tanısı, ilaç tedavisi ve yaşam tarzı önerileri. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Stres tansiyonu ne kadar etkiler?"
       answer: "Stres, geçici tansiyon yükselmelerine neden olabilir. Ancak kronik stres, kalıcı hipertansiyon gelişimine katkıda bulunabilir. Stres yönetimi, tedavinin önemli bir parçasıdır."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Hipertansiyon, tıbbi adıyla arteriyel hipertansiyon, halk arasında "yüksek tansiyon" olarak bilinen ve dünya genelinde milyonlarca insanı etkileyen kronik bir sağlık sorunudur. Türkiye'de yetişkin nüfusun yaklaşık %30'u hipertansiyon hastası olup, bunların önemli bir kısmı tanı almamış veya yetersiz tedavi görmektedir. Sessiz katil olarak da bilinen bu durum, kontrol altına alınmazsa kalp krizi, inme, böbrek yetmezliği ve görme kaybı gibi ciddi komplikasyonlara yol açabilir.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "CTO Intervention - Chronic Total Occlusion PCI"
 description: "Expert CTO intervention in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil opens completely blocked coronary arteries. High success rate. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can every CTO be opened?"
       answer: "No, some CTOs may not be openable due to anatomical or technical reasons. However, with experienced operators and modern techniques, success rates have exceeded 90%."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Chronic total occlusion (CTO) is a condition where a coronary artery has been completely blocked for at least 3 months. CTO intervention is an advanced cardiological procedure that enables opening of these blocked vessels using special techniques. Interventional cardiologist Assoc. Prof. Dr. Habib Çil, as an experienced operator specialized in CTO, has successfully treated many cases previously deemed "unopenable."
 

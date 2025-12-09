@@ -1,4 +1,4 @@
----
+﻿---
 title: "EKG - 12 Derivasyonlu Elektrokardiyografi"
 description: "İstanbul'da EKG çekimi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp ritmi ve elektriksel aktivite değerlendirmesi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "EKG ne sıklıkta çekilmeli?"
       answer: "Semptomlar, risk faktörleri ve mevcut hastalıklara göre doktor tarafından belirlenir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Elektrokardiyografi (EKG), kalbin elektriksel aktivitesini kaydeden basit, ağrısız ve hızlı bir tanı yöntemidir. Kardiyolojide en sık kullanılan tetkiklerden biridir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, EKG yorumlamasında geniş deneyime sahiptir.
 

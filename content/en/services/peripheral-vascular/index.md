@@ -1,4 +1,4 @@
----
+﻿---
 title: "Peripheral Vascular Disease - PAD Intervention"
 description: "Expert peripheral vascular disease treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs leg artery and peripheral vascular interventions. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Does quitting smoking help treatment?"
       answer: "Absolutely. Smoking cessation is the most important component of PAD treatment. It slows disease progression and increases treatment success."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Peripheral artery disease (PAD) is the narrowing or blockage of arteries outside the heart and brain due to atherosclerosis. This disease, which most commonly affects leg arteries, can lead to serious consequences from walking difficulty to gangrene. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in peripheral vascular interventions and improves patients' quality of life with modern techniques.
 

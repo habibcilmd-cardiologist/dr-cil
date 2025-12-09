@@ -1,4 +1,4 @@
----
+﻿---
 title: "Venous Insufficiency - Varicose Vein Treatment"
 description: "Expert venous insufficiency treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats vein valve dysfunction. Varicose vein treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "When can I return to work after treatment?"
       answer: "Usually normal activities can be resumed within 1-2 days."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Venous insufficiency is dysfunction of valves in leg veins. It leads to varicose veins, swelling, and skin changes. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating venous insufficiency.
 

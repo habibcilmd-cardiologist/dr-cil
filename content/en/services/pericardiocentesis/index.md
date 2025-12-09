@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pericardiocentesis - Pericardial Effusion Drainage"
 description: "Expert pericardiocentesis in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs pericardial fluid drainage. Pericardial effusion treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "What are the risks of pericardiocentesis?"
       answer: "Serious complications are rare. Heart perforation risk is low."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Pericardiocentesis is draining fluid accumulated between the pericardium (heart sac) and the heart with a needle. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in pericardiocentesis procedures.
 

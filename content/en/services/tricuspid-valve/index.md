@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tricuspid Valve Disease - Regurgitation Treatment"
 description: "Expert tricuspid valve disease treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats tricuspid regurgitation. Catheter and surgical treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can tricuspid regurgitation resolve on its own?"
       answer: "Functional regurgitation may decrease if the underlying cause is treated."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Tricuspid valve disease is dysfunction of the valve between the right atrium and right ventricle. Tricuspid regurgitation is most common. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating tricuspid valve diseases.
 

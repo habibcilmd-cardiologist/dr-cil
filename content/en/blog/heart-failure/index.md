@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Heart Failure: Symptoms, Diagnosis and Treatment Options'
 description: What is heart failure? Learn about the symptoms, causes, diagnostic methods
   and current treatment options for heart failure in this comprehensive guide.
@@ -56,6 +56,11 @@ faq:
     regularly - Eat healthy and maintain ideal weight - Exercise regularly - Avoid
     smoking - Limit alcohol consumption - If you have diabetes, keep it well controlled'
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Heart failure is a condition where the heart cannot pump enough blood to meet the body's needs. Affecting millions worldwide, this chronic condition can be managed with early diagnosis and appropriate treatment. This comprehensive guide covers the symptoms, causes, diagnostic methods, and current treatment options for heart failure.

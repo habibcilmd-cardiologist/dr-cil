@@ -1,4 +1,4 @@
----
+﻿---
 title: "Stress Echocardiography - Dobutamine Stress Echo"
 description: "Expert stress echocardiography in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs exercise or pharmacological heart ultrasound. Ischemia diagnosis. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "When do stress echocardiography results come out?"
       answer: "Results are evaluated immediately after the procedure."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Stress echocardiography is an echocardiographic evaluation performed while the heart is under stress from exercise or medication. It has high accuracy in diagnosing coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in stress echocardiography evaluation.
 

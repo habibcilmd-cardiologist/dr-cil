@@ -1,4 +1,4 @@
----
+﻿---
 title: "Coronary Artery Disease - Diagnosis and Treatment"
 description: "Expert coronary artery disease treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil provides angiography, angioplasty, and stent procedures. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Is bypass or stent better?"
       answer: 'Both treatments have advantages. The decision is made by the "Heart Team" considering the patient''s anatomy, comorbidities, and preferences.'
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Coronary artery disease (CAD) is the leading cause of death from heart disease worldwide. This condition, which develops when the coronary arteries that supply the heart narrow or become blocked, affects millions of people every year. In Turkey, cardiovascular diseases are the leading cause of death, with coronary artery disease accounting for a large portion of these. With early diagnosis and appropriate treatment, this disease can be controlled and patients' quality of life can be significantly improved.
 

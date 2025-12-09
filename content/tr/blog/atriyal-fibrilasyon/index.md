@@ -1,4 +1,4 @@
----
+﻿---
 title: Atriyal Fibrilasyon (AF) Nedir? Belirtileri, Nedenleri ve Tedavisi
 description: Atriyal fibrilasyon (AF) hakkında kapsamlı rehber. Düzensiz kalp ritmi
   belirtileri, risk faktörleri, tanı yöntemleri ve modern tedavi seçenekleri. Kardiyoloji
@@ -33,6 +33,11 @@ faq:
   answer: Genetik yatkınlık vardır. Ailede AF öyküsü varsa risk artar, ancak bu kaçınılmaz
     değildir. Yaşam tarzı faktörleri de önemlidir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Atriyal fibrilasyon (AF), dünya genelinde en sık görülen kalp ritim bozukluğudur ve inme riskini 5 kat artırır. Kalbin üst odacıklarının (atriyumlar) düzensiz ve hızlı kasılmasıyla karakterize bu durum, erken tanı ve uygun tedavi ile başarıyla yönetilebilir. Bu yazımda, AF'nin ne olduğunu, nasıl tanınacağını, risk faktörlerini ve güncel tedavi yaklaşımlarını detaylı olarak ele alacağım.

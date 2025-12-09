@@ -1,4 +1,4 @@
----
+﻿---
 title: What is Hypertension (High Blood Pressure)?
 description: Learn about hypertension symptoms, causes, and treatment methods. Comprehensive
   guide on how to control high blood pressure through lifestyle changes, medication
@@ -37,6 +37,11 @@ faq:
     Serious conditions like preeclampsia can develop. It must be monitored under medical
     supervision.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Hypertension is one of the most common chronic diseases worldwide and a leading cause of serious health problems such as heart attacks, strokes, and kidney failure. It's called the "silent killer" because it can cause organ damage over years without any noticeable symptoms. In this comprehensive guide, I'll discuss what hypertension is, how to recognize it, the risk factors involved, and effective treatment approaches.

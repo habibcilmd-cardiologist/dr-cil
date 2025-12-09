@@ -1,4 +1,4 @@
----
+﻿---
 title: What is Diabetic Foot? Symptoms, Treatment, and Prevention Methods
 description: Comprehensive guide to diabetic foot. Interventional cardiology for limb
   salvage, endovascular treatment, revascularization procedures. Symptoms, treatment
@@ -73,6 +73,11 @@ faq:
     don't round corners. Wear thick socks, preferably seamless. Don't walk barefoot.
     Check your feet daily. Don't try to cut calluses yourself, seek professional help.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Diabetic foot is a serious complication that develops in diabetic patients and affects the feet. This condition, resulting from the combination of nerve damage (neuropathy) and vascular disease (vasculopathy), significantly increases the risk of wound formation, infection, and amputation. But the good news is that the vast majority of diabetic foot complications are preventable! In this comprehensive guide, I will discuss in detail what diabetic foot is, risk factors, symptoms, treatment methods, and most importantly, how it can be prevented.

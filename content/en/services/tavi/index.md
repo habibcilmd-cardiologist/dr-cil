@@ -1,4 +1,4 @@
----
+﻿---
 title: "TAVI - Transcatheter Aortic Valve Replacement"
 description: "Expert TAVI procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs minimally invasive aortic valve replacement. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "When can I return to normal life after TAVI?"
       answer: "Most patients can return to daily activities within 1-2 weeks. Full recovery usually takes 4-6 weeks. Cardiac rehabilitation program accelerates recovery."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 TAVI (Transcatheter Aortic Valve Implantation) is a procedure where a new aortic valve is placed via catheter without open-heart surgery in patients with severe aortic stenosis. This revolutionary treatment offers a life-saving option, especially for elderly patients with high surgical risk. TAVI is successfully performed at experienced centers in Turkey, and interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in this field.
 

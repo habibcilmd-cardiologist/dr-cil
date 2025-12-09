@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Kalp Yetmezliği: Belirtiler, Tanı ve Tedavi Yöntemleri'
 description: Kalp yetmezliği nedir, belirtileri nelerdir? Kalp yetmezliğinin nedenleri,
   tanı yöntemleri ve güncel tedavi seçenekleri hakkında kapsamlı bilgi.
@@ -56,6 +56,11 @@ faq:
     egzersiz yapın - Sigara içmekten kaçının - Alkol tüketimini sınırlandırın - Diyabetiniz
     varsa iyi kontrol altında tutun'
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Kalp yetmezliği, kalbin vücudun ihtiyaç duyduğu kanı yeterince pompalayamaması durumudur. Dünya genelinde milyonlarca insanı etkileyen bu kronik hastalık, erken tanı ve uygun tedavi ile kontrol altına alınabilir. Bu kapsamlı rehberde kalp yetmezliğinin belirtileri, nedenleri, tanı yöntemleri ve güncel tedavi seçeneklerini ele alıyoruz.

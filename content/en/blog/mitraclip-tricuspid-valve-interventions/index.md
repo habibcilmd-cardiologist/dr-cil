@@ -1,4 +1,4 @@
----
+﻿---
 title: MitraClip and Tricuspid Valve Interventions - Minimally Invasive Valve Treatment
 description: MitraClip and tricuspid valve interventions in Istanbul. Assoc. Prof.
   Dr. Habib Çil treats mitral and tricuspid regurgitation. Minimally invasive catheter
@@ -71,6 +71,11 @@ faq:
     and long-standing regurgitation is usually permanent and requires treatment. Early
     intervention provides better results.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Heart valve diseases, especially mitral and tricuspid regurgitation, are conditions that seriously affect quality of life. While traditional open-heart surgery carries high risk for many patients, minimally invasive methods such as MitraClip and tricuspid valve interventions offer promising alternatives. In this comprehensive guide, I will discuss non-surgical valve treatment methods, indications, procedure process, and expected outcomes in detail.

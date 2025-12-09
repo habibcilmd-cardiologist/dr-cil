@@ -1,4 +1,4 @@
----
+﻿---
 title: "PCI - Percutaneous Coronary Intervention Treatment"
 description: "Expert PCI procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs percutaneous coronary intervention. Angioplasty and stent. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can PCI be repeated?"
       answer: "Yes, if needed, PCI can be performed again on different vessels or the same vessel."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 PCI (Percutaneous Coronary Intervention) is catheter-based treatment of coronary artery disease. It includes balloon angioplasty and stent implantation. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in PCI procedures.
 

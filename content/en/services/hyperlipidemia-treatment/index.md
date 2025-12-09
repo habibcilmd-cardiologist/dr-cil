@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hyperlipidemia Treatment - Cholesterol and Lipid Disorders"
 description: "Hyperlipidemia (high cholesterol) treatment and lipid management in Istanbul. Protect your heart health with Assoc. Prof. Dr. Habib ÇİL. LDL lowering, diet, and medication therapies."
 date: 2024-01-15
@@ -32,6 +32,11 @@ faq:
     - question: "Can genetic high cholesterol (Familial Hypercholesterolemia) be treated?"
       answer: "Yes, early diagnosis and aggressive treatment can significantly reduce the risk of heart disease. High-dose statins or new generation injection therapies are usually used in these patients."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< alert type="info" >}}
 This page has been prepared to provide comprehensive information about hyperlipidemia (high cholesterol) diagnosis, risks, and treatment methods. It includes the most up-to-date medical approaches to protect your cardiovascular health.

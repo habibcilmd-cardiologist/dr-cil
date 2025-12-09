@@ -1,4 +1,4 @@
----
+﻿---
 title: "Stres Ekokardiyografi - Eforlu Kalp Ultrasonu"
 description: "İstanbul'da stres ekokardiyografi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile egzersiz ve dobutamin stres EKO. İskemi tanısı. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Stres ekokardiyografi sonucu ne zaman çıkar?"
       answer: "Sonuçlar işlem sonrasında hemen değerlendirilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Stres ekokardiyografi, egzersiz veya ilaç ile kalp stres altındayken yapılan ekokardiyografik değerlendirmedir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, stres ekokardiyografi değerlendirmesinde geniş deneyime sahiptir.
 

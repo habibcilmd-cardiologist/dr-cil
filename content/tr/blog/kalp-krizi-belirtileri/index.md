@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Kalp Krizi Belirtileri: Erken Tanı Hayat Kurtarır'
 description: Kalp krizi (miyokard enfarktüsü) belirtileri nelerdir? Göğüs ağrısı,
   nefes darlığı ve diğer uyarı işaretleri. Acil müdahale nasıl yapılır? Risk faktörleri,
@@ -33,6 +33,11 @@ faq:
     kontrol altında tutarak (tansiyon, kolesterol, sigara, egzersiz) riskinizi önemli
     ölçüde azaltabilirsiniz.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Kalp krizi, kalp kasına giden kan akışının aniden kesilmesiyle oluşan ciddi bir durumdur. Her yıl Türkiye'de yaklaşık 200.000 kişi kalp krizi geçirmekte ve bunların önemli bir kısmı hayatını kaybetmektedir. Ancak erken tanı ve doğru müdahale ile bu ölümlerin büyük çoğunluğu önlenebilir. Bu yazımda, kalp krizinin ne olduğunu, belirtilerini nasıl tanıyacağınızı ve hayat kurtarıcı ilk müdahale yöntemlerini detaylı olarak anlatacağım.

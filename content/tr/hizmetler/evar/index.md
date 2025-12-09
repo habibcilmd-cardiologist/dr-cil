@@ -1,4 +1,4 @@
----
+﻿---
 title: "EVAR - Endovasküler Aort Anevrizması Onarımı"
 description: "İstanbul'da EVAR işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile endovasküler anevrizma onarımı. Minimal invaziv tedavi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "EVAR sonrası MR çekilebilir mi?"
       answer: "Çoğu modern stent-greft MR uyumludur. Doktorunuza danışın."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 EVAR (Endovasküler Anevrizma Onarımı), abdominal aort anevrizmasının kateter yoluyla tedavi edilmesidir. Açık cerrahiye alternatif minimal invaziv bir yöntemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, EVAR işleminde geniş deneyime sahiptir.
 

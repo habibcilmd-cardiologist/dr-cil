@@ -1,4 +1,4 @@
----
+﻿---
 title: "Periferik Damar Hastalıkları - Bacak Damar Tedavisi"
 description: "İstanbul'da periferik damar hastalıkları tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile bacak damarları ve periferik anjiyoplasti. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Sigara bırakma tedaviye yardımcı olur mu?"
       answer: "Kesinlikle. Sigara bırakma, PAH tedavisinin en önemli bileşenidir. Hastalığın ilerlemesini yavaşlatır ve tedavi başarısını artırır."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Periferik arter hastalığı (PAH), kalp ve beyin dışındaki arterlerin ateroskleroz nedeniyle daralması veya tıkanmasıdır. En sık bacak arterlerini etkileyen bu hastalık, yürüme güçlüğünden gangrene kadar ciddi sonuçlara yol açabilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, periferik damar girişimlerinde geniş deneyime sahip olup modern tekniklerle hastaların yaşam kalitesini artırmaktadır.
 

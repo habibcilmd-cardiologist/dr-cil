@@ -1,4 +1,4 @@
----
+﻿---
 title: Diyabetik Ayak Nedir? Belirtileri, Tedavisi ve Korunma Yöntemleri
 description: Diyabetik ayak hakkında kapsamlı rehber. Girişimsel kardiyoloji ile bacak
   kurtarma, endovasküler tedavi, damar açma işlemleri. Belirtiler, tedavi yöntemleri
@@ -81,6 +81,11 @@ faq:
     olanları tercih edin. Çıplak ayakla yürümeyin. Her gün ayaklarınızı kontrol edin.
     Nasırları kendiniz kesmemeye çalışmayın, profesyonel yardım alın.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Diyabetik ayak, diyabet hastalarında gelişen ve ayakları etkileyen ciddi bir komplikasyondur. Sinir hasarı (nöropati) ve damar hastalığının (vaskülopati) birleşimi sonucu ortaya çıkan bu durum, yara oluşumu, enfeksiyon ve ampütasyon riskini önemli ölçüde artırır. Ancak iyi haber şu ki, diyabetik ayak komplikasyonlarının büyük çoğunluğu önlenebilir! Bu kapsamlı rehberde, diyabetik ayağın ne olduğunu, risk faktörlerini, belirtilerini, tedavi yöntemlerini ve en önemlisi nasıl önlenebileceğini detaylı olarak ele alınmaktadır.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Catheter Ablation - Heart Rhythm Disorder Treatment"
 description: "Expert catheter ablation treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats heart rhythm disorders. AF ablation, SVT ablation. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "What if ablation fails?"
       answer: "Repeat ablation can be performed or medical treatment can be continued. Surgical ablation may be considered in some cases."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Catheter ablation is a minimally invasive procedure used to treat heart rhythm disorders (arrhythmias). In this procedure, radiofrequency or cryotherapy is applied to abnormal heart tissue causing the arrhythmia, providing permanent treatment. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in arrhythmia ablation.
 

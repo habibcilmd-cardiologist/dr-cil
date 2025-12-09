@@ -1,4 +1,4 @@
----
+﻿---
 title: Cardiac Rehabilitation - Improving Quality of Life After Heart Disease
 description: Cardiac rehabilitation program in Istanbul. Assoc. Prof. Dr. Habib Çil
   provides post-heart attack, angioplasty, and cardiac surgery recovery. Exercise
@@ -75,6 +75,11 @@ faq:
     treatment as it reduces hospitalizations and complications in the long term. The
     benefits of the program far exceed its cost.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 The recovery process after a heart attack, angioplasty, bypass surgery, or other cardiac events involves not only physical but also psychological and social dimensions. Cardiac rehabilitation is an evidence-based program that ensures patients recover optimally, improve their quality of life, and prevent future cardiac events. In this comprehensive guide, I will detail what cardiac rehabilitation is, who it is suitable for, how it is implemented, and the benefits it provides.

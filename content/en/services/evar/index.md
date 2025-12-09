@@ -1,4 +1,4 @@
----
+﻿---
 title: "EVAR - Endovascular Aortic Aneurysm Repair"
 description: "Expert EVAR procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs endovascular aneurysm repair. Minimally invasive treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can I have MRI after EVAR?"
       answer: "Most modern stent-grafts are MRI compatible. Consult your doctor."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 EVAR (Endovascular Aneurysm Repair) is catheter-based treatment of abdominal aortic aneurysm. It is a minimally invasive alternative to open surgery. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in EVAR procedures.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Karotis Arter Stenozu - İnme Önleme Tedavisi"
 description: "İstanbul'da karotis arter stenozu tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile karotis stentleme ve inme önleme. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Her iki karotis de daralmışsa ne yapılır?"
       answer: "Bilateral stenozda genellikle önce daha ciddi olan taraf tedavi edilir. İkinci taraf birkaç hafta sonra değerlendirilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Karotis arter stenozu, beyni besleyen ana damarların daralmasıdır ve inmenin en önemli nedenlerinden biridir. Türkiye'de her yıl yaklaşık 200.000 inme vakası görülmekte olup, bunların önemli bir kısmı karotis hastalığına bağlıdır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, karotis stentleme konusunda geniş deneyime sahip olup inme riskini azaltmak için modern tedavi yöntemleri sunmaktadır.
 

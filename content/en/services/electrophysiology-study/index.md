@@ -1,4 +1,4 @@
----
+﻿---
 title: "Electrophysiology Study - EPS Arrhythmia Mapping"
 description: "Expert electrophysiology study in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil diagnoses heart rhythm disorders. EPS testing. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "What do EPS results mean?"
       answer: "Results help determine the arrhythmia type, source, and most appropriate treatment method."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Electrophysiology study (EPS) is an invasive diagnostic procedure performed to evaluate the heart's electrical system. This procedure is used to determine the source of arrhythmias, perform risk assessment, and plan treatment. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in electrophysiology studies.
 

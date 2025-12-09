@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Cardiac Arrhythmias: Types, Symptoms and Treatment'
 description: What are cardiac arrhythmias? Learn about tachycardia, bradycardia, atrial
   fibrillation symptoms, diagnosis and treatment methods.
@@ -53,6 +53,11 @@ faq:
     in AF requires special protocols. Ablation is generally postponed until before
     or after pregnancy. Each case should be evaluated individually.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Cardiac arrhythmias are conditions that develop when the heart's normal electrical conduction system is disrupted. The heart may beat too fast, too slow, or irregularly. This comprehensive guide examines different types of arrhythmias, their symptoms, diagnostic methods, and current treatment options.

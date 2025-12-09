@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tilt Testi - Bayılma Nedeni Araştırması"
 description: "İstanbul'da tilt testi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile bayılma nedeni araştırması. Vazovagal senkop tanısı. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Tilt testi sonrası araba kullanabilir miyim?"
       answer: "Test sonrası 1-2 saat dinlenmeniz önerilir. Mümkünse refakatçi ile gelin."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Tilt testi (eğik masa testi), açıklanamayan bayılma (senkop) ataklarının nedenini araştırmak için kullanılan tanısal bir testtir. Vazovagal senkop tanısında altın standart yöntemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, tilt testi değerlendirmesinde geniş deneyime sahiptir.
 

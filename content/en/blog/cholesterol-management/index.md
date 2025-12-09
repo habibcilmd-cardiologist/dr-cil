@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Cholesterol Management: Causes, Risks, and Treatment of High Cholesterol'
 description: Comprehensive guide to high cholesterol. Learn about LDL and HDL cholesterol,
   normal values, risk factors, dietary recommendations, and medication therapy from
@@ -33,6 +33,11 @@ faq:
   answer: Exercise, weight loss, quitting smoking, and healthy fats (olive oil, fish)
     increase HDL. HDL increase with medications is limited.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 High cholesterol is one of the most important risk factors for cardiovascular diseases such as heart attacks and strokes. This condition, which often threatens vascular health for years without symptoms, can be successfully controlled with early diagnosis and appropriate treatment. In this comprehensive guide, I'll discuss what cholesterol is, why it matters, risk factors, and effective management strategies.

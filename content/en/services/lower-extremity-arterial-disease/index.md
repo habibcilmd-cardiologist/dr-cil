@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lower Extremity Arterial Disease - Leg Artery Intervention"
 description: "Expert lower extremity arterial disease treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats peripheral artery disease. Angioplasty and stent. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Should smoking be stopped?"
       answer: "Yes, smoking is the most important cause of the disease and affects treatment success."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Lower extremity arterial disease (LEAD) is narrowing of leg arteries due to atherosclerosis. It can cause walking pain and gangrene in advanced stages. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating lower extremity arterial disease.
 

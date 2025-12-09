@@ -1,4 +1,4 @@
----
+﻿---
 title: "Perikardiyosentez - Perikardiyal Efüzyon Tedavisi"
 description: "İstanbul'da perikardiyosentez. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp zarı sıvı boşaltma işlemi. Perikardiyal efüzyon tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Perikardiyosentez riskleri nelerdir?"
       answer: "Ciddi komplikasyonlar nadir görülür. Kalp perforasyonu riski düşüktür."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Perikardiyosentez, kalp zarı (perikard) ile kalp arasında biriken sıvının iğne ile boşaltılmasıdır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, perikardiyosentez işleminde geniş deneyime sahiptir.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Deep Vein Thrombosis (DVT): Symptoms, Causes, and Treatment Options'
 description: What is Deep Vein Thrombosis (DVT)? What are the symptoms, causes, and risk factors of blood clots in the legs? Comprehensive guide on non-surgical clot treatment in Istanbul.
 date: 2025-12-07
@@ -33,6 +33,11 @@ faq:
 - question: What happens if a clot travels to the lungs?
   answer: This condition is called "Pulmonary Embolism" and is life-threatening. It manifests with symptoms such as sudden shortness of breath, chest pain, coughing up blood, and palpitations. Immediate medical attention is required.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Deep Vein Thrombosis (DVT) is a serious condition where a blood clot forms in a deep vein, usually in the legs. Not only can it cause leg pain and swelling, but it also poses a life-threatening risk if the clot breaks loose and travels to the lungs (Pulmonary Embolism). This comprehensive guide discusses the early diagnosis of DVT, modern treatment methods, and ways to prevent this condition.

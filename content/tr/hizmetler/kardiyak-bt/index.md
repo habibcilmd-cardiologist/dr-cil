@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kardiyak BT - Koroner BT Anjiyografi (CCTA)"
 description: "İstanbul'da kardiyak BT. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile koroner BT anjiyografi. Non-invaziv kalp damar görüntüleme. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Kardiyak BT sonucu ne zaman çıkar?"
       answer: "Sonuçlar genellikle aynı gün veya ertesi gün raporlanır."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kardiyak BT (Bilgisayarlı Tomografi), kalp ve koroner arterlerin non-invaziv olarak görüntülenmesidir. Koroner arter hastalığının taranmasında ve değerlendirilmesinde önemli bir yere sahiptir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, kardiyak BT sonuçlarının yorumlanmasında geniş deneyime sahiptir.
 

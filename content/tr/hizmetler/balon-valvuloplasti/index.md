@@ -1,4 +1,4 @@
----
+﻿---
 title: "Balon Valvüloplasti - Kapak Balonla Genişletme"
 description: "İstanbul'da balon valvüloplasti. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile mitral ve aort kapak genişletme. Kateter ile kapak tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Balon valvüloplasti için uygun muyum?"
       answer: "Kapak anatomisi ve eşlik eden durumlar değerlendirilerek karar verilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Balon valvüloplasti, daralmış kalp kapağının balon kateter kullanılarak genişletilmesi işlemidir. Özellikle mitral ve pulmoner kapak darlıklarında etkili bir tedavi yöntemidir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, balon valvüloplasti işleminde geniş deneyime sahiptir.
 

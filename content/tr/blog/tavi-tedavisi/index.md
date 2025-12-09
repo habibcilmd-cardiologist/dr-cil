@@ -1,4 +1,4 @@
----
+﻿---
 title: 'TAVI Tedavisi: Minimal İnvaziv Aort Kapak Değişimi'
 description: TAVI (Transkateter Aort Kapak İmplantasyonu) ile açık kalp ameliyatı
   olmadan aort kapak hastalıklarının tedavisi. Prosedür, avantajlar ve sonuçlar hakkında
@@ -56,6 +56,11 @@ faq:
     düzenlemeye yardımcı olabilir, ancak daralmış kapağı açamazlar. Ciddi aort darlığının
     tek etkili tedavisi, kapağın değiştirilmesidir (cerrahi veya TAVI ile).
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Transkateter Aort Kapak İmplantasyonu (TAVI), ciddi aort darlığı olan hastalar için geliştirilmiş devrim niteliğinde bir tedavi yöntemidir. Açık kalp ameliyatına bir alternatif olan bu minimal invaziv prosedür, hastaların daha hızlı iyileşmesini ve yaşam kalitelerini yeniden kazanmalarını sağlar.

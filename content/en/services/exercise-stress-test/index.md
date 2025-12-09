@@ -1,4 +1,4 @@
----
+﻿---
 title: "Exercise Stress Test - Cardiac Treadmill Test"
 description: "Expert exercise stress test in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs treadmill testing. Coronary artery disease diagnosis. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can another test be done instead of exercise stress test?"
       answer: "Pharmacological stress test or stress echocardiography can be performed in patients who cannot exercise."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Exercise stress test is an important diagnostic method that evaluates the heart's performance during exercise. It is widely used in detecting coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in exercise stress test evaluation.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "ICD - Ani Kardiyak Ölüm Önleme Cihazı"
 description: "İstanbul'da ICD implantasyonu. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile kardiyoverter defibrilatör takılması. Ventriküler aritmi tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "ICD şoku vermezse ne olur?"
       answer: "ICD sürekli kalbi izler. Tehlikeli ritim algılamazsa şok vermez. Bu normal çalışmadır."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 İmplante edilebilir kardiyoverter defibrilatör (ICD), hayatı tehdit eden kalp ritim bozukluklarını tespit edip tedavi eden gelişmiş bir elektronik cihazdır. ICD, ani kardiyak ölümü önlemede en etkili tedavi yöntemidir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, ICD implantasyonunda geniş deneyime sahip olup hastaların yaşamlarını korumak için en güncel teknolojileri kullanmaktadır.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Koroner Anjiyografi - Kalp Damar Görüntüleme İşlemi"
 description: "İstanbul'da koroner anjiyografi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp damarlarının görüntülenmesi. Tanısal kateterizasyon. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Anjiyografi sonrası ne zaman işe dönebilirim?"
       answer: "Çoğu hasta 1-2 gün içinde normal aktivitelerine dönebilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Koroner anjiyografi, kalp damarlarının (koroner arterler) röntgen ışınları ve kontrast madde kullanılarak görüntülenmesidir. Bu işlem, koroner arter hastalığının tanısında altın standart olarak kabul edilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, koroner anjiyografi işleminde geniş deneyime sahiptir.
 

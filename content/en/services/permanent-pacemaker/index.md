@@ -1,4 +1,4 @@
----
+﻿---
 title: "Permanent Pacemaker - Bradycardia Treatment"
 description: "Expert permanent pacemaker implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs pacemaker surgery. Bradycardia and heart block treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "How often are pacemaker check-ups done?"
       answer: "Check-ups are generally recommended every 6-12 months. More frequent monitoring is possible with remote monitoring systems."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 A permanent pacemaker is a small electronic device used to treat slow heartbeat (bradycardia) or conduction disorders. This device, placed under the chest skin, ensures the heart beats regularly. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in pacemaker implantation and uses the most current technologies.
 

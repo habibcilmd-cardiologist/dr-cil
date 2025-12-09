@@ -1,4 +1,4 @@
----
+﻿---
 title: "Temporary Pacemaker - Transvenous Pacing"
 description: "Expert temporary pacemaker insertion in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil provides emergency bradycardia treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Is a permanent pacemaker needed after temporary pacing?"
       answer: "It depends on the underlying cause. If reversible causes are corrected, a permanent pacemaker may not be needed."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 A temporary pacemaker is a device used to support heart rhythm in emergencies or until a permanent pacemaker is implanted. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in temporary pacing procedures.
 

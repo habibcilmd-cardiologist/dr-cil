@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Kalp Ritim Bozuklukları (Aritmiler): Türleri, Belirtileri ve Tedavisi'
 description: Kalp ritim bozuklukları nedir? Taşikardi, bradikardi, atriyal fibrilasyon
   gibi aritmilerin belirtileri, tanısı ve tedavi yöntemleri hakkında bilgi.
@@ -50,6 +50,11 @@ faq:
     özel protokoller gerektirir. Ablasyon genellikle gebelik öncesi veya sonrasına
     ertelenir. Her vaka bireysel olarak değerlendirilmelidir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Kalp ritim bozuklukları (aritmiler), kalbin normal elektriksel iletim sisteminin bozulması sonucu gelişen durumlardan biridir. Kalp çok hızlı, çok yavaş veya düzensiz atabilir. Bu kapsamlı rehberde farklı aritmi türlerini, belirtilerini, tanı yöntemlerini ve güncel tedavi seçeneklerini inceliyoruz.

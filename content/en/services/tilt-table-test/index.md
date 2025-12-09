@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tilt Table Test - Syncope Evaluation"
 description: "Expert tilt table test in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil investigates fainting causes. Vasovagal syncope diagnosis. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can I drive after tilt test?"
       answer: "It is recommended to rest for 1-2 hours after the test. If possible, come with a companion."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Tilt table test (head-up tilt test) is a diagnostic test used to investigate the cause of unexplained fainting (syncope) episodes. It is the gold standard method for diagnosing vasovagal syncope. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in tilt test evaluation.
 

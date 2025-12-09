@@ -1,4 +1,4 @@
----
+﻿---
 title: "Miyokard Enfarktüsü (Kalp Krizi) Acil Tedavisi"
 description: "İstanbul'da kalp krizi acil tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile primer PCI, acil anjiyoplasti ve stent. Avrasya Hospital 7/24 acil kardiyoloji."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Acil durumda ne yapmalıyım?"
       answer: "Kalp krizi belirtileri yaşadığınızda: 1) Hemen 112'yi arayın, 2) Varsa aspirin çiğneyin, 3) Sakin kalın ve oturun veya yarı yatar pozisyon alın, 4) Sıkı giysileri gevşetin. Asla kendiniz araba kullanarak hastaneye gitmeye çalışmayın."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kalbiniz, vücudunuzdaki en önemli organlardan biri olarak her gün yaklaşık 100.000 kez atarak tüm organlarınıza kan pompalar. Ancak kalbi besleyen koroner damarlar tıkandığında, bu hayati organın bir bölümü oksijensiz kalır ve geri dönüşü olmayan hasarlar meydana gelebilir. İşte bu durum, tıpta **miyokard enfarktüsü**, halk arasında ise **kalp krizi** olarak bilinir.
 

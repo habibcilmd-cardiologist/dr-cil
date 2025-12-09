@@ -1,4 +1,4 @@
----
+﻿---
 title: "Koroner Anjiyoplasti ve Stent - Damar Açma İşlemi"
 description: "İstanbul'da koroner anjiyoplasti ve stent tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile tıkalı damarların balon ve ilaç salınımlı stent ile açılması. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Stent ömür boyu kalır mı?"
       answer: "Evet, stent kalıcıdır ve zamanla damar duvarına entegre olur. Vücut tarafından kabul edilir ve normal yaşamı etkilemez."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Koroner anjiyoplasti, tıkalı veya daralmış koroner arterlerin balon ve stent kullanılarak açılması işlemidir. Perkütan koroner girişim (PKG) olarak da bilinen bu tedavi, kalp krizi ve anjina tedavisinde hayat kurtarıcı bir rol oynar. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, 20 yılı aşkın deneyimiyle binlerce başarılı anjiyoplasti ve stent işlemi gerçekleştirmiştir.
 

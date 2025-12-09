@@ -1,4 +1,4 @@
----
+﻿---
 title: "Surface Echocardiography - TTE Heart Ultrasound"
 description: "Expert surface echocardiography in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs transthoracic echocardiography. Heart ultrasound. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Is echocardiography harmful?"
       answer: "No, it uses ultrasound and contains no radiation."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Surface echocardiography (transthoracic echocardiography - TTE) is a heart ultrasound examination performed through the chest wall. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in echocardiography evaluation.
 

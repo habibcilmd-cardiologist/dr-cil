@@ -1,4 +1,4 @@
----
+﻿---
 title: "CABG - Coronary Artery Bypass Surgery"
 description: "Expert heart bypass surgery in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides coronary artery bypass graft surgery evaluation. CABG operation. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can I have stent instead of bypass?"
       answer: "In some patients, yes. Decision is made by heart team."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Heart bypass surgery is a surgical procedure that provides blood flow to the heart muscle by creating a new vessel pathway around blocked coronary arteries. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in pre and post bypass surgery evaluation.
 

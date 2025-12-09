@@ -1,4 +1,4 @@
----
+﻿---
 title: "ICD - Implantable Cardioverter Defibrillator Implantation"
 description: "Expert ICD implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil prevents sudden cardiac death. Ventricular arrhythmia treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "What if the ICD doesn't deliver a shock?"
       answer: "The ICD continuously monitors the heart. If it doesn't detect a dangerous rhythm, it won't deliver a shock. This is normal operation."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 An implantable cardioverter defibrillator (ICD) is an advanced electronic device that detects and treats life-threatening heart rhythm disorders. ICD is the most effective treatment method for preventing sudden cardiac death. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in ICD implantation and uses the most current technologies to protect patients' lives.
 

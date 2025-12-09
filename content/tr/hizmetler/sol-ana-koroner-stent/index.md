@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sol Ana Koroner Arter Stentleme (LMCA)"
 description: "İstanbul'da sol ana koroner arter stentleme. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile LMCA hastalığının girişimsel tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Sol ana stent ömür boyu kalır mı?"
       answer: "Evet, stent kalıcıdır. Düzenli takip ve ilaç kullanımı ile uzun yıllar sorunsuz kalır."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Sol ana koroner arter (LMCA), kalbin sol tarafını besleyen ana damardır ve kalp kasının yaklaşık %75'ini besler. Bu kritik damardaki hastalık, bypass cerrahisi veya stentleme ile tedavi edilebilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, sol ana koroner stentleme konusunda geniş deneyime sahip olup uygun hastalarda minimal invaziv tedavi sunmaktadır.
 

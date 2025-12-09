@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hiperlipidemi Tedavisi - Kolesterol ve Lipid Bozuklukları"
 description: "İstanbul'da hiperlipidemi (yüksek kolesterol) tedavisi ve lipid bozuklukları yönetimi. Doç. Dr. Habib ÇİL ile kalp sağlığınızı koruyun. LDL düşürme, diyet ve ilaç tedavileri."
 date: 2024-01-15
@@ -32,6 +32,11 @@ faq:
     - question: "Genetik kolesterol yüksekliği (Ailesel Hiperkolesterolemi) tedavi edilebilir mi?"
       answer: "Evet, erken tanı ve agresif tedavi ile kalp hastalığı riski önemli ölçüde azaltılabilir. Bu hastalarda genellikle yüksek doz statinler veya yeni nesil iğne tedavileri kullanılır."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< alert type="info" >}}
 Bu sayfa, hiperlipidemi (yüksek kolesterol) tanısı, riskleri ve tedavi yöntemleri hakkında kapsamlı bilgi sağlamak amacıyla hazırlanmıştır. Kalp ve damar sağlığınızı korumak için en güncel tıbbi yaklaşımları içermektedir.

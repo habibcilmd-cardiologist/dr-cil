@@ -1,4 +1,4 @@
----
+﻿---
 title: "Alcohol Septal Ablation - HOCM Treatment"
 description: "Expert alcohol septal ablation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs hypertrophic cardiomyopathy treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can I exercise after ASA?"
       answer: "Competitive sports are generally not recommended in HOCM patients. Light to moderate exercise can be done under doctor supervision."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Alcohol septal ablation (ASA) is a minimally invasive interventional procedure used in the treatment of hypertrophic obstructive cardiomyopathy (HOCM). In this procedure, alcohol is injected into the thickened septal muscle to create controlled damage and reduce left ventricular outflow tract obstruction. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in this specialized procedure.
 

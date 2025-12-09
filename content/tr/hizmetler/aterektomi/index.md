@@ -1,4 +1,4 @@
----
+﻿---
 title: "Aterektomi - Damar Plağı Temizleme İşlemi"
 description: "İstanbul'da aterektomi işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile damar plağı temizleme. Kalsifiye lezyon tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Aterektomi sonrası iyileşme süresi ne kadar?"
       answer: "Genellikle 1-2 gün hastanede kalış yeterlidir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Aterektomi, damar içindeki aterosklerotik plağın mekanik olarak temizlenmesidir. Özellikle kalsifiye lezyonlarda ve stent yerleştirmenin zor olduğu durumlarda kullanılır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, aterektomi işleminde geniş deneyime sahiptir.
 

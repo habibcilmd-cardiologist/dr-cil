@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Coronary Artery Disease: Causes, Symptoms and Treatment Methods'
 description: What is coronary artery disease? Learn about atherosclerosis, angina,
   heart attack risks, diagnostic methods and current treatment options.
@@ -54,6 +54,11 @@ faq:
     acute stress (sudden anger, shock) can trigger heart attack by causing coronary
     spasm or plaque rupture. Learning stress management techniques is important.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Coronary artery disease (CAD) is one of the leading causes of death worldwide. This condition develops due to narrowing or blockage in the arteries that supply the heart and can be controlled with early diagnosis and treatment. This comprehensive guide examines the causes, symptoms, diagnostic methods, and current treatment options for coronary artery disease.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kardiyak Stent - İlaç Salınımlı Stent İmplantasyonu"
 description: "İstanbul'da kardiyak stent. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile koroner stent implantasyonu. DES ilaç salınımlı stent. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Stent tıkanabilir mi?"
       answer: "Nadir görülür. İlaç uyumu ve yaşam tarzı değişikliği önemlidir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kardiyak stent, koroner arterlerdeki darlıkların açık tutulması için yerleştirilen metal kafes yapısıdır. Koroner arter hastalığının tedavisinde yaygın olarak kullanılır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, kardiyak stent implantasyonunda geniş deneyime sahiptir ve binlerce başarılı stent işlemi gerçekleştirmiştir.
 

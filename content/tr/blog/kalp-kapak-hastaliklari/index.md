@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Kalp Kapak Hastalıkları: Belirtileri, Tanısı ve Tedavisi'
 description: Kalp kapak hastalıkları hakkında kapsamlı rehber. Aort darlığı, mitral
   yetmezliği, kapak değişimi ve onarımı. Belirtiler, tanı yöntemleri ve modern tedavi
@@ -35,6 +35,11 @@ faq:
   answer: Bazı kapak hastalıkları (biküspit aort kapağı, mitral kapak prolapsusu)
     genetik yatkınlık gösterir. Ailede kapak hastalığı varsa tarama önerilir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Kalp kapak hastalıkları, kalbin dört kapağından birinin veya birkaçının düzgün çalışmaması sonucu ortaya çıkan durumlardır. Kapaklar daralabilir (stenoz), tam kapanmayabilir (yetmezlik) veya her ikisi birden olabilir. Erken tanı ve uygun tedavi ile hastaların büyük çoğunluğu normal yaşamlarına devam edebilir. Bu yazımda, kalp kapak hastalıklarının türlerini, belirtilerini, tanı yöntemlerini ve güncel tedavi seçeneklerini detaylı olarak ele alacağım.

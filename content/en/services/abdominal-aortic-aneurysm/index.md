@@ -1,4 +1,4 @@
----
+﻿---
 title: "Abdominal Aortic Aneurysm - AAA and EVAR Treatment"
 description: "Expert abdominal aortic aneurysm treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats AAA. EVAR and surgical treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "What is life like after aneurysm treatment?"
       answer: "After successful treatment, you can return to normal life. Regular follow-up is required."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Abdominal aortic aneurysm (AAA) is abnormal enlargement of the aorta in the abdominal region. It is a serious condition that can be life-threatening due to rupture risk. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating abdominal aortic aneurysm.
 

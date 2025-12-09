@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Aort Anevrizması: Belirtileri, Tanısı ve Modern Tedavi Yöntemleri'
 description: Aort anevrizması nedir? Torasik ve abdominal aort anevrizması belirtileri,
   risk faktörleri, tanı yöntemleri ve güncel tedavi seçenekleri hakkında kapsamlı
@@ -63,6 +63,11 @@ faq:
     anevrizması karın bölgesindeki aortu tutar, daha sık görülür ve genellikle ateroskleroz
     ile ilişkilidir. Belirtileri, tanı ve tedavi yaklaşımları farklılık gösterir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Aort anevrizması, vücudun ana atardamarı olan aortun duvarında zayıflama sonucu balonlaşma şeklinde genişlemesidir. Sessizce ilerleyebilen ve yırtılma riski taşıyan bu ciddi durum, erken tanı ve uygun tedavi ile kontrol altına alınabilir. Bu kapsamlı rehberde aort anevrizması türlerini, belirtilerini, risk faktörlerini, tanı yöntemlerini ve güncel tedavi seçeneklerini detaylı olarak ele alınmaktadır.

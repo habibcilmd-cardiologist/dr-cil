@@ -1,4 +1,4 @@
----
+﻿---
 title: "CRT Pacemaker - Cardiac Resynchronization Therapy"
 description: "Expert CRT implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs three-chamber pacemaker surgery. Heart failure treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can I lead a normal life with CRT?"
       answer: "Yes, you can continue your normal daily activities with CRT. In fact, your exercise capacity may increase."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Cardiac resynchronization therapy (CRT) is an advanced treatment method that ensures synchronized heart function in heart failure patients. Also known as a three-chamber pacemaker, CRT improves pumping function by stimulating both ventricles of the heart simultaneously. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in CRT implantation.
 

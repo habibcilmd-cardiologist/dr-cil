@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hypertension - High Blood Pressure Management"
 description: "Expert hypertension treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides high blood pressure diagnosis and medication management. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "How much does stress affect blood pressure?"
       answer: "Stress can cause temporary blood pressure elevations. However, chronic stress can contribute to the development of permanent hypertension. Stress management is an important part of treatment."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Hypertension, medically known as arterial hypertension and commonly called "high blood pressure," is a chronic health condition affecting millions worldwide. In Turkey, approximately 30% of the adult population has hypertension, with a significant portion remaining undiagnosed or inadequately treated. Known as the silent killer, this condition can lead to serious complications such as heart attack, stroke, kidney failure, and vision loss if not properly controlled.
 

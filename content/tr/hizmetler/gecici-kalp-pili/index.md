@@ -1,4 +1,4 @@
----
+﻿---
 title: "Geçici Kalp Pili - Acil Bradikardi Tedavisi"
 description: "İstanbul'da geçici kalp pili takılması. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile acil bradikardi tedavisi. Transvenöz pacing. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Geçici pacing sonrası kalıcı pacemaker gerekir mi?"
       answer: "Altta yatan nedene bağlıdır. Geri dönüşümlü nedenler düzelirse kalıcı pacemaker gerekmeyebilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Geçici kalp pili, acil durumlarda veya kalıcı pacemaker takılana kadar kalp ritmini desteklemek için kullanılan bir cihazdır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, geçici pacing işlemlerinde geniş deneyime sahiptir.
 

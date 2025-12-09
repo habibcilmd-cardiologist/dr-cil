@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitral Kapak Hastalığı - Darlık ve Yetersizlik Tedavisi"
 description: "İstanbul'da mitral kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile mitral darlığı ve yetersizliği. Balon valvüloplasti ve MitraClip. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Mitral kapak ameliyatı sonrası yaşam nasıl?"
       answer: "Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Mitral kapak hastalığı, sol atriyum ile sol ventrikül arasındaki kapağın işlev bozukluğudur. Mitral darlığı ve mitral yetersizliği olmak üzere iki ana formu vardır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, mitral kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kalıcı Kalp Pili (Pacemaker) İmplantasyonu"
 description: "İstanbul'da kalıcı kalp pili takılması. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile pacemaker implantasyonu. Bradikardi ve AV blok tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Kalp pili kontrolleri ne sıklıkta yapılır?"
       answer: "Genellikle 6-12 ayda bir kontrol önerilir. Uzaktan izleme sistemleri ile daha sık takip mümkündür."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kalıcı kalp pili (pacemaker), kalbin yavaş atmasını (bradikardi) veya iletim bozukluklarını tedavi etmek için kullanılan küçük bir elektronik cihazdır. Göğüs cildinin altına yerleştirilen bu cihaz, kalbin düzenli atmasını sağlar. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, kalp pili implantasyonunda geniş deneyime sahip olup en güncel teknolojileri kullanmaktadır.
 

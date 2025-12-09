@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kalp Nakli - Transplantasyon Değerlendirmesi"
 description: "İstanbul'da kalp nakli değerlendirmesi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp transplantasyonu öncesi ve sonrası takip. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Kalp nakli için yaş sınırı var mı?"
       answer: "Genellikle 70 yaş üstü göreceli kontrendikasyondur."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kalp nakli, son dönem kalp yetmezliğinde uygulanan hayat kurtarıcı cerrahi işlemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, kalp nakli öncesi değerlendirme ve sonrası takipte geniş deneyime sahiptir.
 

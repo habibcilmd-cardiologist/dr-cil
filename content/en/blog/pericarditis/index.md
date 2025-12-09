@@ -1,4 +1,4 @@
----
+﻿---
 title: What is Pericarditis? Causes, Symptoms, and Treatment Options
 description: Comprehensive guide to pericarditis. Learn about heart membrane inflammation
   causes, symptoms, diagnostic methods, and treatment options from a cardiology specialist.
@@ -50,6 +50,11 @@ faq:
     needed in constrictive pericarditis, recurrent large effusions, or cases not responding
     to medication therapy.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Pericarditis is inflammation of the thin membrane (pericardium) that surrounds the heart. Characterized by sharp chest pain, this condition usually develops after viral infections and can achieve complete recovery with appropriate treatment. In this comprehensive guide, I will discuss in detail what pericarditis is, its causes, symptoms, diagnostic methods, and treatment approaches.

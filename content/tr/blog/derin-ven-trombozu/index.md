@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Derin Ven Trombozu (DVT): Belirtileri, Riskleri ve Tedavi Yöntemleri'
 description: Derin Ven Trombozu (DVT) nedir? Bacakta pıhtı atması belirtileri, nedenleri ve risk faktörleri nelerdir? İstanbul'da ameliyatsız damar açma ve pıhtı tedavisi hakkında detaylı bilgi.
 date: 2025-12-07
@@ -33,6 +33,11 @@ faq:
 - question: Pıhtı akciğere atarsa ne olur?
   answer: Bu duruma "Pulmoner Emboli" denir ve hayati tehlike taşır. Ani nefes darlığı, göğüs ağrısı, kanlı öksürük ve çarpıntı gibi belirtilerle kendini gösterir. Acil tıbbi müdahale gerektirir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Derin Ven Trombozu (DVT), vücudun derin toplardamarlarında, sıklıkla bacaklarda kan pıhtısı oluşması durumudur. Sadece bacakta ağrı ve şişliğe neden olmakla kalmaz, pıhtının kopup akciğere gitmesi (Pulmoner Emboli) durumunda hayati risk oluşturabilir. DVT'nin erken tanısı, modern tedavi yöntemleri ve bu sinsi hastalıktan korunma yollarını bu rehberde detaylıca ele alınmaktadır.

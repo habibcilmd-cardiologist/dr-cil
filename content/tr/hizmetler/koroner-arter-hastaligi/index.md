@@ -1,4 +1,4 @@
----
+﻿---
 title: "Koroner Arter Hastalığı Tanı ve Tedavisi"
 description: "İstanbul'da koroner arter hastalığı tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile anjiyografi, anjiyoplasti ve stent. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Bypass mı stent mi daha iyi?"
       answer: 'Her iki tedavinin de avantajları vardır. Karar, hastanın anatomisi, eşlik eden hastalıkları ve tercihleri göz önünde bulundurularak "Kalp Takımı" tarafından verilir.'
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Koroner arter hastalığı (KAH), dünya genelinde kalp hastalıklarından ölümlerin birincil nedenidir. Kalbi besleyen koroner arterlerin daralması veya tıkanması sonucu gelişen bu durum, her yıl milyonlarca insanı etkilemektedir. Türkiye'de kardiyovasküler hastalıklar ölüm nedenlerinin başında gelmekte olup, koroner arter hastalığı bunların büyük bölümünü oluşturmaktadır. Erken tanı ve uygun tedavi ile bu hastalık kontrol altına alınabilir ve hastaların yaşam kalitesi önemli ölçüde artırılabilir.
 

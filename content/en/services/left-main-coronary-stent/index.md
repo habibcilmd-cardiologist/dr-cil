@@ -1,4 +1,4 @@
----
+﻿---
 title: "Left Main Coronary Artery Stenting - LMCA PCI"
 description: "Expert left main coronary artery stenting in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs LMCA disease treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Does the left main stent last a lifetime?"
       answer: "Yes, the stent is permanent. With regular follow-up and medication use, it remains trouble-free for many years."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 The left main coronary artery (LMCA) is the main vessel that supplies the left side of the heart and feeds approximately 75% of the heart muscle. Disease in this critical vessel can be treated with bypass surgery or stenting. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in left main coronary stenting and offers minimally invasive treatment in appropriate patients.
 

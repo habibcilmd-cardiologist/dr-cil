@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cardiovascular Prevention - Heart Health Risk Management"
 description: "Comprehensive guide to cardiovascular prevention. Risk assessment, lifestyle modifications, hypertension and lipid management by Assoc. Prof. Dr. Habib ÇİL in Istanbul."
 date: 2024-01-20
@@ -30,6 +30,11 @@ faq:
     - question: "Is alcohol consumption risky for heart health?"
       answer: "Excessive alcohol consumption can lead to hypertension, arrhythmias (atrial fibrillation), and heart muscle disease (cardiomyopathy). Limited or no consumption is recommended."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< alert type="info" >}}
 This content is prepared for informational purposes to promote public health, in accordance with medical ethical standards. It does not contain guarantees of cure or specific medical advice for individuals. Please consult a qualified healthcare provider for diagnosis and treatment.

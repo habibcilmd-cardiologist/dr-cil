@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Heart Attack Symptoms: Early Detection Saves Lives'
 description: What are the symptoms of a heart attack (myocardial infarction)? Learn
   about chest pain, shortness of breath, and other warning signs. Comprehensive guide
@@ -36,6 +36,11 @@ faq:
     reduce your risk by controlling other risk factors (blood pressure, cholesterol,
     smoking, exercise).
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 A heart attack is a serious, life-threatening condition that occurs when blood flow to the heart muscle is suddenly blocked. Every year, hundreds of thousands of people worldwide experience heart attacks, and many of these could have been prevented with early detection and proper intervention. In this comprehensive guide, I'll explain what a heart attack is, how to recognize the warning signs, and the life-saving steps you should take in an emergency.

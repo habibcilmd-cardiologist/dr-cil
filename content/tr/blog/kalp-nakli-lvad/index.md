@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Kalp Nakli ve LVAD: Son Dönem Kalp Yetmezliği Tedavileri'
 description: Kalp nakli ve LVAD (sol ventrikül destek cihazı) nedir? Son dönem kalp
   yetmezliği tedavisinde güncel yaklaşımlar, başarı oranları, yaşam beklentisi ve
@@ -93,6 +93,11 @@ faq:
     uzmanı, hematolog) tarafından yakın takip gerekir. Çoğu merkez LVAD'lı hastalarda
     gebeliği önermemektedir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Son dönem kalp yetmezliği, kalbin vücudun ihtiyaçlarını karşılayacak kadar kan pompalayamadığı ileri evre bir durumdur. Modern tıp, bu ciddi hastalıkla mücadelede iki önemli silah sunar: kalp nakli ve LVAD (sol ventrikül destek cihazı). Bu kapsamlı rehberde, her iki tedavi yönteminin detaylarını, kimler için uygun olduğunu, başarı oranlarını, risklerini ve hastaların yaşam kalitesi üzerindeki etkilerini ele alacağım.

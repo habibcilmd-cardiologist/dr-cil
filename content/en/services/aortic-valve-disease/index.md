@@ -1,4 +1,4 @@
----
+﻿---
 title: "Aortic Valve Disease - Stenosis and Regurgitation Treatment"
 description: "Expert aortic valve disease treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats aortic stenosis and regurgitation. TAVI and surgical options. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "What is life like after aortic valve surgery?"
       answer: "After successful treatment, you can return to normal life. Regular follow-up is required."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Aortic valve disease is dysfunction of the valve between the left ventricle and aorta. It has two main forms: aortic stenosis and aortic regurgitation. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating aortic valve diseases.
 

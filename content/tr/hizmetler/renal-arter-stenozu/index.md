@@ -1,4 +1,4 @@
----
+﻿---
 title: "Renal Arter Stenozu - Böbrek Damar Darlığı Tedavisi"
 description: "İstanbul'da renal arter stenozu tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile böbrek damar darlığı. Stent ve anjiyoplasti. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Fibromusküler displazide tedavi farklı mı?"
       answer: "Evet, genellikle sadece balon anjiyoplasti yeterlidir, stent gerekmez."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Renal arter stenozu, böbreği besleyen arterin daralmasıdır. Hipertansiyon ve böbrek yetmezliğine yol açabilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, renal arter stenozu tanı ve tedavisinde geniş deneyime sahiptir.
 

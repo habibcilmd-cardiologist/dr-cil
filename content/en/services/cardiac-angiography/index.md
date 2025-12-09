@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cardiac Angiography - Coronary Artery Imaging"
 description: "Expert cardiac angiography in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs heart angiography. Coronary artery imaging at Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Am I awake during angiography?"
       answer: "Yes, it is performed under local anesthesia and you are awake throughout the procedure."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Cardiac angiography is evaluation of heart vessels using X-ray imaging. It is the gold standard method for diagnosing coronary artery disease. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac angiography procedures.
 

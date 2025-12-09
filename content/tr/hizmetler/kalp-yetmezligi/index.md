@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kalp Yetmezliği Tanı ve Tedavisi"
 description: "İstanbul'da kalp yetmezliği tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile kapsamlı tanı, medikal tedavi ve cihaz tedavileri. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Kalp nakli için aday mıyım?"
       answer: "İleri evre kalp yetmezliğinde, diğer tedavilere yanıt vermeyen ve genel durumu uygun hastalarda kalp nakli değerlendirilebilir. Bu karmaşık bir süreçtir ve uzman ekip tarafından değerlendirilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kalp yetmezliği, kalbin vücudun ihtiyaç duyduğu kanı yeterince pompalayamaması durumudur. Dünya genelinde yaklaşık 64 milyon insanı etkileyen bu hastalık, özellikle 65 yaş üstü nüfusun %10'unu etkilemektedir. Türkiye'de ise yaklaşık 2 milyon kalp yetmezliği hastası bulunmaktadır. Modern tedavi yaklaşımlarıyla, hastaların büyük çoğunluğu kaliteli bir yaşam sürdürebilmektedir.
 

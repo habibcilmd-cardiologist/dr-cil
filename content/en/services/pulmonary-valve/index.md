@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pulmonary Valve Disease - Stenosis and Regurgitation"
 description: "Expert pulmonary valve disease treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats pulmonary stenosis and regurgitation. Balloon valvuloplasty. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Does pulmonary regurgitation require treatment?"
       answer: "Mild regurgitation usually does not require treatment. Valve replacement may be needed in severe regurgitation."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Pulmonary valve disease is dysfunction of the valve between the right ventricle and pulmonary artery. It has two main forms: pulmonary stenosis and pulmonary regurgitation. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating pulmonary valve diseases.
 

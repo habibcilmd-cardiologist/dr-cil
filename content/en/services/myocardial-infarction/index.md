@@ -1,4 +1,4 @@
----
+﻿---
 title: "Myocardial Infarction - Heart Attack Emergency Treatment"
 description: "Expert myocardial infarction treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil offers emergency coronary intervention, angioplasty, and stent. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "What should I do in an emergency?"
       answer: "If experiencing heart attack symptoms: 1) Call emergency services immediately, 2) Chew aspirin if available, 3) Stay calm and sit or recline in a semi-upright position, 4) Loosen tight clothing. Never try to drive yourself to the hospital."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Your heart, one of the most vital organ in your body, beats approximately 100,000 times daily, pumping blood to every organ. When the coronary arteries that supply blood to the heart become blocked, this essential organ is deprived of oxygen, and irreversible damage can occur. This condition is medically known as **myocardial infarction**, commonly called a **heart attack**.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Radyal Anjiyografi - Bilekten Koroner Görüntüleme"
 description: "İstanbul'da radyal anjiyografi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile bilekten koroner anjiyografi. Daha az komplikasyon, aynı gün taburculuk. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Radyal anjiyografi femoral anjiyografiden daha mı güvenli?"
       answer: "Evet, kanama ve komplikasyon riski daha düşüktür."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Radyal anjiyografi, koroner anjiyografinin bilek (radyal arter) yoluyla yapılmasıdır. Geleneksel kasık (femoral) erişime göre birçok avantajı vardır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, radyal anjiyografi işleminde geniş deneyime sahiptir.
 

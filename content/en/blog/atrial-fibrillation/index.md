@@ -1,4 +1,4 @@
----
+﻿---
 title: What is Atrial Fibrillation (AFib)? Symptoms, Causes, and Treatment
 description: Comprehensive guide to atrial fibrillation (AFib). Learn about irregular
   heart rhythm symptoms, risk factors, diagnosis methods, and modern treatment options
@@ -34,6 +34,11 @@ faq:
   answer: There is genetic predisposition. Risk increases if there's family history
     of AFib, but it's not inevitable. Lifestyle factors are also important.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Atrial fibrillation (AFib) is the most common heart rhythm disorder worldwide and increases stroke risk by 5 times. Characterized by irregular and rapid contractions of the heart's upper chambers (atria), this condition can be successfully managed with early diagnosis and appropriate treatment. In this comprehensive guide, I'll discuss what AFib is, how to recognize it, risk factors, and current treatment approaches.

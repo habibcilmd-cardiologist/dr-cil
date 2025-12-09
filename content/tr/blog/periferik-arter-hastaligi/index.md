@@ -1,4 +1,4 @@
----
+﻿---
 title: Periferik Arter Hastalığı Nedir? Belirtileri, Tanısı ve Tedavisi
 description: Periferik arter hastalığı hakkında kapsamlı rehber. Bacak damar tıkanıklığı
   belirtileri, risk faktörleri, tanı yöntemleri ve tedavi seçenekleri. Kardiyoloji
@@ -59,6 +59,11 @@ faq:
     riski önemli ölçüde azaltılabilir. Risk faktörlerinin erken dönemde kontrolü kritik
     öneme sahiptir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Periferik arter hastalığı (PAH), bacak ve kollardaki atardamarların daralması veya tıkanması sonucu ortaya çıkan ciddi bir dolaşım bozukluğudur. Genellikle ateroskleroz (damar sertliği) nedeniyle gelişen bu durum, erken tanı ve uygun tedavi ile ciddi komplikasyonlar önlenebilir. Bu kapsamlı rehberde, periferik arter hastalığının ne olduğunu, belirtilerini, risk faktörlerini, tanı yöntemlerini ve tedavi seçeneklerini detaylı olarak ele alınmaktadır.

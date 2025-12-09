@@ -1,4 +1,4 @@
----
+﻿---
 title: "Holter Monitörizasyonu - 24-48 Saat Ritim Takibi"
 description: "İstanbul'da Holter monitörizasyonu. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile 24-48 saat EKG takibi. Aritmi ve çarpıntı tanısı. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Holter takılıyken uyuyabilir miyim?"
       answer: "Evet, normal şekilde uyuyabilirsiniz. Cihaz uyku sırasında da kayıt yapar."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Holter monitörizasyonu, kalbin elektriksel aktivitesinin 24-48 saat veya daha uzun süre sürekli olarak kaydedilmesidir. Aralıklı ritim bozukluklarının tespitinde altın standart yöntemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, Holter değerlendirmesinde geniş deneyime sahiptir.
 

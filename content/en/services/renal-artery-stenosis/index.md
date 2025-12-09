@@ -1,4 +1,4 @@
----
+﻿---
 title: "Renal Artery Stenosis - Kidney Artery Stenting"
 description: "Expert renal artery stenosis treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats kidney artery narrowing. Stent and angioplasty. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Is treatment different in fibromuscular dysplasia?"
       answer: "Yes, usually balloon angioplasty alone is sufficient, stent is not needed."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Renal artery stenosis is narrowing of the artery that supplies the kidney. It can lead to hypertension and kidney failure. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating renal artery stenosis.
 

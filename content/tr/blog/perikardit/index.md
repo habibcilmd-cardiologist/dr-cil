@@ -1,4 +1,4 @@
----
+﻿---
 title: Perikardit Nedir? Nedenleri, Belirtileri ve Tedavi Yöntemleri
 description: Perikardit hakkında kapsamlı rehber. Kalp zarı iltihabının nedenleri,
   belirtileri, tanı yöntemleri ve tedavi seçenekleri. Kardiyoloji uzmanından bilgiler.
@@ -45,6 +45,11 @@ faq:
     perikardit, tekrarlayan büyük efüzyonlar veya ilaç tedavisine yanıt vermeyen olgularda
     gerekebilir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Perikardit, kalbi çevreleyen ince zarın (perikard) iltihaplanmasıdır. Keskin göğüs ağrısı ile karakterize bu durum, çoğunlukla viral enfeksiyonlar sonrası gelişir ve uygun tedavi ile tam iyileşme sağlanabilir. Bu kapsamlı rehberde, perikarditin ne olduğunu, nedenlerini, belirtilerini, tanı yöntemlerini ve tedavi yaklaşımlarını detaylı olarak ele alacağım.

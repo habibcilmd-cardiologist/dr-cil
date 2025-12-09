@@ -1,4 +1,4 @@
----
+﻿---
 title: 'TAVI Treatment: Minimally Invasive Aortic Valve Replacement'
 description: TAVI (Transcatheter Aortic Valve Implantation) treats aortic valve disease
   without open-heart surgery. Learn about the procedure, benefits, and outcomes from
@@ -56,6 +56,11 @@ faq:
     for severe aortic stenosis is to replace the valve (either surgically or with
     TAVI).
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Transcatheter Aortic Valve Implantation (TAVI) is a revolutionary treatment developed for patients with severe aortic stenosis. As an alternative to open-heart surgery, this minimally invasive procedure allows patients to recover faster and regain their quality of life.

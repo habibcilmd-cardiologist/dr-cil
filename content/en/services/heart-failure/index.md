@@ -1,4 +1,4 @@
----
+﻿---
 title: "Heart Failure - Comprehensive Management"
 description: "Expert heart failure treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides comprehensive heart failure diagnosis and advanced treatment options. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Am I a candidate for heart transplant?"
       answer: "In advanced-stage heart failure, heart transplantation may be considered for patients who don't respond to other treatments and whose overall condition is suitable. This is a complex process evaluated by a specialist team."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Heart failure is a condition where the heart cannot pump enough blood to meet the body's needs. This disease affects approximately 64 million people worldwide, particularly affecting 10% of the population over 65 years of age. In Turkey, there are approximately 2 million heart failure patients. With modern treatment approaches, the vast majority of patients can maintain a quality life.
 

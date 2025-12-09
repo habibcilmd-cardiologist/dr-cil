@@ -1,4 +1,4 @@
----
+﻿---
 title: "Üç Odacıklı Kalp Pili (CRT) - Resenkronizasyon Tedavisi"
 description: "İstanbul'da CRT implantasyonu. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile üç odacıklı kalp pili takılması. Kalp yetmezliği tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "CRT ile normal yaşam sürdürebilir miyim?"
       answer: "Evet, CRT ile normal günlük aktivitelerinizi sürdürebilirsiniz. Hatta egzersiz kapasiteniz artabilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kardiyak resenkronizasyon tedavisi (CRT), kalp yetmezliği hastalarında kalbin senkronize çalışmasını sağlayan ileri bir tedavi yöntemidir. Üç odacıklı kalp pili olarak da bilinen CRT, kalbin her iki ventrikülünü aynı anda uyararak pompalama fonksiyonunu iyileştirir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, CRT implantasyonunda geniş deneyime sahiptir.
 

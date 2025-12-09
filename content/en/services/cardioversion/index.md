@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cardioversion - Electrical Heart Rhythm Restoration"
 description: "Expert cardioversion procedure in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats atrial fibrillation. Electrical and pharmacological cardioversion. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Do I need to take medication after cardioversion?"
       answer: "Yes, anticoagulant and antiarrhythmic medications are usually required. Duration and type are determined by the doctor."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Cardioversion is a treatment method applied to restore abnormal heart rhythm to normal sinus rhythm. It can be performed electrically or pharmacologically. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in cardioversion procedures.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yüzeyel Ekokardiyografi (TTE) - Kalp Ultrasonu"
 description: "İstanbul'da yüzeyel ekokardiyografi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile transtorasik ekokardiyografi. Kalp ultrasonu. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Ekokardiyografi zararlı mı?"
       answer: "Hayır, ultrason kullanır ve radyasyon içermez."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Yüzeyel ekokardiyografi (transtorasik ekokardiyografi - TTE), göğüs duvarı üzerinden yapılan kalp ultrasonu tetkikidir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, ekokardiyografi değerlendirmesinde geniş deneyime sahiptir.
 

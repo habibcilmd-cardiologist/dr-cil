@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cardiac Catheterization - Diagnostic and Interventional"
 description: "Expert cardiac catheterization in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs heart catheter procedures. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Am I awake during catheterization?"
       answer: "Yes, it is performed under local anesthesia and you are awake throughout the procedure."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Cardiac catheterization is a diagnostic and therapeutic procedure performed by placing a catheter into heart chambers and vessels. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in cardiac catheterization procedures.
 

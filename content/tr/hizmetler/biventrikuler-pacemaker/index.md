@@ -1,4 +1,4 @@
----
+﻿---
 title: "Biventriküler Pacemaker - CRT Tedavisi"
 description: "İstanbul'da biventriküler pacemaker implantasyonu. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile kardiyak resenkronizasyon tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Biventriküler pacemaker ile normal yaşam sürdürebilir miyim?"
       answer: "Evet, normal günlük aktivitelerinizi sürdürebilirsiniz. Egzersiz kapasiteniz artabilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Biventriküler pacemaker, kalp yetmezliği hastalarında her iki ventrikülü senkronize şekilde uyararak kalp fonksiyonunu iyileştiren özel bir cihazdır. Kardiyak resenkronizasyon tedavisi (CRT) olarak da bilinir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, biventriküler pacemaker implantasyonunda geniş deneyime sahiptir.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Kolesterol Yönetimi: Yüksek Kolesterol Nedenleri, Riskleri ve Tedavisi'
 description: Yüksek kolesterol hakkında kapsamlı rehber. LDL ve HDL kolesterol nedir,
   normal değerler, risk faktörleri, diyet önerileri ve ilaç tedavisi. Kardiyoloji
@@ -33,6 +33,11 @@ faq:
   answer: Egzersiz, kilo verme, sigarayı bırakma ve sağlıklı yağlar (zeytinyağı, balık)
     HDL'yi artırır. İlaçlarla HDL artışı sınırlıdır.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Yüksek kolesterol, kalp krizi ve inme gibi kardiyovasküler hastalıkların en önemli risk faktörlerinden biridir. Genellikle belirti vermeden yıllarca damar sağlığını tehdit eden bu durum, erken tanı ve uygun tedavi ile başarıyla kontrol altına alınabilir. Bu yazıda, kolesterolün ne olduğunu, neden önemli olduğunu, risk faktörlerini ve etkili yönetim stratejilerini detaylı olarak ele alınmaktadır.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ambulatuvar Kardiyak İzleme - Ayaktan Ritim Takibi"
 description: "İstanbul'da ambulatuvar kardiyak izleme. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile ayaktan kalp ritmi takibi. Holter, event recorder. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Holter sonuçları ne zaman çıkar?"
       answer: "Genellikle 1-2 gün içinde sonuçlar hazır olur."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Ambulatuvar kardiyak izleme, günlük yaşam sırasında kalp ritminin sürekli kaydedilmesidir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, ambulatuvar kardiyak izleme ve değerlendirmede geniş deneyime sahiptir.
 

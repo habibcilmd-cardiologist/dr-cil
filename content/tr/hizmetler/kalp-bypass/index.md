@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kalp Bypass (CABG) - Koroner Arter Bypass Cerrahisi"
 description: "İstanbul'da kalp bypass ameliyatı. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile koroner arter bypass greft cerrahisi. CABG operasyonu. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Bypass yerine stent olabilir mi?"
       answer: "Bazı hastalarda evet. Karar kalp takımı tarafından verilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kalp bypass ameliyatı, tıkalı koroner arterlerin etrafından yeni damar yolu oluşturarak kalp kasına kan akışını sağlayan cerrahi işlemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, bypass cerrahisi öncesi ve sonrası değerlendirmede geniş deneyime sahiptir.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Efor Testi - Koşu Bandı Stres Testi"
 description: "İstanbul'da efor testi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile egzersiz stres testi. Koroner arter hastalığı tanısı ve risk değerlendirmesi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Efor testi yerine başka test yapılabilir mi?"
       answer: "Egzersiz yapamayan hastalarda farmakolojik stres testi veya stres ekokardiyografi yapılabilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Efor testi, kalbin egzersiz sırasındaki performansını değerlendiren önemli bir tanı yöntemidir. Koroner arter hastalığının tespitinde yaygın olarak kullanılır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, efor testi değerlendirmesinde geniş deneyime sahiptir.
 

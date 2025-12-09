@@ -1,4 +1,4 @@
----
+﻿---
 title: Hipertansiyon (Yüksek Tansiyon) Nedir?
 description: Hipertansiyon belirtileri, nedenleri ve tedavi yöntemleri. Yüksek tansiyon
   nasıl kontrol altına alınır? Yaşam tarzı değişiklikleri, ilaç tedavisi ve korunma
@@ -35,6 +35,11 @@ faq:
     Preeklampsi gibi ciddi durumlar gelişebilir. Mutlaka doktor kontrolünde takip
     edilmelidir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Hipertansiyon, dünya genelinde en yaygın kronik hastalıklardan biri olup kalp krizi, inme ve böbrek yetmezliği gibi ciddi sağlık sorunlarının başlıca nedenidir. "Sessiz katil" olarak adlandırılmasının nedeni, genellikle yıllarca hiçbir belirti vermeden organ hasarına yol açabilmesidir. Bu yazımda, hipertansiyonun ne olduğunu, nasıl tanınacağını, risk faktörlerini ve etkili tedavi yöntemlerini detaylı olarak ele alacağım.

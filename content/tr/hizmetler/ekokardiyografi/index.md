@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ekokardiyografi - Kalp Ultrasonu ve EKO"
 description: "İstanbul'da ekokardiyografi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile transtorasik ve transözofageal EKO. Kalp kapak ve fonksiyon değerlendirmesi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Ekokardiyografi sonucu ne zaman çıkar?"
       answer: "Sonuçlar genellikle aynı gün değerlendirilir ve raporlanır."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Ekokardiyografi, ultrason dalgaları kullanarak kalbin yapısını ve fonksiyonunu değerlendiren non-invaziv bir görüntüleme yöntemidir. Kardiyolojide en değerli tanı araçlarından biridir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, ekokardiyografi yorumlamasında geniş deneyime sahiptir ve binlerce EKO değerlendirmesi yapmıştır.
 

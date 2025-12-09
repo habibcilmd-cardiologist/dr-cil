@@ -1,4 +1,4 @@
----
+﻿---
 title: "Miyokard Perfüzyon Sintigrafisi (MPS) - Talyum Testi"
 description: "İstanbul'da miyokard perfüzyon sintigrafisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp kan akımı değerlendirmesi. İskemi tanısı. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "MPS hamilelikte yapılabilir mi?"
       answer: "Hayır, hamilelik döneminde radyasyon içeren testler yapılmaz."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Miyokard perfüzyon sintigrafisi (MPS), kalp kasına olan kan akımını değerlendiren nükleer tıp görüntüleme yöntemidir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, MPS sonuçlarının yorumlanmasında geniş deneyime sahiptir.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Venöz Yetmezlik - Varis ve Toplardamar Tedavisi"
 description: "İstanbul'da venöz yetmezlik tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile toplardamar yetmezliği. Varis tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Tedavi sonrası ne zaman işe dönebilirim?"
       answer: "Genellikle 1-2 gün içinde normal aktivitelere dönülebilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Venöz yetmezlik, bacak toplardamarlarındaki kapakların işlev bozukluğudur. Varis, şişlik ve cilt değişikliklerine yol açar. Kardiyoloji uzmanı Doç. Dr. Habib Çil, venöz yetmezlik tanı ve tedavisinde geniş deneyime sahiptir.
 

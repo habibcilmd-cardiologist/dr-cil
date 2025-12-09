@@ -1,4 +1,4 @@
----
+﻿---
 title: "Atherectomy - Rotational and Orbital Plaque Removal"
 description: "Expert atherectomy procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs vascular plaque removal. Peripheral artery disease treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "How long is recovery after atherectomy?"
       answer: "Usually 1-2 days hospital stay is sufficient."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Atherectomy is mechanical removal of atherosclerotic plaque from inside the vessel. It is used especially in calcified lesions and situations where stent placement is difficult. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in atherectomy procedures.
 

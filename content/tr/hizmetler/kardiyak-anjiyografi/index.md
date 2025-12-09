@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kardiyak Anjiyografi - Koroner Arter Görüntüleme"
 description: "İstanbul'da kardiyak anjiyografi işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile koroner arter görüntüleme ve tanı. Radyal ve femoral anjiyografi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Anjiyografi sırasında uyanık mıyım?"
       answer: "Evet, lokal anestezi ile yapılır ve işlem boyunca uyanıksınız."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kardiyak anjiyografi, kalp damarlarının röntgen görüntüleme ile değerlendirilmesidir. Koroner arter hastalığının tanısında altın standart yöntemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, 20 yılı aşkın deneyimiyle binlerce başarılı kardiyak anjiyografi işlemi gerçekleştirmiştir.
 

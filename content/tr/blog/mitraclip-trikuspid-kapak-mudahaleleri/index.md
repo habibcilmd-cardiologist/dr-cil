@@ -1,4 +1,4 @@
----
+﻿---
 title: MitraClip ve Triküspid Kapak Müdahaleleri - Ameliyatsız Kapak Tedavisi
 description: İstanbul'da MitraClip ve triküspid kapak müdahaleleri. Doç. Dr. Habib
   Çil ile mitral ve triküspid yetersizliği tedavisi. Minimal invaziv kateter yöntemi.
@@ -70,6 +70,11 @@ faq:
     ve uzun süreli yetersizlik genellikle kalıcıdır ve tedavi gerektirir. Erken müdahale
     daha iyi sonuçlar verir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Kalp kapak hastalıkları, özellikle mitral ve triküspid yetersizliği, yaşam kalitesini ciddi şekilde etkileyen durumlardır. Geleneksel açık kalp cerrahisi birçok hasta için yüksek risk taşırken, MitraClip ve triküspid kapak müdahaleleri gibi minimal invaziv yöntemler umut verici alternatifler sunmaktadır. Bu kapsamlı rehberde, ameliyatsız kapak tedavi yöntemlerini, endikasyonlarını, işlem sürecini ve beklenen sonuçları detaylı olarak ele alacağım.

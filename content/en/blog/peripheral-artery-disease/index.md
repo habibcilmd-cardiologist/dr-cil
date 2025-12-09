@@ -1,4 +1,4 @@
----
+﻿---
 title: What is Peripheral Artery Disease? Symptoms, Diagnosis, and Treatment
 description: Comprehensive guide to peripheral artery disease. Learn about leg artery
   blockage symptoms, risk factors, diagnostic methods, and treatment options from
@@ -55,6 +55,11 @@ faq:
     control, and diabetes management. Early control of risk factors is critically
     important.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Peripheral artery disease (PAD) is a serious circulatory disorder that occurs when arteries in the legs and arms narrow or become blocked. This condition, which usually develops due to atherosclerosis (hardening of the arteries), can prevent serious complications with early diagnosis and appropriate treatment. In this comprehensive guide, I will discuss in detail what peripheral artery disease is, its symptoms, risk factors, diagnostic methods, and treatment options.

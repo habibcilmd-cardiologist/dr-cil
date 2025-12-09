@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kardiyoversiyon - Elektriksel Ritim Düzeltme"
 description: "İstanbul'da kardiyoversiyon işlemi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile atriyal fibrilasyon tedavisi. Elektriksel ve farmakolojik kardiyoversiyon. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Kardiyoversiyon sonrası ilaç kullanmam gerekir mi?"
       answer: "Evet, antikoagülan ve antiaritmik ilaçlar genellikle gereklidir. Süre ve tip doktor tarafından belirlenir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kardiyoversiyon, anormal kalp ritmini normal sinüs ritmine döndürmek için uygulanan bir tedavi yöntemidir. Elektriksel veya farmakolojik olarak yapılabilir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, kardiyoversiyon işleminde geniş deneyime sahiptir.
 

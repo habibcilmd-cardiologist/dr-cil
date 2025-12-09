@@ -1,4 +1,4 @@
----
+﻿---
 title: Miyokardit (Kalp Kası İltihabı) Nedir? Belirtileri, Nedenleri ve Tedavisi
 description: Miyokardit (kalp kası iltihabı) hakkında kapsamlı rehber. Gizli tehlike
   miyokarditin belirtileri, nedenleri, tanı yöntemleri ve güncel tedavi seçeneklerini
@@ -45,6 +45,11 @@ faq:
   answer: Evet. Kalp sağlığını destekleyen, tuzu kısıtlanmış, sebze ve meyve ağırlıklı
     bir diyet iyileşme sürecini destekler ve kalp yükünü hafifletir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Miyokardit, genellikle viral enfeksiyonların tetiklediği, kalp kasının iltihaplanması durumudur. "Gençlerde ani ölüm" denince akla gelen ilk sebeplerden biri olan bu hastalık; bazen hafif bir göğüs ağrısıyla atlatılabilirken, bazen de hayatı tehdit eden kalp yetmezliğine yol açabilir. Bu kapsamlı rehberde, miyokarditin ne olduğu, belirtileri, nedenleri ve tedavi süreçlerinizi sizin için detaylandırdım.

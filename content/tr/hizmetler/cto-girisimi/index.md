@@ -1,4 +1,4 @@
----
+﻿---
 title: "CTO Girişimi - Kronik Total Oklüzyon Açma"
 description: "İstanbul'da CTO girişimi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile tamamen tıkalı koroner arterlerin açılması. Retrograd ve antegrad teknikler. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Her CTO açılabilir mi?"
       answer: "Hayır, bazı CTO'lar anatomik veya teknik nedenlerle açılamayabilir. Ancak deneyimli operatörler ve modern tekniklerle başarı oranları %90'ın üzerine çıkmıştır."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kronik total oklüzyon (CTO), koroner arterin en az 3 aydır tamamen tıkalı olması durumudur. CTO girişimi, bu tıkalı damarların özel tekniklerle açılmasını sağlayan ileri düzey bir kardiyolojik işlemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, CTO alanında uzmanlaşmış deneyimli bir operatör olarak daha önce "açılamaz" denilen birçok vakayı başarıyla tedavi etmiştir.
 

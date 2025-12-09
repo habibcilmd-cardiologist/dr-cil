@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kateter Ablasyon - Kalp Ritim Bozukluğu Tedavisi"
 description: "İstanbul'da kateter ablasyon. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile AF ablasyonu, SVT ve aritmi tedavisi. Radyofrekans ve kriyoablasyon. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Ablasyon başarısız olursa ne olur?"
       answer: "Tekrar ablasyon yapılabilir veya medikal tedavi ile devam edilebilir. Bazı vakalarda cerrahi ablasyon değerlendirilebilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Kateter ablasyon, kalp ritim bozukluklarının (aritmilerin) tedavisinde kullanılan minimal invaziv bir işlemdir. Bu işlemde, aritmiye neden olan anormal kalp dokusuna radyofrekans veya kriyoterapi uygulanarak kalıcı tedavi sağlanır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, aritmi ablasyonunda geniş deneyime sahip olup yüzlerce başarılı ablasyon işlemi gerçekleştirmiştir.
 

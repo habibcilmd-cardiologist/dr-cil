@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Koroner Arter Hastalığı: Nedenleri, Belirtileri ve Tedavi Yöntemleri'
 description: Koroner arter hastalığı nedir? Ateroskleroz, anjina, kalp krizi riskleri,
   tanı yöntemleri ve güncel tedavi seçenekleri hakkında detaylı bilgi.
@@ -55,6 +55,11 @@ faq:
     stres (ani öfke, şok) koroner spazma veya plak rüptürüne neden olarak kalp krizini
     tetikleyebilir. Stres yönetimi teknikleri öğrenmek önemlidir.
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 {{< lead >}}
 Koroner arter hastalığı (KAH), dünya genelinde en sık ölüm nedenlerinden biridir. Kalbi besleyen damarlardaki daralma veya tıkanmalar sonucu gelişen bu hastalık, erken tanı ve tedavi ile kontrol altına alınabilir. Bu kapsamlı rehberde koroner arter hastalığının nedenleri, belirtileri, tanı yöntemleri ve güncel tedavi seçeneklerini inceliyoruz.

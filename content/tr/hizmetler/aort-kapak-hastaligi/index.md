@@ -1,4 +1,4 @@
----
+﻿---
 title: "Aort Kapak Hastalığı - Darlık ve Yetersizlik Tedavisi"
 description: "İstanbul'da aort kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile aort darlığı ve yetersizliği. TAVI ve cerrahi seçenekler. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Aort kapak ameliyatı sonrası yaşam nasıl?"
       answer: "Başarılı tedavi sonrası normal yaşama dönülebilir. Düzenli takip gerekir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Aort kapak hastalığı, kalbin sol ventrikülü ile aort arasındaki kapağın işlev bozukluğudur. Aort darlığı (stenoz) ve aort yetersizliği (regürjitasyon) olmak üzere iki ana formu vardır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, aort kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
 

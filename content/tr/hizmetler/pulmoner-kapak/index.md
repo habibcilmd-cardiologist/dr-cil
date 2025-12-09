@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pulmoner Kapak Hastalığı - Darlık ve Yetersizlik Tedavisi"
 description: "İstanbul'da pulmoner kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile pulmoner darlık ve yetersizlik. Balon valvüloplasti. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Pulmoner yetersizlik tedavi gerektirir mi?"
       answer: "Hafif yetersizlik genellikle tedavi gerektirmez. Ciddi yetersizlikte kapak replasmanı gerekebilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Pulmoner kapak hastalığı, sağ ventrikül ile pulmoner arter arasındaki kapağın işlev bozukluğudur. Pulmoner darlık ve pulmoner yetersizlik olmak üzere iki ana formu vardır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, pulmoner kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
 

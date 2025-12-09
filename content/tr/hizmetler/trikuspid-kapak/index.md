@@ -1,4 +1,4 @@
----
+﻿---
 title: "Triküspit Kapak Hastalığı - Yetersizlik Tedavisi"
 description: "İstanbul'da triküspit kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile triküspit yetersizliği. Kateter ve cerrahi tedavi. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Triküspit yetersizliği kendiliğinden düzelir mi?"
       answer: "Altta yatan neden tedavi edilirse fonksiyonel yetersizlik azalabilir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 Triküspit kapak hastalığı, sağ atriyum ile sağ ventrikül arasındaki kapağın işlev bozukluğudur. En sık triküspit yetersizliği görülür. Kardiyoloji uzmanı Doç. Dr. Habib Çil, triküspit kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Heart Valve Diseases: Symptoms, Diagnosis, and Treatment'
 description: Comprehensive guide to heart valve diseases. Aortic stenosis, mitral
   regurgitation, valve replacement and repair. Symptoms, diagnostic methods, and modern
@@ -36,6 +36,11 @@ faq:
     genetic predisposition. Screening is recommended if there's family history of
     valve disease.
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 {{< lead >}}
 Heart valve diseases occur when one or more of the heart's four valves don't function properly. Valves can become narrowed (stenosis), fail to close completely (regurgitation), or both. With early diagnosis and appropriate treatment, the vast majority of patients can continue their normal lives. In this article, I'll discuss the types of heart valve diseases, symptoms, diagnostic methods, and current treatment options in detail.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "MitraClip - Ameliyatsız Mitral Kapak Tedavisi"
 description: "İstanbul'da MitraClip işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile mitral yetersizliği tedavisi. Kateter ile kapak tamiri. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "MitraClip sonrası kan sulandırıcı kullanmam gerekir mi?"
       answer: "Duruma göre değişir. Doktorunuz size uygun tedaviyi belirleyecektir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 MitraClip, ciddi mitral yetersizliğinin kateter yoluyla tedavi edilmesidir. Açık kalp cerrahisine alternatif minimal invaziv bir yöntemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, MitraClip işleminde geniş deneyime sahiptir.
 

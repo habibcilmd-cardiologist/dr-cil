@@ -1,4 +1,4 @@
----
+﻿---
 title: "Biventricular Pacemaker - CRT Implantation"
 description: "Expert biventricular pacemaker implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats heart failure with CRT therapy. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can I lead a normal life with a biventricular pacemaker?"
       answer: "Yes, you can continue your normal daily activities. Your exercise capacity may increase."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 A biventricular pacemaker is a special device that improves heart function by stimulating both ventricles synchronously in heart failure patients. It is also known as cardiac resynchronization therapy (CRT). Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in biventricular pacemaker implantation.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Balloon Valvuloplasty - Percutaneous Valve Dilation"
 description: "Expert balloon valvuloplasty in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs mitral and aortic valve dilation. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Am I suitable for balloon valvuloplasty?"
       answer: "Decision is made by evaluating valve anatomy and accompanying conditions."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Balloon valvuloplasty is a procedure to dilate a narrowed heart valve using a balloon catheter. It is an effective treatment method especially for mitral and pulmonary valve stenosis. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in balloon valvuloplasty procedures.
 

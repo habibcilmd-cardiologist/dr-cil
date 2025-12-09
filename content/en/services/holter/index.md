@@ -1,4 +1,4 @@
----
+﻿---
 title: "Holter Monitoring - Ambulatory ECG Recording"
 description: "Expert Holter monitoring in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides 24-48 hour ECG monitoring. Arrhythmia diagnosis. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Can I sleep while wearing a Holter?"
       answer: "Yes, you can sleep normally. The device records during sleep as well."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 Holter monitoring is the continuous recording of the heart's electrical activity for 24-48 hours or longer. It is the gold standard method for detecting intermittent rhythm disorders. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in Holter evaluation.
 

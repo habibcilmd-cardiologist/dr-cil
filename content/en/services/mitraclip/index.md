@@ -1,4 +1,4 @@
----
+﻿---
 title: "MitraClip - Transcatheter Mitral Valve Repair"
 description: "Expert MitraClip procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats mitral regurgitation. Non-surgical valve treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "Do I need blood thinners after MitraClip?"
       answer: "It varies by situation. Your doctor will determine the appropriate treatment for you."
 ---
+
+{{< alert type="info" >}}
+This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
+{{< /alert >}}
+
 
 MitraClip is catheter-based treatment of severe mitral regurgitation. It is a minimally invasive alternative to open heart surgery. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in MitraClip procedures.
 

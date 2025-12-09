@@ -1,4 +1,4 @@
----
+﻿---
 title: "LVAD - Sol Ventrikül Destek Cihazı Takibi"
 description: "İstanbul'da LVAD değerlendirmesi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile sol ventrikül destek cihazı takibi. Mekanik kalp desteği. Avrasya Hospital."
 date: 2024-01-15
@@ -24,6 +24,11 @@ faq:
     - question: "LVAD sonrası MR çekilebilir mi?"
       answer: "Hayır, LVAD MR uyumlu değildir."
 ---
+
+{{< alert type="info" >}}
+Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
+{{< /alert >}}
+
 
 LVAD (Sol Ventrikül Destek Cihazı), ileri kalp yetmezliğinde kalbin pompalama fonksiyonunu destekleyen mekanik cihazdır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, LVAD hastalarının takibinde geniş deneyime sahiptir.
 
