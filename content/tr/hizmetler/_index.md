@@ -11,12 +11,11 @@ translationKey: "services"
 ## 🏥 Uygulanan Tedaviler ve Yöntemler
 
 ### 🫀 Klinik Kardiyoloji {#klinik-kardiyoloji}
-
 <div class="services-grid">
-  <a href="/tr/hizmetler/miyokard-enfarktusu/" class="service-card"><div class="service-icon">💔</div><h4>Miyokard Enfarktüsü</h4><p>Kalp Krizi - Acil müdahale ve tedavi</p></a>
   <a href="/tr/hizmetler/hipertansiyon/" class="service-card"><div class="service-icon">📈</div><h4>Hipertansiyon</h4><p>Yüksek Tansiyon - Tanı, tedavi ve takip</p></a>
-  <a href="/tr/hizmetler/kalp-yetmezligi/" class="service-card"><div class="service-icon">💗</div><h4>Kalp Yetmezliği</h4><p>Kalp yetersizliği tedavisi</p></a>
-  <a href="/tr/hizmetler/koroner-arter-hastaligi/" class="service-card"><div class="service-icon">❤️</div><h4>Koroner Arter Hastalığı</h4><p>Koroner damar hastalıkları</p></a>
+  <a href="/tr/hizmetler/hiperlipidemi-tedavisi/" class="service-card"><div class="service-icon">🩸</div><h4>Hiperlipidemi Tedavisi</h4><p>Kolesterol ve lipid bozuklukları tedavisi</p></a>
+  <a href="/tr/hizmetler/kardiyovaskuler-korunma/" class="service-card"><div class="service-icon">🛡️</div><h4>Kardiyovasküler Korunma</h4><p>Kalp sağlığını koruma ve risk yönetimi</p></a>
+  <a href="/tr/hizmetler/kalp-yetmezligi/" class="service-card"><div class="service-icon">💗</div><h4>Kalp Yetersizliği</h4><p>Kalp yetersizliği tedavisi</p></a>
 </div>
 
 ---
@@ -96,6 +95,8 @@ translationKey: "services"
 ### 💓 Koroner Girişimler {#koroner-girisimler}
 
 <div class="services-grid">
+  <a href="/tr/hizmetler/miyokard-enfarktusu/" class="service-card"><div class="service-icon">💔</div><h4>Miyokard Enfarktüsü</h4><p>Kalp Krizi - Acil müdahale ve tedavi</p></a>
+  <a href="/tr/hizmetler/koroner-arter-hastaligi/" class="service-card"><div class="service-icon">❤️</div><h4>Koroner Arter Hastalığı</h4><p>Koroner damar hastalıkları</p></a>
   <a href="/tr/hizmetler/kardiyak-anjiyografi/" class="service-card"><div class="service-icon">💉</div><h4>Kardiyak Anjiyografi</h4><p>Kalp anjiyografi</p></a>
   <a href="/tr/hizmetler/kardiyak-kateterizasyon/" class="service-card"><div class="service-icon">🔬</div><h4>Kardiyak Kateterizasyon</h4><p>Kalp kateteri işlemi</p></a>
   <a href="/tr/hizmetler/kardiyak-stent/" class="service-card"><div class="service-icon">⭐</div><h4>Kardiyak Stent</h4><p>Koroner stent implantasyonu</p></a>

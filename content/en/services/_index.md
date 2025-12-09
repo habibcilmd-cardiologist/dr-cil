@@ -13,10 +13,10 @@ translationKey: "services"
 ### 🫀 Clinical Cardiology {#clinical-cardiology}
 
 <div class="services-grid">
-  <a href="/services/myocardial-infarction/" class="service-card"><div class="service-icon">💔</div><h4>Myocardial Infarction</h4><p>Heart Attack - Emergency intervention</p></a>
   <a href="/services/hypertension/" class="service-card"><div class="service-icon">📈</div><h4>Hypertension</h4><p>High Blood Pressure - Diagnosis and treatment</p></a>
+  <a href="/services/hyperlipidemia-treatment/" class="service-card"><div class="service-icon">🩸</div><h4>Hyperlipidemia Treatment</h4><p>Cholesterol and lipid disorder treatment</p></a>
+  <a href="/services/cardiovascular-prevention/" class="service-card"><div class="service-icon">🛡️</div><h4>Cardiovascular Prevention</h4><p>Heart health protection and risk management</p></a>
   <a href="/services/heart-failure/" class="service-card"><div class="service-icon">💗</div><h4>Heart Failure</h4><p>Heart failure treatment</p></a>
-  <a href="/services/coronary-artery-disease/" class="service-card"><div class="service-icon">❤️</div><h4>Coronary Artery Disease</h4><p>Coronary vascular diseases</p></a>
 </div>
 
 ---
@@ -96,6 +96,8 @@ translationKey: "services"
 ### 💓 Coronary Interventions {#coronary-interventions}
 
 <div class="services-grid">
+  <a href="/services/myocardial-infarction/" class="service-card"><div class="service-icon">💔</div><h4>Myocardial Infarction</h4><p>Heart Attack - Emergency intervention</p></a>
+  <a href="/services/coronary-artery-disease/" class="service-card"><div class="service-icon">❤️</div><h4>Coronary Artery Disease</h4><p>Coronary vascular diseases</p></a>
   <a href="/services/cardiac-angiography/" class="service-card"><div class="service-icon">💉</div><h4>Cardiac Angiography</h4><p>Heart angiography</p></a>
   <a href="/services/cardiac-catheterization/" class="service-card"><div class="service-icon">🔬</div><h4>Cardiac Catheterization</h4><p>Heart catheter procedure</p></a>
   <a href="/services/cardiac-stent/" class="service-card"><div class="service-icon">⭐</div><h4>Cardiac Stent</h4><p>Coronary stent implantation</p></a>

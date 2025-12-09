@@ -11,12 +11,11 @@ translationKey: "services"
 ## 🏥 العلاجات والإجراءات المطبقة
 
 ### 🫀 طب القلب السريري {#clinical-cardiology}
-
 <div class="services-grid">
-  <a href="/ar/services/myocardial-infarction/" class="service-card"><div class="service-icon">💔</div><h4>احتشاء عضلة القلب</h4><p>النوبة القلبية - التدخل الطارئ والعلاج</p></a>
   <a href="/ar/services/hypertension/" class="service-card"><div class="service-icon">📈</div><h4>ارتفاع ضغط الدم</h4><p>ضغط الدم المرتفع - التشخيص والعلاج والمتابعة</p></a>
+  <a href="/ar/services/hyperlipidemia-treatment/" class="service-card"><div class="service-icon">🩸</div><h4>علاج فرط شحوم الدم</h4><p>علاج الكوليسترول واضطرابات الدهون</p></a>
+  <a href="/ar/services/cardiovascular-prevention/" class="service-card"><div class="service-icon">🛡️</div><h4>الوقاية من أمراض القلب والاوعية الدموية</h4><p>حماية صحة القلب وإدارة المخاطر</p></a>
   <a href="/ar/services/heart-failure/" class="service-card"><div class="service-icon">💗</div><h4>قصور القلب</h4><p>علاج قصور القلب</p></a>
-  <a href="/ar/services/coronary-artery-disease/" class="service-card"><div class="service-icon">❤️</div><h4>مرض الشريان التاجي</h4><p>أمراض الأوعية التاجية</p></a>
 </div>
 
 ---
@@ -96,6 +95,8 @@ translationKey: "services"
 ### 🫀 التدخلات التاجية {#coronary-interventions}
 
 <div class="services-grid">
+  <a href="/ar/services/myocardial-infarction/" class="service-card"><div class="service-icon">💔</div><h4>احتشاء عضلة القلب</h4><p>النوبة القلبية - التدخل الطارئ والعلاج</p></a>
+  <a href="/ar/services/coronary-artery-disease/" class="service-card"><div class="service-icon">❤️</div><h4>مرض الشريان التاجي</h4><p>أمراض الأوعية التاجية</p></a>
   <a href="/ar/services/pci/" class="service-card"><div class="service-icon">🔧</div><h4>PCI</h4><p>التدخل التاجي عبر الجلد</p></a>
   <a href="/ar/services/ptca/" class="service-card"><div class="service-icon">🎈</div><h4>PTCA</h4><p>رأب الأوعية التاجية عبر الجلد</p></a>
   <a href="/ar/services/cardiac-stent/" class="service-card"><div class="service-icon">🔩</div><h4>الدعامة القلبية</h4><p>زراعة الدعامة التاجية</p></a>
