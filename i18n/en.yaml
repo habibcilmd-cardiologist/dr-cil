@@ -1,0 +1,19 @@
+# English translations for Dr. Habib ÇİL's website
+
+article:
+    table_of_contents: "Table of Contents"
+
+# Hero Section - Video & Doctor Profile
+hero_location: "Istanbul"
+hero_bio: "Graduate of Istanbul University Cerrahpaşa Faculty of Medicine, specialized in Cardiology at Akdeniz University. With over 25 years of clinical experience and academic career, providing patients with the most up-to-date diagnostic and treatment methods."
+hero_experience: "Years Experience"
+hero_procedures: "Invasive Procedures"
+hero_publications: "Publications"
+hero_expertise_1: "Interventional Cardiology"
+hero_expertise_2: "Associate Professor"
+hero_expertise_3: "Vascular Interventions"
+hero_whatsapp_cta: "Book via WhatsApp"
+hero_about_cta: "About Doctor"
+hero_video_label: "Angioplasty Procedure"
+hero_video_caption: "Coronary Angioplasty - Minimally Invasive Heart Procedure"
+hero_scroll: "Scroll to explore"

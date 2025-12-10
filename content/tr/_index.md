@@ -6,49 +6,6 @@ translationKey: "home"
 keywords: ["İstanbul Kardiyolog", "Kardiyolog İstanbul", "İstanbul Kardiyoloji Uzmanı", "Kardiyoloji Uzmanı İstanbul", "Bacak Damarlarını Açma", "Ayak Damarlarını Açma", "Periferik Arter Hastalığı Tedavisi", "Girişimsel Kardiyoloji İstanbul", "Damar Açma", "Ameliyatsız Damar Açma", "Ayak Yarası", "Diyabetik Ayak"]
 ---
 
-<div class="hero-section">
-  <div class="hero-badges">
-    <span class="badge">25+ Yıl Deneyim</span>
-    <span class="badge">Doçent</span>
-    <span class="badge">Girişimsel Kardiyoloji</span>
-  </div>
-
-  <h1 class="hero-title">Doç. Dr. Habib ÇİL <span class="sr-only">| İstanbul Kardiyoloji Uzmanı</span></h1>
-  <p class="hero-subtitle">Kardiyoloji Uzmanı | İstanbul</p>
-
-  <div class="hero-description">
-    <p>İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. 25 yılı aşkın klinik deneyim ve akademik kariyer ile hastalarına en güncel tanı ve tedavi yöntemlerini sunmaktadır.</p>
-  </div>
-
-  <div class="hero-stats">
-    <div class="stat-item">
-      <span class="stat-number">25+</span>
-      <span class="stat-label">Yıl Deneyim</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">20.000+</span>
-      <span class="stat-label">İnvaziv Girişim</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">100+</span>
-      <span class="stat-label">Yayın</span>
-    </div>
-  </div>
-
-  <div class="hero-cta">
-    <a href="https://wa.me/905339454639" class="btn btn-primary" target="_blank" rel="noopener">
-      <span class="btn-icon">📱</span>
-      <span>WhatsApp ile Randevu Al</span>
-    </a>
-    <a href="/tr/hizmetler/" class="btn btn-secondary">
-      <span class="btn-icon">🔍</span>
-      <span>Hizmetleri Keşfet</span>
-    </a>
-  </div>
-</div>
-
----
-
 <div class="services-section">
 
 ## Hizmetlerim

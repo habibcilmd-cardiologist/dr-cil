@@ -6,49 +6,6 @@ translationKey: "home"
 keywords: ["طبيب قلب في اسطنبول", "أخصائي قلب إسطنبول", "علاج انسداد شرايين الساق", "علاج القدم السكري", "قسطرة علاجية إسطنبول", "فتح الشرايين بدون جراحة", "أمراض القلب التداخلية", "دوالي الساقين", "طبيب قلب عربي في اسطنبول"]
 ---
 
-<div class="hero-section">
-  <div class="hero-badges">
-    <span class="badge">خبرة أكثر من 25 عاماً</span>
-    <span class="badge">أستاذ مشارك</span>
-    <span class="badge">أمراض القلب التداخلية</span>
-  </div>
-
-  <h1 class="hero-title">أ.م.د. حبيب جيل</h1>
-  <p class="hero-subtitle">أخصائي أمراض القلب | إسطنبول، تركيا</p>
-
-  <div class="hero-description">
-    <p>خريج كلية الطب بجامعة إسطنبول جراح باشا، متخصص في أمراض القلب من جامعة أكدينيز. مع أكثر من 25 عاماً من الخبرة السريرية والمسيرة الأكاديمية، يقدم لمرضاه أحدث طرق التشخيص والعلاج.</p>
-  </div>
-
-  <div class="hero-stats">
-    <div class="stat-item">
-      <span class="stat-number">25+</span>
-      <span class="stat-label">سنة خبرة</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">20.000+</span>
-      <span class="stat-label">إجراء تادخلي</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">100+</span>
-      <span class="stat-label">منشور علمي</span>
-    </div>
-  </div>
-
-  <div class="hero-cta">
-    <a href="https://wa.me/905339454639" class="btn btn-primary" target="_blank" rel="noopener">
-      <span class="btn-icon">📱</span>
-      <span>احجز موعد عبر واتساب</span>
-    </a>
-    <a href="/ar/services/" class="btn btn-secondary">
-      <span class="btn-icon">🔍</span>
-      <span>استكشف الخدمات</span>
-    </a>
-  </div>
-</div>
-
----
-
 <div class="services-section">
 
 ## خدماتي

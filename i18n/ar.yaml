@@ -1,122 +1,136 @@
 global:
-  language: "AR"
+    language: "AR"
 
 article:
-  anchor_label: "رابط"
-  date: "{{ .Date }}"
-  date_updated: "تم التحديث: {{ .Date }}"
-  draft: "مسودة"
-  edit_title: "تعديل المحتوى"
-  reading_time:
-    one: "{{ .Count }} دقيقة"
-    other: "{{ .Count }} دقيقة"
-  reading_time_title: "وقت القراءة"
-  table_of_contents: "جدول المحتويات"
-  word_count:
-    one: "{{ .Count }} كلمة"
-    other: "{{ .Count }} كلمة"
-  views:
-    one: "{{ .Count }} مشاهدة"
-    other: "{{ .Count }} مشاهدة"
-  likes:
-    one: "{{ .Count }} إعجاب"
-    other: "{{ .Count }} إعجاب"
-  part_of_series: "هذا المقال جزء من سلسلة."
-  part: "جزء"
-  this_article: "هذا المقال"
-  related_articles: "مقالات ذات صلة"
-  reply_by_email: "الرد عبر البريد الإلكتروني"
-  zen_mode_title:
-    enable: "تفعيل وضع القراءة"
-    disable: "تعطيل وضع القراءة"
+    anchor_label: "رابط"
+    date: "{{ .Date }}"
+    date_updated: "تم التحديث: {{ .Date }}"
+    draft: "مسودة"
+    edit_title: "تعديل المحتوى"
+    reading_time:
+        one: "{{ .Count }} دقيقة"
+        other: "{{ .Count }} دقيقة"
+    reading_time_title: "وقت القراءة"
+    table_of_contents: "جدول المحتويات"
+    word_count:
+        one: "{{ .Count }} كلمة"
+        other: "{{ .Count }} كلمة"
+    views:
+        one: "{{ .Count }} مشاهدة"
+        other: "{{ .Count }} مشاهدة"
+    likes:
+        one: "{{ .Count }} إعجاب"
+        other: "{{ .Count }} إعجاب"
+    part_of_series: "هذا المقال جزء من سلسلة."
+    part: "جزء"
+    this_article: "هذا المقال"
+    related_articles: "مقالات ذات صلة"
+    reply_by_email: "الرد عبر البريد الإلكتروني"
+    zen_mode_title:
+        enable: "تفعيل وضع القراءة"
+        disable: "تعطيل وضع القراءة"
 
 a11y:
-  title: "إعدادات إمكانية الوصول"
-  disable_blur: "تعطيل التمويه"
-  disable_images: "تعطيل الصور الخلفية"
-  show_link_underline: "إظهار خط تحت الروابط"
-  font_size: "حجم الخط"
+    title: "إعدادات إمكانية الوصول"
+    disable_blur: "تعطيل التمويه"
+    disable_images: "تعطيل الصور الخلفية"
+    show_link_underline: "إظهار خط تحت الروابط"
+    font_size: "حجم الخط"
 
 author:
-  byline_title: "المؤلف"
+    byline_title: "المؤلف"
 
 code:
-  copy: "نسخ"
-  copied: "تم النسخ"
+    copy: "نسخ"
+    copied: "تم النسخ"
 
 error:
-  404_title: "الصفحة غير موجودة :confused:"
-  404_error: "خطأ 404"
-  404_description: "يبدو أن الصفحة التي تبحث عنها غير موجودة."
+    404_title: "الصفحة غير موجودة :confused:"
+    404_error: "خطأ 404"
+    404_description: "يبدو أن الصفحة التي تبحث عنها غير موجودة."
 
 footer:
-  dark_appearance: "التبديل إلى الوضع الداكن"
-  light_appearance: "التبديل إلى الوضع الفاتح"
-  powered_by: "مدعوم بواسطة {{ .Hugo }} &amp; {{ .Theme }}"
+    dark_appearance: "التبديل إلى الوضع الداكن"
+    light_appearance: "التبديل إلى الوضع الفاتح"
+    powered_by: "مدعوم بواسطة {{ .Hugo }} &amp; {{ .Theme }}"
 
 list:
-  externalurl_title: "رابط لموقع خارجي"
-  no_articles: "لا توجد مقالات لعرضها هنا حتى الآن."
+    externalurl_title: "رابط لموقع خارجي"
+    no_articles: "لا توجد مقالات لعرضها هنا حتى الآن."
 
 nav:
-  scroll_to_top_title: "العودة إلى الأعلى"
-  skip_to_main: "الانتقال إلى المحتوى الرئيسي"
+    scroll_to_top_title: "العودة إلى الأعلى"
+    skip_to_main: "الانتقال إلى المحتوى الرئيسي"
 
 search:
-  open_button_title: "بحث (/)"
-  close_button_title: "إغلاق (Esc)"
-  input_placeholder: "بحث..."
+    open_button_title: "بحث (/)"
+    close_button_title: "إغلاق (Esc)"
+    input_placeholder: "بحث..."
 
 sharing:
-  email: "إرسال عبر البريد الإلكتروني"
-  facebook: "مشاركة على فيسبوك"
-  line: "مشاركة على لاين"
-  linkedin: "مشاركة على لينكد إن"
-  pinterest: "تثبيت على بينترست"
-  reddit: "نشر على ريديت"
-  twitter: "تغريد على تويتر"
-  bluesky: "نشر على بلوسكاي"
-  whatsapp: "مشاركة عبر واتساب"
-  telegram: "مشاركة عبر تيليجرام"
+    email: "إرسال عبر البريد الإلكتروني"
+    facebook: "مشاركة على فيسبوك"
+    line: "مشاركة على لاين"
+    linkedin: "مشاركة على لينكد إن"
+    pinterest: "تثبيت على بينترست"
+    reddit: "نشر على ريديت"
+    twitter: "تغريد على تويتر"
+    bluesky: "نشر على بلوسكاي"
+    whatsapp: "مشاركة عبر واتساب"
+    telegram: "مشاركة عبر تيليجرام"
 
 shortcode:
-  recent_articles: "المقالات الأخيرة"
+    recent_articles: "المقالات الأخيرة"
 
 recent:
-  show_more: "عرض المزيد"
+    show_more: "عرض المزيد"
 
 # Medical-specific translations for Dr. Habib ÇİL's website
 medical:
-  appointment:
-    button: "احجز موعد"
-    title: "حجز موعد"
-    description: "احجز موعدك مع د. حبيب جيل"
-  alert:
-    medical_info: "معلومات طبية"
-    important: "مهم"
-    warning: "تحذير"
-    note: "ملاحظة"
-  disclaimer:
-    text: "هذه المعلومات للأغراض التعليمية فقط ولا تحل محل الاستشارة الطبية المهنية."
-  contact:
-    phone: "هاتف"
-    email: "بريد إلكتروني"
-    whatsapp: "واتساب"
-    address: "العنوان"
-  services:
-    title: "الخدمات الطبية"
-    view_all: "عرض جميع الخدمات"
-  blog:
-    categories: "التصنيفات"
-    tags: "الوسوم"
-    read_more: "اقرأ المزيد"
-  navigation:
-    home: "الرئيسية"
-    about: "حول"
-    services: "الخدمات"
-    clinic: "العيادة"
-    publications: "المنشورات"
-    blog: "المدونة"
-    contact: "اتصل بنا"
-    privacy: "سياسة الخصوصية"
+    appointment:
+        button: "احجز موعد"
+        title: "حجز موعد"
+        description: "احجز موعدك مع د. حبيب جيل"
+    alert:
+        medical_info: "معلومات طبية"
+        important: "مهم"
+        warning: "تحذير"
+        note: "ملاحظة"
+    disclaimer:
+        text: "هذه المعلومات للأغراض التعليمية فقط ولا تحل محل الاستشارة الطبية المهنية."
+    contact:
+        phone: "هاتف"
+        email: "بريد إلكتروني"
+        whatsapp: "واتساب"
+        address: "العنوان"
+    services:
+        title: "الخدمات الطبية"
+        view_all: "عرض جميع الخدمات"
+    blog:
+        categories: "التصنيفات"
+        tags: "الوسوم"
+        read_more: "اقرأ المزيد"
+    navigation:
+        home: "الرئيسية"
+        about: "حول"
+        services: "الخدمات"
+        clinic: "العيادة"
+        publications: "المنشورات"
+        blog: "المدونة"
+        contact: "اتصل بنا"
+        privacy: "سياسة الخصوصية"
 
+# Hero Section - Video & Doctor Profile
+hero_location: "إسطنبول"
+hero_bio: "خريج كلية الطب بجامعة إسطنبول جراح باشا، متخصص في أمراض القلب من جامعة أكدينيز. مع أكثر من 25 عاماً من الخبرة السريرية والمسيرة الأكاديمية، يقدم لمرضاه أحدث طرق التشخيص والعلاج."
+hero_experience: "سنة خبرة"
+hero_procedures: "إجراء تداخلي"
+hero_publications: "منشور علمي"
+hero_expertise_1: "أمراض القلب التداخلية"
+hero_expertise_2: "أستاذ مشارك"
+hero_expertise_3: "فتح الأوعية الدموية"
+hero_whatsapp_cta: "احجز عبر واتساب"
+hero_about_cta: "عن الطبيب"
+hero_video_label: "إجراء رأب الأوعية"
+hero_video_caption: "رأب الأوعية التاجية - إجراء قلبي طفيف التوغل"
+hero_scroll: "مرر لاستكشاف المزيد"

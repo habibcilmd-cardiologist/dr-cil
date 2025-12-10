@@ -1,2 +1,17 @@
 article:
-  table_of_contents: "İçindekiler"
+    table_of_contents: "İçindekiler"
+
+# Hero Section - Video & Doctor Profile
+hero_location: "İstanbul"
+hero_bio: "İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. 25 yılı aşkın klinik deneyim ve akademik kariyer ile hastalarına en güncel tanı ve tedavi yöntemlerini sunmaktadır."
+hero_experience: "Yıl Deneyim"
+hero_procedures: "İnvaziv Girişim"
+hero_publications: "Yayın"
+hero_expertise_1: "Girişimsel Kardiyoloji"
+hero_expertise_2: "Doçent"
+hero_expertise_3: "Damar Açma"
+hero_whatsapp_cta: "WhatsApp ile Randevu"
+hero_about_cta: "Doktor Hakkında"
+hero_video_label: "Anjiyoplasti İşlemi"
+hero_video_caption: "Koroner Anjiyoplasti - Minimal İnvaziv Kalp Prosedürü"
+hero_scroll: "Keşfetmek için kaydırın"

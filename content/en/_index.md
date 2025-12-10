@@ -6,49 +6,6 @@ translationKey: "home"
 keywords: ["Istanbul Cardiologist", "Cardiologist Istanbul", "Istanbul Cardiology Specialist", "Interventional Cardiology Istanbul", "Leg Artery Opening", "Peripheral Artery Disease Treatment", "Non-surgical Vessel Opening", "Diabetic Foot Treatment", "Leg Vascular Blockage", "Angioplasty Istanbul"]
 ---
 
-<div class="hero-section">
-  <div class="hero-badges">
-    <span class="badge">25+ Years Experience</span>
-    <span class="badge">Associate Professor</span>
-    <span class="badge">Interventional Cardiology</span>
-  </div>
-
-  <h1 class="hero-title">Assoc. Prof. Dr. Habib ÇİL</h1>
-  <p class="hero-subtitle">Cardiologist | Istanbul, Turkey</p>
-
-  <div class="hero-description">
-    <p>Graduate of Istanbul University Cerrahpaşa Faculty of Medicine, specialized in Cardiology at Akdeniz University. With over 25 years of clinical experience and academic career, he provides his patients with the most up-to-date diagnostic and treatment methods.</p>
-  </div>
-
-  <div class="hero-stats">
-    <div class="stat-item">
-      <span class="stat-number">25+</span>
-      <span class="stat-label">Years Experience</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">20.000+</span>
-      <span class="stat-label">Invasive Procedures</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">100+</span>
-      <span class="stat-label">Publications</span>
-    </div>
-  </div>
-
-  <div class="hero-cta">
-    <a href="https://wa.me/905339454639" class="btn btn-primary" target="_blank" rel="noopener">
-      <span class="btn-icon">📱</span>
-      <span>Book Appointment via WhatsApp</span>
-    </a>
-    <a href="/services/" class="btn btn-secondary">
-      <span class="btn-icon">🔍</span>
-      <span>Explore Services</span>
-    </a>
-  </div>
-</div>
-
----
-
 <div class="services-section">
 
 ## Services
