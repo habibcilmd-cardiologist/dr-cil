@@ -1,0 +1,126 @@
+{{/* 3D Heart Model Viewer Shortcode */}}
+<div id="heart-model-container">
+    <div id="heart-viewer"
+        style="width: 100%; height: 600px; background-color: #000; border-radius: 12px; overflow: hidden; position: relative;">
+        <div id="heart-loading"
+            style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-family: sans-serif; font-size: 1.2rem; pointer-events: none;">
+            Loading Heart Model...
+        </div>
+        <div
+            style="position: absolute; bottom: 20px; right: 20px; color: rgba(255,255,255,0.7); font-family: sans-serif; font-size: 0.8rem; pointer-events: none;">
+            Drag to Rotate • Scroll to Zoom
+        </div>
+    </div>
+</div>
+
+<script type="module">
+    import * as THREE from 'https://cdn.skypack.dev/three@0.132.2';
+    import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/loaders/GLTFLoader.js';
+    import { OrbitControls } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/controls/OrbitControls.js';
+
+    const container = document.getElementById('heart-viewer');
+    const loadingText = document.getElementById('heart-loading');
+
+    // Update text colors for white background
+    loadingText.style.color = '#333';
+    document.querySelector('#heart-viewer > div:last-child').style.color = 'rgba(0,0,0,0.6)';
+
+    // Scene setup
+    const scene = new THREE.Scene();
+    scene.background = new THREE.Color(0xffffff); // White background
+    // Update fog to match background
+    scene.fog = new THREE.Fog(0xffffff, 20, 100);
+
+    const camera = new THREE.PerspectiveCamera(45, container.clientWidth / container.clientHeight, 0.1, 1000);
+    camera.position.z = 5;
+    camera.position.y = 0;
+
+    const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+    renderer.setSize(container.clientWidth, container.clientHeight);
+    renderer.setPixelRatio(window.devicePixelRatio);
+    // Enable shadow map for better realism
+    renderer.shadowMap.enabled = true;
+    renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+    // Output encoding to sRGB for better color accuracy with GLTF
+    renderer.outputEncoding = THREE.sRGBEncoding;
+    container.appendChild(renderer.domElement);
+
+    // Controls
+    const controls = new OrbitControls(camera, renderer.domElement);
+    controls.enableDamping = true;
+    controls.dampingFactor = 0.05;
+    controls.enableZoom = true;
+    controls.autoRotate = true;
+    controls.autoRotateSpeed = 1.0;
+
+    // Lights
+    const ambientLight = new THREE.AmbientLight(0xffffff, 1.2); // Bright ambient
+    scene.add(ambientLight);
+
+    const dirLight = new THREE.DirectionalLight(0xffffff, 1.5); // Main sun light
+    dirLight.position.set(5, 10, 7);
+    dirLight.castShadow = true;
+    scene.add(dirLight);
+
+    const fillLight = new THREE.DirectionalLight(0xE3E3E3, 1.0); // Fill light from opposite side
+    fillLight.position.set(-5, 0, 5);
+    scene.add(fillLight);
+
+    // Load Model
+    const loader = new GLTFLoader();
+    loader.load('/models/istanbul-kardiyolog-dr-habib-cil.glb', function (gltf) {
+        const object = gltf.scene;
+
+        // Center the model
+        const box = new THREE.Box3().setFromObject(object);
+        const center = box.getCenter(new THREE.Vector3());
+        object.position.sub(center); // Re-center
+
+        // Auto-scale to fit roughly in view
+        const size = box.getSize(new THREE.Vector3());
+        const maxDim = Math.max(size.x, size.y, size.z);
+        if (maxDim > 0) {
+            const scale = 3 / maxDim; // Target size roughly 3 units
+            object.scale.set(scale, scale, scale);
+        }
+
+        // Traverse to enable shadows
+        object.traverse(function (node) {
+            if (node.isMesh) {
+                node.castShadow = true;
+                node.receiveShadow = true;
+            }
+        });
+
+        scene.add(object);
+        loadingText.style.display = 'none';
+
+    }, function (xhr) {
+        if (xhr.lengthComputable) {
+            const percentComplete = xhr.loaded / xhr.total * 100;
+            loadingText.innerText = `Loading... ${Math.round(percentComplete)}%`;
+        }
+    }, function (error) {
+        console.error('An error happened', error);
+        loadingText.innerText = 'Error loading model';
+        loadingText.style.color = 'red';
+    });
+
+    // Animation Loop
+    function animate() {
+        requestAnimationFrame(animate);
+        controls.update();
+        renderer.render(scene, camera);
+    }
+
+    animate();
+
+    // Handle Resize
+    window.addEventListener('resize', function () {
+        if (container) {
+            camera.aspect = container.clientWidth / container.clientHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(container.clientWidth, container.clientHeight);
+        }
+    });
+</script>

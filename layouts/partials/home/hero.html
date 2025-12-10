@@ -9,41 +9,36 @@
         {{/* Doctor Image */}}
         <div class="hero-doctor-image-wrapper">
           {{ with .Site.Params.Author.image }}
-            {{ $authorImage := "" }}
-            {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-              {{ $authorImage = resources.GetRemote . }}
-            {{ else }}
-              {{ $authorImage = resources.Get . }}
-            {{ end }}
-            {{ if $authorImage }}
-              {{ $final := $authorImage }}
-              {{ if not $disableImageOptimization }}
-                {{ $final = $authorImage.Fill (print "400x400 q96") }}
-              {{ end }}
-              <img 
-                class="hero-doctor-image" 
-                src="{{ $final.RelPermalink }}" 
-                alt="{{ $.Site.Params.Author.name | default $.Site.Title }}"
-                width="200"
-                height="200"
-                loading="eager"
-              />
-            {{ end }}
+          {{ $authorImage := "" }}
+          {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+          {{ $authorImage = resources.GetRemote . }}
+          {{ else }}
+          {{ $authorImage = resources.Get . }}
+          {{ end }}
+          {{ if $authorImage }}
+          {{ $final := $authorImage }}
+          {{ if not $disableImageOptimization }}
+          {{ $final = $authorImage.Fill (print "400x400 q96") }}
+          {{ end }}
+          <img class="hero-doctor-image" src="{{ $final.RelPermalink }}"
+            alt="{{ $.Site.Params.Author.name | default $.Site.Title }}" width="200" height="200" loading="eager" />
+          {{ end }}
           {{ end }}
         </div>
-        
+
         {{/* Doctor Info */}}
         <div class="hero-doctor-details">
           <h1 class="hero-doctor-name">{{ .Site.Params.Author.name | default .Site.Title }}</h1>
-          <p class="hero-doctor-title">{{ .Site.Params.Author.headline | markdownify }} | {{ i18n "hero_location" | default "İstanbul" }}</p>
-          
+          <p class="hero-doctor-title">{{ .Site.Params.Author.headline | markdownify }} | {{ i18n "hero_location" |
+            default "İstanbul" }}</p>
+
           {{/* Social Links */}}
           <div class="hero-social-links">
             {{ partial "author-links.html" . }}
           </div>
-          
+
           <p class="hero-doctor-bio">{{ i18n "hero_bio" | default .Site.Params.Author.bio }}</p>
-          
+
           {{/* Stats */}}
           <div class="hero-stats-grid">
             <div class="hero-stat">
@@ -59,34 +54,36 @@
               <span class="hero-stat-label">{{ i18n "hero_publications" | default "Publications" }}</span>
             </div>
           </div>
-          
+
           {{/* Expertise Tags */}}
           <div class="hero-expertise">
             <span class="expertise-tag">{{ i18n "hero_expertise_1" | default "Interventional Cardiology" }}</span>
             <span class="expertise-tag">{{ i18n "hero_expertise_2" | default "TAVI" }}</span>
             <span class="expertise-tag">{{ i18n "hero_expertise_3" | default "Angioplasty" }}</span>
           </div>
-          
+
           {{/* CTA Buttons */}}
           <div class="hero-cta-buttons">
             <a href="https://wa.me/905339454639" class="hero-btn hero-btn-primary" target="_blank" rel="noopener">
               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                <path
+                  d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" />
               </svg>
               <span>{{ i18n "hero_whatsapp_cta" | default "Book Appointment" }}</span>
             </a>
             {{/* Find about page by translationKey */}}
             {{ $aboutURL := "" }}
             {{ range .Site.RegularPages }}
-              {{ if eq .Params.translationKey "about" }}
-                {{ $aboutURL = .RelPermalink }}
-              {{ end }}
+            {{ if eq .Params.translationKey "about" }}
+            {{ $aboutURL = .RelPermalink }}
+            {{ end }}
             {{ end }}
             {{ if not $aboutURL }}
-              {{ $aboutURL = printf "%s/about/" .Site.LanguagePrefix }}
+            {{ $aboutURL = printf "%s/about/" .Site.LanguagePrefix }}
             {{ end }}
             <a href="{{ $aboutURL }}" class="hero-btn hero-btn-secondary">
-              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
                 <circle cx="12" cy="7" r="4"></circle>
               </svg>
@@ -96,48 +93,20 @@
         </div>
       </div>
     </div>
-    
-    {{/* Right Side - Video */}}
+
+    {{/* Right Side - 3D Model */}}
     <div class="hero-video-wrapper">
-      <div class="hero-video-frame">
-        <video 
-          class="hero-video" 
-          autoplay 
-          muted 
-          loop 
-          playsinline
-        >
-          {{ $videoPath := "videos/istanbul-kardiyolog-doc-dr-habib-cil-anjiyoplasti.mp4" }}
-          {{ with resources.Get $videoPath }}
-            <source src="{{ .RelPermalink }}" type="video/mp4">
-          {{ end }}
-          Your browser does not support the video tag.
-        </video>
-        <div class="hero-video-overlay">
-          <div class="hero-video-play-hint">
-            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M19.376 12.416L8.777 19.482A.5.5 0 0 1 8 19.066V4.934a.5.5 0 0 1 .777-.416l10.599 7.066a.5.5 0 0 1 0 .832z"/>
-            </svg>
-            <span>{{ i18n "hero_video_label" | default "Angioplasty Procedure" }}</span>
-          </div>
-        </div>
-        {{/* Decorative Elements */}}
-        <div class="hero-video-decoration hero-video-decoration-1"></div>
-        <div class="hero-video-decoration hero-video-decoration-2"></div>
+      <div class="hero-video-frame" style="background: white;">
+        {{ partial "three-heart.html" . }}
       </div>
-      <p class="hero-video-caption">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
-        </svg>
-        {{ i18n "hero_video_caption" | default "Coronary Angioplasty - Minimally Invasive Heart Procedure" }}
-      </p>
     </div>
   </div>
-  
+
   {{/* Scroll Indicator */}}
   <div class="hero-scroll-indicator">
     <span>{{ i18n "hero_scroll" | default "Scroll to explore" }}</span>
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <line x1="12" y1="5" x2="12" y2="19"></line>
       <polyline points="19 12 12 19 5 12"></polyline>
     </svg>
