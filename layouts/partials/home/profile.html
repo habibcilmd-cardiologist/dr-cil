@@ -1,6 +1,8 @@
-{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default
-false }} {{/* Hero Video Section - Before Profile */}} {{ partial
-"home/hero.html" . }}
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+{{/* Hero Video Section - Before Profile */}}
+{{ partial "home/hero.html" . }}
 
-<section class="prose dark:prose-invert w-full max-w-4xl mx-auto px-4">{{ .Content }}</section>
+<section class="prose dark:prose-invert w-full max-w-4xl mx-auto px-4">
+  {{ .Content }}
+</section>
 <section>{{ partial "recent-articles/main.html" . }}</section>

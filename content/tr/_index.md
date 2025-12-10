@@ -3,7 +3,21 @@ title: "İstanbul Kardiyolog | Doç. Dr. Habib ÇİL"
 description: "Doç. Dr. Habib ÇİL - İstanbul'da Kardiyoloji Uzmanı. Koroner anjiyoplasti, TAVI, kalp pili, ekokardiyografi ve girişimsel kardiyoloji konularında 25+ yıllık deneyim."
 layout: "profile"
 translationKey: "home"
-keywords: ["İstanbul Kardiyolog", "Kardiyolog İstanbul", "İstanbul Kardiyoloji Uzmanı", "Kardiyoloji Uzmanı İstanbul", "Bacak Damarlarını Açma", "Ayak Damarlarını Açma", "Periferik Arter Hastalığı Tedavisi", "Girişimsel Kardiyoloji İstanbul", "Damar Açma", "Ameliyatsız Damar Açma", "Ayak Yarası", "Diyabetik Ayak"]
+keywords:
+    [
+        "İstanbul Kardiyolog",
+        "Kardiyolog İstanbul",
+        "İstanbul Kardiyoloji Uzmanı",
+        "Kardiyoloji Uzmanı İstanbul",
+        "Bacak Damarlarını Açma",
+        "Ayak Damarlarını Açma",
+        "Periferik Arter Hastalığı Tedavisi",
+        "Girişimsel Kardiyoloji İstanbul",
+        "Damar Açma",
+        "Ameliyatsız Damar Açma",
+        "Ayak Yarası",
+        "Diyabetik Ayak",
+    ]
 ---
 
 <div class="services-section">
