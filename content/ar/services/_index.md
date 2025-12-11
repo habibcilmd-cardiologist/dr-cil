@@ -77,12 +77,10 @@ translationKey: "services"
 
 ---
 
-### 🩹 جراحة الأوعية الدموية والتدخلات {#vascular-surgery-and-interventions}
+### 🩹 التدخلات الوعائية {#vascular-interventions}
 
 <div class="services-grid">
-  <a href="/ar/services/abdominal-aortic-aneurysm/" class="service-card"><div class="service-icon">🫁</div><h4>تمدد الأوعية الدموية الأبهري البطني</h4><p>علاج تمدد الأوعية الدموية الأبهري</p></a>
-  <a href="/ar/services/evar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR</h4><p>إصلاح تمدد الأوعية الدموية داخل الأوعية الدموية</p></a>
-  <a href="/ar/services/lower-extremity-arterial-disease/" class="service-card"><div class="service-icon">🦿</div><h4>مرض الشرايين في الأطراف السفلية</h4><p>علاج انسداد الساق</p></a>
+  <a href="/ar/services/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>إصلاح تمدد الأوعية الدموية الأبهري (البطني والصدري)</p></a>
   <a href="/ar/services/renal-artery-stenosis/" class="service-card"><div class="service-icon">🫘</div><h4>تضيق الشريان الكلوي</h4><p>علاج تضيق الشريان الكلوي</p></a>
   <a href="/ar/services/atherectomy/" class="service-card"><div class="service-icon">🔪</div><h4>استئصال العصيدة</h4><p>إزالة اللويحات من الأوعية الدموية</p></a>
   <a href="/ar/services/pericardiocentesis/" class="service-card"><div class="service-icon">💧</div><h4>بزل التامور</h4><p>تصريف السوائل من حول القلب</p></a>

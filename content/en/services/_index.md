@@ -78,13 +78,10 @@ translationKey: "services"
 
 ---
 
-### 🩹 Vascular Surgery and Interventions {#vascular-surgery-and-interventions}
+### 🩹 Vascular Interventions {#vascular-interventions}
 
 <div class="services-grid">
-  <a href="/services/abdominal-aortic-aneurysm/" class="service-card"><div class="service-icon">🏥</div><h4>AAA Repair</h4><p>Abdominal Aortic Aneurysm surgery</p></a>
-  <a href="/services/evar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR</h4><p>Endovascular Aneurysm Repair</p></a>
-  <a href="/services/lower-extremity-arterial-disease/" class="service-card"><div class="service-icon">💓</div><h4>Aortic Aneurysm Surgery</h4><p>Cardiac aortic aneurysm</p></a>
-  <a href="/services/venous-insufficiency/" class="service-card"><div class="service-icon">🔗</div><h4>Peripheral Bypass</h4><p>Peripheral vascular bypass</p></a>
+  <a href="/services/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>Aortic Aneurysm Repair (Abdominal &amp; Thoracic)</p></a>
   <a href="/services/atherectomy/" class="service-card"><div class="service-icon">🎯</div><h4>Atherectomy</h4><p>Plaque removal procedure</p></a>
   <a href="/services/renal-artery-stenosis/" class="service-card"><div class="service-icon">✂️</div><h4>Carotid Endarterectomy</h4><p>Carotid plaque removal</p></a>
 </div>

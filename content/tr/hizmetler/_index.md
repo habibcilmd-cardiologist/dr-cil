@@ -41,7 +41,7 @@ translationKey: "services"
   <a href="/tr/hizmetler/renal-arter-stenozu/" class="service-card"><div class="service-icon">🫘</div><h4>Renal Arter Darlığı</h4><p>Böbrek damarı stentleme</p></a>
   <a href="/tr/hizmetler/periferik-damar/" class="service-card"><div class="service-icon">🦵</div><h4>Periferik Damar Girişimi</h4><p>Bacak damarı tıkanıklık tedavisi</p></a>
   <a href="/tr/hizmetler/alt-ekstremite-arter-hastaligi/" class="service-card"><div class="service-icon">🦿</div><h4>Alt Ekstremite Arter</h4><p>Dizüstü ve dizaltı damar tedavisi</p></a>
-  <a href="/tr/hizmetler/evar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR</h4><p>Aort anevrizması tedavisi</p></a>
+  <a href="/tr/hizmetler/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>Aort anevrizması tedavisi (Abdominal ve Torasik)</p></a>
 </div>
 
 #### 💜 Yapısal Kalp Girişimleri {#yapisal-kalp-girisimleri}
@@ -99,13 +99,9 @@ translationKey: "services"
 
 ---
 
-### 🩹 Damar Cerrahisi ve Girişimleri {#damar-cerrahisi-ve-girisimleri}
+### 🩹 Damar Girişimleri {#damar-girisimleri}
 
 <div class="services-grid">
-  <a href="/tr/hizmetler/abdominal-aort-anevrizması/" class="service-card"><div class="service-icon">🏥</div><h4>AAA Onarımı</h4><p>Abdominal Aort Anevrizması ameliyatı</p></a>
-  <a href="/tr/hizmetler/evar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR</h4><p>Endovasküler Anevrizma Onarımı</p></a>
-  <a href="/tr/hizmetler/alt-ekstremite-arter-hastaligi/" class="service-card"><div class="service-icon">💓</div><h4>Aort Anevrizma Cerrahisi</h4><p>Kalp aort anevrizması</p></a>
-  <a href="/tr/hizmetler/venoz-yetmezlik/" class="service-card"><div class="service-icon">🔗</div><h4>Periferik Bypass</h4><p>Periferik damar bypass cerrahisi</p></a>
   <a href="/tr/hizmetler/aterektomi/" class="service-card"><div class="service-icon">🎯</div><h4>Aterektomi</h4><p>Plak temizleme işlemi</p></a>
   <a href="/tr/hizmetler/renal-arter-stenozu/" class="service-card"><div class="service-icon">✂️</div><h4>Karotis Endarterektomi</h4><p>Karotis plak temizliği</p></a>
 </div>
