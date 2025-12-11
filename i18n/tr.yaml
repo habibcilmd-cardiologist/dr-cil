@@ -20,3 +20,47 @@ hero_scroll: "Keşfetmek için kaydırın"
 heart_model_title: "Kalbin anatomik yapısına üç boyutlu bir bakış"
 heart_model_hint: "3D Kalp Modelini döndürün ve yakınlaştırın"
 heart_model_loading: "Kalp Modeli Yükleniyor..."
+
+# =============================================================================
+# Interventional Cardiology Diagram - Girişimsel Kardiyoloji Diyagramı
+# =============================================================================
+ic_section_title: "Girişimsel Kardiyoloji Hizmetleri"
+ic_main_title: "Girişimsel Kardiyoloji"
+ic_subtitle: "İleri düzey minimal invaziv kalp ve damar girişimleri"
+ic_diagram_title: "Girişimsel Kardiyoloji Hizmetleri Diyagramı"
+ic_diagram_desc: "Üç ana dalı gösteren interaktif diyagram: Koroner Girişimler, Periferik Girişimler ve Yapısal Kalp Hastalığı Girişimleri"
+ic_center_title: "Girişimsel Kardiyoloji"
+ic_cta_button: "WhatsApp ile Randevu"
+
+# Branch 1: Coronary Interventions - Koroner Girişimler
+ic_coronary_title: "Koroner Girişimler"
+ic_coronary_1: "Sol ana koroner girişimleri"
+ic_coronary_2: "Bifurkasyon girişimleri"
+ic_coronary_3: "Kronik total oklüzyon (CTO)"
+ic_coronary_4: "Koroner fistül tedavisi"
+ic_coronary_5: "IVUS: Damar içi ultrason"
+ic_coronary_6: "FFR: Darlık değerlendirmesi"
+
+# Branch 2: Peripheral Interventions - Periferik Girişimler
+ic_peripheral_title: "Periferik Girişimler"
+ic_peripheral_1: "Karotis (şahdamarı) stentleme"
+ic_peripheral_2: "Renal arter darlığı tedavisi"
+ic_peripheral_3: "Aort anevrizması tedavisi"
+ic_peripheral_4: "Diyaliz fistül tıkanıklığı"
+ic_peripheral_5: "İliak arter tıkanıklığı"
+ic_peripheral_6: "Dizüstü damar tıkanıklığı"
+ic_peripheral_7: "Dizaltı damar tıkanıklığı"
+ic_peripheral_8: "Akut DVT tedavisi"
+ic_peripheral_9: "Kronik DVT tedavisi"
+ic_peripheral_10: "Varikosel ve Pelvik Konjesyon"
+ic_peripheral_11: "May-Thurner Sendromu"
+
+# Branch 3: Structural Heart Interventions - Yapısal Kalp Girişimleri
+ic_structural_title: "Yapısal Kalp Girişimleri"
+ic_structural_1: "Doğuştan kalp deliği kapatma"
+ic_structural_2: "HOKM tedavisi (Septal ablasyon)"
+ic_structural_3: "Mitral balon valvüloplasti"
+ic_structural_4: "TAVİ: Aort darlığı tedavisi"
+ic_structural_5: "MitraClip: Mitral yetmezlik"
+ic_structural_6: "Triküspit kapak tedavisi"
+

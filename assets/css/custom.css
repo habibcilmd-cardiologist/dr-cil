@@ -2339,3 +2339,413 @@ a.service-card:hover {
 [dir="rtl"] .hero-scroll-indicator {
 	flex-direction: column;
 }
+
+/* =============================================================================
+   Interventional Cardiology Radial Diagram
+   Interactive SVG with Animations - SEO Optimized
+   ============================================================================= */
+
+.ic-diagram-section {
+	padding: 4rem 1rem;
+	background: linear-gradient(180deg, 
+		var(--color-neutral-50, #f8fafc) 0%, 
+		var(--color-neutral-100, #f1f5f9) 100%);
+	overflow: hidden;
+}
+
+.dark .ic-diagram-section {
+	background: linear-gradient(180deg, 
+		var(--color-neutral-800, #1e293b) 0%, 
+		var(--color-neutral-900, #0f172a) 100%);
+}
+
+.ic-diagram-container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+/* Header Styles */
+.ic-header {
+	text-align: center;
+	margin-bottom: 2rem;
+}
+
+.ic-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	color: var(--color-neutral-900, #0f172a);
+	margin-bottom: 0.5rem;
+	letter-spacing: -0.025em;
+}
+
+.dark .ic-title {
+	color: var(--color-neutral-100, #f1f5f9);
+}
+
+.ic-subtitle {
+	font-size: 1.125rem;
+	color: var(--color-neutral-600, #475569);
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.dark .ic-subtitle {
+	color: var(--color-neutral-400, #94a3b8);
+}
+
+/* SVG Diagram Container */
+.ic-diagram-wrapper {
+	display: block;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 1rem;
+}
+
+.ic-radial-svg {
+	width: 100%;
+	height: auto;
+	max-height: 700px;
+}
+
+/* Branch Circles */
+.ic-branch {
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+.ic-branch-circle {
+	transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), 
+	            filter 0.3s ease;
+	transform-origin: center;
+}
+
+.ic-branch:hover .ic-branch-circle,
+.ic-branch:focus .ic-branch-circle {
+	transform: scale(1.1);
+	filter: url(#glow);
+}
+
+.ic-branch-active .ic-branch-circle {
+	transform: scale(1.15);
+}
+
+.ic-branch:focus {
+	outline: none;
+}
+
+.ic-branch:focus .ic-branch-circle {
+	stroke: white;
+	stroke-width: 3;
+}
+
+/* Branch Labels */
+.ic-branch-label {
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.ic-branch-number {
+	font-size: 14px;
+	opacity: 0.7;
+}
+
+.ic-branch-title {
+	font-size: 16px;
+	font-weight: 700;
+	fill: var(--color-neutral-700, #334155);
+}
+
+.dark .ic-branch-title {
+	fill: var(--color-neutral-300, #cbd5e1);
+}
+
+/* Sub-items */
+.ic-subitems {
+	transition: opacity 0.4s ease;
+	pointer-events: none;
+}
+
+.ic-subitem-text {
+	font-size: 15px;
+	font-weight: 600;
+	fill: var(--color-neutral-700, #334155);
+}
+
+.ic-subitem-text-sm {
+	font-size: 14px;
+	font-weight: 600;
+	fill: var(--color-neutral-600, #475569);
+}
+
+.dark .ic-subitem-text,
+.dark .ic-subitem-text-sm {
+	fill: var(--color-neutral-300, #cbd5e1);
+}
+
+/* Center Heart */
+.ic-center-heart {
+	cursor: default;
+}
+
+.ic-heart-bg {
+	transition: transform 0.3s ease;
+}
+
+.ic-center-heart:hover .ic-heart-bg {
+	transform: scale(1.05);
+}
+
+.ic-center-label {
+	font-size: 16px;
+	font-weight: 700;
+	fill: var(--color-neutral-800, #1e293b);
+}
+
+.dark .ic-center-label {
+	fill: var(--color-neutral-200, #e2e8f0);
+}
+
+/* Connectors Animation */
+.ic-connector {
+	stroke-dashoffset: 0;
+	animation: dashFlow 20s linear infinite;
+}
+
+@keyframes dashFlow {
+	to {
+		stroke-dashoffset: -100;
+	}
+}
+
+/* Mobile Accordion - Hidden on Desktop */
+.ic-mobile-accordion {
+	display: none;
+}
+
+/* Call to Action */
+.ic-cta {
+	text-align: center;
+	margin-top: 2.5rem;
+}
+
+.ic-cta-button {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.5rem;
+	padding: 1rem 2rem;
+	background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+	color: white !important;
+	font-weight: 600;
+	font-size: 1.125rem;
+	border-radius: 50px;
+	text-decoration: none !important;
+	box-shadow: 0 4px 15px rgba(239, 68, 68, 0.4);
+	transition: all 0.3s ease;
+}
+
+.ic-cta-whatsapp {
+	background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
+	box-shadow: 0 4px 15px rgba(37, 211, 102, 0.4);
+}
+
+.ic-cta-whatsapp:hover {
+	box-shadow: 0 8px 25px rgba(37, 211, 102, 0.5);
+}
+
+.ic-cta-icon-wa {
+	width: 22px;
+	height: 22px;
+}
+
+.ic-cta-button:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 8px 25px rgba(239, 68, 68, 0.5);
+}
+
+.ic-cta-icon {
+	width: 20px;
+	height: 20px;
+	transition: transform 0.3s ease;
+}
+
+.ic-cta-button:hover .ic-cta-icon {
+	transform: translateX(4px);
+}
+
+/* -----------------------------------------------------------------------------
+   Responsive: Tablet
+   ----------------------------------------------------------------------------- */
+@media (max-width: 1024px) {
+	.ic-diagram-section {
+		padding: 3rem 1rem;
+	}
+	
+	.ic-title {
+		font-size: 2rem;
+	}
+	
+	.ic-radial-svg {
+		max-height: 600px;
+	}
+	
+	.ic-branch-title {
+		font-size: 14px;
+	}
+	
+	.ic-subitem-text,
+	.ic-subitem-text-sm {
+		font-size: 12px;
+	}
+}
+
+/* -----------------------------------------------------------------------------
+   Responsive: Mobile - Switch to Accordion
+   ----------------------------------------------------------------------------- */
+@media (max-width: 768px) {
+	.ic-diagram-section {
+		padding: 2rem 1rem;
+	}
+	
+	.ic-title {
+		font-size: 1.75rem;
+	}
+	
+	.ic-subtitle {
+		font-size: 1rem;
+	}
+	
+	/* Hide SVG on mobile */
+	.ic-diagram-wrapper {
+		display: none;
+	}
+	
+	/* Show Accordion */
+	.ic-mobile-accordion {
+		display: block;
+		margin-top: 1.5rem;
+	}
+	
+	.ic-accordion-item {
+		background: white;
+		border-radius: 12px;
+		margin-bottom: 0.75rem;
+		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+		overflow: hidden;
+	}
+	
+	.dark .ic-accordion-item {
+		background: var(--color-neutral-800, #1e293b);
+	}
+	
+	.ic-accordion-header {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+		padding: 1rem 1.25rem;
+		cursor: pointer;
+		list-style: none;
+		font-weight: 600;
+		color: var(--color-neutral-800, #1e293b);
+	}
+	
+	.dark .ic-accordion-header {
+		color: var(--color-neutral-200, #e2e8f0);
+	}
+	
+	.ic-accordion-header::-webkit-details-marker {
+		display: none;
+	}
+	
+	.ic-accordion-icon {
+		font-size: 1.5rem;
+	}
+	
+	.ic-accordion-title {
+		flex: 1;
+		font-size: 1rem;
+	}
+	
+	.ic-accordion-arrow {
+		width: 20px;
+		height: 20px;
+		transition: transform 0.3s ease;
+		color: var(--color-neutral-500, #64748b);
+	}
+	
+	.ic-accordion-item[open] .ic-accordion-arrow {
+		transform: rotate(180deg);
+	}
+	
+	/* Accordion Colors */
+	.ic-accordion-coronary .ic-accordion-header {
+		border-left: 4px solid #3b82f6;
+	}
+	
+	.ic-accordion-peripheral .ic-accordion-header {
+		border-left: 4px solid #10b981;
+	}
+	
+	.ic-accordion-structural .ic-accordion-header {
+		border-left: 4px solid #8b5cf6;
+	}
+	
+	.ic-accordion-list {
+		padding: 0 1.25rem 1rem 3rem;
+		margin: 0;
+		list-style: disc;
+	}
+	
+	.ic-accordion-list li {
+		padding: 0.375rem 0;
+		font-size: 0.9rem;
+		color: var(--color-neutral-600, #475569);
+	}
+	
+	.dark .ic-accordion-list li {
+		color: var(--color-neutral-400, #94a3b8);
+	}
+	
+	.ic-cta-button {
+		padding: 0.875rem 1.5rem;
+		font-size: 1rem;
+	}
+}
+
+/* -----------------------------------------------------------------------------
+   RTL Support for Diagram
+   ----------------------------------------------------------------------------- */
+[dir="rtl"] .ic-accordion-header {
+	flex-direction: row-reverse;
+}
+
+[dir="rtl"] .ic-accordion-coronary .ic-accordion-header,
+[dir="rtl"] .ic-accordion-peripheral .ic-accordion-header,
+[dir="rtl"] .ic-accordion-structural .ic-accordion-header {
+	border-left: none;
+	border-right: 4px solid;
+}
+
+[dir="rtl"] .ic-accordion-coronary .ic-accordion-header {
+	border-right-color: #3b82f6;
+}
+
+[dir="rtl"] .ic-accordion-peripheral .ic-accordion-header {
+	border-right-color: #10b981;
+}
+
+[dir="rtl"] .ic-accordion-structural .ic-accordion-header {
+	border-right-color: #8b5cf6;
+}
+
+[dir="rtl"] .ic-accordion-list {
+	padding: 0 3rem 1rem 1.25rem;
+}
+
+[dir="rtl"] .ic-cta-button {
+	flex-direction: row-reverse;
+}
+
+[dir="rtl"] .ic-cta-button:hover .ic-cta-icon {
+	transform: translateX(-4px);
+}
+

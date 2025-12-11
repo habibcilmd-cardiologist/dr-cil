@@ -1,0 +1,431 @@
+{{/* Interventional Cardiology Radial Diagram - SEO Optimized Interactive SVG */}}
+{{/* Girişimsel Kardiyoloji - Merkezi Kalp + 3 Ana Dal Radyal Diyagram */}}
+
+<section id="interventional-cardiology-section" class="ic-diagram-section" aria-label="{{ i18n "ic_section_title" | default "Interventional Cardiology Services" }}">
+  <div class="ic-diagram-container">
+    
+    {{/* Section Header */}}
+    <header class="ic-header">
+      <h2 class="ic-title">{{ i18n "ic_section_title" | default "Interventional Cardiology Services" }}</h2>
+      <p class="ic-subtitle">{{ i18n "ic_subtitle" | default "Advanced minimally invasive cardiac and vascular procedures" }}</p>
+    </header>
+
+    {{/* Interactive Radial SVG Diagram */}}
+    <div class="ic-diagram-wrapper">
+      <svg viewBox="0 0 800 820" class="ic-radial-svg" role="img" aria-labelledby="ic-svg-title ic-svg-desc">
+        <title id="ic-svg-title">{{ i18n "ic_diagram_title" | default "Interventional Cardiology Services Diagram" }}</title>
+        <desc id="ic-svg-desc">{{ i18n "ic_diagram_desc" | default "Interactive diagram showing three main branches: Coronary Interventions, Peripheral Interventions, and Structural Heart Disease Interventions" }}</desc>
+        
+        {{/* Definitions - Gradients & Filters */}}
+        <defs>
+          {{/* Center Heart Gradient */}}
+          <radialGradient id="heartGradient" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#ef4444"/>
+            <stop offset="70%" stop-color="#dc2626"/>
+            <stop offset="100%" stop-color="#b91c1c"/>
+          </radialGradient>
+          
+          {{/* Branch Gradients */}}
+          <linearGradient id="coronaryGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#3b82f6"/>
+            <stop offset="100%" stop-color="#1d4ed8"/>
+          </linearGradient>
+          
+          <linearGradient id="peripheralGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#10b981"/>
+            <stop offset="100%" stop-color="#059669"/>
+          </linearGradient>
+          
+          <linearGradient id="structuralGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#8b5cf6"/>
+            <stop offset="100%" stop-color="#7c3aed"/>
+          </linearGradient>
+          
+          {{/* Glow Effects */}}
+          <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+            <feMerge>
+              <feMergeNode in="coloredBlur"/>
+              <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+          </filter>
+          
+          <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="rgba(0,0,0,0.15)"/>
+          </filter>
+
+          {{/* Pulse Animation */}}
+          <style>
+            @keyframes pulse {
+              0%, 100% { transform: scale(1); }
+              50% { transform: scale(1.05); }
+            }
+            @keyframes heartbeat {
+              0%, 100% { transform: scale(1); }
+              14% { transform: scale(1.08); }
+              28% { transform: scale(1); }
+              42% { transform: scale(1.08); }
+              70% { transform: scale(1); }
+            }
+          </style>
+        </defs>
+
+        {{/* Background Circle Rings */}}
+        <g class="ic-bg-rings" opacity="0.1">
+          <circle cx="400" cy="400" r="350" fill="none" stroke="currentColor" stroke-width="1"/>
+          <circle cx="400" cy="400" r="280" fill="none" stroke="currentColor" stroke-width="1"/>
+          <circle cx="400" cy="400" r="200" fill="none" stroke="currentColor" stroke-width="1"/>
+        </g>
+
+        {{/* ============================================= */}}
+        {{/* CENTER: ANIMATED HEART - Draw first so connectors appear on top */}}
+        {{/* ============================================= */}}
+        <g class="ic-center-heart" transform="translate(400, 400)">
+          {{/* Outer Glow Ring */}}
+          <circle r="85" fill="none" stroke="url(#heartGradient)" stroke-width="2" opacity="0.3" class="ic-heart-ring">
+            <animate attributeName="r" values="80;90;80" dur="3s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.3;0.1;0.3" dur="3s" repeatCount="indefinite"/>
+          </circle>
+          
+          {{/* Heart Background */}}
+          <circle r="70" fill="url(#heartGradient)" filter="url(#glow)" class="ic-heart-bg"/>
+          
+          {{/* Heart SVG Icon */}}
+          <g class="ic-heart-icon" style="animation: heartbeat 2s ease-in-out infinite;">
+            <path d="M0,-30 C-25,-30 -40,-10 -40,10 C-40,35 0,55 0,55 C0,55 40,35 40,10 C40,-10 25,-30 0,-30" 
+                  fill="white" opacity="0.95"/>
+            {{/* ECG Line inside heart */}}
+            <path d="M-25,5 L-15,5 L-10,-10 L-5,15 L0,0 L5,5 L25,5" 
+                  fill="none" stroke="url(#heartGradient)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+          
+          {{/* Center Label */}}
+          <text y="95" text-anchor="middle" class="ic-center-label" fill="currentColor">
+            {{ i18n "ic_center_title" | default "Interventional Cardiology" }}
+          </text>
+        </g>
+
+        {{/* Connecting Lines from Center to Branches - Draw AFTER center heart */}}
+        <g class="ic-connectors">
+          {{/* Coronary Branch Line (Top) - Blue dashed line from center to top */}}
+          <line class="ic-connector ic-connector-coronary" x1="400" y1="330" x2="400" y2="175" stroke="#3b82f6" stroke-width="4" stroke-dasharray="8,4" opacity="0.9"/>
+          
+          {{/* Peripheral Branch Line (Bottom Left) - Green dashed line */}}
+          <path class="ic-connector ic-connector-peripheral" d="M355,460 Q260,540 195,595" fill="none" stroke="#10b981" stroke-width="4" stroke-dasharray="8,4" opacity="0.9"/>
+          
+          {{/* Structural Branch Line (Bottom Right) - Purple dashed line */}}
+          <path class="ic-connector ic-connector-structural" d="M445,460 Q540,540 605,595" fill="none" stroke="#8b5cf6" stroke-width="4" stroke-dasharray="8,4" opacity="0.9"/>
+        </g>
+
+        {{/* ============================================= */}}
+        {{/* BRANCH 1: CORONARY INTERVENTIONS (Top) */}}
+        {{/* ============================================= */}}
+        <g class="ic-branch ic-branch-coronary" data-branch="coronary" tabindex="0" role="button" aria-expanded="false" aria-controls="coronary-details">
+          {{/* Main Branch Circle */}}
+          <circle cx="400" cy="120" r="55" fill="url(#coronaryGradient)" filter="url(#softShadow)" class="ic-branch-circle"/>
+          
+          {{/* Branch Icon - Heart with Stent */}}
+          <g transform="translate(400, 120)" class="ic-branch-icon">
+            <path d="M0,-25 C-15,-25 -25,-15 -25,0 C-25,20 0,35 0,35 C0,35 25,20 25,0 C25,-15 15,-25 0,-25" fill="white" opacity="0.9"/>
+            <line x1="-8" y1="0" x2="8" y2="0" stroke="url(#coronaryGradient)" stroke-width="3" stroke-linecap="round"/>
+            <line x1="0" y1="-8" x2="0" y2="8" stroke="url(#coronaryGradient)" stroke-width="3" stroke-linecap="round"/>
+          </g>
+          
+          {{/* Branch Label - Only Title, No Number */}}
+          <text x="400" y="195" text-anchor="middle" class="ic-branch-title" fill="currentColor">{{ i18n "ic_coronary_title" | default "Coronary Interventions" }}</text>
+        </g>
+
+        {{/* Coronary Sub-items (Initially Hidden) - Positioned to avoid overlap */}}
+        <g class="ic-subitems ic-subitems-coronary" opacity="0">
+          {{/* Left side items - moved further left */}}
+          <g class="ic-subitem" transform="translate(120, 60)">
+            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_1" | default "Left main coronary interventions" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(120, 95)">
+            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_2" | default "Bifurcation interventions" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(120, 130)">
+            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_3" | default "Chronic total occlusion" }}</text>
+          </g>
+          
+          {{/* Right side items - moved further right */}}
+          <g class="ic-subitem" transform="translate(550, 60)">
+            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_4" | default "Coronary fistula treatment" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(550, 95)">
+            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_5" | default "IVUS imaging" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(550, 130)">
+            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_6" | default "FFR assessment" }}</text>
+          </g>
+        </g>
+
+        {{/* ============================================= */}}
+        {{/* BRANCH 2: PERIPHERAL INTERVENTIONS (Bottom Left) */}}
+        {{/* ============================================= */}}
+        <g class="ic-branch ic-branch-peripheral" data-branch="peripheral" tabindex="0" role="button" aria-expanded="false" aria-controls="peripheral-details">
+          {{/* Main Branch Circle */}}
+          <circle cx="140" cy="620" r="55" fill="url(#peripheralGradient)" filter="url(#softShadow)" class="ic-branch-circle"/>
+          
+          {{/* Branch Icon - Vessel */}}
+          <g transform="translate(140, 620)" class="ic-branch-icon">
+            <path d="M-20,-15 Q-10,0 -20,15 M-10,-20 Q5,0 -10,20 M5,-15 Q15,0 5,15" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+          </g>
+          
+          {{/* Branch Label - Only Title */}}
+          <text x="140" y="695" text-anchor="middle" class="ic-branch-title" fill="currentColor">{{ i18n "ic_peripheral_title" | default "Peripheral Interventions" }}</text>
+        </g>
+
+        {{/* Peripheral Sub-items - Positioned to left side, avoiding node overlap */}}
+        <g class="ic-subitems ic-subitems-peripheral" opacity="0">
+          <g class="ic-subitem" transform="translate(20, 420)">
+            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_1" | default "Carotid stenting" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(20, 455)">
+            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_2" | default "Renal artery stenosis" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(20, 490)">
+            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_3" | default "Aortic aneurysm treatment" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(20, 525)">
+            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_4" | default "Dialysis fistula treatment" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(230, 720)">
+            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_5" | default "Iliac artery occlusion" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(230, 755)">
+            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_6" | default "Above-knee vessel occlusion" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(230, 790)">
+            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_7" | default "Below-knee vessel occlusion" }}</text>
+          </g>
+        </g>
+
+        {{/* ============================================= */}}
+        {{/* BRANCH 3: STRUCTURAL HEART DISEASE (Bottom Right) */}}
+        {{/* ============================================= */}}
+        <g class="ic-branch ic-branch-structural" data-branch="structural" tabindex="0" role="button" aria-expanded="false" aria-controls="structural-details">
+          {{/* Main Branch Circle */}}
+          <circle cx="660" cy="620" r="55" fill="url(#structuralGradient)" filter="url(#softShadow)" class="ic-branch-circle"/>
+          
+          {{/* Branch Icon - Heart Structure */}}
+          <g transform="translate(660, 620)" class="ic-branch-icon">
+            <rect x="-18" y="-18" width="36" height="36" rx="8" fill="none" stroke="white" stroke-width="2.5" opacity="0.9"/>
+            <line x1="-18" y1="0" x2="18" y2="0" stroke="white" stroke-width="2" opacity="0.7"/>
+            <line x1="0" y1="-18" x2="0" y2="18" stroke="white" stroke-width="2" opacity="0.7"/>
+          </g>
+          
+          {{/* Branch Label - Only Title */}}
+          <text x="660" y="695" text-anchor="middle" class="ic-branch-title" fill="currentColor">{{ i18n "ic_structural_title" | default "Structural Heart Interventions" }}</text>
+        </g>
+
+        {{/* Structural Sub-items - Positioned to right side, avoiding node overlap */}}
+        <g class="ic-subitems ic-subitems-structural" opacity="0">
+          <g class="ic-subitem" transform="translate(530, 420)">
+            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_1" | default "Congenital heart defect closure" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(530, 455)">
+            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_2" | default "HOCM treatment (Septal ablation)" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(530, 490)">
+            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_3" | default "Mitral balloon valvuloplasty" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(530, 525)">
+            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_4" | default "TAVI (Aortic stenosis)" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(530, 560)">
+            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_5" | default "MitraClip (Mitral regurgitation)" }}</text>
+          </g>
+          <g class="ic-subitem" transform="translate(530, 595)">
+            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_6" | default "Tricuspid valve treatment" }}</text>
+          </g>
+        </g>
+
+      </svg>
+    </div>
+
+    {{/* Mobile Accordion View (Hidden on Desktop) */}}
+    <div class="ic-mobile-accordion">
+      {{/* Coronary */}}
+      <details class="ic-accordion-item ic-accordion-coronary">
+        <summary class="ic-accordion-header">
+          <span class="ic-accordion-icon">💙</span>
+          <span class="ic-accordion-title">{{ i18n "ic_coronary_title" | default "Coronary Interventions" }}</span>
+          <svg class="ic-accordion-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M6 9l6 6 6-6"/>
+          </svg>
+        </summary>
+        <ul class="ic-accordion-list">
+          <li>{{ i18n "ic_coronary_1" | default "Left main coronary interventions" }}</li>
+          <li>{{ i18n "ic_coronary_2" | default "Bifurcation interventions" }}</li>
+          <li>{{ i18n "ic_coronary_3" | default "Chronic total occlusion" }}</li>
+          <li>{{ i18n "ic_coronary_4" | default "Coronary fistula treatment" }}</li>
+          <li>{{ i18n "ic_coronary_5" | default "IVUS: Intravascular ultrasound imaging" }}</li>
+          <li>{{ i18n "ic_coronary_6" | default "FFR: Fractional flow reserve assessment" }}</li>
+        </ul>
+      </details>
+
+      {{/* Peripheral */}}
+      <details class="ic-accordion-item ic-accordion-peripheral">
+        <summary class="ic-accordion-header">
+          <span class="ic-accordion-icon">💚</span>
+          <span class="ic-accordion-title">{{ i18n "ic_peripheral_title" | default "Peripheral Interventions" }}</span>
+          <svg class="ic-accordion-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M6 9l6 6 6-6"/>
+          </svg>
+        </summary>
+        <ul class="ic-accordion-list">
+          <li>{{ i18n "ic_peripheral_1" | default "Carotid stenting" }}</li>
+          <li>{{ i18n "ic_peripheral_2" | default "Renal artery stenosis treatment" }}</li>
+          <li>{{ i18n "ic_peripheral_3" | default "Aortic aneurysm treatment" }}</li>
+          <li>{{ i18n "ic_peripheral_4" | default "Dialysis fistula treatment" }}</li>
+          <li>{{ i18n "ic_peripheral_5" | default "Iliac artery occlusion treatment" }}</li>
+          <li>{{ i18n "ic_peripheral_6" | default "Above-knee vessel occlusion" }}</li>
+          <li>{{ i18n "ic_peripheral_7" | default "Below-knee vessel occlusion" }}</li>
+          <li>{{ i18n "ic_peripheral_8" | default "Acute DVT treatment" }}</li>
+          <li>{{ i18n "ic_peripheral_9" | default "Chronic DVT treatment" }}</li>
+          <li>{{ i18n "ic_peripheral_10" | default "Varicocele & Pelvic Congestion" }}</li>
+          <li>{{ i18n "ic_peripheral_11" | default "May-Thurner Syndrome" }}</li>
+        </ul>
+      </details>
+
+      {{/* Structural */}}
+      <details class="ic-accordion-item ic-accordion-structural">
+        <summary class="ic-accordion-header">
+          <span class="ic-accordion-icon">💜</span>
+          <span class="ic-accordion-title">{{ i18n "ic_structural_title" | default "Structural Heart Interventions" }}</span>
+          <svg class="ic-accordion-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M6 9l6 6 6-6"/>
+          </svg>
+        </summary>
+        <ul class="ic-accordion-list">
+          <li>{{ i18n "ic_structural_1" | default "Congenital heart defect closure" }}</li>
+          <li>{{ i18n "ic_structural_2" | default "HOCM treatment (Septal alcohol ablation)" }}</li>
+          <li>{{ i18n "ic_structural_3" | default "Mitral balloon valvuloplasty" }}</li>
+          <li>{{ i18n "ic_structural_4" | default "TAVI: Aortic stenosis treatment" }}</li>
+          <li>{{ i18n "ic_structural_5" | default "MitraClip: Mitral regurgitation treatment" }}</li>
+          <li>{{ i18n "ic_structural_6" | default "Tricuspid valve treatment" }}</li>
+        </ul>
+      </details>
+    </div>
+
+    {{/* Call to Action - WhatsApp */}}
+    <div class="ic-cta">
+      <a href="https://wa.me/905339454639" target="_blank" rel="noopener" class="ic-cta-button ic-cta-whatsapp">
+        <svg viewBox="0 0 24 24" fill="currentColor" class="ic-cta-icon-wa">
+          <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+        </svg>
+        {{ i18n "ic_cta_button" | default "Schedule a Consultation" }}
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="ic-cta-icon">
+          <path d="M5 12h14M12 5l7 7-7 7"/>
+        </svg>
+      </a>
+    </div>
+
+  </div>
+</section>
+
+{{/* Interaction Script */}}
+<script>
+(function() {
+  'use strict';
+  
+  const branches = document.querySelectorAll('.ic-branch');
+  const subitems = {
+    coronary: document.querySelector('.ic-subitems-coronary'),
+    peripheral: document.querySelector('.ic-subitems-peripheral'),
+    structural: document.querySelector('.ic-subitems-structural')
+  };
+  
+  let activeSubitems = null;
+  
+  branches.forEach(branch => {
+    const branchName = branch.dataset.branch;
+    
+    // Click/Touch handler
+    branch.addEventListener('click', function(e) {
+      e.stopPropagation();
+      toggleBranch(branchName, this);
+    });
+    
+    // Keyboard accessibility
+    branch.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        toggleBranch(branchName, this);
+      }
+    });
+    
+    // Hover effect for desktop
+    branch.addEventListener('mouseenter', function() {
+      this.querySelector('.ic-branch-circle').style.transform = 'scale(1.1)';
+    });
+    
+    branch.addEventListener('mouseleave', function() {
+      this.querySelector('.ic-branch-circle').style.transform = 'scale(1)';
+    });
+  });
+  
+  function toggleBranch(name, element) {
+    const items = subitems[name];
+    if (!items) return;
+    
+    const isExpanded = element.getAttribute('aria-expanded') === 'true';
+    
+    // Close all first
+    branches.forEach(b => {
+      b.setAttribute('aria-expanded', 'false');
+      b.classList.remove('ic-branch-active');
+    });
+    Object.values(subitems).forEach(s => {
+      if (s) {
+        s.style.opacity = '0';
+        s.style.pointerEvents = 'none';
+      }
+    });
+    
+    // Toggle current
+    if (!isExpanded) {
+      element.setAttribute('aria-expanded', 'true');
+      element.classList.add('ic-branch-active');
+      items.style.opacity = '1';
+      items.style.pointerEvents = 'auto';
+    }
+  }
+  
+  // Close on outside click
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.ic-branch')) {
+      branches.forEach(b => {
+        b.setAttribute('aria-expanded', 'false');
+        b.classList.remove('ic-branch-active');
+      });
+      Object.values(subitems).forEach(s => {
+        if (s) {
+          s.style.opacity = '0';
+          s.style.pointerEvents = 'none';
+        }
+      });
+    }
+  });
+})();
+</script>

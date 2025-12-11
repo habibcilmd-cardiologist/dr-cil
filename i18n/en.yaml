@@ -22,3 +22,47 @@ hero_scroll: "Scroll to explore"
 heart_model_title: "A three-dimensional view of the heart's anatomical structure"
 heart_model_hint: "Drag to Rotate • Scroll to Zoom"
 heart_model_loading: "Loading Heart Model..."
+
+# =============================================================================
+# Interventional Cardiology Diagram
+# =============================================================================
+ic_section_title: "Interventional Cardiology Services"
+ic_main_title: "Interventional Cardiology"
+ic_subtitle: "Advanced minimally invasive cardiac and vascular procedures"
+ic_diagram_title: "Interventional Cardiology Services Diagram"
+ic_diagram_desc: "Interactive diagram showing three main branches: Coronary Interventions, Peripheral Interventions, and Structural Heart Disease Interventions"
+ic_center_title: "Interventional Cardiology"
+ic_cta_button: "Book via WhatsApp"
+
+# Branch 1: Coronary Interventions
+ic_coronary_title: "Coronary Interventions"
+ic_coronary_1: "Left main coronary interventions"
+ic_coronary_2: "Bifurcation interventions"
+ic_coronary_3: "Chronic total occlusion (CTO)"
+ic_coronary_4: "Coronary fistula treatment"
+ic_coronary_5: "IVUS: Intravascular ultrasound"
+ic_coronary_6: "FFR: Stenosis assessment"
+
+# Branch 2: Peripheral Interventions
+ic_peripheral_title: "Peripheral Interventions"
+ic_peripheral_1: "Carotid artery stenting"
+ic_peripheral_2: "Renal artery stenosis treatment"
+ic_peripheral_3: "Aortic aneurysm treatment"
+ic_peripheral_4: "Dialysis fistula occlusion"
+ic_peripheral_5: "Iliac artery occlusion"
+ic_peripheral_6: "Above-knee vessel occlusion"
+ic_peripheral_7: "Below-knee vessel occlusion"
+ic_peripheral_8: "Acute DVT treatment"
+ic_peripheral_9: "Chronic DVT treatment"
+ic_peripheral_10: "Varicocele & Pelvic Congestion"
+ic_peripheral_11: "May-Thurner Syndrome"
+
+# Branch 3: Structural Heart Interventions
+ic_structural_title: "Structural Heart Interventions"
+ic_structural_1: "Congenital heart defect closure"
+ic_structural_2: "HOCM treatment (Septal ablation)"
+ic_structural_3: "Mitral balloon valvuloplasty"
+ic_structural_4: "TAVI: Aortic stenosis treatment"
+ic_structural_5: "MitraClip: Mitral regurgitation"
+ic_structural_6: "Tricuspid valve treatment"
+
