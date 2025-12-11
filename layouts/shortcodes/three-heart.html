@@ -80,7 +80,7 @@
         const size = box.getSize(new THREE.Vector3());
         const maxDim = Math.max(size.x, size.y, size.z);
         if (maxDim > 0) {
-            const scale = 3 / maxDim; // Target size roughly 3 units
+            const scale = 1.8 / maxDim; // Target size roughly 1.8 units
             object.scale.set(scale, scale, scale);
         }
 

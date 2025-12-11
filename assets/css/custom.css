@@ -17,7 +17,7 @@
 }
 
 /* Site title text styling - visible on desktop */
-.main-menu .flex-1 > nav.flex.space-x-3 a {
+.main-menu .flex-1>nav.flex.space-x-3 a {
 	font-size: 1rem !important;
 	font-weight: 600 !important;
 	white-space: nowrap !important;
@@ -25,11 +25,11 @@
 
 /* Mobile: Show site title with smaller font */
 @media (max-width: 1024px) {
-	.main-menu .flex-1 > nav.flex.space-x-3 {
+	.main-menu .flex-1>nav.flex.space-x-3 {
 		display: flex !important;
 	}
 
-	.main-menu .flex-1 > nav.flex.space-x-3 a {
+	.main-menu .flex-1>nav.flex.space-x-3 a {
 		font-size: 0.75rem !important;
 		font-weight: 500 !important;
 		line-height: 1.2 !important;
@@ -45,7 +45,7 @@
 
 /* Even smaller on very small screens */
 @media (max-width: 400px) {
-	.main-menu .flex-1 > nav.flex.space-x-3 a {
+	.main-menu .flex-1>nav.flex.space-x-3 a {
 		font-size: 0.65rem !important;
 		max-width: 140px !important;
 	}
@@ -59,6 +59,7 @@ header nav a p {
 
 /* Mobile adjustments */
 @media (max-width: 768px) {
+
 	/* Smaller logo on mobile */
 	.main-menu .logo,
 	.main-menu .logo svg {
@@ -96,6 +97,7 @@ h6 {
 
 /* Heart icon animation for cardiology branding */
 @keyframes heartbeat {
+
 	0%,
 	100% {
 		transform: scale(1);
@@ -138,13 +140,13 @@ a[href*="wa.me"]:hover {
    ----------------------------------------------------------------------------- */
 
 /* Hero container - moderate height for portrait photos */
-article > div.overflow-hidden {
+article>div.overflow-hidden {
 	max-height: 320px !important;
 	height: 320px !important;
 }
 
 /* Hero image on about/single pages - position to show face */
-article > div.overflow-hidden img {
+article>div.overflow-hidden img {
 	object-position: center 20% !important;
 	object-fit: cover !important;
 }
@@ -172,11 +174,9 @@ article.flex.flex-col.items-center header img:hover {
 
 /* Profile title (doctor name) - gradient text */
 article.flex.flex-col.items-center h1 {
-	background: linear-gradient(
-		135deg,
-		rgb(var(--color-primary-600)),
-		rgb(var(--color-primary-800))
-	);
+	background: linear-gradient(135deg,
+			rgb(var(--color-primary-600)),
+			rgb(var(--color-primary-800)));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
@@ -202,7 +202,7 @@ article.flex.flex-col.items-center .mt-1 a:hover {
 }
 
 /* Content section styling */
-article.flex.flex-col.items-center > div.prose {
+article.flex.flex-col.items-center>div.prose {
 	max-width: 48rem;
 	margin: 0 auto;
 	padding: 1.5rem;
@@ -222,11 +222,9 @@ article.flex.flex-col.items-center > div.prose {
 	left: 0;
 	width: 60px;
 	height: 3px;
-	background: linear-gradient(
-		90deg,
-		rgb(var(--color-primary-500)),
-		rgb(var(--color-secondary-500))
-	);
+	background: linear-gradient(90deg,
+			rgb(var(--color-primary-500)),
+			rgb(var(--color-secondary-500)));
 	border-radius: 2px;
 }
 
@@ -259,14 +257,14 @@ article:hover {
    ============================================================================= */
 
 /* Blog Grid - 2 columns instead of 3 */
-main > .grid {
+main>.grid {
 	grid-template-columns: repeat(2, 1fr) !important;
 	gap: 1.5rem !important;
 }
 
 /* Mobile: 1 column */
 @media (max-width: 768px) {
-	main > .grid {
+	main>.grid {
 		grid-template-columns: 1fr !important;
 	}
 }
@@ -283,12 +281,10 @@ article.min-h-full {
 	position: relative !important;
 	width: 100% !important;
 	overflow: hidden !important;
-	background: linear-gradient(
-		135deg,
-		#6366f1 0%,
-		#8b5cf6 50%,
-		#a78bfa 100%
-	) !important;
+	background: linear-gradient(135deg,
+			#6366f1 0%,
+			#8b5cf6 50%,
+			#a78bfa 100%) !important;
 }
 
 /* Image inside thumbnail card - natural size, no cropping */
@@ -330,7 +326,7 @@ article.min-h-full .thumbnail_card {
    ============================================================================= */
 
 /* Article cards in tag/category pages - Modern card style */
-section.space-y-10 > article {
+section.space-y-10>article {
 	display: flex !important;
 	flex-direction: column !important;
 	background: white !important;
@@ -341,13 +337,13 @@ section.space-y-10 > article {
 	margin-bottom: 1.5rem !important;
 }
 
-section.space-y-10 > article:hover {
+section.space-y-10>article:hover {
 	transform: translateY(-4px) !important;
 	box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12) !important;
 }
 
 /* Dark mode for article cards */
-.dark section.space-y-10 > article {
+.dark section.space-y-10>article {
 	background: rgb(var(--color-neutral-800)) !important;
 }
 
@@ -359,12 +355,10 @@ section.space-y-10 > article:hover {
 	height: auto !important;
 	overflow: hidden !important;
 	border-radius: 16px 16px 0 0 !important;
-	background: linear-gradient(
-		135deg,
-		#6366f1 0%,
-		#8b5cf6 50%,
-		#a78bfa 100%
-	) !important;
+	background: linear-gradient(135deg,
+			#6366f1 0%,
+			#8b5cf6 50%,
+			#a78bfa 100%) !important;
 }
 
 /* Image inside thumbnail - show full image */
@@ -378,12 +372,12 @@ section.space-y-10 > article:hover {
 }
 
 /* Content section in tag/category cards */
-section.space-y-10 > article > div:last-child {
+section.space-y-10>article>div:last-child {
 	padding: 1.5rem !important;
 }
 
 /* Title styling in tag/category cards */
-section.space-y-10 > article h2 {
+section.space-y-10>article h2 {
 	font-size: 1.25rem !important;
 	font-weight: 700 !important;
 	line-height: 1.4 !important;
@@ -391,12 +385,12 @@ section.space-y-10 > article h2 {
 	color: rgb(var(--color-neutral-800)) !important;
 }
 
-.dark section.space-y-10 > article h2 {
+.dark section.space-y-10>article h2 {
 	color: rgb(var(--color-neutral-100)) !important;
 }
 
 /* Tags in article cards */
-section.space-y-10 > article .flex.flex-wrap a {
+section.space-y-10>article .flex.flex-wrap a {
 	background: rgb(var(--color-primary-50)) !important;
 	color: rgb(var(--color-primary-700)) !important;
 	padding: 0.25rem 0.75rem !important;
@@ -406,17 +400,17 @@ section.space-y-10 > article .flex.flex-wrap a {
 	transition: all 0.2s ease !important;
 }
 
-section.space-y-10 > article .flex.flex-wrap a:hover {
+section.space-y-10>article .flex.flex-wrap a:hover {
 	background: rgb(var(--color-primary-100)) !important;
 }
 
-.dark section.space-y-10 > article .flex.flex-wrap a {
+.dark section.space-y-10>article .flex.flex-wrap a {
 	background: rgba(var(--color-primary-500), 0.2) !important;
 	color: rgb(var(--color-primary-300)) !important;
 }
 
 /* Summary text styling */
-section.space-y-10 > article .prose {
+section.space-y-10>article .prose {
 	font-size: 0.95rem !important;
 	line-height: 1.6 !important;
 	color: rgb(var(--color-neutral-600)) !important;
@@ -426,13 +420,13 @@ section.space-y-10 > article .prose {
 	overflow: hidden !important;
 }
 
-.dark section.space-y-10 > article .prose {
+.dark section.space-y-10>article .prose {
 	color: rgb(var(--color-neutral-400)) !important;
 }
 
 /* Responsive: On larger screens, side-by-side layout */
 @media (min-width: 768px) {
-	section.space-y-10 > article {
+	section.space-y-10>article {
 		flex-direction: row !important;
 		align-items: stretch !important;
 	}
@@ -454,7 +448,7 @@ section.space-y-10 > article .prose {
 		object-fit: cover !important;
 	}
 
-	section.space-y-10 > article > div:last-child {
+	section.space-y-10>article>div:last-child {
 		flex: 1 !important;
 		display: flex !important;
 		flex-direction: column !important;
@@ -605,10 +599,10 @@ button:focus-visible {
 }
 
 /* Inner wrapper for max-width and centering */
-.services-section > h2,
-.services-section > .section-subtitle,
-.services-section > .services-grid,
-.services-section > .services-cta {
+.services-section>h2,
+.services-section>.section-subtitle,
+.services-section>.services-grid,
+.services-section>.services-cta {
 	max-width: 1280px;
 	margin-left: auto;
 	margin-right: auto;
@@ -664,11 +658,9 @@ button:focus-visible {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 3rem 2rem;
-	background: linear-gradient(
-		135deg,
-		rgba(var(--color-primary-50), 0.3) 0%,
-		rgba(var(--color-primary-100), 0.2) 100%
-	);
+	background: linear-gradient(135deg,
+			rgba(var(--color-primary-50), 0.3) 0%,
+			rgba(var(--color-primary-100), 0.2) 100%);
 	border-radius: 1.5rem;
 	border: 1px solid rgba(var(--color-primary-200), 0.5);
 	position: relative;
@@ -682,12 +674,10 @@ button:focus-visible {
 	left: -100%;
 	width: 100%;
 	height: 100%;
-	background: linear-gradient(
-		90deg,
-		transparent,
-		rgba(255, 255, 255, 0.3),
-		transparent
-	);
+	background: linear-gradient(90deg,
+			transparent,
+			rgba(255, 255, 255, 0.3),
+			transparent);
 	transition: left 0.5s ease;
 }
 
@@ -761,11 +751,9 @@ a.service-card:hover {
 	left: 0;
 	right: 0;
 	height: 4px;
-	background: linear-gradient(
-		90deg,
-		rgb(var(--color-primary-500)),
-		rgb(var(--color-secondary-500))
-	);
+	background: linear-gradient(90deg,
+			rgb(var(--color-primary-500)),
+			rgb(var(--color-secondary-500)));
 	opacity: 0;
 	transition: opacity 0.3s ease;
 }
@@ -777,11 +765,9 @@ a.service-card:hover {
 	inset: 0;
 	border-radius: inherit;
 	padding: 2px;
-	background: linear-gradient(
-		135deg,
-		rgb(var(--color-primary-500)),
-		rgb(var(--color-secondary-500))
-	);
+	background: linear-gradient(135deg,
+			rgb(var(--color-primary-500)),
+			rgb(var(--color-secondary-500)));
 	-webkit-mask: linear-gradient(#fff 0 0) content-box,
 		linear-gradient(#fff 0 0);
 	-webkit-mask-composite: xor;
@@ -868,10 +854,10 @@ a.service-card:hover {
 		margin: 3rem 0;
 	}
 
-	.services-section > h2,
-	.services-section > .section-subtitle,
-	.services-section > .services-grid,
-	.services-section > .services-cta {
+	.services-section>h2,
+	.services-section>.section-subtitle,
+	.services-section>.services-grid,
+	.services-section>.services-cta {
 		padding-left: 1rem;
 		padding-right: 1rem;
 	}
@@ -941,10 +927,11 @@ a.service-card:hover {
 }
 
 @media (min-width: 641px) and (max-width: 1024px) {
-	.services-section > h2,
-	.services-section > .section-subtitle,
-	.services-section > .services-grid,
-	.services-section > .services-cta {
+
+	.services-section>h2,
+	.services-section>.section-subtitle,
+	.services-section>.services-grid,
+	.services-section>.services-cta {
 		padding-left: 1.5rem;
 		padding-right: 1.5rem;
 	}
@@ -985,6 +972,7 @@ a.service-card:hover {
    ----------------------------------------------------------------------------- */
 
 @media print {
+
 	/* Show full URLs in print */
 	a[href]:after {
 		content: " (" attr(href) ")";
@@ -1008,11 +996,9 @@ a.service-card:hover {
 .hero-section {
 	text-align: center;
 	padding: 3rem 1.5rem;
-	background: linear-gradient(
-		135deg,
-		rgba(99, 102, 241, 0.05) 0%,
-		rgba(139, 92, 246, 0.05) 100%
-	);
+	background: linear-gradient(135deg,
+			rgba(99, 102, 241, 0.05) 0%,
+			rgba(139, 92, 246, 0.05) 100%);
 	border-radius: 24px;
 	margin-bottom: 4rem;
 	position: relative;
@@ -1027,11 +1013,9 @@ a.service-card:hover {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-image: radial-gradient(
-		circle at 20% 50%,
-		rgba(99, 102, 241, 0.03) 0%,
-		transparent 50%
-	);
+	background-image: radial-gradient(circle at 20% 50%,
+			rgba(99, 102, 241, 0.03) 0%,
+			transparent 50%);
 	pointer-events: none;
 }
 
@@ -1079,11 +1063,9 @@ a.service-card:hover {
 	font-size: 3rem;
 	font-weight: 700;
 	margin-bottom: 0.75rem;
-	background: linear-gradient(
-		135deg,
-		rgb(var(--color-primary-600)),
-		rgb(var(--color-secondary-600))
-	);
+	background: linear-gradient(135deg,
+			rgb(var(--color-primary-600)),
+			rgb(var(--color-secondary-600)));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
@@ -1271,7 +1253,7 @@ a.service-card:hover {
 }
 
 /* Ensure text stays on top */
-.btn-primary > * {
+.btn-primary>* {
 	position: relative;
 	z-index: 1;
 }
@@ -1307,7 +1289,7 @@ a.service-card:hover {
 }
 
 /* Ensure text stays on top */
-.btn-secondary > * {
+.btn-secondary>* {
 	position: relative;
 	z-index: 1;
 }
@@ -1330,11 +1312,9 @@ a.service-card:hover {
 	max-width: 800px;
 	margin: 2rem auto;
 	padding: 2.5rem 2rem;
-	background: linear-gradient(
-		135deg,
-		rgba(var(--color-primary-50), 0.2) 0%,
-		rgba(var(--color-secondary-50), 0.1) 100%
-	);
+	background: linear-gradient(135deg,
+			rgba(var(--color-primary-50), 0.2) 0%,
+			rgba(var(--color-secondary-50), 0.1) 100%);
 	border-radius: 1.5rem;
 	border: 1px solid rgba(var(--color-primary-200), 0.3);
 	text-align: center;
@@ -1402,6 +1382,7 @@ a.service-card:hover {
 
 /* Pulse Animation */
 @keyframes pulse {
+
 	0%,
 	100% {
 		box-shadow: 0 8px 24px rgba(37, 211, 102, 0.4);
@@ -1484,11 +1465,9 @@ a.service-card:hover {
    ----------------------------------------------------------------------------- */
 
 .dark .cta-content {
-	background: linear-gradient(
-		135deg,
-		rgba(var(--color-primary-900), 0.3) 0%,
-		rgba(var(--color-primary-800), 0.2) 100%
-	);
+	background: linear-gradient(135deg,
+			rgba(var(--color-primary-900), 0.3) 0%,
+			rgba(var(--color-primary-800), 0.2) 100%);
 	border-color: rgba(var(--color-primary-700), 0.5);
 }
 
@@ -1501,11 +1480,9 @@ a.service-card:hover {
 }
 
 .dark .appointment-cta {
-	background: linear-gradient(
-		135deg,
-		rgba(var(--color-primary-900), 0.2) 0%,
-		rgba(var(--color-secondary-900), 0.1) 100%
-	);
+	background: linear-gradient(135deg,
+			rgba(var(--color-primary-900), 0.2) 0%,
+			rgba(var(--color-secondary-900), 0.1) 100%);
 	border-color: rgba(var(--color-primary-700), 0.3);
 }
 
@@ -1533,13 +1510,19 @@ a.service-card:hover {
 
 .hero-video-section {
 	position: relative;
-	width: 100%;
-	max-width: 1200px;
+	width: 100vw;
 	margin: 0 auto;
 	padding: 2rem 1.5rem 2rem;
 	overflow: hidden;
 	display: flex;
 	justify-content: center;
+
+	/* Breakout from container */
+	left: 50%;
+	right: 50%;
+	margin-left: -50vw;
+	margin-right: -50vw;
+	max-width: none;
 }
 
 /* Background gradient decoration */
@@ -1550,11 +1533,9 @@ a.service-card:hover {
 	right: -20%;
 	width: 600px;
 	height: 600px;
-	background: radial-gradient(
-		circle,
-		rgba(var(--color-primary-500), 0.08) 0%,
-		transparent 70%
-	);
+	background: radial-gradient(circle,
+			rgba(var(--color-primary-500), 0.08) 0%,
+			transparent 70%);
 	pointer-events: none;
 	animation: float-slow 8s ease-in-out infinite;
 }
@@ -1566,20 +1547,20 @@ a.service-card:hover {
 	left: -10%;
 	width: 400px;
 	height: 400px;
-	background: radial-gradient(
-		circle,
-		rgba(var(--color-secondary-500), 0.06) 0%,
-		transparent 70%
-	);
+	background: radial-gradient(circle,
+			rgba(var(--color-secondary-500), 0.06) 0%,
+			transparent 70%);
 	pointer-events: none;
 	animation: float-slow 8s ease-in-out infinite 4s;
 }
 
 @keyframes float-slow {
+
 	0%,
 	100% {
 		transform: translate(0, 0) scale(1);
 	}
+
 	50% {
 		transform: translate(20px, -20px) scale(1.05);
 	}
@@ -1587,12 +1568,13 @@ a.service-card:hover {
 
 .hero-video-container {
 	display: grid;
-	grid-template-columns: 60fr 40fr;
+	grid-template-columns: 1fr 1fr;
 	gap: 2rem;
 	align-items: stretch;
 	position: relative;
 	z-index: 1;
 	width: 100%;
+	max-width: 1400px;
 }
 
 /* -----------------------------------------------------------------------------
@@ -1611,6 +1593,7 @@ a.service-card:hover {
 		opacity: 0;
 		transform: translateX(-30px);
 	}
+
 	to {
 		opacity: 1;
 		transform: translateX(0);
@@ -1649,11 +1632,9 @@ a.service-card:hover {
 	left: 0;
 	right: 0;
 	height: 4px;
-	background: linear-gradient(
-		90deg,
-		rgb(var(--color-primary-500)),
-		rgb(var(--color-secondary-500))
-	);
+	background: linear-gradient(90deg,
+			rgb(var(--color-primary-500)),
+			rgb(var(--color-secondary-500)));
 }
 
 /* Doctor Image */
@@ -1688,11 +1669,9 @@ a.service-card:hover {
 	gap: 0.375rem;
 	margin-top: 1rem;
 	padding: 0.5rem 1rem;
-	background: linear-gradient(
-		135deg,
-		rgba(var(--color-primary-500), 0.1),
-		rgba(var(--color-secondary-500), 0.1)
-	);
+	background: linear-gradient(135deg,
+			rgba(var(--color-primary-500), 0.1),
+			rgba(var(--color-secondary-500), 0.1));
 	border-radius: 999px;
 	color: rgb(var(--color-primary-600));
 	font-size: 0.8rem;
@@ -1712,11 +1691,9 @@ a.service-card:hover {
 .hero-doctor-name {
 	font-size: 1.75rem;
 	font-weight: 700;
-	background: linear-gradient(
-		135deg,
-		rgb(var(--color-neutral-800)),
-		rgb(var(--color-primary-700))
-	);
+	background: linear-gradient(135deg,
+			rgb(var(--color-neutral-800)),
+			rgb(var(--color-primary-700)));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
@@ -1880,6 +1857,7 @@ a.service-card:hover {
 		opacity: 0;
 		transform: translateX(30px);
 	}
+
 	to {
 		opacity: 1;
 		transform: translateX(0);
@@ -1895,11 +1873,9 @@ a.service-card:hover {
 	width: 100%;
 	height: 100%;
 	min-height: 500px;
-	background: linear-gradient(
-		135deg,
-		rgb(var(--color-neutral-800)),
-		rgb(var(--color-neutral-900))
-	);
+	background: linear-gradient(135deg,
+			rgb(var(--color-neutral-800)),
+			rgb(var(--color-neutral-900)));
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -1919,12 +1895,10 @@ a.service-card:hover {
 .hero-video-overlay {
 	position: absolute;
 	inset: 0;
-	background: linear-gradient(
-		to bottom,
-		transparent 0%,
-		transparent 50%,
-		rgba(0, 0, 0, 0.7) 100%
-	);
+	background: linear-gradient(to bottom,
+			transparent 0%,
+			transparent 50%,
+			rgba(0, 0, 0, 0.7) 100%);
 	display: flex;
 	align-items: flex-end;
 	justify-content: flex-start;
@@ -1961,11 +1935,9 @@ a.service-card:hover {
 .hero-video-decoration-1 {
 	width: 200px;
 	height: 200px;
-	background: radial-gradient(
-		circle,
-		rgba(var(--color-primary-500), 0.2) 0%,
-		transparent 70%
-	);
+	background: radial-gradient(circle,
+			rgba(var(--color-primary-500), 0.2) 0%,
+			transparent 70%);
 	top: -50px;
 	right: -50px;
 	animation: pulse-slow 4s ease-in-out infinite;
@@ -1974,22 +1946,22 @@ a.service-card:hover {
 .hero-video-decoration-2 {
 	width: 150px;
 	height: 150px;
-	background: radial-gradient(
-		circle,
-		rgba(var(--color-secondary-500), 0.15) 0%,
-		transparent 70%
-	);
+	background: radial-gradient(circle,
+			rgba(var(--color-secondary-500), 0.15) 0%,
+			transparent 70%);
 	bottom: -30px;
 	left: -30px;
 	animation: pulse-slow 4s ease-in-out infinite 2s;
 }
 
 @keyframes pulse-slow {
+
 	0%,
 	100% {
 		transform: scale(1);
 		opacity: 0.6;
 	}
+
 	50% {
 		transform: scale(1.1);
 		opacity: 1;
@@ -2030,11 +2002,9 @@ a.service-card:hover {
 }
 
 .dark .hero-doctor-name {
-	background: linear-gradient(
-		135deg,
-		rgb(var(--color-neutral-100)),
-		rgb(var(--color-primary-400))
-	);
+	background: linear-gradient(135deg,
+			rgb(var(--color-neutral-100)),
+			rgb(var(--color-primary-400)));
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
@@ -2185,27 +2155,52 @@ a.service-card:hover {
 
 @media (max-width: 640px) {
 	.hero-video-section {
-		width: 100vw;
-		padding: 0.75rem 0.5rem 1.5rem;
+		/* Reset breakout params for simpler mobile handling if needed, 
+           but effectively we just want full width */
+		width: 100%;
+		left: auto;
+		right: auto;
+		margin-left: 0;
+		margin-right: 0;
+		/* Match services section padding (approx 1rem/1.5rem side padding) */
+		padding: 0.5rem 1rem 1rem;
 	}
 
 	.hero-video-container {
-		gap: 0.75rem;
+		gap: 1rem;
+		/* Slightly larger gap than before to breathe */
+		width: 100%;
+		max-width: 100%;
+	}
+
+	/* Remove specific max-width constraints on mobile to let it fill */
+	.hero-doctor-card {
+		max-width: 100%;
+		width: 100%;
+		margin: 0;
+	}
+
+	.hero-video-frame {
+		max-width: 100%;
 	}
 }
 
 @media (max-width: 480px) {
 	.hero-video-section {
-		padding: 0.5rem 0.35rem 1rem;
+		padding: 0.5rem 1rem 1rem;
+		/* Consistent 1rem side padding */
 	}
 
 	.hero-video-container {
-		gap: 0.5rem;
+		gap: 0.75rem;
 	}
 
 	.hero-doctor-card {
 		padding: 1rem;
 		border-radius: 16px;
+		/* Ensure it fits with minimal margin */
+		width: 100%;
+		margin: 0;
 	}
 
 	.hero-doctor-image {
