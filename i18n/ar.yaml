@@ -183,3 +183,35 @@ ic_structural_4: "TAVI: علاج تضيق الصمام الأورطي"
 ic_structural_5: "MitraClip: قصور الصمام التاجي"
 ic_structural_6: "علاج الصمام ثلاثي الشرفات"
 
+# =============================================================================
+# Service URLs - روابط الخدمات حسب اللغة
+# =============================================================================
+# Coronary URLs
+ic_url_coronary_1: "/ar/services/left-main-coronary-stent/"
+ic_url_coronary_2: "/ar/services/bifurkasyon-girisimi/"
+ic_url_coronary_3: "/ar/services/cto-intervention/"
+ic_url_coronary_4: "/ar/services/coronary-fistula-treatment/"
+ic_url_coronary_5: "/ar/services/ivus/"
+ic_url_coronary_6: "/ar/services/ffr/"
+
+# Peripheral URLs
+ic_url_peripheral_1: "/ar/services/carotid-stenosis/"
+ic_url_peripheral_2: "/ar/services/renal-artery-stenosis/"
+ic_url_peripheral_3: "/ar/services/abdominal-aortic-aneurysm/"
+ic_url_peripheral_4: "/ar/services/dialysis-fistula-treatment/"
+ic_url_peripheral_5: "/ar/services/iliac-artery-treatment/"
+ic_url_peripheral_6: "/ar/services/lower-extremity-arterial-disease/"
+ic_url_peripheral_7: "/ar/services/peripheral-vascular/"
+ic_url_peripheral_8: "/ar/services/acute-dvt-treatment/"
+ic_url_peripheral_9: "/ar/services/chronic-dvt-treatment/"
+ic_url_peripheral_10: "/ar/services/varicocele-pelvic-congestion/"
+ic_url_peripheral_11: "/ar/services/may-thurner-syndrome/"
+
+# Structural URLs
+ic_url_structural_1: "/ar/services/heart-hole-closure/"
+ic_url_structural_2: "/ar/services/alcohol-septal-ablation/"
+ic_url_structural_3: "/ar/services/balloon-valvuloplasty/"
+ic_url_structural_4: "/ar/services/tavi/"
+ic_url_structural_5: "/ar/services/mitraclip/"
+ic_url_structural_6: "/ar/services/tricuspid-valve/"
+

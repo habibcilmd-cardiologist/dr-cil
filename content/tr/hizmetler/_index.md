@@ -22,14 +22,36 @@ translationKey: "services"
 
 ### 🔧 Girişimsel Kardiyoloji {#girisimsel-kardiyoloji}
 
+#### 💙 Koroner Girişimler {#koroner-girisimler}
+
 <div class="services-grid">
-  <a href="/tr/hizmetler/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transkateter Aort Kapak İmplantasyonu</p></a>
+  <a href="/tr/hizmetler/sol-ana-koroner-stent/" class="service-card"><div class="service-icon">⭐</div><h4>Sol Ana Koroner Girişim</h4><p>Sol ana koroner arter stentleme</p></a>
+  <a href="/tr/hizmetler/bifurkasyon-girisimi/" class="service-card"><div class="service-icon">🔀</div><h4>Bifurkasyon Girişimleri</h4><p>Damar dallanma bölgesi tedavisi</p></a>
+  <a href="/tr/hizmetler/cto-girisimi/" class="service-card"><div class="service-icon">🎯</div><h4>Kronik Total Oklüzyon</h4><p>Tam tıkalı damarın açılması (CTO)</p></a>
+  <a href="/tr/hizmetler/koroner-fistul-tedavisi/" class="service-card"><div class="service-icon">🔗</div><h4>Koroner Fistül Tedavisi</h4><p>Anormal damar bağlantısı kapatma</p></a>
+  <a href="/tr/hizmetler/ivus/" class="service-card"><div class="service-icon">🔬</div><h4>IVUS</h4><p>Damar içi ultrason görüntüleme</p></a>
+  <a href="/tr/hizmetler/ffr/" class="service-card"><div class="service-icon">📊</div><h4>FFR</h4><p>Fraksiyonel akım rezervi ölçümü</p></a>
   <a href="/tr/hizmetler/koroner-anjiyoplasti/" class="service-card"><div class="service-icon">💉</div><h4>Koroner Anjiyoplasti</h4><p>Balon ve stent uygulamaları</p></a>
-  <a href="/tr/hizmetler/cto-girisimi/" class="service-card"><div class="service-icon">🎯</div><h4>CTO Girişleri</h4><p>Tam Tıkalı Damarın Açılması</p></a>
-  <a href="/tr/hizmetler/periferik-damar/" class="service-card"><div class="service-icon">🦵</div><h4>Periferik Damar</h4><p>Alt ve üst ekstremite girişimleri</p></a>
-  <a href="/tr/hizmetler/karotis-stenozu/" class="service-card"><div class="service-icon">🧠</div><h4>Karotis Darlıkları</h4><p>Şah damarı darlıklarının giderilmesi</p></a>
-  <a href="/tr/hizmetler/sol-ana-koroner-stent/" class="service-card"><div class="service-icon">⭐</div><h4>Sol Ana Koroner Stent</h4><p>Kompleks sol ana koroner işlemleri</p></a>
-  <a href="/tr/hizmetler/alkol-septal-ablasyon/" class="service-card"><div class="service-icon">🧪</div><h4>Alkol Septal Ablasyon</h4><p>Hipertrofik kardiyomiyopati tedavisi</p></a>
+</div>
+
+#### 💚 Periferik Girişimler {#periferik-girisimler}
+
+<div class="services-grid">
+  <a href="/tr/hizmetler/karotis-stenozu/" class="service-card"><div class="service-icon">🧠</div><h4>Karotis Stentleme</h4><p>Şah damarı darlığı tedavisi</p></a>
+  <a href="/tr/hizmetler/renal-arter-stenozu/" class="service-card"><div class="service-icon">🫘</div><h4>Renal Arter Darlığı</h4><p>Böbrek damarı stentleme</p></a>
+  <a href="/tr/hizmetler/periferik-damar/" class="service-card"><div class="service-icon">🦵</div><h4>Periferik Damar Girişimi</h4><p>Bacak damarı tıkanıklık tedavisi</p></a>
+  <a href="/tr/hizmetler/alt-ekstremite-arter-hastaligi/" class="service-card"><div class="service-icon">🦿</div><h4>Alt Ekstremite Arter</h4><p>Dizüstü ve dizaltı damar tedavisi</p></a>
+  <a href="/tr/hizmetler/evar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR</h4><p>Aort anevrizması tedavisi</p></a>
+</div>
+
+#### 💜 Yapısal Kalp Girişimleri {#yapisal-kalp-girisimleri}
+
+<div class="services-grid">
+  <a href="/tr/hizmetler/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transkateter aort kapak implantasyonu</p></a>
+  <a href="/tr/hizmetler/mitraclip/" class="service-card"><div class="service-icon">📎</div><h4>MitraClip</h4><p>Mitral kapak klipleme tedavisi</p></a>
+  <a href="/tr/hizmetler/alkol-septal-ablasyon/" class="service-card"><div class="service-icon">🧪</div><h4>Septal Ablasyon</h4><p>Hipertrofik kardiyomiyopati tedavisi</p></a>
+  <a href="/tr/hizmetler/mitral-kapak/" class="service-card"><div class="service-icon">🎈</div><h4>Mitral Balon Valvüloplasti</h4><p>Mitral kapak genişletme</p></a>
+  <a href="/tr/hizmetler/trikuspid-kapak/" class="service-card"><div class="service-icon">💚</div><h4>Triküspid Kapak Tedavisi</h4><p>Triküspid kapak girişimleri</p></a>
 </div>
 
 ---

@@ -64,3 +64,35 @@ ic_structural_4: "TAVİ: Aort darlığı tedavisi"
 ic_structural_5: "MitraClip: Mitral yetmezlik"
 ic_structural_6: "Triküspit kapak tedavisi"
 
+# =============================================================================
+# Service URLs - Hizmet URL'leri (Dil bazlı linkler için)
+# =============================================================================
+# Coronary URLs
+ic_url_coronary_1: "/tr/hizmetler/sol-ana-koroner-stent/"
+ic_url_coronary_2: "/tr/hizmetler/bifurkasyon-girisimi/"
+ic_url_coronary_3: "/tr/hizmetler/cto-girisimi/"
+ic_url_coronary_4: "/tr/hizmetler/koroner-fistul-tedavisi/"
+ic_url_coronary_5: "/tr/hizmetler/ivus/"
+ic_url_coronary_6: "/tr/hizmetler/ffr/"
+
+# Peripheral URLs
+ic_url_peripheral_1: "/tr/hizmetler/karotis-stenozu/"
+ic_url_peripheral_2: "/tr/hizmetler/renal-arter-stenozu/"
+ic_url_peripheral_3: "/tr/hizmetler/abdominal-aort-anevrizması/"
+ic_url_peripheral_4: "/tr/hizmetler/diyaliz-fistul-tedavisi/"
+ic_url_peripheral_5: "/tr/hizmetler/iliak-arter-tedavisi/"
+ic_url_peripheral_6: "/tr/hizmetler/alt-ekstremite-arter-hastaligi/"
+ic_url_peripheral_7: "/tr/hizmetler/periferik-damar/"
+ic_url_peripheral_8: "/tr/hizmetler/akut-dvt-tedavisi/"
+ic_url_peripheral_9: "/tr/hizmetler/kronik-dvt-tedavisi/"
+ic_url_peripheral_10: "/tr/hizmetler/varikosel-pelvik-konjesyon/"
+ic_url_peripheral_11: "/tr/hizmetler/may-thurner-sendromu/"
+
+# Structural URLs
+ic_url_structural_1: "/tr/hizmetler/kalp-deligi-kapatma/"
+ic_url_structural_2: "/tr/hizmetler/alkol-septal-ablasyon/"
+ic_url_structural_3: "/tr/hizmetler/balon-valvuloplasti/"
+ic_url_structural_4: "/tr/hizmetler/tavi/"
+ic_url_structural_5: "/tr/hizmetler/mitraclip/"
+ic_url_structural_6: "/tr/hizmetler/trikuspid-kapak/"
+

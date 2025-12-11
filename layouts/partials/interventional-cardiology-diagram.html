@@ -67,6 +67,13 @@
               42% { transform: scale(1.08); }
               70% { transform: scale(1); }
             }
+            /* Dark mode text colors for SVG */
+            .dark .ic-branch-title,
+            .dark .ic-center-label,
+            .dark .ic-subitem-text,
+            .dark .ic-subitem-text-sm {
+              fill: #f1f5f9 !important;
+            }
           </style>
         </defs>
 
@@ -138,32 +145,44 @@
         {{/* Coronary Sub-items (Initially Hidden) - Positioned to avoid overlap */}}
         <g class="ic-subitems ic-subitems-coronary" opacity="0">
           {{/* Left side items - moved further left */}}
-          <g class="ic-subitem" transform="translate(120, 60)">
-            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
-            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_1" | default "Left main coronary interventions" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(120, 95)">
-            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
-            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_2" | default "Bifurcation interventions" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(120, 130)">
-            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
-            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_3" | default "Chronic total occlusion" }}</text>
-          </g>
+          <a href="{{ i18n "ic_url_coronary_1" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(120, 60)">
+              <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+              <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_1" | default "Left main coronary interventions" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_coronary_2" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(120, 95)">
+              <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+              <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_2" | default "Bifurcation interventions" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_coronary_3" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(120, 130)">
+              <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+              <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_3" | default "Chronic total occlusion" }}</text>
+            </g>
+          </a>
           
           {{/* Right side items - moved further right */}}
-          <g class="ic-subitem" transform="translate(550, 60)">
-            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
-            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_4" | default "Coronary fistula treatment" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(550, 95)">
-            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
-            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_5" | default "IVUS imaging" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(550, 130)">
-            <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
-            <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_6" | default "FFR assessment" }}</text>
-          </g>
+          <a href="{{ i18n "ic_url_coronary_4" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(550, 60)">
+              <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+              <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_4" | default "Coronary fistula treatment" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_coronary_5" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(550, 95)">
+              <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+              <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_5" | default "IVUS imaging" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_coronary_6" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(550, 130)">
+              <circle r="8" fill="url(#coronaryGradient)" opacity="0.8"/>
+              <text x="15" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_coronary_6" | default "FFR assessment" }}</text>
+            </g>
+          </a>
         </g>
 
         {{/* ============================================= */}}
@@ -184,34 +203,48 @@
 
         {{/* Peripheral Sub-items - Positioned to left side, avoiding node overlap */}}
         <g class="ic-subitems ic-subitems-peripheral" opacity="0">
-          <g class="ic-subitem" transform="translate(20, 420)">
-            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_1" | default "Carotid stenting" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(20, 455)">
-            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_2" | default "Renal artery stenosis" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(20, 490)">
-            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_3" | default "Aortic aneurysm treatment" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(20, 525)">
-            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_4" | default "Dialysis fistula treatment" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(230, 720)">
-            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_5" | default "Iliac artery occlusion" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(230, 755)">
-            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_6" | default "Above-knee vessel occlusion" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(230, 790)">
-            <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_7" | default "Below-knee vessel occlusion" }}</text>
-          </g>
+          <a href="{{ i18n "ic_url_peripheral_1" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(20, 420)">
+              <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_1" | default "Carotid stenting" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_peripheral_2" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(20, 455)">
+              <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_2" | default "Renal artery stenosis" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_peripheral_3" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(20, 490)">
+              <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_3" | default "Aortic aneurysm treatment" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_peripheral_4" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(20, 525)">
+              <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_4" | default "Dialysis fistula treatment" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_peripheral_5" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(230, 720)">
+              <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_5" | default "Iliac artery occlusion" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_peripheral_6" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(230, 755)">
+              <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_6" | default "Above-knee vessel occlusion" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_peripheral_7" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(230, 790)">
+              <circle r="7" fill="url(#peripheralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_peripheral_7" | default "Below-knee vessel occlusion" }}</text>
+            </g>
+          </a>
         </g>
 
         {{/* ============================================= */}}
@@ -234,30 +267,42 @@
 
         {{/* Structural Sub-items - Positioned to right side, avoiding node overlap */}}
         <g class="ic-subitems ic-subitems-structural" opacity="0">
-          <g class="ic-subitem" transform="translate(530, 420)">
-            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_1" | default "Congenital heart defect closure" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(530, 455)">
-            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_2" | default "HOCM treatment (Septal ablation)" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(530, 490)">
-            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_3" | default "Mitral balloon valvuloplasty" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(530, 525)">
-            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_4" | default "TAVI (Aortic stenosis)" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(530, 560)">
-            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_5" | default "MitraClip (Mitral regurgitation)" }}</text>
-          </g>
-          <g class="ic-subitem" transform="translate(530, 595)">
-            <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
-            <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_6" | default "Tricuspid valve treatment" }}</text>
-          </g>
+          <a href="{{ i18n "ic_url_structural_1" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(530, 420)">
+              <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_1" | default "Congenital heart defect closure" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_structural_2" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(530, 455)">
+              <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_2" | default "HOCM treatment (Septal ablation)" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_structural_3" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(530, 490)">
+              <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_3" | default "Mitral balloon valvuloplasty" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_structural_4" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(530, 525)">
+              <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_4" | default "TAVI (Aortic stenosis)" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_structural_5" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(530, 560)">
+              <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_5" | default "MitraClip (Mitral regurgitation)" }}</text>
+            </g>
+          </a>
+          <a href="{{ i18n "ic_url_structural_6" }}" class="ic-subitem-link">
+            <g class="ic-subitem" transform="translate(530, 595)">
+              <circle r="7" fill="url(#structuralGradient)" opacity="0.8"/>
+              <text x="14" y="5" class="ic-subitem-text" fill="currentColor">{{ i18n "ic_structural_6" | default "Tricuspid valve treatment" }}</text>
+            </g>
+          </a>
         </g>
 
       </svg>
@@ -275,12 +320,12 @@
           </svg>
         </summary>
         <ul class="ic-accordion-list">
-          <li>{{ i18n "ic_coronary_1" | default "Left main coronary interventions" }}</li>
-          <li>{{ i18n "ic_coronary_2" | default "Bifurcation interventions" }}</li>
-          <li>{{ i18n "ic_coronary_3" | default "Chronic total occlusion" }}</li>
-          <li>{{ i18n "ic_coronary_4" | default "Coronary fistula treatment" }}</li>
-          <li>{{ i18n "ic_coronary_5" | default "IVUS: Intravascular ultrasound imaging" }}</li>
-          <li>{{ i18n "ic_coronary_6" | default "FFR: Fractional flow reserve assessment" }}</li>
+          <li><a href="{{ i18n "ic_url_coronary_1" }}">{{ i18n "ic_coronary_1" | default "Left main coronary interventions" }}</a></li>
+          <li><a href="{{ i18n "ic_url_coronary_2" }}">{{ i18n "ic_coronary_2" | default "Bifurcation interventions" }}</a></li>
+          <li><a href="{{ i18n "ic_url_coronary_3" }}">{{ i18n "ic_coronary_3" | default "Chronic total occlusion" }}</a></li>
+          <li><a href="{{ i18n "ic_url_coronary_4" }}">{{ i18n "ic_coronary_4" | default "Coronary fistula treatment" }}</a></li>
+          <li><a href="{{ i18n "ic_url_coronary_5" }}">{{ i18n "ic_coronary_5" | default "IVUS: Intravascular ultrasound imaging" }}</a></li>
+          <li><a href="{{ i18n "ic_url_coronary_6" }}">{{ i18n "ic_coronary_6" | default "FFR: Fractional flow reserve assessment" }}</a></li>
         </ul>
       </details>
 
@@ -294,17 +339,17 @@
           </svg>
         </summary>
         <ul class="ic-accordion-list">
-          <li>{{ i18n "ic_peripheral_1" | default "Carotid stenting" }}</li>
-          <li>{{ i18n "ic_peripheral_2" | default "Renal artery stenosis treatment" }}</li>
-          <li>{{ i18n "ic_peripheral_3" | default "Aortic aneurysm treatment" }}</li>
-          <li>{{ i18n "ic_peripheral_4" | default "Dialysis fistula treatment" }}</li>
-          <li>{{ i18n "ic_peripheral_5" | default "Iliac artery occlusion treatment" }}</li>
-          <li>{{ i18n "ic_peripheral_6" | default "Above-knee vessel occlusion" }}</li>
-          <li>{{ i18n "ic_peripheral_7" | default "Below-knee vessel occlusion" }}</li>
-          <li>{{ i18n "ic_peripheral_8" | default "Acute DVT treatment" }}</li>
-          <li>{{ i18n "ic_peripheral_9" | default "Chronic DVT treatment" }}</li>
-          <li>{{ i18n "ic_peripheral_10" | default "Varicocele & Pelvic Congestion" }}</li>
-          <li>{{ i18n "ic_peripheral_11" | default "May-Thurner Syndrome" }}</li>
+          <li><a href="{{ i18n "ic_url_peripheral_1" }}">{{ i18n "ic_peripheral_1" | default "Carotid stenting" }}</a></li>
+          <li><a href="{{ i18n "ic_url_peripheral_2" }}">{{ i18n "ic_peripheral_2" | default "Renal artery stenosis treatment" }}</a></li>
+          <li><a href="{{ i18n "ic_url_peripheral_3" }}">{{ i18n "ic_peripheral_3" | default "Aortic aneurysm treatment" }}</a></li>
+          <li><a href="{{ i18n "ic_url_peripheral_4" }}">{{ i18n "ic_peripheral_4" | default "Dialysis fistula treatment" }}</a></li>
+          <li><a href="{{ i18n "ic_url_peripheral_5" }}">{{ i18n "ic_peripheral_5" | default "Iliac artery occlusion treatment" }}</a></li>
+          <li><a href="{{ i18n "ic_url_peripheral_6" }}">{{ i18n "ic_peripheral_6" | default "Above-knee vessel occlusion" }}</a></li>
+          <li><a href="{{ i18n "ic_url_peripheral_7" }}">{{ i18n "ic_peripheral_7" | default "Below-knee vessel occlusion" }}</a></li>
+          <li><a href="{{ i18n "ic_url_peripheral_8" }}">{{ i18n "ic_peripheral_8" | default "Acute DVT treatment" }}</a></li>
+          <li><a href="{{ i18n "ic_url_peripheral_9" }}">{{ i18n "ic_peripheral_9" | default "Chronic DVT treatment" }}</a></li>
+          <li><a href="{{ i18n "ic_url_peripheral_10" }}">{{ i18n "ic_peripheral_10" | default "Varicocele & Pelvic Congestion" }}</a></li>
+          <li><a href="{{ i18n "ic_url_peripheral_11" }}">{{ i18n "ic_peripheral_11" | default "May-Thurner Syndrome" }}</a></li>
         </ul>
       </details>
 
@@ -318,12 +363,12 @@
           </svg>
         </summary>
         <ul class="ic-accordion-list">
-          <li>{{ i18n "ic_structural_1" | default "Congenital heart defect closure" }}</li>
-          <li>{{ i18n "ic_structural_2" | default "HOCM treatment (Septal alcohol ablation)" }}</li>
-          <li>{{ i18n "ic_structural_3" | default "Mitral balloon valvuloplasty" }}</li>
-          <li>{{ i18n "ic_structural_4" | default "TAVI: Aortic stenosis treatment" }}</li>
-          <li>{{ i18n "ic_structural_5" | default "MitraClip: Mitral regurgitation treatment" }}</li>
-          <li>{{ i18n "ic_structural_6" | default "Tricuspid valve treatment" }}</li>
+          <li><a href="{{ i18n "ic_url_structural_1" }}">{{ i18n "ic_structural_1" | default "Congenital heart defect closure" }}</a></li>
+          <li><a href="{{ i18n "ic_url_structural_2" }}">{{ i18n "ic_structural_2" | default "HOCM treatment (Septal alcohol ablation)" }}</a></li>
+          <li><a href="{{ i18n "ic_url_structural_3" }}">{{ i18n "ic_structural_3" | default "Mitral balloon valvuloplasty" }}</a></li>
+          <li><a href="{{ i18n "ic_url_structural_4" }}">{{ i18n "ic_structural_4" | default "TAVI: Aortic stenosis treatment" }}</a></li>
+          <li><a href="{{ i18n "ic_url_structural_5" }}">{{ i18n "ic_structural_5" | default "MitraClip: Mitral regurgitation treatment" }}</a></li>
+          <li><a href="{{ i18n "ic_url_structural_6" }}">{{ i18n "ic_structural_6" | default "Tricuspid valve treatment" }}</a></li>
         </ul>
       </details>
     </div>

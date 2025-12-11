@@ -2452,34 +2452,66 @@ a.service-card:hover {
 .ic-branch-title {
 	font-size: 16px;
 	font-weight: 700;
-	fill: var(--color-neutral-700, #334155);
+	fill: #334155;
 }
 
-.dark .ic-branch-title {
-	fill: var(--color-neutral-300, #cbd5e1);
+.dark .ic-branch-title,
+.dark .ic-radial-svg .ic-branch-title,
+html.dark .ic-branch-title {
+	fill: #f1f5f9 !important;
 }
 
 /* Sub-items */
 .ic-subitems {
 	transition: opacity 0.4s ease;
-	pointer-events: none;
+}
+
+/* Clickable link wrapper for sub-items */
+.ic-subitem-link {
+	cursor: pointer;
+	text-decoration: none;
+	transition: all 0.2s ease;
+	pointer-events: auto;
+}
+
+.ic-subitem-link:hover .ic-subitem-text,
+.ic-subitem-link:hover .ic-subitem-text-sm {
+	fill: var(--color-primary-600, #dc2626);
+	text-decoration: underline;
+}
+
+.ic-subitem-link:hover circle {
+	transform: scale(1.3);
+	transform-origin: center;
+	filter: brightness(1.2);
+}
+
+.dark .ic-subitem-link:hover .ic-subitem-text,
+.dark .ic-subitem-link:hover .ic-subitem-text-sm {
+	fill: var(--color-primary-400, #f87171);
 }
 
 .ic-subitem-text {
 	font-size: 15px;
 	font-weight: 600;
-	fill: var(--color-neutral-700, #334155);
+	fill: #334155;
+	transition: fill 0.2s ease;
 }
 
 .ic-subitem-text-sm {
 	font-size: 14px;
 	font-weight: 600;
-	fill: var(--color-neutral-600, #475569);
+	fill: #475569;
+	transition: fill 0.2s ease;
 }
 
 .dark .ic-subitem-text,
-.dark .ic-subitem-text-sm {
-	fill: var(--color-neutral-300, #cbd5e1);
+.dark .ic-subitem-text-sm,
+.dark .ic-radial-svg .ic-subitem-text,
+.dark .ic-radial-svg .ic-subitem-text-sm,
+html.dark .ic-subitem-text,
+html.dark .ic-subitem-text-sm {
+	fill: #f1f5f9 !important;
 }
 
 /* Center Heart */
@@ -2498,11 +2530,13 @@ a.service-card:hover {
 .ic-center-label {
 	font-size: 16px;
 	font-weight: 700;
-	fill: var(--color-neutral-800, #1e293b);
+	fill: #1e293b;
 }
 
-.dark .ic-center-label {
-	fill: var(--color-neutral-200, #e2e8f0);
+.dark .ic-center-label,
+.dark .ic-radial-svg .ic-center-label,
+html.dark .ic-center-label {
+	fill: #f1f5f9 !important;
 }
 
 /* Connectors Animation */
@@ -2649,7 +2683,7 @@ a.service-card:hover {
 	}
 	
 	.dark .ic-accordion-header {
-		color: var(--color-neutral-200, #e2e8f0);
+		color: var(--color-neutral-100, #f1f5f9);
 	}
 	
 	.ic-accordion-header::-webkit-details-marker {
@@ -2701,8 +2735,29 @@ a.service-card:hover {
 		color: var(--color-neutral-600, #475569);
 	}
 	
+	.ic-accordion-list li a {
+		color: inherit;
+		text-decoration: none;
+		transition: all 0.2s ease;
+		display: block;
+	}
+	
+	.ic-accordion-list li a:hover {
+		color: var(--color-primary-600, #dc2626);
+		text-decoration: underline;
+		padding-left: 0.25rem;
+	}
+	
 	.dark .ic-accordion-list li {
-		color: var(--color-neutral-400, #94a3b8);
+		color: var(--color-neutral-300, #cbd5e1);
+	}
+	
+	.dark .ic-accordion-list li a {
+		color: var(--color-neutral-300, #cbd5e1);
+	}
+	
+	.dark .ic-accordion-list li a:hover {
+		color: var(--color-primary-400, #f87171);
 	}
 	
 	.ic-cta-button {
@@ -2716,6 +2771,11 @@ a.service-card:hover {
    ----------------------------------------------------------------------------- */
 [dir="rtl"] .ic-accordion-header {
 	flex-direction: row-reverse;
+}
+
+[dir="rtl"] .ic-accordion-list li a:hover {
+	padding-left: 0;
+	padding-right: 0.25rem;
 }
 
 [dir="rtl"] .ic-accordion-coronary .ic-accordion-header,
