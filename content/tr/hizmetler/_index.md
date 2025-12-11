@@ -77,12 +77,14 @@ translationKey: "services"
   <a href="/tr/hizmetler/anjiyografi/" class="service-card"><div class="service-icon">📊</div><h4>Anjiyografi</h4><p>Kardiyak ve periferik anjiyografi</p></a>
   <a href="/tr/hizmetler/efor-testi/" class="service-card"><div class="service-icon">🏃</div><h4>Efor Testi</h4><p>Eforlu EKG ve treadmill testi</p></a>
   <a href="/tr/hizmetler/ekg/" class="service-card"><div class="service-icon">📉</div><h4>EKG</h4><p>Elektrokardiyografi</p></a>
-  <a href="/tr/hizmetler/ekokardiyografi/" class="service-card"><div class="service-icon">🔊</div><h4>Ekokardiyografi</h4><p>Kalp ultrasonografisi</p></a>
-  <a href="/tr/hizmetler/holter/" class="service-card"><div class="service-icon">📡</div><h4>Holter İzlemi</h4><p>24 saat EKG takibi</p></a>
+  <a href="/tr/hizmetler/transtorasik-ekokardiyografi/" class="service-card"><div class="service-icon">🔊</div><h4>Transtorasik Ekokardiyografi (TTE)</h4><p>Kalp ultrasonografisi</p></a>
+  <a href="/tr/hizmetler/transozofageal-ekokardiyografi/" class="service-card"><div class="service-icon">🩺</div><h4>Transözofageal Ekokardiyografi (TÖE)</h4><p>Yemek borusundan kalp ultrasonu</p></a>
+  <a href="/tr/hizmetler/holter/" class="service-card"><div class="service-icon">📡</div><h4>Ritm Holter</h4><p>24 saat EKG takibi</p></a>
+  <a href="/tr/hizmetler/tansiyon-holter/" class="service-card"><div class="service-icon">📏</div><h4>Tansiyon Holter</h4><p>24 saat kan basıncı takibi</p></a>
   <a href="/tr/hizmetler/stres-ekokardiyografi/" class="service-card"><div class="service-icon">💓</div><h4>Stres Ekokardiyografi</h4><p>Eforlu eko testi</p></a>
   <a href="/tr/hizmetler/miyokard-perfuzyon/" class="service-card"><div class="service-icon">🧲</div><h4>Miyokard Perfüzyon</h4><p>Talyum testi / Nükleer kardiyoloji</p></a>
   <a href="/tr/hizmetler/radyal-anjiyografi/" class="service-card"><div class="service-icon">🔎</div><h4>Radyal Anjiyografi</h4><p>Bilekten anjiyografi</p></a>
-  <a href="/tr/hizmetler/kardiyak-bt/" class="service-card"><div class="service-icon">🖥️</div><h4>Kardiyak BT</h4><p>Bilgisayarlı Tomografi Taraması</p></a>
+  <a href="/tr/hizmetler/kardiyak-bt/" class="service-card"><div class="service-icon">🖥️</div><h4>Koroner BT Anjiyografi</h4><p>Sanal anjiyografi - Non-invaziv koroner görüntüleme</p></a>
   <a href="/tr/hizmetler/tilt-testi/" class="service-card"><div class="service-icon">🧬</div><h4>Tilt Testi</h4><p>Eğik Masa Testi - Bayılma değerlendirmesi</p></a>
 </div>
 

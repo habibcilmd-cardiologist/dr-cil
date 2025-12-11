@@ -55,12 +55,14 @@ translationKey: "services"
   <a href="/ar/services/angiography/" class="service-card"><div class="service-icon">📊</div><h4>تصوير الأوعية</h4><p>تصوير الأوعية القلبية والطرفية</p></a>
   <a href="/ar/services/exercise-stress-test/" class="service-card"><div class="service-icon">🏃</div><h4>اختبار الجهد</h4><p>تخطيط القلب الإجهادي واختبار المشي</p></a>
   <a href="/ar/services/ekg/" class="service-card"><div class="service-icon">📉</div><h4>تخطيط القلب</h4><p>تخطيط كهربية القلب</p></a>
-  <a href="/ar/services/echocardiography/" class="service-card"><div class="service-icon">🔊</div><h4>تخطيط صدى القلب</h4><p>الموجات فوق الصوتية للقلب</p></a>
-  <a href="/ar/services/holter/" class="service-card"><div class="service-icon">📡</div><h4>مراقبة هولتر</h4><p>مراقبة تخطيط القلب لمدة 24 ساعة</p></a>
+  <a href="/ar/services/transthoracic-echocardiography/" class="service-card"><div class="service-icon">🔊</div><h4>تخطيط صدى القلب عبر الصدر (TTE)</h4><p>الموجات فوق الصوتية للقلب</p></a>
+  <a href="/ar/services/transesophageal-echocardiography/" class="service-card"><div class="service-icon">🩺</div><h4>تخطيط صدى القلب عبر المريء (TEE)</h4><p>الموجات فوق الصوتية عبر المريء</p></a>
+  <a href="/ar/services/holter/" class="service-card"><div class="service-icon">📡</div><h4>هولتر النظم</h4><p>مراقبة تخطيط القلب لمدة 24 ساعة</p></a>
+  <a href="/ar/services/ambulatory-blood-pressure-monitoring/" class="service-card"><div class="service-icon">📏</div><h4>هولتر ضغط الدم (ABPM)</h4><p>مراقبة ضغط الدم لمدة 24 ساعة</p></a>
   <a href="/ar/services/stress-echocardiography/" class="service-card"><div class="service-icon">💓</div><h4>تخطيط صدى القلب الإجهادي</h4><p>اختبار الصدى الإجهادي</p></a>
   <a href="/ar/services/myocardial-perfusion/" class="service-card"><div class="service-icon">🧲</div><h4>تروية عضلة القلب</h4><p>اختبار الثاليوم / أمراض القلب النووية</p></a>
   <a href="/ar/services/radial-angiography/" class="service-card"><div class="service-icon">🔎</div><h4>تصوير الأوعية الكعبري</h4><p>تصوير الأوعية من المعصم</p></a>
-  <a href="/ar/services/cardiac-ct/" class="service-card"><div class="service-icon">🖥️</div><h4>التصوير المقطعي المحوسب للقلب</h4><p>فحص التصوير المقطعي المحوسب</p></a>
+  <a href="/ar/services/cardiac-ct/" class="service-card"><div class="service-icon">🖥️</div><h4>تصوير الأوعية التاجية المقطعي</h4><p>تصوير الأوعية الافتراضي - تصوير تاجي غير غازي</p></a>
   <a href="/ar/services/tilt-table-test/" class="service-card"><div class="service-icon">🧬</div><h4>اختبار الطاولة المائلة</h4><p>تقييم الإغماء</p></a>
 </div>
 

@@ -26,9 +26,9 @@ keywords:
 <div class="services-section">
 
 
-## Hizmetlerim
+## Tüm Hizmetler
 
-<p class="section-subtitle">Kardiyoloji alanında sunduğum kapsamlı hizmetler</p>
+<p class="section-subtitle">Kardiyoloji alanında sunulan tüm hizmet kategorileri</p>
 
 <div class="services-grid">
   <a href="/tr/hizmetler/#klinik-kardiyoloji" class="service-card">
@@ -39,7 +39,7 @@ keywords:
   <a href="/tr/hizmetler/#girisimsel-kardiyoloji" class="service-card">
     <div class="service-icon">🔧</div>
     <h4>Girişimsel Kardiyoloji</h4>
-    <p>TAVI, anjiyoplasti, stent, CTO girişimleri</p>
+    <p>Koroner girişimler, Periferik girişimler, Yapısal kalp hastalığına yönelik girişimler</p>
   </a>
   <a href="/tr/hizmetler/#kalp-pili-ve-elektrofizyoloji" class="service-card">
     <div class="service-icon">⚡</div>

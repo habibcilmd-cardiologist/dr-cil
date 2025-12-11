@@ -19,9 +19,9 @@ keywords:
 
 <div class="services-section">
 
-## خدماتي
+## جميع الخدمات
 
-<p class="section-subtitle">خدمات شاملة في أمراض القلب أقدمها لكم</p>
+<p class="section-subtitle">جميع فئات الخدمات المقدمة في مجال أمراض القلب</p>
 
 <div class="services-grid">
   <a href="/ar/services/#clinical-cardiology" class="service-card">
@@ -32,7 +32,7 @@ keywords:
   <a href="/ar/services/#interventional-cardiology" class="service-card">
     <div class="service-icon">🔧</div>
     <h4>أمراض القلب التداخلية</h4>
-    <p>TAVI، رأب الأوعية، الدعامات، تدخلات CTO</p>
+    <p>التدخلات التاجية، التدخلات المحيطية، تدخلات أمراض القلب البنيوية</p>
   </a>
   <a href="/ar/services/#pacemaker-and-electrophysiology" class="service-card">
     <div class="service-icon">⚡</div>

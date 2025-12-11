@@ -56,12 +56,14 @@ translationKey: "services"
   <a href="/services/angiography/" class="service-card"><div class="service-icon">📊</div><h4>Angiography</h4><p>Cardiac and peripheral angiography</p></a>
   <a href="/services/exercise-stress-test/" class="service-card"><div class="service-icon">🏃</div><h4>Exercise Stress Test</h4><p>Treadmill stress EKG</p></a>
   <a href="/services/ekg/" class="service-card"><div class="service-icon">📉</div><h4>EKG</h4><p>Electrocardiography</p></a>
-  <a href="/services/echocardiography/" class="service-card"><div class="service-icon">🔊</div><h4>Echocardiography</h4><p>Heart ultrasound</p></a>
-  <a href="/services/holter/" class="service-card"><div class="service-icon">📡</div><h4>Holter Monitoring</h4><p>24-hour EKG monitoring</p></a>
+  <a href="/services/transthoracic-echocardiography/" class="service-card"><div class="service-icon">🔊</div><h4>Transthoracic Echocardiography (TTE)</h4><p>Heart ultrasound</p></a>
+  <a href="/services/transesophageal-echocardiography/" class="service-card"><div class="service-icon">🩺</div><h4>Transesophageal Echocardiography (TEE)</h4><p>Heart ultrasound via esophagus</p></a>
+  <a href="/services/holter/" class="service-card"><div class="service-icon">📡</div><h4>Rhythm Holter</h4><p>24-hour EKG monitoring</p></a>
+  <a href="/services/ambulatory-blood-pressure-monitoring/" class="service-card"><div class="service-icon">📏</div><h4>Blood Pressure Holter (ABPM)</h4><p>24-hour BP monitoring</p></a>
   <a href="/services/stress-echocardiography/" class="service-card"><div class="service-icon">💓</div><h4>Stress Echocardiography</h4><p>Stress echo test</p></a>
   <a href="/services/myocardial-perfusion/" class="service-card"><div class="service-icon">🧲</div><h4>Myocardial Perfusion</h4><p>Thallium test / Nuclear cardiology</p></a>
   <a href="/services/radial-angiography/" class="service-card"><div class="service-icon">🔎</div><h4>Radial Angiography</h4><p>Wrist angiography</p></a>
-  <a href="/services/cardiac-ct/" class="service-card"><div class="service-icon">🖥️</div><h4>Cardiac CT</h4><p>Computed Tomography Scan</p></a>
+  <a href="/services/cardiac-ct/" class="service-card"><div class="service-icon">🖥️</div><h4>Coronary CT Angiography</h4><p>Virtual angiography - Non-invasive coronary imaging</p></a>
   <a href="/services/tilt-table-test/" class="service-card"><div class="service-icon">🧬</div><h4>Tilt Table Test</h4><p>Syncope evaluation</p></a>
 </div>
 

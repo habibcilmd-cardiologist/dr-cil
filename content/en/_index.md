@@ -20,9 +20,9 @@ keywords:
 
 <div class="services-section">
 
-## Services
+## All Services
 
-<p class="section-subtitle">Comprehensive cardiology services I provide</p>
+<p class="section-subtitle">All service categories offered in the field of cardiology</p>
 
 <div class="services-grid">
   <a href="/services/#clinical-cardiology" class="service-card">
@@ -33,7 +33,7 @@ keywords:
   <a href="/services/#interventional-cardiology" class="service-card">
     <div class="service-icon">🔧</div>
     <h4>Interventional Cardiology</h4>
-    <p>TAVI, angioplasty, stent, CTO interventions</p>
+    <p>Coronary interventions, Peripheral interventions, Structural heart disease interventions</p>
   </a>
   <a href="/services/#pacemaker-and-electrophysiology" class="service-card">
     <div class="service-icon">⚡</div>
