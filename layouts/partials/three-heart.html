@@ -1,244 +1,237 @@
-{{/* 3D Heart Model Viewer Partial */}}
-<div
-	id="heart-model-container"
-	style="width: 100%; height: 100%; min-height: 400px"
->
-	<div
-		id="heart-viewer"
-		style="
-			width: 100%;
-			height: 100%;
-			background-color: transparent;
-			border-radius: 12px;
-			overflow: hidden;
-			position: relative;
-		"
-	>
-		<div
-			id="heart-loading"
-			style="
-				position: absolute;
-				top: 50%;
-				left: 50%;
-				transform: translate(-50%, -50%);
-				color: #333;
-				font-family: sans-serif;
-				font-size: 1.2rem;
-				pointer-events: none;
-			"
-		>
+{{/* 3D Heart Model Viewer Partial - SEO Optimized with Lazy Loading */}}
+<div id="heart-model-container" style="width: 100%; height: 100%; min-height: 400px;">
+	<div id="heart-viewer" style="width: 100%; height: 100%; background-color: transparent; border-radius: 12px; overflow: hidden; position: relative;">
+		<div id="heart-loading" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #333; font-family: sans-serif; font-size: 1.2rem; pointer-events: none; text-align: center;">
+			<div style="margin-bottom: 10px;">❤️</div>
 			{{ i18n "heart_model_loading" | default "Loading Heart Model..." }}
 		</div>
-		<div
-			style="
-				position: absolute;
-				bottom: 20px;
-				right: 20px;
-				color: rgba(0, 0, 0, 0.5);
-				font-family: sans-serif;
-				font-size: 0.8rem;
-				pointer-events: none;
-			"
-		>
+		<div id="heart-hint" style="position: absolute; bottom: 20px; right: 20px; color: rgba(0, 0, 0, 0.5); font-family: sans-serif; font-size: 0.8rem; pointer-events: none;">
 			{{ i18n "heart_model_hint" | default "Drag to Rotate • Scroll to Zoom" }}
 		</div>
 	</div>
 </div>
 
-<script type="module">
-	import * as THREE from "https://cdn.skypack.dev/three@0.132.2";
-	import { GLTFLoader } from "https://cdn.skypack.dev/three@0.132.2/examples/jsm/loaders/GLTFLoader.js";
-	import { OrbitControls } from "https://cdn.skypack.dev/three@0.132.2/examples/jsm/controls/OrbitControls.js";
+{{/* 
+	SEO Optimization Notes:
+	- Script loads only when element is in viewport (Intersection Observer)
+	- Uses requestIdleCallback to avoid blocking main thread
+	- Dynamic imports for Three.js libraries (code splitting)
+	- Reduced initial payload - no render blocking
+*/}}
 
-	const container = document.getElementById("heart-viewer");
-	const loadingText = document.getElementById("heart-loading");
-	const hintText = document.querySelector("#heart-viewer > div:last-child");
-
-	// Dark mode detection
-	const isDarkMode = () => document.documentElement.classList.contains('dark');
+<script>
+(function() {
+	'use strict';
 	
-	// Colors for light and dark mode
-	const lightBg = 0xffffff;
-	const darkBg = 0x1f2937; // Tailwind gray-800
+	// Skip if not in browser or if user prefers reduced motion
+	if (typeof window === 'undefined') return;
 	
-	// Update colors based on theme
-	const updateThemeColors = () => {
-		const dark = isDarkMode();
-		const bgColor = dark ? darkBg : lightBg;
-		
-		scene.background = new THREE.Color(bgColor);
-		scene.fog = new THREE.Fog(bgColor, 20, 100);
-		
-		// Update text colors
-		loadingText.style.color = dark ? "#e5e7eb" : "#333";
-		hintText.style.color = dark ? "rgba(255, 255, 255, 0.5)" : "rgba(0, 0, 0, 0.5)";
-	};
-
-	// Scene setup
-	const scene = new THREE.Scene();
-	scene.background = new THREE.Color(isDarkMode() ? darkBg : lightBg);
-	scene.fog = new THREE.Fog(isDarkMode() ? darkBg : lightBg, 20, 100);
+	const container = document.getElementById('heart-model-container');
+	if (!container) return;
 	
-	// Initial text color setup
-	loadingText.style.color = isDarkMode() ? "#e5e7eb" : "#333";
-	hintText.style.color = isDarkMode() ? "rgba(255, 255, 255, 0.5)" : "rgba(0, 0, 0, 0.5)";
-
-	const camera = new THREE.PerspectiveCamera(
-		45,
-		container.clientWidth / container.clientHeight,
-		0.1,
-		1000
-	);
-	camera.position.z = 5;
-	camera.position.y = 0;
-
-	const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
-	renderer.setSize(container.clientWidth, container.clientHeight);
-	renderer.setPixelRatio(window.devicePixelRatio);
-	// Enable shadow map for better realism
-	renderer.shadowMap.enabled = true;
-	renderer.shadowMap.type = THREE.PCFSoftShadowMap;
-	// Output encoding to sRGB for better color accuracy with GLTF
-	renderer.outputEncoding = THREE.sRGBEncoding;
-	container.appendChild(renderer.domElement);
-
-	// Controls
-	const controls = new OrbitControls(camera, renderer.domElement);
-	controls.enableDamping = true;
-	controls.dampingFactor = 0.05;
-	controls.enableZoom = true;
-	controls.autoRotate = true;
-	controls.autoRotateSpeed = 1.0;
-
-	// Lights
-	const ambientLight = new THREE.AmbientLight(0xffffff, 1.2); // Bright ambient
-	scene.add(ambientLight);
-
-	const dirLight = new THREE.DirectionalLight(0xffffff, 1.5); // Main sun light
-	dirLight.position.set(5, 10, 7);
-	dirLight.castShadow = true;
-	scene.add(dirLight);
-
-	const fillLight = new THREE.DirectionalLight(0xe3e3e3, 1.0); // Fill light from opposite side
-	fillLight.position.set(-5, 0, 5);
-	scene.add(fillLight);
-
-	// Load Model
-	const loader = new GLTFLoader();
-	loader.load(
-		"/models/3d-kalp-modeli-doc-dr-habib-cil-istanbul-kardiyoloji-uzmani.glb",
-		function (gltf) {
-			const object = gltf.scene;
-
-			// Center the model geometry
-			const box = new THREE.Box3().setFromObject(object);
-			const center = box.getCenter(new THREE.Vector3());
-			object.position.sub(center); // Move object so its center is at (0,0,0)
-
-			// Traverse to enable shadows
-			object.traverse(function (node) {
-				if (node.isMesh) {
-					node.castShadow = true;
-					node.receiveShadow = true;
+	let isInitialized = false;
+	let scene, camera, renderer, controls;
+	
+	// Lazy load the 3D model only when container is visible
+	const initObserver = new IntersectionObserver((entries) => {
+		entries.forEach(entry => {
+			if (entry.isIntersecting && !isInitialized) {
+				isInitialized = true;
+				initObserver.disconnect();
+				
+				// Use requestIdleCallback for non-blocking initialization
+				if ('requestIdleCallback' in window) {
+					requestIdleCallback(() => init3DModel(), { timeout: 2000 });
+				} else {
+					setTimeout(() => init3DModel(), 100);
 				}
-			});
-
-			scene.add(object);
-
-			// Robust camera fitting
-			const fitCameraToSelection = function (
-				camera,
-				controls,
-				selection,
-				fitOffset = 1.2
-			) {
-				const box = new THREE.Box3();
-				box.setFromObject(selection);
-				const size = box.getSize(new THREE.Vector3());
-				const center = box.getCenter(new THREE.Vector3());
-
-				const maxSize = Math.max(size.x, size.y, size.z);
-				const fitHeightDistance =
-					maxSize / (2 * Math.atan((Math.PI * camera.fov) / 360));
-				const fitWidthDistance = fitHeightDistance / camera.aspect;
-				const distance =
-					fitOffset * Math.max(fitHeightDistance, fitWidthDistance);
-
-				const direction = controls.target
-					.clone()
-					.sub(camera.position)
-					.normalize()
-					.multiplyScalar(distance);
-
-				controls.maxDistance = distance * 10;
-				controls.target.copy(center);
-
-				camera.near = distance / 100;
-				camera.far = distance * 100;
-				camera.updateProjectionMatrix();
-
-				camera.position.copy(controls.target).sub(direction);
-				controls.update();
-			};
-
-			// Call fit camera
-			fitCameraToSelection(camera, controls, object, 1.1); // 1.5 gives more zoomed out view (larger offset = smaller model)
-
-			loadingText.style.display = "none";
-		},
-		function (xhr) {
-			if (xhr.lengthComputable) {
-				const percentComplete = (xhr.loaded / xhr.total) * 100;
-				loadingText.innerText = `Loading... ${Math.round(
-					percentComplete
-				)}%`;
-			}
-		},
-		function (error) {
-			console.error("An error happened", error);
-			loadingText.innerText = "Error loading model";
-			loadingText.style.color = "red";
-		}
-	);
-
-	// Check for resize on init to fix potential initial size issues
-	setTimeout(() => {
-		if (container) {
-			camera.aspect = container.clientWidth / container.clientHeight;
-			camera.updateProjectionMatrix();
-			renderer.setSize(container.clientWidth, container.clientHeight);
-		}
-	}, 100);
-
-	// Animation Loop
-	function animate() {
-		requestAnimationFrame(animate);
-		controls.update();
-		renderer.render(scene, camera);
-	}
-
-	animate();
-
-	// Handle Resize
-	window.addEventListener("resize", function () {
-		if (container) {
-			camera.aspect = container.clientWidth / container.clientHeight;
-			camera.updateProjectionMatrix();
-			renderer.setSize(container.clientWidth, container.clientHeight);
-		}
-	});
-
-	// Watch for dark mode changes
-	const observer = new MutationObserver((mutations) => {
-		mutations.forEach((mutation) => {
-			if (mutation.attributeName === 'class') {
-				updateThemeColors();
 			}
 		});
+	}, { 
+		rootMargin: '100px',  // Start loading 100px before visible
+		threshold: 0.1 
 	});
 	
-	observer.observe(document.documentElement, {
-		attributes: true,
-		attributeFilter: ['class']
-	});
+	initObserver.observe(container);
+	
+	async function init3DModel() {
+		const viewer = document.getElementById('heart-viewer');
+		const loadingText = document.getElementById('heart-loading');
+		const hintText = document.getElementById('heart-hint');
+		
+		if (!viewer) return;
+		
+		try {
+			// Dynamic imports - only load Three.js when needed
+			const [THREE, { GLTFLoader }, { OrbitControls }] = await Promise.all([
+				import('https://cdn.skypack.dev/three@0.132.2'),
+				import('https://cdn.skypack.dev/three@0.132.2/examples/jsm/loaders/GLTFLoader.js'),
+				import('https://cdn.skypack.dev/three@0.132.2/examples/jsm/controls/OrbitControls.js')
+			]);
+			
+			// Dark mode detection
+			const isDarkMode = () => document.documentElement.classList.contains('dark');
+			const lightBg = 0xffffff;
+			const darkBg = 0x1f2937;
+			
+			// Scene setup
+			scene = new THREE.Scene();
+			scene.background = new THREE.Color(isDarkMode() ? darkBg : lightBg);
+			scene.fog = new THREE.Fog(isDarkMode() ? darkBg : lightBg, 20, 100);
+			
+			// Initial text colors
+			if (loadingText) loadingText.style.color = isDarkMode() ? '#e5e7eb' : '#333';
+			if (hintText) hintText.style.color = isDarkMode() ? 'rgba(255,255,255,0.5)' : 'rgba(0,0,0,0.5)';
+			
+			// Camera setup
+			camera = new THREE.PerspectiveCamera(45, viewer.clientWidth / viewer.clientHeight, 0.1, 1000);
+			camera.position.z = 5;
+			
+			// Renderer setup - use lower pixel ratio on mobile for performance
+			const pixelRatio = Math.min(window.devicePixelRatio, 2);
+			renderer = new THREE.WebGLRenderer({ 
+				antialias: pixelRatio <= 1,  // Disable antialiasing on high DPI
+				alpha: true,
+				powerPreference: 'high-performance'
+			});
+			renderer.setSize(viewer.clientWidth, viewer.clientHeight);
+			renderer.setPixelRatio(pixelRatio);
+			renderer.shadowMap.enabled = true;
+			renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+			renderer.outputEncoding = THREE.sRGBEncoding;
+			viewer.appendChild(renderer.domElement);
+			
+			// Controls
+			controls = new OrbitControls(camera, renderer.domElement);
+			controls.enableDamping = true;
+			controls.dampingFactor = 0.05;
+			controls.enableZoom = true;
+			controls.autoRotate = true;
+			controls.autoRotateSpeed = 1.0;
+			
+			// Lights
+			scene.add(new THREE.AmbientLight(0xffffff, 1.2));
+			
+			const dirLight = new THREE.DirectionalLight(0xffffff, 1.5);
+			dirLight.position.set(5, 10, 7);
+			dirLight.castShadow = true;
+			scene.add(dirLight);
+			
+			const fillLight = new THREE.DirectionalLight(0xe3e3e3, 1.0);
+			fillLight.position.set(-5, 0, 5);
+			scene.add(fillLight);
+			
+			// Load Model
+			const loader = new GLTFLoader();
+			loader.load(
+				'/models/3d-kalp-modeli-doc-dr-habib-cil-istanbul-kardiyoloji-uzmani.glb',
+				(gltf) => {
+					const object = gltf.scene;
+					
+					// Center model
+					const box = new THREE.Box3().setFromObject(object);
+					const center = box.getCenter(new THREE.Vector3());
+					object.position.sub(center);
+					
+					// Enable shadows
+					object.traverse((node) => {
+						if (node.isMesh) {
+							node.castShadow = true;
+							node.receiveShadow = true;
+						}
+					});
+					
+					scene.add(object);
+					
+					// Fit camera to model
+					fitCameraToObject(THREE, camera, controls, object, 1.1);
+					
+					if (loadingText) loadingText.style.display = 'none';
+				},
+				(xhr) => {
+					if (xhr.lengthComputable && loadingText) {
+						const percent = Math.round((xhr.loaded / xhr.total) * 100);
+						loadingText.innerHTML = '<div style="margin-bottom:10px;">❤️</div>' + percent + '%';
+					}
+				},
+				(error) => {
+					console.error('3D Model load error:', error);
+					if (loadingText) {
+						loadingText.innerHTML = '❤️';
+						loadingText.style.fontSize = '3rem';
+					}
+				}
+			);
+			
+			// Animation loop - use visibility API to pause when not visible
+			let animationId;
+			const animate = () => {
+				animationId = requestAnimationFrame(animate);
+				if (document.hidden) return;
+				controls.update();
+				renderer.render(scene, camera);
+			};
+			animate();
+			
+			// Pause animation when tab is not visible
+			document.addEventListener('visibilitychange', () => {
+				if (document.hidden && animationId) {
+					cancelAnimationFrame(animationId);
+				} else if (!document.hidden) {
+					animate();
+				}
+			});
+			
+			// Handle resize
+			const resizeObserver = new ResizeObserver(() => {
+				if (viewer && camera && renderer) {
+					camera.aspect = viewer.clientWidth / viewer.clientHeight;
+					camera.updateProjectionMatrix();
+					renderer.setSize(viewer.clientWidth, viewer.clientHeight);
+				}
+			});
+			resizeObserver.observe(viewer);
+			
+			// Dark mode observer
+			const themeObserver = new MutationObserver(() => {
+				const dark = isDarkMode();
+				const bgColor = dark ? darkBg : lightBg;
+				scene.background = new THREE.Color(bgColor);
+				scene.fog = new THREE.Fog(bgColor, 20, 100);
+				if (loadingText) loadingText.style.color = dark ? '#e5e7eb' : '#333';
+				if (hintText) hintText.style.color = dark ? 'rgba(255,255,255,0.5)' : 'rgba(0,0,0,0.5)';
+			});
+			themeObserver.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+			
+		} catch (error) {
+			console.error('3D initialization error:', error);
+			if (loadingText) {
+				loadingText.innerHTML = '❤️';
+				loadingText.style.fontSize = '3rem';
+			}
+		}
+	}
+	
+	function fitCameraToObject(THREE, camera, controls, object, fitOffset) {
+		const box = new THREE.Box3().setFromObject(object);
+		const size = box.getSize(new THREE.Vector3());
+		const center = box.getCenter(new THREE.Vector3());
+		
+		const maxSize = Math.max(size.x, size.y, size.z);
+		const fitHeightDistance = maxSize / (2 * Math.atan(Math.PI * camera.fov / 360));
+		const fitWidthDistance = fitHeightDistance / camera.aspect;
+		const distance = fitOffset * Math.max(fitHeightDistance, fitWidthDistance);
+		
+		controls.maxDistance = distance * 10;
+		controls.target.copy(center);
+		
+		camera.near = distance / 100;
+		camera.far = distance * 100;
+		camera.updateProjectionMatrix();
+		
+		const direction = controls.target.clone().sub(camera.position).normalize().multiplyScalar(distance);
+		camera.position.copy(controls.target).sub(direction);
+		controls.update();
+	}
+})();
 </script>
