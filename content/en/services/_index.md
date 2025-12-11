@@ -25,7 +25,7 @@ translationKey: "services"
 
 <div class="services-grid">
   <a href="/services/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transcatheter Aortic Valve Implantation</p></a>
-  <a href="/services/coronary-angioplasty/" class="service-card"><div class="service-icon">💉</div><h4>Coronary Angioplasty</h4><p>Balloon and stent procedures</p></a>
+  <a href="/services/coronary-angioplasty/" class="service-card"><div class="service-icon">💉</div><h4>Coronary Angioplasty and Stenting</h4><p>Balloon and stent procedures</p></a>
   <a href="/services/cto-intervention/" class="service-card"><div class="service-icon">🎯</div><h4>CTO Interventions</h4><p>Chronic Total Occlusion treatment</p></a>
   <a href="/services/peripheral-vascular/" class="service-card"><div class="service-icon">🦵</div><h4>Peripheral Vascular</h4><p>Extremity interventions</p></a>
   <a href="/services/carotid-stenosis/" class="service-card"><div class="service-icon">🧠</div><h4>Carotid Stenosis</h4><p>Carotid artery treatment</p></a>
@@ -72,12 +72,8 @@ translationKey: "services"
 ### 🫀 Valve Diseases {#valve-diseases}
 
 <div class="services-grid">
-  <a href="/services/aortic-valve-disease/" class="service-card"><div class="service-icon">🔄</div><h4>Aortic Valve Replacement</h4><p>Aortic valve surgery</p></a>
-  <a href="/services/balloon-valvuloplasty/" class="service-card"><div class="service-icon">🎈</div><h4>Balloon Valvuloplasty</h4><p>Valve widening</p></a>
-  <a href="/services/mitral-valve/" class="service-card"><div class="service-icon">🔧</div><h4>Mitral Balloon Valvuloplasty</h4><p>Mitral valve intervention</p></a>
-  <a href="/services/mitraclip/" class="service-card"><div class="service-icon">⚙️</div><h4>Mechanical Valve</h4><p>Mechanical prosthetic valve</p></a>
-  <a href="/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>Tricuspid Replacement</h4><p>Tricuspid valve surgery</p></a>
-  <a href="/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>Valve Repair</h4><p>Heart valve repair</p></a>
+  <a href="/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>Tricuspid Valve Implantation</h4><p>Tricuspid valve surgery</p></a>
+  <a href="/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>Pulmonary Valve Implantation</h4><p>Pulmonary valve replacement</p></a>
 </div>
 
 ---

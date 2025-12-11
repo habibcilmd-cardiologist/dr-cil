@@ -1,17 +1,19 @@
 ﻿---
 title: "Mitral Valve Disease - Stenosis and Regurgitation Treatment"
 description: "Expert mitral valve disease treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats mitral stenosis and regurgitation. Balloon valvuloplasty and MitraClip. Avrasya Hospital."
-date: 2024-01-15
-lastmod: 2024-12-04
-draft: false
-service_type: "MedicalProcedure"
-medical_specialty: "Cardiology"
-procedure_type: "TherapeuticProcedure"
-body_location: "Heart"
+date: 2024-12-11
+lastmod: 2024-12-11
 translationKey: "mitral-valve"
-showBreadcrumbs: true
+categories:
+- Cardiology
+tags:
+- Heart Valve Diseases
+- Mitral Stenosis
+- Mitral Regurgitation
+- MitraClip
+- Valve Repair
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
-showReadingTime: true
 faq:
     - question: "What are the symptoms of mitral valve disease?"
       answer: "Shortness of breath, palpitations, fatigue, and leg swelling are the main symptoms."

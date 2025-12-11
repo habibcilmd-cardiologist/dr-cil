@@ -31,7 +31,7 @@ translationKey: "services"
   <a href="/tr/hizmetler/koroner-fistul-tedavisi/" class="service-card"><div class="service-icon">🔗</div><h4>Koroner Fistül Tedavisi</h4><p>Anormal damar bağlantısı kapatma</p></a>
   <a href="/tr/hizmetler/ivus/" class="service-card"><div class="service-icon">🔬</div><h4>IVUS</h4><p>Damar içi ultrason görüntüleme</p></a>
   <a href="/tr/hizmetler/ffr/" class="service-card"><div class="service-icon">📊</div><h4>FFR</h4><p>Fraksiyonel akım rezervi ölçümü</p></a>
-  <a href="/tr/hizmetler/koroner-anjiyoplasti/" class="service-card"><div class="service-icon">💉</div><h4>Koroner Anjiyoplasti</h4><p>Balon ve stent uygulamaları</p></a>
+  <a href="/tr/hizmetler/koroner-anjiyoplasti/" class="service-card"><div class="service-icon">💉</div><h4>Koroner Anjiyoplasti ve Stentleme</h4><p>Balon ve stent uygulamaları</p></a>
 </div>
 
 #### 💚 Periferik Girişimler {#periferik-girisimler}
@@ -93,12 +93,8 @@ translationKey: "services"
 ### 🫀 Kapak Hastalıkları {#kapak-hastaliklari}
 
 <div class="services-grid">
-  <a href="/tr/hizmetler/aort-kapak-hastaligi/" class="service-card"><div class="service-icon">🔄</div><h4>Aort Kapak Replasmanı</h4><p>Aort kapak değişimi</p></a>
-  <a href="/tr/hizmetler/balon-valvuloplasti/" class="service-card"><div class="service-icon">🎈</div><h4>Balon Valvüloplasti</h4><p>Kapak genişletme</p></a>
-  <a href="/tr/hizmetler/mitral-kapak/" class="service-card"><div class="service-icon">🔧</div><h4>Mitral Balon Valvuloplasti</h4><p>Mitral kapak girişimi</p></a>
-  <a href="/tr/hizmetler/mitraclip/" class="service-card"><div class="service-icon">⚙️</div><h4>Mekanik Protez Kapak</h4><p>Mekanik kapak implantasyonu</p></a>
-  <a href="/tr/hizmetler/trikuspid-kapak/" class="service-card"><div class="service-icon">💚</div><h4>Triküspid Replasmanı</h4><p>Triküspid kapak değişimi</p></a>
-  <a href="/tr/hizmetler/pulmoner-kapak/" class="service-card"><div class="service-icon">🔧</div><h4>Kapak Tamiri</h4><p>Kalp kapakçığı onarımı</p></a>
+  <a href="/tr/hizmetler/trikuspid-kapak/" class="service-card"><div class="service-icon">💚</div><h4>Triküspid Kapak Yerleştirilmesi</h4><p>Triküspid kapak değişimi</p></a>
+  <a href="/tr/hizmetler/pulmoner-kapak/" class="service-card"><div class="service-icon">🔧</div><h4>Pulmoner Kapak Yerleştirilmesi</h4><p>Pulmoner kapak değişimi</p></a>
 </div>
 
 ---

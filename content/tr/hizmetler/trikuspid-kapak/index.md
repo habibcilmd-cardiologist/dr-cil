@@ -133,9 +133,28 @@ Triküspit kapak, sağ atriyumdan sağ ventriküle kan akışını düzenler. Ka
 
 **Transkateter Triküspit Girişimleri:**
 
--   TriClip
--   PASCAL
--   Gelişmekte olan teknolojiler
+Cerrahi açıdan yüksek riskli olan hastalar için geliştirilen, göğüs açılmadan kasıktan kateter yoluyla yapılan modern tedavi yöntemleridir.
+
+**1. TriClip (Uçtan Uca Tamir - Edge-to-Edge):**
+Mitral kapak için kullanılan MitraClip teknolojisinin triküspit kapağa uyarlanmış versiyonudur. Cerrahi riski yüksek hastalar için onaylanmış bir yöntemdir.
+-   **Nasıl Çalışır:** Kasıktan girilerek kalbe ulaşılır ve triküspit kapak yaprakçıkları (leafletler) birbirine tutturulur.
+-   **Etki Mekanizması:** "Mandallama" yöntemiyle kapak açıklığı küçültülür ve geriye doğru kaçak (yetersizlik) azaltılır.
+-   **Avantajı:** Ameliyatsız, minimal invaziv bir yöntemdir. Hastanede kalış süresi kısadır ve yüksek riskli hastalarda güvenle uygulanabilir.
+
+**2. PASCAL Sistemi:**
+TriClip'e benzer bir "uçtan uca tamir" sistemidir ancak tasarımı farklıdır.
+-   **Farkı:** Yaprakçıklar arasına yerleştirilen bir "spacer" (aralayıcı) içerir. Bu tasarım, yaprakçıklar üzerindeki stresi azaltır ve daha geniş bir tutunma yüzeyi sağlar.
+-   **Kullanım Alanı:** Yaprakçık aralığı geniş olan (gap) veya yaprakçıkların çok hareketli olduğu anatomilerde tercih sebebi olabilir.
+
+**3. Gelişmekte Olan Teknolojiler:**
+Bu alan hızla gelişmekte olup farklı mekanizmalara sahip cihazlar kullanılmaktadır:
+
+-   **Kaval Kapak İmplantasyonu (CAVI):** Bu yöntem triküspit kapağı onarmaz; bunun yerine Vena Kava (ana toplardamarlar) içine kapak yerleştirir.
+    -   **Amaç:** Karaciğer ve bacaklara giden geri akımı (konjesyon) engelleyerek şişlik gibi semptomları hafifletmektir.
+    -   **Kimler İçin:** Çok yüksek cerrahi risk taşıyan ve anatomik olarak kapak tamirine/değişimine uygun olmayan hastalarda "palyatif" (rahatlatıcı) amaçla kullanılır.
+
+-   **Transkateter Triküspit Kapak Replasmanı (TTVI / TTVR):** Bozuk kapağın tamamen yeni bir yapay biyoprotez kapakla değiştirilmesidir.
+    -   **Durum:** Evoque, LuX-Valve gibi gelişmiş sistemler mevcuttur. Fonksiyonel ve anatomik olarak tamire uygun olmayan hastalarda, kapağın tamamen yenilenmesini sağlar. Klinik çalışmalarda umut verici sonuçlar göstermektedir.
 
 ## Tedavi Zamanlaması
 

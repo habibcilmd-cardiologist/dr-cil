@@ -1,17 +1,19 @@
 ﻿---
 title: "رأب الصمام بالبالون - توسيع الصمام عن طريق الجلد"
 description: "رأب الصمام بالبالون الخبير في إسطنبول. أخصائي أمراض القلب التداخلية أ.م.د. حبيب جيل يقوم بتوسيع الصمام التاجي والأبهري. مستشفى أوراسيا."
-date: 2024-01-15
-lastmod: 2024-12-04
-draft: false
-service_type: "MedicalProcedure"
-medical_specialty: "Cardiology"
-procedure_type: "TherapeuticProcedure"
-body_location: "Heart"
+date: 2024-12-11
+lastmod: 2024-12-11
 translationKey: "balloon-valvuloplasty"
-showBreadcrumbs: true
+categories:
+- أمراض القلب
+tags:
+- أمراض صمامات القلب
+- رأب الصمام بالبالون
+- علاج الصمام بدون جراحة
+- بالون الصمام التاجي
+- بالون الصمام الأبهري
+author: أ.م.د. حبيب جيل
 showTableOfContents: true
-showReadingTime: true
 faq:
     - question: "هل رأب الصمام بالبالون مؤلم؟"
       answer: "لا يشعر بأي ألم حيث يتم إجراؤه تحت التخدير الموضعي أو العام."

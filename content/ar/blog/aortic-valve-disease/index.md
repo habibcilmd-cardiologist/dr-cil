@@ -1,17 +1,19 @@
 ﻿---
 title: "أمراض الصمام الأبهري - علاج التضيق والقلس"
 description: "علاج أمراض الصمام الأبهري الخبير في إسطنبول. أخصائي أمراض القلب أ.م.د. حبيب جيل يعالج تضيق وقلس الصمام الأبهري. خيارات TAVI والجراحة. مستشفى أوراسيا."
-date: 2024-01-15
-lastmod: 2024-12-04
-draft: false
-service_type: "MedicalProcedure"
-medical_specialty: "Cardiology"
-procedure_type: "TherapeuticProcedure"
-body_location: "Heart"
+date: 2024-12-11
+lastmod: 2024-12-11
 translationKey: "aortic-valve-disease"
-showBreadcrumbs: true
+categories:
+- أمراض القلب
+tags:
+- أمراض صمامات القلب
+- تضيق الصمام الأبهري
+- TAVI
+- قلس الصمام الأبهري
+- استبدال صمام القلب
+author: أ.م.د. حبيب جيل
 showTableOfContents: true
-showReadingTime: true
 faq:
     - question: "هل تضيق الصمام الأبهري خطير؟"
       answer: "يمكن أن يكون تضيق الصمام الأبهري الشديد قاتلاً إذا لم يتم علاجه. التشخيص والعلاج المبكر مهمان."

@@ -1,17 +1,19 @@
 ﻿---
 title: "Aortic Valve Disease - Stenosis and Regurgitation Treatment"
 description: "Expert aortic valve disease treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats aortic stenosis and regurgitation. TAVI and surgical options. Avrasya Hospital."
-date: 2024-01-15
-lastmod: 2024-12-04
-draft: false
-service_type: "MedicalProcedure"
-medical_specialty: "Cardiology"
-procedure_type: "TherapeuticProcedure"
-body_location: "Heart"
+date: 2024-12-11
+lastmod: 2024-12-11
 translationKey: "aortic-valve-disease"
-showBreadcrumbs: true
+categories:
+- Cardiology
+tags:
+- Heart Valve Diseases
+- Aortic Stenosis
+- TAVI
+- Aortic Regurgitation
+- Heart Valve Replacement
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
-showReadingTime: true
 faq:
     - question: "Is aortic stenosis dangerous?"
       answer: "Severe aortic stenosis can be fatal if untreated. Early diagnosis and treatment are important."

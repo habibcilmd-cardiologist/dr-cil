@@ -1,17 +1,19 @@
 ﻿---
 title: "Balon Valvüloplasti - Kapak Balonla Genişletme"
 description: "İstanbul'da balon valvüloplasti. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile mitral ve aort kapak genişletme. Kateter ile kapak tedavisi. Avrasya Hospital."
-date: 2024-01-15
-lastmod: 2024-12-04
-draft: false
-service_type: "MedicalProcedure"
-medical_specialty: "Cardiology"
-procedure_type: "TherapeuticProcedure"
-body_location: "Heart"
+date: 2024-12-11
+lastmod: 2024-12-11
 translationKey: "balloon-valvuloplasty"
-showBreadcrumbs: true
+categories:
+- Kardiyoloji
+tags:
+- Kalp Kapak Hastalıkları
+- Balon Valvüloplasti
+- Ameliyatsız Kalp Kapağı Tedavisi
+- Mitral Balon
+- Aort Balon
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
-showReadingTime: true
 faq:
     - question: "Balon valvüloplasti ağrılı mı?"
       answer: "Lokal veya genel anestezi altında yapıldığı için ağrı hissedilmez."

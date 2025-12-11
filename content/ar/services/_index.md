@@ -24,7 +24,7 @@ translationKey: "services"
 
 <div class="services-grid">
   <a href="/ar/services/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>زراعة الصمام الأبهري عبر القسطرة</p></a>
-  <a href="/ar/services/coronary-angioplasty/" class="service-card"><div class="service-icon">💉</div><h4>رأب الأوعية التاجية</h4><p>إجراءات البالون والدعامة</p></a>
+  <a href="/ar/services/coronary-angioplasty/" class="service-card"><div class="service-icon">💉</div><h4>رأب الأوعية التاجية والدعامة</h4><p>إجراءات البالون والدعامة</p></a>
   <a href="/ar/services/cto-intervention/" class="service-card"><div class="service-icon">🎯</div><h4>تدخلات CTO</h4><p>فتح الأوعية المسدودة تماماً</p></a>
   <a href="/ar/services/peripheral-vascular/" class="service-card"><div class="service-icon">🦵</div><h4>الأوعية الطرفية</h4><p>تدخلات الأطراف العلوية والسفلية</p></a>
   <a href="/ar/services/carotid-stenosis/" class="service-card"><div class="service-icon">🧠</div><h4>تضيق الشريان السباتي</h4><p>علاج تضيق الشريان السباتي</p></a>
@@ -71,12 +71,8 @@ translationKey: "services"
 ### 🫀 أمراض الصمامات {#valve-diseases}
 
 <div class="services-grid">
-  <a href="/ar/services/aortic-valve-disease/" class="service-card"><div class="service-icon">🔄</div><h4>استبدال الصمام الأبهري</h4><p>جراحة الصمام الأبهري</p></a>
-  <a href="/ar/services/balloon-valvuloplasty/" class="service-card"><div class="service-icon">🎈</div><h4>رأب الصمام بالبالون</h4><p>توسيع الصمام</p></a>
-  <a href="/ar/services/mitral-valve/" class="service-card"><div class="service-icon">🔧</div><h4>رأب الصمام التاجي بالبالون</h4><p>تدخل الصمام التاجي</p></a>
-  <a href="/ar/services/mitraclip/" class="service-card"><div class="service-icon">⚙️</div><h4>الصمام الميكانيكي</h4><p>زراعة الصمام الاصطناعي الميكانيكي</p></a>
-  <a href="/ar/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>استبدال الصمام ثلاثي الشرفات</h4><p>جراحة الصمام ثلاثي الشرفات</p></a>
-  <a href="/ar/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>إصلاح الصمام</h4><p>إصلاح صمام القلب</p></a>
+  <a href="/ar/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>زراعة الصمام ثلاثي الشرفات</h4><p>جراحة الصمام ثلاثي الشرفات</p></a>
+  <a href="/ar/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>زراعة الصمام الرئوي</h4><p>استبدال الصمام الرئوي</p></a>
 </div>
 
 ---

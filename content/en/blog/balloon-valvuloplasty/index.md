@@ -1,17 +1,19 @@
 ﻿---
 title: "Balloon Valvuloplasty - Percutaneous Valve Dilation"
 description: "Expert balloon valvuloplasty in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs mitral and aortic valve dilation. Avrasya Hospital."
-date: 2024-01-15
-lastmod: 2024-12-04
-draft: false
-service_type: "MedicalProcedure"
-medical_specialty: "Cardiology"
-procedure_type: "TherapeuticProcedure"
-body_location: "Heart"
+date: 2024-12-11
+lastmod: 2024-12-11
 translationKey: "balloon-valvuloplasty"
-showBreadcrumbs: true
+categories:
+- Cardiology
+tags:
+- Heart Valve Diseases
+- Balloon Valvuloplasty
+- Non-Surgical Valve Treatment
+- Mitral Balloon
+- Aortic Balloon
+author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
-showReadingTime: true
 faq:
     - question: "Is balloon valvuloplasty painful?"
       answer: "No pain is felt as it is performed under local or general anesthesia."

@@ -1,17 +1,19 @@
 ﻿---
 title: "Mitral Kapak Hastalığı - Darlık ve Yetersizlik Tedavisi"
 description: "İstanbul'da mitral kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile mitral darlığı ve yetersizliği. Balon valvüloplasti ve MitraClip. Avrasya Hospital."
-date: 2024-01-15
-lastmod: 2024-12-04
-draft: false
-service_type: "MedicalProcedure"
-medical_specialty: "Cardiology"
-procedure_type: "TherapeuticProcedure"
-body_location: "Heart"
+date: 2024-12-11
+lastmod: 2024-12-11
 translationKey: "mitral-valve"
-showBreadcrumbs: true
+categories:
+- Kardiyoloji
+tags:
+- Kalp Kapak Hastalıkları
+- Mitral Darlığı
+- Mitral Yetersizliği
+- MitraClip
+- Kapak Tamiri
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
-showReadingTime: true
 faq:
     - question: "Mitral kapak hastalığı belirtileri nelerdir?"
       answer: "Nefes darlığı, çarpıntı, yorgunluk ve bacaklarda şişlik başlıca belirtilerdir."

@@ -1,17 +1,19 @@
 ﻿---
 title: "مرض الصمام التاجي - علاج التضييق والقلس"
 description: "علاج مرض الصمام التاجي الخبير في إسطنبول. أخصائي أمراض القلب أ.م.د. حبيب جيل يعالج تضييق وقلس الصمام التاجي. رأب الصمام بالبالون وMitraClip. مستشفى أوراسيا."
-date: 2024-01-15
-lastmod: 2024-12-04
-draft: false
-service_type: "MedicalProcedure"
-medical_specialty: "Cardiology"
-procedure_type: "TherapeuticProcedure"
-body_location: "Heart"
+date: 2024-12-11
+lastmod: 2024-12-11
 translationKey: "mitral-valve"
-showBreadcrumbs: true
+categories:
+- أمراض القلب
+tags:
+- أمراض صمامات القلب
+- الصمام التاجي
+- MitraClip
+- تضييق الصمام التاجي
+- إصلاح الصمام
+author: أ.م.د. حبيب جيل
 showTableOfContents: true
-showReadingTime: true
 faq:
     - question: "ما هي أعراض مرض الصمام التاجي؟"
       answer: "ضيق التنفس، الخفقان، التعب، وتورم الساق هي الأعراض الرئيسية."

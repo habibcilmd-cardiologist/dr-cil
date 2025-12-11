@@ -1,17 +1,19 @@
 ﻿---
 title: "Aort Kapak Hastalığı - Darlık ve Yetersizlik Tedavisi"
 description: "İstanbul'da aort kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile aort darlığı ve yetersizliği. TAVI ve cerrahi seçenekler. Avrasya Hospital."
-date: 2024-01-15
-lastmod: 2024-12-04
-draft: false
-service_type: "MedicalProcedure"
-medical_specialty: "Cardiology"
-procedure_type: "TherapeuticProcedure"
-body_location: "Heart"
+date: 2024-12-11
+lastmod: 2024-12-11
 translationKey: "aortic-valve-disease"
-showBreadcrumbs: true
+categories:
+- Kardiyoloji
+tags:
+- Kalp Kapak Hastalıkları
+- Aort Darlığı
+- TAVI
+- Aort Yetersizliği
+- Kalp Kapağı Değişimi
+author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
-showReadingTime: true
 faq:
     - question: "Aort darlığı tehlikeli mi?"
       answer: "Ciddi aort darlığı tedavi edilmezse ölümcül olabilir. Erken tanı ve tedavi önemlidir."

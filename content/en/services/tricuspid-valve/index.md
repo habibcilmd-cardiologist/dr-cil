@@ -133,9 +133,28 @@ The tricuspid valve regulates blood flow from the right atrium to the right vent
 
 **Transcatheter Tricuspid Interventions:**
 
--   TriClip
--   PASCAL
--   Emerging technologies
+Modern treatment methods developed for patients who are high risk for surgery, performed via catheter from the groin without opening the chest.
+
+**1. TriClip (Edge-to-Edge Repair):**
+It is the adaptation of the MitraClip technology used for the mitral valve to the tricuspid valve. It is an approved method for patients with high surgical risk.
+-   **How it Works:** The heart is accessed via the groin and the tricuspid valve leaflets are clipped together.
+-   **Mechanism of Action:** The valve opening is reduced by the "clipping" method, reducing backward leakage (regurgitation).
+-   **Advantage:** It is a non-surgical, minimally invasive method. Detailed studies show safety and improved quality of life in high-risk patients.
+
+**2. PASCAL System:**
+It is an "edge-to-edge repair" system similar to TriClip but with a different design.
+-   **Difference:** It contains a "spacer" placed between the leaflets. This design reduces stress on the leaflets and provides a larger grasping surface.
+-   **Usage Area:** It may be preferred in anatomies with a wide gap between leaflets or where leaflets are very mobile.
+
+**3. Emerging Technologies:**
+This field is advancing rapidly with devices having different mechanisms:
+
+-   **Caval Valve Implantation (CAVI):** This method does not repair the tricuspid valve itself; instead, it places valve(s) in the Vena Cava (main veins).
+    -   **Goal:** To relieve symptoms like swelling (edema) by preventing backflow to the liver and legs.
+    -   **For Whom:** Used for "palliative" (symptomatic relief) purposes in patients with very high surgical risk who are anatomically unsuitable for valve repair/replacement.
+
+-   **Transcatheter Tricuspid Valve Replacement (TTVI / TTVR):** Complete replacement of the dysfunctional valve with a new artificial bioprosthetic valve via catheter.
+    -   **Status:** Advanced systems like Evoque and LuX-Valve are available. It allows for complete valve renewal in patients who are functionally or anatomically unsuitable for repair. Clinical trials are showing promising results.
 
 ## Treatment Timing
 
