@@ -15,3 +15,8 @@ hero_about_cta: "Doktor Hakkında"
 hero_video_label: "Anjiyoplasti İşlemi"
 hero_video_caption: "Koroner Anjiyoplasti - Minimal İnvaziv Kalp Prosedürü"
 hero_scroll: "Keşfetmek için kaydırın"
+
+# 3D Heart Model
+heart_model_title: "Kalbin anatomik yapısına üç boyutlu bir bakış"
+heart_model_hint: "3D Kalp Modelini döndürün ve yakınlaştırın"
+heart_model_loading: "Kalp Modeli Yükleniyor..."

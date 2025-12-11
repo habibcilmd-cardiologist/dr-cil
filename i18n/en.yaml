@@ -17,3 +17,8 @@ hero_about_cta: "About Doctor"
 hero_video_label: "Angioplasty Procedure"
 hero_video_caption: "Coronary Angioplasty - Minimally Invasive Heart Procedure"
 hero_scroll: "Scroll to explore"
+
+# 3D Heart Model
+heart_model_title: "A three-dimensional view of the heart's anatomical structure"
+heart_model_hint: "Drag to Rotate • Scroll to Zoom"
+heart_model_loading: "Loading Heart Model..."
