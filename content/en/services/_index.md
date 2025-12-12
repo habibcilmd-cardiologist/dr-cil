@@ -31,6 +31,7 @@ translationKey: "services"
   <a href="/services/carotid-stenosis/" class="service-card"><div class="service-icon">🧠</div><h4>Carotid Stenosis</h4><p>Carotid artery treatment</p></a>
   <a href="/services/left-main-coronary-stent/" class="service-card"><div class="service-icon">⭐</div><h4>Left Main Coronary Stent</h4><p>Complex coronary procedures</p></a>
   <a href="/services/alcohol-septal-ablation/" class="service-card"><div class="service-icon">🧪</div><h4>Alcohol Septal Ablation</h4><p>Hypertrophic cardiomyopathy treatment</p></a>
+  <a href="/services/atherectomy/" class="service-card"><div class="service-icon">🎯</div><h4>Peripheral and Coronary Atherectomy</h4><p>Plaque removal procedure</p></a>
 </div>
 
 ---
@@ -82,8 +83,6 @@ translationKey: "services"
 
 <div class="services-grid">
   <a href="/services/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>Aortic Aneurysm Repair (Abdominal &amp; Thoracic)</p></a>
-  <a href="/services/atherectomy/" class="service-card"><div class="service-icon">🎯</div><h4>Atherectomy</h4><p>Plaque removal procedure</p></a>
-  <a href="/services/renal-artery-stenosis/" class="service-card"><div class="service-icon">✂️</div><h4>Carotid Endarterectomy</h4><p>Carotid plaque removal</p></a>
 </div>
 
 ---
@@ -99,17 +98,6 @@ translationKey: "services"
   <a href="/services/coronary-angioplasty/" class="service-card"><div class="service-icon">🔧</div><h4>Coronary Angioplasty</h4><p>Coronary balloon procedure</p></a>
   <a href="/services/pci/" class="service-card"><div class="service-icon">🎯</div><h4>PCI</h4><p>Percutaneous Coronary Intervention</p></a>
   <a href="/services/ptca/" class="service-card"><div class="service-icon">💉</div><h4>PTCA</h4><p>Percutaneous Transluminal Coronary Angioplasty</p></a>
-</div>
-
----
-
-### ❤️ Cardiac Surgery {#cardiac-surgery}
-
-<div class="services-grid">
-  <a href="/services/cabg/" class="service-card"><div class="service-icon">🏥</div><h4>CABG</h4><p>Coronary Artery Bypass Grafting</p></a>
-  <a href="/services/heart-transplant/" class="service-card"><div class="service-icon">💗</div><h4>Heart Transplant</h4><p>Heart transplantation</p></a>
-  <a href="/services/lvad/" class="service-card"><div class="service-icon">⚙️</div><h4>LVAD</h4><p>Left Ventricular Assist Device</p></a>
-  <a href="/services/pericardiocentesis/" class="service-card"><div class="service-icon">💉</div><h4>Pericardiocentesis</h4><p>Pericardial fluid drainage</p></a>
 </div>
 
 ---

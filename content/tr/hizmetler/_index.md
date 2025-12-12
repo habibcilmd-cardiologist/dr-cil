@@ -41,8 +41,7 @@ translationKey: "services"
   <a href="/tr/hizmetler/renal-arter-stenozu/" class="service-card"><div class="service-icon">🫘</div><h4>Renal Arter Darlığı</h4><p>Böbrek damarı stentleme</p></a>
   <a href="/tr/hizmetler/periferik-damar/" class="service-card"><div class="service-icon">🦵</div><h4>Periferik Damar Girişimi</h4><p>Bacak damarı tıkanıklık tedavisi</p></a>
   <a href="/tr/hizmetler/alt-ekstremite-arter-hastaligi/" class="service-card"><div class="service-icon">🦿</div><h4>Alt Ekstremite Arter</h4><p>Dizüstü ve dizaltı damar tedavisi</p></a>
-  <a href="/tr/hizmetler/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>Aort anevrizması tedavisi (Abdominal ve Torasik)</p></a>
-</div>
+  <a href="/tr/hizmetler/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>Aort anevrizması tedavisi (Abdominal ve Torasik)</p></a>  <a href="/tr/hizmetler/aterektomi/" class="service-card"><div class="service-icon">🎯</div><h4>Periferik ve Koroner Aterektomi</h4><p>Plak temizleme işlemi</p></a></div>
 
 #### 💜 Yapısal Kalp Girişimleri {#yapisal-kalp-girisimleri}
 
@@ -99,15 +98,6 @@ translationKey: "services"
 
 ---
 
-### 🩹 Damar Girişimleri {#damar-girisimleri}
-
-<div class="services-grid">
-  <a href="/tr/hizmetler/aterektomi/" class="service-card"><div class="service-icon">🎯</div><h4>Aterektomi</h4><p>Plak temizleme işlemi</p></a>
-  <a href="/tr/hizmetler/renal-arter-stenozu/" class="service-card"><div class="service-icon">✂️</div><h4>Karotis Endarterektomi</h4><p>Karotis plak temizliği</p></a>
-</div>
-
----
-
 ### 💓 Koroner Girişimler {#koroner-girisimler}
 
 <div class="services-grid">
@@ -119,17 +109,6 @@ translationKey: "services"
   <a href="/tr/hizmetler/koroner-anjiyoplasti/" class="service-card"><div class="service-icon">🔧</div><h4>Koroner Anjiyoplasti</h4><p>Koroner balon işlemi</p></a>
   <a href="/tr/hizmetler/pci/" class="service-card"><div class="service-icon">🎯</div><h4>Perkütan Koroner Girişim</h4><p>PCI işlemi</p></a>
   <a href="/tr/hizmetler/ptka/" class="service-card"><div class="service-icon">💉</div><h4>PTKA</h4><p>Perkütan Translüminal Koroner Anjiyoplasti</p></a>
-</div>
-
----
-
-### ❤️ Kalp Cerrahisi {#kalp-cerrahisi}
-
-<div class="services-grid">
-  <a href="/tr/hizmetler/kalp-bypass/" class="service-card"><div class="service-icon">🏥</div><h4>Kalp Bypass</h4><p>Koroner bypass cerrahisi</p></a>
-  <a href="/tr/hizmetler/kalp-nakli/" class="service-card"><div class="service-icon">💗</div><h4>Kalp Nakli</h4><p>Kalp transplantasyonu</p></a>
-  <a href="/tr/hizmetler/lvad/" class="service-card"><div class="service-icon">⚙️</div><h4>LVAD</h4><p>Sol Ventriküler Destek Aygıtı</p></a>
-  <a href="/tr/hizmetler/perikardiyosentez/" class="service-card"><div class="service-icon">💉</div><h4>Perikardiyosentez</h4><p>Kalp zarı sıvısı boşaltma</p></a>
 </div>
 
 ---

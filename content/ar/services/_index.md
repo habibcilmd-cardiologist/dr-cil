@@ -30,6 +30,7 @@ translationKey: "services"
   <a href="/ar/services/carotid-stenosis/" class="service-card"><div class="service-icon">🧠</div><h4>تضيق الشريان السباتي</h4><p>علاج تضيق الشريان السباتي</p></a>
   <a href="/ar/services/left-main-coronary-stent/" class="service-card"><div class="service-icon">⭐</div><h4>دعامة الشريان التاجي الأيسر الرئيسي</h4><p>إجراءات تاجية معقدة</p></a>
   <a href="/ar/services/alcohol-septal-ablation/" class="service-card"><div class="service-icon">🧪</div><h4>الاستئصال الحاجزي بالكحول</h4><p>علاج اعتلال عضلة القلب الضخامي</p></a>
+  <a href="/ar/services/atherectomy/" class="service-card"><div class="service-icon">🎯</div><h4>استئصال العصيدة الطرفية والتاجية</h4><p>إزالة اللويحات من الأوعية الدموية</p></a>
 </div>
 
 ---
@@ -82,7 +83,7 @@ translationKey: "services"
 <div class="services-grid">
   <a href="/ar/services/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>إصلاح تمدد الأوعية الدموية الأبهري (البطني والصدري)</p></a>
   <a href="/ar/services/renal-artery-stenosis/" class="service-card"><div class="service-icon">🫘</div><h4>تضيق الشريان الكلوي</h4><p>علاج تضيق الشريان الكلوي</p></a>
-  <a href="/ar/services/atherectomy/" class="service-card"><div class="service-icon">🔪</div><h4>استئصال العصيدة</h4><p>إزالة اللويحات من الأوعية الدموية</p></a>
+
   <a href="/ar/services/pericardiocentesis/" class="service-card"><div class="service-icon">💧</div><h4>بزل التامور</h4><p>تصريف السوائل من حول القلب</p></a>
 </div>
 
@@ -99,16 +100,6 @@ translationKey: "services"
   <a href="/ar/services/cardiac-catheterization/" class="service-card"><div class="service-icon">🩺</div><h4>القسطرة القلبية</h4><p>إجراءات القسطرة التشخيصية والعلاجية</p></a>
   <a href="/ar/services/cardiac-angiography/" class="service-card"><div class="service-icon">📊</div><h4>تصوير الأوعية القلبية</h4><p>تصوير الأوعية التاجية</p></a>
   <a href="/ar/services/ambulatory-cardiac-monitoring/" class="service-card"><div class="service-icon">📱</div><h4>المراقبة القلبية المتنقلة</h4><p>مراقبة القلب طويلة الأمد</p></a>
-</div>
-
----
-
-### 🏥 جراحة القلب {#cardiac-surgery}
-
-<div class="services-grid">
-  <a href="/ar/services/cabg/" class="service-card"><div class="service-icon">🫀</div><h4>تطعيم مجازة الشريان التاجي</h4><p>جراحة المجازة التاجية</p></a>
-  <a href="/ar/services/heart-transplant/" class="service-card"><div class="service-icon">💝</div><h4>زراعة القلب</h4><p>جراحة زراعة القلب</p></a>
-  <a href="/ar/services/lvad/" class="service-card"><div class="service-icon">🔋</div><h4>LVAD</h4><p>جهاز المساعدة البطينية الأيسر</p></a>
 </div>
 
 ---

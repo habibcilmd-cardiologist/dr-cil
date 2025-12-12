@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F472B6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="vesselGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#60A5FA;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bgGrad)"/>
+  <circle cx="650" cy="80" r="60" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="720" cy="150" r="40" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="100" cy="320" r="50" fill="rgba(255,255,255,0.1)"/>
+  <g transform="translate(480, 50)">
+    <path d="M100,30 C60,-10 0,20 0,70 C0,120 50,160 100,200 C150,160 200,120 200,70 C200,20 140,-10 100,30" fill="url(#heartGrad)" opacity="0.9"/>
+    <path d="M60,70 L100,100 L140,70" fill="none" stroke="#EF4444" stroke-width="6" opacity="0.8"/>
+    <circle cx="100" cy="85" r="8" fill="#7F1D1D"/>
+    <path d="M55,65 Q70,30 100,50 Q130,70 145,65" fill="none" stroke="url(#vesselGrad)" stroke-width="4"/>
+    <path d="M70,40 L80,45 L75,35" fill="#60A5FA"/>
+    <path d="M120,45 L130,50 L125,40" fill="#60A5FA"/>
+    <circle cx="100" cy="120" r="12" fill="rgba(255,255,255,0.6)" opacity="0.6">
+      <animate attributeName="r" values="12;20;12" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="60" y="100" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white">CABG Surgery</text>
+  <text x="60" y="150" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)">Coronary Artery Bypass Grafting</text>
+  <g transform="translate(60, 190)">
+    <rect x="0" y="0" width="120" height="50" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="60" y="22" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">95%+ Success</text>
+    <text x="60" y="38" font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)" text-anchor="middle">Surgery Rate</text>
+  </g>
+  <g transform="translate(200, 190)">
+    <rect x="0" y="0" width="120" height="50" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="60" y="22" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">20+ Years</text>
+    <text x="60" y="38" font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)" text-anchor="middle">LIMA Graft Life</text>
+  </g>
+  <text x="60" y="330" font-family="Arial, sans-serif" font-size="15" fill="rgba(255,255,255,0.8)">Assoc. Prof. Dr. Habib CIL | Cardiology Specialist</text>
+</svg>

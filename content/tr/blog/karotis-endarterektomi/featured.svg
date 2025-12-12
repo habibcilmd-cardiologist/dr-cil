@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#7C3AED;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9333EA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="arteryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#EF4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F87171;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="plaqueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FCD34D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F59E0B;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGrad)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="680" cy="70" r="50" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="740" cy="140" r="35" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="90" cy="330" r="45" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="150" cy="60" r="25" fill="rgba(255,255,255,0.06)"/>
+
+  <!-- Carotid Artery Illustration -->
+  <g transform="translate(500, 30)">
+    <!-- Neck silhouette -->
+    <ellipse cx="100" cy="170" rx="80" ry="160" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
+    
+    <!-- Main carotid artery (before bifurcation) -->
+    <path d="M 90 320 Q 90 280, 95 240 L 95 180" 
+          fill="none" stroke="url(#arteryGrad)" stroke-width="24" stroke-linecap="round"/>
+    
+    <!-- Internal carotid (to brain) -->
+    <path d="M 95 180 Q 100 150, 105 120 Q 110 90, 115 60 L 120 20" 
+          fill="none" stroke="url(#arteryGrad)" stroke-width="18" stroke-linecap="round"/>
+    
+    <!-- External carotid -->
+    <path d="M 95 180 Q 80 150, 65 120 Q 55 100, 45 80" 
+          fill="none" stroke="url(#arteryGrad)" stroke-width="14" stroke-linecap="round"/>
+    
+    <!-- Plaque buildup at bifurcation -->
+    <ellipse cx="95" cy="170" rx="22" ry="35" fill="url(#plaqueGrad)" opacity="0.9"/>
+    <ellipse cx="90" cy="160" rx="15" ry="25" fill="#FDE68A" opacity="0.7"/>
+    
+    <!-- Stenosis indicator arrows -->
+    <path d="M 55 170 L 68 170" stroke="white" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 135 170 L 122 170" stroke="white" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Surgical area indication -->
+    <rect x="60" y="135" width="70" height="70" rx="10" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" stroke-dasharray="5,5">
+      <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    
+    <!-- Pulse animation -->
+    <circle cx="95" cy="170" r="5" fill="rgba(255,255,255,0.9)">
+      <animate attributeName="r" values="5;8;5" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="white"/>
+    </marker>
+  </defs>
+
+  <!-- Text content -->
+  <text x="50" y="90" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">
+    Karotis Endarterektomi
+  </text>
+  <text x="50" y="130" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)">
+    Boyun Şah Damarı Ameliyatı
+  </text>
+
+  <!-- Info boxes -->
+  <g transform="translate(50, 170)">
+    <rect x="0" y="0" width="150" height="55" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="75" y="23" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">Plak Temizleme</text>
+    <text x="75" y="40" font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)" text-anchor="middle">Cerrahi Tedavi</text>
+  </g>
+
+  <g transform="translate(220, 170)">
+    <rect x="0" y="0" width="150" height="55" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="75" y="23" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">İnme Önleme</text>
+    <text x="75" y="40" font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)" text-anchor="middle">Felç Riskini Azaltır</text>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(50, 260)">
+    <circle cx="10" cy="10" r="8" fill="url(#arteryGrad)"/>
+    <text x="28" y="14" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.9)">Karotis Arter</text>
+    
+    <circle cx="10" cy="35" r="8" fill="url(#plaqueGrad)"/>
+    <text x="28" y="39" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.9)">Aterosklerotik Plak</text>
+  </g>
+
+  <!-- Bottom text -->
+  <text x="50" y="360" font-family="Arial, sans-serif" font-size="14" fill="rgba(255,255,255,0.7)">
+    Doç. Dr. Habib ÇİL | Kardiyoloji Uzmanı
+  </text>
+</svg>

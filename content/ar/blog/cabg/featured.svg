@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F472B6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="vesselGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#EF4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F87171;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bgGrad)"/>
+  <circle cx="650" cy="80" r="60" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="720" cy="150" r="40" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="100" cy="320" r="50" fill="rgba(255,255,255,0.1)"/>
+  <g transform="translate(480, 50)">
+    <path d="M100,30 C60,-10 0,20 0,70 C0,120 50,160 100,200 C150,160 200,120 200,70 C200,20 140,-10 100,30" fill="url(#heartGrad)" opacity="0.9"/>
+    <path d="M60,60 L60,20 C60,10 70,0 90,0" fill="none" stroke="url(#vesselGrad)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M100,50 L100,5 C100,-5 115,-10 130,-10" fill="none" stroke="url(#vesselGrad)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M140,60 L140,25 C140,15 155,10 170,10" fill="none" stroke="url(#vesselGrad)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M35,80 C-20,60 -30,0 20,10 L60,20" fill="none" stroke="#10B981" stroke-width="5" stroke-dasharray="8,4" opacity="0.9"/>
+    <path d="M165,80 C220,70 230,20 180,15 L140,25" fill="none" stroke="#10B981" stroke-width="5" stroke-dasharray="8,4" opacity="0.9"/>
+    <path d="M40,100 L60,100 L70,70 L85,130 L100,90 L110,110 L120,100 L160,100" fill="none" stroke="white" stroke-width="2" opacity="0.8"/>
+    <circle cx="100" cy="100" r="12" fill="rgba(16,185,129,0.6)">
+      <animate attributeName="r" values="12;18;12" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.3;0.6" dur="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="60" y="100" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white">جراحة مجازة القلب</text>
+  <text x="60" y="150" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)">CABG - علاج مرض الشريان التاجي</text>
+  <g transform="translate(60, 190)">
+    <rect x="0" y="0" width="120" height="50" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="60" y="22" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">95%+</text>
+    <text x="60" y="38" font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)" text-anchor="middle">نسبة النجاح</text>
+  </g>
+  <g transform="translate(200, 190)">
+    <rect x="0" y="0" width="120" height="50" rx="10" fill="rgba(255,255,255,0.15)"/>
+    <text x="60" y="22" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">3-6 ساعات</text>
+    <text x="60" y="38" font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)" text-anchor="middle">مدة الجراحة</text>
+  </g>
+  <text x="60" y="330" font-family="Arial, sans-serif" font-size="15" fill="rgba(255,255,255,0.8)">أ.م.د. حبيب جيل | أخصائي أمراض القلب</text>
+</svg>
