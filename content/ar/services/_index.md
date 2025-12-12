@@ -14,7 +14,7 @@ translationKey: "services"
 <div class="services-grid">
   <a href="/ar/services/hypertension/" class="service-card"><div class="service-icon">📈</div><h4>ارتفاع ضغط الدم</h4><p>ضغط الدم المرتفع - التشخيص والعلاج والمتابعة</p></a>
   <a href="/ar/services/hyperlipidemia-treatment/" class="service-card"><div class="service-icon">🩸</div><h4>علاج فرط شحوم الدم</h4><p>علاج الكوليسترول واضطرابات الدهون</p></a>
-  <a href="/ar/services/cardiovascular-prevention/" class="service-card"><div class="service-icon">🛡️</div><h4>الوقاية من أمراض القلب والاوعية الدموية</h4><p>حماية صحة القلب وإدارة المخاطر</p></a>
+  <a href="/ar/services/cardiovascular-prevention/" class="service-card"><div class="service-icon">🛡️</div><h4>الوقاية من أمراض القلب والأوعية الدموية</h4><p>حماية صحة القلب وإدارة المخاطر</p></a>
   <a href="/ar/services/heart-failure/" class="service-card"><div class="service-icon">💗</div><h4>قصور القلب</h4><p>علاج قصور القلب</p></a>
 </div>
 
@@ -22,20 +22,42 @@ translationKey: "services"
 
 ### 🔧 أمراض القلب التداخلية {#interventional-cardiology}
 
+#### 💙 التدخلات التاجية {#coronary-interventions-sub}
+
+<div class="services-grid">
+  <a href="/ar/services/left-main-coronary-stent/" class="service-card"><div class="service-icon">⭐</div><h4>تدخل الشريان التاجي الأيسر الرئيسي</h4><p>دعامة الشريان التاجي الأيسر الرئيسي</p></a>
+  <a href="/ar/services/bifurkasyon-girisimi/" class="service-card"><div class="service-icon">🔀</div><h4>تدخلات التفرعات</h4><p>علاج نقطة تفرع الأوعية</p></a>
+  <a href="/ar/services/cto-intervention/" class="service-card"><div class="service-icon">🎯</div><h4>الانسداد الكلي المزمن</h4><p>فتح الأوعية المسدودة تماماً (CTO)</p></a>
+  <a href="/ar/services/coronary-fistula-treatment/" class="service-card"><div class="service-icon">🔗</div><h4>علاج الناسور التاجي</h4><p>إغلاق الاتصال الوعائي غير الطبيعي</p></a>
+  <a href="/ar/services/ivus/" class="service-card"><div class="service-icon">🔬</div><h4>IVUS</h4><p>التصوير بالموجات فوق الصوتية داخل الأوعية</p></a>
+  <a href="/ar/services/ffr/" class="service-card"><div class="service-icon">📊</div><h4>FFR</h4><p>قياس احتياطي التدفق الجزئي</p></a>
+  <a href="/ar/services/coronary-angioplasty/" class="service-card"><div class="service-icon">💉</div><h4>رأب الأوعية التاجية والدعامة</h4><p>إجراءات البالون والدعامة</p></a>
+</div>
+
+#### 💚 التدخلات الطرفية {#peripheral-interventions}
+
+<div class="services-grid">
+  <a href="/ar/services/carotid-stenosis/" class="service-card"><div class="service-icon">🧠</div><h4>دعامة الشريان السباتي</h4><p>علاج تضيق الشريان السباتي</p></a>
+  <a href="/ar/services/renal-artery-stenosis/" class="service-card"><div class="service-icon">🫘</div><h4>تضيق الشريان الكلوي</h4><p>دعامة الشريان الكلوي</p></a>
+  <a href="/ar/services/peripheral-vascular/" class="service-card"><div class="service-icon">🦵</div><h4>التدخل الوعائي الطرفي</h4><p>علاج انسداد أوعية الساق</p></a>
+  <a href="/ar/services/iliac-artery-treatment/" class="service-card"><div class="service-icon">🦿</div><h4>شريان الأطراف السفلية</h4><p>علاج الأوعية فوق وتحت الركبة</p></a>
+  <a href="/ar/services/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>علاج تمدد الأوعية الدموية الأبهري (البطني والصدري)</p></a>
+  <a href="/ar/services/atherectomy/" class="service-card"><div class="service-icon">🎯</div><h4>استئصال العصيدة الطرفية والتاجية</h4><p>إجراء إزالة اللويحات</p></a>
+</div>
+
+#### 💜 تدخلات القلب الهيكلية {#structural-heart}
+
 <div class="services-grid">
   <a href="/ar/services/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>زراعة الصمام الأبهري عبر القسطرة</p></a>
-  <a href="/ar/services/coronary-angioplasty/" class="service-card"><div class="service-icon">💉</div><h4>رأب الأوعية التاجية والدعامة</h4><p>إجراءات البالون والدعامة</p></a>
-  <a href="/ar/services/cto-intervention/" class="service-card"><div class="service-icon">🎯</div><h4>تدخلات CTO</h4><p>فتح الأوعية المسدودة تماماً</p></a>
-  <a href="/ar/services/peripheral-vascular/" class="service-card"><div class="service-icon">🦵</div><h4>الأوعية الطرفية</h4><p>تدخلات الأطراف العلوية والسفلية</p></a>
-  <a href="/ar/services/carotid-stenosis/" class="service-card"><div class="service-icon">🧠</div><h4>تضيق الشريان السباتي</h4><p>علاج تضيق الشريان السباتي</p></a>
-  <a href="/ar/services/left-main-coronary-stent/" class="service-card"><div class="service-icon">⭐</div><h4>دعامة الشريان التاجي الأيسر الرئيسي</h4><p>إجراءات تاجية معقدة</p></a>
-  <a href="/ar/services/alcohol-septal-ablation/" class="service-card"><div class="service-icon">🧪</div><h4>الاستئصال الحاجزي بالكحول</h4><p>علاج اعتلال عضلة القلب الضخامي</p></a>
-  <a href="/ar/services/atherectomy/" class="service-card"><div class="service-icon">🎯</div><h4>استئصال العصيدة الطرفية والتاجية</h4><p>إزالة اللويحات من الأوعية الدموية</p></a>
+  <a href="/ar/services/mitraclip/" class="service-card"><div class="service-icon">📎</div><h4>MitraClip</h4><p>علاج قص الصمام التاجي</p></a>
+  <a href="/ar/services/alcohol-septal-ablation/" class="service-card"><div class="service-icon">🧪</div><h4>الاستئصال الحاجزي</h4><p>علاج اعتلال عضلة القلب الضخامي</p></a>
+  <a href="/ar/services/heart-hole-closure/" class="service-card"><div class="service-icon">🎈</div><h4>إغلاق ثقب القلب</h4><p>إغلاق ASD/PFO</p></a>
+  <a href="/ar/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>علاج الصمام ثلاثي الشرفات</h4><p>تدخلات الصمام ثلاثي الشرفات</p></a>
 </div>
 
 ---
 
-### ⚡ جهاز تنظيم ضربات القلب والفيزيولوجيا الكهربية {#pacemaker-and-electrophysiology}
+### ⚡ جهاز تنظيم ضربات القلب والفيزيولوجيا الكهربية {#pacemaker-electrophysiology}
 
 <div class="services-grid">
   <a href="/ar/services/crt-pacemaker/" class="service-card"><div class="service-icon">🔋</div><h4>جهاز تنظيم ضربات القلب ثلاثي الحجرات</h4><p>زراعة CRT</p></a>
@@ -59,7 +81,7 @@ translationKey: "services"
   <a href="/ar/services/transthoracic-echocardiography/" class="service-card"><div class="service-icon">🔊</div><h4>تخطيط صدى القلب عبر الصدر (TTE)</h4><p>الموجات فوق الصوتية للقلب</p></a>
   <a href="/ar/services/transesophageal-echocardiography/" class="service-card"><div class="service-icon">🩺</div><h4>تخطيط صدى القلب عبر المريء (TEE)</h4><p>الموجات فوق الصوتية عبر المريء</p></a>
   <a href="/ar/services/holter/" class="service-card"><div class="service-icon">📡</div><h4>هولتر النظم</h4><p>مراقبة تخطيط القلب لمدة 24 ساعة</p></a>
-  <a href="/ar/services/ambulatory-blood-pressure-monitoring/" class="service-card"><div class="service-icon">📏</div><h4>هولتر ضغط الدم (ABPM)</h4><p>مراقبة ضغط الدم لمدة 24 ساعة</p></a>
+  <a href="/ar/services/ambulatory-blood-pressure-monitoring/" class="service-card"><div class="service-icon">📏</div><h4>هولتر ضغط الدم</h4><p>مراقبة ضغط الدم لمدة 24 ساعة</p></a>
   <a href="/ar/services/stress-echocardiography/" class="service-card"><div class="service-icon">💓</div><h4>تخطيط صدى القلب الإجهادي</h4><p>اختبار الصدى الإجهادي</p></a>
   <a href="/ar/services/myocardial-perfusion/" class="service-card"><div class="service-icon">🧲</div><h4>تروية عضلة القلب</h4><p>اختبار الثاليوم / أمراض القلب النووية</p></a>
   <a href="/ar/services/radial-angiography/" class="service-card"><div class="service-icon">🔎</div><h4>تصوير الأوعية الكعبري</h4><p>تصوير الأوعية من المعصم</p></a>
@@ -72,34 +94,23 @@ translationKey: "services"
 ### 🫀 أمراض الصمامات {#valve-diseases}
 
 <div class="services-grid">
-  <a href="/ar/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>زراعة الصمام ثلاثي الشرفات</h4><p>جراحة الصمام ثلاثي الشرفات</p></a>
+  <a href="/ar/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>زراعة الصمام ثلاثي الشرفات</h4><p>استبدال الصمام ثلاثي الشرفات</p></a>
   <a href="/ar/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>زراعة الصمام الرئوي</h4><p>استبدال الصمام الرئوي</p></a>
 </div>
 
 ---
 
-### 🩹 التدخلات الوعائية {#vascular-interventions}
-
-<div class="services-grid">
-  <a href="/ar/services/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>إصلاح تمدد الأوعية الدموية الأبهري (البطني والصدري)</p></a>
-  <a href="/ar/services/renal-artery-stenosis/" class="service-card"><div class="service-icon">🫘</div><h4>تضيق الشريان الكلوي</h4><p>علاج تضيق الشريان الكلوي</p></a>
-
-  <a href="/ar/services/pericardiocentesis/" class="service-card"><div class="service-icon">💧</div><h4>بزل التامور</h4><p>تصريف السوائل من حول القلب</p></a>
-</div>
-
----
-
-### 🫀 التدخلات التاجية {#coronary-interventions}
+### 💓 التدخلات التاجية {#coronary-interventions}
 
 <div class="services-grid">
   <a href="/ar/services/myocardial-infarction/" class="service-card"><div class="service-icon">💔</div><h4>احتشاء عضلة القلب</h4><p>النوبة القلبية - التدخل الطارئ والعلاج</p></a>
   <a href="/ar/services/coronary-artery-disease/" class="service-card"><div class="service-icon">❤️</div><h4>مرض الشريان التاجي</h4><p>أمراض الأوعية التاجية</p></a>
-  <a href="/ar/services/pci/" class="service-card"><div class="service-icon">🔧</div><h4>PCI</h4><p>التدخل التاجي عبر الجلد</p></a>
-  <a href="/ar/services/ptca/" class="service-card"><div class="service-icon">🎈</div><h4>PTCA</h4><p>رأب الأوعية التاجية عبر الجلد</p></a>
-  <a href="/ar/services/cardiac-stent/" class="service-card"><div class="service-icon">🔩</div><h4>الدعامة القلبية</h4><p>زراعة الدعامة التاجية</p></a>
-  <a href="/ar/services/cardiac-catheterization/" class="service-card"><div class="service-icon">🩺</div><h4>القسطرة القلبية</h4><p>إجراءات القسطرة التشخيصية والعلاجية</p></a>
-  <a href="/ar/services/cardiac-angiography/" class="service-card"><div class="service-icon">📊</div><h4>تصوير الأوعية القلبية</h4><p>تصوير الأوعية التاجية</p></a>
-  <a href="/ar/services/ambulatory-cardiac-monitoring/" class="service-card"><div class="service-icon">📱</div><h4>المراقبة القلبية المتنقلة</h4><p>مراقبة القلب طويلة الأمد</p></a>
+  <a href="/ar/services/cardiac-angiography/" class="service-card"><div class="service-icon">💉</div><h4>تصوير الأوعية القلبية</h4><p>تصوير الأوعية القلبية</p></a>
+  <a href="/ar/services/cardiac-catheterization/" class="service-card"><div class="service-icon">🔬</div><h4>القسطرة القلبية</h4><p>إجراء القسطرة القلبية</p></a>
+  <a href="/ar/services/cardiac-stent/" class="service-card"><div class="service-icon">⭐</div><h4>الدعامة القلبية</h4><p>زراعة الدعامة التاجية</p></a>
+  <a href="/ar/services/coronary-angioplasty/" class="service-card"><div class="service-icon">🔧</div><h4>رأب الأوعية التاجية</h4><p>إجراء البالون التاجي</p></a>
+  <a href="/ar/services/pci/" class="service-card"><div class="service-icon">🎯</div><h4>التدخل التاجي عبر الجلد</h4><p>إجراء PCI</p></a>
+  <a href="/ar/services/ptca/" class="service-card"><div class="service-icon">💉</div><h4>PTCA</h4><p>رأب الأوعية التاجية عبر الجلد عبر اللمعة</p></a>
 </div>
 
 ---
@@ -107,18 +118,20 @@ translationKey: "services"
 ### 🩺 خدمات أخرى {#other-services}
 
 <div class="services-grid">
-  <a href="/ar/services/surface-echocardiography/" class="service-card"><div class="service-icon">🔊</div><h4>تخطيط صدى القلب السطحي</h4><p>تخطيط صدى القلب عبر الصدر</p></a>
+  <a href="/ar/services/ambulatory-cardiac-monitoring/" class="service-card"><div class="service-icon">📟</div><h4>المراقبة القلبية المتنقلة</h4><p>مراقبة القلب في العيادة الخارجية</p></a>
+  <a href="/ar/services/surface-echocardiography/" class="service-card"><div class="service-icon">🔊</div><h4>تخطيط صدى القلب السطحي</h4><p>الصدى السطحي</p></a>
 </div>
 
 ---
 
 ## 📞 احجز موعدك
 
-<div class="appointment-section">
-  <p>للحصول على معلومات تفصيلية حول خدماتنا أو لحجز موعد، يمكنك التواصل معنا.</p>
+للحصول على معلومات تفصيلية حول خدماتنا أو لحجز موعد:
 
 {{< button href="https://wa.me/905339454639" target="_blank" >}}
 احجز موعد عبر واتساب
 {{< /button >}}
 
-</div>
+📍 **مستشفى أوراسيا** - حي بشتلسيز، شارع 101، رقم 107، زيتينبورنو، إسطنبول
+
+📞 **الهاتف:** +90 212 665 50 50 (داخلي: 4012)
