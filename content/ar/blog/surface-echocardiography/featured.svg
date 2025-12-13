@@ -37,13 +37,13 @@
     </path>
   </g>
 
-  <text x="740" y="100" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+  <text x="720" y="100" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="end">
     تخطيط صدى القلب السطحي
   </text>
-  <text x="740" y="150" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+  <text x="720" y="150" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end">
     TTE - الموجات فوق الصوتية للقلب
   </text>
-  <text x="740" y="190" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)" text-anchor="end" direction="rtl">
+  <text x="720" y="190" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)" text-anchor="end">
     تصوير القلب غير الغازي
   </text>
 
@@ -53,7 +53,7 @@
   </text>
 
   <!-- Bottom text -->
-  <text x="740" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+  <text x="720" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end">
     أ.م.د. حبيب جيل | أخصائي أمراض القلب
   </text>
 </svg>

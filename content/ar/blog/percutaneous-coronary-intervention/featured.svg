@@ -27,13 +27,13 @@
     </circle>
   </g>
 
-  <text x="740" y="100" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+  <text x="720" y="100" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="end">
     التدخل التاجي عبر الجلد
   </text>
-  <text x="740" y="145" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+  <text x="720" y="145" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="end">
     (PCI)
   </text>
-  <text x="740" y="190" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+  <text x="720" y="190" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end">
     علاج الدعامة
   </text>
 
@@ -43,7 +43,7 @@
   </text>
 
   <!-- Bottom text -->
-  <text x="740" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+  <text x="720" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end">
     أ.م.د. حبيب جيل | أخصائي أمراض القلب
   </text>
 </svg>

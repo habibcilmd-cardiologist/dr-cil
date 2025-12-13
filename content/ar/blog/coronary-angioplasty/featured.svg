@@ -31,13 +31,13 @@
     <line x1="0" y1="80" x2="180" y2="80" stroke="rgba(255,255,255,0.6)" stroke-width="2"/>
   </g>
 
-  <text x="740" y="110" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+  <text x="720" y="110" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="end">
     رأب الأوعية التاجية
   </text>
-  <text x="740" y="160" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+  <text x="720" y="160" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end">
     فتح الأوعية بالبالون
   </text>
-  <text x="740" y="200" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)" text-anchor="end" direction="rtl">
+  <text x="720" y="200" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)" text-anchor="end">
     علاج تضيق الشريان التاجي
   </text>
 
@@ -47,7 +47,7 @@
   </text>
 
   <!-- Bottom text -->
-  <text x="740" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+  <text x="720" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end">
     أ.م.د. حبيب جيل | أخصائي أمراض القلب
   </text>
 </svg>

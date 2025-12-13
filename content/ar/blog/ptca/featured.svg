@@ -31,13 +31,13 @@
     <text x="100" y="85" font-family="Arial" font-size="12" fill="white" text-anchor="middle">atm</text>
   </g>
 
-  <text x="740" y="110" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+  <text x="720" y="110" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="end">
     PTCA
   </text>
-  <text x="740" y="160" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+  <text x="720" y="160" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)" text-anchor="end">
     رأب الأوعية التاجية عبر الجلد
   </text>
-  <text x="740" y="195" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+  <text x="720" y="195" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)" text-anchor="end">
     عبر اللمعة
   </text>
 
@@ -47,7 +47,7 @@
   </text>
 
   <!-- Bottom text -->
-  <text x="740" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+  <text x="720" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end">
     أ.م.د. حبيب جيل | أخصائي أمراض القلب
   </text>
 </svg>

@@ -25,13 +25,13 @@
     <path d="M 100 60 L 110 40 L 120 80 L 130 50 L 140 70" stroke="rgba(255,255,255,0.8)" stroke-width="2" fill="none"/>
   </g>
 
-  <text x="740" y="110" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+  <text x="720" y="110" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="end">
     القسطرة القلبية
   </text>
-  <text x="740" y="160" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+  <text x="720" y="160" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end">
     إجراء قسطرة القلب
   </text>
-  <text x="740" y="200" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)" text-anchor="end" direction="rtl">
+  <text x="720" y="200" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)" text-anchor="end">
     القسطرة التشخيصية والعلاجية
   </text>
 
@@ -41,7 +41,7 @@
   </text>
 
   <!-- Bottom text -->
-  <text x="740" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+  <text x="720" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end">
     أ.م.د. حبيب جيل | أخصائي أمراض القلب
   </text>
 </svg>

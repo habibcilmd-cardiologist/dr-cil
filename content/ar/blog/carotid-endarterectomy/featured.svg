@@ -69,10 +69,10 @@
   </defs>
 
   <!-- Text content (RTL Arabic) -->
-  <text x="750" y="90" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+  <text x="720" y="90" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="end">
     استئصال باطنة الشريان السباتي
   </text>
-  <text x="750" y="130" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+  <text x="720" y="130" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="end">
     جراحة شريان الرقبة
   </text>
 
@@ -99,7 +99,7 @@
   </g>
 
   <!-- Bottom text (RTL) -->
-  <text x="750" y="360" font-family="Arial, sans-serif" font-size="14" fill="rgba(255,255,255,0.7)" text-anchor="end" direction="rtl">
+  <text x="720" y="360" font-family="Arial, sans-serif" font-size="14" fill="rgba(255,255,255,0.7)" text-anchor="end">
     الأستاذ المشارك الدكتور حبيب تشيل | أخصائي أمراض القلب
   </text>
 </svg>

@@ -41,10 +41,10 @@
   </g>
   
   <!-- Text content (Right, RTL) -->
-  <text x="750" y="130" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="end" direction="rtl">
+  <text x="720" y="130" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="end">
     <tspan font-weight="bold">الصمام</tspan>
   </text>
-  <text x="750" y="180" font-family="Arial, sans-serif" font-size="32" font-weight="300" fill="rgba(255,255,255,0.95)" text-anchor="end" direction="rtl">
+  <text x="720" y="180" font-family="Arial, sans-serif" font-size="32" font-weight="300" fill="rgba(255,255,255,0.95)" text-anchor="end">
     ثنائي الشرف
   </text>
   
@@ -60,7 +60,7 @@
   </g>
   
   <!-- Bottom text -->
-  <text x="750" y="360" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+  <text x="720" y="360" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end">
     أ.م.د. حبيب جيل | أخصائي أمراض القلب
   </text>
 </svg>

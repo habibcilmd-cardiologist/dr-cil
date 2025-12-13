@@ -34,13 +34,13 @@
     </circle>
   </g>
 
-  <text x="740" y="110" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="end" direction="rtl">
+  <text x="720" y="110" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="end">
     الدعامة القلبية
   </text>
-  <text x="740" y="160" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end" direction="rtl">
+  <text x="720" y="160" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="end">
     زراعة الدعامة التاجية
   </text>
-  <text x="740" y="200" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)" text-anchor="end" direction="rtl">
+  <text x="720" y="200" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)" text-anchor="end">
     فتح الشرايين المسدودة
   </text>
 
@@ -50,7 +50,7 @@
   </text>
 
   <!-- Bottom text -->
-  <text x="740" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+  <text x="720" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end">
     أ.م.د. حبيب جيل | أخصائي أمراض القلب
   </text>
 </svg>
