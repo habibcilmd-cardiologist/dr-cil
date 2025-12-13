@@ -32,6 +32,7 @@ translationKey: "services"
   <a href="/services/ivus/" class="service-card"><div class="service-icon">🔬</div><h4>IVUS</h4><p>Intravascular ultrasound imaging</p></a>
   <a href="/services/ffr/" class="service-card"><div class="service-icon">📊</div><h4>FFR</h4><p>Fractional flow reserve measurement</p></a>
   <a href="/services/coronary-angioplasty/" class="service-card"><div class="service-icon">💉</div><h4>Coronary Angioplasty and Stenting</h4><p>Balloon and stent procedures</p></a>
+  <a href="/services/myocardial-infarction/" class="service-card"><div class="service-icon">💔</div><h4>Myocardial Infarction Treatment</h4><p>Heart Attack - Emergency intervention and treatment</p></a>
 </div>
 
 #### 💚 Peripheral Interventions {#peripheral-interventions}
@@ -39,10 +40,15 @@ translationKey: "services"
 <div class="services-grid">
   <a href="/services/carotid-stenosis/" class="service-card"><div class="service-icon">🧠</div><h4>Carotid Stenting</h4><p>Carotid artery stenosis treatment</p></a>
   <a href="/services/renal-artery-stenosis/" class="service-card"><div class="service-icon">🫘</div><h4>Renal Artery Stenosis</h4><p>Kidney artery stenting</p></a>
-  <a href="/services/peripheral-vascular/" class="service-card"><div class="service-icon">🦵</div><h4>Peripheral Vascular Intervention</h4><p>Leg vessel occlusion treatment</p></a>
-  <a href="/services/iliac-artery-treatment/" class="service-card"><div class="service-icon">🦿</div><h4>Lower Extremity Artery</h4><p>Above and below knee vessel treatment</p></a>
+  <a href="/services/peripheral-vascular/" class="service-card"><div class="service-icon">🦵</div><h4>Peripheral Vascular Intervention</h4><p>Leg vessel occlusion treatment</p></a>  <a href="/services/above-knee-arterial-disease/" class="service-card"><div class="service-icon">🦵</div><h4>Above-Knee Arterial Disease</h4><p>Femoropopliteal artery treatment</p></a>
+  <a href="/services/below-knee-arterial-disease/" class="service-card"><div class="service-icon">🦶</div><h4>Below-Knee Arterial Disease</h4><p>Infrapopliteal artery treatment</p></a>  <a href="/services/iliac-artery-treatment/" class="service-card"><div class="service-icon">🦿</div><h4>Iliac Artery Treatment</h4><p>Abdominal main artery treatment</p></a>
   <a href="/services/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>Aortic aneurysm treatment (Abdominal and Thoracic)</p></a>
   <a href="/services/atherectomy/" class="service-card"><div class="service-icon">🎯</div><h4>Peripheral and Coronary Atherectomy</h4><p>Plaque removal procedure</p></a>
+  <a href="/services/dialysis-fistula-treatment/" class="service-card"><div class="service-icon">💉</div><h4>Dialysis Fistula Treatment</h4><p>AV fistula occlusion interventions</p></a>
+  <a href="/services/acute-dvt-treatment/" class="service-card"><div class="service-icon">🩸</div><h4>Acute DVT Treatment</h4><p>Acute deep vein thrombosis treatment</p></a>
+  <a href="/services/chronic-dvt-treatment/" class="service-card"><div class="service-icon">🔄</div><h4>Chronic DVT Treatment</h4><p>Chronic deep vein thrombosis treatment</p></a>
+  <a href="/services/may-thurner-syndrome/" class="service-card"><div class="service-icon">🦵</div><h4>May-Thurner Syndrome</h4><p>Iliac vein compression syndrome</p></a>
+  <a href="/services/varicocele-pelvic-congestion/" class="service-card"><div class="service-icon">🩺</div><h4>Varicocele & Pelvic Congestion</h4><p>Varicocele and pelvic congestion treatment</p></a>
 </div>
 
 #### 💜 Structural Heart Interventions {#structural-heart}
@@ -50,6 +56,7 @@ translationKey: "services"
 <div class="services-grid">
   <a href="/services/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transcatheter aortic valve implantation</p></a>
   <a href="/services/mitraclip/" class="service-card"><div class="service-icon">📎</div><h4>MitraClip</h4><p>Mitral valve clipping therapy</p></a>
+  <a href="/services/mitral-balloon-valvuloplasty/" class="service-card"><div class="service-icon">🎈</div><h4>Mitral Balloon Valvuloplasty</h4><p>Mitral valve dilatation</p></a>
   <a href="/services/alcohol-septal-ablation/" class="service-card"><div class="service-icon">🧪</div><h4>Septal Ablation</h4><p>Hypertrophic cardiomyopathy treatment</p></a>
   <a href="/services/heart-hole-closure/" class="service-card"><div class="service-icon">🎈</div><h4>Heart Hole Closure</h4><p>ASD/PFO closure</p></a>
   <a href="/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>Tricuspid Valve Treatment</h4><p>Tricuspid valve interventions</p></a>
@@ -75,7 +82,9 @@ translationKey: "services"
 ### 🩺 Diagnostic Procedures {#diagnostic-procedures}
 
 <div class="services-grid">
-  <a href="/services/angiography/" class="service-card"><div class="service-icon">📊</div><h4>Angiography</h4><p>Cardiac and peripheral angiography</p></a>
+  <a href="/services/angiography/" class="service-card"><div class="service-icon">📊</div><h4>Cardiac Angiography</h4><p>Coronary angiography</p></a>
+  <a href="/services/peripheral-angiography/" class="service-card"><div class="service-icon">🦵</div><h4>Peripheral Angiography</h4><p>Limb vessel imaging</p></a>
+  <a href="/services/echocardiography/" class="service-card"><div class="service-icon">💓</div><h4>Echocardiography</h4><p>Heart ultrasound - General information</p></a>
   <a href="/services/exercise-stress-test/" class="service-card"><div class="service-icon">🏃</div><h4>Exercise Stress Test</h4><p>Stress EKG and treadmill test</p></a>
   <a href="/services/ekg/" class="service-card"><div class="service-icon">📉</div><h4>EKG</h4><p>Electrocardiography</p></a>
   <a href="/services/transthoracic-echocardiography/" class="service-card"><div class="service-icon">🔊</div><h4>Transthoracic Echocardiography (TTE)</h4><p>Heart ultrasonography</p></a>
@@ -103,7 +112,6 @@ translationKey: "services"
 ### 💓 Coronary Interventions {#coronary-interventions}
 
 <div class="services-grid">
-  <a href="/services/myocardial-infarction/" class="service-card"><div class="service-icon">💔</div><h4>Myocardial Infarction</h4><p>Heart Attack - Emergency intervention and treatment</p></a>
   <a href="/services/coronary-artery-disease/" class="service-card"><div class="service-icon">❤️</div><h4>Coronary Artery Disease</h4><p>Coronary vascular diseases</p></a>
   <a href="/services/cardiac-angiography/" class="service-card"><div class="service-icon">💉</div><h4>Cardiac Angiography</h4><p>Heart angiography</p></a>
   <a href="/services/cardiac-catheterization/" class="service-card"><div class="service-icon">🔬</div><h4>Cardiac Catheterization</h4><p>Heart catheter procedure</p></a>

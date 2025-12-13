@@ -1,5 +1,5 @@
 ﻿---
-title: "Periferik Damar Hastalıkları - Bacak Damar Tedavisi"
+title: "Periferik Damar Hastalıkları"
 description: "İstanbul'da periferik damar hastalıkları tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile bacak damarları ve periferik anjiyoplasti. Avrasya Hospital."
 date: 2024-01-15
 lastmod: 2024-12-04
@@ -219,8 +219,9 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Periferik damar hastalığı ile bağlantılı diğer tedaviler:
 
--   [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar hastalığı
+-   [Dizüstü Damar Tıkanıklığı](/tr/hizmetler/dizustu-damar-tikanikligi/) - Femoropopliteal arter tedavisi
+-   [Dizaltı Damar Tıkanıklığı](/tr/hizmetler/dizalti-damar-tikanikligi/) - İnfrapopliteal arter tedavisi
 -   [Karotis Stenozu](/tr/hizmetler/karotis-stenozu/) - Şah damarı darlığı
 -   [Renal Arter Stenozu](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damarı darlığı
--   [Abdominal Aort Anevrizması](/tr/hizmetler/abdominal-aort-anevrizması/) - Karın aort anevrizması
--   [EVAR](/tr/hizmetler/evar/) - Endovasküler anevrizma tamiri
+-   [İliak Arter Tedavisi](/tr/hizmetler/iliak-arter-tedavisi/) - Kalça damar tedavisi
+-   [EVAR - TEVAR](/tr/hizmetler/evar-tevar/) - Endovasküler anevrizma tamiri

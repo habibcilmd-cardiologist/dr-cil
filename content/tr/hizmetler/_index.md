@@ -32,6 +32,7 @@ translationKey: "services"
   <a href="/tr/hizmetler/ivus/" class="service-card"><div class="service-icon">🔬</div><h4>IVUS</h4><p>Damar içi ultrason görüntüleme</p></a>
   <a href="/tr/hizmetler/ffr/" class="service-card"><div class="service-icon">📊</div><h4>FFR</h4><p>Fraksiyonel akım rezervi ölçümü</p></a>
   <a href="/tr/hizmetler/koroner-anjiyoplasti/" class="service-card"><div class="service-icon">💉</div><h4>Koroner Anjiyoplasti ve Stentleme</h4><p>Balon ve stent uygulamaları</p></a>
+  <a href="/tr/hizmetler/miyokard-enfarktusu/" class="service-card"><div class="service-icon">💔</div><h4>Miyokard Enfarktüsü Tedavisi</h4><p>Kalp Krizi - Acil müdahale ve tedavi</p></a>
 </div>
 
 #### 💚 Periferik Girişimler {#periferik-girisimler}
@@ -39,17 +40,25 @@ translationKey: "services"
 <div class="services-grid">
   <a href="/tr/hizmetler/karotis-stenozu/" class="service-card"><div class="service-icon">🧠</div><h4>Karotis Stentleme</h4><p>Şah damarı darlığı tedavisi</p></a>
   <a href="/tr/hizmetler/renal-arter-stenozu/" class="service-card"><div class="service-icon">🫘</div><h4>Renal Arter Darlığı</h4><p>Böbrek damarı stentleme</p></a>
-  <a href="/tr/hizmetler/periferik-damar/" class="service-card"><div class="service-icon">🦵</div><h4>Periferik Damar Girişimi</h4><p>Bacak damarı tıkanıklık tedavisi</p></a>
-  <a href="/tr/hizmetler/alt-ekstremite-arter-hastaligi/" class="service-card"><div class="service-icon">🦿</div><h4>Alt Ekstremite Arter</h4><p>Dizüstü ve dizaltı damar tedavisi</p></a>
-  <a href="/tr/hizmetler/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>Aort anevrizması tedavisi (Abdominal ve Torasik)</p></a>  <a href="/tr/hizmetler/aterektomi/" class="service-card"><div class="service-icon">🎯</div><h4>Periferik ve Koroner Aterektomi</h4><p>Plak temizleme işlemi</p></a></div>
+<a href="/tr/hizmetler/periferik-damar/" class="service-card"><div class="service-icon">🩺</div><h4>Periferik Damar Girişimi</h4><p>Alt ekstremite, renal arter, subklavyan arter tedavisi</p></a>
+  <a href="/tr/hizmetler/dizustu-damar-tikanikligi/" class="service-card"><div class="service-icon">🦵</div><h4>Dizüstü Damar Tıkanıklığı</h4><p>Femoropopliteal arter tedavisi</p></a>
+  <a href="/tr/hizmetler/dizalti-damar-tikanikligi/" class="service-card"><div class="service-icon">🦶</div><h4>Dizaltı Damar Tıkanıklığı</h4><p>İnfrapopliteal arter tedavisi</p></a>
+  <a href="/tr/hizmetler/iliak-arter-tedavisi/" class="service-card"><div class="service-icon">🦿</div><h4>İliak Arter Tedavisi</h4><p>Karın içi ana damar tedavisi</p></a>
+  <a href="/tr/hizmetler/evar-tevar/" class="service-card"><div class="service-icon">🔧</div><h4>EVAR - TEVAR</h4><p>Aort anevrizması tedavisi (Abdominal ve Torasik)</p></a>
+  <a href="/tr/hizmetler/aterektomi/" class="service-card"><div class="service-icon">🎯</div><h4>Periferik ve Koroner Aterektomi</h4><p>Plak temizleme işlemi</p></a>
+  <a href="/tr/hizmetler/diyaliz-fistul-tedavisi/" class="service-card"><div class="service-icon">💉</div><h4>Diyaliz Fistül Tedavisi</h4><p>AV fistül tıkanıklığı girişimleri</p></a>
+  <a href="/tr/hizmetler/akut-dvt-tedavisi/" class="service-card"><div class="service-icon">🩸</div><h4>Akut DVT Tedavisi</h4><p>Akut derin ven trombozu tedavisi</p></a>
+  <a href="/tr/hizmetler/kronik-dvt-tedavisi/" class="service-card"><div class="service-icon">🔄</div><h4>Kronik DVT Tedavisi</h4><p>Kronik derin ven trombozu tedavisi</p></a>
+  <a href="/tr/hizmetler/may-thurner-sendromu/" class="service-card"><div class="service-icon">🦵</div><h4>May-Thurner Sendromu</h4><p>İliak ven kompresyon sendromu</p></a>
+  <a href="/tr/hizmetler/varikosel-pelvik-konjesyon/" class="service-card"><div class="service-icon">🩺</div><h4>Varikosel ve Pelvik Konjesyon</h4><p>Varikosel ve pelvik konjesyon tedavisi</p></a>
+</div>
 
 #### 💜 Yapısal Kalp Girişimleri {#yapisal-kalp-girisimleri}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transkateter aort kapak implantasyonu</p></a>
-  <a href="/tr/hizmetler/mitraclip/" class="service-card"><div class="service-icon">📎</div><h4>MitraClip</h4><p>Mitral kapak klipleme tedavisi</p></a>
-  <a href="/tr/hizmetler/alkol-septal-ablasyon/" class="service-card"><div class="service-icon">🧪</div><h4>Septal Ablasyon</h4><p>Hipertrofik kardiyomiyopati tedavisi</p></a>
-  <a href="/tr/hizmetler/mitral-kapak/" class="service-card"><div class="service-icon">🎈</div><h4>Mitral Balon Valvüloplasti</h4><p>Mitral kapak genişletme</p></a>
+  <a href="/tr/hizmetler/mitraclip/" class="service-card"><div class="service-icon">📎</div><h4>MitraClip</h4><p>Mitral kapak klipleme tedavisi</p></a>  <a href="/tr/hizmetler/mitral-balon-valvuloplasti/" class="service-card"><div class="service-icon">🎈</div><h4>Mitral Balon Valvüloplasti</h4><p>Mitral kapak genişletme</p></a>  <a href="/tr/hizmetler/alkol-septal-ablasyon/" class="service-card"><div class="service-icon">🧪</div><h4>Septal Ablasyon</h4><p>Hipertrofik kardiyomiyopati tedavisi</p></a>
+  <a href="/tr/hizmetler/kalp-deligi-kapatma/" class="service-card"><div class="service-icon">🎈</div><h4>Kalp Deliği Kapatma</h4><p>ASD/PFO kapatma işlemi</p></a>
   <a href="/tr/hizmetler/trikuspid-kapak/" class="service-card"><div class="service-icon">💚</div><h4>Triküspid Kapak Tedavisi</h4><p>Triküspid kapak girişimleri</p></a>
 </div>
 
@@ -73,7 +82,9 @@ translationKey: "services"
 ### 🩺 Tanısal İşlemler {#tanisal-islemler}
 
 <div class="services-grid">
-  <a href="/tr/hizmetler/anjiyografi/" class="service-card"><div class="service-icon">📊</div><h4>Anjiyografi</h4><p>Kardiyak ve periferik anjiyografi</p></a>
+  <a href="/tr/hizmetler/anjiyografi/" class="service-card"><div class="service-icon">📊</div><h4>Kardiyak Anjiyografi</h4><p>Koroner anjiyografi</p></a>
+  <a href="/tr/hizmetler/periferik-anjiyografi/" class="service-card"><div class="service-icon">🦵</div><h4>Periferik Anjiyografi</h4><p>Uzuv damar görüntüleme</p></a>
+  <a href="/tr/hizmetler/ekokardiyografi/" class="service-card"><div class="service-icon">💓</div><h4>Ekokardiyografi</h4><p>Kalp ultrasonu - Genel bilgi</p></a>
   <a href="/tr/hizmetler/efor-testi/" class="service-card"><div class="service-icon">🏃</div><h4>Efor Testi</h4><p>Eforlu EKG ve treadmill testi</p></a>
   <a href="/tr/hizmetler/ekg/" class="service-card"><div class="service-icon">📉</div><h4>EKG</h4><p>Elektrokardiyografi</p></a>
   <a href="/tr/hizmetler/transtorasik-ekokardiyografi/" class="service-card"><div class="service-icon">🔊</div><h4>Transtorasik Ekokardiyografi (TTE)</h4><p>Kalp ultrasonografisi</p></a>
@@ -101,7 +112,6 @@ translationKey: "services"
 ### 💓 Koroner Girişimler {#koroner-girisimler}
 
 <div class="services-grid">
-  <a href="/tr/hizmetler/miyokard-enfarktusu/" class="service-card"><div class="service-icon">💔</div><h4>Miyokard Enfarktüsü</h4><p>Kalp Krizi - Acil müdahale ve tedavi</p></a>
   <a href="/tr/hizmetler/koroner-arter-hastaligi/" class="service-card"><div class="service-icon">❤️</div><h4>Koroner Arter Hastalığı</h4><p>Koroner damar hastalıkları</p></a>
   <a href="/tr/hizmetler/kardiyak-anjiyografi/" class="service-card"><div class="service-icon">💉</div><h4>Kardiyak Anjiyografi</h4><p>Kalp anjiyografi</p></a>
   <a href="/tr/hizmetler/kardiyak-kateterizasyon/" class="service-card"><div class="service-icon">🔬</div><h4>Kardiyak Kateterizasyon</h4><p>Kalp kateteri işlemi</p></a>
