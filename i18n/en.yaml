@@ -28,7 +28,6 @@ heart_model_loading: "Loading Heart Model..."
 # =============================================================================
 ic_section_title: "Interventional Cardiology Services"
 ic_main_title: "Interventional Cardiology"
-ic_subtitle: "Advanced minimally invasive cardiac and vascular procedures"
 ic_diagram_title: "Interventional Cardiology Services Diagram"
 ic_diagram_desc: "Interactive diagram showing three main branches: Coronary Interventions, Peripheral Interventions, and Structural Heart Disease Interventions"
 ic_center_title: "Interventional Cardiology"

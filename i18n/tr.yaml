@@ -26,7 +26,6 @@ heart_model_loading: "Kalp Modeli Yükleniyor..."
 # =============================================================================
 ic_section_title: "Girişimsel Kardiyoloji Hizmetleri"
 ic_main_title: "Girişimsel Kardiyoloji"
-ic_subtitle: "İleri düzey minimal invaziv kalp ve damar girişimleri"
 ic_diagram_title: "Girişimsel Kardiyoloji Hizmetleri Diyagramı"
 ic_diagram_desc: "Üç ana dalı gösteren interaktif diyagram: Koroner Girişimler, Periferik Girişimler ve Yapısal Kalp Hastalığı Girişimleri"
 ic_center_title: "Girişimsel Kardiyoloji"

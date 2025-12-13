@@ -20,7 +20,7 @@ contentDir = "content/ar"
   [params.author]
     name = "أ.د. حبيب جيل"
     image = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
-    headline = "أخصائي أمراض القلب"
+    headline = "أخصائي أمراض القلب التداخلية"
     bio = "خريج كلية الطب بجامعة إسطنبول، تخصص أمراض القلب من جامعة أكدينيز. خبير في أمراض القلب التداخلية، رأب الأوعية التاجية وزراعة الصمام الأبهري عبر القسطرة (TAVI)."
     links = [
       { email = "mailto:habibcilmd@gmail.com" },

@@ -20,7 +20,7 @@ contentDir = "content/tr"
   [params.author]
     name = "Doç. Dr. Habib ÇİL"
     image = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
-    headline = "Kardiyoloji Uzmanı"
+    headline = "Girişimsel Kardiyoloji Uzmanı"
     bio = "İstanbul Üniversitesi Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. Girişimsel kardiyoloji, koroner anjiyoplasti ve TAVI konularında uzman."
     links = [
       { email = "mailto:habibcilmd@gmail.com" },

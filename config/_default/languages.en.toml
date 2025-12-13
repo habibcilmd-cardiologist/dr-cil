@@ -20,7 +20,7 @@ contentDir = "content/en"
   [params.author]
     name = "Assoc. Prof. Dr. Habib ÇİL"
     image = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
-    headline = "Cardiology Specialist"
+    headline = "Interventional Cardiologist"
     bio = "Istanbul University Faculty of Medicine graduate, Akdeniz University Cardiology specialization. Expert in interventional cardiology, coronary angioplasty and TAVI."
     links = [
       { email = "mailto:habibcilmd@gmail.com" },
