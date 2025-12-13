@@ -109,29 +109,6 @@ translationKey: "services"
 
 ---
 
-### 💓 Koroner Girişimler {#koroner-girisimler}
-
-<div class="services-grid">
-  <a href="/tr/hizmetler/koroner-arter-hastaligi/" class="service-card"><div class="service-icon">❤️</div><h4>Koroner Arter Hastalığı</h4><p>Koroner damar hastalıkları</p></a>
-  <a href="/tr/hizmetler/kardiyak-anjiyografi/" class="service-card"><div class="service-icon">💉</div><h4>Kardiyak Anjiyografi</h4><p>Kalp anjiyografi</p></a>
-  <a href="/tr/hizmetler/kardiyak-kateterizasyon/" class="service-card"><div class="service-icon">🔬</div><h4>Kardiyak Kateterizasyon</h4><p>Kalp kateteri işlemi</p></a>
-  <a href="/tr/hizmetler/kardiyak-stent/" class="service-card"><div class="service-icon">⭐</div><h4>Kardiyak Stent</h4><p>Koroner stent implantasyonu</p></a>
-  <a href="/tr/hizmetler/koroner-anjiyoplasti/" class="service-card"><div class="service-icon">🔧</div><h4>Koroner Anjiyoplasti</h4><p>Koroner balon işlemi</p></a>
-  <a href="/tr/hizmetler/pci/" class="service-card"><div class="service-icon">🎯</div><h4>Perkütan Koroner Girişim</h4><p>PCI işlemi</p></a>
-  <a href="/tr/hizmetler/ptka/" class="service-card"><div class="service-icon">💉</div><h4>PTKA</h4><p>Perkütan Translüminal Koroner Anjiyoplasti</p></a>
-</div>
-
----
-
-### 🩺 Diğer Hizmetler {#diger-hizmetler}
-
-<div class="services-grid">
-  <a href="/tr/hizmetler/ambulatuvar-kardiyak-izleme/" class="service-card"><div class="service-icon">📟</div><h4>Ambulatuvar Kardiyak İzleme</h4><p>Ayaktan kalp takibi</p></a>
-  <a href="/tr/hizmetler/yuzeyel-ekokardiyografi/" class="service-card"><div class="service-icon">🔊</div><h4>Yüzeyel Ekokardiyografi</h4><p>Yüzeyel eko</p></a>
-</div>
-
----
-
 ## 📞 Randevu
 
 Hizmetlerimiz hakkında daha fazla bilgi almak ve randevu oluşturmak için:

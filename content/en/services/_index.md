@@ -109,29 +109,6 @@ translationKey: "services"
 
 ---
 
-### 💓 Coronary Interventions {#coronary-interventions}
-
-<div class="services-grid">
-  <a href="/services/coronary-artery-disease/" class="service-card"><div class="service-icon">❤️</div><h4>Coronary Artery Disease</h4><p>Coronary vascular diseases</p></a>
-  <a href="/services/cardiac-angiography/" class="service-card"><div class="service-icon">💉</div><h4>Cardiac Angiography</h4><p>Heart angiography</p></a>
-  <a href="/services/cardiac-catheterization/" class="service-card"><div class="service-icon">🔬</div><h4>Cardiac Catheterization</h4><p>Heart catheter procedure</p></a>
-  <a href="/services/cardiac-stent/" class="service-card"><div class="service-icon">⭐</div><h4>Cardiac Stent</h4><p>Coronary stent implantation</p></a>
-  <a href="/services/coronary-angioplasty/" class="service-card"><div class="service-icon">🔧</div><h4>Coronary Angioplasty</h4><p>Coronary balloon procedure</p></a>
-  <a href="/services/pci/" class="service-card"><div class="service-icon">🎯</div><h4>Percutaneous Coronary Intervention</h4><p>PCI procedure</p></a>
-  <a href="/services/ptca/" class="service-card"><div class="service-icon">💉</div><h4>PTCA</h4><p>Percutaneous Transluminal Coronary Angioplasty</p></a>
-</div>
-
----
-
-### 🩺 Other Services {#other-services}
-
-<div class="services-grid">
-  <a href="/services/ambulatory-cardiac-monitoring/" class="service-card"><div class="service-icon">📟</div><h4>Ambulatory Cardiac Monitoring</h4><p>Outpatient heart monitoring</p></a>
-  <a href="/services/surface-echocardiography/" class="service-card"><div class="service-icon">🔊</div><h4>Surface Echocardiography</h4><p>Surface echo</p></a>
-</div>
-
----
-
 ## 📞 Appointment
 
 For more information about our services and to schedule an appointment:

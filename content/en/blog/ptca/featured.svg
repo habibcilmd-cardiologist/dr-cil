@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="balloonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34D399;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="vesselGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F472B6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="400" fill="url(#bgGrad)"/>
+
+  <circle cx="650" cy="80" r="60" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="720" cy="150" r="40" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="100" cy="320" r="50" fill="rgba(255,255,255,0.1)"/>
+
+  <g transform="translate(480, 90)">
+    <rect x="20" y="40" width="160" height="80" rx="40" fill="url(#vesselGrad)" opacity="0.6"/>
+    <rect x="30" y="55" width="140" height="50" rx="25" fill="url(#bgGrad)"/>
+    <ellipse cx="100" cy="80" rx="35" ry="20" fill="url(#balloonGrad)" opacity="0.9">
+      <animate attributeName="rx" values="25;40;25" dur="2s" repeatCount="indefinite"/>
+    </ellipse>
+    <line x1="-20" y1="80" x2="200" y2="80" stroke="rgba(255,255,255,0.7)" stroke-width="2" stroke-dasharray="5,3"/>
+    <text x="100" y="85" font-family="Arial" font-size="12" fill="white" text-anchor="middle">atm</text>
+  </g>
+
+  <text x="60" y="110" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white">
+    PTCA
+  </text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)">
+    Percutaneous Transluminal
+  </text>
+  <text x="60" y="190" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)">
+    Coronary Angioplasty
+  </text>
+
+  <rect x="60" y="280" width="320" height="50" rx="25" fill="rgba(255,255,255,0.2)"/>
+  <text x="220" y="312" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">
+    💉 Interventional Cardiology
+  </text>
+
+  <!-- Bottom text -->
+  <text x="60" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)">
+    Assoc. Prof. Dr. Habib ÇİL | Cardiology Specialist
+  </text>
+</svg>

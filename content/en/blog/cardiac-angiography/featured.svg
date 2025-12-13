@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F472B6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="400" fill="url(#bgGrad)"/>
+
+  <circle cx="650" cy="80" r="60" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="720" cy="150" r="40" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="100" cy="320" r="50" fill="rgba(255,255,255,0.1)"/>
+
+  <g transform="translate(500, 80)">
+    <path d="M 100 30 C 60 -10, 0 20, 0 60 C 0 110, 100 160, 100 160 C 100 160, 200 110, 200 60 C 200 20, 140 -10, 100 30"
+          fill="url(#heartGrad)" opacity="0.9"/>
+    <line x1="100" y1="160" x2="100" y2="220" stroke="rgba(255,255,255,0.9)" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="100" cy="220" r="8" fill="rgba(255,255,255,0.9)"/>
+    <circle cx="100" cy="80" r="10" fill="rgba(255,255,255,0.8)">
+      <animate attributeName="r" values="10;15;10" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="60" y="110" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white">
+    Cardiac Angiography
+  </text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.9)">
+    Heart vessel imaging
+  </text>
+  <text x="60" y="200" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)">
+    Diagnostic angiography procedure
+  </text>
+
+  <rect x="60" y="280" width="320" height="50" rx="25" fill="rgba(255,255,255,0.2)"/>
+  <text x="220" y="312" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">
+    💉 Interventional Cardiology
+  </text>
+
+  <!-- Bottom text -->
+  <text x="60" y="375" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)">
+    Assoc. Prof. Dr. Habib ÇİL | Cardiology Specialist
+  </text>
+</svg>

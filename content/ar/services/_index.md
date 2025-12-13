@@ -111,29 +111,6 @@ translationKey: "services"
 
 ---
 
-### 💓 التدخلات التاجية {#coronary-interventions}
-
-<div class="services-grid">
-  <a href="/ar/services/coronary-artery-disease/" class="service-card"><div class="service-icon">❤️</div><h4>مرض الشريان التاجي</h4><p>أمراض الأوعية التاجية</p></a>
-  <a href="/ar/services/cardiac-angiography/" class="service-card"><div class="service-icon">💉</div><h4>تصوير الأوعية القلبية</h4><p>تصوير الأوعية القلبية</p></a>
-  <a href="/ar/services/cardiac-catheterization/" class="service-card"><div class="service-icon">🔬</div><h4>القسطرة القلبية</h4><p>إجراء القسطرة القلبية</p></a>
-  <a href="/ar/services/cardiac-stent/" class="service-card"><div class="service-icon">⭐</div><h4>الدعامة القلبية</h4><p>زراعة الدعامة التاجية</p></a>
-  <a href="/ar/services/coronary-angioplasty/" class="service-card"><div class="service-icon">🔧</div><h4>رأب الأوعية التاجية</h4><p>إجراء البالون التاجي</p></a>
-  <a href="/ar/services/pci/" class="service-card"><div class="service-icon">🎯</div><h4>التدخل التاجي عبر الجلد</h4><p>إجراء PCI</p></a>
-  <a href="/ar/services/ptca/" class="service-card"><div class="service-icon">💉</div><h4>PTCA</h4><p>رأب الأوعية التاجية عبر الجلد عبر اللمعة</p></a>
-</div>
-
----
-
-### 🩺 خدمات أخرى {#other-services}
-
-<div class="services-grid">
-  <a href="/ar/services/ambulatory-cardiac-monitoring/" class="service-card"><div class="service-icon">📟</div><h4>المراقبة القلبية المتنقلة</h4><p>مراقبة القلب في العيادة الخارجية</p></a>
-  <a href="/ar/services/surface-echocardiography/" class="service-card"><div class="service-icon">🔊</div><h4>تخطيط صدى القلب السطحي</h4><p>الصدى السطحي</p></a>
-</div>
-
----
-
 ## 📞 احجز موعدك
 
 للحصول على معلومات تفصيلية حول خدماتنا أو لحجز موعد:
