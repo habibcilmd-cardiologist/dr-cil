@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the regulations of the Republic of Turkey Ministry of Health and medical ethics rules, for the purpose of protecting and informing public health. It does not contain any diagnosis, treatment guarantee, or referral. Please consult an authorized healthcare facility for the most accurate information.
 {{< /alert >}}
 
-Peripheral angiography is the imaging of vessels outside the heart (arteries and veins) using X-rays and contrast dye. This procedure is used for diagnosing peripheral artery disease, venous diseases, and vascular anomalies. Interventional cardiology specialist Assoc. Prof. Dr. Habib Çil has extensive experience in peripheral angiography procedures.
+Peripheral angiography is the imaging of vessels outside the heart (arteries and veins) using X-rays and contrast dye. This procedure is used for diagnosing peripheral artery disease, venous diseases, and vascular anomalies.
 
 ## What is Peripheral Angiography?
 

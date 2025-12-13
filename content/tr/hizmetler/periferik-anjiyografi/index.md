@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-Periferik anjiyografi, kalp dışındaki damarların (arterler ve venler) röntgen ışınları ve kontrast madde kullanılarak görüntülenmesidir. Bu işlem, periferik arter hastalığı, venöz hastalıklar ve damar anomalilerinin tanısında kullanılır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, periferik anjiyografi işleminde geniş deneyime sahiptir.
+Periferik anjiyografi, kalp dışındaki damarların (arterler ve venler) röntgen ışınları ve kontrast madde kullanılarak görüntülenmesidir. Bu işlem, periferik arter hastalığı, venöz hastalıklar ve damar anomalilerinin tanısında kullanılır.
 
 ## Periferik Anjiyografi Nedir?
 

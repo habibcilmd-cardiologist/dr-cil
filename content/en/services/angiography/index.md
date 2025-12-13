@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Coronary angiography is the imaging of heart vessels (coronary arteries) using X-rays and contrast material. This procedure is considered the gold standard in diagnosing coronary artery disease. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in coronary angiography procedures.
+Coronary angiography is the imaging of heart vessels (coronary arteries) using X-rays and contrast material. This procedure is considered the gold standard in diagnosing coronary artery disease.
 
 ## What is Coronary Angiography?
 

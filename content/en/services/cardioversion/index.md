@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Cardioversion is a treatment method applied to restore abnormal heart rhythm to normal sinus rhythm. It can be performed electrically or pharmacologically. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in cardioversion procedures.
+Cardioversion is a treatment method applied to restore abnormal heart rhythm to normal sinus rhythm. It can be performed electrically or pharmacologically.
 
 ## What is Cardioversion?
 

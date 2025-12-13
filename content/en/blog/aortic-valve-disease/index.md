@@ -32,7 +32,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Aortic valve disease is dysfunction of the valve between the left ventricle and aorta. It has two main forms: aortic stenosis and aortic regurgitation. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating aortic valve diseases.
+Aortic valve disease is dysfunction of the valve between the left ventricle and aorta. It has two main forms: aortic stenosis and aortic regurgitation.
 
 ## What is Aortic Valve Disease?
 

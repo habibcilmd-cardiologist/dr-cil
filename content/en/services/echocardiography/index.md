@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Echocardiography is a non-invasive imaging method that evaluates the structure and function of the heart using ultrasound waves. It is one of the most valuable diagnostic tools in cardiology. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in echocardiography interpretation.
+Echocardiography is a non-invasive imaging method that evaluates the structure and function of the heart using ultrasound waves. It is one of the most valuable diagnostic tools in cardiology.
 
 ## What is Echocardiography?
 

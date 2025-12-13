@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Elektrokardiyografi (EKG), kalbin elektriksel aktivitesini kaydeden basit, ağrısız ve hızlı bir tanı yöntemidir. Kardiyolojide en sık kullanılan tetkiklerden biridir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, EKG yorumlamasında geniş deneyime sahiptir.
+Elektrokardiyografi (EKG), kalbin elektriksel aktivitesini kaydeden basit, ağrısız ve hızlı bir tanı yöntemidir. Kardiyolojide en sık kullanılan tetkiklerden biridir.
 
 ## EKG Nedir?
 

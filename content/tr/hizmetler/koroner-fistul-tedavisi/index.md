@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-Koroner fistül tedavisi, koroner arter ile kalp boşlukları veya büyük damarlar arasındaki anormal bağlantının kapatılmasını içerir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, koroner fistül tanı ve tedavisinde geniş deneyime sahiptir.
+Koroner fistül tedavisi, koroner arter ile kalp boşlukları veya büyük damarlar arasındaki anormal bağlantının kapatılmasını içerir.
 
 ## Koroner Fistül Nedir?
 

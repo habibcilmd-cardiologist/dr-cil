@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the regulations of the Republic of Turkey Ministry of Health and medical ethical rules, for the purpose of protecting public health and providing information. It does not contain any diagnosis, treatment guarantee, or guidance. Please consult an authorized healthcare facility for the most accurate information.
 {{< /alert >}}
 
-Chronic DVT treatment encompasses opening long-standing deep vein occlusions and managing post-thrombotic syndrome. Cardiology specialist Assoc. Prof. Habib Çil has extensive experience in interventional treatment of chronic venous diseases.
+Chronic DVT treatment encompasses opening long-standing deep vein occlusions and managing post-thrombotic syndrome.
 
 ## What is Chronic DVT?
 

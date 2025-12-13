@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Koroner anjiyografi, kalp damarlarının (koroner arterler) röntgen ışınları ve kontrast madde kullanılarak görüntülenmesidir. Bu işlem, koroner arter hastalığının tanısında altın standart olarak kabul edilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, koroner anjiyografi işleminde geniş deneyime sahiptir.
+Koroner anjiyografi, kalp damarlarının (koroner arterler) röntgen ışınları ve kontrast madde kullanılarak görüntülenmesidir. Bu işlem, koroner arter hastalığının tanısında altın standart olarak kabul edilir.
 
 ## Koroner Anjiyografi Nedir?
 

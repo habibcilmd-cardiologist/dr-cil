@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Renal arter stenozu, böbreği besleyen arterin daralmasıdır. Hipertansiyon ve böbrek yetmezliğine yol açabilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, renal arter stenozu tanı ve tedavisinde geniş deneyime sahiptir.
+Renal arter stenozu, böbreği besleyen arterin daralmasıdır. Hipertansiyon ve böbrek yetmezliğine yol açabilir.
 
 ## Renal Arter Stenozu Nedir?
 

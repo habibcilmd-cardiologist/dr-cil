@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Tilt testi (eğik masa testi), açıklanamayan bayılma (senkop) ataklarının nedenini araştırmak için kullanılan tanısal bir testtir. Vazovagal senkop tanısında altın standart yöntemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, tilt testi değerlendirmesinde geniş deneyime sahiptir.
+Tilt testi (eğik masa testi), açıklanamayan bayılma (senkop) ataklarının nedenini araştırmak için kullanılan tanısal bir testtir. Vazovagal senkop tanısında altın standart yöntemdir.
 
 ## Tilt Testi Nedir?
 

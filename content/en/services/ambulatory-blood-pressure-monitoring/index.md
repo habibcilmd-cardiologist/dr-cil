@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Ambulatory Blood Pressure Monitoring (ABPM) is the continuous measurement of blood pressure over 24 hours. It is the gold standard method for diagnosing hypertension and monitoring treatment. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in ABPM evaluation.
+Ambulatory Blood Pressure Monitoring (ABPM) is the continuous measurement of blood pressure over 24 hours. It is the gold standard method for diagnosing hypertension and monitoring treatment.
 
 ## What is Ambulatory Blood Pressure Monitoring?
 

@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-An implantable cardioverter defibrillator (ICD) is an advanced electronic device that detects and treats life-threatening heart rhythm disorders. ICD is the most effective treatment method for preventing sudden cardiac death. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in ICD implantation and uses the most current technologies to protect patients' lives.
+An implantable cardioverter defibrillator (ICD) is an advanced electronic device that detects and treats life-threatening heart rhythm disorders. ICD is the most effective treatment method for preventing sudden cardiac death.
 
 ## What is an ICD?
 

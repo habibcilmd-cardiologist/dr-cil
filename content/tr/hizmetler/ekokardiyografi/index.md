@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Ekokardiyografi, ultrason dalgaları kullanarak kalbin yapısını ve fonksiyonunu değerlendiren non-invaziv bir görüntüleme yöntemidir. Kardiyolojide en değerli tanı araçlarından biridir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, ekokardiyografi yorumlamasında geniş deneyime sahiptir ve binlerce EKO değerlendirmesi yapmıştır.
+Ekokardiyografi, ultrason dalgaları kullanarak kalbin yapısını ve fonksiyonunu değerlendiren non-invaziv bir görüntüleme yöntemidir. Kardiyolojide en değerli tanı araçlarından biridir.
 
 ## Ekokardiyografi Nedir?
 

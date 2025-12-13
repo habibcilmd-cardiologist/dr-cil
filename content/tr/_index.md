@@ -1,6 +1,6 @@
 ---
 title: "İstanbul Kardiyolog | Doç. Dr. Habib ÇİL"
-description: "Doç. Dr. Habib ÇİL - İstanbul'da Kardiyoloji Uzmanı. Koroner anjiyoplasti, TAVI, kalp pili, ekokardiyografi ve girişimsel kardiyoloji konularında 25+ yıllık deneyim."
+description: "Doç. Dr. Habib ÇİL - İstanbul'da Kardiyoloji Uzmanı. Koroner anjiyoplasti, TAVI, kalp pili, ekokardiyografi ve girişimsel kardiyoloji."
 layout: "profile"
 translationKey: "home"
 keywords:

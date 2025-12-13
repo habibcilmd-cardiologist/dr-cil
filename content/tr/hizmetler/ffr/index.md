@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-FFR (Fraksiyonel Akım Rezervi), koroner arter darlıklarının fonksiyonel önemini değerlendiren ileri tanısal yöntemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, FFR kılavuzluğunda girişimsel kardiyoloji uygulamalarında uzmanlaşmıştır.
+FFR (Fraksiyonel Akım Rezervi), koroner arter darlıklarının fonksiyonel önemini değerlendiren ileri tanısal yöntemdir.
 
 ## FFR Nedir?
 

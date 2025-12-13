@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-TAVI (Transkateter Aort Kapak İmplantasyonu), ciddi aort darlığı olan hastalarda açık kalp ameliyatı yapılmadan, kateter yoluyla yeni bir aort kapağı yerleştirilmesi işlemidir. Bu devrim niteliğindeki tedavi, özellikle cerrahi riski yüksek yaşlı hastalarda hayat kurtarıcı bir seçenek sunmaktadır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, yüzlerce başarılı TAVI işlemi gerçekleştirmiş olup bu alanda Türkiye'nin önde gelen uzmanlarından biridir.
+TAVI (Transkateter Aort Kapak İmplantasyonu), ciddi aort darlığı olan hastalarda açık kalp ameliyatı yapılmadan, kateter yoluyla yeni bir aort kapağı yerleştirilmesi işlemidir. Bu devrim niteliğindeki tedavi, özellikle cerrahi riski yüksek yaşlı hastalarda hayat kurtarıcı bir seçenek sunmaktadır.
 
 ## TAVI Nedir?
 
@@ -192,18 +192,6 @@ Klinik çalışmalar TAVI'nin etkinliğini kanıtlamıştır:
 -   **5 yıllık sağkalım**: %50-60 (yüksek riskli hastalarda)
 -   **Semptom iyileşmesi**: Hastaların %90'ından fazlasında
 -   **Yaşam kalitesi**: Belirgin artış
-
-## Uzman Yaklaşımı
-
-TAVI gibi kompleks girişimsel işlemlerde deneyim kritik öneme sahiptir. Yüzlerce TAVI işlemi gerçekleştirmiş bir uzman olarak, hastalarıma en güncel teknolojileri ve teknikleri sunuyorum.
-
-**TAVI Deneyimimiz:**
-
--   Yüksek başarı oranı
--   Düşük komplikasyon oranı
--   Multidisipliner kalp takımı yaklaşımı
--   Kapsamlı hasta değerlendirmesi
--   Uzun dönem takip
 
 ## Sık Sorulan Sorular
 

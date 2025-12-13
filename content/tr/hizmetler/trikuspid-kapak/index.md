@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Triküspit kapak hastalığı, sağ atriyum ile sağ ventrikül arasındaki kapağın işlev bozukluğudur. En sık triküspit yetersizliği görülür. Kardiyoloji uzmanı Doç. Dr. Habib Çil, triküspit kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
+Triküspit kapak hastalığı, sağ atriyum ile sağ ventrikül arasındaki kapağın işlev bozukluğudur. En sık triküspit yetersizliği görülür.
 
 ## Triküspit Kapak Hastalığı Nedir?
 

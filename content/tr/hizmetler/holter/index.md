@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Holter monitörizasyonu, kalbin elektriksel aktivitesinin 24-48 saat veya daha uzun süre sürekli olarak kaydedilmesidir. Aralıklı ritim bozukluklarının tespitinde altın standart yöntemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, Holter değerlendirmesinde geniş deneyime sahiptir.
+Holter monitörizasyonu, kalbin elektriksel aktivitesinin 24-48 saat veya daha uzun süre sürekli olarak kaydedilmesidir. Aralıklı ritim bozukluklarının tespitinde altın standart yöntemdir.
 
 ## Holter Monitörizasyonu Nedir?
 

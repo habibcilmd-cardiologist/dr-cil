@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Carotid artery stenosis is the narrowing of the main vessels that supply the brain and is one of the most important causes of stroke. Approximately 200,000 stroke cases occur in Turkey each year, a significant portion of which are related to carotid disease. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in carotid stenting and offers modern treatment methods to reduce stroke risk.
+Carotid artery stenosis is the narrowing of the main vessels that supply the brain and is one of the most important causes of stroke. Approximately 200,000 stroke cases occur in Turkey each year, a significant portion of which are related to carotid disease.
 
 ## What is Carotid Artery Stenosis?
 

@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Kalıcı kalp pili (pacemaker), kalbin yavaş atmasını (bradikardi) veya iletim bozukluklarını tedavi etmek için kullanılan küçük bir elektronik cihazdır. Göğüs cildinin altına yerleştirilen bu cihaz, kalbin düzenli atmasını sağlar. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, kalp pili implantasyonunda geniş deneyime sahip olup en güncel teknolojileri kullanmaktadır.
+Kalıcı kalp pili (pacemaker), kalbin yavaş atmasını (bradikardi) veya iletim bozukluklarını tedavi etmek için kullanılan küçük bir elektronik cihazdır. Göğüs cildinin altına yerleştirilen bu cihaz, kalbin düzenli atmasını sağlar.
 
 ## Kalp Pili Nedir?
 

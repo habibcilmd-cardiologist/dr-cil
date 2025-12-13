@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-Bifurkasyon girişimleri, koroner arterlerin dallanma bölgelerinde oluşan kompleks lezyonların tedavisinde uygulanan ileri düzey perkütan koroner girişim (PCI) tekniklerini içerir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, bifurkasyon lezyonlarının tanı ve tedavisinde geniş deneyime sahiptir.
+Bifurkasyon girişimleri, koroner arterlerin dallanma bölgelerinde oluşan kompleks lezyonların tedavisinde uygulanan ileri düzey perkütan koroner girişim (PCI) tekniklerini içerir.
 
 ## Bifurkasyon Lezyonu Nedir?
 

@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Geçici kalp pili, acil durumlarda veya kalıcı pacemaker takılana kadar kalp ritmini desteklemek için kullanılan bir cihazdır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, geçici pacing işlemlerinde geniş deneyime sahiptir.
+Geçici kalp pili, acil durumlarda veya kalıcı pacemaker takılana kadar kalp ritmini desteklemek için kullanılan bir cihazdır.
 
 ## Geçici Kalp Pili Nedir?
 

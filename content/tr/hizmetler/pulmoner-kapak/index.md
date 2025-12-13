@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Pulmoner kapak hastalığı, sağ ventrikül ile pulmoner arter arasındaki kapağın işlev bozukluğudur. Pulmoner darlık ve pulmoner yetersizlik olmak üzere iki ana formu vardır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, pulmoner kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
+Pulmoner kapak hastalığı, sağ ventrikül ile pulmoner arter arasındaki kapağın işlev bozukluğudur. Pulmoner darlık ve pulmoner yetersizlik olmak üzere iki ana formu vardır.
 
 ## Pulmoner Kapak Hastalığı Nedir?
 

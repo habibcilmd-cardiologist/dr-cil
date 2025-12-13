@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Miyokard perfüzyon sintigrafisi (MPS), kalp kasına olan kan akımını değerlendiren nükleer tıp görüntüleme yöntemidir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, MPS sonuçlarının yorumlanmasında geniş deneyime sahiptir.
+Miyokard perfüzyon sintigrafisi (MPS), kalp kasına olan kan akımını değerlendiren nükleer tıp görüntüleme yöntemidir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir.
 
 ## Miyokard Perfüzyon Sintigrafisi Nedir?
 

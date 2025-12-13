@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Alcohol septal ablation (ASA) is a minimally invasive interventional procedure used in the treatment of hypertrophic obstructive cardiomyopathy (HOCM). In this procedure, alcohol is injected into the thickened septal muscle to create controlled damage and reduce left ventricular outflow tract obstruction. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in this specialized procedure.
+Alcohol septal ablation (ASA) is a minimally invasive interventional procedure used in the treatment of hypertrophic obstructive cardiomyopathy (HOCM). In this procedure, alcohol is injected into the thickened septal muscle to create controlled damage and reduce left ventricular outflow tract obstruction.
 
 ## What is Hypertrophic Cardiomyopathy?
 

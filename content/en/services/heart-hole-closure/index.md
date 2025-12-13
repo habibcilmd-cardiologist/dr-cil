@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the regulations of the Republic of Turkey Ministry of Health and medical ethics rules, for the purpose of protecting and informing public health. It does not contain any diagnosis, treatment guarantee, or medical advice. Please consult an authorized healthcare facility for accurate information.
 {{< /alert >}}
 
-Heart hole closure involves catheter-based treatment of congenital heart defects. Cardiology specialist Assoc. Prof. Habib Çil has extensive experience in interventional treatment of structural heart diseases.
+Heart hole closure involves catheter-based treatment of congenital heart defects.
 
 ## What is a Heart Hole?
 

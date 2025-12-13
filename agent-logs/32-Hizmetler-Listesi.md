@@ -22,7 +22,7 @@
 | 9 | IVUS | Damar içi ultrason görüntüleme |
 | 10 | FFR | Fraksiyonel akım rezervi ölçümü |
 | 11 | Koroner Anjiyoplasti ve Stentleme | Balon ve stent uygulamaları |
-| 12 | Miyokard Enfarktüsü | Kalp Krizi - Acil müdahale ve tedavi |
+| 12 | Miyokard Enfarktüsü Tedavisi | Kalp Krizi - Acil müdahale ve tedavi |
 
 ### 💚 Periferik Girişimler
 

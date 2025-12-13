@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Stress echocardiography is an echocardiographic evaluation performed while the heart is under stress from exercise or medication. It has high accuracy in diagnosing coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in stress echocardiography evaluation.
+Stress echocardiography is an echocardiographic evaluation performed while the heart is under stress from exercise or medication. It has high accuracy in diagnosing coronary artery disease.
 
 ## What is Stress Echocardiography?
 

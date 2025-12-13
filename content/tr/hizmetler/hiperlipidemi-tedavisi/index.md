@@ -42,7 +42,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 Bu sayfa, hiperlipidemi (yüksek kolesterol) tanısı, riskleri ve tedavi yöntemleri hakkında kapsamlı bilgi sağlamak amacıyla hazırlanmıştır. Kalp ve damar sağlığınızı korumak için en güncel tıbbi yaklaşımları içermektedir.
 {{< /alert >}}
 
-Hiperlipidemi, kanda **kolesterol** ve **trigliserid** gibi yağların (lipidlerin) normalin üzerinde bulunması durumudur. Halk arasında "yüksek kolesterol" olarak bilinen bu tablo, modern çağın en yaygın sağlık sorunlarından biridir ve kalp-damar hastalıklarının temel nedenleri arasında yer alır. Kardiyoloji Uzmanı Doç. Dr. Habib ÇİL, İstanbul'daki kliniğinde hiperlipidemi tedavisi ve kardiyovasküler risk yönetimi konusunda 25 yılı aşkın deneyimiyle hizmet vermektedir.
+Hiperlipidemi, kanda **kolesterol** ve **trigliserid** gibi yağların (lipidlerin) normalin üzerinde bulunması durumudur. Halk arasında "yüksek kolesterol" olarak bilinen bu tablo, modern çağın en yaygın sağlık sorunlarından biridir ve kalp-damar hastalıklarının temel nedenleri arasında yer alır.
 
 ## Hiperlipidemi Nedir?
 

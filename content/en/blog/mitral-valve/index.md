@@ -32,7 +32,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Mitral valve disease is dysfunction of the valve between the left atrium and left ventricle. It has two main forms: mitral stenosis and mitral regurgitation. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating mitral valve diseases.
+Mitral valve disease is dysfunction of the valve between the left atrium and left ventricle. It has two main forms: mitral stenosis and mitral regurgitation.
 
 ## What is Mitral Valve Disease?
 

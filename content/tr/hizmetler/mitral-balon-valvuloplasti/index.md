@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-Mitral balon valvüloplasti (PMBV - Percutaneous Mitral Balloon Valvuloplasty), mitral kapak darlığının kateter yoluyla tedavi edilmesidir. Özellikle romatizmal mitral darlığında etkili olan bu yöntem, açık kalp ameliyatına alternatif minimal invaziv bir tedavidir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, mitral balon valvüloplasti işleminde geniş deneyime sahiptir.
+Mitral balon valvüloplasti (PMBV - Percutaneous Mitral Balloon Valvuloplasty), mitral kapak darlığının kateter yoluyla tedavi edilmesidir. Özellikle romatizmal mitral darlığında etkili olan bu yöntem, açık kalp ameliyatına alternatif minimal invaziv bir tedavidir.
 
 ## Mitral Kapak Darlığı Nedir?
 

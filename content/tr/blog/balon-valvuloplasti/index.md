@@ -32,7 +32,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Balon valvüloplasti, daralmış kalp kapağının balon kateter kullanılarak genişletilmesi işlemidir. Özellikle mitral ve pulmoner kapak darlıklarında etkili bir tedavi yöntemidir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, balon valvüloplasti işleminde geniş deneyime sahiptir.
+Balon valvüloplasti, daralmış kalp kapağının balon kateter kullanılarak genişletilmesi işlemidir. Özellikle mitral ve pulmoner kapak darlıklarında etkili bir tedavi yöntemidir.
 
 ## Balon Valvüloplasti Nedir?
 

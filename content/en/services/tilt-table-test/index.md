@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Tilt table test (head-up tilt test) is a diagnostic test used to investigate the cause of unexplained fainting (syncope) episodes. It is the gold standard method for diagnosing vasovagal syncope. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in tilt test evaluation.
+Tilt table test (head-up tilt test) is a diagnostic test used to investigate the cause of unexplained fainting (syncope) episodes. It is the gold standard method for diagnosing vasovagal syncope.
 
 ## What is a Tilt Table Test?
 

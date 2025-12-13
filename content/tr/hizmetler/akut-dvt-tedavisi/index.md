@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-Akut DVT tedavisi, bacak derin venlerinde yeni oluşan pıhtıların eritilmesi ve komplikasyonların önlenmesi için uygulanan girişimsel işlemleri kapsar. Kardiyoloji uzmanı Doç. Dr. Habib Çil, akut DVT'nin girişimsel tedavisinde geniş deneyime sahiptir.
+Akut DVT tedavisi, bacak derin venlerinde yeni oluşan pıhtıların eritilmesi ve komplikasyonların önlenmesi için uygulanan girişimsel işlemleri kapsar.
 
 ## Akut DVT Nedir?
 

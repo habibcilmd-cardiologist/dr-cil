@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Renal artery stenosis is narrowing of the artery that supplies the kidney. It can lead to hypertension and kidney failure. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating renal artery stenosis.
+Renal artery stenosis is narrowing of the artery that supplies the kidney. It can lead to hypertension and kidney failure.
 
 ## What is Renal Artery Stenosis?
 

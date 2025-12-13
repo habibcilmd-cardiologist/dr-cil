@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Radial angiography is coronary angiography performed through the wrist (radial artery). It has many advantages over traditional groin (femoral) access. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in radial angiography procedures.
+Radial angiography is coronary angiography performed through the wrist (radial artery). It has many advantages over traditional groin (femoral) access.
 
 ## What is Radial Angiography?
 

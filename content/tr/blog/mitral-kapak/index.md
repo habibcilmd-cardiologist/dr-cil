@@ -32,7 +32,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Mitral kapak hastalığı, sol atriyum ile sol ventrikül arasındaki kapağın işlev bozukluğudur. Mitral darlığı ve mitral yetersizliği olmak üzere iki ana formu vardır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, mitral kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
+Mitral kapak hastalığı, sol atriyum ile sol ventrikül arasındaki kapağın işlev bozukluğudur. Mitral darlığı ve mitral yetersizliği olmak üzere iki ana formu vardır.
 
 ## Mitral Kapak Hastalığı Nedir?
 

@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-Varikosel ve pelvik konjesyon sendromu tedavisi, genişlemiş pelvik ve gonadal venlerin girişimsel yöntemlerle kapatılmasını kapsar. Kardiyoloji uzmanı Doç. Dr. Habib Çil, venöz embolizasyon işlemlerinde geniş deneyime sahiptir.
+Varikosel ve pelvik konjesyon sendromu tedavisi, genişlemiş pelvik ve gonadal venlerin girişimsel yöntemlerle kapatılmasını kapsar.
 
 ## Varikosel Nedir?
 

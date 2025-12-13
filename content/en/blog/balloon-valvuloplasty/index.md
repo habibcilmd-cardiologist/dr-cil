@@ -32,7 +32,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Balloon valvuloplasty is a procedure to dilate a narrowed heart valve using a balloon catheter. It is an effective treatment method especially for mitral and pulmonary valve stenosis. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in balloon valvuloplasty procedures.
+Balloon valvuloplasty is a procedure to dilate a narrowed heart valve using a balloon catheter. It is an effective treatment method especially for mitral and pulmonary valve stenosis.
 
 ## What is Balloon Valvuloplasty?
 

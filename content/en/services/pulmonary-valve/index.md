@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Pulmonary valve disease is dysfunction of the valve between the right ventricle and pulmonary artery. It has two main forms: pulmonary stenosis and pulmonary regurgitation. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating pulmonary valve diseases.
+Pulmonary valve disease is dysfunction of the valve between the right ventricle and pulmonary artery. It has two main forms: pulmonary stenosis and pulmonary regurgitation.
 
 ## What is Pulmonary Valve Disease?
 

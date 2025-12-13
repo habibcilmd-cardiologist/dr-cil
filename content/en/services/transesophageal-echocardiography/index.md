@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Transesophageal echocardiography (TEE) is detailed imaging of the heart through the esophagus. It provides higher resolution images than standard echocardiography (TTE). Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in TEE evaluation.
+Transesophageal echocardiography (TEE) is detailed imaging of the heart through the esophagus. It provides higher resolution images than standard echocardiography (TTE).
 
 ## What is Transesophageal Echocardiography?
 

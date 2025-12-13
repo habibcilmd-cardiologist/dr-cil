@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the regulations of the Republic of Turkey Ministry of Health and medical ethical rules, for the purpose of protecting public health and providing information. It does not contain any diagnosis, treatment guarantee, or guidance. Please consult an authorized healthcare facility for the most accurate information.
 {{< /alert >}}
 
-Acute DVT treatment encompasses interventional procedures to dissolve newly formed clots in leg deep veins and prevent complications. Cardiology specialist Assoc. Prof. Habib Çil has extensive experience in interventional treatment of acute DVT.
+Acute DVT treatment encompasses interventional procedures to dissolve newly formed clots in leg deep veins and prevent complications.
 
 ## What is Acute DVT?
 

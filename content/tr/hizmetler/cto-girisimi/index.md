@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Kronik total oklüzyon (CTO), koroner arterin en az 3 aydır tamamen tıkalı olması durumudur. CTO girişimi, bu tıkalı damarların özel tekniklerle açılmasını sağlayan ileri düzey bir kardiyolojik işlemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, CTO alanında uzmanlaşmış deneyimli bir operatör olarak daha önce "açılamaz" denilen birçok vakayı başarıyla tedavi etmiştir.
+Kronik total oklüzyon (CTO), koroner arterin en az 3 aydır tamamen tıkalı olması durumudur. CTO girişimi, bu tıkalı damarların özel tekniklerle açılmasını sağlayan ileri düzey bir kardiyolojik işlemdir.
 
 ## CTO Nedir?
 
@@ -197,18 +197,6 @@ Başarılı CTO girişimi sonrası:
 -   Sol ventrikül fonksiyonunda düzelme
 -   Aritmilerde azalma
 -   Sağkalım avantajı (bazı çalışmalarda)
-
-## Uzman Yaklaşımı
-
-CTO girişimi, girişimsel kardiyolojinin en zorlu alanlarından biridir. Bu alanda uzmanlaşmış bir operatör olarak, en kompleks vakaları bile başarıyla tedavi ediyorum.
-
-**CTO Deneyimimiz:**
-
--   Yüksek başarı oranı (>%85)
--   Hibrit yaklaşım uzmanlığı
--   Retrograd teknik deneyimi
--   Düşük komplikasyon oranı
--   Kapsamlı ekipman
 
 ## Sık Sorulan Sorular
 

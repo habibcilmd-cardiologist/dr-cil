@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Peripheral artery disease (PAD) is the narrowing or blockage of arteries outside the heart and brain due to atherosclerosis. This disease, which most commonly affects leg arteries, can lead to serious consequences from walking difficulty to gangrene. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in peripheral vascular interventions and improves patients' quality of life with modern techniques.
+Peripheral artery disease (PAD) is the narrowing or blockage of arteries outside the heart and brain due to atherosclerosis. This disease, which most commonly affects leg arteries, can lead to serious consequences from walking difficulty to gangrene.
 
 ## What is Peripheral Artery Disease?
 

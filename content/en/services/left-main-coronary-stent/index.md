@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-The left main coronary artery (LMCA) is the main vessel that supplies the left side of the heart and feeds approximately 75% of the heart muscle. Disease in this critical vessel can be treated with bypass surgery or stenting. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in left main coronary stenting and offers minimally invasive treatment in appropriate patients.
+The left main coronary artery (LMCA) is the main vessel that supplies the left side of the heart and feeds approximately 75% of the heart muscle. Disease in this critical vessel can be treated with bypass surgery or stenting.
 
 ## What is the Left Main Coronary Artery?
 

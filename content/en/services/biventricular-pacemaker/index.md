@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-A biventricular pacemaker is a special device that improves heart function by stimulating both ventricles synchronously in heart failure patients. It is also known as cardiac resynchronization therapy (CRT). Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in biventricular pacemaker implantation.
+A biventricular pacemaker is a special device that improves heart function by stimulating both ventricles synchronously in heart failure patients. It is also known as cardiac resynchronization therapy (CRT).
 
 ## What is a Biventricular Pacemaker?
 

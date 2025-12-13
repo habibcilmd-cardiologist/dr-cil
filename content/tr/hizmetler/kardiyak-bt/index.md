@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Kardiyak BT (Bilgisayarlı Tomografi), kalp ve koroner arterlerin non-invaziv olarak görüntülenmesidir. Koroner arter hastalığının taranmasında ve değerlendirilmesinde önemli bir yere sahiptir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, kardiyak BT sonuçlarının yorumlanmasında geniş deneyime sahiptir.
+Kardiyak BT (Bilgisayarlı Tomografi), kalp ve koroner arterlerin non-invaziv olarak görüntülenmesidir. Koroner arter hastalığının taranmasında ve değerlendirilmesinde önemli bir yere sahiptir.
 
 ## Kardiyak BT Nedir?
 

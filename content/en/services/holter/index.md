@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Holter monitoring is the continuous recording of the heart's electrical activity for 24-48 hours or longer. It is the gold standard method for detecting intermittent rhythm disorders. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in Holter evaluation.
+Holter monitoring is the continuous recording of the heart's electrical activity for 24-48 hours or longer. It is the gold standard method for detecting intermittent rhythm disorders.
 
 ## What is Holter Monitoring?
 

@@ -32,7 +32,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-EVAR (Endovascular Aneurysm Repair) and TEVAR (Thoracic Endovascular Aortic Repair) are catheter-based treatments of aortic aneurysms and dissections. They are minimally invasive alternatives to open surgery. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in both procedures.
+EVAR (Endovascular Aneurysm Repair) and TEVAR (Thoracic Endovascular Aortic Repair) are catheter-based treatments of aortic aneurysms and dissections. They are minimally invasive alternatives to open surgery.
 
 ## What are EVAR and TEVAR?
 

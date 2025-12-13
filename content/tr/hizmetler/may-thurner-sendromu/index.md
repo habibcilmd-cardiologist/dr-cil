@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-May-Thurner sendromu tedavisi, sol iliak venin kompresyonunun stentleme ile giderilmesini kapsar. Kardiyoloji uzmanı Doç. Dr. Habib Çil, iliak ven stentleme işlemlerinde geniş deneyime sahiptir.
+May-Thurner sendromu tedavisi, sol iliak venin kompresyonunun stentleme ile giderilmesini kapsar.
 
 ## May-Thurner Sendromu Nedir?
 

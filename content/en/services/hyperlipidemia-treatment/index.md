@@ -42,7 +42,7 @@ This content has been prepared for informational purposes to protect public heal
 This page has been prepared to provide comprehensive information about hyperlipidemia (high cholesterol) diagnosis, risks, and treatment methods. It includes the most up-to-date medical approaches to protect your cardiovascular health.
 {{< /alert >}}
 
-Hyperlipidemia is the condition where blood fats (lipids) such as **cholesterol** and **triglycerides** are above normal levels. Known commonly as "high cholesterol," this condition is one of the most common health problems of the modern age and is among the primary causes of cardiovascular diseases. Cardiology Specialist Assoc. Prof. Dr. Habib ÇİL provides services in hyperlipidemia treatment and cardiovascular risk management in Istanbul with over 25 years of experience.
+Hyperlipidemia is the condition where blood fats (lipids) such as **cholesterol** and **triglycerides** are above normal levels. Known commonly as "high cholesterol," this condition is one of the most common health problems of the modern age and is among the primary causes of cardiovascular diseases.
 
 ## What is Hyperlipidemia?
 

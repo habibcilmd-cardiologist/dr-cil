@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Chronic total occlusion (CTO) is a condition where a coronary artery has been completely blocked for at least 3 months. CTO intervention is an advanced cardiological procedure that enables opening of these blocked vessels using special techniques. Interventional cardiologist Assoc. Prof. Dr. Habib Çil, as an experienced operator specialized in CTO, has successfully treated many cases previously deemed "unopenable."
+Chronic total occlusion (CTO) is a condition where a coronary artery has been completely blocked for at least 3 months. CTO intervention is an advanced cardiological procedure that enables opening of these blocked vessels using special techniques.
 
 ## What is CTO?
 
@@ -197,18 +197,6 @@ After successful CTO intervention:
 -   Improvement in left ventricular function
 -   Decrease in arrhythmias
 -   Survival advantage (in some studies)
-
-## Expert Approach
-
-CTO intervention is one of the most challenging areas of interventional cardiology. As an operator specialized in this field, I successfully treat even the most complex cases.
-
-**Our CTO Experience:**
-
--   High success rate (>85%)
--   Hybrid approach expertise
--   Retrograde technique experience
--   Low complication rate
--   Comprehensive equipment
 
 ## Frequently Asked Questions
 

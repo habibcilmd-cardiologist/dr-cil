@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Sol ana koroner arter (LMCA), kalbin sol tarafını besleyen ana damardır ve kalp kasının yaklaşık %75'ini besler. Bu kritik damardaki hastalık, bypass cerrahisi veya stentleme ile tedavi edilebilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, sol ana koroner stentleme konusunda geniş deneyime sahip olup uygun hastalarda minimal invaziv tedavi sunmaktadır.
+Sol ana koroner arter (LMCA), kalbin sol tarafını besleyen ana damardır ve kalp kasının yaklaşık %75'ini besler. Bu kritik damardaki hastalık, bypass cerrahisi veya stentleme ile tedavi edilebilir.
 
 ## Sol Ana Koroner Arter Nedir?
 

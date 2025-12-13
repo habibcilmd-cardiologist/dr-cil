@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the Republic of Turkey Ministry of Health regulations and medical ethics rules, for the purpose of protecting public health and providing information. It does not contain any diagnosis, treatment guarantee, or referral. Please consult an authorized healthcare facility for the most accurate information.
 {{< /alert >}}
 
-Below-knee arterial occlusion (infrapopliteal artery disease) is the narrowing or blockage of the tibial arteries below the knee due to atherosclerosis. It is particularly common in diabetic patients and is one of the most important causes of critical limb ischemia. Cardiology specialist Assoc. Prof. Dr. Habib Çil has specialized experience in interventional treatment of below-knee vascular diseases.
+Below-knee arterial occlusion (infrapopliteal artery disease) is the narrowing or blockage of the tibial arteries below the knee due to atherosclerosis. It is particularly common in diabetic patients and is one of the most important causes of critical limb ischemia.
 
 ## Infrapopliteal Artery Anatomy
 

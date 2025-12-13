@@ -218,18 +218,6 @@ Kalp yetmezliği kronik bir hastalıktır ve düzenli takip gerektirir. Takip s�
 -   NYHA III: 1-3 ayda bir kontrol
 -   NYHA IV: Sık hastane yatışları gerekebilir
 
-## Uzman Yaklaşımı
-
-Kalp yetmezliği yönetiminde kapsamlı deneyime sahibim. Hastalarıma en güncel tedavi protokollerini uygularken, bireysel ihtiyaçlarını da göz önünde bulunduruyorum.
-
-**Sunduğumuz Hizmetler:**
-
--   Kapsamlı tanı değerlendirmesi
--   Kişiselleştirilmiş ilaç tedavisi
--   Cihaz tedavisi implantasyonu
--   Kardiyak rehabilitasyon koordinasyonu
--   İleri tedavi seçenekleri için yönlendirme
-
 ## Sık Sorulan Sorular
 
 {{< faq-list >}}

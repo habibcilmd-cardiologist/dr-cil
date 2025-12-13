@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Efor testi, kalbin egzersiz sırasındaki performansını değerlendiren önemli bir tanı yöntemidir. Koroner arter hastalığının tespitinde yaygın olarak kullanılır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, efor testi değerlendirmesinde geniş deneyime sahiptir.
+Efor testi, kalbin egzersiz sırasındaki performansını değerlendiren önemli bir tanı yöntemidir. Koroner arter hastalığının tespitinde yaygın olarak kullanılır.
 
 ## Efor Testi Nedir?
 

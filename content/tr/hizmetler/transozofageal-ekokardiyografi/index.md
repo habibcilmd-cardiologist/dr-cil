@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Transözofageal ekokardiyografi (TÖE), yemek borusu (özofagus) yoluyla kalbin detaylı görüntülenmesidir. Standart ekokardiyografiden (TTE) daha yüksek çözünürlüklü görüntüler sağlar. Kardiyoloji uzmanı Doç. Dr. Habib Çil, TÖE değerlendirmesinde geniş deneyime sahiptir.
+Transözofageal ekokardiyografi (TÖE), yemek borusu (özofagus) yoluyla kalbin detaylı görüntülenmesidir. Standart ekokardiyografiden (TTE) daha yüksek çözünürlüklü görüntüler sağlar.
 
 ## Transözofageal Ekokardiyografi Nedir?
 

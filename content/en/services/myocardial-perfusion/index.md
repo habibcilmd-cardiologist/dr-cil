@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Myocardial perfusion scintigraphy (MPS) is a nuclear medicine imaging method that evaluates blood flow to the heart muscle. It has high accuracy in diagnosing coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in interpreting MPS results.
+Myocardial perfusion scintigraphy (MPS) is a nuclear medicine imaging method that evaluates blood flow to the heart muscle. It has high accuracy in diagnosing coronary artery disease.
 
 ## What is Myocardial Perfusion Scintigraphy?
 

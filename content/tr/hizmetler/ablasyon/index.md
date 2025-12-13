@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Kateter ablasyon, kalp ritim bozukluklarının (aritmilerin) tedavisinde kullanılan minimal invaziv bir işlemdir. Bu işlemde, aritmiye neden olan anormal kalp dokusuna radyofrekans veya kriyoterapi uygulanarak kalıcı tedavi sağlanır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, aritmi ablasyonunda geniş deneyime sahip olup yüzlerce başarılı ablasyon işlemi gerçekleştirmiştir.
+Kateter ablasyon, kalp ritim bozukluklarının (aritmilerin) tedavisinde kullanılan minimal invaziv bir işlemdir. Bu işlemde, aritmiye neden olan anormal kalp dokusuna radyofrekans veya kriyoterapi uygulanarak kalıcı tedavi sağlanır.
 
 ## Kateter Ablasyon Nedir?
 

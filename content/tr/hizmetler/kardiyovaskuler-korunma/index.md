@@ -37,8 +37,6 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 
 Dünyada ve ülkemizde ölüm nedenleri arasında ne yazık ki ilk sırada **Kalp ve Damar Hastalıkları** yer almaktadır. Ancak sevindirici olan, bu hastalıkların büyük bir kısmının **önlenebilir** olmasıdır. **Kardiyovasküler Korunma (Preventif Kardiyoloji)**, hastalıklar gelişmeden önce risk faktörlerini tespit edip ortadan kaldırmayı veya hastalığı olan bireylerde yaşam süresini ve kalitesini artırmayı hedefleyen tıbbın en önemli alanlarından biridir.
 
-İstanbul'da Girişimsel Kardiyoloji alanında 25 yılı aşkın deneyime sahip olan Doç. Dr. Habib ÇİL, sadece hastalıkları tedavi etmeye değil, aynı zamanda hastalarının gelecekteki kalp sağlığını korumaya yönelik **Bireyselleştirilmiş Kardiyovasküler Risk Yönetimi** yaklaşımını benimsemektedir.
-
 ## Kardiyovasküler Korunma Nedir?
 
 Kardiyovasküler korunma, tek bir işlem veya ilaç değil, bir **yaşam felsefesi ve tıbbi yaklaşım bütünüdür**. İki ana başlıkta incelenir:

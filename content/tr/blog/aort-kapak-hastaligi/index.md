@@ -32,7 +32,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Aort kapak hastalığı, kalbin sol ventrikülü ile aort arasındaki kapağın işlev bozukluğudur. Aort darlığı (stenoz) ve aort yetersizliği (regürjitasyon) olmak üzere iki ana formu vardır. Kardiyoloji uzmanı Doç. Dr. Habib Çil, aort kapak hastalıklarının tanı ve tedavisinde geniş deneyime sahiptir.
+Aort kapak hastalığı, kalbin sol ventrikülü ile aort arasındaki kapağın işlev bozukluğudur. Aort darlığı (stenoz) ve aort yetersizliği (regürjitasyon) olmak üzere iki ana formu vardır.
 
 ## Aort Kapak Hastalığı Nedir?
 

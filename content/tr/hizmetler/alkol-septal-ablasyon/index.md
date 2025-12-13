@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Alkol septal ablasyon (ASA), hipertrofik obstrüktif kardiyomiyopati (HOKM) tedavisinde kullanılan minimal invaziv bir girişimsel işlemdir. Bu işlemde, kalın septum kasına alkol enjekte edilerek kontrollü bir hasar oluşturulur ve sol ventrikül çıkış yolu obstrüksiyonu azaltılır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, bu özel işlemde geniş deneyime sahiptir.
+Alkol septal ablasyon (ASA), hipertrofik obstrüktif kardiyomiyopati (HOKM) tedavisinde kullanılan minimal invaziv bir girişimsel işlemdir. Bu işlemde, kalın septum kasına alkol enjekte edilerek kontrollü bir hasar oluşturulur ve sol ventrikül çıkış yolu obstrüksiyonu azaltılır.
 
 ## Hipertrofik Kardiyomiyopati Nedir?
 

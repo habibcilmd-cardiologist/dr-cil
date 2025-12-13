@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Periferik arter hastalığı (PAH), kalp ve beyin dışındaki arterlerin ateroskleroz nedeniyle daralması veya tıkanmasıdır. En sık bacak arterlerini etkileyen bu hastalık, yürüme güçlüğünden gangrene kadar ciddi sonuçlara yol açabilir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, periferik damar girişimlerinde geniş deneyime sahip olup modern tekniklerle hastaların yaşam kalitesini artırmaktadır.
+Periferik arter hastalığı (PAH), kalp ve beyin dışındaki arterlerin ateroskleroz nedeniyle daralması veya tıkanmasıdır. En sık bacak arterlerini etkileyen bu hastalık, yürüme güçlüğünden gangrene kadar ciddi sonuçlara yol açabilir.
 
 ## Periferik Arter Hastalığı Nedir?
 

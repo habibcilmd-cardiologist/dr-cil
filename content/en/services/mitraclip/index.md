@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-MitraClip is catheter-based treatment of severe mitral regurgitation. It is a minimally invasive alternative to open heart surgery. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in MitraClip procedures.
+MitraClip is catheter-based treatment of severe mitral regurgitation. It is a minimally invasive alternative to open heart surgery.
 
 ## What is MitraClip?
 

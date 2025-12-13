@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-MitraClip, ciddi mitral yetersizliğinin kateter yoluyla tedavi edilmesidir. Açık kalp cerrahisine alternatif minimal invaziv bir yöntemdir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, MitraClip işleminde geniş deneyime sahiptir.
+MitraClip, ciddi mitral yetersizliğinin kateter yoluyla tedavi edilmesidir. Açık kalp cerrahisine alternatif minimal invaziv bir yöntemdir.
 
 ## MitraClip Nedir?
 

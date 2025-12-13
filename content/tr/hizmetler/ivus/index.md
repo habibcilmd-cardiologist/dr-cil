@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-IVUS (Intravasküler Ultrason), koroner arterlerin içinden ultrason dalgaları kullanılarak gerçekleştirilen ileri görüntüleme yöntemidir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, IVUS kılavuzluğunda girişimsel kardiyoloji uygulamalarında uzmanlaşmıştır.
+IVUS (Intravasküler Ultrason), koroner arterlerin içinden ultrason dalgaları kullanılarak gerçekleştirilen ileri görüntüleme yöntemidir.
 
 ## IVUS Nedir?
 

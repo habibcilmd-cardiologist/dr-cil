@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Elektrofizyolojik çalışma (EPS), kalbin elektriksel sistemini değerlendirmek için yapılan invaziv bir tanı işlemidir. Bu işlem, aritmilerin kaynağını belirlemek, risk değerlendirmesi yapmak ve tedavi planlamak için kullanılır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, elektrofizyolojik çalışmalarda geniş deneyime sahiptir.
+Elektrofizyolojik çalışma (EPS), kalbin elektriksel sistemini değerlendirmek için yapılan invaziv bir tanı işlemidir. Bu işlem, aritmilerin kaynağını belirlemek, risk değerlendirmesi yapmak ve tedavi planlamak için kullanılır.
 
 ## Elektrofizyolojik Çalışma Nedir?
 

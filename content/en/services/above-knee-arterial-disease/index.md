@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the Republic of Turkey Ministry of Health regulations and medical ethics rules, for the purpose of protecting public health and providing information. It does not contain any diagnosis, treatment guarantee, or referral. Please consult an authorized healthcare facility for the most accurate information.
 {{< /alert >}}
 
-Above-knee arterial occlusion is the narrowing or blockage of the femoropopliteal artery segment due to atherosclerosis. This area is the most common location for peripheral artery disease. Cardiology specialist Assoc. Prof. Dr. Habib Çil has extensive experience in interventional treatment of above-knee vascular diseases.
+Above-knee arterial occlusion is the narrowing or blockage of the femoropopliteal artery segment due to atherosclerosis. This area is the most common location for peripheral artery disease.
 
 ## Femoropopliteal Artery Anatomy
 

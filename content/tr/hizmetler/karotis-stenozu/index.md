@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Karotis arter stenozu, beyni besleyen ana damarların daralmasıdır ve inmenin en önemli nedenlerinden biridir. Türkiye'de her yıl yaklaşık 200.000 inme vakası görülmekte olup, bunların önemli bir kısmı karotis hastalığına bağlıdır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, karotis stentleme konusunda geniş deneyime sahip olup inme riskini azaltmak için modern tedavi yöntemleri sunmaktadır.
+Karotis arter stenozu, beyni besleyen ana damarların daralmasıdır ve inmenin en önemli nedenlerinden biridir. Türkiye'de her yıl yaklaşık 200.000 inme vakası görülmekte olup, bunların önemli bir kısmı karotis hastalığına bağlıdır.
 
 ## Karotis Arter Stenozu Nedir?
 

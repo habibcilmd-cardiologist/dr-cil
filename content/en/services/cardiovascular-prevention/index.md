@@ -42,8 +42,6 @@ This content is prepared for informational purposes to promote public health, in
 
 **Cardiovascular Diseases** unfortunately rank first among causes of death globally. However, the encouraging news is that a significant portion of these diseases is **preventable**. **Cardiovascular Prevention (Preventive Cardiology)** is one of the most important fields of medicine, aiming to identify and eliminate risk factors before diseases develop or to increase life expectancy and quality in individuals with established disease.
 
-Assoc. Prof. Dr. Habib ÇİL, with over 25 years of experience in Interventional Cardiology in Istanbul, adopts a **Personalized Cardiovascular Risk Management** approach, aiming not only to treat diseases but also to protect his patients' future heart health.
-
 ## What is Cardiovascular Prevention?
 
 Cardiovascular prevention is not a single procedure or medication, but a **holistic approach to lifestyle and medicine**. It is examined under two main headings:

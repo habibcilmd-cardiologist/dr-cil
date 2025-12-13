@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-Dizüstü damar tıkanıklığı, femoropopliteal arter segmentinin ateroskleroz nedeniyle daralması veya tıkanmasıdır. Bu bölge, periferik arter hastalığının en sık görüldüğü lokalizasyondur. Kardiyoloji uzmanı Doç. Dr. Habib Çil, dizüstü damar hastalıklarının girişimsel tedavisinde geniş deneyime sahiptir.
+Dizüstü damar tıkanıklığı, femoropopliteal arter segmentinin ateroskleroz nedeniyle daralması veya tıkanmasıdır. Bu bölge, periferik arter hastalığının en sık görüldüğü lokalizasyondur.
 
 ## Femoropopliteal Arter Anatomisi
 

@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the regulations of the Republic of Turkey Ministry of Health and medical ethical rules, for the purpose of protecting public health and providing information. It does not contain any diagnosis, treatment guarantee, or guidance. Please consult an authorized healthcare facility for the most accurate information.
 {{< /alert >}}
 
-FFR (Fractional Flow Reserve) is an advanced diagnostic method that evaluates the functional significance of coronary artery stenosis. Cardiology specialist Assoc. Prof. Habib Çil specializes in FFR-guided interventional cardiology procedures.
+FFR (Fractional Flow Reserve) is an advanced diagnostic method that evaluates the functional significance of coronary artery stenosis.
 
 ## What is FFR?
 

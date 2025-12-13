@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Stres ekokardiyografi, egzersiz veya ilaç ile kalp stres altındayken yapılan ekokardiyografik değerlendirmedir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, stres ekokardiyografi değerlendirmesinde geniş deneyime sahiptir.
+Stres ekokardiyografi, egzersiz veya ilaç ile kalp stres altındayken yapılan ekokardiyografik değerlendirmedir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir.
 
 ## Stres Ekokardiyografi Nedir?
 

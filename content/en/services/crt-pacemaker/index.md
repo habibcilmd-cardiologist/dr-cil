@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Cardiac resynchronization therapy (CRT) is an advanced treatment method that ensures synchronized heart function in heart failure patients. Also known as a three-chamber pacemaker, CRT improves pumping function by stimulating both ventricles of the heart simultaneously. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in CRT implantation.
+Cardiac resynchronization therapy (CRT) is an advanced treatment method that ensures synchronized heart function in heart failure patients. Also known as a three-chamber pacemaker, CRT improves pumping function by stimulating both ventricles of the heart simultaneously.
 
 ## What is CRT?
 

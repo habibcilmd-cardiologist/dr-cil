@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Transtorasik ekokardiyografi (TTE), kalbin yapısını ve fonksiyonlarını değerlendirmek için kullanılan non-invaziv ultrason görüntüleme yöntemidir. Kardiyolojide en sık kullanılan tanısal araçlardan biridir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, ekokardiyografik değerlendirmede geniş deneyime sahiptir.
+Transtorasik ekokardiyografi (TTE), kalbin yapısını ve fonksiyonlarını değerlendirmek için kullanılan non-invaziv ultrason görüntüleme yöntemidir. Kardiyolojide en sık kullanılan tanısal araçlardan biridir.
 
 ## Transtorasik Ekokardiyografi Nedir?
 

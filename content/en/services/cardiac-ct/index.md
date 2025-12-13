@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Cardiac CT (Computed Tomography) is non-invasive imaging of the heart and coronary arteries. It has an important place in screening and evaluating coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in interpreting cardiac CT results.
+Cardiac CT (Computed Tomography) is non-invasive imaging of the heart and coronary arteries. It has an important place in screening and evaluating coronary artery disease.
 
 ## What is Cardiac CT?
 

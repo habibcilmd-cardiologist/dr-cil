@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the regulations of the Republic of Turkey Ministry of Health and medical ethics rules, for the purpose of protecting and informing public health. It does not contain any diagnosis, treatment guarantee, or medical advice. Please consult an authorized healthcare facility for accurate information.
 {{< /alert >}}
 
-May-Thurner syndrome treatment involves relieving compression of the left iliac vein through stenting. Cardiology specialist Assoc. Prof. Habib Çil has extensive experience in iliac vein stenting procedures.
+May-Thurner syndrome treatment involves relieving compression of the left iliac vein through stenting.
 
 ## What is May-Thurner Syndrome?
 

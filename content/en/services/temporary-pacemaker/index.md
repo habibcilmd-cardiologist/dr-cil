@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-A temporary pacemaker is a device used to support heart rhythm in emergencies or until a permanent pacemaker is implanted. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in temporary pacing procedures.
+A temporary pacemaker is a device used to support heart rhythm in emergencies or until a permanent pacemaker is implanted.
 
 ## What is a Temporary Pacemaker?
 

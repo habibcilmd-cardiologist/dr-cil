@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Transthoracic echocardiography (TTE) is a non-invasive ultrasound imaging method used to evaluate the structure and function of the heart. It is one of the most commonly used diagnostic tools in cardiology. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in echocardiographic evaluation.
+Transthoracic echocardiography (TTE) is a non-invasive ultrasound imaging method used to evaluate the structure and function of the heart. It is one of the most commonly used diagnostic tools in cardiology.
 
 ## What is Transthoracic Echocardiography?
 

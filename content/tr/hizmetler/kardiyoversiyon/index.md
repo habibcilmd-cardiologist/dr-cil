@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Kardiyoversiyon, anormal kalp ritmini normal sinüs ritmine döndürmek için uygulanan bir tedavi yöntemidir. Elektriksel veya farmakolojik olarak yapılabilir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, kardiyoversiyon işleminde geniş deneyime sahiptir.
+Kardiyoversiyon, anormal kalp ritmini normal sinüs ritmine döndürmek için uygulanan bir tedavi yöntemidir. Elektriksel veya farmakolojik olarak yapılabilir.
 
 ## Kardiyoversiyon Nedir?
 

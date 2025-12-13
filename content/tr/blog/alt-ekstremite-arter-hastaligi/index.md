@@ -35,7 +35,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 
 
 {{< lead >}}
-Alt Ekstremite Arter Hastalığı (AEAH), halk arasında "bacak damar tıkanıklığı" olarak bilinir. Özellikle yol yürümekle gelen bacak ağrısı (vitrin hastalığı) ile kendini gösteren bu durum, tedavi edilmediğinde uzuv kaybına kadar gidebilen ciddi sonuçlar doğurabilir. Girişimsel Kardiyoloji Uzmanı Doç. Dr. Habib Çil, bacak damar tıkanıklıklarının ameliyatsız tedavisi (balon ve stent) hakkında detaylı bilgiler sunuyor.
+Alt Ekstremite Arter Hastalığı (AEAH), halk arasında "bacak damar tıkanıklığı" olarak bilinir. Özellikle yol yürümekle gelen bacak ağrısı (vitrin hastalığı) ile kendini gösteren bu durum, tedavi edilmediğinde uzuv kaybına kadar gidebilen ciddi sonuçlar doğurabilir.
 {{< /lead >}}
 
 ## Alt Ekstremite Arter Hastalığı Nedir?

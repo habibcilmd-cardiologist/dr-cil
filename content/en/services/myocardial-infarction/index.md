@@ -165,18 +165,6 @@ Some factors that increase heart attack risk can be modified, while others canno
 -   Gender (Higher risk in men)
 -   Family history (Early heart disease in first-degree relatives)
 
-## Expert Approach
-
-Throughout my 20+ years of cardiology experience, I have treated thousands of heart attack patients. My expertise in interventional cardiology and familiarity with current treatment protocols enable me to provide the best outcomes for my patients.
-
-**Our Advantages:**
-
--   24/7 emergency cardiology service
--   Modern catheterization laboratory
--   Experienced multidisciplinary team
--   Treatment protocols meeting international standards
--   Comprehensive cardiac rehabilitation program
-
 ## Frequently Asked Questions
 
 {{< faq-list >}}

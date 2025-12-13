@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Tricuspid valve disease is dysfunction of the valve between the right atrium and right ventricle. Tricuspid regurgitation is most common. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in diagnosing and treating tricuspid valve diseases.
+Tricuspid valve disease is dysfunction of the valve between the right atrium and right ventricle. Tricuspid regurgitation is most common.
 
 ## What is Tricuspid Valve Disease?
 

@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the regulations of the Republic of Turkey Ministry of Health and medical ethical rules, for the purpose of protecting public health and providing information. It does not contain any diagnosis, treatment guarantee, or guidance. Please consult an authorized healthcare facility for the most accurate information.
 {{< /alert >}}
 
-Dialysis fistula treatment encompasses interventional procedures to maintain patency of AV fistulas and grafts, which are the lifeline for hemodialysis patients. Cardiology specialist Assoc. Prof. Habib Çil has extensive experience in interventional treatment of dialysis access problems.
+Dialysis fistula treatment encompasses interventional procedures to maintain patency of AV fistulas and grafts, which are the lifeline for hemodialysis patients.
 
 ## What is a Dialysis Fistula?
 

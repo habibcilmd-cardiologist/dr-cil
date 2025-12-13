@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the regulations of the Republic of Turkey Ministry of Health and medical ethical rules, for the purpose of protecting and informing public health. It does not contain any diagnosis, treatment guarantee, or referral. Please consult an authorized healthcare facility for accurate information.
 {{< /alert >}}
 
-Bifurcation interventions involve advanced percutaneous coronary intervention (PCI) techniques used to treat complex lesions at coronary artery branching points. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in the diagnosis and treatment of bifurcation lesions.
+Bifurcation interventions involve advanced percutaneous coronary intervention (PCI) techniques used to treat complex lesions at coronary artery branching points.
 
 ## What is a Bifurcation Lesion?
 

@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Kardiyak resenkronizasyon tedavisi (CRT), kalp yetmezliği hastalarında kalbin senkronize çalışmasını sağlayan ileri bir tedavi yöntemidir. Üç odacıklı kalp pili olarak da bilinen CRT, kalbin her iki ventrikülünü aynı anda uyararak pompalama fonksiyonunu iyileştirir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, CRT implantasyonunda geniş deneyime sahiptir.
+Kardiyak resenkronizasyon tedavisi (CRT), kalp yetmezliği hastalarında kalbin senkronize çalışmasını sağlayan ileri bir tedavi yöntemidir. Üç odacıklı kalp pili olarak da bilinen CRT, kalbin her iki ventrikülünü aynı anda uyararak pompalama fonksiyonunu iyileştirir.
 
 ## CRT Nedir?
 

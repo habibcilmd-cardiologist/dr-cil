@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-Dizaltı damar tıkanıklığı (infrapopliteal arter hastalığı), diz altındaki tibial arterlerin ateroskleroz nedeniyle daralması veya tıkanmasıdır. Özellikle diyabetik hastalarda sık görülür ve kritik bacak iskemisinin en önemli nedenlerinden biridir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, dizaltı damar hastalıklarının girişimsel tedavisinde uzmanlaşmış deneyime sahiptir.
+Dizaltı damar tıkanıklığı (infrapopliteal arter hastalığı), diz altındaki tibial arterlerin ateroskleroz nedeniyle daralması veya tıkanmasıdır. Özellikle diyabetik hastalarda sık görülür ve kritik bacak iskemisinin en önemli nedenlerinden biridir.
 
 ## İnfrapopliteal Arter Anatomisi
 

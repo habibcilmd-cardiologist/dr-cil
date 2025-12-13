@@ -165,15 +165,15 @@ Kalp krizi riskini artıran faktörlerin bir kısmı değiştirilebilir, bir kı
 -   Cinsiyet (Erkeklerde risk daha yüksek)
 -   Aile öyküsü (Birinci derece akrabalarda erken kalp hastalığı)
 
-## Uzman Yaklaşımı
+## Tedavi Yaklaşımı
 
-20 yılı aşkın kardiyoloji deneyimim boyunca binlerce kalp krizi hastasına müdahale ettim. Girişimsel kardiyoloji alanındaki uzmanlığım ve güncel tedavi protokollerine hakimiyetim, hastalarıma en iyi sonuçları sunmamı sağlıyor.
+Kalp krizi tedavisinde zaman kritik öneme sahiptir. Modern tedavi protokolleri ve ileri teknoloji ile hastalar için en iyi sonuçlar hedeflenir.
 
-**Avantajlarımız:**
+**Tedavi Avantajları:**
 
 -   7/24 acil kardiyoloji hizmeti
 -   Modern kateter laboratuvarı
--   Deneyimli multidisipliner ekip
+-   Multidisipliner ekip yaklaşımı
 -   Uluslararası standartlarda tedavi protokolleri
 -   Kapsamlı kardiyak rehabilitasyon programı
 

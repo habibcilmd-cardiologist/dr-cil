@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-İmplante edilebilir kardiyoverter defibrilatör (ICD), hayatı tehdit eden kalp ritim bozukluklarını tespit edip tedavi eden gelişmiş bir elektronik cihazdır. ICD, ani kardiyak ölümü önlemede en etkili tedavi yöntemidir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, ICD implantasyonunda geniş deneyime sahip olup hastaların yaşamlarını korumak için en güncel teknolojileri kullanmaktadır.
+İmplante edilebilir kardiyoverter defibrilatör (ICD), hayatı tehdit eden kalp ritim bozukluklarını tespit edip tedavi eden gelişmiş bir elektronik cihazdır. ICD, ani kardiyak ölümü önlemede en etkili tedavi yöntemidir.
 
 ## ICD Nedir?
 

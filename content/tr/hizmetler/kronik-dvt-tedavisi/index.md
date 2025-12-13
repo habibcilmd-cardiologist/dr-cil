@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-Kronik DVT tedavisi, uzun süredir devam eden derin ven tıkanıklıklarının açılması ve post-trombotik sendromun yönetimini kapsar. Kardiyoloji uzmanı Doç. Dr. Habib Çil, kronik venöz hastalıkların girişimsel tedavisinde geniş deneyime sahiptir.
+Kronik DVT tedavisi, uzun süredir devam eden derin ven tıkanıklıklarının açılması ve post-trombotik sendromun yönetimini kapsar.
 
 ## Kronik DVT Nedir?
 

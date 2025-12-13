@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Radyal anjiyografi, koroner anjiyografinin bilek (radyal arter) yoluyla yapılmasıdır. Geleneksel kasık (femoral) erişime göre birçok avantajı vardır. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, radyal anjiyografi işleminde geniş deneyime sahiptir.
+Radyal anjiyografi, koroner anjiyografinin bilek (radyal arter) yoluyla yapılmasıdır. Geleneksel kasık (femoral) erişime göre birçok avantajı vardır.
 
 ## Radyal Anjiyografi Nedir?
 

@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Electrophysiology study (EPS) is an invasive diagnostic procedure performed to evaluate the heart's electrical system. This procedure is used to determine the source of arrhythmias, perform risk assessment, and plan treatment. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in electrophysiology studies.
+Electrophysiology study (EPS) is an invasive diagnostic procedure performed to evaluate the heart's electrical system. This procedure is used to determine the source of arrhythmias, perform risk assessment, and plan treatment.
 
 ## What is an Electrophysiology Study?
 

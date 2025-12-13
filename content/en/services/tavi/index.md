@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-TAVI (Transcatheter Aortic Valve Implantation) is a procedure where a new aortic valve is placed via catheter without open-heart surgery in patients with severe aortic stenosis. This revolutionary treatment offers a life-saving option, especially for elderly patients with high surgical risk. TAVI is successfully performed at experienced centers in Turkey, and interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in this field.
+TAVI (Transcatheter Aortic Valve Implantation) is a procedure where a new aortic valve is placed via catheter without open-heart surgery in patients with severe aortic stenosis. This revolutionary treatment offers a life-saving option, especially for elderly patients with high surgical risk. TAVI is successfully performed at experienced centers in Turkey.
 
 ## What is TAVI?
 
@@ -192,18 +192,6 @@ Clinical studies have proven the effectiveness of TAVI:
 -   **5-year survival**: 50-60% (in high-risk patients)
 -   **Symptom improvement**: In more than 90% of patients
 -   **Quality of life**: Significant improvement
-
-## Expert Approach
-
-Experience is critical in complex interventional procedures like TAVI. As an expert who has performed hundreds of TAVI procedures, I offer my patients the most current technologies and techniques.
-
-**Our TAVI Experience:**
-
--   High success rate
--   Low complication rate
--   Multidisciplinary heart team approach
--   Comprehensive patient evaluation
--   Long-term follow-up
 
 ## Frequently Asked Questions
 

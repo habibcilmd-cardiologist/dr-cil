@@ -218,18 +218,6 @@ Heart failure is a chronic disease requiring regular monitoring. Follow-up frequ
 -   NYHA III: Control every 1-3 months
 -   NYHA IV: Frequent hospitalizations may be required
 
-## Expert Approach
-
-I have comprehensive experience in heart failure management. While applying the most current treatment protocols to my patients, I also consider their individual needs.
-
-**Services We Offer:**
-
--   Comprehensive diagnostic evaluation
--   Personalized medication therapy
--   Device therapy implantation
--   Cardiac rehabilitation coordination
--   Referral for advanced treatment options
-
 ## Frequently Asked Questions
 
 {{< faq-list >}}

@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Electrocardiography (ECG/EKG) is a simple, painless, and quick diagnostic method that records the heart's electrical activity. It is one of the most commonly used tests in cardiology. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in ECG interpretation.
+Electrocardiography (ECG/EKG) is a simple, painless, and quick diagnostic method that records the heart's electrical activity. It is one of the most commonly used tests in cardiology.
 
 ## What is an ECG?
 

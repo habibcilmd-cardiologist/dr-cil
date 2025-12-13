@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Biventriküler pacemaker, kalp yetmezliği hastalarında her iki ventrikülü senkronize şekilde uyararak kalp fonksiyonunu iyileştiren özel bir cihazdır. Kardiyak resenkronizasyon tedavisi (CRT) olarak da bilinir. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil, biventriküler pacemaker implantasyonunda geniş deneyime sahiptir.
+Biventriküler pacemaker, kalp yetmezliği hastalarında her iki ventrikülü senkronize şekilde uyararak kalp fonksiyonunu iyileştiren özel bir cihazdır. Kardiyak resenkronizasyon tedavisi (CRT) olarak da bilinir.
 
 ## Biventriküler Pacemaker Nedir?
 

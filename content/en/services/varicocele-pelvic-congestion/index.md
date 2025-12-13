@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the regulations of the Republic of Turkey Ministry of Health and medical ethics rules, for the purpose of protecting and informing public health. It does not contain any diagnosis, treatment guarantee, or medical advice. Please consult an authorized healthcare facility for accurate information.
 {{< /alert >}}
 
-Varicocele and pelvic congestion syndrome treatment involves interventional closure of dilated pelvic and gonadal veins. Cardiology specialist Assoc. Prof. Habib Çil has extensive experience in venous embolization procedures.
+Varicocele and pelvic congestion syndrome treatment involves interventional closure of dilated pelvic and gonadal veins.
 
 ## What is Varicocele?
 

@@ -30,7 +30,7 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Tansiyon holter (Ambulatuvar Kan Basıncı Monitörizasyonu - AKBM), kan basıncının 24 saat boyunca sürekli olarak ölçülmesidir. Hipertansiyon tanısında ve tedavi takibinde altın standart yöntemdir. Kardiyoloji uzmanı Doç. Dr. Habib Çil, tansiyon holter değerlendirmesinde geniş deneyime sahiptir.
+Tansiyon holter (Ambulatuvar Kan Basıncı Monitörizasyonu - AKBM), kan basıncının 24 saat boyunca sürekli olarak ölçülmesidir. Hipertansiyon tanısında ve tedavi takibinde altın standart yöntemdir.
 
 ## Tansiyon Holter Nedir?
 

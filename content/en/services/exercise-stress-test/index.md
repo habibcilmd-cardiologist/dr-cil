@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Exercise stress test is an important diagnostic method that evaluates the heart's performance during exercise. It is widely used in detecting coronary artery disease. Cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in exercise stress test evaluation.
+Exercise stress test is an important diagnostic method that evaluates the heart's performance during exercise. It is widely used in detecting coronary artery disease.
 
 ## What is an Exercise Stress Test?
 

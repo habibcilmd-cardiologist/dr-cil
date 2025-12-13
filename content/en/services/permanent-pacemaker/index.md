@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-A permanent pacemaker is a small electronic device used to treat slow heartbeat (bradycardia) or conduction disorders. This device, placed under the chest skin, ensures the heart beats regularly. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in pacemaker implantation and uses the most current technologies.
+A permanent pacemaker is a small electronic device used to treat slow heartbeat (bradycardia) or conduction disorders. This device, placed under the chest skin, ensures the heart beats regularly.
 
 ## What is a Pacemaker?
 

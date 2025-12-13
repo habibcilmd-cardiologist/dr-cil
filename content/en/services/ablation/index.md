@@ -30,7 +30,7 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Catheter ablation is a minimally invasive procedure used to treat heart rhythm disorders (arrhythmias). In this procedure, radiofrequency or cryotherapy is applied to abnormal heart tissue causing the arrhythmia, providing permanent treatment. Interventional cardiologist Assoc. Prof. Dr. Habib Çil has extensive experience in arrhythmia ablation.
+Catheter ablation is a minimally invasive procedure used to treat heart rhythm disorders (arrhythmias). In this procedure, radiofrequency or cryotherapy is applied to abnormal heart tissue causing the arrhythmia, providing permanent treatment.
 
 ## What is Catheter Ablation?
 

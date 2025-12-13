@@ -29,7 +29,7 @@ faq:
 This content has been prepared in accordance with the regulations of the Republic of Turkey Ministry of Health and medical ethical rules, for the purpose of protecting public health and providing information. It does not contain any diagnosis, treatment guarantee, or guidance. Please consult an authorized healthcare facility for the most accurate information.
 {{< /alert >}}
 
-IVUS (Intravascular Ultrasound) is an advanced imaging method performed using ultrasound waves from inside the coronary arteries. Cardiology specialist Assoc. Prof. Habib Çil specializes in IVUS-guided interventional cardiology procedures.
+IVUS (Intravascular Ultrasound) is an advanced imaging method performed using ultrasound waves from inside the coronary arteries.
 
 ## What is IVUS?
 

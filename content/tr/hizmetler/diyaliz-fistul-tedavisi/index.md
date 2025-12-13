@@ -29,7 +29,7 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-Diyaliz fistül tıkanıklığı tedavisi, hemodiyaliz hastalarında yaşam çizgisi olan AV fistül ve greftlerin açık tutulması için yapılan girişimsel işlemleri kapsar. Kardiyoloji uzmanı Doç. Dr. Habib Çil, diyaliz erişim sorunlarının girişimsel tedavisinde geniş deneyime sahiptir.
+Diyaliz fistül tıkanıklığı tedavisi, hemodiyaliz hastalarında yaşam çizgisi olan AV fistül ve greftlerin açık tutulması için yapılan girişimsel işlemleri kapsar.
 
 ## Diyaliz Fistülü Nedir?
 
