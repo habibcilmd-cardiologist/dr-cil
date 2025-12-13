@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGradTricuspid" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="valveGradTricuspid" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34D399;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Vibrant Background -->
+  <rect width="800" height="400" fill="url(#bgGradTricuspid)"/>
+  
+  <!-- Decorative elements -->
+  <path d="M800,0 Q400,100 0,0 L0,50 L800,50 Z" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="700" cy="300" r="100" fill="rgba(255,255,255,0.05)"/>
+  
+  <!-- Heart illustration (Left) -->
+  <g transform="translate(100, 80)">
+    <!-- Heart shape -->
+    <path d="M80,40 C50,10 0,40 0,80 C0,130 40,160 80,190 C120,160 160,130 160,80 C160,40 110,10 80,40" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+    
+    <!-- Valve circle -->
+    <circle cx="80" cy="85" r="35" fill="none" stroke="url(#valveGradTricuspid)" stroke-width="5" opacity="0.8"/>
+    
+    <!-- Valve leaflets -->
+    <path d="M55,70 L80,100 L105,70" fill="url(#valveGradTricuspid)" opacity="0.7"/>
+    <path d="M55,100 L80,65 L105,100" fill="url(#valveGradTricuspid)" opacity="0.6"/>
+    
+    <!-- Center dot -->
+    <circle cx="80" cy="85" r="6" fill="#00B4CC" opacity="0.9"/>
+    
+    <!-- Pulsing effect -->
+    <circle cx="80" cy="110" r="10" fill="rgba(255,255,255,0.6)" opacity="0.6">
+      <animate attributeName="r" values="10;18;10" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Text content (Right, RTL) -->
+  <text x="750" y="130" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="end" direction="rtl">
+    <tspan font-weight="bold">الصمام</tspan>
+  </text>
+  <text x="750" y="180" font-family="Arial, sans-serif" font-size="32" font-weight="300" fill="rgba(255,255,255,0.95)" text-anchor="end" direction="rtl">
+    ثنائي الشرف
+  </text>
+  
+  <!-- Info boxes (Right) -->
+  <g transform="translate(570, 220)">
+    <rect x="0" y="0" width="160" height="50" rx="25" fill="rgba(255,255,255,0.2)"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" font-weight="bold" direction="rtl">علاج طفيف</text>
+  </g>
+  
+  <g transform="translate(380, 220)">
+    <rect x="0" y="0" width="160" height="50" rx="25" fill="rgba(255,255,255,0.2)"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" font-weight="bold">TriClip</text>
+  </g>
+  
+  <!-- Bottom text -->
+  <text x="750" y="360" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="end" direction="rtl">
+    أ.م.د. حبيب جيل | أخصائي أمراض القلب
+  </text>
+</svg>

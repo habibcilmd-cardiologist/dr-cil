@@ -51,15 +51,16 @@ translationKey: "services"
   <a href="/services/varicocele-pelvic-congestion/" class="service-card"><div class="service-icon">🩺</div><h4>Varicocele & Pelvic Congestion</h4><p>Varicocele and pelvic congestion treatment</p></a>
 </div>
 
-#### 💜 Structural Heart Interventions {#structural-heart}
+#### 💜 Structural Heart and Valve Disease Interventions {#structural-heart}
 
 <div class="services-grid">
   <a href="/services/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transcatheter aortic valve implantation</p></a>
   <a href="/services/mitraclip/" class="service-card"><div class="service-icon">📎</div><h4>MitraClip</h4><p>Mitral valve clipping therapy</p></a>
   <a href="/services/mitral-balloon-valvuloplasty/" class="service-card"><div class="service-icon">🎈</div><h4>Mitral Balloon Valvuloplasty</h4><p>Mitral valve dilatation</p></a>
-  <a href="/services/alcohol-septal-ablation/" class="service-card"><div class="service-icon">🧪</div><h4>Septal Ablation</h4><p>Hypertrophic cardiomyopathy treatment</p></a>
+  <a href="/services/alcohol-septal-ablation/" class="service-card"><div class="service-icon">🧪</div><h4>Alcohol Septal Ablation</h4><p>Hypertrophic cardiomyopathy treatment</p></a>
   <a href="/services/heart-hole-closure/" class="service-card"><div class="service-icon">🎈</div><h4>Heart Hole Closure</h4><p>ASD/PFO closure</p></a>
-  <a href="/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>Tricuspid Valve Treatment</h4><p>Tricuspid valve interventions</p></a>
+  <a href="/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>Tricuspid Valve Implantation</h4><p>Tricuspid valve replacement</p></a>
+  <a href="/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>Pulmonary Valve Implantation</h4><p>Pulmonary valve replacement</p></a>
 </div>
 
 ---
@@ -96,15 +97,6 @@ translationKey: "services"
   <a href="/services/radial-angiography/" class="service-card"><div class="service-icon">🔎</div><h4>Radial Angiography</h4><p>Wrist angiography</p></a>
   <a href="/services/cardiac-ct/" class="service-card"><div class="service-icon">🖥️</div><h4>Coronary CT Angiography</h4><p>Virtual angiography - Non-invasive coronary imaging</p></a>
   <a href="/services/tilt-table-test/" class="service-card"><div class="service-icon">🧬</div><h4>Tilt Table Test</h4><p>Syncope evaluation</p></a>
-</div>
-
----
-
-### 🫀 Valve Diseases {#valve-diseases}
-
-<div class="services-grid">
-  <a href="/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>Tricuspid Valve Implantation</h4><p>Tricuspid valve replacement</p></a>
-  <a href="/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>Pulmonary Valve Implantation</h4><p>Pulmonary valve replacement</p></a>
 </div>
 
 ---

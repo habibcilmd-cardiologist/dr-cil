@@ -53,15 +53,16 @@ translationKey: "services"
   <a href="/ar/services/varicocele-pelvic-congestion/" class="service-card"><div class="service-icon">🩺</div><h4>دوالي الخصية واحتقان الحوض</h4><p>علاج دوالي الخصية واحتقان الحوض</p></a>
 </div>
 
-#### 💜 تدخلات القلب الهيكلية {#structural-heart}
+#### 💜 تدخلات القلب الهيكلية وأمراض الصمامات {#structural-heart}
 
 <div class="services-grid">
   <a href="/ar/services/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>زراعة الصمام الأبهري عبر القسطرة</p></a>
   <a href="/ar/services/mitraclip/" class="service-card"><div class="service-icon">📎</div><h4>MitraClip</h4><p>علاج قص الصمام التاجي</p></a>
   <a href="/ar/services/mitral-balloon-valvuloplasty/" class="service-card"><div class="service-icon">🎈</div><h4>رأب الصمام التاجي بالبالون</h4><p>توسيع الصمام التاجي</p></a>
-  <a href="/ar/services/alcohol-septal-ablation/" class="service-card"><div class="service-icon">🧪</div><h4>الاستئصال الحاجزي</h4><p>علاج اعتلال عضلة القلب الضخامي</p></a>
+  <a href="/ar/services/alcohol-septal-ablation/" class="service-card"><div class="service-icon">🧪</div><h4>الاستئصال الحاجزي بالكحول</h4><p>علاج اعتلال عضلة القلب الضخامي</p></a>
   <a href="/ar/services/heart-hole-closure/" class="service-card"><div class="service-icon">🎈</div><h4>إغلاق ثقب القلب</h4><p>إغلاق ASD/PFO</p></a>
-  <a href="/ar/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>علاج الصمام ثلاثي الشرفات</h4><p>تدخلات الصمام ثلاثي الشرفات</p></a>
+  <a href="/ar/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>زراعة الصمام ثلاثي الشرفات</h4><p>استبدال الصمام ثلاثي الشرفات</p></a>
+  <a href="/ar/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>زراعة الصمام الرئوي</h4><p>استبدال الصمام الرئوي</p></a>
 </div>
 
 ---
@@ -98,15 +99,6 @@ translationKey: "services"
   <a href="/ar/services/radial-angiography/" class="service-card"><div class="service-icon">🔎</div><h4>تصوير الأوعية الكعبري</h4><p>تصوير الأوعية من المعصم</p></a>
   <a href="/ar/services/cardiac-ct/" class="service-card"><div class="service-icon">🖥️</div><h4>تصوير الأوعية التاجية المقطعي</h4><p>تصوير الأوعية الافتراضي - تصوير تاجي غير غازي</p></a>
   <a href="/ar/services/tilt-table-test/" class="service-card"><div class="service-icon">🧬</div><h4>اختبار الطاولة المائلة</h4><p>تقييم الإغماء</p></a>
-</div>
-
----
-
-### 🫀 أمراض الصمامات {#valve-diseases}
-
-<div class="services-grid">
-  <a href="/ar/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>زراعة الصمام ثلاثي الشرفات</h4><p>استبدال الصمام ثلاثي الشرفات</p></a>
-  <a href="/ar/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>زراعة الصمام الرئوي</h4><p>استبدال الصمام الرئوي</p></a>
 </div>
 
 ---

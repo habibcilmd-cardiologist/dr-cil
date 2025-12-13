@@ -1,36 +1,41 @@
-﻿---
-title: "Triküspit Kapak Hastalığı - Yetersizlik Tedavisi"
-description: "İstanbul'da triküspit kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile triküspit yetersizliği. Kateter ve cerrahi tedavi. Avrasya Hospital."
-date: 2024-01-15
-lastmod: 2024-12-04
+---
+title: "Triküspid Kapak Hastalığı: Nedenleri, Tedavisi ve Transkateter Girişimler"
+description: "Triküspid kapak hastalığı nedir? Belirtileri, tanısı, tedavi seçenekleri ve modern transkateter müdahaleler hakkında kapsamlı bilgi. MitraClip ve TriClip ile minimal invaziv tedavi."
+date: 2024-12-05
+lastmod: 2024-12-05
 draft: false
-service_type: "MedicalProcedure"
-medical_specialty: "Cardiology"
-procedure_type: "TherapeuticProcedure"
-body_location: "Heart"
-translationKey: "tricuspid-valve"
-showBreadcrumbs: true
+translationKey: tricuspid-valve
+categories:
+- Kardiyoloji
+tags:
+- Triküspid Kapak
+- Kapak Yetersizliği
+- Transkateter Girişim
+- TriClip
+- PASCAL
+author: Doç. Dr. Habib ÇİL
+featured_image: featured.svg
 showTableOfContents: true
-showReadingTime: true
 faq:
-    - question: "Triküspit yetersizliği tehlikeli mi?"
-      answer: "Ciddi triküspit yetersizliği sağ kalp yetmezliğine yol açabilir. Tedavi önemlidir."
-    - question: "Triküspit kapak hastalığı belirtileri nelerdir?"
-      answer: "Bacaklarda şişlik, karında şişlik, yorgunluk ve nefes darlığı başlıca belirtilerdir."
-    - question: "Triküspit yetersizliği nasıl tedavi edilir?"
-      answer: "Medikal tedavi, cerrahi tamir veya replasman, transkateter girişimler uygulanabilir."
-    - question: "Triküspit kapak ameliyatı riskli mi?"
-      answer: "İzole triküspit cerrahisi yüksek risklidir. Bu nedenle transkateter tedaviler geliştirilmektedir."
-    - question: "Triküspit yetersizliği kendiliğinden düzelir mi?"
-      answer: "Altta yatan neden tedavi edilirse fonksiyonel yetersizlik azalabilir."
+- question: "Triküspit yetersizliği tehlikeli mi?"
+  answer: "Ciddi triküspit yetersizliği sağ kalp yetmezliğine yol açabilir. Tedavi önemlidir."
+- question: "Triküspit kapak hastalığı belirtileri nelerdir?"
+  answer: "Bacaklarda şişlik, karında şişlik, yorgunluk ve nefes darlığı başlıca belirtilerdir."
+- question: "Triküspit yetersizliği nasıl tedavi edilir?"
+  answer: "Medikal tedavi, cerrahi tamir veya replasman, transkateter girişimler uygulanabilir."
+- question: "Triküspit kapak ameliyatı riskli mi?"
+  answer: "İzole triküspit cerrahisi yüksek risklidir. Bu nedenle transkateter tedaviler geliştirilmektedir."
+- question: "Triküspit yetersizliği kendiliğinden düzelir mi?"
+  answer: "Altta yatan neden tedavi edilirse fonksiyonel yetersizlik azalabilir."
 ---
 
 {{< alert type="info" >}}
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
-Triküspit kapak hastalığı, sağ atriyum ile sağ ventrikül arasındaki kapağın işlev bozukluğudur. En sık triküspit yetersizliği görülür.
+{{< lead >}}
+Triküspit kapak hastalığı, sağ atriyum ile sağ ventrikül arasındaki kapağın işlev bozukluğudur. En sık triküspit yetersizliği görülür. Modern transkateter müdahaleler, cerrahi açıdan yüksek riskli hastalarda umut verici tedavi seçenekleri sunmaktadır.
+{{< /lead >}}
 
 ## Triküspit Kapak Hastalığı Nedir?
 
@@ -185,12 +190,10 @@ WhatsApp ile Randevu Al
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
 
-## İlgili Kapak Tedavileri
+## İlgili Yazılar
 
-Triküspit kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
+Triküspit kapak hastalığı ile bağlantılı diğer konular:
 
--   [Mitral Kapak](/tr/hizmetler/mitral-kapak/) - Mitral kapak hastalıkları
--   [Pulmoner Kapak](/tr/hizmetler/pulmoner-kapak/) - Pulmoner kapak hastalıkları
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
--   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
--   [Kalp Bypass](/tr/hizmetler/kalp-bypass/) - Koroner bypass ameliyatı
+-   [Mitral Kapak Hastalıkları](/tr/blog/mitral-kapak/) - Mitral kapak hastalıkları
+-   [Kalp Kapak Hastalıkları](/tr/blog/kalp-kapak-hastaliklari/) - Genel bilgi
+-   [MitraClip ve Triküspid Kapak Müdahaleleri](/tr/blog/mitraclip-trikuspid-kapak-mudahaleleri/) - Modern tedavi yöntemleri

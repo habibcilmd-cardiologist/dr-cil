@@ -53,13 +53,14 @@ translationKey: "services"
   <a href="/tr/hizmetler/varikosel-pelvik-konjesyon/" class="service-card"><div class="service-icon">🩺</div><h4>Varikosel ve Pelvik Konjesyon</h4><p>Varikosel ve pelvik konjesyon tedavisi</p></a>
 </div>
 
-#### 💜 Yapısal Kalp Girişimleri {#yapisal-kalp-girisimleri}
+#### 💜 Yapısal Kalp ve Kapak Hastalıkları Girişimleri {#yapisal-kalp-girisimleri}
 
 <div class="services-grid">
   <a href="/tr/hizmetler/tavi/" class="service-card"><div class="service-icon">🔄</div><h4>TAVI</h4><p>Transkateter aort kapak implantasyonu</p></a>
-  <a href="/tr/hizmetler/mitraclip/" class="service-card"><div class="service-icon">📎</div><h4>MitraClip</h4><p>Mitral kapak klipleme tedavisi</p></a>  <a href="/tr/hizmetler/mitral-balon-valvuloplasti/" class="service-card"><div class="service-icon">🎈</div><h4>Mitral Balon Valvüloplasti</h4><p>Mitral kapak genişletme</p></a>  <a href="/tr/hizmetler/alkol-septal-ablasyon/" class="service-card"><div class="service-icon">🧪</div><h4>Septal Ablasyon</h4><p>Hipertrofik kardiyomiyopati tedavisi</p></a>
+  <a href="/tr/hizmetler/mitraclip/" class="service-card"><div class="service-icon">📎</div><h4>MitraClip</h4><p>Mitral kapak klipleme tedavisi</p></a>  <a href="/tr/hizmetler/mitral-balon-valvuloplasti/" class="service-card"><div class="service-icon">🎈</div><h4>Mitral Balon Valvüloplasti</h4><p>Mitral kapak genişletme</p></a>  <a href="/tr/hizmetler/alkol-septal-ablasyon/" class="service-card"><div class="service-icon">🧪</div><h4>Alkol Septal Ablasyon</h4><p>Hipertrofik kardiyomiyopati tedavisi</p></a>
   <a href="/tr/hizmetler/kalp-deligi-kapatma/" class="service-card"><div class="service-icon">🎈</div><h4>Kalp Deliği Kapatma</h4><p>ASD/PFO kapatma işlemi</p></a>
-  <a href="/tr/hizmetler/trikuspid-kapak/" class="service-card"><div class="service-icon">💚</div><h4>Triküspid Kapak Tedavisi</h4><p>Triküspid kapak girişimleri</p></a>
+  <a href="/tr/hizmetler/trikuspid-kapak/" class="service-card"><div class="service-icon">💚</div><h4>Triküspid Kapak Yerleştirilmesi</h4><p>Triküspid kapak değişimi</p></a>
+  <a href="/tr/hizmetler/pulmoner-kapak/" class="service-card"><div class="service-icon">🔧</div><h4>Pulmoner Kapak Yerleştirilmesi</h4><p>Pulmoner kapak değişimi</p></a>
 </div>
 
 ---
@@ -96,15 +97,6 @@ translationKey: "services"
   <a href="/tr/hizmetler/radyal-anjiyografi/" class="service-card"><div class="service-icon">🔎</div><h4>Radyal Anjiyografi</h4><p>Bilekten anjiyografi</p></a>
   <a href="/tr/hizmetler/kardiyak-bt/" class="service-card"><div class="service-icon">🖥️</div><h4>Koroner BT Anjiyografi</h4><p>Sanal anjiyografi - Non-invaziv koroner görüntüleme</p></a>
   <a href="/tr/hizmetler/tilt-testi/" class="service-card"><div class="service-icon">🧬</div><h4>Tilt Testi</h4><p>Eğik Masa Testi - Bayılma değerlendirmesi</p></a>
-</div>
-
----
-
-### 🫀 Kapak Hastalıkları {#kapak-hastaliklari}
-
-<div class="services-grid">
-  <a href="/tr/hizmetler/trikuspid-kapak/" class="service-card"><div class="service-icon">💚</div><h4>Triküspid Kapak Yerleştirilmesi</h4><p>Triküspid kapak değişimi</p></a>
-  <a href="/tr/hizmetler/pulmoner-kapak/" class="service-card"><div class="service-icon">🔧</div><h4>Pulmoner Kapak Yerleştirilmesi</h4><p>Pulmoner kapak değişimi</p></a>
 </div>
 
 ---
