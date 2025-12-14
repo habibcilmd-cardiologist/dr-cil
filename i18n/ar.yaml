@@ -209,7 +209,7 @@ ic_url_peripheral_11: "/ar/services/may-thurner-syndrome/"
 # Structural URLs
 ic_url_structural_1: "/ar/services/heart-hole-closure/"
 ic_url_structural_2: "/ar/services/alcohol-septal-ablation/"
-ic_url_structural_3: "/ar/services/balloon-valvuloplasty/"
+ic_url_structural_3: "/ar/services/mitral-balloon-valvuloplasty/"
 ic_url_structural_4: "/ar/services/tavi/"
 ic_url_structural_5: "/ar/services/mitraclip/"
 ic_url_structural_6: "/ar/services/tricuspid-valve/"

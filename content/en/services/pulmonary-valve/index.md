@@ -1,6 +1,6 @@
 ﻿---
-title: "Pulmonary Valve Disease - Stenosis and Regurgitation"
-description: "Expert pulmonary valve disease treatment in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats pulmonary stenosis and regurgitation. Balloon valvuloplasty. Avrasya Hospital."
+title: "Pulmonary Valve Disease - Balloon Valvuloplasty and Valve Implantation"
+description: "Expert evaluation and treatment of pulmonary valve disease in Istanbul. Balloon valvuloplasty, surgery, and in selected patients transcatheter pulmonary valve implantation (TPVI)."
 date: 2024-01-15
 lastmod: 2024-12-04
 draft: false
@@ -30,7 +30,9 @@ This content has been prepared for informational purposes to protect public heal
 {{< /alert >}}
 
 
-Pulmonary valve disease is dysfunction of the valve between the right ventricle and pulmonary artery. It has two main forms: pulmonary stenosis and pulmonary regurgitation.
+Pulmonary valve disease is dysfunction of the valve between the **right ventricle** and the **pulmonary artery**. The two main forms are **pulmonary stenosis** and **pulmonary regurgitation**.
+
+This page provides a more clinically detailed overview of treatment options, especially **balloon valvuloplasty** and, when indicated, **pulmonary valve replacement/implantation**.
 
 ## What is Pulmonary Valve Disease?
 
@@ -106,6 +108,8 @@ The pulmonary valve regulates blood flow from the right ventricle to the pulmona
 
 ## Pulmonary Valve Disease Treatment
 
+The treatment plan is individualized based on severity, symptoms, right ventricular function, associated heart conditions, and overall procedural risk.
+
 ### Pulmonary Stenosis Treatment
 
 **Balloon Valvuloplasty:**
@@ -132,6 +136,15 @@ The pulmonary valve regulates blood flow from the right ventricle to the pulmona
 -   Pulmonary valve replacement
 -   Transcatheter pulmonary valve (Melody, Sapien)
 
+## Pulmonary Valve Implantation / Replacement: When Is It Considered?
+
+Pulmonary valve replacement is commonly considered in settings such as:
+
+- Severe pulmonary regurgitation with right ventricular dilation/dysfunction (often in patients with repaired congenital heart disease)
+- Severe stenosis that is not suitable for balloon valvuloplasty, or residual/recurrent obstruction after prior interventions
+
+In selected patients, **transcatheter pulmonary valve implantation (TPVI)** may be an alternative to surgery after careful anatomical evaluation.
+
 ## Pulmonary Balloon Valvuloplasty
 
 ### Procedure Steps
@@ -147,6 +160,10 @@ The pulmonary valve regulates blood flow from the right ventricle to the pulmona
 -   Over 90% success
 -   Long-lasting effect
 -   Low complication rate
+
+### Possible Risks (General)
+
+Risk varies by patient and anatomy. Examples include access-site bleeding/bruising, rhythm disturbances, valve injury or increased regurgitation (uncommon), and rare thromboembolic events.
 
 ## Frequently Asked Questions
 

@@ -1,6 +1,6 @@
 ﻿---
-title: "Pulmoner Kapak Hastalığı - Darlık ve Yetersizlik Tedavisi"
-description: "İstanbul'da pulmoner kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile pulmoner darlık ve yetersizlik. Balon valvüloplasti. Avrasya Hospital."
+title: "Pulmoner Kapak Hastalığı - Balon Valvüloplasti ve Kapak Yerleştirilmesi"
+description: "İstanbul'da pulmoner kapak hastalığı (darlık/yetersizlik) değerlendirmesi ve tedavisi. Doç. Dr. Habib Çil ile balon valvüloplasti, cerrahi ve seçilmiş hastalarda transkateter pulmoner kapak replasmanı."
 date: 2024-01-15
 lastmod: 2024-12-04
 draft: false
@@ -30,7 +30,9 @@ Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi eti
 {{< /alert >}}
 
 
-Pulmoner kapak hastalığı, sağ ventrikül ile pulmoner arter arasındaki kapağın işlev bozukluğudur. Pulmoner darlık ve pulmoner yetersizlik olmak üzere iki ana formu vardır.
+Pulmoner kapak hastalığı, **sağ ventrikül** ile **pulmoner arter** arasındaki kapağın işlev bozukluğudur. En sık iki formu görülür: **pulmoner darlık (stenoz)** ve **pulmoner yetersizlik (regürjitasyon)**.
+
+Bu sayfada, pulmoner kapak hastalığında kullanılan tedavi yaklaşımları (özellikle **balon valvüloplasti** ve seçilmiş hastalarda **kapak replasmanı/yerleştirilmesi**) tıbbi açıdan daha kapsamlı biçimde özetlenmiştir.
 
 ## Pulmoner Kapak Hastalığı Nedir?
 
@@ -106,6 +108,8 @@ Pulmoner kapak, sağ ventrikülden pulmoner artere kan akışını düzenler. Ka
 
 ## Pulmoner Kapak Hastalığı Tedavisi
 
+Tedavi kararı; darlığın/yetersizliğin derecesi, semptomlar, sağ ventrikül fonksiyonu, eşlik eden kalp hastalıkları ve hastanın genel risk profiline göre kişiselleştirilir.
+
 ### Pulmoner Darlık Tedavisi
 
 **Balon Valvüloplasti:**
@@ -132,6 +136,19 @@ Pulmoner kapak, sağ ventrikülden pulmoner artere kan akışını düzenler. Ka
 -   Pulmoner kapak replasmanı
 -   Transkateter pulmoner kapak (Melody, Sapien)
 
+## Pulmoner Kapak Yerleştirilmesi (Replasmanı): Ne Zaman Gerekir?
+
+Pulmoner kapak replasmanı, genellikle **ciddi pulmoner yetersizlik** (özellikle doğumsal kalp hastalıkları sonrası) veya **balonla düzelmeyen/uygun olmayan ciddi darlık** gibi durumlarda gündeme gelir.
+
+Hekimin değerlendirdiği başlıca unsurlar:
+
+-   Semptomlar (efor kapasitesinde düşüş, çabuk yorulma, nefes darlığı)
+-   Sağ ventrikül boyutları ve fonksiyonu
+-   Eşlik eden ritim bozuklukları
+-   Pulmoner arter basınçları ve anatomik uygunluk
+
+Replasman, cerrahi olarak yapılabildiği gibi seçilmiş olgularda **transkateter pulmoner kapak implantasyonu (TPVI)** da bir seçenek olabilir.
+
 ## Pulmoner Balon Valvüloplasti
 
 ### İşlem Adımları
@@ -147,6 +164,15 @@ Pulmoner kapak, sağ ventrikülden pulmoner artere kan akışını düzenler. Ka
 -   %90'ın üzerinde başarı
 -   Uzun süreli etki
 -   Düşük komplikasyon oranı
+
+### Olası Riskler (Genel Başlıklar)
+
+Her girişimde olduğu gibi risk; hastanın yaşı, kapak anatomisi ve eşlik eden hastalıklara göre değişir. Örnek risk başlıkları:
+
+-   Kasık giriş yerinde kanama/morarma
+-   Ritim bozuklukları
+-   Kapakta yetersizlik artışı (nadir)
+-   Pıhtı/emboli gibi nadir komplikasyonlar
 
 ## Sık Sorulan Sorular
 

@@ -4,10 +4,7 @@
 # Redirect root to Turkish (default language)
 / /tr/ 301
 
-# Redirect old Tricuspid Valve service pages to new blog posts
-/tr/hizmetler/trikuspid-kapak/ /tr/blog/trikuspid-kapak/ 301
-/en/services/tricuspid-valve/ /en/blog/tricuspid-valve/ 301
-/ar/services/tricuspid-valve/ /ar/blog/tricuspid-valve/ 301
+
 
 # Language-specific 404 pages
 /tr/* /tr/404.html 404
