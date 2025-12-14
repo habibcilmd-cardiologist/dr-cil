@@ -3028,7 +3028,14 @@ a.service-card:hover {
    ============================================================================= */
 
 .ic-diagram-section {
-	padding: 4rem 1rem;
+	position: relative;
+	/* Full-bleed section even when placed inside Blowfish's max-width wrappers */
+	left: 50%;
+	right: 50%;
+	width: 100vw;
+	margin-left: -50vw;
+	margin-right: -50vw;
+	padding: 4rem 0;
 	background: linear-gradient(180deg, 
 		var(--color-neutral-50, #f8fafc) 0%, 
 		var(--color-neutral-100, #f1f5f9) 100%);
@@ -3042,8 +3049,63 @@ a.service-card:hover {
 }
 
 .ic-diagram-container {
-	max-width: 1200px;
+	max-width: 1280px;
 	margin: 0 auto;
+	padding: 0 1.25rem;
+	box-sizing: border-box;
+}
+
+@media (max-width: 640px) {
+	.ic-diagram-container {
+		padding: 0 0.875rem;
+	}
+}
+
+/* Visual split: 3D model + SVG diagram */
+.ic-visuals {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 1.5rem;
+	align-items: stretch;
+	margin: 0 auto;
+}
+
+@media (min-width: 1024px) {
+	.ic-visuals {
+		/* Give the SVG more room than the 3D model */
+		grid-template-columns: minmax(0, 4fr) minmax(0, 8fr);
+		gap: 2rem;
+	}
+}
+
+.ic-visuals-col {
+	min-width: 0;
+}
+
+.ic-visuals-col--model {
+	display: flex;
+}
+
+/* Constrain the 3D viewer to a consistent height within this section */
+#interventional-cardiology-section #heart-model-container {
+	width: 100%;
+	height: 100%;
+	min-height: 520px !important;
+}
+
+#interventional-cardiology-section #heart-viewer {
+	border: 1px solid var(--color-neutral-200, #e2e8f0);
+}
+
+.dark #interventional-cardiology-section #heart-viewer {
+	border-color: var(--color-neutral-700, #334155);
+}
+
+/* When the SVG is used in a column, remove the centered max-width wrapper */
+.ic-visuals .ic-diagram-wrapper {
+	max-width: none;
+	margin: 0;
+	padding: 0;
 }
 
 /* Header Styles */
@@ -3293,7 +3355,7 @@ html.dark .ic-center-label {
    ----------------------------------------------------------------------------- */
 @media (max-width: 1024px) {
 	.ic-diagram-section {
-		padding: 3rem 1rem;
+		padding: 3rem 0;
 	}
 	
 	.ic-title {
@@ -3319,7 +3381,16 @@ html.dark .ic-center-label {
    ----------------------------------------------------------------------------- */
 @media (max-width: 768px) {
 	.ic-diagram-section {
-		padding: 2rem 1rem;
+		padding: 2rem 0;
+	}
+
+	/* SVG is hidden on mobile; avoid an empty second column */
+	.ic-visuals-col--diagram {
+		display: none;
+	}
+
+	#interventional-cardiology-section #heart-model-container {
+		min-height: 340px !important;
 	}
 	
 	.ic-title {

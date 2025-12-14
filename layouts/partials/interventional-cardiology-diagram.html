@@ -10,9 +10,15 @@
       <!-- <p class="ic-subtitle">{{ i18n "ic_subtitle" | default "Advanced minimally invasive cardiac and vascular procedures" }}</p> -->
     </header>
 
-    {{/* Interactive Radial SVG Diagram */}}
-    <div class="ic-diagram-wrapper">
-      <svg viewBox="0 0 800 820" class="ic-radial-svg" role="img" aria-labelledby="ic-svg-title ic-svg-desc">
+    {{/* Visuals: 3D Heart + Interactive Radial SVG Diagram */}}
+    <div class="ic-visuals">
+      <div class="ic-visuals-col ic-visuals-col--model" aria-label="{{ i18n "heart_model_title" | default "A three-dimensional view of the heart's anatomical structure" }}">
+        {{ partial "three-heart.html" . }}
+      </div>
+
+      <div class="ic-visuals-col ic-visuals-col--diagram">
+        <div class="ic-diagram-wrapper">
+          <svg viewBox="0 0 800 820" class="ic-radial-svg" role="img" aria-labelledby="ic-svg-title ic-svg-desc">
         <title id="ic-svg-title">{{ i18n "ic_diagram_title" | default "Interventional Cardiology Services Diagram" }}</title>
         <desc id="ic-svg-desc">{{ i18n "ic_diagram_desc" | default "Interactive diagram showing three main branches: Coronary Interventions, Peripheral Interventions, and Structural Heart Disease Interventions" }}</desc>
         
@@ -305,7 +311,9 @@
           </a>
         </g>
 
-      </svg>
+          </svg>
+        </div>
+      </div>
     </div>
 
     {{/* Mobile Accordion View (Hidden on Desktop) */}}
