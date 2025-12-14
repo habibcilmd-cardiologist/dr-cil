@@ -135,6 +135,16 @@ hero_video_label: "إجراء رأب الأوعية"
 hero_video_caption: "رأب الأوعية التاجية - إجراء قلبي طفيف التوغل"
 hero_scroll: "مرر لاستكشاف المزيد"
 
+# Homepage Hero (New Split Hero)
+hero_tagline_prefix: "نبض قلبك"
+hero_tagline_highlight: "بين أيدٍ أمينة"
+hero_primary_cta: "اتصل بنا"
+hero_services_cta: "استعرض العلاجات"
+hero_float_1_label: "الخبرة"
+hero_float_1_value: "فتح الأوعية الدموية"
+hero_float_2_label: "المسيرة"
+hero_float_2_value: "تميز أكاديمي"
+
 # 3D Heart Model
 heart_model_title: "نظرة ثلاثية الأبعاد على التركيب التشريحي للقلب"
 heart_model_hint: "اسحب للتدوير • مرر للتكبير"

@@ -16,6 +16,16 @@ hero_video_label: "Anjiyoplasti İşlemi"
 hero_video_caption: "Koroner Anjiyoplasti - Minimal İnvaziv Kalp Prosedürü"
 hero_scroll: "Keşfetmek için kaydırın"
 
+# Homepage Hero (New Split Hero)
+hero_tagline_prefix: "Kalbinizin Ritmi"
+hero_tagline_highlight: "Güvenli Ellerde"
+hero_primary_cta: "İletişim"
+hero_services_cta: "Tedavileri İncele"
+hero_float_1_label: "Uzmanlık"
+hero_float_1_value: "Damar Açma"
+hero_float_2_label: "Kariyer"
+hero_float_2_value: "Akademik Yetkinlik"
+
 # 3D Heart Model
 heart_model_title: "Kalbin anatomik yapısına üç boyutlu bir bakış"
 heart_model_hint: "3D Kalp Modelini döndürün ve yakınlaştırın"

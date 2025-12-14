@@ -18,6 +18,16 @@ hero_video_label: "Angioplasty Procedure"
 hero_video_caption: "Coronary Angioplasty - Minimally Invasive Heart Procedure"
 hero_scroll: "Scroll to explore"
 
+# Homepage Hero (New Split Hero)
+hero_tagline_prefix: "Your Heartbeat"
+hero_tagline_highlight: "In Safe Hands"
+hero_primary_cta: "Contact"
+hero_services_cta: "Explore Treatments"
+hero_float_1_label: "Expertise"
+hero_float_1_value: "Vascular Interventions"
+hero_float_2_label: "Career"
+hero_float_2_value: "Academic Excellence"
+
 # 3D Heart Model
 heart_model_title: "A three-dimensional view of the heart's anatomical structure"
 heart_model_hint: "Drag to Rotate • Scroll to Zoom"
