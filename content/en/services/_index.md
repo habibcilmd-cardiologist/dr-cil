@@ -9,17 +9,6 @@ translationKey: "services"
 ---
 
 ## 🏥 Treatments and Procedures
-
-### 🫀 Clinical Cardiology {#clinical-cardiology}
-<div class="services-grid">
-  <a href="/services/hypertension/" class="service-card"><div class="service-icon">📈</div><h4>Hypertension</h4><p>High Blood Pressure - Diagnosis, treatment and follow-up</p></a>
-  <a href="/services/hyperlipidemia-treatment/" class="service-card"><div class="service-icon">🩸</div><h4>Hyperlipidemia Treatment</h4><p>Cholesterol and lipid disorder treatment</p></a>
-  <a href="/services/cardiovascular-prevention/" class="service-card"><div class="service-icon">🛡️</div><h4>Cardiovascular Prevention</h4><p>Heart health protection and risk management</p></a>
-  <a href="/services/heart-failure/" class="service-card"><div class="service-icon">💗</div><h4>Heart Failure</h4><p>Heart failure treatment</p></a>
-</div>
-
----
-
 ### 🔧 Interventional Cardiology {#interventional-cardiology}
 
 #### 💙 Coronary Interventions {#coronary-interventions-sub}
@@ -61,6 +50,16 @@ translationKey: "services"
   <a href="/services/heart-hole-closure/" class="service-card"><div class="service-icon">🎈</div><h4>Heart Hole Closure</h4><p>ASD/PFO closure</p></a>
   <a href="/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>Tricuspid Valve Implantation</h4><p>Tricuspid valve replacement</p></a>
   <a href="/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>Pulmonary Valve Implantation</h4><p>Pulmonary valve replacement</p></a>
+</div>
+
+---
+
+### 🫀 Clinical Cardiology {#clinical-cardiology}
+<div class="services-grid">
+  <a href="/services/hypertension/" class="service-card"><div class="service-icon">📈</div><h4>Hypertension</h4><p>High Blood Pressure - Diagnosis, treatment and follow-up</p></a>
+  <a href="/services/hyperlipidemia-treatment/" class="service-card"><div class="service-icon">🩸</div><h4>Hyperlipidemia Treatment</h4><p>Cholesterol and lipid disorder treatment</p></a>
+  <a href="/services/cardiovascular-prevention/" class="service-card"><div class="service-icon">🛡️</div><h4>Cardiovascular Prevention</h4><p>Heart health protection and risk management</p></a>
+  <a href="/services/heart-failure/" class="service-card"><div class="service-icon">💗</div><h4>Heart Failure</h4><p>Heart failure treatment</p></a>
 </div>
 
 ---

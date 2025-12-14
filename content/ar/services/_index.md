@@ -9,17 +9,6 @@ translationKey: "services"
 ---
 
 ## 🏥 العلاجات والإجراءات المطبقة
-
-### 🫀 طب القلب السريري {#clinical-cardiology}
-<div class="services-grid">
-  <a href="/ar/services/hypertension/" class="service-card"><div class="service-icon">📈</div><h4>ارتفاع ضغط الدم</h4><p>ضغط الدم المرتفع - التشخيص والعلاج والمتابعة</p></a>
-  <a href="/ar/services/hyperlipidemia-treatment/" class="service-card"><div class="service-icon">🩸</div><h4>علاج فرط شحوم الدم</h4><p>علاج الكوليسترول واضطرابات الدهون</p></a>
-  <a href="/ar/services/cardiovascular-prevention/" class="service-card"><div class="service-icon">🛡️</div><h4>الوقاية من أمراض القلب والأوعية الدموية</h4><p>حماية صحة القلب وإدارة المخاطر</p></a>
-  <a href="/ar/services/heart-failure/" class="service-card"><div class="service-icon">💗</div><h4>قصور القلب</h4><p>علاج قصور القلب</p></a>
-</div>
-
----
-
 ### 🔧 أمراض القلب التداخلية {#interventional-cardiology}
 
 #### 💙 التدخلات التاجية {#coronary-interventions-sub}
@@ -63,6 +52,16 @@ translationKey: "services"
   <a href="/ar/services/heart-hole-closure/" class="service-card"><div class="service-icon">🎈</div><h4>إغلاق ثقب القلب</h4><p>إغلاق ASD/PFO</p></a>
   <a href="/ar/services/tricuspid-valve/" class="service-card"><div class="service-icon">💚</div><h4>زراعة الصمام ثلاثي الشرفات</h4><p>استبدال الصمام ثلاثي الشرفات</p></a>
   <a href="/ar/services/pulmonary-valve/" class="service-card"><div class="service-icon">🔧</div><h4>زراعة الصمام الرئوي</h4><p>استبدال الصمام الرئوي</p></a>
+</div>
+
+---
+
+### 🫀 طب القلب السريري {#clinical-cardiology}
+<div class="services-grid">
+  <a href="/ar/services/hypertension/" class="service-card"><div class="service-icon">📈</div><h4>ارتفاع ضغط الدم</h4><p>ضغط الدم المرتفع - التشخيص والعلاج والمتابعة</p></a>
+  <a href="/ar/services/hyperlipidemia-treatment/" class="service-card"><div class="service-icon">🩸</div><h4>علاج فرط شحوم الدم</h4><p>علاج الكوليسترول واضطرابات الدهون</p></a>
+  <a href="/ar/services/cardiovascular-prevention/" class="service-card"><div class="service-icon">🛡️</div><h4>الوقاية من أمراض القلب والأوعية الدموية</h4><p>حماية صحة القلب وإدارة المخاطر</p></a>
+  <a href="/ar/services/heart-failure/" class="service-card"><div class="service-icon">💗</div><h4>قصور القلب</h4><p>علاج قصور القلب</p></a>
 </div>
 
 ---

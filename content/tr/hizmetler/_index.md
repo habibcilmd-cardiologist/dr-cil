@@ -9,17 +9,6 @@ translationKey: "services"
 ---
 
 ## 🏥 Uygulanan Tedaviler ve Yöntemler
-
-### 🫀 Klinik Kardiyoloji {#klinik-kardiyoloji}
-<div class="services-grid">
-  <a href="/tr/hizmetler/hipertansiyon/" class="service-card"><div class="service-icon">📈</div><h4>Hipertansiyon</h4><p>Yüksek Tansiyon - Tanı, tedavi ve takip</p></a>
-  <a href="/tr/hizmetler/hiperlipidemi-tedavisi/" class="service-card"><div class="service-icon">🩸</div><h4>Hiperlipidemi Tedavisi</h4><p>Kolesterol ve lipid bozuklukları tedavisi</p></a>
-  <a href="/tr/hizmetler/kardiyovaskuler-korunma/" class="service-card"><div class="service-icon">🛡️</div><h4>Kardiyovasküler Korunma</h4><p>Kalp sağlığını koruma ve risk yönetimi</p></a>
-  <a href="/tr/hizmetler/kalp-yetmezligi/" class="service-card"><div class="service-icon">💗</div><h4>Kalp Yetersizliği</h4><p>Kalp yetersizliği tedavisi</p></a>
-</div>
-
----
-
 ### 🔧 Girişimsel Kardiyoloji {#girisimsel-kardiyoloji}
 
 #### 💙 Koroner Girişimler {#koroner-girisimler}
@@ -61,6 +50,16 @@ translationKey: "services"
   <a href="/tr/hizmetler/kalp-deligi-kapatma/" class="service-card"><div class="service-icon">🎈</div><h4>Kalp Deliği Kapatma</h4><p>ASD/PFO kapatma işlemi</p></a>
   <a href="/tr/hizmetler/trikuspid-kapak/" class="service-card"><div class="service-icon">💚</div><h4>Triküspid Kapak Yerleştirilmesi</h4><p>Triküspid kapak değişimi</p></a>
   <a href="/tr/hizmetler/pulmoner-kapak/" class="service-card"><div class="service-icon">🔧</div><h4>Pulmoner Kapak Yerleştirilmesi</h4><p>Pulmoner kapak değişimi</p></a>
+</div>
+
+---
+
+### 🫀 Klinik Kardiyoloji {#klinik-kardiyoloji}
+<div class="services-grid">
+  <a href="/tr/hizmetler/hipertansiyon/" class="service-card"><div class="service-icon">📈</div><h4>Hipertansiyon</h4><p>Yüksek Tansiyon - Tanı, tedavi ve takip</p></a>
+  <a href="/tr/hizmetler/hiperlipidemi-tedavisi/" class="service-card"><div class="service-icon">🩸</div><h4>Hiperlipidemi Tedavisi</h4><p>Kolesterol ve lipid bozuklukları tedavisi</p></a>
+  <a href="/tr/hizmetler/kardiyovaskuler-korunma/" class="service-card"><div class="service-icon">🛡️</div><h4>Kardiyovasküler Korunma</h4><p>Kalp sağlığını koruma ve risk yönetimi</p></a>
+  <a href="/tr/hizmetler/kalp-yetmezligi/" class="service-card"><div class="service-icon">💗</div><h4>Kalp Yetersizliği</h4><p>Kalp yetersizliği tedavisi</p></a>
 </div>
 
 ---

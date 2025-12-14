@@ -1,5 +1,5 @@
 ---
-title: 'Venöz Yetmezlik (Varis): Belirtileri, Nedenleri ve Ameliyatsız Tedavisi'
+title: 'Venöz Yetmezlik ve Varis: Belirtileri, Nedenleri ve Ameliyatsız Tedavisi'
 description: "Venöz yetmezlik ve varis nedir? Bacakta şişlik ve ağrı neden olur? İstanbul'da lazerle varis tedavisi (EVLA), köpük tedavisi ve varis çorabı kullanımı hakkında bilgier."
 date: 2025-12-11
 lastmod: 2025-12-12
