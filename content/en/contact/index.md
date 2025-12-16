@@ -29,9 +29,11 @@ Sunday: Closed
 
 ---
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
+## Appointment Options
+
+{{< appointment-section >}}
+
+---
 
 [📍 View on Google Maps](https://maps.google.com/?q=Avrasya+Hospital+Zeytinburnu+Istanbul)
 

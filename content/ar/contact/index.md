@@ -29,9 +29,11 @@ Zeytinburnu, إسطنبول، تركيا
 
 ---
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-احجز موعد عبر واتساب
-{{< /button >}}
+## خيارات الموعد
+
+{{< appointment-section >}}
+
+---
 
 [📍 عرض على خرائط جوجل](https://maps.google.com/?q=Avrasya+Hospital+Zeytinburnu+Istanbul)
 
