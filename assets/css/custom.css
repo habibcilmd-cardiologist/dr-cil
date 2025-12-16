@@ -2314,6 +2314,38 @@ a.service-card:hover {
 	color: rgb(var(--color-primary-200));
 }
 
+/* WhatsApp Button - Green */
+.home-hero-btn--whatsapp {
+	background-color: #25D366 !important;
+	color: #fff !important;
+	border: 1px solid #25D366 !important;
+	box-shadow: 0 10px 26px rgba(37, 211, 102, 0.3);
+}
+
+.home-hero-btn--whatsapp:hover {
+	background-color: #20BA5A !important;
+	border-color: #20BA5A !important;
+	transform: translateY(-2px);
+	box-shadow: 0 14px 34px rgba(37, 211, 102, 0.4);
+}
+
+/* Appointment Button - Red */
+.home-hero-btn--appointment {
+	background-color: #FF3B30 !important;
+	color: #fff !important;
+	border: 1px solid #FF3B30 !important;
+	box-shadow: 0 10px 26px rgba(255, 59, 48, 0.3);
+	cursor: pointer;
+}
+
+.home-hero-btn--appointment:hover {
+	background-color: #E6342A !important;
+	border-color: #E6342A !important;
+	transform: translateY(-2px);
+	box-shadow: 0 14px 34px rgba(255, 59, 48, 0.4);
+}
+
+
 .home-hero-media {
 	position: relative;
 	height: 520px;

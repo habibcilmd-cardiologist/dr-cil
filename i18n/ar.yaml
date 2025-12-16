@@ -86,6 +86,17 @@ recent:
     show_more: "عرض المزيد"
 
 # Medical-specific translations for Dr. Habib ÇİL's website
+# Homepage Hero (New Split Hero)
+hero_tagline_prefix: "نبض قلبك"
+hero_tagline_highlight: "في أيدٍ آمنة"
+hero_whatsapp_btn: "اسأل عبر واتساب"
+hero_appointment_btn: "احجز موعد"
+hero_services_btn: "استكشف العلاجات"
+hero_float_1_label: "الخبرة"
+hero_float_1_value: "التدخلات الوعائية"
+hero_float_2_label: "المسيرة المهنية"
+hero_float_2_value: "التميز الأكاديمي"
+
 medical:
     appointment:
         button: "احجز موعد"
