@@ -112,6 +112,75 @@ service_cardiac_ct: "Coronary CT Angiography"
 service_tilt_test: "Tilt Test"
 
 # =============================================================================
+# All Services Section URLs
+# =============================================================================
+# Clinical Cardiology Services
+all_services_url_hypertension: "/services/hypertension/"
+all_services_url_hyperlipidemia: "/services/hyperlipidemia-treatment/"
+all_services_url_cardiovascular_protection: "/services/cardiovascular-prevention/"
+all_services_url_heart_failure: "/services/heart-failure/"
+
+# Rhythm & Electrophysiology Services
+all_services_url_crt: "/services/crt-pacemaker/"
+all_services_url_permanent_pacemaker: "/services/permanent-pacemaker/"
+all_services_url_temporary_pacemaker: "/services/temporary-pacemaker/"
+all_services_url_biventricular: "/services/biventricular-pacemaker/"
+all_services_url_icd: "/services/icd/"
+all_services_url_ablation: "/services/ablation/"
+all_services_url_ep_study: "/services/electrophysiology-study/"
+all_services_url_cardioversion: "/services/cardioversion/"
+
+# Structural Heart Services
+all_services_url_tavi: "/services/tavi/"
+all_services_url_mitraclip: "/services/mitraclip/"
+all_services_url_mitral_valvuloplasty: "/services/mitral-balloon-valvuloplasty/"
+all_services_url_tricuspid_valve: "/services/tricuspid-valve/"
+all_services_url_pulmonary_valve: "/services/pulmonary-valve/"
+all_services_url_alcohol_ablation: "/services/alcohol-septal-ablation/"
+all_services_url_asd_pfo: "/services/heart-hole-closure/"
+
+# Coronary Interventions
+all_services_url_left_main: "/services/left-main-coronary-stent/"
+all_services_url_bifurcation: "/services/bifurkasyon-girisimi/"
+all_services_url_cto: "/services/cto-intervention/"
+all_services_url_coronary_fistula: "/services/coronary-fistula-treatment/"
+all_services_url_ivus: "/services/ivus/"
+all_services_url_ffr: "/services/ffr/"
+all_services_url_angioplasty: "/services/angiography/"
+all_services_url_mi_treatment: "/services/myocardial-infarction/"
+
+# Peripheral Interventions
+all_services_url_carotid: "/services/carotid-stenosis/"
+all_services_url_renal_artery: "/services/renal-artery-stenosis/"
+all_services_url_peripheral_vessel: "/services/peripheral-vascular/"
+all_services_url_above_knee: "/services/above-knee-arterial-disease/"
+all_services_url_below_knee: "/services/below-knee-arterial-disease/"
+all_services_url_iliac_artery: "/services/iliac-artery-treatment/"
+all_services_url_evar_tevar: "/services/evar-tevar/"
+all_services_url_atherectomy: "/services/atherectomy/"
+all_services_url_dialysis_fistula: "/services/dialysis-fistula-treatment/"
+all_services_url_acute_dvt: "/services/acute-dvt-treatment/"
+all_services_url_chronic_dvt: "/services/chronic-dvt-treatment/"
+all_services_url_may_thurner: "/services/may-thurner-syndrome/"
+all_services_url_varicocele: "/services/varicocele-pelvic-congestion/"
+
+# Diagnostic Procedures
+all_services_url_cardiac_angio: "/services/angiography/"
+all_services_url_peripheral_angio: "/services/peripheral-angiography/"
+all_services_url_echo: "/services/echocardiography/"
+all_services_url_exercise_test: "/services/exercise-stress-test/"
+all_services_url_ekg: "/services/ekg/"
+all_services_url_tte: "/services/transthoracic-echocardiography/"
+all_services_url_tee: "/services/transesophageal-echocardiography/"
+all_services_url_rhythm_holter: "/services/holter/"
+all_services_url_bp_holter: "/services/ambulatory-blood-pressure-monitoring/"
+all_services_url_stress_echo: "/services/stress-echocardiography/"
+all_services_url_myocardial_perfusion: "/services/myocardial-perfusion/"
+all_services_url_radial_angio: "/services/radial-angiography/"
+all_services_url_cardiac_ct: "/services/cardiac-ct/"
+all_services_url_tilt_test: "/services/tilt-table-test/"
+
+# =============================================================================
 # Interventional Cardiology Diagram
 # =============================================================================
 ic_section_title: "Interventional Cardiology Services"

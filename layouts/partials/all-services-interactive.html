@@ -1,16 +1,7 @@
 {{/* All Services Interactive Section - Living Cardiology Interface */}}
 {{/* Inspired by cardiovascular anatomy with lazy loading optimization */}}
 
-{{/* Detect current language */}}
-{{ $lang := .Site.Language.Lang }}
-{{ $servicesURL := "" }}
-{{ if eq $lang "tr" }}
-  {{ $servicesURL = "/tr/hizmetler/" }}
-{{ else if eq $lang "en" }}
-  {{ $servicesURL = "/en/services/" }}
-{{ else if eq $lang "ar" }}
-  {{ $servicesURL = "/ar/services/" }}
-{{ end }}
+{{/* Detect current language - NOT USED, using i18n URLs instead */}}
 
 <section id="all-services-interactive" class="all-services-section" aria-label="{{ i18n "all_services_title" | default "All Medical Services" }}">
   <div class="all-services-container">
@@ -49,10 +40,10 @@
           </div>
           <div class="card-body">
             <ul class="sub-service-list">
-              <li><a href="{{ $servicesURL }}hipertansiyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📈</span>{{ i18n "service_hypertension" | default "Hypertension" }}</a></li>
-              <li><a href="{{ $servicesURL }}hiperlipidemi-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🩸</span>{{ i18n "service_hyperlipidemia" | default "Hyperlipidemia Treatment" }}</a></li>
-              <li><a href="{{ $servicesURL }}kardiyovaskuler-korunma/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛡️</span>{{ i18n "service_cardiovascular_protection" | default "Cardiovascular Prevention" }}</a></li>
-              <li><a href="{{ $servicesURL }}kalp-yetmezligi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💗</span>{{ i18n "service_heart_failure" | default "Heart Failure" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_hypertension" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">📈</span>{{ i18n "service_hypertension" | default "Hypertension" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_hyperlipidemia" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🩸</span>{{ i18n "service_hyperlipidemia" | default "Hyperlipidemia Treatment" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_cardiovascular_protection" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛡️</span>{{ i18n "service_cardiovascular_protection" | default "Cardiovascular Prevention" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_heart_failure" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">💗</span>{{ i18n "service_heart_failure" | default "Heart Failure" }}</a></li>
             </ul>
           </div>
         </div>
@@ -70,14 +61,14 @@
           </div>
           <div class="card-body">
             <ul class="sub-service-list">
-              <li><a href="{{ $servicesURL }}uc-odacikli-kalp-pili/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔋</span>{{ i18n "service_crt" | default "CRT Pacemaker" }}</a></li>
-              <li><a href="{{ $servicesURL }}kalici-kalp-pili/" class="sub-service-item"><span class="item-icon" aria-hidden="true">⚡</span>{{ i18n "service_permanent_pacemaker" | default "Permanent Pacemaker" }}</a></li>
-              <li><a href="{{ $servicesURL }}gecici-kalp-pili/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔌</span>{{ i18n "service_temporary_pacemaker" | default "Temporary Pacemaker" }}</a></li>
-              <li><a href="{{ $servicesURL }}biventrikuler-pacemaker/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💫</span>{{ i18n "service_biventricular" | default "Biventricular Pacemaker" }}</a></li>
-              <li><a href="{{ $servicesURL }}icd/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛡️</span>{{ i18n "service_icd" | default "ICD (Shock Device)" }}</a></li>
-              <li><a href="{{ $servicesURL }}ablasyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">⚡</span>{{ i18n "service_ablation" | default "Ablation" }}</a></li>
-              <li><a href="{{ $servicesURL }}elektrofizyolojik-test/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔬</span>{{ i18n "service_ep_study" | default "Electrophysiological Study" }}</a></li>
-              <li><a href="{{ $servicesURL }}kardiyoversiyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💥</span>{{ i18n "service_cardioversion" | default "Cardioversion" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_crt" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔋</span>{{ i18n "service_crt" | default "CRT Pacemaker" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_permanent_pacemaker" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">⚡</span>{{ i18n "service_permanent_pacemaker" | default "Permanent Pacemaker" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_temporary_pacemaker" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔌</span>{{ i18n "service_temporary_pacemaker" | default "Temporary Pacemaker" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_biventricular" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">💫</span>{{ i18n "service_biventricular" | default "Biventricular Pacemaker" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_icd" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛡️</span>{{ i18n "service_icd" | default "ICD (Shock Device)" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_ablation" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">⚡</span>{{ i18n "service_ablation" | default "Ablation" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_ep_study" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔬</span>{{ i18n "service_ep_study" | default "Electrophysiological Study" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_cardioversion" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">💥</span>{{ i18n "service_cardioversion" | default "Cardioversion" }}</a></li>
             </ul>
           </div>
         </div>
@@ -95,13 +86,13 @@
           </div>
           <div class="card-body">
             <ul class="sub-service-list">
-              <li><a href="{{ $servicesURL }}tavi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔄</span>{{ i18n "service_tavi" | default "TAVI (Aortic Valve)" }}</a></li>
-              <li><a href="{{ $servicesURL }}mitraclip/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📎</span>{{ i18n "service_mitraclip" | default "MitraClip" }}</a></li>
-              <li><a href="{{ $servicesURL }}mitral-kapak/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🎈</span>{{ i18n "service_mitral_valvuloplasty" | default "Mitral Balloon Valvuloplasty" }}</a></li>
-              <li><a href="{{ $servicesURL }}trikuspid-kapak-yerlestirilmesi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💚</span>{{ i18n "service_tricuspid_valve" | default "Tricuspid Valve Replacement" }}</a></li>
-              <li><a href="{{ $servicesURL }}pulmoner-kapak-yerlestirilmesi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔧</span>{{ i18n "service_pulmonary_valve" | default "Pulmonary Valve Replacement" }}</a></li>
-              <li><a href="{{ $servicesURL }}alkol-septal-ablasyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧪</span>{{ i18n "service_alcohol_ablation" | default "Alcohol Septal Ablation" }}</a></li>
-              <li><a href="{{ $servicesURL }}kalp-deligi-kapatma/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧱</span>{{ i18n "service_asd_pfo" | default "ASD/PFO Closure" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_tavi" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔄</span>{{ i18n "service_tavi" | default "TAVI (Aortic Valve)" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_mitraclip" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">📎</span>{{ i18n "service_mitraclip" | default "MitraClip" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_mitral_valvuloplasty" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🎈</span>{{ i18n "service_mitral_valvuloplasty" | default "Mitral Balloon Valvuloplasty" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_tricuspid_valve" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">💚</span>{{ i18n "service_tricuspid_valve" | default "Tricuspid Valve Replacement" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_pulmonary_valve" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔧</span>{{ i18n "service_pulmonary_valve" | default "Pulmonary Valve Replacement" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_alcohol_ablation" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧪</span>{{ i18n "service_alcohol_ablation" | default "Alcohol Septal Ablation" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_asd_pfo" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧱</span>{{ i18n "service_asd_pfo" | default "ASD/PFO Closure" }}</a></li>
             </ul>
           </div>
         </div>
@@ -140,14 +131,14 @@
           </div>
           <div class="card-body">
             <ul class="sub-service-list">
-              <li><a href="{{ $servicesURL }}sol-ana-koroner-stent/" class="sub-service-item"><span class="item-icon" aria-hidden="true">⭐</span>{{ i18n "service_left_main" | default "Left Main Coronary Intervention" }}</a></li>
-              <li><a href="{{ $servicesURL }}bifurkasyon-girisimi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔀</span>{{ i18n "service_bifurcation" | default "Bifurcation Interventions" }}</a></li>
-              <li><a href="{{ $servicesURL }}cto-girisimi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🎯</span>{{ i18n "service_cto" | default "Chronic Total Occlusion" }}</a></li>
-              <li><a href="{{ $servicesURL }}koroner-fistul-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔗</span>{{ i18n "service_coronary_fistula" | default "Coronary Fistula Treatment" }}</a></li>
-              <li><a href="{{ $servicesURL }}ivus/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔬</span>{{ i18n "service_ivus" | default "IVUS Imaging" }}</a></li>
-              <li><a href="{{ $servicesURL }}ffr/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📊</span>{{ i18n "service_ffr" | default "FFR Measurement" }}</a></li>
-              <li><a href="{{ $servicesURL }}koroner-anjiyoplasti/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💉</span>{{ i18n "service_angioplasty" | default "Coronary Angioplasty & Stenting" }}</a></li>
-              <li><a href="{{ $servicesURL }}miyokard-enfarktusu/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💔</span>{{ i18n "service_mi_treatment" | default "Myocardial Infarction Treatment" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_left_main" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">⭐</span>{{ i18n "service_left_main" | default "Left Main Coronary Intervention" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_bifurcation" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔀</span>{{ i18n "service_bifurcation" | default "Bifurcation Interventions" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_cto" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🎯</span>{{ i18n "service_cto" | default "Chronic Total Occlusion" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_coronary_fistula" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔗</span>{{ i18n "service_coronary_fistula" | default "Coronary Fistula Treatment" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_ivus" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔬</span>{{ i18n "service_ivus" | default "IVUS Imaging" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_ffr" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">📊</span>{{ i18n "service_ffr" | default "FFR Measurement" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_angioplasty" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">💉</span>{{ i18n "service_angioplasty" | default "Coronary Angioplasty & Stenting" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_mi_treatment" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">💔</span>{{ i18n "service_mi_treatment" | default "Myocardial Infarction Treatment" }}</a></li>
             </ul>
           </div>
         </div>
@@ -165,19 +156,19 @@
           </div>
           <div class="card-body">
             <ul class="sub-service-list">
-              <li><a href="{{ $servicesURL }}karotis-stenozu/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧠</span>{{ i18n "service_carotid" | default "Carotid Stenting" }}</a></li>
-              <li><a href="{{ $servicesURL }}renal-arter-stenozu/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🫘</span>{{ i18n "service_renal_artery" | default "Renal Artery Stenosis" }}</a></li>
-              <li><a href="{{ $servicesURL }}periferik-damar/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦵</span>{{ i18n "service_peripheral_vessel" | default "Peripheral Vessel Intervention" }}</a></li>
-              <li><a href="{{ $servicesURL }}dizustu-damar-tikanikligi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦵</span>{{ i18n "service_above_knee" | default "Above-Knee Vessel Occlusion" }}</a></li>
-              <li><a href="{{ $servicesURL }}dizalti-damar-tikanikligi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦶</span>{{ i18n "service_below_knee" | default "Below-Knee Vessel Occlusion" }}</a></li>
-              <li><a href="{{ $servicesURL }}iliak-arter-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛣️</span>{{ i18n "service_iliac_artery" | default "Iliac Artery Treatment" }}</a></li>
-              <li><a href="{{ $servicesURL }}evar-tevar/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔧</span>{{ i18n "service_evar_tevar" | default "EVAR - TEVAR" }}</a></li>
-              <li><a href="{{ $servicesURL }}aterektomi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🎯</span>{{ i18n "service_atherectomy" | default "Atherectomy" }}</a></li>
-              <li><a href="{{ $servicesURL }}diyaliz-fistul-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💉</span>{{ i18n "service_dialysis_fistula" | default "Dialysis Fistula Treatment" }}</a></li>
-              <li><a href="{{ $servicesURL }}akut-dvt-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛑</span>{{ i18n "service_acute_dvt" | default "Acute DVT Treatment" }}</a></li>
-              <li><a href="{{ $servicesURL }}kronik-dvt-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🕰️</span>{{ i18n "service_chronic_dvt" | default "Chronic DVT Treatment" }}</a></li>
-              <li><a href="{{ $servicesURL }}may-thurner/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🩺</span>{{ i18n "service_may_thurner" | default "May-Thurner Syndrome" }}</a></li>
-              <li><a href="{{ $servicesURL }}varikosel-pelvik-konjesyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🚺</span>{{ i18n "service_varicocele" | default "Varicocele & Pelvic Congestion" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_carotid" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧠</span>{{ i18n "service_carotid" | default "Carotid Stenting" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_renal_artery" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🫘</span>{{ i18n "service_renal_artery" | default "Renal Artery Stenosis" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_peripheral_vessel" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦵</span>{{ i18n "service_peripheral_vessel" | default "Peripheral Vessel Intervention" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_above_knee" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦵</span>{{ i18n "service_above_knee" | default "Above-Knee Vessel Occlusion" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_below_knee" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦶</span>{{ i18n "service_below_knee" | default "Below-Knee Vessel Occlusion" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_iliac_artery" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛣️</span>{{ i18n "service_iliac_artery" | default "Iliac Artery Treatment" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_evar_tevar" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔧</span>{{ i18n "service_evar_tevar" | default "EVAR - TEVAR" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_atherectomy" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🎯</span>{{ i18n "service_atherectomy" | default "Atherectomy" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_dialysis_fistula" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">💉</span>{{ i18n "service_dialysis_fistula" | default "Dialysis Fistula Treatment" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_acute_dvt" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛑</span>{{ i18n "service_acute_dvt" | default "Acute DVT Treatment" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_chronic_dvt" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🕰️</span>{{ i18n "service_chronic_dvt" | default "Chronic DVT Treatment" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_may_thurner" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🩺</span>{{ i18n "service_may_thurner" | default "May-Thurner Syndrome" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_varicocele" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🚺</span>{{ i18n "service_varicocele" | default "Varicocele & Pelvic Congestion" }}</a></li>
             </ul>
           </div>
         </div>
@@ -195,20 +186,20 @@
           </div>
           <div class="card-body">
             <ul class="sub-service-list">
-              <li><a href="{{ $servicesURL }}kardiyak-anjiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">❤️</span>{{ i18n "service_cardiac_angio" | default "Cardiac Angiography" }}</a></li>
-              <li><a href="{{ $servicesURL }}periferik-anjiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦵</span>{{ i18n "service_peripheral_angio" | default "Peripheral Angiography" }}</a></li>
-              <li><a href="{{ $servicesURL }}ekokardiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔊</span>{{ i18n "service_echo" | default "Echocardiography" }}</a></li>
-              <li><a href="{{ $servicesURL }}efor-testi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🏃</span>{{ i18n "service_exercise_test" | default "Exercise Test" }}</a></li>
-              <li><a href="{{ $servicesURL }}ekg/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📉</span>{{ i18n "service_ekg" | default "EKG" }}</a></li>
-              <li><a href="{{ $servicesURL }}transtorasik-ekokardiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🖥️</span>{{ i18n "service_tte" | default "Transthoracic Echo (TTE)" }}</a></li>
-              <li><a href="{{ $servicesURL }}transozofageal-ekokardiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🩺</span>{{ i18n "service_tee" | default "Transesophageal Echo (TEE)" }}</a></li>
-              <li><a href="{{ $servicesURL }}holter/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📡</span>{{ i18n "service_rhythm_holter" | default "Rhythm Holter" }}</a></li>
-              <li><a href="{{ $servicesURL }}tansiyon-holter/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📏</span>{{ i18n "service_bp_holter" | default "Blood Pressure Holter" }}</a></li>
-              <li><a href="{{ $servicesURL }}stres-ekokardiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💓</span>{{ i18n "service_stress_echo" | default "Stress Echocardiography" }}</a></li>
-              <li><a href="{{ $servicesURL }}miyokard-perfuzyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧲</span>{{ i18n "service_myocardial_perfusion" | default "Myocardial Perfusion" }}</a></li>
-              <li><a href="{{ $servicesURL }}radyal-anjiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔎</span>{{ i18n "service_radial_angio" | default "Radial Angiography" }}</a></li>
-              <li><a href="{{ $servicesURL }}kardiyak-bt/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💻</span>{{ i18n "service_cardiac_ct" | default "Coronary CT Angiography" }}</a></li>
-              <li><a href="{{ $servicesURL }}tilt-testi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧬</span>{{ i18n "service_tilt_test" | default "Tilt Test" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_cardiac_angio" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">❤️</span>{{ i18n "service_cardiac_angio" | default "Cardiac Angiography" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_peripheral_angio" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦵</span>{{ i18n "service_peripheral_angio" | default "Peripheral Angiography" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_echo" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔊</span>{{ i18n "service_echo" | default "Echocardiography" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_exercise_test" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🏃</span>{{ i18n "service_exercise_test" | default "Exercise Test" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_ekg" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">📉</span>{{ i18n "service_ekg" | default "EKG" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_tte" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🖥️</span>{{ i18n "service_tte" | default "Transthoracic Echo (TTE)" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_tee" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🩺</span>{{ i18n "service_tee" | default "Transesophageal Echo (TEE)" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_rhythm_holter" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">📡</span>{{ i18n "service_rhythm_holter" | default "Rhythm Holter" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_bp_holter" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">📏</span>{{ i18n "service_bp_holter" | default "Blood Pressure Holter" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_stress_echo" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">💓</span>{{ i18n "service_stress_echo" | default "Stress Echocardiography" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_myocardial_perfusion" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧲</span>{{ i18n "service_myocardial_perfusion" | default "Myocardial Perfusion" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_radial_angio" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔎</span>{{ i18n "service_radial_angio" | default "Radial Angiography" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_cardiac_ct" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">💻</span>{{ i18n "service_cardiac_ct" | default "Coronary CT Angiography" }}</a></li>
+              <li><a href="{{ i18n "all_services_url_tilt_test" }}" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧬</span>{{ i18n "service_tilt_test" | default "Tilt Test" }}</a></li>
             </ul>
           </div>
         </div>

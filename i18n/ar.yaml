@@ -229,6 +229,75 @@ service_cardiac_ct: "تصوير الأوعية التاجية بالأشعة ا�
 service_tilt_test: "اختبار الميل"
 
 # =============================================================================
+# All Services Section URLs - روابط قسم جميع الخدمات
+# =============================================================================
+# Clinical Cardiology Services
+all_services_url_hypertension: "/ar/services/hypertension/"
+all_services_url_hyperlipidemia: "/ar/services/hyperlipidemia-treatment/"
+all_services_url_cardiovascular_protection: "/ar/services/cardiovascular-prevention/"
+all_services_url_heart_failure: "/ar/services/heart-failure/"
+
+# Rhythm & Electrophysiology Services
+all_services_url_crt: "/ar/services/crt-pacemaker/"
+all_services_url_permanent_pacemaker: "/ar/services/permanent-pacemaker/"
+all_services_url_temporary_pacemaker: "/ar/services/temporary-pacemaker/"
+all_services_url_biventricular: "/ar/services/biventricular-pacemaker/"
+all_services_url_icd: "/ar/services/icd/"
+all_services_url_ablation: "/ar/services/ablation/"
+all_services_url_ep_study: "/ar/services/electrophysiology-study/"
+all_services_url_cardioversion: "/ar/services/cardioversion/"
+
+# Structural Heart Services
+all_services_url_tavi: "/ar/services/tavi/"
+all_services_url_mitraclip: "/ar/services/mitraclip/"
+all_services_url_mitral_valvuloplasty: "/ar/services/mitral-balloon-valvuloplasty/"
+all_services_url_tricuspid_valve: "/ar/services/tricuspid-valve/"
+all_services_url_pulmonary_valve: "/ar/services/pulmonary-valve/"
+all_services_url_alcohol_ablation: "/ar/services/alcohol-septal-ablation/"
+all_services_url_asd_pfo: "/ar/services/heart-hole-closure/"
+
+# Coronary Interventions
+all_services_url_left_main: "/ar/services/left-main-coronary-stent/"
+all_services_url_bifurcation: "/ar/services/bifurkasyon-girisimi/"
+all_services_url_cto: "/ar/services/cto-intervention/"
+all_services_url_coronary_fistula: "/ar/services/coronary-fistula-treatment/"
+all_services_url_ivus: "/ar/services/ivus/"
+all_services_url_ffr: "/ar/services/ffr/"
+all_services_url_angioplasty: "/ar/services/angiography/"
+all_services_url_mi_treatment: "/ar/services/myocardial-infarction/"
+
+# Peripheral Interventions
+all_services_url_carotid: "/ar/services/carotid-stenosis/"
+all_services_url_renal_artery: "/ar/services/renal-artery-stenosis/"
+all_services_url_peripheral_vessel: "/ar/services/peripheral-vascular/"
+all_services_url_above_knee: "/ar/services/above-knee-arterial-disease/"
+all_services_url_below_knee: "/ar/services/below-knee-arterial-disease/"
+all_services_url_iliac_artery: "/ar/services/iliac-artery-treatment/"
+all_services_url_evar_tevar: "/ar/services/evar-tevar/"
+all_services_url_atherectomy: "/ar/services/atherectomy/"
+all_services_url_dialysis_fistula: "/ar/services/dialysis-fistula-treatment/"
+all_services_url_acute_dvt: "/ar/services/acute-dvt-treatment/"
+all_services_url_chronic_dvt: "/ar/services/chronic-dvt-treatment/"
+all_services_url_may_thurner: "/ar/services/may-thurner-syndrome/"
+all_services_url_varicocele: "/ar/services/varicocele-pelvic-congestion/"
+
+# Diagnostic Procedures
+all_services_url_cardiac_angio: "/ar/services/angiography/"
+all_services_url_peripheral_angio: "/ar/services/peripheral-angiography/"
+all_services_url_echo: "/ar/services/echocardiography/"
+all_services_url_exercise_test: "/ar/services/exercise-stress-test/"
+all_services_url_ekg: "/ar/services/ekg/"
+all_services_url_tte: "/ar/services/transthoracic-echocardiography/"
+all_services_url_tee: "/ar/services/transesophageal-echocardiography/"
+all_services_url_rhythm_holter: "/ar/services/holter/"
+all_services_url_bp_holter: "/ar/services/ambulatory-blood-pressure-monitoring/"
+all_services_url_stress_echo: "/ar/services/stress-echocardiography/"
+all_services_url_myocardial_perfusion: "/ar/services/myocardial-perfusion/"
+all_services_url_radial_angio: "/ar/services/radial-angiography/"
+all_services_url_cardiac_ct: "/ar/services/cardiac-ct/"
+all_services_url_tilt_test: "/ar/services/tilt-table-test/"
+
+# =============================================================================
 # Interventional Cardiology Diagram - مخطط أمراض القلب التداخلية
 # =============================================================================
 ic_section_title: "خدمات أمراض القلب التداخلية"

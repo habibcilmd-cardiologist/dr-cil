@@ -110,6 +110,75 @@ service_cardiac_ct: "Koroner BT Anjiyografi"
 service_tilt_test: "Tilt Testi"
 
 # =============================================================================
+# All Services Section URLs - Tüm Hizmetler Bölümü URL'leri
+# =============================================================================
+# Clinical Cardiology Services
+all_services_url_hypertension: "/tr/hizmetler/hipertansiyon/"
+all_services_url_hyperlipidemia: "/tr/hizmetler/hiperlipidemi-tedavisi/"
+all_services_url_cardiovascular_protection: "/tr/hizmetler/kardiyovaskuler-korunma/"
+all_services_url_heart_failure: "/tr/hizmetler/kalp-yetmezligi/"
+
+# Rhythm & Electrophysiology Services
+all_services_url_crt: "/tr/hizmetler/uc-odacikli-kalp-pili/"
+all_services_url_permanent_pacemaker: "/tr/hizmetler/kalici-kalp-pili/"
+all_services_url_temporary_pacemaker: "/tr/hizmetler/gecici-kalp-pili/"
+all_services_url_biventricular: "/tr/hizmetler/biventrikuler-pacemaker/"
+all_services_url_icd: "/tr/hizmetler/icd/"
+all_services_url_ablation: "/tr/hizmetler/ablasyon/"
+all_services_url_ep_study: "/tr/hizmetler/elektrofizyolojik-test/"
+all_services_url_cardioversion: "/tr/hizmetler/kardiyoversiyon/"
+
+# Structural Heart Services
+all_services_url_tavi: "/tr/hizmetler/tavi/"
+all_services_url_mitraclip: "/tr/hizmetler/mitraclip/"
+all_services_url_mitral_valvuloplasty: "/tr/hizmetler/mitral-balon-valvuloplasti/"
+all_services_url_tricuspid_valve: "/tr/hizmetler/trikuspid-kapak/"
+all_services_url_pulmonary_valve: "/tr/hizmetler/pulmoner-kapak/"
+all_services_url_alcohol_ablation: "/tr/hizmetler/alkol-septal-ablasyon/"
+all_services_url_asd_pfo: "/tr/hizmetler/kalp-deligi-kapatma/"
+
+# Coronary Interventions
+all_services_url_left_main: "/tr/hizmetler/sol-ana-koroner-stent/"
+all_services_url_bifurcation: "/tr/hizmetler/bifurkasyon-girisimi/"
+all_services_url_cto: "/tr/hizmetler/cto-girisimi/"
+all_services_url_coronary_fistula: "/tr/hizmetler/koroner-fistul-tedavisi/"
+all_services_url_ivus: "/tr/hizmetler/ivus/"
+all_services_url_ffr: "/tr/hizmetler/ffr/"
+all_services_url_angioplasty: "/tr/hizmetler/anjiyoplasti/"
+all_services_url_mi_treatment: "/tr/hizmetler/miyokard-enfarktusu/"
+
+# Peripheral Interventions
+all_services_url_carotid: "/tr/hizmetler/karotis-stenozu/"
+all_services_url_renal_artery: "/tr/hizmetler/renal-arter-stenozu/"
+all_services_url_peripheral_vessel: "/tr/hizmetler/periferik-damar/"
+all_services_url_above_knee: "/tr/hizmetler/dizustu-damar-tikanikligi/"
+all_services_url_below_knee: "/tr/hizmetler/dizalti-damar-tikanikligi/"
+all_services_url_iliac_artery: "/tr/hizmetler/iliak-arter-tedavisi/"
+all_services_url_evar_tevar: "/tr/hizmetler/evar-tevar/"
+all_services_url_atherectomy: "/tr/hizmetler/aterektomi/"
+all_services_url_dialysis_fistula: "/tr/hizmetler/diyaliz-fistul-tedavisi/"
+all_services_url_acute_dvt: "/tr/hizmetler/akut-dvt-tedavisi/"
+all_services_url_chronic_dvt: "/tr/hizmetler/kronik-dvt-tedavisi/"
+all_services_url_may_thurner: "/tr/hizmetler/may-thurner-sendromu/"
+all_services_url_varicocele: "/tr/hizmetler/varikosel-pelvik-konjesyon/"
+
+# Diagnostic Procedures
+all_services_url_cardiac_angio: "/tr/hizmetler/anjiyografi/"
+all_services_url_peripheral_angio: "/tr/hizmetler/periferik-anjiyografi/"
+all_services_url_echo: "/tr/hizmetler/ekokardiyografi/"
+all_services_url_exercise_test: "/tr/hizmetler/efor-testi/"
+all_services_url_ekg: "/tr/hizmetler/ekg/"
+all_services_url_tte: "/tr/hizmetler/transtorasik-ekokardiyografi/"
+all_services_url_tee: "/tr/hizmetler/transozofageal-ekokardiyografi/"
+all_services_url_rhythm_holter: "/tr/hizmetler/holter/"
+all_services_url_bp_holter: "/tr/hizmetler/tansiyon-holter/"
+all_services_url_stress_echo: "/tr/hizmetler/stres-ekokardiyografi/"
+all_services_url_myocardial_perfusion: "/tr/hizmetler/miyokard-perfuzyon/"
+all_services_url_radial_angio: "/tr/hizmetler/radyal-anjiyografi/"
+all_services_url_cardiac_ct: "/tr/hizmetler/kardiyak-bt/"
+all_services_url_tilt_test: "/tr/hizmetler/tilt-testi/"
+
+# =============================================================================
 # Interventional Cardiology Diagram - Girişimsel Kardiyoloji Diyagramı
 # =============================================================================
 ic_section_title: "Girişimsel Kardiyoloji Hizmetleri"
