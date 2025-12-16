@@ -3650,3 +3650,597 @@ html.dark .ic-center-label {
 	transform: translateX(-4px);
 }
 
+/* =============================================================================
+   All Services Interactive Section - Living Cardiology Interface
+   Inspired by cardiovascular anatomy with lazy loading optimization
+   ============================================================================= */
+
+/* Main Section */
+.all-services-section {
+	/* Break out of prose container */
+	max-width: none !important;
+	width: 100vw !important;
+	position: relative;
+	left: 50%;
+	right: 50%;
+	margin-left: -50vw !important;
+	margin-right: -50vw !important;
+	margin-top: 4rem;
+	margin-bottom: 4rem;
+	padding: 4rem 0;
+	background-color: rgb(var(--color-neutral-50));
+	background-image: radial-gradient(rgb(var(--color-neutral-300)) 1px, transparent 1px);
+	background-size: 30px 30px;
+}
+
+/* Override prose styles completely for this section */
+.all-services-section *,
+.all-services-section a,
+.all-services-section a:hover,
+.all-services-section a:visited,
+.all-services-section h3,
+.all-services-section p,
+.all-services-section span,
+.all-services-section li {
+	text-decoration: none !important;
+	border-bottom: none !important;
+	text-underline-offset: initial !important;
+}
+
+.dark .all-services-section {
+	background-color: rgb(var(--color-neutral-900));
+	background-image: radial-gradient(rgb(var(--color-neutral-700)) 1px, transparent 1px);
+}
+
+.all-services-container {
+	max-width: 1300px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+/* Section Header */
+.all-services-header {
+	text-align: center;
+	margin-bottom: 3rem;
+}
+
+.all-services-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-bottom: 1rem;
+	color: rgb(var(--color-neutral-900));
+}
+
+.dark .all-services-title {
+	color: rgb(var(--color-neutral-100));
+}
+
+.all-services-subtitle {
+	font-size: 1.125rem;
+	color: rgb(var(--color-neutral-600));
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.dark .all-services-subtitle {
+	color: rgb(var(--color-neutral-400));
+}
+
+/* Loading State */
+.all-services-loading {
+	text-align: center;
+	padding: 4rem 2rem;
+	min-height: 400px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.loading-heart {
+	font-size: 4rem;
+	margin-bottom: 1rem;
+	animation: heartbeat-pulse 2s infinite ease-in-out;
+}
+
+@keyframes heartbeat-pulse {
+	0%, 100% { transform: scale(1); }
+	10% { transform: scale(1.1); }
+	20% { transform: scale(1); }
+	30% { transform: scale(1.15); }
+	40% { transform: scale(1); }
+}
+
+.all-services-loading p {
+	font-size: 1.125rem;
+	color: rgb(var(--color-neutral-600));
+}
+
+.dark .all-services-loading p {
+	color: rgb(var(--color-neutral-400));
+}
+
+/* Anatomy Stage */
+.anatomy-stage {
+	position: relative;
+	max-width: 1300px;
+	margin: 0 auto;
+	padding: 60px 20px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	gap: 60px;
+}
+
+/* SVG Vascular System Layer */
+.vascular-system {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+	z-index: 1;
+	overflow: visible;
+}
+
+.vessel-path {
+	fill: none;
+	stroke-width: 5;
+	stroke-linecap: round;
+	opacity: 0.6;
+	transition: opacity 0.3s ease;
+}
+
+.artery {
+	stroke: #ff6b81;
+	stroke-dasharray: 15, 10;
+	animation: pulseFlow 3s linear infinite;
+}
+
+.vein {
+	stroke: #4dabf7;
+	stroke-dasharray: 15, 10;
+	animation: pulseFlow 4s linear infinite reverse;
+}
+
+@keyframes pulseFlow {
+	to { stroke-dashoffset: -300; }
+}
+
+.active-connection {
+	stroke-width: 8;
+	opacity: 1;
+	filter: drop-shadow(0 0 8px currentColor);
+}
+
+/* Central Heart Hub (Sticky) */
+.heart-hub {
+	position: sticky;
+	top: 100px;
+	width: 300px;
+	z-index: 5;
+	flex-shrink: 0;
+	display: flex;
+	justify-content: center;
+	height: fit-content;
+}
+
+.anatomical-heart {
+	width: 100%;
+	max-width: 300px;
+	height: auto;
+	filter: sepia(0.2) hue-rotate(-10deg) saturate(1.1) drop-shadow(0 20px 40px rgba(255, 100, 100, 0.15));
+	animation: heartbeat-slow 6s infinite ease-in-out;
+	cursor: pointer;
+	transition: transform 0.3s ease;
+}
+
+.anatomical-heart:hover {
+	transform: scale(1.05);
+}
+
+@keyframes heartbeat-slow {
+	0%, 100% { transform: scale(1); }
+	5% { transform: scale(1.03); }
+	10% { transform: scale(1); }
+	15% { transform: scale(1.05); }
+	50% { transform: scale(1); }
+}
+
+/* Anchor Points */
+.anchor {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	visibility: hidden;
+}
+
+#anc-clinical { top: 65%; left: 30%; }
+#anc-rhythm { top: 25%; left: 35%; }
+#anc-structural { top: 20%; left: 55%; }
+#anc-coronary { top: 40%; left: 70%; }
+#anc-peripheral { top: 10%; left: 50%; }
+#anc-diagnostic { top: 85%; left: 50%; }
+
+/* Columns */
+.column {
+	display: flex;
+	flex-direction: column;
+	gap: 25px;
+	width: 340px;
+	z-index: 10;
+}
+
+/* Bio Cards */
+.bio-card {
+	background: rgba(255, 255, 255, 0.95);
+	backdrop-filter: blur(12px);
+	border: 1px solid rgb(var(--color-neutral-100));
+	border-radius: 18px;
+	width: 100%;
+	box-shadow: 0 5px 20px rgba(0, 0, 0, 0.04);
+	transition: box-shadow 0.3s ease, transform 0.3s ease, background 0.3s ease, border-color 0.3s ease;
+	cursor: pointer;
+	overflow: hidden;
+	position: relative;
+}
+
+.dark .bio-card {
+	background: rgba(var(--color-neutral-800), 0.95);
+	border-color: rgb(var(--color-neutral-700));
+}
+
+.bio-card:hover {
+	transform: translateY(-5px);
+	box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
+	background: rgb(var(--color-neutral-0));
+}
+
+.dark .bio-card:hover {
+	background: rgb(var(--color-neutral-800));
+	box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+}
+
+/* Card Header */
+.card-header {
+	padding: 18px;
+	display: flex;
+	align-items: center;
+	gap: 15px;
+	position: relative;
+	z-index: 2;
+	background: rgba(255, 255, 255, 0.4);
+}
+
+.dark .card-header {
+	background: rgba(var(--color-neutral-700), 0.4);
+}
+
+.icon-box {
+	width: 44px;
+	height: 44px;
+	border-radius: 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 22px;
+	background: rgb(var(--color-neutral-50));
+	transition: all 0.3s ease;
+}
+
+.dark .icon-box {
+	background: rgb(var(--color-neutral-700));
+}
+
+.card-info h3 {
+	margin: 0;
+	font-size: 17px;
+	color: rgb(var(--color-neutral-900));
+	font-weight: 700;
+	border-bottom: none;
+}
+
+.dark .card-info h3 {
+	color: rgb(var(--color-neutral-100));
+}
+
+.card-info p {
+	margin: 3px 0 0;
+	font-size: 12px;
+	color: rgb(var(--color-neutral-600));
+	border-bottom: none;
+}
+
+.dark .card-info p {
+	color: rgb(var(--color-neutral-400));
+}
+
+.toggle-icon {
+	margin-left: auto;
+	color: rgb(var(--color-neutral-400));
+	transition: transform 0.4s ease;
+}
+
+.dark .toggle-icon {
+	color: rgb(var(--color-neutral-500));
+}
+
+/* Card Body */
+.card-body {
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.6s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.4s ease;
+	opacity: 0;
+	background: rgb(var(--color-neutral-0));
+	border-top: 1px solid rgba(0, 0, 0, 0.03);
+}
+
+.card-body,
+.card-body *,
+.card-body a,
+.card-body span,
+.card-body p,
+.card-body li {
+	text-decoration: none !important;
+	border-bottom: none !important;
+}
+
+.dark .card-body {
+	background: rgb(var(--color-neutral-800));
+	border-top-color: rgb(var(--color-neutral-700));
+}
+
+.bio-card.active {
+	border-color: currentColor;
+	background: rgb(var(--color-neutral-0));
+}
+
+.dark .bio-card.active {
+	background: rgb(var(--color-neutral-800));
+}
+
+.bio-card.active .card-body {
+	max-height: 2000px;
+	opacity: 1;
+}
+
+.bio-card.active .toggle-icon {
+	transform: rotate(180deg);
+	color: rgb(var(--color-neutral-900));
+}
+
+.dark .bio-card.active .toggle-icon {
+	color: rgb(var(--color-neutral-100));
+}
+
+/* Theme Colors */
+.theme-red {
+	color: #ff6b81;
+}
+
+.theme-red .icon-box {
+	color: #ff8fa3;
+	background: #fff5f7;
+}
+
+.dark .theme-red .icon-box {
+	background: rgba(255, 107, 129, 0.1);
+}
+
+.theme-blue {
+	color: #4dabf7;
+}
+
+.theme-blue .icon-box {
+	color: #8ecae6;
+	background: #f0fbff;
+}
+
+.dark .theme-blue .icon-box {
+	background: rgba(77, 171, 247, 0.1);
+}
+
+/* Sub-service List */
+.sub-service-list {
+	list-style: none;
+	padding: 10px 15px 20px 15px;
+	margin: 0;
+}
+
+.sub-service-list,
+.sub-service-list * {
+	text-decoration: none !important;
+	border-bottom: none !important;
+}
+
+.sub-service-item {
+	display: flex;
+	align-items: center;
+	padding: 10px 12px;
+	margin-bottom: 4px;
+	border-radius: 8px;
+	color: rgb(var(--color-neutral-900));
+	text-decoration: none !important;
+	font-size: 14px;
+	transition: all 0.2s ease;
+	border-left: 3px solid transparent;
+	border-bottom: none !important;
+}
+
+.sub-service-item * {
+	text-decoration: none !important;
+	border-bottom: none !important;
+}
+
+.sub-service-item:hover {
+	text-decoration: none !important;
+	border-bottom: none !important;
+}
+
+.dark .sub-service-item {
+	color: rgb(var(--color-neutral-100));
+}
+
+.sub-service-item:hover {
+	background: rgb(var(--color-neutral-100));
+	transform: translateX(5px);
+}
+
+.dark .sub-service-item:hover {
+	background: rgb(var(--color-neutral-700));
+}
+
+.item-icon {
+	margin-right: 10px;
+	font-size: 16px;
+	min-width: 20px;
+	text-align: center;
+}
+
+.theme-red .sub-service-item:hover {
+	border-left-color: #ff6b81;
+	color: #ff6b81;
+}
+
+.theme-blue .sub-service-item:hover {
+	border-left-color: #4dabf7;
+	color: #4dabf7;
+}
+
+/* Connection Points */
+.connection-point {
+	position: absolute;
+	top: 40px;
+	width: 8px;
+	height: 8px;
+	background: rgb(var(--color-neutral-0));
+	border: 2px solid rgb(var(--color-neutral-300));
+	border-radius: 50%;
+	z-index: 5;
+	transition: background 0.3s ease;
+}
+
+.dark .connection-point {
+	background: rgb(var(--color-neutral-800));
+	border-color: rgb(var(--color-neutral-600));
+}
+
+.bio-card.active .connection-point {
+	background: currentColor;
+	border-color: currentColor;
+}
+
+.column-left .connection-point {
+	right: -5px;
+	border-color: #ff6b81;
+}
+
+.column-right .connection-point {
+	left: -5px;
+	border-color: #4dabf7;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+	.all-services-section {
+		padding: 3rem 0;
+	}
+	
+	.anatomy-stage {
+		flex-direction: column;
+		align-items: center;
+		gap: 30px;
+		padding: 30px 15px;
+		min-height: auto;
+	}
+	
+	.heart-hub {
+		position: relative;
+		top: 0;
+		width: 200px;
+		margin-bottom: 20px;
+		order: 1;
+	}
+	
+	.column {
+		width: 100%;
+		gap: 15px;
+		order: 2;
+	}
+	
+	.vascular-system {
+		display: none;
+	}
+	
+	.connection-point {
+		display: none;
+	}
+}
+
+@media (max-width: 640px) {
+	.all-services-title {
+		font-size: 2rem;
+	}
+	
+	.all-services-subtitle {
+		font-size: 1rem;
+	}
+	
+	.anatomy-stage {
+		padding: 20px 10px;
+	}
+	
+	.heart-hub {
+		width: 180px;
+	}
+	
+	.card-info h3 {
+		font-size: 15px;
+	}
+	
+	.card-info p {
+		font-size: 11px;
+	}
+	
+	.sub-service-item {
+		font-size: 13px;
+		padding: 8px 10px;
+	}
+}
+
+/* RTL Support */
+[dir="rtl"] .item-icon {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+[dir="rtl"] .sub-service-item {
+	border-left: none;
+	border-right: 3px solid transparent;
+}
+
+[dir="rtl"] .sub-service-item:hover {
+	transform: translateX(-5px);
+}
+
+[dir="rtl"] .theme-red .sub-service-item:hover {
+	border-right-color: #ff6b81;
+	border-left-color: transparent;
+}
+
+[dir="rtl"] .theme-blue .sub-service-item:hover {
+	border-right-color: #4dabf7;
+	border-left-color: transparent;
+}
+
+[dir="rtl"] .column-left .connection-point {
+	right: auto;
+	left: -5px;
+}
+
+[dir="rtl"] .column-right .connection-point {
+	left: auto;
+	right: -5px;
+}
+

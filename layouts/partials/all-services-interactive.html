@@ -1,0 +1,412 @@
+{{/* All Services Interactive Section - Living Cardiology Interface */}}
+{{/* Inspired by cardiovascular anatomy with lazy loading optimization */}}
+
+{{/* Detect current language */}}
+{{ $lang := .Site.Language.Lang }}
+{{ $servicesURL := "" }}
+{{ if eq $lang "tr" }}
+  {{ $servicesURL = "/tr/hizmetler/" }}
+{{ else if eq $lang "en" }}
+  {{ $servicesURL = "/en/services/" }}
+{{ else if eq $lang "ar" }}
+  {{ $servicesURL = "/ar/services/" }}
+{{ end }}
+
+<section id="all-services-interactive" class="all-services-section" aria-label="{{ i18n "all_services_title" | default "All Medical Services" }}">
+  <div class="all-services-container">
+    
+    {{/* Section Header */}}
+    <header class="all-services-header">
+      <h2 class="all-services-title">{{ i18n "all_services_title" | default "All Medical Services" }}</h2>
+      <p class="all-services-subtitle">{{ i18n "all_services_subtitle" | default "Comprehensive cardiovascular care with advanced interventional procedures" }}</p>
+    </header>
+
+    {{/* Loading placeholder - visible until JS initializes */}}
+    <div id="all-services-loading" class="all-services-loading">
+      <div class="loading-heart">❤️</div>
+      <p>{{ i18n "all_services_loading" | default "Loading Services..." }}</p>
+    </div>
+
+    {{/* Interactive Anatomy Stage - Hidden initially, shown by JS */}}
+    <div id="all-services-stage" class="anatomy-stage" style="display: none;">
+      
+      {{/* SVG Vascular System Layer */}}
+      <svg id="vascular-system" class="vascular-system" aria-hidden="true"></svg>
+
+      {{/* Left Column - Clinical Services */}}
+      <div class="column column-left">
+        
+        {{/* Clinical Cardiology Card */}}
+        <div class="bio-card theme-red" id="card-clinical" role="button" tabindex="0" aria-expanded="false">
+          <div class="connection-point" aria-hidden="true"></div>
+          <div class="card-header">
+            <div class="icon-box" aria-hidden="true">🫀</div>
+            <div class="card-info">
+              <h3>{{ i18n "service_clinical_title" | default "Clinical Cardiology" }}</h3>
+              <p>{{ i18n "service_clinical_desc" | default "Diagnosis, Follow-up and Prevention" }}</p>
+            </div>
+            <div class="toggle-icon" aria-hidden="true">▼</div>
+          </div>
+          <div class="card-body">
+            <ul class="sub-service-list">
+              <li><a href="{{ $servicesURL }}hipertansiyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📈</span>{{ i18n "service_hypertension" | default "Hypertension" }}</a></li>
+              <li><a href="{{ $servicesURL }}hiperlipidemi-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🩸</span>{{ i18n "service_hyperlipidemia" | default "Hyperlipidemia Treatment" }}</a></li>
+              <li><a href="{{ $servicesURL }}kardiyovaskuler-korunma/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛡️</span>{{ i18n "service_cardiovascular_protection" | default "Cardiovascular Prevention" }}</a></li>
+              <li><a href="{{ $servicesURL }}kalp-yetmezligi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💗</span>{{ i18n "service_heart_failure" | default "Heart Failure" }}</a></li>
+            </ul>
+          </div>
+        </div>
+
+        {{/* Rhythm & Electrophysiology Card */}}
+        <div class="bio-card theme-red" id="card-rhythm" role="button" tabindex="0" aria-expanded="false">
+          <div class="connection-point" aria-hidden="true"></div>
+          <div class="card-header">
+            <div class="icon-box" aria-hidden="true">⚡</div>
+            <div class="card-info">
+              <h3>{{ i18n "service_rhythm_title" | default "Pacemaker & Electrophysiology" }}</h3>
+              <p>{{ i18n "service_rhythm_desc" | default "Electrophysiology & Ablation" }}</p>
+            </div>
+            <div class="toggle-icon" aria-hidden="true">▼</div>
+          </div>
+          <div class="card-body">
+            <ul class="sub-service-list">
+              <li><a href="{{ $servicesURL }}uc-odacikli-kalp-pili/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔋</span>{{ i18n "service_crt" | default "CRT Pacemaker" }}</a></li>
+              <li><a href="{{ $servicesURL }}kalici-kalp-pili/" class="sub-service-item"><span class="item-icon" aria-hidden="true">⚡</span>{{ i18n "service_permanent_pacemaker" | default "Permanent Pacemaker" }}</a></li>
+              <li><a href="{{ $servicesURL }}gecici-kalp-pili/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔌</span>{{ i18n "service_temporary_pacemaker" | default "Temporary Pacemaker" }}</a></li>
+              <li><a href="{{ $servicesURL }}biventrikuler-pacemaker/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💫</span>{{ i18n "service_biventricular" | default "Biventricular Pacemaker" }}</a></li>
+              <li><a href="{{ $servicesURL }}icd/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛡️</span>{{ i18n "service_icd" | default "ICD (Shock Device)" }}</a></li>
+              <li><a href="{{ $servicesURL }}ablasyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">⚡</span>{{ i18n "service_ablation" | default "Ablation" }}</a></li>
+              <li><a href="{{ $servicesURL }}elektrofizyolojik-test/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔬</span>{{ i18n "service_ep_study" | default "Electrophysiological Study" }}</a></li>
+              <li><a href="{{ $servicesURL }}kardiyoversiyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💥</span>{{ i18n "service_cardioversion" | default "Cardioversion" }}</a></li>
+            </ul>
+          </div>
+        </div>
+
+        {{/* Structural Heart Card */}}
+        <div class="bio-card theme-red" id="card-structural" role="button" tabindex="0" aria-expanded="false">
+          <div class="connection-point" aria-hidden="true"></div>
+          <div class="card-header">
+            <div class="icon-box" aria-hidden="true">🔄</div>
+            <div class="card-info">
+              <h3>{{ i18n "service_structural_title" | default "Structural Interventions" }}</h3>
+              <p>{{ i18n "service_structural_desc" | default "Valve Repair & Defect Closure" }}</p>
+            </div>
+            <div class="toggle-icon" aria-hidden="true">▼</div>
+          </div>
+          <div class="card-body">
+            <ul class="sub-service-list">
+              <li><a href="{{ $servicesURL }}tavi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔄</span>{{ i18n "service_tavi" | default "TAVI (Aortic Valve)" }}</a></li>
+              <li><a href="{{ $servicesURL }}mitraclip/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📎</span>{{ i18n "service_mitraclip" | default "MitraClip" }}</a></li>
+              <li><a href="{{ $servicesURL }}mitral-kapak/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🎈</span>{{ i18n "service_mitral_valvuloplasty" | default "Mitral Balloon Valvuloplasty" }}</a></li>
+              <li><a href="{{ $servicesURL }}trikuspid-kapak-yerlestirilmesi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💚</span>{{ i18n "service_tricuspid_valve" | default "Tricuspid Valve Replacement" }}</a></li>
+              <li><a href="{{ $servicesURL }}pulmoner-kapak-yerlestirilmesi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔧</span>{{ i18n "service_pulmonary_valve" | default "Pulmonary Valve Replacement" }}</a></li>
+              <li><a href="{{ $servicesURL }}alkol-septal-ablasyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧪</span>{{ i18n "service_alcohol_ablation" | default "Alcohol Septal Ablation" }}</a></li>
+              <li><a href="{{ $servicesURL }}kalp-deligi-kapatma/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧱</span>{{ i18n "service_asd_pfo" | default "ASD/PFO Closure" }}</a></li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+      {{/* Central Heart Hub - Sticky */}}
+      <div class="heart-hub">
+        <img src="/img/anatomical-heart-diagram.svg" 
+             class="anatomical-heart" 
+             alt="{{ i18n "anatomical_heart_alt" | default "Anatomical heart diagram showing cardiovascular connections" }}"
+             loading="lazy"
+             width="300"
+             height="300">
+        <div class="anchor" id="anc-clinical" aria-hidden="true"></div>
+        <div class="anchor" id="anc-rhythm" aria-hidden="true"></div>
+        <div class="anchor" id="anc-structural" aria-hidden="true"></div>
+        <div class="anchor" id="anc-coronary" aria-hidden="true"></div>
+        <div class="anchor" id="anc-peripheral" aria-hidden="true"></div>
+        <div class="anchor" id="anc-diagnostic" aria-hidden="true"></div>
+      </div>
+
+      {{/* Right Column - Interventional Services */}}
+      <div class="column column-right">
+        
+        {{/* Coronary Interventions Card */}}
+        <div class="bio-card theme-blue" id="card-coronary" role="button" tabindex="0" aria-expanded="false">
+          <div class="connection-point" aria-hidden="true"></div>
+          <div class="card-header">
+            <div class="icon-box" aria-hidden="true">🔧</div>
+            <div class="card-info">
+              <h3>{{ i18n "service_coronary_title" | default "Coronary Interventions" }}</h3>
+              <p>{{ i18n "service_coronary_desc" | default "Stent, CTO & Angioplasty" }}</p>
+            </div>
+            <div class="toggle-icon" aria-hidden="true">▼</div>
+          </div>
+          <div class="card-body">
+            <ul class="sub-service-list">
+              <li><a href="{{ $servicesURL }}sol-ana-koroner-stent/" class="sub-service-item"><span class="item-icon" aria-hidden="true">⭐</span>{{ i18n "service_left_main" | default "Left Main Coronary Intervention" }}</a></li>
+              <li><a href="{{ $servicesURL }}bifurkasyon-girisimi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔀</span>{{ i18n "service_bifurcation" | default "Bifurcation Interventions" }}</a></li>
+              <li><a href="{{ $servicesURL }}cto-girisimi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🎯</span>{{ i18n "service_cto" | default "Chronic Total Occlusion" }}</a></li>
+              <li><a href="{{ $servicesURL }}koroner-fistul-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔗</span>{{ i18n "service_coronary_fistula" | default "Coronary Fistula Treatment" }}</a></li>
+              <li><a href="{{ $servicesURL }}ivus/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔬</span>{{ i18n "service_ivus" | default "IVUS Imaging" }}</a></li>
+              <li><a href="{{ $servicesURL }}ffr/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📊</span>{{ i18n "service_ffr" | default "FFR Measurement" }}</a></li>
+              <li><a href="{{ $servicesURL }}koroner-anjiyoplasti/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💉</span>{{ i18n "service_angioplasty" | default "Coronary Angioplasty & Stenting" }}</a></li>
+              <li><a href="{{ $servicesURL }}miyokard-enfarktusu/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💔</span>{{ i18n "service_mi_treatment" | default "Myocardial Infarction Treatment" }}</a></li>
+            </ul>
+          </div>
+        </div>
+
+        {{/* Peripheral Interventions Card */}}
+        <div class="bio-card theme-blue" id="card-peripheral" role="button" tabindex="0" aria-expanded="false">
+          <div class="connection-point" aria-hidden="true"></div>
+          <div class="card-header">
+            <div class="icon-box" aria-hidden="true">🦵</div>
+            <div class="card-info">
+              <h3>{{ i18n "service_peripheral_title" | default "Peripheral Interventions" }}</h3>
+              <p>{{ i18n "service_peripheral_desc" | default "Carotid, Leg & Vein Treatments" }}</p>
+            </div>
+            <div class="toggle-icon" aria-hidden="true">▼</div>
+          </div>
+          <div class="card-body">
+            <ul class="sub-service-list">
+              <li><a href="{{ $servicesURL }}karotis-stenozu/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧠</span>{{ i18n "service_carotid" | default "Carotid Stenting" }}</a></li>
+              <li><a href="{{ $servicesURL }}renal-arter-stenozu/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🫘</span>{{ i18n "service_renal_artery" | default "Renal Artery Stenosis" }}</a></li>
+              <li><a href="{{ $servicesURL }}periferik-damar/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦵</span>{{ i18n "service_peripheral_vessel" | default "Peripheral Vessel Intervention" }}</a></li>
+              <li><a href="{{ $servicesURL }}dizustu-damar-tikanikligi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦵</span>{{ i18n "service_above_knee" | default "Above-Knee Vessel Occlusion" }}</a></li>
+              <li><a href="{{ $servicesURL }}dizalti-damar-tikanikligi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦶</span>{{ i18n "service_below_knee" | default "Below-Knee Vessel Occlusion" }}</a></li>
+              <li><a href="{{ $servicesURL }}iliak-arter-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛣️</span>{{ i18n "service_iliac_artery" | default "Iliac Artery Treatment" }}</a></li>
+              <li><a href="{{ $servicesURL }}evar-tevar/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔧</span>{{ i18n "service_evar_tevar" | default "EVAR - TEVAR" }}</a></li>
+              <li><a href="{{ $servicesURL }}aterektomi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🎯</span>{{ i18n "service_atherectomy" | default "Atherectomy" }}</a></li>
+              <li><a href="{{ $servicesURL }}diyaliz-fistul-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💉</span>{{ i18n "service_dialysis_fistula" | default "Dialysis Fistula Treatment" }}</a></li>
+              <li><a href="{{ $servicesURL }}akut-dvt-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🛑</span>{{ i18n "service_acute_dvt" | default "Acute DVT Treatment" }}</a></li>
+              <li><a href="{{ $servicesURL }}kronik-dvt-tedavisi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🕰️</span>{{ i18n "service_chronic_dvt" | default "Chronic DVT Treatment" }}</a></li>
+              <li><a href="{{ $servicesURL }}may-thurner/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🩺</span>{{ i18n "service_may_thurner" | default "May-Thurner Syndrome" }}</a></li>
+              <li><a href="{{ $servicesURL }}varikosel-pelvik-konjesyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🚺</span>{{ i18n "service_varicocele" | default "Varicocele & Pelvic Congestion" }}</a></li>
+            </ul>
+          </div>
+        </div>
+
+        {{/* Diagnostic Procedures Card */}}
+        <div class="bio-card theme-blue" id="card-diagnostic" role="button" tabindex="0" aria-expanded="false">
+          <div class="connection-point" aria-hidden="true"></div>
+          <div class="card-header">
+            <div class="icon-box" aria-hidden="true">🩺</div>
+            <div class="card-info">
+              <h3>{{ i18n "service_diagnostic_title" | default "Diagnostic Procedures" }}</h3>
+              <p>{{ i18n "service_diagnostic_desc" | default "Angiography, Echo & Tests" }}</p>
+            </div>
+            <div class="toggle-icon" aria-hidden="true">▼</div>
+          </div>
+          <div class="card-body">
+            <ul class="sub-service-list">
+              <li><a href="{{ $servicesURL }}kardiyak-anjiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">❤️</span>{{ i18n "service_cardiac_angio" | default "Cardiac Angiography" }}</a></li>
+              <li><a href="{{ $servicesURL }}periferik-anjiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🦵</span>{{ i18n "service_peripheral_angio" | default "Peripheral Angiography" }}</a></li>
+              <li><a href="{{ $servicesURL }}ekokardiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔊</span>{{ i18n "service_echo" | default "Echocardiography" }}</a></li>
+              <li><a href="{{ $servicesURL }}efor-testi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🏃</span>{{ i18n "service_exercise_test" | default "Exercise Test" }}</a></li>
+              <li><a href="{{ $servicesURL }}ekg/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📉</span>{{ i18n "service_ekg" | default "EKG" }}</a></li>
+              <li><a href="{{ $servicesURL }}transtorasik-ekokardiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🖥️</span>{{ i18n "service_tte" | default "Transthoracic Echo (TTE)" }}</a></li>
+              <li><a href="{{ $servicesURL }}transozofageal-ekokardiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🩺</span>{{ i18n "service_tee" | default "Transesophageal Echo (TEE)" }}</a></li>
+              <li><a href="{{ $servicesURL }}holter/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📡</span>{{ i18n "service_rhythm_holter" | default "Rhythm Holter" }}</a></li>
+              <li><a href="{{ $servicesURL }}tansiyon-holter/" class="sub-service-item"><span class="item-icon" aria-hidden="true">📏</span>{{ i18n "service_bp_holter" | default "Blood Pressure Holter" }}</a></li>
+              <li><a href="{{ $servicesURL }}stres-ekokardiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💓</span>{{ i18n "service_stress_echo" | default "Stress Echocardiography" }}</a></li>
+              <li><a href="{{ $servicesURL }}miyokard-perfuzyon/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧲</span>{{ i18n "service_myocardial_perfusion" | default "Myocardial Perfusion" }}</a></li>
+              <li><a href="{{ $servicesURL }}radyal-anjiyografi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🔎</span>{{ i18n "service_radial_angio" | default "Radial Angiography" }}</a></li>
+              <li><a href="{{ $servicesURL }}kardiyak-bt/" class="sub-service-item"><span class="item-icon" aria-hidden="true">💻</span>{{ i18n "service_cardiac_ct" | default "Coronary CT Angiography" }}</a></li>
+              <li><a href="{{ $servicesURL }}tilt-testi/" class="sub-service-item"><span class="item-icon" aria-hidden="true">🧬</span>{{ i18n "service_tilt_test" | default "Tilt Test" }}</a></li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+{{/* 
+  SEO Optimization Notes:
+  - Uses Intersection Observer for lazy initialization (like 3D heart model)
+  - requestIdleCallback prevents blocking main thread
+  - All service links properly structured for internal linking
+  - Semantic HTML with ARIA labels for accessibility
+  - SVG vascular system drawn dynamically only on desktop
+  - Mobile-responsive with simplified layout
+*/}}
+
+<script>
+(function() {
+  'use strict';
+  
+  // Skip if not in browser or if user prefers reduced motion
+  if (typeof window === 'undefined') return;
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    document.getElementById('all-services-loading').style.display = 'none';
+    document.getElementById('all-services-stage').style.display = 'block';
+    return;
+  }
+  
+  const container = document.getElementById('all-services-interactive');
+  if (!container) return;
+  
+  let isInitialized = false;
+  
+  // Lazy load the interactive functionality only when section is visible
+  const initObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting && !isInitialized) {
+        isInitialized = true;
+        initObserver.disconnect();
+        
+        // Use requestIdleCallback for non-blocking initialization
+        if ('requestIdleCallback' in window) {
+          requestIdleCallback(() => initInteractive(), { timeout: 2000 });
+        } else {
+          setTimeout(() => initInteractive(), 100);
+        }
+      }
+    });
+  }, { 
+    rootMargin: '200px',  // Start loading 200px before visible
+    threshold: 0.1 
+  });
+  
+  initObserver.observe(container);
+  
+  function initInteractive() {
+    const loading = document.getElementById('all-services-loading');
+    const stage = document.getElementById('all-services-stage');
+    
+    if (!stage) return;
+    
+    // Hide loading, show stage
+    if (loading) loading.style.display = 'none';
+    stage.style.display = 'flex';
+    
+    // Initialize vascular connections
+    initVascularConnections();
+    
+    // Initialize card interactions
+    initCardInteractions();
+  }
+  
+  function initVascularConnections() {
+    // Only draw vessels on desktop
+    if (window.innerWidth <= 1024) return;
+    
+    function drawVessel(svgId, anchorId, cardId, type) {
+      const svg = document.getElementById(svgId);
+      const anchor = document.getElementById(anchorId);
+      const card = document.getElementById(cardId);
+      
+      if (!svg || !anchor || !card) return;
+
+      const connectPoint = card.querySelector('.connection-point');
+      if (!connectPoint) return;
+
+      const svgRect = svg.getBoundingClientRect();
+      const anchorRect = anchor.getBoundingClientRect();
+      const pointRect = connectPoint.getBoundingClientRect();
+
+      const x1 = anchorRect.left - svgRect.left;
+      const y1 = anchorRect.top - svgRect.top;
+      const x2 = pointRect.left + pointRect.width/2 - svgRect.left;
+      const y2 = pointRect.top + pointRect.height/2 - svgRect.top;
+
+      const cp1x = x1 + (x2 - x1) * 0.5;
+      const cp1y = y1;
+      const cp2x = x2 - (x2 - x1) * 0.2;
+      const cp2y = y2;
+
+      const d = `M ${x1} ${y1} C ${cp1x} ${cp1y}, ${cp2x} ${cp2y}, ${x2} ${y2}`;
+
+      let path = document.getElementById(`path-${cardId}`);
+      if (!path) {
+        path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        path.id = `path-${cardId}`;
+        path.classList.add('vessel-path', type);
+        svg.appendChild(path);
+      }
+      path.setAttribute("d", d);
+
+      if(card.classList.contains('active')) {
+        path.classList.add('active-connection');
+      } else {
+        path.classList.remove('active-connection');
+      }
+    }
+
+    function updateAllConnections() {
+      if (window.innerWidth <= 1024) return;
+
+      // Left column - arteries
+      drawVessel('vascular-system', 'anc-clinical', 'card-clinical', 'artery');
+      drawVessel('vascular-system', 'anc-rhythm', 'card-rhythm', 'artery');
+      drawVessel('vascular-system', 'anc-structural', 'card-structural', 'artery');
+
+      // Right column - veins
+      drawVessel('vascular-system', 'anc-coronary', 'card-coronary', 'vein');
+      drawVessel('vascular-system', 'anc-peripheral', 'card-peripheral', 'vein');
+      drawVessel('vascular-system', 'anc-diagnostic', 'card-diagnostic', 'vein');
+    }
+
+    // Initial draw
+    updateAllConnections();
+    
+    // Update on resize and scroll
+    let resizeTimeout;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimeout);
+      resizeTimeout = setTimeout(updateAllConnections, 100);
+    });
+    
+    window.addEventListener('scroll', updateAllConnections, { passive: true });
+    
+    // Store update function for card interactions
+    window.updateVascularConnections = updateAllConnections;
+  }
+  
+  function initCardInteractions() {
+    document.querySelectorAll('.bio-card').forEach(card => {
+      // Click handler
+      card.addEventListener('click', function(e) {
+        // Don't toggle if clicking a link
+        if(e.target.closest('a')) return;
+        
+        toggleCard(this);
+      });
+      
+      // Keyboard handler
+      card.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          toggleCard(this);
+        }
+      });
+    });
+  }
+  
+  function toggleCard(card) {
+    const wasActive = card.classList.contains('active');
+    
+    // Toggle active state
+    card.classList.toggle('active');
+    
+    // Update ARIA
+    card.setAttribute('aria-expanded', !wasActive);
+    
+    // Animate vascular connections during transition
+    if (window.updateVascularConnections) {
+      let startTime = performance.now();
+      const duration = 700;
+
+      function animate(currentTime) {
+        const elapsed = currentTime - startTime;
+        window.updateVascularConnections();
+
+        if (elapsed < duration) {
+          requestAnimationFrame(animate);
+        }
+      }
+      requestAnimationFrame(animate);
+    }
+  }
+  
+})();
+</script>

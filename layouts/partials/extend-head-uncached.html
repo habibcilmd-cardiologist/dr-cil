@@ -404,3 +404,76 @@ MedicalWebPage Schema for clinic pages */}}
 </script>
 {{ end }} {{ end }} {{ partial "schema-scholarly.html" . }} {{ partial
 "schema-procedure.html" . }} {{ partial "schema-faq.html" . }}
+{{/* ItemList Schema for All Services on Homepage */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ if eq .Site.Language.Lang "tr" }}"Tüm Kardiyoloji Hizmetleri"{{ else if eq .Site.Language.Lang "ar" }}"جميع خدمات أمراض القلب"{{ else }}"All Cardiology Services"{{ end }},
+  "description": {{ if eq .Site.Language.Lang "tr" }}"İleri seviye girişimsel prosedürlerle kapsamlı kardiyovasküler bakım hizmetleri"{{ else if eq .Site.Language.Lang "ar" }}"رعاية شاملة للقلب والأوعية الدموية مع إجراءات تداخلية متقدمة"{{ else }}"Comprehensive cardiovascular care with advanced interventional procedures"{{ end }},
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "MedicalProcedure",
+        "name": {{ if eq .Site.Language.Lang "tr" }}"Klinik Kardiyoloji"{{ else if eq .Site.Language.Lang "ar" }}"أمراض القلب السريرية"{{ else }}"Clinical Cardiology"{{ end }},
+        "description": {{ if eq .Site.Language.Lang "tr" }}"Tanı, Takip ve Korunma"{{ else if eq .Site.Language.Lang "ar" }}"التشخيص والمتابعة والوقاية"{{ else }}"Diagnosis, Follow-up and Prevention"{{ end }},
+        "url": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr{{ else if eq .Site.Language.Lang "ar" }}ar{{ else }}en{{ end }}/hizmetler/#klinik-kardiyoloji"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "MedicalProcedure",
+        "name": {{ if eq .Site.Language.Lang "tr" }}"Kalp Pili & Elektrofizyoloji"{{ else if eq .Site.Language.Lang "ar" }}"منظم ضربات القلب والفيزيولوجيا الكهربية"{{ else }}"Pacemaker & Electrophysiology"{{ end }},
+        "description": {{ if eq .Site.Language.Lang "tr" }}"Elektrofizyoloji & Ablasyon"{{ else if eq .Site.Language.Lang "ar" }}"الفيزيولوجيا الكهربية والاستئصال"{{ else }}"Electrophysiology & Ablation"{{ end }},
+        "url": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr{{ else if eq .Site.Language.Lang "ar" }}ar{{ else }}en{{ end }}/hizmetler/#kalp-pili-elektrofizyoloji"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "MedicalProcedure",
+        "name": {{ if eq .Site.Language.Lang "tr" }}"Yapısal Girişimler"{{ else if eq .Site.Language.Lang "ar" }}"التدخلات الهيكلية"{{ else }}"Structural Interventions"{{ end }},
+        "description": {{ if eq .Site.Language.Lang "tr" }}"Kapak Tamiri & Delik Kapatma"{{ else if eq .Site.Language.Lang "ar" }}"إصلاح الصمام وإغلاق العيوب"{{ else }}"Valve Repair & Defect Closure"{{ end }},
+        "url": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr{{ else if eq .Site.Language.Lang "ar" }}ar{{ else }}en{{ end }}/hizmetler/#yapisal-girisimler"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "MedicalProcedure",
+        "name": {{ if eq .Site.Language.Lang "tr" }}"Koroner Girişimler"{{ else if eq .Site.Language.Lang "ar" }}"التدخلات التاجية"{{ else }}"Coronary Interventions"{{ end }},
+        "description": {{ if eq .Site.Language.Lang "tr" }}"Stent, CTO & Anjiyoplasti"{{ else if eq .Site.Language.Lang "ar" }}"الدعامة، الانسداد التام المزمن والرأب"{{ else }}"Stent, CTO & Angioplasty"{{ end }},
+        "url": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr{{ else if eq .Site.Language.Lang "ar" }}ar{{ else }}en{{ end }}/hizmetler/#koroner-girisimler"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "MedicalProcedure",
+        "name": {{ if eq .Site.Language.Lang "tr" }}"Periferik Girişimler"{{ else if eq .Site.Language.Lang "ar" }}"التدخلات الطرفية"{{ else }}"Peripheral Interventions"{{ end }},
+        "description": {{ if eq .Site.Language.Lang "tr" }}"Şahdamarı, Bacak & Varis"{{ else if eq .Site.Language.Lang "ar" }}"الشريان السباتي والساق والأوردة"{{ else }}"Carotid, Leg & Vein Treatments"{{ end }},
+        "url": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr{{ else if eq .Site.Language.Lang "ar" }}ar{{ else }}en{{ end }}/hizmetler/#periferik-girisimler"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "MedicalProcedure",
+        "name": {{ if eq .Site.Language.Lang "tr" }}"Tanısal İşlemler"{{ else if eq .Site.Language.Lang "ar" }}"الإجراءات التشخيصية"{{ else }}"Diagnostic Procedures"{{ end }},
+        "description": {{ if eq .Site.Language.Lang "tr" }}"Anjiyo, Eko & Testler"{{ else if eq .Site.Language.Lang "ar" }}"التصوير الوعائي والصدى والفحوصات"{{ else }}"Angiography, Echo & Tests"{{ end }},
+        "url": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr{{ else if eq .Site.Language.Lang "ar" }}ar{{ else }}en{{ end }}/hizmetler/#tanisal-islemler"
+      }
+    }
+  ]
+}
+</script>
+{{ end }}
