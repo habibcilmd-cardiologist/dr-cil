@@ -188,8 +188,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to angiography:
 
--   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
--   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Radial Angiography](/services/radial-angiography/) - Wrist access angiography
--   [Cardiac Catheterization](/services/cardiac-catheterization/) - Cardiac catheterization
--   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease
+-   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Angioplasty](/en/blog/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Radial Angiography](/en/services/radial-angiography/) - Wrist access angiography
+-   [Cardiac Catheterization](/en/blog/cardiac-catheterization/) - Cardiac catheterization
+-   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease

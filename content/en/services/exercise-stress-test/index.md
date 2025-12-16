@@ -181,8 +181,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to exercise stress test:
 
--   [Stress Echocardiography](/services/stress-echocardiography/) - Exercise echo
--   [Myocardial Perfusion](/services/myocardial-perfusion/) - Myocardial perfusion scintigraphy
--   [EKG](/services/ekg/) - Electrocardiography
--   [Cardiac CT](/services/cardiac-ct/) - Computed tomography
--   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease
+-   [Stress Echocardiography](/en/services/stress-echocardiography/) - Exercise echo
+-   [Myocardial Perfusion](/en/services/myocardial-perfusion/) - Myocardial perfusion scintigraphy
+-   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease

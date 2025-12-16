@@ -189,8 +189,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other structural heart treatments related to pulmonary valve disease:
 
--   [Tricuspid Valve](/services/tricuspid-valve/) - Tricuspid valve diseases
--   [Balloon Valvuloplasty](/services/balloon-valvuloplasty/) - Balloon valve dilation
--   [Echocardiography](/services/echocardiography/) - Valve assessment
--   [Heart Failure](/services/heart-failure/) - Heart failure treatment
--   [EKG](/services/ekg/) - Electrocardiography
+-   [Tricuspid Valve](/en/services/tricuspid-valve/) - Tricuspid valve diseases
+-   [Balloon Valvuloplasty](/en/blog/balloon-valvuloplasty/) - Balloon valve dilation
+-   [Echocardiography](/en/services/echocardiography/) - Valve assessment
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [EKG](/en/services/ekg/) - Electrocardiography

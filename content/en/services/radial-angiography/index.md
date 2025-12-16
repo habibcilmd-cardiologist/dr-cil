@@ -154,8 +154,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to radial angiography:
 
--   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
--   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Angiography](/services/angiography/) - General angiography procedures
--   [Cardiac Stent](/services/cardiac-stent/) - Drug-eluting stent implantation
--   [PCI](/services/pci/) - Percutaneous coronary intervention
+-   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Angioplasty](/en/blog/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Angiography](/en/services/angiography/) - General angiography procedures
+-   [Cardiac Stent](/en/blog/cardiac-stent/) - Drug-eluting stent implantation
+-   [PCI](/en/blog/percutaneous-coronary-intervention/) - Percutaneous coronary intervention

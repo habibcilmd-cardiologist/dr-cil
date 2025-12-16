@@ -217,8 +217,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other structural heart treatments related to TAVI:
 
--   [Aortic Valve Disease](/services/aortic-valve-disease/) - About aortic valve diseases
--   [Balloon Valvuloplasty](/services/balloon-valvuloplasty/) - Balloon valve dilation
--   [Echocardiography](/services/echocardiography/) - Valve assessment
--   [Heart Failure](/services/heart-failure/) - Heart failure treatment
--   [CABG](/services/cabg/) - Coronary bypass surgery
+-   [Aortic Valve Disease](/en/blog/aortic-valve-disease/) - About aortic valve diseases
+-   [Balloon Valvuloplasty](/en/blog/balloon-valvuloplasty/) - Balloon valve dilation
+-   [Echocardiography](/en/services/echocardiography/) - Valve assessment
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [CABG](/en/blog/cabg/) - Coronary bypass surgery

@@ -162,8 +162,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to myocardial perfusion scintigraphy:
 
--   [Exercise Stress Test](/services/exercise-stress-test/) - Exercise stress test
--   [Stress Echocardiography](/services/stress-echocardiography/) - Exercise echo
--   [Cardiac CT](/services/cardiac-ct/) - Computed tomography
--   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
--   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease
+-   [Exercise Stress Test](/en/services/exercise-stress-test/) - Exercise stress test
+-   [Stress Echocardiography](/en/services/stress-echocardiography/) - Exercise echo
+-   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease

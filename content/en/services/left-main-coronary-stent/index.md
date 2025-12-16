@@ -227,8 +227,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to left main coronary stent:
 
--   [Coronary Angioplasty](/services/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Cardiac Stent](/services/cardiac-stent/) - Drug-eluting stent implantation
--   [CABG](/services/cabg/) - Coronary bypass surgery
--   [Cardiac Angiography](/services/cardiac-angiography/) - Coronary artery imaging
--   [Coronary Artery Disease](/services/coronary-artery-disease/) - About coronary artery disease
+-   [Coronary Angioplasty](/en/blog/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Stent](/en/blog/cardiac-stent/) - Drug-eluting stent implantation
+-   [CABG](/en/blog/cabg/) - Coronary bypass surgery
+-   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
+-   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease

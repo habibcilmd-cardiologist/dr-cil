@@ -184,8 +184,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to cardioversion:
 
--   [Ablation](/services/ablation/) - Catheter ablation
--   [ICD](/services/icd/) - Implantable cardioverter defibrillator
--   [Electrophysiology Study](/services/electrophysiology-study/) - Arrhythmia diagnosis
--   [Holter](/services/holter/) - 24-hour rhythm monitoring
--   [EKG](/services/ekg/) - Electrocardiography
+-   [Ablation](/en/services/ablation/) - Catheter ablation
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [EKG](/en/services/ekg/) - Electrocardiography

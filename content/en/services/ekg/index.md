@@ -182,8 +182,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to EKG:
 
--   [Holter](/services/holter/) - 24-hour rhythm monitoring
--   [Exercise Stress Test](/services/exercise-stress-test/) - Exercise stress test
--   [Echocardiography](/services/echocardiography/) - Heart ultrasound
--   [Ambulatory Cardiac Monitoring](/services/ambulatory-cardiac-monitoring/) - Extended rhythm monitoring
--   [Electrophysiology Study](/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [Exercise Stress Test](/en/services/exercise-stress-test/) - Exercise stress test
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Ambulatory Cardiac Monitoring](/en/blog/ambulatory-cardiac-monitoring/) - Extended rhythm monitoring
+-   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis

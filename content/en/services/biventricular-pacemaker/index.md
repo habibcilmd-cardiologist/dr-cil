@@ -174,8 +174,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to biventricular pacemaker:
 
--   [Heart Failure](/services/heart-failure/) - Heart failure treatment
--   [ICD](/services/icd/) - Implantable cardioverter defibrillator
--   [Permanent Pacemaker](/services/permanent-pacemaker/) - Bradycardia treatment
--   [Echocardiography](/services/echocardiography/) - Heart ultrasound
--   [EKG](/services/ekg/) - Electrocardiography
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
+-   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [EKG](/en/services/ekg/) - Electrocardiography

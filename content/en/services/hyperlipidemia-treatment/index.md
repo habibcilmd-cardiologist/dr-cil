@@ -160,7 +160,7 @@ _This content has been prepared by Assoc. Prof. Dr. Habib ÇİL for general info
 
 Other cardiology conditions and treatments related to hyperlipidemia:
 
-- [Coronary Artery Disease](/services/coronary-artery-disease/) - Vascular blockage
-- [Hypertension](/services/hypertension/) - High blood pressure
-- [Cardiovascular Prevention](/services/cardiovascular-prevention/) - Heart health risk management
-- [Myocardial Infarction](/services/myocardial-infarction/) - Heart attack treatment
+- [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - Vascular blockage
+- [Hypertension](/en/services/hypertension/) - High blood pressure
+- [Cardiovascular Prevention](/en/services/cardiovascular-prevention/) - Heart health risk management
+- [Myocardial Infarction](/en/services/myocardial-infarction/) - Heart attack treatment

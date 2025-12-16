@@ -176,8 +176,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to ICD:
 
--   [Ablation](/services/ablation/) - Catheter ablation
--   [Biventricular Pacemaker](/services/biventricular-pacemaker/) - CRT-D pacemaker
--   [Permanent Pacemaker](/services/permanent-pacemaker/) - Bradycardia treatment
--   [Electrophysiology Study](/services/electrophysiology-study/) - Arrhythmia diagnosis
--   [Heart Failure](/services/heart-failure/) - Heart failure treatment
+-   [Ablation](/en/services/ablation/) - Catheter ablation
+-   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT-D pacemaker
+-   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
