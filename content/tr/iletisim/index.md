@@ -29,9 +29,11 @@ Pazar: Kapalı
 
 ---
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+## Randevu Seçenekleri
+
+{{< appointment-section >}}
+
+---
 
 [📍 Google Maps'te Görüntüle](https://maps.google.com/?q=Avrasya+Hospital+Zeytinburnu+Istanbul)
 

@@ -69,26 +69,7 @@ keywords:
 
 ### Randevu
 
-<div class="appointment-cta">
-  <p class="appointment-intro">Randevu almak için WhatsApp üzerinden veya telefon ile iletişime geçebilirsiniz.</p>
-  <p class="urgency-text">⏰ Genellikle 24 saat içinde yanıt veriyoruz</p>
-
-  <div class="cta-buttons">
-    <a href="https://wa.me/905339454639" class="btn btn-primary" target="_blank" rel="noopener">
-      <span class="btn-icon">💬</span>
-      <span>WhatsApp ile Yaz</span>
-    </a>
-    <a href="tel:+902126655050" class="btn btn-secondary">
-      <span class="btn-icon">📞</span>
-      <span>Hemen Ara</span>
-    </a>
-  </div>
-
-  <div class="contact-info">
-    <p>📍 <strong>Avrasya Hospital</strong> - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul</p>
-    <p>📞 <strong>Telefon:</strong> +90 212 665 50 50 (Dahili: 4012)</p>
-  </div>
-</div>
+{{< appointment-section >}}
 
 <!-- Floating WhatsApp Button -->
 <a href="https://wa.me/905339454639" class="whatsapp-float" target="_blank" rel="noopener" aria-label="WhatsApp ile iletişime geç">
