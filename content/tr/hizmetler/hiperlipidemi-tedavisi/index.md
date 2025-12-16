@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hiperlipidemi Tedavisi - Kolesterol ve Lipid Bozuklukları"
 description: "İstanbul'da hiperlipidemi (yüksek kolesterol) tedavisi ve lipid bozuklukları yönetimi. Doç. Dr. Habib ÇİL ile kalp sağlığınızı koruyun. LDL düşürme, diyet ve ilaç tedavileri."
 date: 2024-01-15
@@ -144,9 +144,7 @@ Unutmayın, kolesterol ilaçları bağımlılık yapmaz ancak tedavinin sürekli
 
 Hiperlipidemi tanısı, risk değerlendirmesi ve kişiye özel tedavi planlaması için bir sağlık kuruluşuna başvurmanız gerekmektedir.
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

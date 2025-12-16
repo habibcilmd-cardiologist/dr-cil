@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miyokardit (Kalp Kası İltihabı) Nedir? Belirtileri, Nedenleri ve Tedavisi
 description: Miyokardit (kalp kası iltihabı) hakkında kapsamlı rehber. Gizli tehlike
   miyokarditin belirtileri, nedenleri, tanı yöntemleri ve güncel tedavi seçeneklerini
@@ -194,6 +194,4 @@ Göğüs ağrısı, sebebi açıklanamayan nefes darlığı veya bayılma gibi �
 
 Miyokardit şüphesi, kalp sağlığı kontrolleri veya tedavi sonrası takip için benimle iletişime geçebilirsiniz. Kalbiniz en değerli hazinenizdir, ona iyi bakın.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Alın →
-{{< /button >}}
+{{< contact-buttons >}}

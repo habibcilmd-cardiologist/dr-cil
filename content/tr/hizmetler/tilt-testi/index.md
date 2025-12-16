@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tilt Testi - Bayılma Nedeni Araştırması"
 description: "İstanbul'da tilt testi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile bayılma nedeni araştırması. Vazovagal senkop tanısı. Avrasya Hospital."
 date: 2024-01-15
@@ -151,9 +151,7 @@ Riskler düşüktür:
 
 Tilt testi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "EKG - 12 Derivasyonlu Elektrokardiyografi"
 description: "İstanbul'da EKG çekimi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile kalp ritmi ve elektriksel aktivite değerlendirmesi. Avrasya Hospital."
 date: 2024-01-15
@@ -166,9 +166,7 @@ EKG çekimi yaklaşık 5-10 dakika sürer.
 
 EKG çekimi ve değerlendirmesi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

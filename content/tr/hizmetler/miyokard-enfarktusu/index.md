@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Miyokard Enfarktüsü (Kalp Krizi) Acil Tedavisi"
 description: "İstanbul'da kalp krizi acil tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile primer PCI, acil anjiyoplasti ve stent. Avrasya Hospital 7/24 acil kardiyoloji."
 date: 2024-01-15
@@ -185,9 +185,7 @@ Kalp krizi tedavisinde zaman kritik öneme sahiptir. Modern tedavi protokolleri 
 
 Kalp sağlığınızla ilgili endişeleriniz veya kontrol muayenesi için randevu almak isterseniz, aşağıdaki kanallardan bize ulaşabilirsiniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

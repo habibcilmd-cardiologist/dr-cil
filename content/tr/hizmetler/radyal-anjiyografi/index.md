@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Radyal Anjiyografi - Bilekten Koroner Görüntüleme"
 description: "İstanbul'da radyal anjiyografi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile bilekten koroner anjiyografi. Daha az komplikasyon, aynı gün taburculuk. Avrasya Hospital."
 date: 2024-01-15
@@ -138,9 +138,7 @@ Komplikasyonlar nadirdir:
 
 Radyal anjiyografi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Kalp Kapak Hastalıkları: Belirtileri, Tanısı ve Tedavisi'
 description: Kalp kapak hastalıkları hakkında kapsamlı rehber. Aort darlığı, mitral
   yetmezliği, kapak değişimi ve onarımı. Belirtiler, tanı yöntemleri ve modern tedavi
@@ -366,6 +366,4 @@ Düzenli kardiyoloji takibi, kapak hastalıklarının erken tanısı ve uygun za
 
 Kalp kapak hastalıkları hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, benimle iletişime geçebilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

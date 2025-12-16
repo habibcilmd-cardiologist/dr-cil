@@ -505,6 +505,4 @@ Aşağıdaki durumlarda vakit kaybetmeden tıbbi yardım alın:
 
 Karotis hastalığı değerlendirmesi, tanı veya tedavi seçenekleri hakkında bilgi almak için randevu oluşturabilirsiniz.
 
-{{< button href="/tr/iletisim/" target="_self" >}}
-Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ekokardiyografi - Kalp Ultrasonu ve EKO"
 description: "İstanbul'da ekokardiyografi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile transtorasik ve transözofageal EKO. Kalp kapak ve fonksiyon değerlendirmesi. Avrasya Hospital."
 date: 2024-01-15
@@ -165,9 +165,7 @@ Ekokardiyografi, ses dalgalarını kullanarak kalbin gerçek zamanlı hareketli 
 
 Ekokardiyografi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

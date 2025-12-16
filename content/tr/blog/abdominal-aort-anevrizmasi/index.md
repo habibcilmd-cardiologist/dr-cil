@@ -128,6 +128,4 @@ Tedavi kararı anevrizmanın çapına, büyüme hızına ve hastanın şikayetle
 
 Aort sağlığınız hakkında endişeleriniz varsa veya risk grubundaysanız, değerlendirme için iletişime geçebilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Balon Valvüloplasti - Kapak Balonla Genişletme"
 description: "İstanbul'da balon valvüloplasti. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile mitral ve aort kapak genişletme. Kateter ile kapak tedavisi. Avrasya Hospital."
 date: 2024-12-11
@@ -160,9 +160,7 @@ Toplam süre: 1-2 saat
 
 Balon valvüloplasti için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

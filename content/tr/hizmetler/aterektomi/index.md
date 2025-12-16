@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Periferik ve Koroner Aterektomi - Damar Plağı Temizleme İşlemi"
 description: "Periferik ve koroner aterektomi nedir? Rotasyonel, orbital ve lazer aterektomi türleri,
   endikasyonları, nasıl yapıldığı ve sonuçları hakkında kapsamlı bilgi. Kalsifiye lezyon tedavisi."
@@ -508,9 +508,7 @@ Aşağıdaki durumlarda vakit kaybetmeden tıbbi yardım alın:
 
 Aterektomi değerlendirmesi veya periferik ve koroner damar hastalıkları hakkında bilgi almak için randevu oluşturabilirsiniz.
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

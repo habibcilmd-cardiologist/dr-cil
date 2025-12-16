@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Kolesterol Yönetimi: Yüksek Kolesterol Nedenleri, Riskleri ve Tedavisi'
 description: Yüksek kolesterol hakkında kapsamlı rehber. LDL ve HDL kolesterol nedir,
   normal değerler, risk faktörleri, diyet önerileri ve ilaç tedavisi. Kardiyoloji
@@ -372,6 +372,4 @@ Düzenli kolesterol takibi ve uygun tedavi, kalp hastalığı riskini önemli ö
 
 Kolesterol değerleriniz hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, uzman bir hekime danışabilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

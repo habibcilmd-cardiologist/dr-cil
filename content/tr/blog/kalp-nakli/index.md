@@ -182,6 +182,4 @@ Kalp nakli değerlendirmesi veya ileri kalp yetmezliği tedavisi hakkında detay
 
 Kalp nakli değerlendirmesi veya ileri kalp yetmezliği tedavisi hakkında detaylı bilgi için bir kardiyoloji uzmanına danışın.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

@@ -115,6 +115,4 @@ Endovasküler yöntemin uygun olmadığı çok uzun veya tam tıkanıklıklarda 
 
 Yürürken bacak ağrısı yaşıyorsanız veya ayaklarınızda iyileşmeyen yara varsa, erken teşhis ve tedavi için bizimle iletişime geçebilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

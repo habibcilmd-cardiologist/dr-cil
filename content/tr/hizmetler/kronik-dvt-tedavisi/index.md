@@ -292,9 +292,7 @@ PTS, DVT sonrası gelişen kronik venöz yetmezlik sendromudur. DVT geçiren has
 
 Kronik DVT ve post-trombotik sendrom değerlendirmesi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

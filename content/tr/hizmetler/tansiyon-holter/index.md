@@ -148,9 +148,7 @@ Ofiste normal, günlük yaşamda yüksek kan basıncı. Tanı konulamayan ve ted
 
 Tansiyon holter hakkında daha fazla bilgi ve randevu için:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

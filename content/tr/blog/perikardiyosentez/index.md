@@ -203,6 +203,4 @@ Bazı hastalarda sıvı tekrar birikebilir. Bu durumda:
 
 Perikardiyal efüzyon şüphesi veya göğüs ağrısı, nefes darlığı gibi şikayetleriniz varsa bir kardiyoloji uzmanına danışın.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

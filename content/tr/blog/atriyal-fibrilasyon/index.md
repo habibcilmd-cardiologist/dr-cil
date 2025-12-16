@@ -1,4 +1,4 @@
-﻿---
+---
 title: Atriyal Fibrilasyon (AF) Nedir? Belirtileri, Nedenleri ve Tedavisi
 description: Atriyal fibrilasyon (AF) hakkında kapsamlı rehber. Düzensiz kalp ritmi
   belirtileri, risk faktörleri, tanı yöntemleri ve modern tedavi seçenekleri. Kardiyoloji
@@ -362,6 +362,4 @@ Düzenli kardiyoloji takibi, AF'nin başarılı yönetimi için şarttır. Erken
 
 Atriyal fibrilasyon hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, benimle iletişime geçebilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

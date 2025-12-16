@@ -1,4 +1,4 @@
-﻿---
+---
 title: "EVAR ve TEVAR - Endovasküler Aort Anevrizması Onarımı"
 description: "İstanbul'da EVAR ve TEVAR işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile abdominal ve torasik endovasküler anevrizma onarımı. Minimal invaziv tedavi. Avrasya Hospital."
 date: 2024-01-15
@@ -192,9 +192,7 @@ Sol subklaviyen arterin örtülmesi gerekebilir. Bu durumda:
 
 EVAR veya TEVAR değerlendirmesi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

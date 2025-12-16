@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Kalp Yetmezliği: Belirtiler, Tanı ve Tedavi Yöntemleri'
 description: Kalp yetmezliği nedir, belirtileri nelerdir? Kalp yetmezliğinin nedenleri,
   tanı yöntemleri ve güncel tedavi seçenekleri hakkında kapsamlı bilgi.
@@ -411,6 +411,4 @@ Modern tedavilerle kalp yetmezliği hastaları uzun yıllar kaliteli bir yaşam 
 
 Kalp yetmezliği belirtileri yaşıyorsanız veya risk faktörleriniz varsa, kapsamlı bir kardiyolojik değerlendirme için randevu alabilirsiniz.
 
-{{< button href="/tr/iletisim/" target="_self" >}}
-Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}

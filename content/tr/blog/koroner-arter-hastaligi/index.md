@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Koroner Arter Hastalığı: Nedenleri, Belirtileri ve Tedavi Yöntemleri'
 description: Koroner arter hastalığı nedir? Ateroskleroz, anjina, kalp krizi riskleri,
   tanı yöntemleri ve güncel tedavi seçenekleri hakkında detaylı bilgi.
@@ -404,6 +404,4 @@ Aşağıdaki durumlarda kardiyoloji uzmanına başvurun:
 
 Koroner arter hastalığı risk faktörleriniz varsa veya göğüs ağrısı şikayetiniz varsa, kapsamlı bir kardiyolojik değerlendirme için randevu alabilirsiniz.
 
-{{< button href="/tr/iletisim/" target="_self" >}}
-Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}

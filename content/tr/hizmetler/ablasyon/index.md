@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Kateter Ablasyon - Kalp Ritim Bozukluğu Tedavisi"
 description: "İstanbul'da kateter ablasyon. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile AF ablasyonu, SVT ve aritmi tedavisi. Radyofrekans ve kriyoablasyon. Avrasya Hospital."
 date: 2024-01-15
@@ -171,9 +171,7 @@ Kateter ablasyon, ince kateterler aracılığıyla kalbe ulaşarak aritmiye nede
 
 Aritmi değerlendirmesi veya ablasyon tedavisi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

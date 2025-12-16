@@ -1,4 +1,4 @@
-﻿---
+---
 title: "TAVI - Ameliyatsız Aort Kapak Değişimi"
 description: "İstanbul'da TAVI işlemi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile transkateter aort kapak implantasyonu. Yüksek riskli hastalarda ameliyatsız kapak tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -201,9 +201,7 @@ Klinik çalışmalar TAVI'nin etkinliğini kanıtlamıştır:
 
 TAVI değerlendirmesi veya aort kapak hastalığı tedavisi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

@@ -103,6 +103,4 @@ Modern yöntemlerin gelişmesiyle birlikte artık çok nadiren, aşırı genişl
 
 Bacaklarınızdaki ağrı ve varis görüntüsünden kurtulmak için modern tedavi seçenekleri hakkında bilgi alabilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

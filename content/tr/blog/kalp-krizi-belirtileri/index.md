@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Kalp Krizi Belirtileri: Erken Tanı Hayat Kurtarır'
 description: Kalp krizi (miyokard enfarktüsü) belirtileri nelerdir? Göğüs ağrısı,
   nefes darlığı ve diğer uyarı işaretleri. Acil müdahale nasıl yapılır? Risk faktörleri,
@@ -259,6 +259,4 @@ Aşağıdaki durumlarda gecikmeden tıbbi yardım alın:
 
 Kalp sağlığınız konusunda sorularınız varsa veya risk değerlendirmesi yaptırmak istiyorsanız, benimle iletişime geçebilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

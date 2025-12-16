@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kardiyomiyopati Nedir? Türleri, Belirtileri ve Tedavi Yöntemleri
 description: Kardiyomiyopati hakkında kapsamlı rehber. Kalp kası hastalığının türleri,
   belirtileri, tanı yöntemleri ve modern tedavi seçenekleri. Kardiyoloji uzmanından
@@ -393,6 +393,4 @@ Ailede kardiyomiyopati veya ani ölüm öyküsü varsa, belirti olmasa bile kard
 
 Kardiyomiyopati hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, benimle iletişime geçebilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

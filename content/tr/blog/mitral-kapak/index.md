@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitral Kapak Hastalığı - Darlık ve Yetersizlik Tedavisi"
 description: "İstanbul'da mitral kapak hastalığı tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile mitral darlığı ve yetersizliği. Balon valvüloplasti ve MitraClip. Avrasya Hospital."
 date: 2024-12-11
@@ -166,9 +166,7 @@ Mitral kapak, sol atriyumdan sol ventriküle kan akışını düzenler. Kapak ha
 
 Mitral kapak hastalığı değerlendirmesi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

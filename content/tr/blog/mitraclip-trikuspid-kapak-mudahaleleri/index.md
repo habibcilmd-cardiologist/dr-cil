@@ -1,4 +1,4 @@
-﻿---
+---
 title: MitraClip ve Triküspid Kapak Müdahaleleri - Ameliyatsız Kapak Tedavisi
 description: İstanbul'da MitraClip ve triküspid kapak müdahaleleri. Doç. Dr. Habib
   Çil ile mitral ve triküspid yetersizliği tedavisi. Minimal invaziv kateter yöntemi.
@@ -601,9 +601,7 @@ Mitral veya triküspid kapak hastalığı tanısı aldıysanız, düzenli kardiy
 
 MitraClip veya triküspid kapak müdahalesi değerlendirmesi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

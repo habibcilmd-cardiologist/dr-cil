@@ -278,9 +278,7 @@ Pelvik Konjesyon Sendromu (PKS), kadınlarda over ve pelvik venlerin genişlemes
 
 Varikosel veya pelvik konjesyon değerlendirmesi ve embolizasyon tedavisi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

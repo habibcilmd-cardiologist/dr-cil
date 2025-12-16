@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hipertansiyon (Yüksek Tansiyon) Nedir?
 description: Hipertansiyon belirtileri, nedenleri ve tedavi yöntemleri. Yüksek tansiyon
   nasıl kontrol altına alınır? Yaşam tarzı değişiklikleri, ilaç tedavisi ve korunma
@@ -340,6 +340,4 @@ Düzenli tansiyon kontrolü, erken tanı ve tedavi için çok önemlidir. Hipert
 
 Tansiyon değerleriniz hakkında endişeleriniz varsa veya hipertansiyon tedavisi için danışmak istiyorsanız, benimle iletişime geçebilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geçici Kalp Pili - Acil Bradikardi Tedavisi"
 description: "İstanbul'da geçici kalp pili takılması. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile acil bradikardi tedavisi. Transvenöz pacing. Avrasya Hospital."
 date: 2024-01-15
@@ -156,9 +156,7 @@ Geçici pacing genellikle şu durumlarda kalıcı pacemaker ile değiştirilir:
 
 Acil ritim desteği veya değerlendirme için:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Diyabetik Ayak Nedir? Belirtileri, Tedavisi ve Korunma Yöntemleri
 description: Diyabetik ayak hakkında kapsamlı rehber. Girişimsel kardiyoloji ile bacak
   kurtarma, endovasküler tedavi, damar açma işlemleri. Belirtiler, tedavi yöntemleri
@@ -763,6 +763,4 @@ Erken tanı ve uygun tedavi hayati önem taşır. Ayaklarınızda herhangi bir d
 
 Diyabetik ayak hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, uzman bir sağlık kuruluşu ile iletişime geçebilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

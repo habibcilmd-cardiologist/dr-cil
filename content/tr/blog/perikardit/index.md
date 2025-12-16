@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perikardit Nedir? Nedenleri, Belirtileri ve Tedavi Yöntemleri
 description: Perikardit hakkında kapsamlı rehber. Kalp zarı iltihabının nedenleri,
   belirtileri, tanı yöntemleri ve tedavi seçenekleri. Kardiyoloji uzmanından bilgiler.
@@ -418,6 +418,4 @@ Aşağıdaki durumlarda gecikmeden tıbbi yardım alın:
 
 Perikardit hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, benimle iletişime geçebilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

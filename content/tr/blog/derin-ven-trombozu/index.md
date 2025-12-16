@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Derin Ven Trombozu (DVT): Belirtileri, Riskleri ve Tedavi Yöntemleri'
 description: Derin Ven Trombozu (DVT) nedir? Bacakta pıhtı atması belirtileri, nedenleri ve risk faktörleri nelerdir? İstanbul'da ameliyatsız damar açma ve pıhtı tedavisi hakkında detaylı bilgi.
 date: 2025-12-07
@@ -141,6 +141,4 @@ Derin Ven Trombozu, uzmanlık ve deneyim gerektiren ciddi bir damar hastalığı
 
 Bacaklarınızdaki şişlik, ağrı veya damar tıkanıklığı şüpheniz varsa, detaylı değerlendirme ve tedavi için bir sağlık merkezine başvurun.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

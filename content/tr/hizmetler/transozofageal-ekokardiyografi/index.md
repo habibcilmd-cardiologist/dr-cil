@@ -179,9 +179,7 @@ TÖE güvenli bir işlemdir, ciddi komplikasyonlar nadir görülür:
 
 Transözofageal ekokardiyografi hakkında daha fazla bilgi ve randevu için:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kardiyak Rehabilitasyon - Kalp Hastalıkları Sonrası Yaşam Kalitesi
 description: İstanbul'da kardiyak rehabilitasyon programı. Doç. Dr. Habib Çil ile
   kalp krizi, anjiyoplasti ve kalp cerrahisi sonrası iyileşme. Egzersiz ve yaşam tarzı
@@ -659,9 +659,7 @@ Kardiyak rehabilitasyon, kalp hastalığı tedavisinin vazgeçilmez bir parças�
 
 Kardiyak rehabilitasyon programı hakkında bilgi almak veya değerlendirme için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

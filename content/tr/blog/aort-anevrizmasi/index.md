@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Aort Anevrizması: Belirtileri, Tanısı ve Modern Tedavi Yöntemleri'
 description: Aort anevrizması nedir? Torasik ve abdominal aort anevrizması belirtileri,
   risk faktörleri, tanı yöntemleri ve güncel tedavi seçenekleri hakkında kapsamlı
@@ -502,6 +502,4 @@ Aşağıdaki durumlarda vakit kaybetmeden tıbbi yardım alın:
 
 Aort anevrizması değerlendirmesi, taraması veya tedavi seçenekleri hakkında bilgi almak için randevu oluşturabilirsiniz.
 
-{{< button href="/tr/iletisim/" target="_self" >}}
-Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sol Ana Koroner Arter Stentleme (LMCA)"
 description: "İstanbul'da sol ana koroner arter stentleme. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile LMCA hastalığının girişimsel tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -211,9 +211,7 @@ Sol ana stentleme sonrası:
 
 Sol ana koroner hastalığı değerlendirmesi veya tedavisi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

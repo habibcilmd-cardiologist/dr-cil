@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pulmoner Kapak Hastalığı - Balon Valvüloplasti ve Kapak Yerleştirilmesi"
 description: "İstanbul'da pulmoner kapak hastalığı (darlık/yetersizlik) değerlendirmesi ve tedavisi. Doç. Dr. Habib Çil ile balon valvüloplasti, cerrahi ve seçilmiş hastalarda transkateter pulmoner kapak replasmanı."
 date: 2024-01-15
@@ -182,9 +182,7 @@ Her girişimde olduğu gibi risk; hastanın yaşı, kapak anatomisi ve eşlik ed
 
 Pulmoner kapak hastalığı değerlendirmesi için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

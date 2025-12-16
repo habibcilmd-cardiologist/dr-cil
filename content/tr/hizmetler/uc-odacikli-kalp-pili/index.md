@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Üç Odacıklı Kalp Pili (CRT) - Resenkronizasyon Tedavisi"
 description: "İstanbul'da CRT implantasyonu. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile üç odacıklı kalp pili takılması. Kalp yetmezliği tedavisi. Avrasya Hospital."
 date: 2024-01-15
@@ -158,9 +158,7 @@ CRT'nin maksimum fayda sağlaması için optimizasyon gerekebilir:
 
 CRT değerlendirmesi veya implantasyonu için randevu almak isterseniz:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-WhatsApp ile Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 

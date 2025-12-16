@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Kalp Ritim Bozuklukları (Aritmiler): Türleri, Belirtileri ve Tedavisi'
 description: Kalp ritim bozuklukları nedir? Taşikardi, bradikardi, atriyal fibrilasyon
   gibi aritmilerin belirtileri, tanısı ve tedavi yöntemleri hakkında bilgi.
@@ -386,6 +386,4 @@ Risk faktörlerini kontrol altına alarak aritmi riskini azaltabilirsiniz:
 
 Kalp ritim bozukluğu belirtileri yaşıyorsanız veya aritmi risk faktörleriniz varsa, kapsamlı bir kardiyolojik değerlendirme için randevu alabilirsiniz.
 
-{{< button href="/tr/iletisim/" target="_self" >}}
-Randevu Al
-{{< /button >}}
+{{< contact-buttons >}}

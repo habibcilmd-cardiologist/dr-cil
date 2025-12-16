@@ -201,6 +201,4 @@ Bypass ameliyatı değerlendirmesi veya koroner arter hastalığı hakkında det
 
 Bypass ameliyatı değerlendirmesi veya koroner arter hastalığı hakkında detaylı bilgi için bir kardiyoloji uzmanına danışın.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}

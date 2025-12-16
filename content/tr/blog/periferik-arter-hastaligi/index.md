@@ -1,4 +1,4 @@
-﻿---
+---
 title: Periferik Arter Hastalığı Nedir? Belirtileri, Tanısı ve Tedavisi
 description: Periferik arter hastalığı hakkında kapsamlı rehber. Bacak damar tıkanıklığı
   belirtileri, risk faktörleri, tanı yöntemleri ve tedavi seçenekleri. Kardiyoloji
@@ -408,6 +408,4 @@ Aşağıdaki durumlarda gecikmeden tıbbi yardım alın:
 
 Periferik arter hastalığı hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, uzman bir sağlık kuruluşu ile iletişime geçebilirsiniz.
 
-{{< button href="/tr/iletisim/" >}}
-Randevu Al →
-{{< /button >}}
+{{< contact-buttons >}}
