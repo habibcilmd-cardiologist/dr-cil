@@ -19,20 +19,20 @@ keywords:
 
 <div class="services-section">
 
-## جميع الخدمات
+## جميع فئات الخدمات
 
 <p class="section-subtitle">جميع فئات الخدمات المقدمة في مجال أمراض القلب</p>
 
-<div class="services-grid">
-  <a href="/ar/services/#clinical-cardiology" class="service-card">
-    <div class="service-icon">🫀</div>
-    <h4>طب القلب السريري</h4>
-    <p>الوقاية من أمراض القلب التاجية، ارتفاع ضغط الدم، فرط شحوم الدم، علاج قصور القلب، العلاج الطبي للرجفان الأذيني</p>
-  </a>
+<div class="services-grid services-grid-4">
   <a href="/ar/services/#interventional-cardiology" class="service-card">
     <div class="service-icon">🔧</div>
     <h4>أمراض القلب التداخلية</h4>
     <p>التدخلات التاجية، التدخلات المحيطية، تدخلات أمراض القلب البنيوية</p>
+  </a>
+  <a href="/ar/services/#clinical-cardiology" class="service-card">
+    <div class="service-icon">🫀</div>
+    <h4>طب القلب السريري</h4>
+    <p>الوقاية من أمراض القلب التاجية، ارتفاع ضغط الدم، فرط شحوم الدم، علاج قصور القلب، العلاج الطبي للرجفان الأذيني</p>
   </a>
   <a href="/ar/services/#pacemaker-and-electrophysiology" class="service-card">
     <div class="service-icon">⚡</div>
@@ -44,33 +44,13 @@ keywords:
     <h4>الإجراءات التشخيصية</h4>
     <p>تصوير الأوعية، تخطيط القلب، تخطيط صدى القلب، هولتر</p>
   </a>
-  <a href="/ar/services/#valve-diseases" class="service-card">
-    <div class="service-icon">💓</div>
-    <h4>أمراض الصمامات</h4>
-    <p>استبدال الصمام، رأب الصمام، الإصلاح</p>
-  </a>
-  <a href="/ar/services/#vascular-surgery-and-interventions" class="service-card">
-    <div class="service-icon">🩹</div>
-    <h4>جراحة الأوعية الدموية</h4>
-    <p>تمدد الأوعية الدموية، السباتي، تدخلات الأوعية الطرفية</p>
-  </a>
 </div>
 
-<div class="services-cta">
-  <div class="cta-content">
-    <h3 class="cta-title">معلومات تفصيلية حول خدمات أمراض القلب لدينا</h3>
-    <p class="cta-subtitle">استكشف جميع خيارات العلاج واعثر على الحل الأنسب لك</p>
-    <div class="cta-buttons">
-      <a href="https://wa.me/905339454639" class="btn btn-primary" target="_blank" rel="noopener">
-        <span class="btn-icon">📱</span>
-        <span>استشر الآن</span>
-      </a>
-      <a href="/ar/services/" class="btn btn-secondary">
-        <span class="btn-icon">📋</span>
-        <span>عرض جميع الخدمات</span>
-      </a>
-    </div>
-  </div>
+<div class="services-view-all">
+  <a href="/ar/services/" class="btn-view-all">
+    <span class="btn-icon">📋</span>
+    <span>عرض جميع الخدمات</span>
+  </a>
 </div>
 
 </div>
