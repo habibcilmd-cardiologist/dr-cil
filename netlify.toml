@@ -16,12 +16,13 @@
 #   force = true
 #   conditions = {Country = ["SA", "AE", "EG", "KW", "QA", "BH", "OM", "JO", "LB", "IQ", "YE", "SY", "PS", "DZ", "MA", "TN", "LY", "SD"]}
 
-# Allow Turkish sitemap loop fix
+# Redirect obsolete tr path to new file
 [[redirects]]
   from = "/tr/sitemap.xml"
-  to = "/tr/sitemap.xml"
-  status = 200
+  to = "/tr_sitemap.xml"
+  status = 301
   force = true
+
 
 # Rule 3: SEO Migration - Redirect old /tr/ links to root
 [[redirects]]

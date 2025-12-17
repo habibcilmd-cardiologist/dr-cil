@@ -23,7 +23,7 @@ enableInlineShortcodes = true
     [markup.goldmark.renderer]
       unsafe = true
 
-[outputFormats.TRSitemap]
+[outputFormats.tr_sitemap_format]
   mediaType = "application/xml"
   baseName = "tr_sitemap"
   isPlainText = false
@@ -41,7 +41,9 @@ enableInlineShortcodes = true
     contentDir = "content/tr"
     title = "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı"
     [languages.tr.outputs]
-      home = ["HTML", "RSS", "JSON", "TRSitemap"]
+      home = ["HTML", "RSS", "JSON", "tr_sitemap_format"]
+
+
 
     [languages.tr.params]
       displayName = "TR"

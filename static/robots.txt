@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drhabibcil.com/sitemap.xml
+Sitemap: https://docdrhabibcil.com/sitemap.xml
