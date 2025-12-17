@@ -1,13 +1,12 @@
 # Netlify Redirects Configuration
 # https://docs.netlify.com/routing/redirects/
 
-# Redirect root to Turkish (default language)
-/ /tr/ 301
-
-
+# Migration: Redirect old /tr/ paths to root
+/tr/* /:splat 301!
 
 # Language-specific 404 pages
-/tr/* /tr/404.html 404
 /en/* /en/404.html 404
 /ar/* /ar/404.html 404
+# Default 404 (Turkish)
+/* /404.html 404
 

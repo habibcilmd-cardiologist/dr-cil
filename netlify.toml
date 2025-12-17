@@ -16,10 +16,10 @@
 #   force = true
 #   conditions = {Country = ["SA", "AE", "EG", "KW", "QA", "BH", "OM", "JO", "LB", "IQ", "YE", "SY", "PS", "DZ", "MA", "TN", "LY", "SD"]}
 
-# Rule 3: Default (Turkey & others) -> Turkish
+# Rule 3: SEO Migration - Redirect old /tr/ links to root
 [[redirects]]
-  from = "/"
-  to = "/tr/"
+  from = "/tr/*"
+  to = "/:splat"
   status = 301
   force = true
 

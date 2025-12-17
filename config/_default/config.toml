@@ -2,24 +2,19 @@
 # Dr. Habib ÇİL - Hugo Configuration
 # =============================================================================
 
-baseURL = "https://drhabibcil.com/"
+baseURL = "https://docdrhabibcil.com/"
 title = "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı"
 theme = "blowfish"
 [pagination]
   pagerSize = 10
 defaultContentLanguage = "tr"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 enableInlineShortcodes = true
 
-# Server redirects (for development)
-# Note: This redirect only applies to the exact root URL "/"
-# The /en/ path should NOT be redirected
-[[server.redirects]]
-from = "/"
-to = "/tr/"
-status = 301
-force = false
+# Server redirects (Removed as Turkish is now at root)
+# The root "/" will now serve Turkish content directly
+
 
 # Performance optimizations
 enableEmoji = true

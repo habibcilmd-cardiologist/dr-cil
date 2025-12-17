@@ -21,25 +21,9 @@ procedure pages
 	      "preparation": {{ if eq .Site.Language.Lang "tr" }}"İşlem öncesi hazırlık talimatları doktorunuz tarafından verilecektir."{{ else }}"Pre-procedure preparation instructions will be provided by your doctor."{{ end }},
 	      "followup": {{ if eq .Site.Language.Lang "tr" }}"İşlem sonrası takip randevuları planlanacaktır."{{ else }}"Post-procedure follow-up appointments will be scheduled."{{ end }},
 	      "howPerformed": "{{ with .Params.how_performed }}{{ . }}{{ else }}{{ if eq .Site.Language.Lang "tr" }}Modern tıbbi ekipmanlarla uzman kardiyolog tarafından gerçekleştirilir.{{ else }}Performed by specialist cardiologist using modern medical equipment.{{ end }}{{ end }}",
-	      "medicalSpecialty": {
-	        "@type": "MedicalSpecialty",
-	        "name": {{ with .Params.medical_specialty }}"{{ . }}"{{ else }}"Cardiology"{{ end }}
-	      },
 	      "recognizingAuthority": {
 	        "@type": "Organization",
 	        "name": {{ if eq .Site.Language.Lang "tr" }}"Türk Kardiyoloji Derneği"{{ else }}"Turkish Society of Cardiology"{{ end }}
-	      },
-	      "performedBy": {
-	        "@type": "Physician",
-	        "@id": "{{ .Site.BaseURL }}#physician",
-	        "name": "Doç. Dr. Habib ÇİL",
-	        "medicalSpecialty": "Cardiology"
-	      },
-	      "availableService": {
-	        "@type": "MedicalClinic",
-	        "@id": "{{ .Site.BaseURL }}#clinic",
-	        "name": "Avrasya Hospital",
-	        "telephone": "+90 212 665 50 50"
 	      }
 	    },
 	    {
@@ -66,10 +50,6 @@ procedure pages
 	      "about": {
 	        "@type": "MedicalCondition",
 	        "name": "{{ .Title }}"
-	      },
-	      "specialty": {
-	        "@type": "MedicalSpecialty",
-	        "name": "Cardiology"
 	      },
 	      "isPartOf": {
 	        "@type": "WebSite",
