@@ -9,6 +9,12 @@ weight = 2
 title = "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
 contentDir = "content/en"
 
+[permalinks]
+  blog = "/en/blog/:slug/"
+  services = "/en/services/:slug/"
+  tags = "/en/tags/:slug/"
+  categories = "/en/categories/:slug/"
+
 [params]
   displayName = "EN"
   isoCode = "en"

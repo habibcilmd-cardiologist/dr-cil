@@ -2,6 +2,7 @@
 title: "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
 description: "Assoc. Prof. Dr. Habib ÇİL - Cardiology Specialist in Istanbul. Coronary angioplasty, TAVI, pacemaker implantation, echocardiography and interventional cardiology."
 layout: "profile"
+url: "/en/"
 translationKey: "home"
 keywords:
     [
