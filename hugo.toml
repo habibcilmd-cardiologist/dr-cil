@@ -16,7 +16,7 @@ enableInlineShortcodes = true
   category = "categories"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "Sitemap"]
 
 [markup]
   [markup.goldmark]
