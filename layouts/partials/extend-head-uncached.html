@@ -37,11 +37,7 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	      "isAcceptingNewPatients": true,
 	      "gender": "Male",
 	      "medicalSpecialty": [
-	        "Cardiology",
-	        "Cardiovascular Medicine",
-	        "Interventional Cardiology",
-	        "Peripheral Vascular Disease",
-	        "Diabetic Foot Care"
+        "http://schema.org/Cardiovascular"
 	      ],
 	      "alumniOf": [
 	        {
@@ -210,17 +206,17 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 	        {
 	          "@type": "MedicalProcedure",
 	          "name": {{ if eq .Site.Language.Lang "tr" }}"Kalp Pili İmplantasyonu"{{ else if eq .Site.Language.Lang "ar" }}"زراعة جهاز تنظيم ضربات القلب"{{ else }}"Pacemaker Implantation"{{ end }},
-	          "procedureType": "SurgicalProcedure"
+          "procedureType": "http://schema.org/PercutaneousProcedure"
 	        },
 	        {
 	          "@type": "MedicalProcedure",
 	          "name": {{ if eq .Site.Language.Lang "tr" }}"Karotis Arter Stentleme"{{ else if eq .Site.Language.Lang "ar" }}"دعامة الشريان السباتي"{{ else }}"Carotid Artery Stenting"{{ end }},
-	          "procedureType": "PercutaneousProcedure"
+          "procedureType": "http://schema.org/PercutaneousProcedure"
 	        },
 	        {
 	          "@type": "MedicalProcedure",
 	          "name": {{ if eq .Site.Language.Lang "tr" }}"Ekokardiyografi"{{ else if eq .Site.Language.Lang "ar" }}"تخطيط صدى القلب"{{ else }}"Echocardiography"{{ end }},
-	          "procedureType": "DiagnosticProcedure"
+	          "procedureType": "http://schema.org/NoninvasiveProcedure"
 	        }
 	      ]
 	    },
@@ -232,7 +228,7 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 		      "url": "{{ .Site.BaseURL }}",
 		      "telephone": "+90 212 665 50 50",
 		      "priceRange": "₺₺",
-		      "medicalSpecialty": "Cardiology",
+	      "medicalSpecialty": "http://schema.org/Cardiovascular",
 		      "currenciesAccepted": "TRY",
 		      "paymentAccepted": "Cash, Credit Card",
 		      "address": {
