@@ -1,0 +1,41 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{ if and .IsHome (eq .Lang "tr") }}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{ range .Site.Home.AllTranslations }}
+  <sitemap>
+    <loc>{{ if eq .Language.Lang "tr" }}{{ .Site.BaseURL }}tr/sitemap.xml{{ else }}{{ .Permalink }}sitemap.xml{{ end }}</loc>
+    {{ if not .Lastmod.IsZero }}
+    <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+    {{ end }}
+  </sitemap>
+  {{ end }}
+</sitemapindex>
+{{ else }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {{ range .Data.Pages }}
+    {{ if not .Params.private }}
+    <url>
+      <loc>{{ .Permalink }}</loc>
+      {{ if not .Lastmod.IsZero }}
+      <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+      {{ end }}
+      {{ if .IsTranslated }}
+        {{ range .Translations }}
+        <xhtml:link
+                    rel="alternate"
+                    hreflang="{{ .Language.LanguageCode }}"
+                    href="{{ .Permalink }}"
+                    />
+        {{ end }}
+        <xhtml:link
+                    rel="alternate"
+                    hreflang="{{ .Language.LanguageCode }}"
+                    href="{{ .Permalink }}"
+                    />
+      {{ end }}
+    </url>
+    {{ end }}
+  {{ end }}
+</urlset>
+{{ end }}

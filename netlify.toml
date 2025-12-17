@@ -28,7 +28,6 @@
   from = "/tr/*"
   to = "/:splat"
   status = 301
-  force = true
 
 [build]
   command = "hugo --gc --minify"
