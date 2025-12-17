@@ -27,7 +27,31 @@ mainSections = ["posts", "blog"]
 robots = "index, follow"
 
 # SEO - Keywords for all pages
-keywords = ["kardiyoloji", "kardiyolog", "istanbul", "doktor", "kalp hastalığı", "anjiyografi", "ekokardiyografi", "hipertansiyon", "TAVI", "kalp pili"]
+keywords = [
+  "kardiyoloji", 
+  "kardiyolog",
+  "istanbul kardiyoloji", 
+  "istanbul", 
+  "doktor", 
+  "kalp hastalığı", 
+  "anjiyografi", 
+  "ekokardiyografi", 
+  "hipertansiyon", 
+  "TAVI", 
+  "kalp pili",
+  "girişimsel kardiyoloji",
+  "kardiyoloji uzmanı istanbul",
+  "damar açma",
+  "bacak damarı açma",
+  "dizüstü damar açma",
+  "dizaltı damarı açma",
+  "diyabetik ayak",
+  "periferik arter hastalığı",
+  "koroner anjiyoplasti",
+  "stent",
+  "kardiyolog istanbul",
+  "istanbul kardiyoloji uzmanı"
+]
 
 # Open Graph - Default social sharing image
 defaultSocialImage = "img/og-image.webp"
