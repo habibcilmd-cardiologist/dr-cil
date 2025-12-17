@@ -1,0 +1,806 @@
+archetypedir = 'archetypes'
+assetdir = 'assets'
+baseurl = 'https://docdrhabibcil.com/'
+cachedir = 'C:\Users\s_houdini\AppData\Local\hugo_cache'
+capitalizelisttitles = true
+contentdir = 'content/tr'
+datadir = 'data'
+defaultcontentlanguage = 'tr'
+defaultoutputformat = 'html'
+enablerobotstxt = true
+environment = 'production'
+i18ndir = 'i18n'
+languagecode = 'tr-TR'
+layoutdir = 'layouts'
+mainsections = ['posts', 'blog']
+pluralizelisttitles = true
+publishdir = 'public'
+resourcedir = 'resources'
+staticdir = ['static']
+summarylength = 70
+theme = ['blowfish']
+themesdir = 'themes'
+timeout = '60s'
+title = 'Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı'
+titlecasestyle = 'AP'
+workingdir = 'D:\PROGRAMMING\drcil'
+
+[author]
+
+[build]
+  useresourcecachewhen = 'fallback'
+
+  [build.buildstats]
+
+  [[build.cachebusters]]
+    source = '(postcss|tailwind)\.config\.js'
+    target = '(css|styles|scss|sass)'
+
+[caches]
+  [caches.assets]
+    dir = ':resourceDir/_gen'
+    maxage = -1
+
+  [caches.getcsv]
+    dir = ':cacheDir/:project'
+    maxage = -1
+
+  [caches.getjson]
+    dir = ':cacheDir/:project'
+    maxage = -1
+
+  [caches.getresource]
+    dir = ':cacheDir/:project'
+    maxage = -1
+
+  [caches.images]
+    dir = ':resourceDir/_gen'
+    maxage = -1
+
+  [caches.misc]
+    dir = ':cacheDir/:project'
+    maxage = -1
+
+  [caches.modules]
+    dir = ':cacheDir/modules'
+    maxage = -1
+
+[contenttypes]
+  [contenttypes.'text/asciidoc']
+
+  [contenttypes.'text/html']
+
+  [contenttypes.'text/markdown']
+
+  [contenttypes.'text/org']
+
+  [contenttypes.'text/pandoc']
+
+  [contenttypes.'text/rst']
+
+[deployment]
+  invalidatecdn = true
+  maxdeletes = 256
+  workers = 10
+
+[frontmatter]
+  date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
+  expirydate = ['expirydate', 'unpublishdate']
+  lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
+  publishdate = ['publishdate', 'pubdate', 'published', 'date']
+
+[httpcache]
+  respectcachecontrolnostoreinrequest = true
+
+  [httpcache.cache]
+    [httpcache.cache.for]
+      excludes = ['**']
+
+  [[httpcache.polls]]
+    disable = true
+    high = '0s'
+    low = '0s'
+
+    [httpcache.polls.for]
+      includes = ['**']
+
+[imaging]
+  bgcolor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resamplefilter = 'box'
+
+[languages]
+  [languages.ar]
+    languagecode = 'ar-SA'
+    languagename = 'العربية'
+    title = 'أ.د. حبيب جيل | أخصائي أمراض القلب'
+    weight = 3
+
+  [languages.en]
+    languagecode = 'en-US'
+    languagename = 'English'
+    title = 'Assoc. Prof. Dr. Habib ÇİL | Cardiologist'
+    weight = 2
+
+  [languages.tr]
+    languagecode = 'tr-TR'
+    languagename = 'Türkçe'
+    title = 'Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı'
+    weight = 1
+
+[markup]
+  defaultmarkdownhandler = 'goldmark'
+
+  [markup.asciidocext]
+    backend = 'html5'
+    failurelevel = 'fatal'
+    noheaderorfooter = true
+    safemode = 'unsafe'
+
+    [markup.asciidocext.attributes]
+
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionlist = true
+      linkify = true
+      linkifyprotocol = 'https'
+      strikethrough = true
+      table = true
+      tasklist = true
+
+      [markup.goldmark.extensions.cjk]
+        eastasianlinebreaksstyle = 'simple'
+
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.delete]
+
+        [markup.goldmark.extensions.extras.insert]
+
+        [markup.goldmark.extensions.extras.mark]
+
+        [markup.goldmark.extensions.extras.subscript]
+
+        [markup.goldmark.extensions.extras.superscript]
+
+      [markup.goldmark.extensions.footnote]
+        backlinkhtml = '&#x21a9;&#xfe0e;'
+        enable = true
+
+      [markup.goldmark.extensions.passthrough]
+        [markup.goldmark.extensions.passthrough.delimiters]
+
+      [markup.goldmark.extensions.typographer]
+        apostrophe = '&rsquo;'
+        ellipsis = '&hellip;'
+        emdash = '&mdash;'
+        endash = '&ndash;'
+        leftanglequote = '&laquo;'
+        leftdoublequote = '&ldquo;'
+        leftsinglequote = '&lsquo;'
+        rightanglequote = '&raquo;'
+        rightdoublequote = '&rdquo;'
+        rightsinglequote = '&rsquo;'
+
+    [markup.goldmark.parser]
+      autoheadingid = true
+      autoidtype = 'github'
+      wrapstandaloneimagewithinparagraph = true
+
+      [markup.goldmark.parser.attribute]
+        title = true
+
+    [markup.goldmark.renderer]
+      unsafe = true
+
+    [markup.goldmark.renderhooks]
+      [markup.goldmark.renderhooks.image]
+        useembedded = 'fallback'
+
+      [markup.goldmark.renderhooks.link]
+        useembedded = 'fallback'
+
+  [markup.highlight]
+    codefences = true
+    linenostart = 1
+    linenumbersintable = true
+    style = 'monokai'
+    tabwidth = 4
+    wrapperclass = 'highlight'
+
+  [markup.tableofcontents]
+    endlevel = 3
+    startlevel = 2
+
+[mediatypes]
+  [mediatypes.'application/json']
+    delimiter = '.'
+    suffixes = ['json']
+
+  [mediatypes.'application/manifest+json']
+    delimiter = '.'
+    suffixes = ['webmanifest']
+
+  [mediatypes.'application/octet-stream']
+    delimiter = '.'
+
+  [mediatypes.'application/pdf']
+    delimiter = '.'
+    suffixes = ['pdf']
+
+  [mediatypes.'application/rss+xml']
+    delimiter = '.'
+    suffixes = ['xml', 'rss']
+
+  [mediatypes.'application/toml']
+    delimiter = '.'
+    suffixes = ['toml']
+
+  [mediatypes.'application/wasm']
+    delimiter = '.'
+    suffixes = ['wasm']
+
+  [mediatypes.'application/xml']
+    delimiter = '.'
+    suffixes = ['xml']
+
+  [mediatypes.'application/yaml']
+    delimiter = '.'
+    suffixes = ['yaml', 'yml']
+
+  [mediatypes.'font/otf']
+    delimiter = '.'
+    suffixes = ['otf']
+
+  [mediatypes.'font/ttf']
+    delimiter = '.'
+    suffixes = ['ttf']
+
+  [mediatypes.'image/bmp']
+    delimiter = '.'
+    suffixes = ['bmp']
+
+  [mediatypes.'image/gif']
+    delimiter = '.'
+    suffixes = ['gif']
+
+  [mediatypes.'image/jpeg']
+    delimiter = '.'
+    suffixes = ['jpg', 'jpeg', 'jpe', 'jif', 'jfif']
+
+  [mediatypes.'image/png']
+    delimiter = '.'
+    suffixes = ['png']
+
+  [mediatypes.'image/svg+xml']
+    delimiter = '.'
+    suffixes = ['svg']
+
+  [mediatypes.'image/tiff']
+    delimiter = '.'
+    suffixes = ['tif', 'tiff']
+
+  [mediatypes.'image/webp']
+    delimiter = '.'
+    suffixes = ['webp']
+
+  [mediatypes.'text/asciidoc']
+    delimiter = '.'
+    suffixes = ['adoc', 'asciidoc', 'ad']
+
+  [mediatypes.'text/calendar']
+    delimiter = '.'
+    suffixes = ['ics']
+
+  [mediatypes.'text/css']
+    delimiter = '.'
+    suffixes = ['css']
+
+  [mediatypes.'text/csv']
+    delimiter = '.'
+    suffixes = ['csv']
+
+  [mediatypes.'text/html']
+    delimiter = '.'
+    suffixes = ['html', 'htm']
+
+  [mediatypes.'text/javascript']
+    delimiter = '.'
+    suffixes = ['js', 'jsm', 'mjs']
+
+  [mediatypes.'text/jsx']
+    delimiter = '.'
+    suffixes = ['jsx']
+
+  [mediatypes.'text/markdown']
+    delimiter = '.'
+    suffixes = ['md', 'mdown', 'markdown']
+
+  [mediatypes.'text/org']
+    delimiter = '.'
+    suffixes = ['org']
+
+  [mediatypes.'text/pandoc']
+    delimiter = '.'
+    suffixes = ['pandoc', 'pdc']
+
+  [mediatypes.'text/plain']
+    delimiter = '.'
+    suffixes = ['txt']
+
+  [mediatypes.'text/rst']
+    delimiter = '.'
+    suffixes = ['rst']
+
+  [mediatypes.'text/tsx']
+    delimiter = '.'
+    suffixes = ['tsx']
+
+  [mediatypes.'text/typescript']
+    delimiter = '.'
+    suffixes = ['ts']
+
+  [mediatypes.'text/x-gotmpl']
+    delimiter = '.'
+    suffixes = ['gotmpl']
+
+  [mediatypes.'text/x-sass']
+    delimiter = '.'
+    suffixes = ['sass']
+
+  [mediatypes.'text/x-scss']
+    delimiter = '.'
+    suffixes = ['scss']
+
+  [mediatypes.'video/3gpp']
+    delimiter = '.'
+    suffixes = ['3gpp', '3gp']
+
+  [mediatypes.'video/mp4']
+    delimiter = '.'
+    suffixes = ['mp4']
+
+  [mediatypes.'video/mpeg']
+    delimiter = '.'
+    suffixes = ['mpg', 'mpeg']
+
+  [mediatypes.'video/ogg']
+    delimiter = '.'
+    suffixes = ['ogv']
+
+  [mediatypes.'video/webm']
+    delimiter = '.'
+    suffixes = ['webm']
+
+  [mediatypes.'video/x-msvideo']
+    delimiter = '.'
+    suffixes = ['avi']
+
+[menus]
+  [[menus.footer]]
+    name = 'KVKK'
+    url = '/tr/kvkk/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Hakkımda'
+    url = '/tr/hakkimda/'
+    weight = 20
+
+  [[menus.main]]
+    name = 'Hizmetler'
+    url = '/tr/hizmetler/'
+    weight = 25
+
+  [[menus.main]]
+    name = 'Klinik'
+    url = '/tr/klinik/'
+    weight = 30
+
+  [[menus.main]]
+    name = 'Yayınlar'
+    url = '/tr/yayinlar/'
+    weight = 40
+
+  [[menus.main]]
+    name = 'Blog'
+    url = '/tr/blog/'
+    weight = 50
+
+  [[menus.main]]
+    name = 'İletişim'
+    url = '/tr/iletisim/'
+    weight = 60
+
+[minify]
+  [minify.tdewolff]
+    [minify.tdewolff.css]
+
+    [minify.tdewolff.html]
+      keepdefaultattrvals = true
+      keepdocumenttags = true
+      keependtags = true
+      keepspecialcomments = true
+      templatedelims = ['', '']
+
+    [minify.tdewolff.js]
+      version = 2022
+
+    [minify.tdewolff.json]
+
+    [minify.tdewolff.svg]
+
+    [minify.tdewolff.xml]
+
+[module]
+  noproxy = 'none'
+  private = '*.*'
+  proxy = 'direct'
+  workspace = 'off'
+
+  [module.hugoversion]
+
+  [[module.imports]]
+    path = 'blowfish'
+
+  [[module.mounts]]
+    lang = 'tr'
+    source = 'content/tr'
+    target = 'content'
+
+  [[module.mounts]]
+    lang = 'en'
+    source = 'content/en'
+    target = 'content'
+
+  [[module.mounts]]
+    lang = 'ar'
+    source = 'content/ar'
+    target = 'content'
+
+  [[module.mounts]]
+    source = 'data'
+    target = 'data'
+
+  [[module.mounts]]
+    source = 'layouts'
+    target = 'layouts'
+
+  [[module.mounts]]
+    source = 'i18n'
+    target = 'i18n'
+
+  [[module.mounts]]
+    source = 'archetypes'
+    target = 'archetypes'
+
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+
+  [[module.mounts]]
+    source = 'static'
+    target = 'static'
+
+[outputformats]
+  [outputformats.404]
+    ishtml = true
+    mediatype = 'text/html'
+    notalternative = true
+    permalinkable = true
+    ugly = true
+
+  [outputformats.alias]
+    ishtml = true
+    mediatype = 'text/html'
+    ugly = true
+
+  [outputformats.amp]
+    basename = 'index'
+    ishtml = true
+    mediatype = 'text/html'
+    path = 'amp'
+    permalinkable = true
+    rel = 'amphtml'
+
+  [outputformats.calendar]
+    basename = 'index'
+    isplaintext = true
+    mediatype = 'text/calendar'
+    protocol = 'webcal://'
+    rel = 'alternate'
+
+  [outputformats.css]
+    basename = 'styles'
+    isplaintext = true
+    mediatype = 'text/css'
+    notalternative = true
+    rel = 'stylesheet'
+
+  [outputformats.csv]
+    basename = 'index'
+    isplaintext = true
+    mediatype = 'text/csv'
+    rel = 'alternate'
+
+  [outputformats.gotmpl]
+    isplaintext = true
+    mediatype = 'text/x-gotmpl'
+    notalternative = true
+
+  [outputformats.html]
+    basename = 'index'
+    ishtml = true
+    mediatype = 'text/html'
+    permalinkable = true
+    rel = 'canonical'
+    weight = 10
+
+  [outputformats.json]
+    basename = 'index'
+    isplaintext = true
+    mediatype = 'application/json'
+    rel = 'alternate'
+
+  [outputformats.markdown]
+    basename = 'index'
+    isplaintext = true
+    mediatype = 'text/markdown'
+    rel = 'alternate'
+
+  [outputformats.robots]
+    basename = 'robots'
+    isplaintext = true
+    mediatype = 'text/plain'
+    rel = 'alternate'
+    root = true
+
+  [outputformats.rss]
+    basename = 'index'
+    mediatype = 'application/rss+xml'
+    nougly = true
+    rel = 'alternate'
+
+  [outputformats.sitemap]
+    basename = 'sitemap'
+    mediatype = 'application/xml'
+    rel = 'sitemap'
+    ugly = true
+
+  [outputformats.sitemapindex]
+    basename = 'sitemap'
+    mediatype = 'application/xml'
+    rel = 'sitemap'
+    root = true
+    ugly = true
+
+  [outputformats.webappmanifest]
+    basename = 'manifest'
+    isplaintext = true
+    mediatype = 'application/manifest+json'
+    notalternative = true
+    rel = 'manifest'
+
+[outputs]
+  home = ['html', 'rss', 'json']
+  page = ['html']
+  rss = ['rss']
+  section = ['html', 'rss']
+  taxonomy = ['html', 'rss']
+  term = ['html', 'rss']
+
+[page]
+  nextprevinsectionsortorder = 'desc'
+  nextprevsortorder = 'desc'
+
+[pagination]
+  pagersize = 10
+  path = 'page'
+
+[params]
+  autoswitchappearance = true
+  colorscheme = 'cardiology'
+  copyright = '© 2024 Doç. Dr. Habib ÇİL. Tüm hakları saklıdır.'
+  dateformat = '2 January 2006'
+  defaultappearance = 'light'
+  defaultsocialimage = 'img/og-image.webp'
+  description = 'Doç. Dr. Habib ÇİL - Kardiyoloji Uzmanı. Ekokardiyografi, anjiyografi, hipertansiyon tedavisi ve koroner arter hastalığı konularında uzman.'
+  displayname = 'TR'
+  enablecodecopy = true
+  enableimagelazyloading = true
+  enablesearch = true
+  enablestructuredbreadcrumbs = true
+  fingerprintalgorithm = 'sha512'
+  forgejodefaultserver = 'https://v11.next.forgejo.org'
+  giteadefaultserver = 'https://git.fsfe.org'
+  isocode = 'tr'
+  keywords = ['kardiyoloji', 'kardiyolog', 'istanbul kardiyoloji', 'istanbul', 'doktor', 'kalp hastalığı', 'anjiyografi', 'ekokardiyografi', 'hipertansiyon', 'TAVI', 'kalp pili', 'girişimsel kardiyoloji', 'kardiyoloji uzmanı istanbul', 'damar açma', 'bacak damarı açma', 'dizüstü damar açma', 'dizaltı damarı açma', 'diyabetik ayak', 'periferik arter hastalığı', 'koroner anjiyoplasti', 'stent', 'kardiyolog istanbul', 'istanbul kardiyoloji uzmanı']
+  logo = 'img/logo.svg'
+  mainsections = ['posts', 'blog']
+  robots = 'index, follow'
+  secondarylogo = 'img/logo-dark.svg'
+
+  [params.advertisement]
+
+  [params.article]
+    editappendpath = true
+    layoutbackgroundblur = true
+    layoutbackgroundheaderspace = true
+    sharinglinks = ['facebook', 'twitter', 'whatsapp', 'linkedin', 'email']
+    showauthor = true
+    showbreadcrumbs = true
+    showdate = true
+    showdateupdated = true
+    showdraftlabel = true
+    showheadinganchors = true
+    showpagination = true
+    showreadingtime = true
+    showtableofcontents = true
+    showtaxonomies = true
+
+  [params.author]
+    bio = 'İstanbul Üniversitesi Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. Girişimsel kardiyoloji, koroner anjiyoplasti ve TAVI konularında uzman.'
+    headline = 'Girişimsel Kardiyoloji Uzmanı'
+    image = 'img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp'
+    name = 'Doç. Dr. Habib ÇİL'
+
+    [[params.author.links]]
+      email = 'mailto:habibcilmd@gmail.com'
+
+    [[params.author.links]]
+      whatsapp = 'https://wa.me/905339454639'
+
+    [[params.author.links]]
+      facebook = 'https://www.facebook.com/docdrhabibcil/'
+
+    [[params.author.links]]
+      instagram = 'https://www.instagram.com/doc.dr.habibcil'
+
+    [[params.author.links]]
+      linkedin = 'https://www.linkedin.com/in/do%C3%A7-dr-habib-%C3%A7il-988695a3/'
+
+  [params.buymeacoffee]
+
+  [params.fathomanalytics]
+
+  [params.firebase]
+
+  [params.footer]
+    showappearanceswitcher = true
+    showcopyright = true
+    showmenu = true
+    showscrolltotop = true
+
+  [params.header]
+    disabletextinheader = true
+    layout = 'fixed'
+    showlanguageswitcher = true
+
+  [params.homepage]
+    cardview = true
+    layout = 'profile'
+    showmorelink = true
+    showmorelinkdest = '/blog/'
+    showrecent = true
+    showrecentitems = 3
+
+  [params.list]
+    cardview = true
+    herostyle = 'background'
+    layoutbackgroundblur = true
+    layoutbackgroundheaderspace = true
+    showbreadcrumbs = true
+    showcards = true
+    showhero = true
+    showsummary = true
+
+  [params.rssnext]
+
+  [params.selineanalytics]
+
+  [params.sitemap]
+    excludedkinds = ['taxonomy', 'term']
+
+  [params.taxonomy]
+    showtermcount = true
+
+  [params.term]
+    showtableofcontents = true
+
+  [params.umamianalytics]
+
+  [params.verification]
+
+[permalinks]
+  [permalinks.page]
+
+  [permalinks.section]
+
+  [permalinks.taxonomy]
+
+  [permalinks.term]
+
+[privacy]
+  [privacy.disqus]
+
+  [privacy.googleanalytics]
+
+  [privacy.instagram]
+
+  [privacy.twitter]
+
+  [privacy.vimeo]
+
+  [privacy.x]
+
+  [privacy.youtube]
+
+[related]
+  includenewer = true
+  threshold = 80
+  tolower = true
+
+  [[related.indices]]
+    name = 'tags'
+    tolower = true
+    type = 'basic'
+    weight = 100
+
+  [[related.indices]]
+    name = 'categories'
+    tolower = true
+    type = 'basic'
+    weight = 80
+
+[security]
+  enableinlineshortcodes = true
+
+  [security.exec]
+    allow = ['^(dart-)?sass(-embedded)?$', '^go$', '^git$', '^npx$', '^postcss$', '^tailwindcss$']
+    osenv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG|SYSTEMDRIVE|PROGRAMDATA)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
+
+[segments]
+
+[server]
+  [[server.redirects]]
+    from = '/**'
+    status = 404
+    to = '/404.html'
+
+[services]
+  [services.disqus]
+
+  [services.googleanalytics]
+
+  [services.instagram]
+
+  [services.rss]
+    limit = -1
+
+  [services.twitter]
+
+  [services.x]
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[social]
+  facebook = 'drhabibcil'
+  instagram = 'doc.dr.habibcil'
+  twitter = 'drhabibcil'
+  youtube = 'channel/UCxxxxx'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[uglyurls]

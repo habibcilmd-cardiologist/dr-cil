@@ -8,32 +8,32 @@
 
 [[main]]
   name = "About"
-  url = "/about/"
+  url = "/en/about/"
   weight = 20
 
 [[main]]
   name = "Services"
-  url = "/services/"
+  url = "/en/services/"
   weight = 25
 
 [[main]]
   name = "Clinic"
-  url = "/clinic/"
+  url = "/en/clinic/"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "/publications/"
+  url = "/en/publications/"
   weight = 40
 
 [[main]]
   name = "Blog"
-  url = "/blog/"
+  url = "/en/blog/"
   weight = 50
 
 [[main]]
   name = "Contact"
-  url = "/contact/"
+  url = "/en/contact/"
   weight = 60
 
 # -----------------------------------------------------------------------------
@@ -42,6 +42,6 @@
 
 [[footer]]
   name = "Privacy Policy"
-  url = "/privacy/"
+  url = "/en/privacy/"
   weight = 10
 

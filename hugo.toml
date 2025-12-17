@@ -17,3 +17,105 @@ enableInlineShortcodes = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[languages]
+  # Turkish (Default)
+  [languages.tr]
+    weight = 1
+    languageCode = "tr-TR"
+    languageName = "Türkçe"
+    contentDir = "content/tr"
+    title = "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı"
+    [languages.tr.params]
+      displayName = "TR"
+      isoCode = "tr"
+      rtl = false
+      dateFormat = "2 January 2006"
+      description = "Doç. Dr. Habib ÇİL - Kardiyoloji Uzmanı. Ekokardiyografi, anjiyografi, hipertansiyon tedavisi ve koroner arter hastalığı konularında uzman."
+      copyright = "© 2024 Doç. Dr. Habib ÇİL. Tüm hakları saklıdır."
+      [languages.tr.params.author]
+        name = "Doç. Dr. Habib ÇİL"
+        image = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
+        headline = "Girişimsel Kardiyoloji Uzmanı"
+        bio = "İstanbul Üniversitesi Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. Girişimsel kardiyoloji, koroner anjiyoplasti ve TAVI konularında uzman."
+        links = [
+          { email = "mailto:habibcilmd@gmail.com" },
+          { whatsapp = "https://wa.me/905339454639" },
+          { facebook = "https://www.facebook.com/docdrhabibcil/" },
+          { instagram = "https://www.instagram.com/doc.dr.habibcil" },
+          { linkedin = "https://www.linkedin.com/in/do%C3%A7-dr-habib-%C3%A7il-988695a3/" },
+        ]
+
+  # English
+  [languages.en]
+    weight = 2
+    languageCode = "en-US"
+    languageName = "English"
+    contentDir = "content/en"
+    title = "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
+    [languages.en.permalinks]
+      blog = "/en/blog/:slug/"
+      services = "/en/services/:slug/"
+      tags = "/en/tags/:slug/"
+      categories = "/en/categories/:slug/"
+    [languages.en.params]
+      displayName = "EN"
+      isoCode = "en"
+      rtl = false
+      dateFormat = "January 2, 2006"
+      description = "Assoc. Prof. Dr. Habib ÇİL - Cardiology Specialist. Expert in echocardiography, angiography, hypertension treatment, and coronary artery disease."
+      copyright = "© 2024 Assoc. Prof. Dr. Habib ÇİL. All rights reserved."
+      [languages.en.params.author]
+        name = "Assoc. Prof. Dr. Habib ÇİL"
+        image = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
+        headline = "Interventional Cardiologist"
+        bio = "Istanbul University Faculty of Medicine graduate, Akdeniz University Cardiology specialization. Expert in interventional cardiology, coronary angioplasty and TAVI."
+        links = [
+          { email = "mailto:habibcilmd@gmail.com" },
+          { whatsapp = "https://wa.me/905339454639" },
+          { facebook = "https://www.facebook.com/docdrhabibcil/" },
+          { instagram = "https://www.instagram.com/doc.dr.habibcil" },
+          { linkedin = "https://www.linkedin.com/in/do%C3%A7-dr-habib-%C3%A7il-988695a3/" },
+        ]
+
+  # Arabic
+  [languages.ar]
+    weight = 3
+    languageCode = "ar-SA"
+    languageName = "العربية"
+    contentDir = "content/ar"
+    title = "أ.د. حبيب جيل | أخصائي أمراض القلب"
+    [languages.ar.params]
+      displayName = "AR"
+      isoCode = "ar"
+      rtl = true
+      dateFormat = "2 January 2006"
+      description = "أ.د. حبيب جيل - أخصائي أمراض القلب. خبير في تخطيط صدى القلب، القسطرة القلبية، علاج ارتفاع ضغط الدم وأمراض الشرايين التاجية."
+      copyright = "© 2024 أ.د. حبيب جيل. جميع الحقوق محفوظة."
+      [languages.ar.params.author]
+        name = "أ.د. حبيب جيل"
+        image = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
+        headline = "أخصائي أمراض القلب التداخلية"
+        bio = "خريج كلية الطب بجامعة إسطنبول، تخصص أمراض القلب من جامعة أكدينيز. خبير في أمراض القلب التداخلية، رأب الأوعية التاجية وزراعة الصمام الأبهري عبر القسطرة (TAVI)."
+        links = [
+          { email = "mailto:habibcilmd@gmail.com" },
+          { whatsapp = "https://wa.me/905339454639" },
+          { facebook = "https://www.facebook.com/docdrhabibcil/" },
+          { instagram = "https://www.instagram.com/doc.dr.habibcil" },
+          { linkedin = "https://www.linkedin.com/in/do%C3%A7-dr-habib-%C3%A7il-988695a3/" },
+        ]
+      # Homepage Layout
+      [languages.ar.params.homepage]
+        layout = "profile"
+        homepageImage = "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp"
+        showRecent = true
+        showRecentItems = 6
+        showMoreLink = true
+        showMoreLinkDest = "/ar/blog"
+        cardView = true
+        cardViewScreenWidth = false

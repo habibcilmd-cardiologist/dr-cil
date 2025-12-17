@@ -26,22 +26,22 @@ keywords:
 <p class="section-subtitle">All service categories offered in the field of cardiology</p>
 
 <div class="services-grid services-grid-4">
-  <a href="/services/#interventional-cardiology" class="service-card">
+  <a href="/en/services/#interventional-cardiology" class="service-card">
     <div class="service-icon">🔧</div>
     <h4>Interventional Cardiology</h4>
     <p>Coronary interventions, Peripheral interventions, Structural heart disease interventions</p>
   </a>
-  <a href="/services/#clinical-cardiology" class="service-card">
+  <a href="/en/services/#clinical-cardiology" class="service-card">
     <div class="service-icon">🫀</div>
     <h4>Clinical Cardiology</h4>
     <p>Prevention of Coronary Heart Disease, Hypertension, Hyperlipidemia, Treatment of Heart Failure, Medical Treatment of Atrial Fibrillation</p>
   </a>
-  <a href="/services/#pacemaker-and-electrophysiology" class="service-card">
+  <a href="/en/services/#pacemaker-and-electrophysiology" class="service-card">
     <div class="service-icon">⚡</div>
     <h4>Pacemaker & Electrophysiology</h4>
     <p>Pacemaker, ICD, ablation therapies</p>
   </a>
-  <a href="/services/#diagnostic-procedures" class="service-card">
+  <a href="/en/services/#diagnostic-procedures" class="service-card">
     <div class="service-icon">🩺</div>
     <h4>Diagnostic Procedures</h4>
     <p>Angiography, EKG, echocardiography, holter</p>
@@ -49,7 +49,7 @@ keywords:
 </div>
 
 <div class="services-view-all">
-  <a href="/services/" class="btn-view-all">
+  <a href="/en/services/" class="btn-view-all">
     <span class="btn-icon">📋</span>
     <span>View All Services</span>
   </a>
