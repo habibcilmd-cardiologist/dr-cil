@@ -1,0 +1,19 @@
+baseURL = "https://docdrhabibcil.com/"
+title = "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı"
+theme = "blowfish"
+
+defaultContentLanguage = "tr"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+enableInlineShortcodes = true
+
+[pagination]
+  pagerSize = 10
+
+# Taxonomies are merged, but good to have basics available
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
