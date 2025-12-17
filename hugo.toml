@@ -62,10 +62,10 @@ enableInlineShortcodes = true
     contentDir = "content/en"
     title = "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
     [languages.en.permalinks]
-      blog = "/en/blog/:slug/"
-      services = "/en/services/:slug/"
-      tags = "/en/tags/:slug/"
-      categories = "/en/categories/:slug/"
+      blog = "/blog/:slug/"
+      services = "/services/:slug/"
+      tags = "/tags/:slug/"
+      categories = "/categories/:slug/"
     [languages.en.params]
       displayName = "EN"
       isoCode = "en"
