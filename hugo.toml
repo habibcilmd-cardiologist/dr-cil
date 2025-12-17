@@ -23,6 +23,9 @@ enableInlineShortcodes = true
     [markup.goldmark.renderer]
       unsafe = true
 
+[params.verification]
+  google = "bs3oztIehq9ZyMyqgBKUm1LOx_X_Juv7U9I-Mps5Tik"
+
 [languages]
   # Turkish (Default)
   [languages.tr]
