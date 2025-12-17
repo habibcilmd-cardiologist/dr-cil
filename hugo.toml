@@ -16,12 +16,17 @@ enableInlineShortcodes = true
   category = "categories"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "Sitemap"]
+  home = ["HTML", "RSS", "JSON"]
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputFormats.TRSitemap]
+  mediaType = "application/xml"
+  baseName = "tr_sitemap"
+  isPlainText = false
 
 [params.verification]
   google = "bs3oztIehq9ZyMyqgBKUm1LOx_X_Juv7U9I-Mps5Tik"
@@ -32,8 +37,12 @@ enableInlineShortcodes = true
     weight = 1
     languageCode = "tr-TR"
     languageName = "Türkçe"
+
     contentDir = "content/tr"
     title = "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı"
+    [languages.tr.outputs]
+      home = ["HTML", "RSS", "JSON", "TRSitemap"]
+
     [languages.tr.params]
       displayName = "TR"
       isoCode = "tr"
@@ -54,6 +63,9 @@ enableInlineShortcodes = true
           { linkedin = "https://www.linkedin.com/in/do%C3%A7-dr-habib-%C3%A7il-988695a3/" },
         ]
 
+    [languages.tr.sitemap]
+      filename = "tr_sitemap.xml"
+
   # English
   [languages.en]
     weight = 2
@@ -61,6 +73,9 @@ enableInlineShortcodes = true
     languageName = "English"
     contentDir = "content/en"
     title = "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
+    [languages.en.outputs]
+      home = ["HTML", "RSS", "JSON", "Sitemap"]
+
     [languages.en.permalinks]
       blog = "/blog/:slug/"
       services = "/services/:slug/"
@@ -93,6 +108,9 @@ enableInlineShortcodes = true
     languageName = "العربية"
     contentDir = "content/ar"
     title = "أ.د. حبيب جيل | أخصائي أمراض القلب"
+    [languages.ar.outputs]
+      home = ["HTML", "RSS", "JSON", "Sitemap"]
+
     [languages.ar.params]
       displayName = "AR"
       isoCode = "ar"
