@@ -235,7 +235,7 @@ ic_url_coronary_6: "/hizmetler/ffr/"
 # Peripheral URLs
 ic_url_peripheral_1: "/hizmetler/karotis-stenozu/"
 ic_url_peripheral_2: "/hizmetler/renal-arter-stenozu/"
-ic_url_peripheral_3: "/hizmetler/abdominal-aort-anevrizması/"
+ic_url_peripheral_3: "/hizmetler/evar-tevar/"
 ic_url_peripheral_4: "/hizmetler/diyaliz-fistul-tedavisi/"
 ic_url_peripheral_5: "/hizmetler/iliak-arter-tedavisi/"
 ic_url_peripheral_6: "/hizmetler/dizustu-damar-tikanikligi/"
