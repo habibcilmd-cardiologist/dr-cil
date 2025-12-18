@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Holter Monitoring - Ambulatory ECG Recording"
 description: "Expert Holter monitoring in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil provides 24-48 hour ECG monitoring. Arrhythmia diagnosis. Avrasya Hospital."
 date: 2024-01-15
@@ -175,8 +175,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to Holter monitoring:
 
--   [EKG](/en/services/ekg/) - Electrocardiography
+-   [EKG]({{< relref "ekg" >}}) - Electrocardiography
 -   [Ambulatory Cardiac Monitoring](/en/blog/ambulatory-cardiac-monitoring/) - Extended rhythm monitoring
--   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Ablation](/en/services/ablation/) - Catheter ablation
+-   [Electrophysiology Study]({{< relref "electrophysiology-study" >}}) - Arrhythmia diagnosis
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
+-   [Ablation]({{< relref "ablation" >}}) - Catheter ablation

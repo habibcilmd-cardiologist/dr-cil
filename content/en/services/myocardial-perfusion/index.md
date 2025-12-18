@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Myocardial Perfusion Scintigraphy - Nuclear Cardiac Imaging"
 description: "Expert myocardial perfusion scintigraphy in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil evaluates heart blood flow. Ischemia diagnosis. Avrasya Hospital."
 date: 2024-01-15
@@ -162,8 +162,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to myocardial perfusion scintigraphy:
 
--   [Exercise Stress Test](/en/services/exercise-stress-test/) - Exercise stress test
--   [Stress Echocardiography](/en/services/stress-echocardiography/) - Exercise echo
--   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Exercise Stress Test]({{< relref "exercise-stress-test" >}}) - Exercise stress test
+-   [Stress Echocardiography]({{< relref "stress-echocardiography" >}}) - Exercise echo
+-   [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography
 -   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
 -   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease

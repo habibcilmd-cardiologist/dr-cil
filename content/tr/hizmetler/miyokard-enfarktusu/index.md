@@ -199,8 +199,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Miyokard enfarktüsü ile bağlantılı diğer kardiyoloji hizmetleri:
 
--   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Acil damar açma işlemi
--   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - Stent implantasyonu
--   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı hakkında
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp fonksiyon değerlendirmesi
--   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [Koroner Anjiyoplasti]({{< relref "koroner-anjiyoplasti" >}}) - Acil damar açma işlemi
+-   [Kardiyak Stent]({{< relref "kardiyak-stent" >}}) - Stent implantasyonu
+-   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı hakkında
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp fonksiyon değerlendirmesi
+-   [Kalp Yetmezliği]({{< relref "kalp-yetmezligi" >}}) - Kalp yetmezliği tedavisi

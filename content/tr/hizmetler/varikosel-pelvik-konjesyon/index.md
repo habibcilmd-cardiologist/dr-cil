@@ -292,7 +292,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Varikosel ve pelvik konjesyon tedavisi ile bağlantılı diğer hizmetler:
 
-- [Akut DVT Tedavisi](/tr/hizmetler/akut-dvt-tedavisi/) - Derin ven trombozu
-- [Kronik DVT Tedavisi](/tr/hizmetler/kronik-dvt-tedavisi/) - Post-trombotik sendrom
-- [May-Thurner Sendromu](/tr/hizmetler/may-thurner-sendromu/) - İliak ven kompresyonu
-- [Diyaliz Fistül Tedavisi](/tr/hizmetler/diyaliz-fistul-tedavisi/) - AV fistül girişimleri
+- [Akut DVT Tedavisi]({{< relref "akut-dvt-tedavisi" >}}) - Derin ven trombozu
+- [Kronik DVT Tedavisi]({{< relref "kronik-dvt-tedavisi" >}}) - Post-trombotik sendrom
+- [May-Thurner Sendromu]({{< relref "may-thurner-sendromu" >}}) - İliak ven kompresyonu
+- [Diyaliz Fistül Tedavisi]({{< relref "diyaliz-fistul-tedavisi" >}}) - AV fistül girişimleri

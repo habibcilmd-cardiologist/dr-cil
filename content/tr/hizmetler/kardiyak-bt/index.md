@@ -152,8 +152,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Kardiyak BT ile bağlantılı diğer kardiyoloji testleri:
 
--   [Koroner Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - İnvaziv damar görüntüleme
--   [Miyokard Perfüzyon](/tr/hizmetler/miyokard-perfuzyon/) - Sintigrafi
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
--   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
--   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı
+-   [Koroner Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - İnvaziv damar görüntüleme
+-   [Miyokard Perfüzyon]({{< relref "miyokard-perfuzyon" >}}) - Sintigrafi
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonografisi
+-   [Efor Testi]({{< relref "efor-testi" >}}) - Egzersiz stres testi
+-   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı

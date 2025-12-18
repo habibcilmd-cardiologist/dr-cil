@@ -1,4 +1,4 @@
-﻿---
+---
 title: "TAVI - Transcatheter Aortic Valve Replacement"
 description: "Expert TAVI procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs minimally invasive aortic valve replacement. Avrasya Hospital."
 date: 2024-01-15
@@ -219,6 +219,6 @@ Other structural heart treatments related to TAVI:
 
 -   [Aortic Valve Disease](/en/blog/aortic-valve-disease/) - About aortic valve diseases
 -   [Balloon Valvuloplasty](/en/blog/balloon-valvuloplasty/) - Balloon valve dilation
--   [Echocardiography](/en/services/echocardiography/) - Valve assessment
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Valve assessment
+-   [Heart Failure]({{< relref "heart-failure" >}}) - Heart failure treatment
 -   [CABG](/en/blog/cabg/) - Coronary bypass surgery

@@ -215,7 +215,7 @@ _Bu içerik girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından haz
 
 TAVI ve diğer yapısal kalp hastalığı tedavileri:
 
--   [Aort Kapak Hastalığı](/tr/hizmetler/aort-kapak-hastaligi/) - Aort darlığı ve yetersizliği hakkında bilgi
--   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
--   [MitraClip](/tr/hizmetler/mitraclip/) - Mitral kapak tamiri
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
+-   [Aort Kapak Hastalığı]({{< relref "aort-kapak-hastaligi" >}}) - Aort darlığı ve yetersizliği hakkında bilgi
+-   [Balon Valvüloplasti]({{< relref "balon-valvuloplasti" >}}) - Kapak balonla genişletme
+-   [MitraClip]({{< relref "mitraclip" >}}) - Mitral kapak tamiri
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kapak değerlendirmesi

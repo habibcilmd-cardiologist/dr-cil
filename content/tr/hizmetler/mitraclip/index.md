@@ -167,8 +167,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 MitraClip ile bağlantılı diğer yapısal kalp tedavileri:
 
--   [Mitral Kapak](/tr/hizmetler/mitral-kapak/) - Mitral kapak hastalıkları hakkında
--   [TAVI](/tr/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
--   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
--   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [Mitral Kapak]({{< relref "mitral-kapak" >}}) - Mitral kapak hastalıkları hakkında
+-   [TAVI]({{< relref "tavi" >}}) - Transkateter aort kapak implantasyonu
+-   [Balon Valvüloplasti]({{< relref "balon-valvuloplasti" >}}) - Kapak balonla genişletme
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kapak değerlendirmesi
+-   [Kalp Yetmezliği]({{< relref "kalp-yetmezligi" >}}) - Kalp yetmezliği tedavisi

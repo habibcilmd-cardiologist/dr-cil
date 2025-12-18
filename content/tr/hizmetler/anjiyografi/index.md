@@ -186,8 +186,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Anjiyografi ile bağlantılı diğer koroner işlemler:
 
--   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
--   [Radyal Anjiyografi](/tr/hizmetler/radyal-anjiyografi/) - Bilekten anjiyografi
--   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
--   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
--   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı hakkında
+-   [Kardiyak Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Koroner damar görüntüleme
+-   [Radyal Anjiyografi]({{< relref "radyal-anjiyografi" >}}) - Bilekten anjiyografi
+-   [Koroner Anjiyoplasti]({{< relref "koroner-anjiyoplasti" >}}) - Balon ve stent ile damar açma
+-   [Kardiyak Stent]({{< relref "kardiyak-stent" >}}) - İlaç salınımlı stent implantasyonu
+-   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı hakkında

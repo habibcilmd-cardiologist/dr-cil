@@ -320,7 +320,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Akut DVT tedavisi ile bağlantılı diğer hizmetler:
 
-- [Kronik DVT Tedavisi](/tr/hizmetler/kronik-dvt-tedavisi/) - Post-trombotik sendrom
-- [May-Thurner Sendromu](/tr/hizmetler/may-thurner-sendromu/) - İliak ven kompresyonu
-- [Pulmoner Emboli](/tr/hizmetler/pulmoner-emboli/) - Akciğer pıhtısı tedavisi
-- [İliak Arter Tedavisi](/tr/hizmetler/iliak-arter-tedavisi/) - Kalça damar tedavisi
+- [Kronik DVT Tedavisi]({{< relref "kronik-dvt-tedavisi" >}}) - Post-trombotik sendrom
+- [May-Thurner Sendromu]({{< relref "may-thurner-sendromu" >}}) - İliak ven kompresyonu
+- [Pulmoner Emboli]({{< relref "pulmoner-emboli" >}}) - Akciğer pıhtısı tedavisi
+- [İliak Arter Tedavisi]({{< relref "iliak-arter-tedavisi" >}}) - Kalça damar tedavisi

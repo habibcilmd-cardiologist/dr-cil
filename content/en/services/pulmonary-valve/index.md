@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pulmonary Valve Disease - Balloon Valvuloplasty and Valve Implantation"
 description: "Expert evaluation and treatment of pulmonary valve disease in Istanbul. Balloon valvuloplasty, surgery, and in selected patients transcatheter pulmonary valve implantation (TPVI)."
 date: 2024-01-15
@@ -189,8 +189,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other structural heart treatments related to pulmonary valve disease:
 
--   [Tricuspid Valve](/en/services/tricuspid-valve/) - Tricuspid valve diseases
+-   [Tricuspid Valve]({{< relref "tricuspid-valve" >}}) - Tricuspid valve diseases
 -   [Balloon Valvuloplasty](/en/blog/balloon-valvuloplasty/) - Balloon valve dilation
--   [Echocardiography](/en/services/echocardiography/) - Valve assessment
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
--   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Valve assessment
+-   [Heart Failure]({{< relref "heart-failure" >}}) - Heart failure treatment
+-   [EKG]({{< relref "ekg" >}}) - Electrocardiography

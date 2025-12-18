@@ -160,8 +160,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Renal arter stenozu ile bağlantılı diğer tedaviler:
 
--   [Periferik Damar](/tr/hizmetler/periferik-damar/) - Periferik damar hastalıkları
--   [Karotis Stenozu](/tr/hizmetler/karotis-stenozu/) - Şah damarı darlığı
--   [Hipertansiyon](/tr/hizmetler/hipertansiyon/) - Yüksek tansiyon tedavisi
--   [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar hastalığı
--   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Damar görüntüleme
+-   [Periferik Damar]({{< relref "periferik-damar" >}}) - Periferik damar hastalıkları
+-   [Karotis Stenozu]({{< relref "karotis-stenozu" >}}) - Şah damarı darlığı
+-   [Hipertansiyon]({{< relref "hipertansiyon" >}}) - Yüksek tansiyon tedavisi
+-   [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar hastalığı
+-   [Kardiyak Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Damar görüntüleme

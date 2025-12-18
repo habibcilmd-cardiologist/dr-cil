@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Peripheral and Coronary Atherectomy - Plaque Removal Procedure"
 description: "What is peripheral and coronary atherectomy? Learn about rotational, orbital, and laser
   atherectomy types, indications, procedure steps, and outcomes. Comprehensive guide for calcified lesion treatment."

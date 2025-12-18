@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Renal Artery Stenosis - Kidney Artery Stenting"
 description: "Expert renal artery stenosis treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats kidney artery narrowing. Stent and angioplasty. Avrasya Hospital."
 date: 2024-01-15
@@ -162,8 +162,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other peripheral vascular treatments related to renal artery stenosis:
 
--   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
--   [Carotid Stenosis](/en/services/carotid-stenosis/) - Carotid artery stenosis treatment
--   [Hypertension](/en/services/hypertension/) - High blood pressure treatment
--   [Angiography](/en/services/angiography/) - General angiography procedures
--   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
+-   [Peripheral Vascular]({{< relref "peripheral-vascular" >}}) - Peripheral vascular disease
+-   [Carotid Stenosis]({{< relref "carotid-stenosis" >}}) - Carotid artery stenosis treatment
+-   [Hypertension]({{< relref "hypertension" >}}) - High blood pressure treatment
+-   [Angiography]({{< relref "angiography" >}}) - General angiography procedures
+-   [Atherectomy]({{< relref "atherectomy" >}}) - Plaque removal procedure

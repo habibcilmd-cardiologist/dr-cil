@@ -158,7 +158,7 @@ _Bu içerik Doç. Dr. Habib ÇİL tarafından genel bilgilendirme amacıyla haz�
 
 Hiperlipidemi ile ilişkili diğer kardiyolojik durumlar ve tedaviler:
 
-- [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Damar tıkanıklığı
-- [Hipertansiyon](/tr/hizmetler/hipertansiyon/) - Yüksek kan basıncı
-- [Kardiyovasküler Korunma](/tr/hizmetler/kardiyovaskuler-korunma/) - Kalp sağlığı risk yönetimi
-- [Miyokard Enfarktüsü](/tr/hizmetler/miyokard-enfarktusu/) - Kalp krizi tedavisi
+- [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Damar tıkanıklığı
+- [Hipertansiyon]({{< relref "hipertansiyon" >}}) - Yüksek kan basıncı
+- [Kardiyovasküler Korunma]({{< relref "kardiyovaskuler-korunma" >}}) - Kalp sağlığı risk yönetimi
+- [Miyokard Enfarktüsü]({{< relref "miyokard-enfarktusu" >}}) - Kalp krizi tedavisi

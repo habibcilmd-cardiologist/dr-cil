@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cardiovascular Prevention - Heart Health Risk Management"
 description: "Comprehensive guide to cardiovascular prevention. Risk assessment, lifestyle modifications, hypertension and lipid management by Assoc. Prof. Dr. Habib ÇİL in Istanbul."
 date: 2024-01-20

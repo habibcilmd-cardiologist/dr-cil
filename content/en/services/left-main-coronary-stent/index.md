@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Left Main Coronary Artery Stenting - LMCA PCI"
 description: "Expert left main coronary artery stenting in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs LMCA disease treatment. Avrasya Hospital."
 date: 2024-01-15

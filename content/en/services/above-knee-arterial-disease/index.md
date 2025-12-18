@@ -329,8 +329,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other services related to above-knee arterial occlusion treatment:
 
-- [Below-Knee Arterial Occlusion](/en/services/below-knee-arterial-disease/) - Infrapopliteal treatment
-- [Iliac Artery Treatment](/en/services/iliac-artery-treatment/) - Pelvic vessel treatment
-- [Peripheral Angiography](/en/services/peripheral-angiography/) - Vascular imaging
-- [Atherectomy](/en/services/atherectomy/) - Plaque removal
-- [Peripheral Vascular Disease](/en/services/peripheral-vascular/) - Advanced treatment
+- [Below-Knee Arterial Occlusion]({{< relref "below-knee-arterial-disease" >}}) - Infrapopliteal treatment
+- [Iliac Artery Treatment]({{< relref "iliac-artery-treatment" >}}) - Pelvic vessel treatment
+- [Peripheral Angiography]({{< relref "peripheral-angiography" >}}) - Vascular imaging
+- [Atherectomy]({{< relref "atherectomy" >}}) - Plaque removal
+- [Peripheral Vascular Disease]({{< relref "peripheral-vascular" >}}) - Advanced treatment

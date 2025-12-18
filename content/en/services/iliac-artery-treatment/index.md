@@ -291,8 +291,8 @@ _This content has been prepared by Assoc. Prof. Habib Çil for general informati
 
 Other services related to iliac artery treatment:
 
-- [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg vessel treatment
-- [Peripheral Angiography](/en/services/peripheral-angiography/) - Vascular imaging
-- [Abdominal Aortic Aneurysm](/en/services/abdominal-aortic-aneurysm/) - Aortic treatment
-- [EVAR](/en/services/evar/) - Endovascular aneurysm repair
-- [Carotid Stenosis](/en/services/carotid-stenosis/) - Neck vessel treatment
+- [Lower Extremity Arterial Disease]({{< relref "peripheral-vascular" >}}) - Leg vessel treatment
+- [Peripheral Angiography]({{< relref "peripheral-angiography" >}}) - Vascular imaging
+- [Abdominal Aortic Aneurysm]({{< relref "evar-tevar" >}}) - Aortic treatment
+- [EVAR]({{< relref "evar" >}}) - Endovascular aneurysm repair
+- [Carotid Stenosis]({{< relref "carotid-stenosis" >}}) - Neck vessel treatment

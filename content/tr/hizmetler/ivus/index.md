@@ -243,8 +243,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 IVUS ile bağlantılı diğer hizmetler:
 
-- [Koroner Anjiyografi](/tr/hizmetler/anjiyografi/) - Tanısal koroner görüntüleme
-- [FFR (Basınç Teli)](/tr/hizmetler/ffr/) - Fraksiyonel akım rezervi
-- [Koroner Stentleme](/tr/hizmetler/stent/) - Damar açma işlemi
-- [Bifurkasyon Girişimi](/tr/hizmetler/bifurkasyon-girisimi/) - Dallanma bölgesi tedavisi
-- [CTO Girişimi](/tr/hizmetler/cto/) - Kronik total oklüzyon açma
+- [Koroner Anjiyografi]({{< relref "anjiyografi" >}}) - Tanısal koroner görüntüleme
+- [FFR (Basınç Teli)]({{< relref "ffr" >}}) - Fraksiyonel akım rezervi
+- [Koroner Stentleme]({{< relref "stent" >}}) - Damar açma işlemi
+- [Bifurkasyon Girişimi]({{< relref "bifurkasyon-girisimi" >}}) - Dallanma bölgesi tedavisi
+-   [CTO Girişimi]({{< relref "cto-girisimi" >}}) - Kronik total oklüzyon tedavisiçma

@@ -276,7 +276,7 @@ _تم إعداد هذا المحتوى من قبل الأستاذ المشارك
 
 خدمات أخرى متعلقة بعلاج ناسور الغسيل الكلوي:
 
-- [تصوير الأوعية المحيطية](/ar/services/peripheral-angiography/) - تصوير الأوعية
-- [مرض شرايين الأطراف السفلية](/ar/services/lower-extremity-arterial-disease/) - علاج أوعية الساق
-- [تضيق الشريان السباتي](/ar/services/carotid-stenosis/) - علاج أوعية الرقبة
-- [تضيق الشريان الكلوي](/ar/services/renal-artery-stenosis/) - علاج أوعية الكلى
+- [تصوير الأوعية المحيطية]({{< relref "peripheral-angiography" >}}) - تصوير الأوعية
+- [مرض شرايين الأطراف السفلية]({{< relref "lower-extremity-arterial-disease" >}}) - علاج أوعية الساق
+- [تضيق الشريان السباتي]({{< relref "carotid-stenosis" >}}) - علاج أوعية الرقبة
+- [تضيق الشريان الكلوي]({{< relref "renal-artery-stenosis" >}}) - علاج أوعية الكلى

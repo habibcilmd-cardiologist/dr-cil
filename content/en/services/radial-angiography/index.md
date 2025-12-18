@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Radial Angiography - Transradial Coronary Access"
 description: "Expert radial angiography in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs coronary angiography via wrist. Fewer complications. Avrasya Hospital."
 date: 2024-01-15
@@ -156,6 +156,6 @@ Other coronary treatments related to radial angiography:
 
 -   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
 -   [Coronary Angioplasty](/en/blog/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Angiography](/en/services/angiography/) - General angiography procedures
+-   [Angiography]({{< relref "angiography" >}}) - General angiography procedures
 -   [Cardiac Stent](/en/blog/cardiac-stent/) - Drug-eluting stent implantation
 -   [PCI](/en/blog/percutaneous-coronary-intervention/) - Percutaneous coronary intervention

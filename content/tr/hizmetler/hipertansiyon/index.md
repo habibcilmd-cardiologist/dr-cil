@@ -217,8 +217,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Hipertansiyon ile bağlantılı diğer tedaviler:
 
--   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı
--   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
--   [Renal Arter Stenozu](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damarı darlığı
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
--   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
+-   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı
+-   [Kalp Yetmezliği]({{< relref "kalp-yetmezligi" >}}) - Kalp yetmezliği tedavisi
+-   [Renal Arter Stenozu]({{< relref "renal-arter-stenozu" >}}) - Böbrek damarı darlığı
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonografisi
+-   [EKG]({{< relref "ekg" >}}) - Elektrokardiyografi

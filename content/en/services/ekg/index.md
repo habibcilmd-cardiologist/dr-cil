@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ECG - 12-Lead Electrocardiography"
 description: "Expert ECG testing in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil evaluates heart rhythm. 12-lead ECG interpretation. Avrasya Hospital."
 date: 2024-01-15
@@ -182,8 +182,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to EKG:
 
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
--   [Exercise Stress Test](/en/services/exercise-stress-test/) - Exercise stress test
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Holter]({{< relref "holter" >}}) - 24-hour rhythm monitoring
+-   [Exercise Stress Test]({{< relref "exercise-stress-test" >}}) - Exercise stress test
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
 -   [Ambulatory Cardiac Monitoring](/en/blog/ambulatory-cardiac-monitoring/) - Extended rhythm monitoring
--   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
+-   [Electrophysiology Study]({{< relref "electrophysiology-study" >}}) - Arrhythmia diagnosis

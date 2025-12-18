@@ -1,4 +1,4 @@
-﻿---
+---
 title: "MitraClip - Transcatheter Mitral Valve Repair"
 description: "Expert MitraClip procedure in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats mitral regurgitation. Non-surgical valve treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -170,7 +170,7 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 Other structural heart treatments related to MitraClip:
 
 -   [Mitral Valve](/en/blog/mitral-valve/) - About mitral valve diseases
--   [TAVI](/en/services/tavi/) - Transcatheter aortic valve implantation
+-   [TAVI]({{< relref "tavi" >}}) - Transcatheter aortic valve implantation
 -   [Balloon Valvuloplasty](/en/blog/balloon-valvuloplasty/) - Balloon valve dilation
--   [Echocardiography](/en/services/echocardiography/) - Valve assessment
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Valve assessment
+-   [Heart Failure]({{< relref "heart-failure" >}}) - Heart failure treatment

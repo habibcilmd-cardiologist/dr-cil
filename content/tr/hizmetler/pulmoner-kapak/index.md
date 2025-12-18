@@ -196,8 +196,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Pulmoner kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
 
--   [Triküspit Kapak](/tr/hizmetler/trikuspid-kapak/) - Triküspit kapak hastalıkları
--   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
--   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
--   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
+-   [Triküspit Kapak]({{< relref "trikuspid-kapak" >}}) - Triküspit kapak hastalıkları
+-   [Balon Valvüloplasti]({{< relref "balon-valvuloplasti" >}}) - Kapak balonla genişletme
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kapak değerlendirmesi
+-   [Kalp Yetmezliği]({{< relref "kalp-yetmezligi" >}}) - Kalp yetmezliği tedavisi
+-   [EKG]({{< relref "ekg" >}}) - Elektrokardiyografi

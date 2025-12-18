@@ -225,8 +225,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Sol ana koroner stent ile bağlantılı diğer koroner tedaviler:
 
--   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
--   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
--   [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi
--   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
--   [Kalp Bypass](/tr/hizmetler/kalp-bypass/) - Koroner bypass ameliyatı
+-   [Koroner Anjiyoplasti]({{< relref "koroner-anjiyoplasti" >}}) - Balon ve stent ile damar açma
+-   [Kardiyak Stent]({{< relref "kardiyak-stent" >}}) - İlaç salınımlı stent implantasyonu
+-   [CTO Girişimi]({{< relref "cto-girisimi" >}}) - Kronik total oklüzyon tedavisi
+-   [Kardiyak Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Koroner damar görüntüleme
+-   Kalp Bypass - Koroner bypass ameliyatı

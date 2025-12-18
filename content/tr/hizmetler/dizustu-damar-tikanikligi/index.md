@@ -327,8 +327,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Dizüstü damar tıkanıklığı tedavisi ile bağlantılı diğer hizmetler:
 
-- [Dizaltı Damar Tıkanıklığı](/tr/hizmetler/dizalti-damar-tikanikligi/) - İnfrapopliteal tedavi
-- [İliak Arter Tedavisi](/tr/hizmetler/iliak-arter-tedavisi/) - Kalça damar tedavisi
-- [Periferik Anjiyografi](/tr/hizmetler/periferik-anjiyografi/) - Damar görüntüleme
-- [Aterektomi](/tr/hizmetler/aterektomi/) - Plak çıkarma
-- [Kritik Bacak İskemisi](/tr/hizmetler/periferik-damar/) - İleri evre tedavi
+- [Dizaltı Damar Tıkanıklığı]({{< relref "dizalti-damar-tikanikligi" >}}) - İnfrapopliteal tedavi
+- [İliak Arter Tedavisi]({{< relref "iliak-arter-tedavisi" >}}) - Kalça damar tedavisi
+- [Periferik Anjiyografi]({{< relref "periferik-anjiyografi" >}}) - Damar görüntüleme
+- [Aterektomi]({{< relref "aterektomi" >}}) - Plak çıkarma
+- [Kritik Bacak İskemisi]({{< relref "periferik-damar" >}}) - İleri evre tedavi

@@ -322,7 +322,7 @@ _تم إعداد هذا المحتوى من قبل الأستاذ المشارك
 
 خدمات أخرى متعلقة بعلاج تخثر الأوردة العميقة الحاد:
 
-- [علاج DVT المزمن](/ar/services/chronic-dvt-treatment/) - متلازمة ما بعد التخثر
-- [متلازمة ماي-ثورنر](/ar/services/may-thurner-syndrome/) - ضغط الوريد الحرقفي
-- [الانسداد الرئوي](/ar/services/pulmonary-embolism/) - علاج جلطة الرئة
-- [علاج الشريان الحرقفي](/ar/services/iliac-artery-treatment/) - علاج أوعية الحوض
+- [علاج DVT المزمن]({{< relref "chronic-dvt-treatment" >}}) - متلازمة ما بعد التخثر
+- [متلازمة ماي-ثورنر]({{< relref "may-thurner-syndrome" >}}) - ضغط الوريد الحرقفي
+- [الانسداد الرئوي]({{< relref "acute-dvt-treatment" >}}) - علاج جلطة الرئة
+- [علاج الشريان الحرقفي]({{< relref "iliac-artery-treatment" >}}) - علاج أوعية الحوض

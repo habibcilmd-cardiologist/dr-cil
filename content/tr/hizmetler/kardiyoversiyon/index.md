@@ -182,8 +182,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Kardiyoversiyon ile bağlantılı diğer ritim bozukluğu tedavileri:
 
--   [Ablasyon](/tr/hizmetler/ablasyon/) - Kateter ablasyon tedavisi
--   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Bradikardi tedavisi
--   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
--   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
--   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
+-   [Ablasyon]({{< relref "ablasyon" >}}) - Kateter ablasyon tedavisi
+-   [Kalıcı Kalp Pili]({{< relref "kalici-kalp-pili" >}}) - Bradikardi tedavisi
+-   [ICD]({{< relref "icd" >}}) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Holter]({{< relref "holter" >}}) - 24 saat ritim takibi
+-   [EKG]({{< relref "ekg" >}}) - Elektrokardiyografi

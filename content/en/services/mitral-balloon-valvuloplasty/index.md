@@ -239,7 +239,7 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other services related to mitral balloon valvuloplasty:
 
-- [TAVI](/en/services/tavi/) - Transcatheter aortic valve implantation
-- [MitraClip](/en/services/mitraclip/) - Mitral valve clipping
-- [Tricuspid Valve](/en/services/tricuspid-valve/) - Tricuspid valve interventions
-- [Heart Hole Closure](/en/services/heart-hole-closure/) - ASD/PFO closure
+- [TAVI]({{< relref "tavi" >}}) - Transcatheter aortic valve implantation
+- [MitraClip]({{< relref "mitraclip" >}}) - Mitral valve clipping
+- [Tricuspid Valve]({{< relref "tricuspid-valve" >}}) - Tricuspid valve interventions
+- [Heart Hole Closure]({{< relref "heart-hole-closure" >}}) - ASD/PFO closure

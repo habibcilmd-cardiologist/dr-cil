@@ -170,8 +170,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Stres ekokardiyografi ile bağlantılı diğer kardiyoloji testleri:
 
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Standart kalp ultrasonografisi
--   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
--   [Miyokard Perfüzyon](/tr/hizmetler/miyokard-perfuzyon/) - Sintigrafi
--   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Bilgisayarlı tomografi
--   [Koroner Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Damar görüntüleme
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Standart kalp ultrasonografisi
+-   [Efor Testi]({{< relref "efor-testi" >}}) - Egzersiz stres testi
+-   [Miyokard Perfüzyon]({{< relref "miyokard-perfuzyon" >}}) - Sintigrafi
+-   [Kardiyak BT]({{< relref "kardiyak-bt" >}}) - Bilgisayarlı tomografi
+-   [Koroner Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Damar görüntüleme

@@ -308,7 +308,7 @@ _This content has been prepared by Assoc. Prof. Habib Çil for general informati
 
 Other services related to chronic DVT treatment:
 
-- [Acute DVT Treatment](/en/services/acute-dvt-treatment/) - Newly formed clot treatment
-- [May-Thurner Syndrome](/en/services/may-thurner-syndrome/) - Iliac vein compression
-- [Varicocele and Pelvic Congestion](/en/services/varicocele-pelvic-congestion/) - Venous insufficiency
-- [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg vessel treatment
+- [Acute DVT Treatment]({{< relref "acute-dvt-treatment" >}}) - Newly formed clot treatment
+- [May-Thurner Syndrome]({{< relref "may-thurner-syndrome" >}}) - Iliac vein compression
+- [Varicocele and Pelvic Congestion]({{< relref "varicocele-pelvic-congestion" >}}) - Venous insufficiency
+- [Lower Extremity Arterial Disease]({{< relref "peripheral-vascular" >}}) - Leg vessel treatment

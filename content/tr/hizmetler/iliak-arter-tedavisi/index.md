@@ -289,8 +289,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 İliak arter tedavisi ile bağlantılı diğer hizmetler:
 
-- [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar tedavisi
-- [Periferik Anjiyografi](/tr/hizmetler/periferik-anjiyografi/) - Damar görüntüleme
-- [Abdominal Aort Anevrizması](/tr/hizmetler/abdominal-aort-anevrizması/) - Aort tedavisi
-- [EVAR](/tr/hizmetler/evar/) - Endovasküler anevrizma onarımı
-- [Karotis Stenozu](/tr/hizmetler/karotis-stenozu/) - Boyun damar tedavisi
+- [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar tedavisi
+- [Periferik Anjiyografi]({{< relref "periferik-anjiyografi" >}}) - Damar görüntüleme
+- [Abdominal Aort Anevrizması]({{< relref "abdominal-aort-anevrizması" >}}) - Aort tedavisi
+- [EVAR]({{< relref "evar" >}}) - Endovasküler anevrizma onarımı
+- [Karotis Stenozu]({{< relref "karotis-stenozu" >}}) - Boyun damar tedavisi

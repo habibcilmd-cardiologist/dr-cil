@@ -308,7 +308,7 @@ _تم إعداد هذا المحتوى من قبل الأستاذ المشارك
 
 خدمات أخرى متعلقة بعلاج DVT المزمن:
 
-- [علاج DVT الحاد](/ar/services/acute-dvt-treatment/) - علاج الجلطة المتشكلة حديثاً
-- [متلازمة ماي-ثورنر](/ar/services/may-thurner-syndrome/) - ضغط الوريد الحرقفي
-- [دوالي الخصية واحتقان الحوض](/ar/services/varicocele-pelvic-congestion/) - القصور الوريدي
-- [مرض شرايين الأطراف السفلية](/ar/services/lower-extremity-arterial-disease/) - علاج أوعية الساق
+- [علاج DVT الحاد]({{< relref "acute-dvt-treatment" >}}) - علاج الجلطة المتشكلة حديثاً
+- [متلازمة ماي-ثورنر]({{< relref "may-thurner-syndrome" >}}) - ضغط الوريد الحرقفي
+- [دوالي الخصية واحتقان الحوض]({{< relref "varicocele-pelvic-congestion" >}}) - القصور الوريدي
+- [مرض شرايين الأطراف السفلية]({{< relref "lower-extremity-arterial-disease" >}}) - علاج أوعية الساق

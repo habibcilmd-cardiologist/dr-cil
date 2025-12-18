@@ -304,8 +304,8 @@ _تم إعداد هذا المحتوى من قبل الأستاذ المشارك
 
 خدمات أخرى متعلقة بعلاج انسداد الشرايين فوق الركبة:
 
-- [انسداد الشرايين تحت الركبة](/ar/services/below-knee-arterial-disease/) - علاج تحت المأبضي
-- [علاج الشريان الحرقفي](/ar/services/iliac-artery-treatment/) - علاج أوعية الحوض
-- [تصوير الأوعية المحيطية](/ar/services/peripheral-angiography/) - تصوير الأوعية
-- [استئصال الترسبات](/ar/services/atherectomy/) - إزالة اللويحات
-- [أمراض الأوعية المحيطية](/ar/services/peripheral-vascular/) - علاج متقدم
+- [انسداد الشرايين تحت الركبة]({{< relref "below-knee-arterial-disease" >}}) - علاج تحت المأبضي
+- [علاج الشريان الحرقفي]({{< relref "iliac-artery-treatment" >}}) - علاج أوعية الحوض
+- [تصوير الأوعية المحيطية]({{< relref "peripheral-angiography" >}}) - تصوير الأوعية
+- [استئصال الترسبات]({{< relref "atherectomy" >}}) - إزالة اللويحات
+- [أمراض الأوعية المحيطية]({{< relref "peripheral-vascular" >}}) - علاج متقدم

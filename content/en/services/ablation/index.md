@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Catheter Ablation - Heart Rhythm Disorder Treatment"
 description: "Expert catheter ablation treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats heart rhythm disorders. AF ablation, SVT ablation. Avrasya Hospital."
 date: 2024-01-15
@@ -187,8 +187,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to ablation:
 
--   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
--   [Cardioversion](/en/services/cardioversion/) - Electrical cardioversion
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
+-   [Electrophysiology Study]({{< relref "electrophysiology-study" >}}) - Arrhythmia diagnosis
+-   [Cardioversion]({{< relref "cardioversion" >}}) - Electrical cardioversion
+-   [ICD]({{< relref "icd" >}}) - Implantable cardioverter defibrillator
+-   [Permanent Pacemaker]({{< relref "permanent-pacemaker" >}}) - Bradycardia treatment
+-   [Holter]({{< relref "holter" >}}) - 24-hour rhythm monitoring

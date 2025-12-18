@@ -306,7 +306,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Kronik DVT tedavisi ile bağlantılı diğer hizmetler:
 
-- [Akut DVT Tedavisi](/tr/hizmetler/akut-dvt-tedavisi/) - Yeni oluşan pıhtı tedavisi
-- [May-Thurner Sendromu](/tr/hizmetler/may-thurner-sendromu/) - İliak ven kompresyonu
-- [Varikosel ve Pelvik Konjesyon](/tr/hizmetler/varikosel-pelvik-konjesyon/) - Venöz yetmezlik
-- [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar tedavisi
+- [Akut DVT Tedavisi]({{< relref "akut-dvt-tedavisi" >}}) - Yeni oluşan pıhtı tedavisi
+- [May-Thurner Sendromu]({{< relref "may-thurner-sendromu" >}}) - İliak ven kompresyonu
+- [Varikosel ve Pelvik Konjesyon]({{< relref "varikosel-pelvik-konjesyon" >}}) - Venöz yetmezlik
+- [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar tedavisi

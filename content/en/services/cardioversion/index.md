@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cardioversion - Electrical Heart Rhythm Restoration"
 description: "Expert cardioversion procedure in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil treats atrial fibrillation. Electrical and pharmacological cardioversion. Avrasya Hospital."
 date: 2024-01-15
@@ -184,8 +184,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to cardioversion:
 
--   [Ablation](/en/services/ablation/) - Catheter ablation
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
--   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Ablation]({{< relref "ablation" >}}) - Catheter ablation
+-   [ICD]({{< relref "icd" >}}) - Implantable cardioverter defibrillator
+-   [Electrophysiology Study]({{< relref "electrophysiology-study" >}}) - Arrhythmia diagnosis
+-   [Holter]({{< relref "holter" >}}) - 24-hour rhythm monitoring
+-   [EKG]({{< relref "ekg" >}}) - Electrocardiography

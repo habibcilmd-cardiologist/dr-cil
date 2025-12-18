@@ -244,8 +244,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Periferik anjiyografi ile bağlantılı diğer hizmetler:
 
-- [Karotis Stenozu](/tr/hizmetler/karotis-stenozu/) - Boyun damarı tedavisi
-- [Renal Arter Stenozu](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damarı tedavisi
-- [İliak Arter Tedavisi](/tr/hizmetler/iliak-arter-tedavisi/) - Karın damarı tedavisi
-- [Diyaliz Fistül Tedavisi](/tr/hizmetler/diyaliz-fistul-tedavisi/) - AV fistül girişimleri
-- [Periferik Damar Girişimi](/tr/hizmetler/periferik-damar/) - Bacak damarı tedavisi
+- [Karotis Stenozu]({{< relref "karotis-stenozu" >}}) - Boyun damarı tedavisi
+- [Renal Arter Stenozu]({{< relref "renal-arter-stenozu" >}}) - Böbrek damarı tedavisi
+- [İliak Arter Tedavisi]({{< relref "iliak-arter-tedavisi" >}}) - Karın damarı tedavisi
+- [Diyaliz Fistül Tedavisi]({{< relref "diyaliz-fistul-tedavisi" >}}) - AV fistül girişimleri
+- [Periferik Damar Girişimi]({{< relref "periferik-damar" >}}) - Bacak damarı tedavisi

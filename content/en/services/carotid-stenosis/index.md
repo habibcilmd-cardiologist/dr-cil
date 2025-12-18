@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carotid Artery Stenosis - Carotid Stenting"
 description: "Expert carotid artery stenosis treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs carotid stenting and stroke prevention. Avrasya Hospital."
 date: 2024-01-15
@@ -213,8 +213,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other peripheral vascular treatments related to carotid stenosis:
 
--   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
--   [Renal Artery Stenosis](/en/services/renal-artery-stenosis/) - Renal artery stenosis treatment
+-   [Peripheral Vascular]({{< relref "peripheral-vascular" >}}) - Peripheral vascular disease
+-   [Renal Artery Stenosis]({{< relref "renal-artery-stenosis" >}}) - Renal artery stenosis treatment
 -   [Lower Extremity Arterial Disease](/en/blog/lower-extremity-arterial-disease/) - Leg artery disease
--   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
--   [Hypertension](/en/services/hypertension/) - High blood pressure treatment
+-   [Atherectomy]({{< relref "atherectomy" >}}) - Plaque removal procedure
+-   [Hypertension]({{< relref "hypertension" >}}) - High blood pressure treatment

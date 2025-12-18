@@ -206,7 +206,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 EVAR ve TEVAR ile bağlantılı diğer tedaviler:
 
--   [Periferik Damar](/tr/hizmetler/periferik-damar/) - Periferik damar hastalıkları
--   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Bilgisayarlı tomografi
--   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Damar görüntüleme
--   [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar hastalığı
+-   [Periferik Damar]({{< relref "periferik-damar" >}}) - Periferik damar hastalıkları
+-   [Kardiyak BT]({{< relref "kardiyak-bt" >}}) - Bilgisayarlı tomografi
+-   [Kardiyak Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Damar görüntüleme
+-   [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar hastalığı

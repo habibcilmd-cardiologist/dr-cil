@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Exercise Stress Test - Cardiac Treadmill Test"
 description: "Expert exercise stress test in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs treadmill testing. Coronary artery disease diagnosis. Avrasya Hospital."
 date: 2024-01-15
@@ -181,8 +181,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to exercise stress test:
 
--   [Stress Echocardiography](/en/services/stress-echocardiography/) - Exercise echo
--   [Myocardial Perfusion](/en/services/myocardial-perfusion/) - Myocardial perfusion scintigraphy
--   [EKG](/en/services/ekg/) - Electrocardiography
--   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Stress Echocardiography]({{< relref "stress-echocardiography" >}}) - Exercise echo
+-   [Myocardial Perfusion]({{< relref "myocardial-perfusion" >}}) - Myocardial perfusion scintigraphy
+-   [EKG]({{< relref "ekg" >}}) - Electrocardiography
+-   [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography
 -   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease

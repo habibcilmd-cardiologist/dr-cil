@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Coronary Angiography - Diagnostic Catheterization"
 description: "Expert coronary angiography in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs heart vessel imaging. Diagnostic catheterization. Avrasya Hospital."
 date: 2024-01-15
@@ -190,6 +190,6 @@ Other coronary treatments related to angiography:
 
 -   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
 -   [Coronary Angioplasty](/en/blog/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Radial Angiography](/en/services/radial-angiography/) - Wrist access angiography
+-   [Radial Angiography]({{< relref "radial-angiography" >}}) - Wrist access angiography
 -   [Cardiac Catheterization](/en/blog/cardiac-catheterization/) - Cardiac catheterization
 -   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease

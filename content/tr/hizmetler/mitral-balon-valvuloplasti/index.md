@@ -277,7 +277,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Mitral balon valvüloplasti ile bağlantılı diğer hizmetler:
 
-- [TAVI](/tr/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
-- [MitraClip](/tr/hizmetler/mitraclip/) - Mitral kapak klipleme
-- [Triküspid Kapak](/tr/hizmetler/trikuspid-kapak/) - Triküspid kapak girişimleri
-- [Kalp Deliği Kapatma](/tr/hizmetler/kalp-deligi-kapatma/) - ASD/PFO kapatma
+- [TAVI]({{< relref "tavi" >}}) - Transkateter aort kapak implantasyonu
+- [MitraClip]({{< relref "mitraclip" >}}) - Mitral kapak klipleme
+- [Triküspid Kapak]({{< relref "trikuspid-kapak" >}}) - Triküspid kapak girişimleri
+- [Kalp Deliği Kapatma]({{< relref "kalp-deligi-kapatma" >}}) - ASD/PFO kapatma

@@ -291,8 +291,8 @@ _تم إعداد هذا المحتوى من قبل الأستاذ المشارك
 
 خدمات أخرى متعلقة بعلاج الشريان الحرقفي:
 
-- [مرض شرايين الأطراف السفلية](/ar/services/lower-extremity-arterial-disease/) - علاج أوعية الساق
-- [تصوير الأوعية المحيطية](/ar/services/peripheral-angiography/) - تصوير الأوعية
-- [تمدد الأوعية الأبهرية البطنية](/ar/services/abdominal-aortic-aneurysm/) - علاج الأبهر
-- [EVAR](/ar/services/evar/) - إصلاح تمدد الأوعية الدموية داخل الأوعية
-- [تضيق الشريان السباتي](/ar/services/carotid-stenosis/) - علاج أوعية الرقبة
+- [مرض شرايين الأطراف السفلية]({{< relref "lower-extremity-arterial-disease" >}}) - علاج أوعية الساق
+- [تصوير الأوعية المحيطية]({{< relref "peripheral-angiography" >}}) - تصوير الأوعية
+- [تمدد الأوعية الأبهرية البطنية]({{< relref "abdominal-aortic-aneurysm" >}}) - علاج الأبهر
+- [EVAR]({{< relref "evar" >}}) - إصلاح تمدد الأوعية الدموية داخل الأوعية
+- [تضيق الشريان السباتي]({{< relref "carotid-stenosis" >}}) - علاج أوعية الرقبة

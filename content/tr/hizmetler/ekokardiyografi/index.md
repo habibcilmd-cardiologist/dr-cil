@@ -179,8 +179,8 @@ _Bu içerik kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından hazırlanmış 
 
 Ekokardiyografi ile birlikte uygulanan diğer kardiyoloji testleri:
 
--   [Stres Ekokardiyografi](/tr/hizmetler/stres-ekokardiyografi/) - Eforlu EKO testi
--   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
--   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
--   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
--   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Koroner BT anjiyografi
+-   [Stres Ekokardiyografi]({{< relref "stres-ekokardiyografi" >}}) - Eforlu EKO testi
+-   [Efor Testi]({{< relref "efor-testi" >}}) - Egzersiz stres testi
+-   [EKG]({{< relref "ekg" >}}) - Elektrokardiyografi
+-   [Holter]({{< relref "holter" >}}) - 24 saat ritim takibi
+-   [Kardiyak BT]({{< relref "kardiyak-bt" >}}) - Koroner BT anjiyografi

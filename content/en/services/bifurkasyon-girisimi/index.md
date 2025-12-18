@@ -191,8 +191,8 @@ _This content was prepared by Assoc. Prof. Dr. Habib Çil for general informatio
 
 Other coronary treatments related to bifurcation interventions:
 
-- [Left Main Coronary Intervention](/en/services/sol-ana-koroner-stent/) - Left main coronary artery stenting
-- [CTO Intervention](/en/services/cto-girisimi/) - Chronic total occlusion treatment
-- [IVUS](/en/services/ivus/) - Intravascular ultrasound imaging
-- [FFR](/en/services/ffr/) - Fractional flow reserve measurement
-- [Coronary Angioplasty](/en/services/koroner-anjiyoplasti/) - Balloon and stent treatment
+- [Left Main Coronary Intervention]({{< relref "left-main-coronary-stent" >}}) - Left main coronary artery stenting
+- [CTO Intervention]({{< relref "cto-intervention" >}}) - Chronic total occlusion treatment
+- [IVUS]({{< relref "ivus" >}}) - Intravascular ultrasound imaging
+- [FFR]({{< relref "ffr" >}}) - Fractional flow reserve measurement
+- [Coronary Angioplasty]({{< relref "angiography" >}}) - Balloon and stent treatment

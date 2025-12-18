@@ -152,8 +152,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Radyal anjiyografi ile bağlantılı diğer koroner işlemler:
 
--   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
--   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
--   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
--   [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi
--   [Anjiyografi](/tr/hizmetler/anjiyografi/) - Genel anjiyografi bilgisi
+-   [Kardiyak Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Koroner damar görüntüleme
+-   [Koroner Anjiyoplasti]({{< relref "koroner-anjiyoplasti" >}}) - Balon ve stent ile damar açma
+-   [Kardiyak Stent]({{< relref "kardiyak-stent" >}}) - İlaç salınımlı stent implantasyonu
+-   [CTO Girişimi]({{< relref "cto-girisimi" >}}) - Kronik total oklüzyon tedavisi
+-   [Anjiyografi]({{< relref "anjiyografi" >}}) - Genel anjiyografi bilgisi

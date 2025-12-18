@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hyperlipidemia Treatment - Cholesterol and Lipid Disorders"
 description: "Hyperlipidemia (high cholesterol) treatment and lipid management in Istanbul. Protect your heart health with Assoc. Prof. Dr. Habib ÇİL. LDL lowering, diet, and medication therapies."
 date: 2024-01-15
@@ -161,6 +161,6 @@ _This content has been prepared by Assoc. Prof. Dr. Habib ÇİL for general info
 Other cardiology conditions and treatments related to hyperlipidemia:
 
 - [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - Vascular blockage
-- [Hypertension](/en/services/hypertension/) - High blood pressure
-- [Cardiovascular Prevention](/en/services/cardiovascular-prevention/) - Heart health risk management
-- [Myocardial Infarction](/en/services/myocardial-infarction/) - Heart attack treatment
+- [Hypertension]({{< relref "hypertension" >}}) - High blood pressure
+- [Cardiovascular Prevention]({{< relref "cardiovascular-prevention" >}}) - Heart health risk management
+- [Myocardial Infarction]({{< relref "myocardial-infarction" >}}) - Heart attack treatment

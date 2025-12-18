@@ -211,8 +211,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Karotis stenozu ile bağlantılı diğer tedaviler:
 
--   [Periferik Damar](/tr/hizmetler/periferik-damar/) - Periferik damar hastalıkları
--   [Renal Arter Stenozu](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damarı darlığı
--   [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar hastalığı
--   [Hipertansiyon](/tr/hizmetler/hipertansiyon/) - Yüksek tansiyon tedavisi
--   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı
+-   [Periferik Damar]({{< relref "periferik-damar" >}}) - Periferik damar hastalıkları
+-   [Renal Arter Stenozu]({{< relref "renal-arter-stenozu" >}}) - Böbrek damarı darlığı
+-   [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar hastalığı
+-   [Hipertansiyon]({{< relref "hipertansiyon" >}}) - Yüksek tansiyon tedavisi
+-   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı

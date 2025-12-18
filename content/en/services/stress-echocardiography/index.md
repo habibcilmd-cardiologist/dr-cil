@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stress Echocardiography - Dobutamine Stress Echo"
 description: "Expert stress echocardiography in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs exercise or pharmacological heart ultrasound. Ischemia diagnosis. Avrasya Hospital."
 date: 2024-01-15
@@ -172,8 +172,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to stress echocardiography:
 
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Exercise Stress Test](/en/services/exercise-stress-test/) - Exercise stress test
--   [Myocardial Perfusion](/en/services/myocardial-perfusion/) - Myocardial perfusion scintigraphy
--   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
+-   [Exercise Stress Test]({{< relref "exercise-stress-test" >}}) - Exercise stress test
+-   [Myocardial Perfusion]({{< relref "myocardial-perfusion" >}}) - Myocardial perfusion scintigraphy
+-   [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography
 -   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease

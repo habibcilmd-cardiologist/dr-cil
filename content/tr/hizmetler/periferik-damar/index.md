@@ -217,9 +217,9 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Periferik damar hastalığı ile bağlantılı diğer tedaviler:
 
--   [Dizüstü Damar Tıkanıklığı](/tr/hizmetler/dizustu-damar-tikanikligi/) - Femoropopliteal arter tedavisi
--   [Dizaltı Damar Tıkanıklığı](/tr/hizmetler/dizalti-damar-tikanikligi/) - İnfrapopliteal arter tedavisi
--   [Karotis Stenozu](/tr/hizmetler/karotis-stenozu/) - Şah damarı darlığı
--   [Renal Arter Stenozu](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damarı darlığı
--   [İliak Arter Tedavisi](/tr/hizmetler/iliak-arter-tedavisi/) - Kalça damar tedavisi
--   [EVAR - TEVAR](/tr/hizmetler/evar-tevar/) - Endovasküler anevrizma tamiri
+-   [Dizüstü Damar Tıkanıklığı]({{< relref "dizustu-damar-tikanikligi" >}}) - Femoropopliteal arter tedavisi
+-   [Dizaltı Damar Tıkanıklığı]({{< relref "dizalti-damar-tikanikligi" >}}) - İnfrapopliteal arter tedavisi
+-   [Karotis Stenozu]({{< relref "karotis-stenozu" >}}) - Şah damarı darlığı
+-   [Renal Arter Stenozu]({{< relref "renal-arter-stenozu" >}}) - Böbrek damarı darlığı
+-   [İliak Arter Tedavisi]({{< relref "iliak-arter-tedavisi" >}}) - Kalça damar tedavisi
+-   [EVAR - TEVAR]({{< relref "evar-tevar" >}}) - Endovasküler anevrizma tamiri

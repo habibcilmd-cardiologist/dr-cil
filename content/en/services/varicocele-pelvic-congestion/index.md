@@ -294,7 +294,7 @@ _This content has been prepared by Assoc. Prof. Habib Çil for informational pur
 
 Other services related to varicocele and pelvic congestion treatment:
 
-- [Acute DVT Treatment](/en/services/acute-dvt-treatment/) - Deep vein thrombosis
-- [Chronic DVT Treatment](/en/services/chronic-dvt-treatment/) - Post-thrombotic syndrome
-- [May-Thurner Syndrome](/en/services/may-thurner-syndrome/) - Iliac vein compression
-- [Dialysis Fistula Treatment](/en/services/dialysis-fistula-treatment/) - AV fistula interventions
+- [Acute DVT Treatment]({{< relref "acute-dvt-treatment" >}}) - Deep vein thrombosis
+- [Chronic DVT Treatment]({{< relref "chronic-dvt-treatment" >}}) - Post-thrombotic syndrome
+- [May-Thurner Syndrome]({{< relref "may-thurner-syndrome" >}}) - Iliac vein compression
+- [Dialysis Fistula Treatment]({{< relref "dialysis-fistula-treatment" >}}) - AV fistula interventions

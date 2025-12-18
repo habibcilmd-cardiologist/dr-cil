@@ -236,8 +236,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other services related to peripheral angiography:
 
-- [Carotid Stenosis](/en/services/carotid-stenosis/) - Neck vessel treatment
-- [Renal Artery Stenosis](/en/services/renal-artery-stenosis/) - Kidney vessel treatment
-- [Iliac Artery Treatment](/en/services/iliac-artery-treatment/) - Abdominal vessel treatment
-- [Dialysis Fistula Treatment](/en/services/dialysis-fistula-treatment/) - AV fistula interventions
-- [Peripheral Vascular Intervention](/en/services/peripheral-vascular/) - Leg vessel treatment
+- [Carotid Stenosis]({{< relref "carotid-stenosis" >}}) - Neck vessel treatment
+- [Renal Artery Stenosis]({{< relref "renal-artery-stenosis" >}}) - Kidney vessel treatment
+- [Iliac Artery Treatment]({{< relref "iliac-artery-treatment" >}}) - Abdominal vessel treatment
+- [Dialysis Fistula Treatment]({{< relref "dialysis-fistula-treatment" >}}) - AV fistula interventions
+- [Peripheral Vascular Intervention]({{< relref "peripheral-vascular" >}}) - Leg vessel treatment

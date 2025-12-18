@@ -411,7 +411,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Kalp deliği kapatma ile bağlantılı diğer hizmetler:
 
-- [TAVI](/tr/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
-- [MitraClip](/tr/hizmetler/mitraclip/) - Mitral kapak tamiri
-- [Alkol Septal Ablasyon](/tr/hizmetler/alkol-septal-ablasyon/) - HOKM tedavisi
-- [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak açma işlemi
+- [TAVI]({{< relref "tavi" >}}) - Transkateter aort kapak implantasyonu
+- [MitraClip]({{< relref "mitraclip" >}}) - Mitral kapak tamiri
+- [Alkol Septal Ablasyon]({{< relref "alkol-septal-ablasyon" >}}) - HOKM tedavisi
+- [Balon Valvüloplasti]({{< relref "balon-valvuloplasti" >}}) - Kapak açma işlemi

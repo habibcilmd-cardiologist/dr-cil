@@ -322,7 +322,7 @@ _This content has been prepared by Assoc. Prof. Habib Çil for general informati
 
 Other services related to acute DVT treatment:
 
-- [Chronic DVT Treatment](/en/services/chronic-dvt-treatment/) - Post-thrombotic syndrome
-- [May-Thurner Syndrome](/en/services/may-thurner-syndrome/) - Iliac vein compression
-- [Pulmonary Embolism](/en/services/pulmonary-embolism/) - Lung clot treatment
-- [Iliac Artery Treatment](/en/services/iliac-artery-treatment/) - Pelvic vessel treatment
+- [Chronic DVT Treatment]({{< relref "chronic-dvt-treatment" >}}) - Post-thrombotic syndrome
+- [May-Thurner Syndrome]({{< relref "may-thurner-syndrome" >}}) - Iliac vein compression
+- [Pulmonary Embolism]({{< relref "pulmonary-embolism" >}}) - Lung clot treatment
+- [Iliac Artery Treatment]({{< relref "iliac-artery-treatment" >}}) - Pelvic vessel treatment

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CRT Pacemaker - Cardiac Resynchronization Therapy"
 description: "Expert CRT implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs three-chamber pacemaker surgery. Heart failure treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -174,8 +174,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to CRT pacemaker:
 
--   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [Biventricular Pacemaker]({{< relref "biventricular-pacemaker" >}}) - CRT pacemaker
+-   [Heart Failure]({{< relref "heart-failure" >}}) - Heart failure treatment
+-   [ICD]({{< relref "icd" >}}) - Implantable cardioverter defibrillator
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
+-   [Permanent Pacemaker]({{< relref "permanent-pacemaker" >}}) - Bradycardia treatment

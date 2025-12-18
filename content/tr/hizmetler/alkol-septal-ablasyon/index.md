@@ -194,8 +194,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Alkol septal ablasyon ile bağlantılı diğer tedaviler:
 
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
--   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
--   [Koroner Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
--   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
--   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Bradikardi tedavisi
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonografisi
+-   [Kalp Yetmezliği]({{< relref "kalp-yetmezligi" >}}) - Kalp yetmezliği tedavisi
+-   [Koroner Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Koroner damar görüntüleme
+-   [ICD]({{< relref "icd" >}}) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Kalıcı Kalp Pili]({{< relref "kalici-kalp-pili" >}}) - Bradikardi tedavisi

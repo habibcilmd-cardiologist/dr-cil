@@ -173,8 +173,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Holter ile bağlantılı diğer kardiyoloji testleri:
 
--   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
--   [Ambulatuvar Kardiyak İzleme](/tr/hizmetler/ambulatuvar-kardiyak-izleme/) - Uzun süreli ritim takibi
--   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
--   [Ablasyon](/tr/hizmetler/ablasyon/) - Aritmi tedavisi
+-   [EKG]({{< relref "ekg" >}}) - Elektrokardiyografi
+-   [Ambulatuvar Kardiyak İzleme]({{< relref "ambulatuvar-kardiyak-izleme" >}}) - Uzun süreli ritim takibi
+-   [Efor Testi]({{< relref "efor-testi" >}}) - Egzersiz stres testi
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonografisi
+-   [Ablasyon]({{< relref "ablasyon" >}}) - Aritmi tedavisi

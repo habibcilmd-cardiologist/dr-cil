@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cardiac CT - Coronary CT Angiography (CCTA)"
 description: "Expert cardiac CT in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs coronary CT angiography. Non-invasive heart vessel imaging. Avrasya Hospital."
 date: 2024-01-15
@@ -155,7 +155,7 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 Other diagnostic tests related to cardiac CT:
 
 -   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Myocardial Perfusion](/en/services/myocardial-perfusion/) - Myocardial perfusion scintigraphy
--   [Exercise Stress Test](/en/services/exercise-stress-test/) - Exercise stress test
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
+-   [Myocardial Perfusion]({{< relref "myocardial-perfusion" >}}) - Myocardial perfusion scintigraphy
+-   [Exercise Stress Test]({{< relref "exercise-stress-test" >}}) - Exercise stress test
 -   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease

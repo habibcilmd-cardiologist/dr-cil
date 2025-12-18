@@ -179,8 +179,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Elektrofizyolojik test ile bağlantılı diğer ritim tedavileri:
 
--   [Ablasyon](/tr/hizmetler/ablasyon/) - Kateter ablasyon tedavisi
--   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Bradikardi tedavisi
--   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
--   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
--   [Kardiyoversiyon](/tr/hizmetler/kardiyoversiyon/) - Elektriksel ritim düzeltme
+-   [Ablasyon]({{< relref "ablasyon" >}}) - Kateter ablasyon tedavisi
+-   [Kalıcı Kalp Pili]({{< relref "kalici-kalp-pili" >}}) - Bradikardi tedavisi
+-   [ICD]({{< relref "icd" >}}) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Holter]({{< relref "holter" >}}) - 24 saat ritim takibi
+-   [Kardiyoversiyon]({{< relref "kardiyoversiyon" >}}) - Elektriksel ritim düzeltme

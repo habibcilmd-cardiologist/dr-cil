@@ -240,8 +240,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Kalp yetmezliği ile bağlantılı diğer tedaviler:
 
--   [Biventriküler Pacemaker](/tr/hizmetler/biventrikuler-pacemaker/) - CRT tedavisi
--   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
--   [LVAD](/tr/hizmetler/lvad/) - Sol ventrikül destek cihazı
--   [Kalp Nakli](/tr/hizmetler/kalp-nakli/) - Kalp transplantasyonu
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp fonksiyon değerlendirmesi
+-   [Biventriküler Pacemaker]({{< relref "biventrikuler-pacemaker" >}}) - CRT tedavisi
+-   [ICD]({{< relref "icd" >}}) - İmplante edilebilir kardiyoverter defibrilatör
+-   LVAD - Sol ventrikül destek cihazı
+-   Kalp Nakli - Kalp transplantasyonu
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp fonksiyon değerlendirmesi

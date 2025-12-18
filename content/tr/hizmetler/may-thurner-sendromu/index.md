@@ -342,7 +342,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 May-Thurner sendromu tedavisi ile bağlantılı diğer hizmetler:
 
-- [Akut DVT Tedavisi](/tr/hizmetler/akut-dvt-tedavisi/) - Derin ven trombozu
-- [Kronik DVT Tedavisi](/tr/hizmetler/kronik-dvt-tedavisi/) - Post-trombotik sendrom
-- [İliak Arter Tedavisi](/tr/hizmetler/iliak-arter-tedavisi/) - Arteriyel girişimler
-- [Varikosel Tedavisi](/tr/hizmetler/varikosel-pelvik-konjesyon/) - Pelvik ven embolizasyonu
+- [Akut DVT Tedavisi]({{< relref "akut-dvt-tedavisi" >}}) - Derin ven trombozu
+- [Kronik DVT Tedavisi]({{< relref "kronik-dvt-tedavisi" >}}) - Post-trombotik sendrom
+- [İliak Arter Tedavisi]({{< relref "iliak-arter-tedavisi" >}}) - Arteriyel girişimler
+- [Varikosel Tedavisi]({{< relref "varikosel-pelvik-konjesyon" >}}) - Pelvik ven embolizasyonu

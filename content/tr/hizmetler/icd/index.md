@@ -174,8 +174,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 ICD ile bağlantılı diğer ritim bozukluğu tedavileri:
 
--   [Ablasyon](/tr/hizmetler/ablasyon/) - Kateter ablasyon tedavisi
--   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Bradikardi tedavisi
--   [Biventriküler Kalp Pili](/tr/hizmetler/biventrikuler-pacemaker/) - CRT tedavisi
--   [Kardiyoversiyon](/tr/hizmetler/kardiyoversiyon/) - Elektriksel ritim düzeltme
--   [Elektrofizyolojik Test](/tr/hizmetler/elektrofizyolojik-test/) - Aritmi haritalama
+-   [Ablasyon]({{< relref "ablasyon" >}}) - Kateter ablasyon tedavisi
+-   [Kalıcı Kalp Pili]({{< relref "kalici-kalp-pili" >}}) - Bradikardi tedavisi
+-   [Biventriküler Kalp Pili]({{< relref "biventrikuler-pacemaker" >}}) - CRT tedavisi
+-   [Kardiyoversiyon]({{< relref "kardiyoversiyon" >}}) - Elektriksel ritim düzeltme
+-   [Elektrofizyolojik Test]({{< relref "elektrofizyolojik-test" >}}) - Aritmi haritalama

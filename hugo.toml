@@ -80,7 +80,7 @@ enableInlineShortcodes = true
 
     [languages.en.permalinks]
       blog = "/blog/:slug/"
-      services = "/services/:slug/"
+
       tags = "/tags/:slug/"
       categories = "/categories/:slug/"
     [languages.en.params]

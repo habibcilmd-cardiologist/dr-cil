@@ -170,8 +170,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Geçici kalp pili ile bağlantılı diğer ritim tedavileri:
 
--   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Kalıcı pacemaker implantasyonu
--   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
--   [Kardiyoversiyon](/tr/hizmetler/kardiyoversiyon/) - Elektriksel ritim düzeltme
--   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
--   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
+-   [Kalıcı Kalp Pili]({{< relref "kalici-kalp-pili" >}}) - Kalıcı pacemaker implantasyonu
+-   [ICD]({{< relref "icd" >}}) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Kardiyoversiyon]({{< relref "kardiyoversiyon" >}}) - Elektriksel ritim düzeltme
+-   [EKG]({{< relref "ekg" >}}) - Elektrokardiyografi
+-   [Holter]({{< relref "holter" >}}) - 24 saat ritim takibi

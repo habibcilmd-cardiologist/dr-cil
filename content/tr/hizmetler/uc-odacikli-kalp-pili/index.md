@@ -172,8 +172,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Üç odacıklı kalp pili ile bağlantılı diğer tedaviler:
 
--   [Biventriküler Pacemaker](/tr/hizmetler/biventrikuler-pacemaker/) - CRT tedavisi
--   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
--   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
--   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Standart pacemaker
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp fonksiyon değerlendirmesi
+-   [Biventriküler Pacemaker]({{< relref "biventrikuler-pacemaker" >}}) - CRT tedavisi
+-   [Kalp Yetmezliği]({{< relref "kalp-yetmezligi" >}}) - Kalp yetmezliği tedavisi
+-   [ICD]({{< relref "icd" >}}) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Kalıcı Kalp Pili]({{< relref "kalici-kalp-pili" >}}) - Standart pacemaker
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp fonksiyon değerlendirmesi

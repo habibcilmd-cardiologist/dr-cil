@@ -241,8 +241,8 @@ _This content has been prepared by Assoc. Prof. Habib Çil for general informati
 
 Other services related to FFR:
 
-- [Coronary Angiography](/en/services/angiography/) - Diagnostic coronary imaging
-- [IVUS](/en/services/ivus/) - Intravascular ultrasound
-- [Coronary Stenting](/en/services/stent/) - Vessel opening procedure
-- [Bifurcation Intervention](/en/services/bifurcation-intervention/) - Branching site treatment
-- [CTO Intervention](/en/services/cto/) - Chronic total occlusion opening
+- [Coronary Angiography]({{< relref "angiography" >}}) - Diagnostic coronary imaging
+- [IVUS]({{< relref "ivus" >}}) - Intravascular ultrasound
+- [Coronary Stenting]({{< relref "stent" >}}) - Vessel opening procedure
+- [Bifurcation Intervention]({{< relref "bifurkasyon-girisimi" >}}) - Branching site treatment
+- [CTO Intervention]({{< relref "cto-intervention" >}}) - Chronic total occlusion opening

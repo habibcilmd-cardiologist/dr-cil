@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tilt Table Test - Syncope Evaluation"
 description: "Expert tilt table test in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil investigates fainting causes. Vasovagal syncope diagnosis. Avrasya Hospital."
 date: 2024-01-15
@@ -167,8 +167,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to tilt table test:
 
--   [EKG](/en/services/ekg/) - Electrocardiography
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [EKG]({{< relref "ekg" >}}) - Electrocardiography
+-   [Holter]({{< relref "holter" >}}) - 24-hour rhythm monitoring
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
+-   [Electrophysiology Study]({{< relref "electrophysiology-study" >}}) - Arrhythmia diagnosis
+-   [Permanent Pacemaker]({{< relref "permanent-pacemaker" >}}) - Bradycardia treatment

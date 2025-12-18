@@ -32,22 +32,22 @@ keywords:
 <p class="section-subtitle">Kardiyoloji alanında sunulan tüm hizmet kategorileri</p>
 
 <div class="services-grid services-grid-4">
-  <a href="/tr/hizmetler/#girisimsel-kardiyoloji" class="service-card">
+  <a href="/hizmetler/#girisimsel-kardiyoloji" class="service-card">
     <div class="service-icon">🔧</div>
     <h4>Girişimsel Kardiyoloji</h4>
     <p>Koroner girişimler, Periferik girişimler, Yapısal kalp hastalığına yönelik girişimler</p>
   </a>
-  <a href="/tr/hizmetler/#klinik-kardiyoloji" class="service-card">
+  <a href="/hizmetler/#klinik-kardiyoloji" class="service-card">
     <div class="service-icon">🫀</div>
     <h4>Klinik Kardiyoloji</h4>
     <p>Koroner Kalp Hastalığından Korunma, Hipertansiyon, Hiperlipidemi, Kalp Yetersizliği Tedavisi, Atriyal Fibrilasyonun Tıbbi Tedavisi</p>
   </a>
-  <a href="/tr/hizmetler/#kalp-pili-ve-elektrofizyoloji" class="service-card">
+  <a href="/hizmetler/#kalp-pili-ve-elektrofizyoloji" class="service-card">
     <div class="service-icon">⚡</div>
     <h4>Kalp Pili ve Elektrofizyoloji</h4>
     <p>Kalp pili, ICD, ablasyon tedavileri</p>
   </a>
-  <a href="/tr/hizmetler/#tanisal-islemler" class="service-card">
+  <a href="/hizmetler/#tanisal-islemler" class="service-card">
     <div class="service-icon">🩺</div>
     <h4>Tanısal İşlemler</h4>
     <p>Anjiyografi, EKG, ekokardiyografi, holter</p>
@@ -55,7 +55,7 @@ keywords:
 </div>
 
 <div class="services-view-all">
-  <a href="/tr/hizmetler/" class="btn-view-all">
+  <a href="/hizmetler/" class="btn-view-all">
     <span class="btn-icon">📋</span>
     <span>Tüm Hizmetleri Gör</span>
   </a>

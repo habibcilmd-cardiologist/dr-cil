@@ -224,8 +224,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Koroner fistül tedavisi ile bağlantılı diğer hizmetler:
 
-- [Koroner Anjiyografi](/tr/hizmetler/anjiyografi/) - Tanısal koroner görüntüleme
-- [IVUS](/tr/hizmetler/ivus/) - Damar içi ultrason
-- [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
-- [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Bilgisayarlı tomografi
-- [Bifurkasyon Girişimi](/tr/hizmetler/bifurkasyon-girisimi/) - Dallanma bölgesi tedavisi
+- [Koroner Anjiyografi]({{< relref "anjiyografi" >}}) - Tanısal koroner görüntüleme
+- [IVUS]({{< relref "ivus" >}}) - Damar içi ultrason
+- [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonografisi
+- [Kardiyak BT]({{< relref "kardiyak-bt" >}}) - Bilgisayarlı tomografi
+- [Bifurkasyon Girişimi]({{< relref "bifurkasyon-girisimi" >}}) - Dallanma bölgesi tedavisi

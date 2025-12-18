@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ICD - Implantable Cardioverter Defibrillator Implantation"
 description: "Expert ICD implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil prevents sudden cardiac death. Ventricular arrhythmia treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -176,8 +176,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to ICD:
 
--   [Ablation](/en/services/ablation/) - Catheter ablation
--   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT-D pacemaker
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
--   [Electrophysiology Study](/en/services/electrophysiology-study/) - Arrhythmia diagnosis
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [Ablation]({{< relref "ablation" >}}) - Catheter ablation
+-   [Biventricular Pacemaker]({{< relref "biventricular-pacemaker" >}}) - CRT-D pacemaker
+-   [Permanent Pacemaker]({{< relref "permanent-pacemaker" >}}) - Bradycardia treatment
+-   [Electrophysiology Study]({{< relref "electrophysiology-study" >}}) - Arrhythmia diagnosis
+-   [Heart Failure]({{< relref "heart-failure" >}}) - Heart failure treatment

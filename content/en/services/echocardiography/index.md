@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Echocardiography - Heart Ultrasound Imaging"
 description: "Expert echocardiography in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs heart ultrasound evaluation. Transthoracic and transesophageal echo. Avrasya Hospital."
 date: 2024-01-15
@@ -182,7 +182,7 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 Other diagnostic tests related to echocardiography:
 
 -   [Surface Echocardiography](/en/blog/surface-echocardiography/) - Transthoracic echo
--   [Stress Echocardiography](/en/services/stress-echocardiography/) - Exercise echo
--   [EKG](/en/services/ekg/) - Electrocardiography
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
--   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
+-   [Stress Echocardiography]({{< relref "stress-echocardiography" >}}) - Exercise echo
+-   [EKG]({{< relref "ekg" >}}) - Electrocardiography
+-   [Holter]({{< relref "holter" >}}) - 24-hour rhythm monitoring
+-   [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography

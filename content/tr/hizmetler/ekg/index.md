@@ -180,8 +180,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 EKG ile bağlantılı diğer kardiyoloji testleri:
 
--   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
--   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
--   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Bilgisayarlı tomografi
--   [Miyokard Perfüzyon](/tr/hizmetler/miyokard-perfuzyon/) - Sintigrafi
+-   [Holter]({{< relref "holter" >}}) - 24 saat ritim takibi
+-   [Efor Testi]({{< relref "efor-testi" >}}) - Egzersiz stres testi
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonografisi
+-   [Kardiyak BT]({{< relref "kardiyak-bt" >}}) - Bilgisayarlı tomografi
+-   [Miyokard Perfüzyon]({{< relref "miyokard-perfuzyon" >}}) - Sintigrafi

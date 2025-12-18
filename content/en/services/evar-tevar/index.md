@@ -1,4 +1,4 @@
-﻿---
+---
 title: "EVAR & TEVAR - Endovascular Aortic Aneurysm Repair"
 description: "Expert EVAR and TEVAR procedures in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs abdominal and thoracic endovascular aneurysm repair. Minimally invasive treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -202,7 +202,7 @@ Coverage of the left subclavian artery may be necessary. In this case:
 Other peripheral vascular treatments related to EVAR:
 
 -   [Abdominal Aortic Aneurysm](/en/blog/abdominal-aortic-aneurysm/) - Aortic aneurysm treatment
--   [Peripheral Vascular](/en/services/peripheral-vascular/) - Peripheral vascular disease
--   [Cardiac CT](/en/services/cardiac-ct/) - Computed tomography
--   [Angiography](/en/services/angiography/) - General angiography procedures
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
+-   [Peripheral Vascular]({{< relref "peripheral-vascular" >}}) - Peripheral vascular disease
+-   [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography
+-   [Angiography]({{< relref "angiography" >}}) - General angiography procedures
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound

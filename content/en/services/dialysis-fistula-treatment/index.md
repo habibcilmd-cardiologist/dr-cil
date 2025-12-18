@@ -276,7 +276,7 @@ _This content has been prepared by Assoc. Prof. Habib Çil for general informati
 
 Other services related to dialysis fistula treatment:
 
-- [Peripheral Angiography](/en/services/peripheral-angiography/) - Vascular imaging
-- [Lower Extremity Arterial Disease](/en/services/lower-extremity-arterial-disease/) - Leg vessel treatment
-- [Carotid Stenosis](/en/services/carotid-stenosis/) - Neck vessel treatment
-- [Renal Artery Stenosis](/en/services/renal-artery-stenosis/) - Kidney vessel treatment
+- [Peripheral Angiography]({{< relref "peripheral-angiography" >}}) - Vascular imaging
+- [Lower Extremity Arterial Disease]({{< relref "peripheral-vascular" >}}) - Leg vessel treatment
+- [Carotid Stenosis]({{< relref "carotid-stenosis" >}}) - Neck vessel treatment
+- [Renal Artery Stenosis]({{< relref "renal-artery-stenosis" >}}) - Kidney vessel treatment

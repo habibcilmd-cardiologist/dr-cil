@@ -210,8 +210,8 @@ _Bu içerik girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından haz
 
 Kalp pili ve diğer kardiyak cihaz implantasyonları:
 
--   [Geçici Kalp Pili](/tr/hizmetler/gecici-kalp-pili/) - Acil bradikardi tedavisi
--   [ICD](/tr/hizmetler/icd/) - Ani kardiyak ölüm önleme
--   [Biventriküler Pacemaker](/tr/hizmetler/biventrikuler-pacemaker/) - CRT cihazı
--   [Üç Odacıklı Kalp Pili](/tr/hizmetler/uc-odacikli-kalp-pili/) - Kardiyak resenkronizasyon
--   [Holter](/tr/hizmetler/holter/) - Ritim bozukluğu tanısı
+-   [Geçici Kalp Pili]({{< relref "gecici-kalp-pili" >}}) - Acil bradikardi tedavisi
+-   [ICD]({{< relref "icd" >}}) - Ani kardiyak ölüm önleme
+-   [Biventriküler Pacemaker]({{< relref "biventrikuler-pacemaker" >}}) - CRT cihazı
+-   [Üç Odacıklı Kalp Pili]({{< relref "uc-odacikli-kalp-pili" >}}) - Kardiyak resenkronizasyon
+-   [Holter]({{< relref "holter" >}}) - Ritim bozukluğu tanısı

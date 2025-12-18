@@ -185,8 +185,8 @@ _Bu içerik girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından haz
 
 Ablasyon ve diğer ritim bozukluğu tedavileri:
 
--   [Kardiyoversiyon](/tr/hizmetler/kardiyoversiyon/) - Elektriksel ritim düzeltme
--   [Kalıcı Kalp Pili](/tr/hizmetler/kalici-kalp-pili/) - Bradikardi tedavisi
--   [ICD](/tr/hizmetler/icd/) - İmplante edilebilir kardiyoverter defibrilatör
--   [Elektrofizyolojik Test](/tr/hizmetler/elektrofizyolojik-test/) - Aritmi haritalama
--   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
+-   [Kardiyoversiyon]({{< relref "kardiyoversiyon" >}}) - Elektriksel ritim düzeltme
+-   [Kalıcı Kalp Pili]({{< relref "kalici-kalp-pili" >}}) - Bradikardi tedavisi
+-   [ICD]({{< relref "icd" >}}) - İmplante edilebilir kardiyoverter defibrilatör
+-   [Elektrofizyolojik Test]({{< relref "elektrofizyolojik-test" >}}) - Aritmi haritalama
+-   [Holter]({{< relref "holter" >}}) - 24 saat ritim takibi

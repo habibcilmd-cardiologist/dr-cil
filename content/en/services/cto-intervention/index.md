@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CTO Intervention - Chronic Total Occlusion PCI"
 description: "Expert CTO intervention in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil opens completely blocked coronary arteries. High success rate. Avrasya Hospital."
 date: 2024-01-15
@@ -225,5 +225,5 @@ Other coronary treatments related to CTO intervention:
 -   [Coronary Angioplasty](/en/blog/coronary-angioplasty/) - Balloon and stent vessel opening
 -   [Cardiac Stent](/en/blog/cardiac-stent/) - Drug-eluting stent implantation
 -   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
--   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
+-   [Atherectomy]({{< relref "atherectomy" >}}) - Plaque removal procedure
 -   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease

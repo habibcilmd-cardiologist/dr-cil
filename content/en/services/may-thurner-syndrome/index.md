@@ -344,7 +344,7 @@ _This content has been prepared by Assoc. Prof. Habib Çil for informational pur
 
 Other services related to May-Thurner syndrome treatment:
 
-- [Acute DVT Treatment](/en/services/acute-dvt-treatment/) - Deep vein thrombosis
-- [Chronic DVT Treatment](/en/services/chronic-dvt-treatment/) - Post-thrombotic syndrome
-- [Iliac Artery Treatment](/en/services/iliac-artery-treatment/) - Arterial interventions
-- [Varicocele Treatment](/en/services/varicocele-pelvic-congestion/) - Pelvic vein embolization
+- [Acute DVT Treatment]({{< relref "acute-dvt-treatment" >}}) - Deep vein thrombosis
+- [Chronic DVT Treatment]({{< relref "chronic-dvt-treatment" >}}) - Post-thrombotic syndrome
+- [Iliac Artery Treatment]({{< relref "iliac-artery-treatment" >}}) - Arterial interventions
+- [Varicocele Treatment]({{< relref "varicocele-pelvic-congestion" >}}) - Pelvic vein embolization

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Temporary Pacemaker - Transvenous Pacing"
 description: "Expert temporary pacemaker insertion in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil provides emergency bradycardia treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -172,8 +172,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to temporary pacemaker:
 
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Permanent pacing
--   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Cardioversion](/en/services/cardioversion/) - Electrical cardioversion
--   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Permanent Pacemaker]({{< relref "permanent-pacemaker" >}}) - Permanent pacing
+-   [Biventricular Pacemaker]({{< relref "biventricular-pacemaker" >}}) - CRT pacemaker
+-   [ICD]({{< relref "icd" >}}) - Implantable cardioverter defibrillator
+-   [Cardioversion]({{< relref "cardioversion" >}}) - Electrical cardioversion
+-   [EKG]({{< relref "ekg" >}}) - Electrocardiography

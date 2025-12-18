@@ -160,8 +160,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Miyokard perfüzyon sintigrafisi ile bağlantılı diğer kardiyoloji testleri:
 
--   [Stres Ekokardiyografi](/tr/hizmetler/stres-ekokardiyografi/) - Stres altında kalp değerlendirmesi
--   [Kardiyak BT](/tr/hizmetler/kardiyak-bt/) - Bilgisayarlı tomografi
--   [Koroner Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Damar görüntüleme
--   [Efor Testi](/tr/hizmetler/efor-testi/) - Egzersiz stres testi
--   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Koroner arter hastalığı
+-   [Stres Ekokardiyografi]({{< relref "stres-ekokardiyografi" >}}) - Stres altında kalp değerlendirmesi
+-   [Kardiyak BT]({{< relref "kardiyak-bt" >}}) - Bilgisayarlı tomografi
+-   [Koroner Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Damar görüntüleme
+-   [Efor Testi]({{< relref "efor-testi" >}}) - Egzersiz stres testi
+-   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Myocardial Infarction - Heart Attack Emergency Treatment"
 description: "Expert myocardial infarction treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil offers emergency coronary intervention, angioplasty, and stent. Avrasya Hospital."
 date: 2024-01-15

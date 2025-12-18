@@ -8,32 +8,32 @@
 
 [[main]]
   name = "Hakkımda"
-  url = "/tr/hakkimda/"
+  url = "/hakkimda/"
   weight = 20
 
 [[main]]
   name = "Hizmetler"
-  url = "/tr/hizmetler/"
+  url = "/hizmetler/"
   weight = 25
 
 [[main]]
   name = "Klinik"
-  url = "/tr/klinik/"
+  url = "/klinik/"
   weight = 30
 
 [[main]]
   name = "Yayınlar"
-  url = "/tr/yayinlar/"
+  url = "/yayinlar/"
   weight = 40
 
 [[main]]
   name = "Blog"
-  url = "/tr/blog/"
+  url = "/blog/"
   weight = 50
 
 [[main]]
   name = "İletişim"
-  url = "/tr/iletisim/"
+  url = "/iletisim/"
   weight = 60
 
 # -----------------------------------------------------------------------------
@@ -42,6 +42,6 @@
 
 [[footer]]
   name = "KVKK"
-  url = "/tr/kvkk/"
+  url = "/kvkk/"
   weight = 10
 

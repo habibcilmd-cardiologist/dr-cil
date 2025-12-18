@@ -165,8 +165,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Tilt testi ile bağlantılı diğer kardiyoloji testleri:
 
--   [Holter](/tr/hizmetler/holter/) - 24 saat ritim takibi
--   [EKG](/tr/hizmetler/ekg/) - Elektrokardiyografi
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonografisi
--   [Elektrofizyolojik Test](/tr/hizmetler/elektrofizyolojik-test/) - Aritmi haritalama
--   [Ambulatuvar Kardiyak İzleme](/tr/hizmetler/ambulatuvar-kardiyak-izleme/) - Uzun süreli ritim takibi
+-   [Holter]({{< relref "holter" >}}) - 24 saat ritim takibi
+-   [EKG]({{< relref "ekg" >}}) - Elektrokardiyografi
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonografisi
+-   [Elektrofizyolojik Test]({{< relref "elektrofizyolojik-test" >}}) - Aritmi haritalama
+-   [Ambulatuvar Kardiyak İzleme]({{< relref "ambulatuvar-kardiyak-izleme" >}}) - Uzun süreli ritim takibi

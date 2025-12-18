@@ -274,7 +274,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Diyaliz fistül tedavisi ile bağlantılı diğer hizmetler:
 
-- [Periferik Anjiyografi](/tr/hizmetler/periferik-anjiyografi/) - Damar görüntüleme
-- [Alt Ekstremite Arter Hastalığı](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Bacak damar tedavisi
-- [Karotis Stenozu](/tr/hizmetler/karotis-stenozu/) - Boyun damar tedavisi
-- [Renal Arter Stenozu](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damar tedavisi
+- [Periferik Anjiyografi]({{< relref "periferik-anjiyografi" >}}) - Damar görüntüleme
+- [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar tedavisi
+- [Karotis Stenozu]({{< relref "karotis-stenozu" >}}) - Boyun damar tedavisi
+- [Renal Arter Stenozu]({{< relref "renal-arter-stenozu" >}}) - Böbrek damar tedavisi

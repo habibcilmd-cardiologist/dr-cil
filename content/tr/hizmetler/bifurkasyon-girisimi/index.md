@@ -189,8 +189,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Bifurkasyon girişimleri ile bağlantılı diğer koroner tedaviler:
 
-- [Sol Ana Koroner Girişim](/tr/hizmetler/sol-ana-koroner-stent/) - Sol ana koroner arter stentleme
-- [CTO Girişimi](/tr/hizmetler/cto-girisimi/) - Kronik total oklüzyon tedavisi
-- [IVUS](/tr/hizmetler/ivus/) - İntravasküler ultrason görüntüleme
-- [FFR](/tr/hizmetler/ffr/) - Fraksiyonel akım rezervi ölçümü
-- [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent tedavisi
+- [Sol Ana Koroner Girişim]({{< relref "sol-ana-koroner-stent" >}}) - Sol ana koroner arter stentleme
+- [CTO Girişimi]({{< relref "cto-girisimi" >}}) - Kronik total oklüzyon tedavisi
+- [IVUS]({{< relref "ivus" >}}) - İntravasküler ultrason görüntüleme
+- [FFR]({{< relref "ffr" >}}) - Fraksiyonel akım rezervi ölçümü
+- [Koroner Anjiyoplasti]({{< relref "koroner-anjiyoplasti" >}}) - Balon ve stent tedavisi

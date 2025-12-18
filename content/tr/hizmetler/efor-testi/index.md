@@ -179,8 +179,8 @@ _Bu içerik kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından hazırlanmış 
 
 Efor testi ile birlikte uygulanan diğer kardiyoloji testleri:
 
--   [Stres Ekokardiyografi](/tr/hizmetler/stres-ekokardiyografi/) - Eforlu kalp ultrasonu
--   [Miyokard Perfüzyon](/tr/hizmetler/miyokard-perfuzyon/) - Talyum testi
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kalp ultrasonu
--   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Damar görüntüleme
--   [Koroner Arter Hastalığı](/tr/hizmetler/koroner-arter-hastaligi/) - Hastalık bilgisi
+-   [Stres Ekokardiyografi]({{< relref "stres-ekokardiyografi" >}}) - Eforlu kalp ultrasonu
+-   [Miyokard Perfüzyon]({{< relref "miyokard-perfuzyon" >}}) - Talyum testi
+-   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonu
+-   [Kardiyak Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Damar görüntüleme
+-   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Hastalık bilgisi

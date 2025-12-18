@@ -239,8 +239,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 FFR ile bağlantılı diğer hizmetler:
 
-- [Koroner Anjiyografi](/tr/hizmetler/anjiyografi/) - Tanısal koroner görüntüleme
-- [IVUS](/tr/hizmetler/ivus/) - Damar içi ultrason
-- [Koroner Stentleme](/tr/hizmetler/stent/) - Damar açma işlemi
-- [Bifurkasyon Girişimi](/tr/hizmetler/bifurkasyon-girisimi/) - Dallanma bölgesi tedavisi
-- [CTO Girişimi](/tr/hizmetler/cto/) - Kronik total oklüzyon açma
+- [Koroner Anjiyografi]({{< relref "anjiyografi" >}}) - Tanısal koroner görüntüleme
+- [IVUS]({{< relref "ivus" >}}) - Damar içi ultrason
+- [Koroner Stentleme]({{< relref "stent" >}}) - Damar açma işlemi
+- [Bifurkasyon Girişimi]({{< relref "bifurkasyon-girisimi" >}}) - Dallanma bölgesi tedavisi
+- [CTO Girişimi]({{< relref "cto-girisimi" >}}) - Kronik total oklüzyon açma

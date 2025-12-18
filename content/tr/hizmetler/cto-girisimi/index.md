@@ -220,8 +220,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 CTO girişimi ile bağlantılı diğer koroner tedaviler:
 
--   [Koroner Anjiyoplasti](/tr/hizmetler/koroner-anjiyoplasti/) - Balon ve stent ile damar açma
--   [Kardiyak Stent](/tr/hizmetler/kardiyak-stent/) - İlaç salınımlı stent implantasyonu
--   [Kardiyak Anjiyografi](/tr/hizmetler/kardiyak-anjiyografi/) - Koroner damar görüntüleme
--   [Sol Ana Koroner Stent](/tr/hizmetler/sol-ana-koroner-stent/) - Sol ana koroner hastalığı tedavisi
--   [Radyal Anjiyografi](/tr/hizmetler/radyal-anjiyografi/) - Bilekten anjiyografi
+-   [Koroner Anjiyoplasti]({{< relref "koroner-anjiyoplasti" >}}) - Balon ve stent ile damar açma
+-   [Kardiyak Stent]({{< relref "kardiyak-stent" >}}) - İlaç salınımlı stent implantasyonu
+-   [Kardiyak Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Koroner damar görüntüleme
+-   [Sol Ana Koroner Stent]({{< relref "sol-ana-koroner-stent" >}}) - Sol ana koroner hastalığı tedavisi
+-   [Radyal Anjiyografi]({{< relref "radyal-anjiyografi" >}}) - Bilekten anjiyografi

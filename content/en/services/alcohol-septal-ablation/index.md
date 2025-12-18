@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Alcohol Septal Ablation - HOCM Treatment"
 description: "Expert alcohol septal ablation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs hypertrophic cardiomyopathy treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -196,8 +196,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other treatments related to alcohol septal ablation:
 
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
+-   [Heart Failure]({{< relref "heart-failure" >}}) - Heart failure treatment
 -   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
+-   [ICD]({{< relref "icd" >}}) - Implantable cardioverter defibrillator
+-   [Permanent Pacemaker]({{< relref "permanent-pacemaker" >}}) - Bradycardia treatment

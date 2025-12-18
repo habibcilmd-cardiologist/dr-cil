@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Biventricular Pacemaker - CRT Implantation"
 description: "Expert biventricular pacemaker implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil treats heart failure with CRT therapy. Avrasya Hospital."
 date: 2024-01-15
@@ -174,8 +174,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to biventricular pacemaker:
 
--   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Permanent Pacemaker](/en/services/permanent-pacemaker/) - Bradycardia treatment
--   [Echocardiography](/en/services/echocardiography/) - Heart ultrasound
--   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Heart Failure]({{< relref "heart-failure" >}}) - Heart failure treatment
+-   [ICD]({{< relref "icd" >}}) - Implantable cardioverter defibrillator
+-   [Permanent Pacemaker]({{< relref "permanent-pacemaker" >}}) - Bradycardia treatment
+-   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
+-   [EKG]({{< relref "ekg" >}}) - Electrocardiography

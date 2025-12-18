@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Peripheral Vascular Disease - PAD Intervention"
 description: "Expert peripheral vascular disease treatment in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs leg artery and peripheral vascular interventions. Avrasya Hospital."
 date: 2024-01-15
@@ -219,8 +219,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other peripheral vascular treatments related to peripheral vascular disease:
 
--   [Carotid Stenosis](/en/services/carotid-stenosis/) - Carotid artery stenosis treatment
--   [Renal Artery Stenosis](/en/services/renal-artery-stenosis/) - Renal artery stenosis treatment
+-   [Carotid Stenosis]({{< relref "carotid-stenosis" >}}) - Carotid artery stenosis treatment
+-   [Renal Artery Stenosis]({{< relref "renal-artery-stenosis" >}}) - Renal artery stenosis treatment
 -   [Lower Extremity Arterial Disease](/en/blog/lower-extremity-arterial-disease/) - Leg artery disease
 -   [Abdominal Aortic Aneurysm](/en/blog/abdominal-aortic-aneurysm/) - Aortic aneurysm treatment
--   [Atherectomy](/en/services/atherectomy/) - Plaque removal procedure
+-   [Atherectomy]({{< relref "atherectomy" >}}) - Plaque removal procedure

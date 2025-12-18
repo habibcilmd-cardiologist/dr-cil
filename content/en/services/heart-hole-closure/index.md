@@ -413,7 +413,7 @@ _This content has been prepared by Assoc. Prof. Habib Çil for informational pur
 
 Other services related to heart hole closure:
 
-- [TAVI](/en/services/tavi/) - Transcatheter aortic valve implantation
-- [MitraClip](/en/services/mitraclip/) - Mitral valve repair
-- [Alcohol Septal Ablation](/en/services/alcohol-septal-ablation/) - HOCM treatment
-- [Balloon Valvuloplasty](/en/services/balloon-valvuloplasty/) - Valve opening procedure
+- [TAVI]({{< relref "tavi" >}}) - Transcatheter aortic valve implantation
+- [MitraClip]({{< relref "mitraclip" >}}) - Mitral valve repair
+- [Alcohol Septal Ablation]({{< relref "alcohol-septal-ablation" >}}) - HOCM treatment
+- [Balloon Valvuloplasty]({{< relref "mitral-balloon-valvuloplasty" >}}) - Valve opening procedure

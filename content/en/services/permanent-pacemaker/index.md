@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Permanent Pacemaker - Bradycardia Treatment"
 description: "Expert permanent pacemaker implantation in Istanbul. Interventional cardiologist Assoc. Prof. Dr. Habib Çil performs pacemaker surgery. Bradycardia and heart block treatment. Avrasya Hospital."
 date: 2024-01-15
@@ -212,8 +212,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other arrhythmia treatments related to permanent pacemaker:
 
--   [Temporary Pacemaker](/en/services/temporary-pacemaker/) - Temporary pacing
--   [Biventricular Pacemaker](/en/services/biventricular-pacemaker/) - CRT pacemaker
--   [ICD](/en/services/icd/) - Implantable cardioverter defibrillator
--   [Holter](/en/services/holter/) - 24-hour rhythm monitoring
--   [EKG](/en/services/ekg/) - Electrocardiography
+-   [Temporary Pacemaker]({{< relref "temporary-pacemaker" >}}) - Temporary pacing
+-   [Biventricular Pacemaker]({{< relref "biventricular-pacemaker" >}}) - CRT pacemaker
+-   [ICD]({{< relref "icd" >}}) - Implantable cardioverter defibrillator
+-   [Holter]({{< relref "holter" >}}) - 24-hour rhythm monitoring
+-   [EKG]({{< relref "ekg" >}}) - Electrocardiography
