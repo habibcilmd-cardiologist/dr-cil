@@ -20,7 +20,7 @@ translationKey: "services"
   <a href="{{< relref "coronary-fistula-treatment" >}}" class="service-card"><div class="service-icon">🔗</div><h4>Coronary Fistula Treatment</h4><p>Abnormal vessel connection closure</p></a>
   <a href="{{< relref "ivus" >}}" class="service-card"><div class="service-icon">🔬</div><h4>IVUS</h4><p>Intravascular ultrasound imaging</p></a>
   <a href="{{< relref "ffr" >}}" class="service-card"><div class="service-icon">📊</div><h4>FFR</h4><p>Fractional flow reserve measurement</p></a>
-  <a href="{{< relref "coronary-angioplasty" >}}" class="service-card"><div class="service-icon">💉</div><h4>Coronary Angioplasty and Stenting</h4><p>Balloon and stent procedures</p></a>
+  <a href="{{< relref "angioplasty" >}}" class="service-card"><div class="service-icon">💉</div><h4>Coronary Angioplasty and Stenting</h4><p>Balloon and stent procedures</p></a>
   <a href="{{< relref "myocardial-infarction" >}}" class="service-card"><div class="service-icon">💔</div><h4>Myocardial Infarction Treatment</h4><p>Heart Attack - Emergency intervention and treatment</p></a>
 </div>
 

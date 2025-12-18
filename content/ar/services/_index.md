@@ -20,7 +20,7 @@ translationKey: "services"
   <a href="{{< relref "coronary-fistula-treatment" >}}" class="service-card"><div class="service-icon">🔗</div><h4>علاج الناسور التاجي</h4><p>إغلاق الاتصال الوعائي غير الطبيعي</p></a>
   <a href="{{< relref "ivus" >}}" class="service-card"><div class="service-icon">🔬</div><h4>IVUS</h4><p>التصوير بالموجات فوق الصوتية داخل الأوعية</p></a>
   <a href="{{< relref "ffr" >}}" class="service-card"><div class="service-icon">📊</div><h4>FFR</h4><p>قياس احتياطي التدفق الجزئي</p></a>
-  <a href="{{< relref "coronary-angioplasty" >}}" class="service-card"><div class="service-icon">💉</div><h4>رأب الأوعية التاجية والدعامة</h4><p>إجراءات البالون والدعامة</p></a>
+  <a href="{{< relref "angioplasty" >}}" class="service-card"><div class="service-icon">💉</div><h4>رأب الأوعية التاجية والدعامة</h4><p>إجراءات البالون والدعامة</p></a>
   <a href="{{< relref "myocardial-infarction" >}}" class="service-card"><div class="service-icon">💔</div><h4>علاج احتشاء عضلة القلب</h4><p>النوبة القلبية - التدخل الطارئ والعلاج</p></a>
 </div>
 

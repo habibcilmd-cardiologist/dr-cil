@@ -21,7 +21,7 @@ url: "/hizmetler/"
   <a href="{{< relref "koroner-fistul-tedavisi" >}}" class="service-card"><div class="service-icon">🔗</div><h4>Koroner Fistül Tedavisi</h4><p>Anormal damar bağlantısı kapatma</p></a>
   <a href="{{< relref "ivus" >}}" class="service-card"><div class="service-icon">🔬</div><h4>IVUS</h4><p>Damar içi ultrason görüntüleme</p></a>
   <a href="{{< relref "ffr" >}}" class="service-card"><div class="service-icon">📊</div><h4>FFR</h4><p>Fraksiyonel akım rezervi ölçümü</p></a>
-  <a href="{{< relref "koroner-anjiyoplasti" >}}" class="service-card"><div class="service-icon">💉</div><h4>Koroner Anjiyoplasti ve Stentleme</h4><p>Balon ve stent uygulamaları</p></a>
+  <a href="{{< relref "anjiyoplasti" >}}" class="service-card"><div class="service-icon">💉</div><h4>Koroner Anjiyoplasti ve Stentleme</h4><p>Balon ve stent uygulamaları</p></a>
   <a href="{{< relref "miyokard-enfarktusu" >}}" class="service-card"><div class="service-icon">💔</div><h4>Miyokard Enfarktüsü Tedavisi</h4><p>Kalp Krizi - Acil müdahale ve tedavi</p></a>
 </div>
 
