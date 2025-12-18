@@ -38,6 +38,31 @@
   HUGO_VERSION = "0.141.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+  GO_VERSION = "1.23"
+
+# Hugo Resources Cache Plugin for faster builds
+[[plugins]]
+  package = "netlify-plugin-cache"
+  [plugins.inputs]
+    paths = ["resources"]
+
+# Build Processing Optimizations
+[build.processing]
+  skip_processing = false
+
+[build.processing.css]
+  bundle = true
+  minify = true
+
+[build.processing.js]
+  bundle = true
+  minify = true
+
+[build.processing.html]
+  pretty_urls = true
+
+[build.processing.images]
+  compress = true
 
 # Security and Performance Headers
 [[headers]]
@@ -49,6 +74,12 @@
     X-XSS-Protection = "1; mode=block"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=(), interest-cohort=()"
+
+# HTML pages - shorter cache for content updates
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
 
 # Long cache for static assets
 [[headers]]
@@ -68,5 +99,20 @@
 
 [[headers]]
   for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.webp"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/models/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"

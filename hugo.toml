@@ -7,6 +7,12 @@ defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 enableInlineShortcodes = true
 
+# Build Performance
+timeout = "180s"
+buildFuture = false
+buildExpired = false
+buildDrafts = false
+
 [pagination]
   pagerSize = 10
 
@@ -22,6 +28,32 @@ enableInlineShortcodes = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# Minify optimizations
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+  [minify.tdewolff.html]
+    keepWhitespace = false
+    keepEndTags = false
+
+# Image processing optimization
+[imaging]
+  resampleFilter = "CatmullRom"
+  quality = 85
+  hint = "photo"
+  anchor = "Smart"
+  bgColor = "#ffffff"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = ""
+    excludeFields = ""
 
 [params.verification]
   google = "bs3oztIehq9ZyMyqgBKUm1LOx_X_Juv7U9I-Mps5Tik"

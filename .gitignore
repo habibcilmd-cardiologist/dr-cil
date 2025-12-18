@@ -1,7 +1,7 @@
 # Hugo build artifacts
 public/
 agent-logs/
-resources/_gen/
+#resources/_gen/
 .hugo_build.lock
 
 # OS generated files
