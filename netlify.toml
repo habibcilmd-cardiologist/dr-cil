@@ -31,7 +31,7 @@
   status = 301
 
 [build]
-  command = "hugo --gc --minify"
+  command = "rm -rf themes/blowfish/exampleSite && hugo --gc --minify"
   publish = "public"
 
 [build.environment]
