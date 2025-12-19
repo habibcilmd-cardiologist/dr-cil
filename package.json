@@ -1,0 +1,8 @@
+{
+	"name": "drcil-site",
+	"version": "1.0.0",
+	"description": "Dr. Cil website built with Hugo",
+	"devDependencies": {
+		"netlify-plugin-cache": "^1.0.3"
+	}
+}
