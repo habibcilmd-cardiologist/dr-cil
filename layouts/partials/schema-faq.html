@@ -1,48 +1,29 @@
 {{/*
 =============================================================================
 Dr. Habib ÇİL - FAQPage Schema Partial
-FAQ shortcode kullanan sayfalarda JSON-LD formatında FAQPage schema'sı ekler.
-Mevcut microdata yapısını korur, JSON-LD ek olarak eklenir.
-
-NOT: Hugo'da shortcode içeriğini dinamik olarak parse etmek zor olduğundan,
-FAQ verileri front matter'da tanımlanmalıdır:
-
-Örnek front matter:
----
-faq:
-  - question: "Soru 1?"
-    answer: "Cevap 1."
-  - question: "Soru 2?"
-    answer: "Cevap 2."
----
+Returns a dictionary for FAQPage schema if FAQ params exist in front matter.
 =============================================================================
 */}}
-
-{{/* Front matter'da FAQ varsa JSON-LD oluştur */}}
+{{ $schema := dict }}
 {{ if .Params.faq }}
 {{ $faqItems := .Params.faq }}
 {{ if gt (len $faqItems) 0 }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "@id": "{{ .Permalink }}#faq",
-  "name": "{{ .Title }} - {{ if eq .Site.Language.Lang "tr" }}Sık Sorulan Sorular{{ else }}Frequently Asked Questions{{ end }}",
-  "url": "{{ .Permalink }}",
-  "mainEntity": [
-    {{- range $index, $faq := $faqItems -}}
-    {
-      "@type": "Question",
-      "name": "{{ $faq.question | safeJS }}",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ $faq.answer | safeJS }}"
-      }
-    }{{ if ne (add $index 1) (len $faqItems) }},{{ end }}
-    {{- end -}}
-  ]
-}
-</script>
-{{ end }}
+{{ $questions := slice }}
+{{ range $faqItems }}
+{{ $questions = $questions | append (dict
+"@type" "Question"
+"name" (.question | safeJS)
+"acceptedAnswer" (dict "@type" "Answer" "text" (.answer | safeJS))
+) }}
 {{ end }}
 
+{{ $schema = dict
+"@type" "FAQPage"
+"@id" (printf "%s#faq" .Permalink)
+"name" (printf "%s - %s" .Title (cond (eq .Site.Language.Lang "tr") "Sık Sorulan Sorular" "Frequently Asked Questions"))
+"url" .Permalink
+"mainEntity" $questions
+}}
+{{ end }}
+{{ end }}
+{{ return $schema }}

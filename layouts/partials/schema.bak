@@ -75,29 +75,16 @@ Collects all schemas into a single JSON-LD script.
 {{ $schemaGraph = $schemaGraph | append $articleSchema }}
 {{ end }}
 
-
-{{/* 5. Integrate Specialized Partials */}}
-{{/* Scholarly Article */}}
-{{ with partial "schema-scholarly.html" . }}
-{{ $schemaGraph = $schemaGraph | append . }}
-{{ end }}
-
-{{/* FAQ Page */}}
-{{ with partial "schema-faq.html" . }}
-{{ $schemaGraph = $schemaGraph | append . }}
-{{ end }}
-
-{{/* Medical Procedure (Returns a slice) */}}
-{{ with partial "schema-procedure.html" . }}
-{{ range . }}
-{{ $schemaGraph = $schemaGraph | append . }}
-{{ end }}
-{{ end }}
-
-{{/* 6. Output the Graph */}}
+{{/* 4. Output the Graph */}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": {{ $schemaGraph | jsonify }}
 }
 </script>
+
+{{/* Include Specialized Partials - These usually output their own
+<script> tags */}}
+  { { partial "schema-scholarly.html". } }
+  { { partial "schema-procedure.html". } }
+  { { partial "schema-faq.html". } }

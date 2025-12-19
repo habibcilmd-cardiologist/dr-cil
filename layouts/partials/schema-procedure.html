@@ -1,87 +1,83 @@
 {{/*
 =============================================================================
-Dr. Habib ÇİL - MedicalProcedure Schema Partial Generates JSON-LD for medical
-procedure pages
+Dr. Habib ÇİL - MedicalProcedure Schema Partial
+Generates a slice of maps (Procedure, WebPage, Breadcrumb) for the main graph.
 =============================================================================
-*/}} {{ if .File }} {{ if and (or (in .File.Path "hizmetler") (in .File.Path
-"services")) (eq .Kind "page") }}
-<script type="application/ld+json">
-	{
-	  "@context": "https://schema.org",
-	  "@graph": [
-	    {
-	      "@type": "MedicalProcedure",
-	      "@id": "{{ .Permalink }}#procedure",
-	      "name": "{{ .Title }}",
-	      "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | truncate 300 }}{{ end }}",
-	      "url": "{{ .Permalink }}",
-	      "procedureType": {{ with .Params.procedure_type }}"{{ . }}"{{ else }}"PercutaneousProcedure"{{ end }},
-	      "bodyLocation": {{ with .Params.body_location }}"{{ . }}"{{ else }}"Heart"{{ end }},
-	      "status": "https://schema.org/EventScheduled",
-	      "preparation": {{ if eq .Site.Language.Lang "tr" }}"İşlem öncesi hazırlık talimatları doktorunuz tarafından verilecektir."{{ else }}"Pre-procedure preparation instructions will be provided by your doctor."{{ end }},
-	      "followup": {{ if eq .Site.Language.Lang "tr" }}"İşlem sonrası takip randevuları planlanacaktır."{{ else }}"Post-procedure follow-up appointments will be scheduled."{{ end }},
-	      "howPerformed": "{{ with .Params.how_performed }}{{ . }}{{ else }}{{ if eq .Site.Language.Lang "tr" }}Modern tıbbi ekipmanlarla uzman kardiyolog tarafından gerçekleştirilir.{{ else }}Performed by specialist cardiologist using modern medical equipment.{{ end }}{{ end }}",
-	      "recognizingAuthority": {
-	        "@type": "Organization",
-	        "name": {{ if eq .Site.Language.Lang "tr" }}"Türk Kardiyoloji Derneği"{{ else }}"Turkish Society of Cardiology"{{ end }}
-	      }
-	    },
-	    {
-	      "@type": "MedicalWebPage",
-	      "@id": "{{ .Permalink }}#webpage",
-	      "name": "{{ .Title }}",
-	      "description": "{{ with .Description }}{{ . }}{{ end }}",
-	      "url": "{{ .Permalink }}",
-	      "inLanguage": "{{ .Site.Language.Lang }}",
-	      "datePublished": "{{ .Date.Format "2006-01-02" }}",
-	      "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
-	      "author": {
-	        "@type": "Physician",
-	        "@id": "{{ .Site.BaseURL }}#physician"
-	      },
-	      "reviewedBy": {
-	        "@type": "Physician",
-	        "@id": "{{ .Site.BaseURL }}#physician"
-	      },
-	      "lastReviewed": "{{ .Lastmod.Format "2006-01-02" }}",
-	      "mainEntity": {
-	        "@id": "{{ .Permalink }}#procedure"
-	      },
-	      "about": {
-	        "@type": "MedicalCondition",
-	        "name": "{{ .Title }}"
-	      },
-	      "isPartOf": {
-	        "@type": "WebSite",
-	        "name": "{{ .Site.Title }}",
-	        "url": "{{ .Site.BaseURL }}"
-	      }
-	    },
-	    {
-	      "@type": "BreadcrumbList",
-	      "@id": "{{ .Permalink }}#breadcrumb",
-	      "itemListElement": [
-	        {
-	          "@type": "ListItem",
-	          "position": 1,
-	          "name": {{ if eq .Site.Language.Lang "tr" }}"Ana Sayfa"{{ else }}"Home"{{ end }},
-	          "item": "{{ .Site.BaseURL }}"
-	        },
-	        {
-	          "@type": "ListItem",
-	          "position": 2,
-	          "name": {{ if eq .Site.Language.Lang "tr" }}"Hizmetler"{{ else }}"Services"{{ end }},
-	          "item": "{{ .Site.BaseURL }}{{ if eq .Site.Language.Lang "tr" }}tr/hizmetler/{{ else }}services/{{ end }}"
-	        },
-	        {
-	          "@type": "ListItem",
-	          "position": 3,
-	          "name": "{{ .Title }}",
-	          "item": "{{ .Permalink }}"
-	        }
-	      ]
-	    }
-	  ]
-	}
-</script>
-{{ end }} {{ end }}
+*/}}
+{{ $graphSlice := slice }}
+{{ if .File }}
+{{ if and (or (in .File.Path "hizmetler") (in .File.Path "services")) (eq .Kind "page") }}
+
+{{ $isTr := eq .Site.Language.Lang "tr" }}
+
+{{/* Localized Strings */}}
+{{ $prep := cond $isTr
+"İşlem öncesi hazırlık talimatları doktorunuz tarafından verilecektir."
+"Pre-procedure preparation instructions will be provided by your doctor."
+}}
+
+{{ $follow := cond $isTr
+"İşlem sonrası takip randevuları planlanacaktır."
+"Post-procedure follow-up appointments will be scheduled."
+}}
+
+{{ $defaultPerform := cond $isTr
+"Modern tıbbi ekipmanlarla uzman kardiyolog tarafından gerçekleştirilir."
+"Performed by specialist cardiologist using modern medical equipment."
+}}
+
+{{ $orgName := cond $isTr "Türk Kardiyoloji Derneği" "Turkish Society of Cardiology" }}
+{{ $homeName := cond $isTr "Ana Sayfa" "Home" }}
+{{ $servName := cond $isTr "Hizmetler" "Services" }}
+{{ $servUrl := cond $isTr "tr/hizmetler/" "services/" }}
+
+{{/* 1. MedicalProcedure */}}
+{{ $procedure := dict
+"@type" "MedicalProcedure"
+"@id" (printf "%s#procedure" .Permalink)
+"name" .Title
+"description" (.Description | default (.Summary | truncate 300))
+"url" .Permalink
+"procedureType" (.Params.procedure_type | default "PercutaneousProcedure")
+"bodyLocation" (.Params.body_location | default "Heart")
+"status" "https://schema.org/EventScheduled"
+"preparation" $prep
+"followup" $follow
+"howPerformed" (.Params.how_performed | default $defaultPerform)
+"recognizingAuthority" (dict "@type" "Organization" "name" $orgName)
+}}
+
+{{/* 2. MedicalWebPage */}}
+{{ $webpage := dict
+"@type" "MedicalWebPage"
+"@id" (printf "%s#webpage" .Permalink)
+"name" .Title
+"description" .Description
+"url" .Permalink
+"inLanguage" .Site.Language.Lang
+"datePublished" (.Date.Format "2006-01-02")
+"dateModified" (.Lastmod.Format "2006-01-02")
+"author" (dict "@type" "Physician" "@id" (printf "%s#physician" .Site.BaseURL))
+"reviewedBy" (dict "@type" "Physician" "@id" (printf "%s#physician" .Site.BaseURL))
+"lastReviewed" (.Lastmod.Format "2006-01-02")
+"mainEntity" (dict "@id" (printf "%s#procedure" .Permalink))
+"about" (dict "@type" "MedicalCondition" "name" .Title)
+"isPartOf" (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
+}}
+
+{{/* 3. BreadcrumbList */}}
+{{ $breadcrumb := dict
+"@type" "BreadcrumbList"
+"@id" (printf "%s#breadcrumb" .Permalink)
+"itemListElement" (slice
+(dict "@type" "ListItem" "position" 1 "name" $homeName "item" .Site.BaseURL)
+(dict "@type" "ListItem" "position" 2 "name" $servName "item" (printf "%s%s" .Site.BaseURL $servUrl))
+(dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink)
+)
+}}
+
+{{ $graphSlice = slice $procedure $webpage $breadcrumb }}
+
+{{ end }}
+{{ end }}
+{{ return $graphSlice }}
