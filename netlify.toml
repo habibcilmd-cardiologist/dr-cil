@@ -31,7 +31,7 @@
   status = 301
 
 [build]
-  command = "rm -rf themes/blowfish/exampleSite && hugo --gc --minify"
+  command = "rm -rf themes/blowfish/exampleSite && rm -rf public && hugo --gc --minify"
   publish = "public"
 
 [build.environment]
@@ -39,6 +39,14 @@
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   GO_VERSION = "1.23"
+
+# Production context - ensure correct baseURL
+[context.production.environment]
+  HUGO_ENV = "production"
+
+# Deploy Preview context - use preview URL
+[context.deploy-preview.environment]
+  HUGO_ENV = "staging"
 
 # Hugo Resources Cache Plugin for faster builds
 [[plugins]]
