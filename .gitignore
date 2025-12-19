@@ -4,6 +4,9 @@ agent-logs/
 #resources/_gen/
 .hugo_build.lock
 
+# Theme example sites (contain sample API keys)
+themes/*/exampleSite/
+
 # OS generated files
 .DS_Store
 Thumbs.db
