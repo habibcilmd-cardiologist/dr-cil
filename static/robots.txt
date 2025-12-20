@@ -8,5 +8,3 @@ Crawl-delay: 2
 
 # Sitemap Indexes
 Sitemap: https://docdrhabibcil.com/sitemap.xml
-Sitemap: https://docdrhabibcil.com/en/sitemap.xml
-Sitemap: https://docdrhabibcil.com/ar/sitemap.xml
