@@ -306,9 +306,7 @@ Three fundamental factors for DVT development:
 
 To schedule an appointment for acute DVT evaluation and interventional treatment:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Eurasia Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

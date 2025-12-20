@@ -131,9 +131,7 @@ Cardiovascular diseases often progress silently. You may not feel it when your b
 
 It is vital to consult a cardiology specialist to learn about your cardiovascular risk, protect your current heart health, and create a prevention program tailored to you. Your health is your most valuable asset.
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Contact via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

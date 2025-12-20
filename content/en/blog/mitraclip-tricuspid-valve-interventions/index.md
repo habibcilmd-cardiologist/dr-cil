@@ -602,9 +602,7 @@ If you have been diagnosed with mitral or tricuspid valve disease, regular cardi
 
 If you would like to schedule an appointment for MitraClip or tricuspid valve intervention evaluation:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

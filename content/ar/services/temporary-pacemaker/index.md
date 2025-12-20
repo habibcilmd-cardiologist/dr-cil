@@ -156,9 +156,7 @@ faq:
 
 لدعم الإيقاع الطارئ أو التقييم:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-حجز موعد عبر واتساب
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **مستشفى أوراسيا** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

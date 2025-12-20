@@ -385,9 +385,7 @@ Below-knee vascular disease treatment is a team effort:
 
 To make an appointment for below-knee arterial occlusion evaluation and treatment:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Make an Appointment via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

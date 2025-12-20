@@ -660,9 +660,7 @@ Cardiac rehabilitation is an indispensable part of heart disease treatment. Earl
 
 If you would like information about the cardiac rehabilitation program or schedule an evaluation appointment:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

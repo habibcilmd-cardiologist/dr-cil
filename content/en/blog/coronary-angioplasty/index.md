@@ -191,9 +191,7 @@ These risks are minimized with experienced hands and modern techniques.
 
 To schedule an appointment for coronary angioplasty or stent treatment:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

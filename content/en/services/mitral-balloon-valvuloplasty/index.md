@@ -223,9 +223,7 @@ A scoring system used to assess valve anatomy suitability:
 
 To schedule an appointment for mitral valve stenosis evaluation and treatment options:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

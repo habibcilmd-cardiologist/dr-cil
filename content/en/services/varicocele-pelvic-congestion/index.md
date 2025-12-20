@@ -278,9 +278,7 @@ Pelvic Congestion Syndrome (PCS) is chronic pelvic pain caused by dilation of ov
 
 To schedule an appointment for varicocele or pelvic congestion evaluation and embolization treatment:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul, Turkey
 

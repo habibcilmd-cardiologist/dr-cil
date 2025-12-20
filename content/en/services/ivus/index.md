@@ -229,9 +229,7 @@ Based on IVUS measurements:
 
 To schedule an appointment for IVUS-guided coronary evaluation and stenting:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Eurasia Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

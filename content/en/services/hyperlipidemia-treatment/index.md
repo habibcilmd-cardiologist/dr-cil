@@ -144,9 +144,7 @@ Remember, cholesterol medications are not addictive, but continuity of treatment
 
 You should consult a healthcare provider for hyperlipidemia diagnosis, risk assessment, and personalized treatment planning. Do not delay your heart health.
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

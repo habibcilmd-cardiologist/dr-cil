@@ -173,9 +173,7 @@ Risk varies by patient and anatomy. Examples include access-site bleeding/bruisi
 
 If you would like to schedule an appointment for pulmonary valve disease evaluation:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

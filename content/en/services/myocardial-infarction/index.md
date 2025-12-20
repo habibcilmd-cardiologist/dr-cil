@@ -172,9 +172,7 @@ Some factors that increase heart attack risk can be modified, while others canno
 
 If you have concerns about your heart health or would like to schedule a check-up appointment, you can reach us through the following channels:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Book Appointment via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 

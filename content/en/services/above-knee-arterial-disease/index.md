@@ -313,9 +313,7 @@ Above-Knee Arterial Occlusion Diagnosis
 
 To make an appointment for above-knee arterial occlusion evaluation and treatment:
 
-{{< button href="https://wa.me/905339454639" target="_blank" >}}
-Make an Appointment via WhatsApp
-{{< /button >}}
+{{< contact-buttons >}}
 
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 
