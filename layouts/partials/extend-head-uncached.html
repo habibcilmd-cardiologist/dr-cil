@@ -7,21 +7,27 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 */}}
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK"></script>
+<script
+	async
+	src="https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK"
+></script>
 <script>
 	window.dataLayer = window.dataLayer || [];
-	function gtag() { dataLayer.push(arguments); }
-	gtag('js', new Date());
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag("js", new Date());
 
-	gtag('config', 'G-TDC4PMVEMK');
+	gtag("config", "G-TDC4PMVEMK");
 </script>
 
-{{/* Hreflang Tags */}}
-{{ if .IsTranslated }}
-{{ range .AllTranslations }}
+{{/* Hreflang Tags */}} {{ if .IsTranslated }} {{ range .AllTranslations }}
 <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
 {{ end }}
-<link rel="alternate" hreflang="x-default" href="{{ .Sites.Default.Home.Permalink }}" />
-{{ end }}
-
-{{/* JSON-LD schemas moved to layouts/partials/schema.html to avoid duplicate graphs/contexts. */}}
+<link
+	rel="alternate"
+	hreflang="x-default"
+	href="{{ .Sites.Default.Home.Permalink }}"
+/>
+{{ end }} {{/* JSON-LD schemas moved to layouts/partials/schema.html to avoid
+duplicate graphs/contexts. */}}
