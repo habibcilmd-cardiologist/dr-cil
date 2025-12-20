@@ -31,7 +31,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.141.0"
+  HUGO_VERSION = "0.151.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   GO_VERSION = "1.23"
