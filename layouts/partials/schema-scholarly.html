@@ -1,7 +1,30 @@
-{{/* MedicalScholarlyArticle Schema for Publications */}} {{ $schema := dict }}
-{{ if and (eq .Section "yayinlar") .IsPage }} {{ $schema = dict "@type"
-"MedicalScholarlyArticle" "@id" (printf "%s#scholarly" .Permalink) "headline"
-.Title "name" .Title "description" (.Description | default .Summary)
-"publicationType" "Medical Journal" "author" (dict "@type" "Person" "name" "Doç.
-Dr. Habib ÇİL") "datePublished" (.Date.Format "2006-01-02") "url" .Permalink
-"inLanguage" .Site.Language.Lang }} {{ end }} {{ return $schema }}
+{{/* MedicalScholarlyArticle Schema for Publications */}}
+
+{{- $schema := dict -}}
+
+{{- if and (eq .Section "yayinlar") .IsPage -}}
+
+    {{- $description := .Summary -}}
+    {{- with .Description }}
+        {{- $description = . -}}
+    {{- end }}
+
+    {{- $schema = dict
+        "@type" "MedicalScholarlyArticle"
+        "@id" (printf "%s#scholarly" .Permalink)
+        "headline" .Title
+        "name" .Title
+        "description" $description
+        "publicationType" "Medical Journal"
+        "author" (dict
+            "@type" "Person"
+            "name" "Doç. Dr. Habib ÇİL"
+        )
+        "datePublished" (.Date.Format "2006-01-02")
+        "url" .Permalink
+        "inLanguage" .Site.Language.Lang
+    -}}
+
+{{- end -}}
+
+{{- return $schema -}}

@@ -1,118 +1,160 @@
-{{/*
+{{/* 
 =============================================================================
-Dr. Habib ÇİL - Unified Schema Generation (@graph) Replaces fragile $skipSchema
-logic with a robust graph-based approach. Collects all schemas into a single
-JSON-LD script.
+Dr. Habib ÇİL - Unified Schema Generation (@graph)
+Açıklama: Tüm şemaları tek bir JSON-LD içinde birleştirir ve @id'ler ile bağlar.
 =============================================================================
-*/}} {{ $schemaGraph := slice }} {{/* 1. WebSite Schema (Global) */}} {{
-$websiteSchema := dict "@type" "WebSite" "@id" (printf "%s#website"
-site.Home.Permalink) "name" site.Title "url" site.Home.Permalink "publisher"
-(dict "@type" "Person" "name" site.Params.Author.name) }} {{ with
-.Site.Params.description }}{{ $websiteSchema = merge $websiteSchema (dict
-"description" .) }}{{ end }} {{ with .Site.LanguageCode }}{{ $websiteSchema =
-merge $websiteSchema (dict "inLanguage" .) }}{{ end }} {{ $schemaGraph =
-$schemaGraph | append $websiteSchema }} {{/* 2. Breadcrumb Schema (All Pages
-except Home) */}} {{ if and (not .IsHome)
-(site.Params.enableStructuredBreadcrumbs | default false) }} {{ $breadcrumbs :=
-slice }} {{ range .Ancestors }} {{ if not .IsHome }} {{ $breadcrumbs =
-$breadcrumbs | append . }} {{ end }} {{ end }} {{ $breadcrumbs = $breadcrumbs |
-append . }} {{ $itemListElement := slice }} {{ range $index, $element :=
-$breadcrumbs }} {{ $itemListElement = $itemListElement | append (dict "@type"
-"ListItem" "position" (add $index 1) "name" .Title "item" .Permalink ) }} {{ end
-}} {{ $breadcrumbSchema := dict "@type" "BreadcrumbList" "@id" (printf
-"%s#breadcrumb" .Permalink) "itemListElement" $itemListElement }} {{
-$schemaGraph = $schemaGraph | append $breadcrumbSchema }} {{ end }} {{/* 3.
-Article Schema (Standard Pages) */}} {{/* Logic: If NOT a specialized page
-(service, clinic, blog, publication), add generic Article */}} {{
-$isSpecializedPage := false }} {{ if or (in .Path "blog") (in .Path "hizmetler")
-(in .Path "services") (in .Path "klinik") (in .Path "clinic") (eq .Section
-"yayinlar") }} {{ $isSpecializedPage = true }} {{ end }} {{/* 4. Core Entities
-(Physician / Clinic) */}} {{ $physician := dict }} {{ if or .IsHome (eq
-.Params.translationKey "about") }} {{ $physician = dict "@type" (slice "Person"
-"Physician") "@id" (printf "%s#physician" .Site.BaseURL) "name" "Doç. Dr. Habib
-ÇİL" "givenName" "Habib" "familyName" "ÇİL" "honorificPrefix" "Doç. Dr."
-"jobTitle" (cond (eq .Site.Language.Lang "tr") "Kardiyoloji Uzmanı" (cond (eq
-.Site.Language.Lang "ar") "أخصائي أمراض القلب" "Cardiology Specialist"))
-"description" (cond (eq .Site.Language.Lang "tr") "İstanbul'da Kardiyoloji
-Uzmanı. Bacak damarlarını açma, diyabetik ayak tedavisi, periferik arter
-hastalıkları ve TAVI konularında uzman. 20+ yıllık deneyim." (cond (eq
-.Site.Language.Lang "ar") "أخصائي أمراض القلب في إسطنبول. خبير في فتح شرايين
-الساق، وعلاج القدم السكري، وأمراض الشرايين الدقيقة، و TAVI. خبرة أكثر من 20
-عاماً." "Cardiology Specialist in Istanbul. Expert in leg artery opening,
-diabetic foot treatment, peripheral artery disease and TAVI. 20+ years of
-experience.")) "url" .Site.BaseURL "image" (printf
-"%simg/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp" .Site.BaseURL)
-"telephone" "+90 212 665 50 50" "email" "habibcilmd@gmail.com"
-"isAcceptingNewPatients" true "gender" "Male" "medicalSpecialty" (slice
-"http://schema.org/Cardiovascular") "address" (dict "@type" "PostalAddress"
-"streetAddress" "Beştelsiz Mah. 101. Sokak. No:107" "addressLocality"
-"Zeytinburnu" "addressRegion" "İstanbul" "postalCode" "34020" "addressCountry"
-"TR" ) "geo" (dict "@type" "GeoCoordinates" "latitude" 41.0082 "longitude"
-28.9784) "hasMap" "https://maps.app.goo.gl/wSsq2vC2X8X3fG8t7" "sameAs" (slice
-"https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul"
-"https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul"
-"https://www.facebook.com/docdrhabibcil/"
-"https://www.instagram.com/doc.dr.habibcil"
-"https://www.linkedin.com/in/do%C3%A7-dr-habib-%C3%A7il-988695a3/"
-"https://wa.me/905339454639" ) }} {{ end }} {{ if gt (len $physician) 0 }} {{
-$schemaGraph = $schemaGraph | append $physician }} {{ end }} {{ $clinic := dict
-}} {{ if .IsHome }} {{ $clinic = dict "@type" "MedicalBusiness" "@id" (printf
-"%s#clinic" .Site.BaseURL) "name" "Doç. Dr. Habib ÇİL - Kardiyoloji Kliniği"
-"description" .Site.Params.description "url" .Site.BaseURL "telephone" "+90 212
-665 50 50" "currenciesAccepted" "TRY" "paymentAccepted" (slice "Cash" "Credit
-Card" "Insurance") "address" (dict "@type" "PostalAddress" "streetAddress"
-"Beştelsiz Mah. 101. Sokak No:107" "addressLocality" "Zeytinburnu"
-"addressRegion" "İstanbul" "postalCode" "34020" "addressCountry" "TR" ) "geo"
-(dict "@type" "GeoCoordinates" "latitude" 41.0082 "longitude" 28.9784)
-"openingHoursSpecification" (slice (dict "@type" "OpeningHoursSpecification"
-"dayOfWeek" (slice "Monday" "Tuesday" "Wednesday" "Thursday" "Friday") "opens"
-"09:00" "closes" "18:00") (dict "@type" "OpeningHoursSpecification" "dayOfWeek"
-"Saturday" "opens" "09:00" "closes" "14:00") ) "areaServed" (dict "@type" "City"
-"name" "İstanbul") }} {{ end }} {{ if gt (len $clinic) 0 }} {{ $schemaGraph =
-$schemaGraph | append $clinic }} {{ end }} {{ if and (not .IsHome) (not
-$isSpecializedPage) }} {{ $iso8601 := "2006-01-02T15:04:05-07:00" }} {{
-$articleSchema := dict "@type" "Article" "@id" (printf "%s#article" .Permalink)
-"isPartOf" (dict "@id" (printf "%s#website" site.Home.Permalink)) "headline"
-.Title "name" .Title "mainEntityOfPage" .Permalink "url" .Permalink "author"
-(dict "@type" "Person" "name" site.Params.Author.name) "wordCount" .WordCount }}
-{{ with .Description }}{{ $articleSchema = merge $articleSchema (dict
-"description" .) }}{{ end }} {{ with .PublishDate }}{{ $articleSchema = merge
-$articleSchema (dict "datePublished" (.Format $iso8601)) }}{{ end }} {{ with
-.Lastmod }}{{ $articleSchema = merge $articleSchema (dict "dateModified"
-(.Format $iso8601)) }}{{ end }} {{ $schemaGraph = $schemaGraph | append
-$articleSchema }} {{ end }} {{/* 5. Specialized Schemas */}} {{/* Blog schema
-moved here to keep a single consolidated graph */}} {{ if and (not .IsHome)
-.File (in .File.Path "blog") }} {{ $iso8601 := "2006-01-02T15:04:05-07:00" }} {{
-$blogArticle := dict "@type" (slice "Article" "MedicalWebPage"
-"MedicalScholarlyArticle") "@id" (printf "%s#article" .Permalink) "headline"
-.Title "name" .Title "description" (cond (ne .Description "") .Description
-(.Summary | truncate 160)) "url" .Permalink "mainEntityOfPage" (dict "@type"
-"WebPage" "@id" .Permalink) "datePublished" (.Date.Format $iso8601)
-"dateModified" (.Lastmod.Format $iso8601) "author" (dict "@type" "Person" "@id"
-(printf "%s#physician" .Site.BaseURL) "name" "Doç. Dr. Habib ÇİL" "url"
-.Site.BaseURL) "publisher" (dict "@type" "Organization" "name" "Doç. Dr. Habib
-ÇİL - Kardiyoloji Kliniği" "url" .Site.BaseURL) "inLanguage" .Site.Language.Lang
-"isPartOf" (dict "@id" (printf "%s#website" site.Home.Permalink)) "wordCount"
-.WordCount }} {{ $schemaGraph = $schemaGraph | append $blogArticle }} {{ end }}
-{{/* Homepage services ItemList (was previously emitted as separate JSON-LD)
-*/}} {{ if .IsHome }} {{ $itemList := dict "@type" "ItemList" "@id" (printf
-"%s#services" .Permalink) "name" (cond (eq .Site.Language.Lang "tr") "Tüm
-Kardiyoloji Hizmetleri" (cond (eq .Site.Language.Lang "ar") "جميع خدمات أمراض
-القلب" "All Cardiology Services")) "description" (cond (eq .Site.Language.Lang
-"tr") "İleri seviye girişimsel prosedürlerle kapsamlı kardiyovasküler bakım
-hizmetleri" (cond (eq .Site.Language.Lang "ar") "رعاية شاملة للقلب والأوعية
-الدموية مع إجراءات تداخلية متقدمة" "Comprehensive cardiovascular care with
-advanced interventional procedures")) }} {{ $schemaGraph = $schemaGraph | append
-$itemList }} {{ end }} {{/* 6. Integrate Specialized Partials */}} {{/*
-Scholarly Article */}} {{ with partial "schema-scholarly.html" . }} {{ if . }}{{
-$schemaGraph = $schemaGraph | append . }}{{ end }} {{ end }} {{/* FAQ Page */}}
-{{ with partial "schema-faq.html" . }} {{ if . }}{{ $schemaGraph = $schemaGraph
-| append . }}{{ end }} {{ end }} {{/* Medical Procedure (Returns a slice) */}}
-{{ with partial "schema-procedure.html" . }} {{ range . }} {{ $schemaGraph =
-$schemaGraph | append . }} {{ end }} {{ end }} {{/* 6. Output the Graph */}}
+*/}}
+
+{{ $schemaGraph := slice }}
+{{ $iso8601 := "2006-01-02T15:04:05-07:00" }}
+{{ $websiteID := printf "%s#website" site.Home.Permalink }}
+{{ $physicianID := printf "%s#physician" site.BaseURL }}
+{{ $clinicID := printf "%s#clinic" site.BaseURL }}
+
+{{/* 1. WebSite Schema */}}
+{{ $websiteSchema := dict 
+    "@type" "WebSite" 
+    "@id" $websiteID 
+    "name" site.Title 
+    "url" site.Home.Permalink 
+    "publisher" (dict "@id" $physicianID)
+    "inLanguage" (site.LanguageCode | default "tr-TR")
+}}
+{{ with site.Params.description }}{{ $websiteSchema = merge $websiteSchema (dict "description" .) }}{{ end }}
+{{ $schemaGraph = $schemaGraph | append $websiteSchema }}
+
+{{/* 2. Physician / Person Schema (Core Entity) */}}
+{{/* Bu bölüm her sayfada bulunur çünkü 'author' veya 'publisher' olarak referans verilir */}}
+{{ $physician := dict 
+    "@type" (slice "Person" "Physician") 
+    "@id" $physicianID 
+    "name" "Doç. Dr. Habib ÇİL" 
+    "givenName" "Habib" 
+    "familyName" "ÇİL" 
+    "honorificPrefix" "Doç. Dr." 
+    "jobTitle" (cond (eq site.Language.Lang "tr") "Kardiyoloji Uzmanı" (cond (eq site.Language.Lang "ar") "أخصائي أمراض القلب" "Cardiology Specialist")) 
+    "description" (cond (eq site.Language.Lang "tr") "İstanbul'da Kardiyoloji Uzmanı. Bacak damarlarını açma, diyabetik ayak tedavisi ve TAVI uzmanı." (cond (eq site.Language.Lang "ar") "أخصائي أمراض القلب في إسطنبول. خبير في فتح شرايين الساق، وعلاج القدم السكري." "Cardiology Specialist in Istanbul. Expert in leg artery opening and TAVI.")) 
+    "url" site.BaseURL 
+    "image" (printf "%simg/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp" site.BaseURL) 
+    "telephone" "+90 212 665 50 50" 
+    "email" "habibcilmd@gmail.com" 
+    "gender" "Male" 
+    "medicalSpecialty" (slice "http://schema.org/Cardiovascular") 
+    "sameAs" (slice 
+        "https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul" 
+        "https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul" 
+        "https://www.instagram.com/doc.dr.habibcil" 
+        "https://wa.me/905339454639"
+    ) 
+}}
+{{ $schemaGraph = $schemaGraph | append $physician }}
+
+{{/* 3. MedicalBusiness (Clinic) Schema - Sadece Anasayfada veya İletişimde */}}
+{{ if or .IsHome (eq .Params.translationKey "contact") }}
+    {{ $clinic := dict 
+        "@type" "MedicalBusiness" 
+        "@id" $clinicID 
+        "name" "Doç. Dr. Habib ÇİL - Kardiyoloji Kliniği" 
+        "url" site.BaseURL 
+        "telephone" "+90 212 665 50 50" 
+        "priceRange" "$$$"
+        "address" (dict 
+            "@type" "PostalAddress" 
+            "streetAddress" "Beştelsiz Mah. 101. Sokak No:107" 
+            "addressLocality" "Zeytinburnu" 
+            "addressRegion" "İstanbul" 
+            "postalCode" "34020" 
+            "addressCountry" "TR" 
+        ) 
+        "geo" (dict "@type" "GeoCoordinates" "latitude" 41.0082 "longitude" 28.9784) 
+        "openingHoursSpecification" (slice 
+            (dict "@type" "OpeningHoursSpecification" "dayOfWeek" (slice "Monday" "Tuesday" "Wednesday" "Thursday" "Friday") "opens" "09:00" "closes" "18:00") 
+            (dict "@type" "OpeningHoursSpecification" "dayOfWeek" "Saturday" "opens" "09:00" "closes" "14:00") 
+        )
+    }}
+    {{ $schemaGraph = $schemaGraph | append $clinic }}
+{{ end }}
+
+{{/* 4. Breadcrumb Schema (Tüm sayfalar, Anasayfa hariç) */}}
+{{ if and (not .IsHome) (site.Params.enableStructuredBreadcrumbs | default true) }}
+    {{ $itemListElement := slice }}
+    {{ $itemListElement = $itemListElement | append (dict "@type" "ListItem" "position" 1 "name" site.Title "item" site.Home.Permalink) }}
+    {{ range $index, $element := .Ancestors.Reverse }}
+        {{ if not .IsHome }}
+            {{ $itemListElement = $itemListElement | append (dict "@type" "ListItem" "position" (add $index 2) "name" .Title "item" .Permalink) }}
+        {{ end }}
+    {{ end }}
+    {{ $itemListElement = $itemListElement | append (dict "@type" "ListItem" "position" (add (len $itemListElement) 1) "name" .Title "item" .Permalink) }}
+    
+    {{ $breadcrumbSchema := dict 
+        "@type" "BreadcrumbList" 
+        "@id" (printf "%s#breadcrumb" .Permalink) 
+        "itemListElement" $itemListElement 
+    }}
+    {{ $schemaGraph = $schemaGraph | append $breadcrumbSchema }}
+{{ end }}
+
+{{/* 5. Article & Blog Schema Logic */}}
+{{ $isBlog := in .Path "blog" }}
+{{ $isService := or (in .Path "hizmetler") (in .Path "services") (in .Path "klinik") (in .Path "clinic") }}
+
+{{ if and (not .IsHome) (not $isService) }}
+    {{ $pageType := cond $isBlog (slice "BlogPosting" "MedicalWebPage") "Article" }}
+    {{ $articleSchema := dict 
+        "@type" $pageType 
+        "@id" (printf "%s#article" .Permalink) 
+        "isPartOf" (dict "@id" $websiteID) 
+        "author" (dict "@id" $physicianID) 
+        "publisher" (dict "@id" $physicianID)
+        "headline" .Title 
+        "mainEntityOfPage" (dict "@id" .Permalink) 
+        "url" .Permalink 
+        "datePublished" (.PublishDate.Format $iso8601) 
+        "dateModified" (.Lastmod.Format $iso8601) 
+        "wordCount" .WordCount 
+        "inLanguage" site.Language.Lang
+    }}
+    {{ with .Params.image }}{{ $articleSchema = merge $articleSchema (dict "image" (absURL .)) }}{{ end }}
+    {{ with .Description }}{{ $articleSchema = merge $articleSchema (dict "description" .) }}{{ end }}
+    
+    {{ $schemaGraph = $schemaGraph | append $articleSchema }}
+{{ end }}
+
+{{/* 6. Homepage ItemList (Hizmetler listesi) */}}
+{{ if .IsHome }}
+    {{ $itemList := dict 
+        "@type" "ItemList" 
+        "@id" (printf "%s#services" .Permalink) 
+        "name" (cond (eq site.Language.Lang "tr") "Kardiyoloji Hizmetleri" "Cardiology Services")
+        "description" (cond (eq site.Language.Lang "tr") "Girişimsel kardiyoloji ve tedavi hizmetleri" "Interventional cardiology services")
+    }}
+    {{ $schemaGraph = $schemaGraph | append $itemList }}
+{{ end }}
+
+{{/* 7. External Partial Integration (FAQ, Scholarly, Procedure) */}}
+{{/* FAQ */}}
+{{ with partial "schema-faq.html" . }}
+    {{ if . }}{{ $schemaGraph = $schemaGraph | append . }}{{ end }}
+{{ end }}
+
+{{/* Scholarly Article */}}
+{{ with partial "schema-scholarly.html" . }}
+    {{ if . }}{{ $schemaGraph = $schemaGraph | append . }}{{ end }}
+{{ end }}
+
+{{/* Medical Procedure */}}
+{{ with partial "schema-procedure.html" . }}
+    {{ range . }}
+        {{/* Prosedürleri Kliniğe veya Doktora bağla */}}
+        {{ $proc := merge . (dict "performer" (dict "@id" $physicianID)) }}
+        {{ $schemaGraph = $schemaGraph | append $proc }}
+    {{ end }}
+{{ end }}
+
+{{/* OUTPUT */}}
 <script type="application/ld+json">
-	{
-	  "@context": "https://schema.org",
-	  "@graph": {{ $schemaGraph | jsonify }}
-	}
+    {
+      "@context": "https://schema.org",
+      "@graph": {{ $schemaGraph | jsonify | safeJS }}
+    }
 </script>

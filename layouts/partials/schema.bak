@@ -1,90 +1,160 @@
-{{/*
+{{/* 
 =============================================================================
 Dr. Habib ÇİL - Unified Schema Generation (@graph)
-Replaces fragile $skipSchema logic with a robust graph-based approach.
-Collects all schemas into a single JSON-LD script.
+Açıklama: Tüm şemaları tek bir JSON-LD içinde birleştirir ve @id'ler ile bağlar.
 =============================================================================
 */}}
-{{ $schemaGraph := slice }}
 
-{{/* 1. WebSite Schema (Global) */}}
-{{ $websiteSchema := dict
-"@type" "WebSite"
-"@id" (printf "%s#website" site.Home.Permalink)
-"name" site.Title
-"url" site.Home.Permalink
-"publisher" (dict "@type" "Person" "name" site.Params.Author.name)
+{{ $schemaGraph := slice }}
+{{ $iso8601 := "2006-01-02T15:04:05-07:00" }}
+{{ $websiteID := printf "%s#website" site.Home.Permalink }}
+{{ $physicianID := printf "%s#physician" site.BaseURL }}
+{{ $clinicID := printf "%s#clinic" site.BaseURL }}
+
+{{/* 1. WebSite Schema */}}
+{{ $websiteSchema := dict 
+    "@type" "WebSite" 
+    "@id" $websiteID 
+    "name" site.Title 
+    "url" site.Home.Permalink 
+    "publisher" (dict "@id" $physicianID)
+    "inLanguage" (site.LanguageCode | default "tr-TR")
 }}
-{{ with .Site.Params.description }}{{ $websiteSchema = merge $websiteSchema (dict "description" .) }}{{ end }}
-{{ with .Site.LanguageCode }}{{ $websiteSchema = merge $websiteSchema (dict "inLanguage" .) }}{{ end }}
+{{ with site.Params.description }}{{ $websiteSchema = merge $websiteSchema (dict "description" .) }}{{ end }}
 {{ $schemaGraph = $schemaGraph | append $websiteSchema }}
 
-{{/* 2. Breadcrumb Schema (All Pages except Home) */}}
-{{ if and (not .IsHome) (site.Params.enableStructuredBreadcrumbs | default false) }}
-{{ $breadcrumbs := slice }}
-{{ range .Ancestors }}
-{{ if not .IsHome }}
-{{ $breadcrumbs = $breadcrumbs | append . }}
-{{ end }}
-{{ end }}
-{{ $breadcrumbs = $breadcrumbs | append . }}
-
-{{ $itemListElement := slice }}
-{{ range $index, $element := $breadcrumbs }}
-{{ $itemListElement = $itemListElement | append (dict
-"@type" "ListItem"
-"position" (add $index 1)
-"name" .Title
-"item" .Permalink
-) }}
-{{ end }}
-
-{{ $breadcrumbSchema := dict
-"@type" "BreadcrumbList"
-"@id" (printf "%s#breadcrumb" .Permalink)
-"itemListElement" $itemListElement
+{{/* 2. Physician / Person Schema (Core Entity) */}}
+{{/* Bu bölüm her sayfada bulunur çünkü 'author' veya 'publisher' olarak referans verilir */}}
+{{ $physician := dict 
+    "@type" (slice "Person" "Physician") 
+    "@id" $physicianID 
+    "name" "Doç. Dr. Habib ÇİL" 
+    "givenName" "Habib" 
+    "familyName" "ÇİL" 
+    "honorificPrefix" "Doç. Dr." 
+    "jobTitle" (cond (eq site.Language.Lang "tr") "Kardiyoloji Uzmanı" (cond (eq site.Language.Lang "ar") "أخصائي أمراض القلب" "Cardiology Specialist")) 
+    "description" (cond (eq site.Language.Lang "tr") "İstanbul'da Kardiyoloji Uzmanı. Bacak damarlarını açma, diyabetik ayak tedavisi ve TAVI uzmanı." (cond (eq site.Language.Lang "ar") "أخصائي أمراض القلب في إسطنبول. خبير في فتح شرايين الساق، وعلاج القدم السكري." "Cardiology Specialist in Istanbul. Expert in leg artery opening and TAVI.")) 
+    "url" site.BaseURL 
+    "image" (printf "%simg/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp" site.BaseURL) 
+    "telephone" "+90 212 665 50 50" 
+    "email" "habibcilmd@gmail.com" 
+    "gender" "Male" 
+    "medicalSpecialty" (slice "http://schema.org/Cardiovascular") 
+    "sameAs" (slice 
+        "https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul" 
+        "https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul" 
+        "https://www.instagram.com/doc.dr.habibcil" 
+        "https://wa.me/905339454639"
+    ) 
 }}
-{{ $schemaGraph = $schemaGraph | append $breadcrumbSchema }}
+{{ $schemaGraph = $schemaGraph | append $physician }}
+
+{{/* 3. MedicalBusiness (Clinic) Schema - Sadece Anasayfada veya İletişimde */}}
+{{ if or .IsHome (eq .Params.translationKey "contact") }}
+    {{ $clinic := dict 
+        "@type" "MedicalBusiness" 
+        "@id" $clinicID 
+        "name" "Doç. Dr. Habib ÇİL - Kardiyoloji Kliniği" 
+        "url" site.BaseURL 
+        "telephone" "+90 212 665 50 50" 
+        "priceRange" "$$$"
+        "address" (dict 
+            "@type" "PostalAddress" 
+            "streetAddress" "Beştelsiz Mah. 101. Sokak No:107" 
+            "addressLocality" "Zeytinburnu" 
+            "addressRegion" "İstanbul" 
+            "postalCode" "34020" 
+            "addressCountry" "TR" 
+        ) 
+        "geo" (dict "@type" "GeoCoordinates" "latitude" 41.0082 "longitude" 28.9784) 
+        "openingHoursSpecification" (slice 
+            (dict "@type" "OpeningHoursSpecification" "dayOfWeek" (slice "Monday" "Tuesday" "Wednesday" "Thursday" "Friday") "opens" "09:00" "closes" "18:00") 
+            (dict "@type" "OpeningHoursSpecification" "dayOfWeek" "Saturday" "opens" "09:00" "closes" "14:00") 
+        )
+    }}
+    {{ $schemaGraph = $schemaGraph | append $clinic }}
 {{ end }}
 
-{{/* 3. Article Schema (Standard Pages) */}}
-{{/* Logic: If NOT a specialized page (service, clinic, blog, publication), add generic Article */}}
-{{ $isSpecializedPage := false }}
-{{ if or (in .Path "blog") (in .Path "hizmetler") (in .Path "services") (in .Path "klinik") (in .Path "clinic") (eq
-.Section "yayinlar") }}
-{{ $isSpecializedPage = true }}
+{{/* 4. Breadcrumb Schema (Tüm sayfalar, Anasayfa hariç) */}}
+{{ if and (not .IsHome) (site.Params.enableStructuredBreadcrumbs | default true) }}
+    {{ $itemListElement := slice }}
+    {{ $itemListElement = $itemListElement | append (dict "@type" "ListItem" "position" 1 "name" site.Title "item" site.Home.Permalink) }}
+    {{ range $index, $element := .Ancestors.Reverse }}
+        {{ if not .IsHome }}
+            {{ $itemListElement = $itemListElement | append (dict "@type" "ListItem" "position" (add $index 2) "name" .Title "item" .Permalink) }}
+        {{ end }}
+    {{ end }}
+    {{ $itemListElement = $itemListElement | append (dict "@type" "ListItem" "position" (add (len $itemListElement) 1) "name" .Title "item" .Permalink) }}
+    
+    {{ $breadcrumbSchema := dict 
+        "@type" "BreadcrumbList" 
+        "@id" (printf "%s#breadcrumb" .Permalink) 
+        "itemListElement" $itemListElement 
+    }}
+    {{ $schemaGraph = $schemaGraph | append $breadcrumbSchema }}
 {{ end }}
 
-{{ if and (not .IsHome) (not $isSpecializedPage) }}
-{{ $iso8601 := "2006-01-02T15:04:05-07:00" }}
-{{ $articleSchema := dict
-"@type" "Article"
-"@id" (printf "%s#article" .Permalink)
-"isPartOf" (dict "@id" (printf "%s#website" site.Home.Permalink))
-"headline" .Title
-"name" .Title
-"mainEntityOfPage" .Permalink
-"url" .Permalink
-"author" (dict "@type" "Person" "name" site.Params.Author.name)
-"wordCount" .WordCount
-}}
-{{ with .Description }}{{ $articleSchema = merge $articleSchema (dict "description" .) }}{{ end }}
-{{ with .PublishDate }}{{ $articleSchema = merge $articleSchema (dict "datePublished" (.Format $iso8601)) }}{{ end }}
-{{ with .Lastmod }}{{ $articleSchema = merge $articleSchema (dict "dateModified" (.Format $iso8601)) }}{{ end }}
+{{/* 5. Article & Blog Schema Logic */}}
+{{ $isBlog := in .Path "blog" }}
+{{ $isService := or (in .Path "hizmetler") (in .Path "services") (in .Path "klinik") (in .Path "clinic") }}
 
-{{ $schemaGraph = $schemaGraph | append $articleSchema }}
+{{ if and (not .IsHome) (not $isService) }}
+    {{ $pageType := cond $isBlog (slice "BlogPosting" "MedicalWebPage") "Article" }}
+    {{ $articleSchema := dict 
+        "@type" $pageType 
+        "@id" (printf "%s#article" .Permalink) 
+        "isPartOf" (dict "@id" $websiteID) 
+        "author" (dict "@id" $physicianID) 
+        "publisher" (dict "@id" $physicianID)
+        "headline" .Title 
+        "mainEntityOfPage" (dict "@id" .Permalink) 
+        "url" .Permalink 
+        "datePublished" (.PublishDate.Format $iso8601) 
+        "dateModified" (.Lastmod.Format $iso8601) 
+        "wordCount" .WordCount 
+        "inLanguage" site.Language.Lang
+    }}
+    {{ with .Params.image }}{{ $articleSchema = merge $articleSchema (dict "image" (absURL .)) }}{{ end }}
+    {{ with .Description }}{{ $articleSchema = merge $articleSchema (dict "description" .) }}{{ end }}
+    
+    {{ $schemaGraph = $schemaGraph | append $articleSchema }}
 {{ end }}
 
-{{/* 4. Output the Graph */}}
+{{/* 6. Homepage ItemList (Hizmetler listesi) */}}
+{{ if .IsHome }}
+    {{ $itemList := dict 
+        "@type" "ItemList" 
+        "@id" (printf "%s#services" .Permalink) 
+        "name" (cond (eq site.Language.Lang "tr") "Kardiyoloji Hizmetleri" "Cardiology Services")
+        "description" (cond (eq site.Language.Lang "tr") "Girişimsel kardiyoloji ve tedavi hizmetleri" "Interventional cardiology services")
+    }}
+    {{ $schemaGraph = $schemaGraph | append $itemList }}
+{{ end }}
+
+{{/* 7. External Partial Integration (FAQ, Scholarly, Procedure) */}}
+{{/* FAQ */}}
+{{ with partial "schema-faq.html" . }}
+    {{ if . }}{{ $schemaGraph = $schemaGraph | append . }}{{ end }}
+{{ end }}
+
+{{/* Scholarly Article */}}
+{{ with partial "schema-scholarly.html" . }}
+    {{ if . }}{{ $schemaGraph = $schemaGraph | append . }}{{ end }}
+{{ end }}
+
+{{/* Medical Procedure */}}
+{{ with partial "schema-procedure.html" . }}
+    {{ range . }}
+        {{/* Prosedürleri Kliniğe veya Doktora bağla */}}
+        {{ $proc := merge . (dict "performer" (dict "@id" $physicianID)) }}
+        {{ $schemaGraph = $schemaGraph | append $proc }}
+    {{ end }}
+{{ end }}
+
+{{/* OUTPUT */}}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": {{ $schemaGraph | jsonify }}
-}
+    {
+      "@context": "https://schema.org",
+      "@graph": {{ $schemaGraph | jsonify | safeJS }}
+    }
 </script>
-
-{{/* Include Specialized Partials - These usually output their own
-<script> tags */}}
-  { { partial "schema-scholarly.html". } }
-  { { partial "schema-procedure.html". } }
-  { { partial "schema-faq.html". } }
