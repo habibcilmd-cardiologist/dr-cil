@@ -29,7 +29,6 @@ faq:
 This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
 {{< /alert >}}
 
-
 Cardiac CT (Computed Tomography) is non-invasive imaging of the heart and coronary arteries. It has an important place in screening and evaluating coronary artery disease.
 
 ## What is Cardiac CT?
@@ -154,8 +153,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to cardiac CT:
 
--   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
+-   [Cardiac Angiography](/en/services/angiography/) - Coronary artery imaging
 -   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
 -   [Myocardial Perfusion]({{< relref "myocardial-perfusion" >}}) - Myocardial perfusion scintigraphy
 -   [Exercise Stress Test]({{< relref "exercise-stress-test" >}}) - Exercise stress test
--   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease
+-   [Coronary Artery Disease](false/) - About coronary artery disease

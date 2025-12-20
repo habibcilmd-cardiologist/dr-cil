@@ -176,4 +176,4 @@ Other diagnostic tests related to stress echocardiography:
 -   [Exercise Stress Test]({{< relref "exercise-stress-test" >}}) - Exercise stress test
 -   [Myocardial Perfusion]({{< relref "myocardial-perfusion" >}}) - Myocardial perfusion scintigraphy
 -   [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography
--   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease
+-   [Coronary Artery Disease](false/) - About coronary artery disease

@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   {{- $pages := where .Site.AllPages "Kind" "in" (slice "page" "section" "taxonomy" "term" "home") }}
+  {{- /* NOTE: Do not filter percent-encoded URLs here.
+        Arabic content and other valid pages can legitimately contain percent-encoding.
+        For Turkish taxonomy hygiene we fix slugs at the content level instead. */ -}}
   {{- range $pages }}
   {{- if eq .Language.Lang $.Site.Language.Lang }}
   {{- if and (not .Params.private) (not .Params.excludeFromSearch) (not .Draft) }}
@@ -16,19 +19,13 @@
     {{- if ge .Sitemap.Priority 0.0 }}
     <priority>{{ .Sitemap.Priority }}</priority>
     {{- end }}
-    {{- if .IsTranslated }}
-    {{- range .Translations }}
-    <xhtml:link
-      rel="alternate"
-      hreflang="{{ .Language.LanguageCode }}"
-      href="{{ .Permalink }}"
-    />
+    {{- $p := . -}}
+    {{- /* Emit one alternate per language: self + each translation, no duplicates. */ -}}
+    <xhtml:link rel="alternate" hreflang="{{ $p.Language.LanguageCode }}" href="{{ $p.Permalink }}" />
+    {{- if $p.IsTranslated }}
+    {{- range $p.Translations }}
+    <xhtml:link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
     {{- end }}
-    <xhtml:link
-      rel="alternate"
-      hreflang="{{ .Language.LanguageCode }}"
-      href="{{ .Permalink }}"
-    />
     {{- end }}
   </url>
   {{- end }}

@@ -4,7 +4,7 @@ theme = "blowfish"
 
 defaultContentLanguage = "tr"
 defaultContentLanguageInSubdir = false
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableInlineShortcodes = true
 
 # Build Performance
@@ -23,6 +23,17 @@ buildDrafts = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[segments]
+  [segments.sitemaps]
+    [[segments.sitemaps.includes]]
+      kind = "home"
+    [[segments.sitemaps.includes]]
+      kind = "section"
+    [[segments.sitemaps.includes]]
+      kind = "taxonomy"
+    [[segments.sitemaps.includes]]
+      kind = "term"
 
 [markup]
   [markup.goldmark]

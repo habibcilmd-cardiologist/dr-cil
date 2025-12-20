@@ -181,7 +181,7 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other diagnostic tests related to echocardiography:
 
--   [Surface Echocardiography](/en/blog/surface-echocardiography/) - Transthoracic echo
+-   [Surface Echocardiography](/en/blog/surface-echocardiography-tte-heart-ultrasound-guide/) - Transthoracic echo
 -   [Stress Echocardiography]({{< relref "stress-echocardiography" >}}) - Exercise echo
 -   [EKG]({{< relref "ekg" >}}) - Electrocardiography
 -   [Holter]({{< relref "holter" >}}) - 24-hour rhythm monitoring

@@ -55,6 +55,7 @@ Aşağıdaki formu doldurarak bize ulaşabilirsiniz. En kısa sürede size dön�
 
 <form name="contact-tr" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="space-y-4">
   <input type="hidden" name="form-name" value="contact-tr" />
+  <input type="hidden" name="subject" value="Yeni İletişim Formu Mesajı - TR" />
   <p class="hidden">
     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
   </p>

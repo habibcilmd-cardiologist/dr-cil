@@ -606,14 +606,3 @@ MitraClip veya triküspid kapak müdahalesi değerlendirmesi için randevu almak
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 
 📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
-
----
-
-## İlgili Kapak Tedavileri
-
--   [TAVI - Ameliyatsız Aort Kapak Değişimi](/tr/hizmetler/tavi/)
--   [Mitral Kapak Hastalıkları](/tr/hizmetler/mitral-kapak/)
--   [Triküspid Kapak Hastalıkları](/tr/hizmetler/trikuspid-kapak/)
--   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/)
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/)
--   [Kalp Yetmezliği Tedavisi](/tr/hizmetler/kalp-yetmezligi/)

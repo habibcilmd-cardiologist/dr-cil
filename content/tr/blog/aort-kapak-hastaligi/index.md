@@ -164,9 +164,6 @@ Aort kapak hastalığı değerlendirmesi için randevu almak isterseniz:
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
-
-## İlgili Kapak Tedavileri
-
 Aort kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
 
 -   [TAVI](/tr/hizmetler/tavi/) - Transkateter aort kapak implantasyonu

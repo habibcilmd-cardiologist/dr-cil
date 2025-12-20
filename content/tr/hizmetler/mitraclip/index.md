@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 MitraClip, ciddi mitral yetersizliğinin kateter yoluyla tedavi edilmesidir. Açık kalp cerrahisine alternatif minimal invaziv bir yöntemdir.
 
 ## MitraClip Nedir?
@@ -169,6 +168,6 @@ MitraClip ile bağlantılı diğer yapısal kalp tedavileri:
 
 -   [Mitral Kapak]({{< relref "mitral-kapak" >}}) - Mitral kapak hastalıkları hakkında
 -   [TAVI]({{< relref "tavi" >}}) - Transkateter aort kapak implantasyonu
--   [Balon Valvüloplasti]({{< relref "balon-valvuloplasti" >}}) - Kapak balonla genişletme
+-   [Balon Valvüloplasti]({{< relref "hizmetler/balon-valvuloplasti" >}}) - Kapak balonla genişletme
 -   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kapak değerlendirmesi
 -   [Kalp Yetmezliği]({{< relref "kalp-yetmezligi" >}}) - Kalp yetmezliği tedavisi

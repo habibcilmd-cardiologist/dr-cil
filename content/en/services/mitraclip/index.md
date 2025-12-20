@@ -169,8 +169,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other structural heart treatments related to MitraClip:
 
--   [Mitral Valve](/en/blog/mitral-valve/) - About mitral valve diseases
+-   [Mitral Valve](/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/) - About mitral valve diseases
 -   [TAVI]({{< relref "tavi" >}}) - Transcatheter aortic valve implantation
--   [Balloon Valvuloplasty](/en/blog/balloon-valvuloplasty/) - Balloon valve dilation
+-   [Balloon Valvuloplasty](/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/) - Balloon valve dilation
 -   [Echocardiography]({{< relref "echocardiography" >}}) - Valve assessment
 -   [Heart Failure]({{< relref "heart-failure" >}}) - Heart failure treatment

@@ -4,29 +4,29 @@ description: "What is tricuspid valve disease? Comprehensive information about s
 date: 2024-12-05
 lastmod: 2024-12-05
 draft: false
-translationKey: tricuspid-valve
+translationKey: blog-tricuspid-valve
 categories:
-- Cardiology
+    - Cardiology
 tags:
-- Tricuspid Valve
-- Valve Regurgitation
-- Transcatheter Intervention
-- TriClip
-- PASCAL
+    - Tricuspid Valve
+    - Valve Regurgitation
+    - Transcatheter Intervention
+    - TriClip
+    - PASCAL
 author: Assoc. Prof. Dr. Habib ÇİL
 featured_image: featured.svg
 showTableOfContents: true
 faq:
-- question: "Is tricuspid regurgitation dangerous?"
-  answer: "Severe tricuspid regurgitation can lead to right heart failure. Treatment is important."
-- question: "What are the symptoms of tricuspid valve disease?"
-  answer: "Leg swelling, abdominal swelling, fatigue, and shortness of breath are the main symptoms."
-- question: "How is tricuspid regurgitation treated?"
-  answer: "Medical treatment, surgical repair or replacement, transcatheter interventions can be applied."
-- question: "Is tricuspid valve surgery risky?"
-  answer: "Isolated tricuspid surgery is high risk. Therefore, transcatheter treatments are being developed."
-- question: "Can tricuspid regurgitation resolve on its own?"
-  answer: "Functional regurgitation may decrease if the underlying cause is treated."
+    - question: "Is tricuspid regurgitation dangerous?"
+      answer: "Severe tricuspid regurgitation can lead to right heart failure. Treatment is important."
+    - question: "What are the symptoms of tricuspid valve disease?"
+      answer: "Leg swelling, abdominal swelling, fatigue, and shortness of breath are the main symptoms."
+    - question: "How is tricuspid regurgitation treated?"
+      answer: "Medical treatment, surgical repair or replacement, transcatheter interventions can be applied."
+    - question: "Is tricuspid valve surgery risky?"
+      answer: "Isolated tricuspid surgery is high risk. Therefore, transcatheter treatments are being developed."
+    - question: "Can tricuspid regurgitation resolve on its own?"
+      answer: "Functional regurgitation may decrease if the underlying cause is treated."
 ---
 
 {{< alert type="info" >}}
@@ -142,12 +142,14 @@ Modern treatment methods developed for patients who are high risk for surgery, p
 
 **1. TriClip (Edge-to-Edge Repair):**
 It is the adaptation of the MitraClip technology used for the mitral valve to the tricuspid valve. It is an approved method for patients with high surgical risk.
+
 -   **How it Works:** The heart is accessed via the groin and the tricuspid valve leaflets are clipped together.
 -   **Mechanism of Action:** The valve opening is reduced by the "clipping" method, reducing backward leakage (regurgitation).
 -   **Advantage:** It is a non-surgical, minimally invasive method. Detailed studies show safety and improved quality of life in high-risk patients.
 
 **2. PASCAL System:**
 It is an "edge-to-edge repair" system similar to TriClip but with a different design.
+
 -   **Difference:** It contains a "spacer" placed between the leaflets. This design reduces stress on the leaflets and provides a larger grasping surface.
 -   **Usage Area:** It may be preferred in anatomies with a wide gap between leaflets or where leaflets are very mobile.
 
@@ -155,6 +157,7 @@ It is an "edge-to-edge repair" system similar to TriClip but with a different de
 This field is advancing rapidly with devices having different mechanisms:
 
 -   **Caval Valve Implantation (CAVI):** This method does not repair the tricuspid valve itself; instead, it places valve(s) in the Vena Cava (main veins).
+
     -   **Goal:** To relieve symptoms like swelling (edema) by preventing backflow to the liver and legs.
     -   **For Whom:** Used for "palliative" (symptomatic relief) purposes in patients with very high surgical risk who are anatomically unsuitable for valve repair/replacement.
 
@@ -189,9 +192,6 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
-
-## Related Articles
-
 Other topics related to tricuspid valve disease:
 
 -   [Mitral Valve Disease](/blog/mitral-valve/) - Mitral valve diseases

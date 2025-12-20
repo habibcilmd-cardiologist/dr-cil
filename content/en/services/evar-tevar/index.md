@@ -201,7 +201,7 @@ Coverage of the left subclavian artery may be necessary. In this case:
 
 Other peripheral vascular treatments related to EVAR:
 
--   [Abdominal Aortic Aneurysm](/en/blog/abdominal-aortic-aneurysm/) - Aortic aneurysm treatment
+-   [Abdominal Aortic Aneurysm](false/) - Aortic aneurysm treatment
 -   [Peripheral Vascular]({{< relref "peripheral-vascular" >}}) - Peripheral vascular disease
 -   [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography
 -   [Angiography]({{< relref "angiography" >}}) - General angiography procedures

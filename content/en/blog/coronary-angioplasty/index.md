@@ -1,30 +1,30 @@
 ---
-title: 'Coronary Angioplasty and Stent: Complete Vessel Opening Procedure Guide'
+title: "Coronary Angioplasty and Stent: Complete Vessel Opening Procedure Guide"
 description: What is coronary angioplasty? Comprehensive information about opening blocked vessels with balloon and stent, procedure stages, stent types, complications and long-term results.
 date: 2024-12-10
 lastmod: 2024-12-10
-translationKey: coronary-angioplasty
+translationKey: blog-coronary-angioplasty
 categories:
-- Cardiology
-- Interventional Cardiology
+    - Cardiology
+    - Interventional Cardiology
 tags:
-- Angioplasty
-- Stent
-- Coronary Intervention
+    - Angioplasty
+    - Stent
+    - Coronary Intervention
 author: Assoc. Prof. Dr. Habib ÇİL
 showTableOfContents: true
 featured: featured.svg
 faq:
-- question: Is angioplasty a painful procedure?
-  answer: The procedure is performed under local anesthesia and sedation, so no pain is felt. A brief pressure sensation in the chest may occur when the balloon is inflated, but this lasts only a few seconds.
-- question: How long should I take medication after stent?
-  answer: Aspirin for life, second antiplatelet drug (clopidogrel, ticagrelor, or prasugrel) usually for 6-12 months. Duration is adjusted according to individual risk assessment.
-- question: Can I have MRI after stent placement?
-  answer: Yes, modern stents are MRI compatible. MRI can be safely performed 6 weeks after the procedure.
-- question: Can I exercise after stent?
-  answer: Yes, exercise is possible after the recovery period. Safe exercise level is determined through cardiac rehabilitation program.
-- question: Does the stent stay for life?
-  answer: Yes, the stent is permanent and integrates into the vessel wall over time. It is accepted by the body and does not affect normal life.
+    - question: Is angioplasty a painful procedure?
+      answer: The procedure is performed under local anesthesia and sedation, so no pain is felt. A brief pressure sensation in the chest may occur when the balloon is inflated, but this lasts only a few seconds.
+    - question: How long should I take medication after stent?
+      answer: Aspirin for life, second antiplatelet drug (clopidogrel, ticagrelor, or prasugrel) usually for 6-12 months. Duration is adjusted according to individual risk assessment.
+    - question: Can I have MRI after stent placement?
+      answer: Yes, modern stents are MRI compatible. MRI can be safely performed 6 weeks after the procedure.
+    - question: Can I exercise after stent?
+      answer: Yes, exercise is possible after the recovery period. Safe exercise level is determined through cardiac rehabilitation program.
+    - question: Does the stent stay for life?
+      answer: Yes, the stent is permanent and integrates into the vessel wall over time. It is accepted by the body and does not affect normal life.
 ---
 
 {{< alert type="info" >}}
@@ -113,11 +113,11 @@ The procedure is performed in the catheterization laboratory:
 
 Stent types used in modern cardiology:
 
-| Stent Type              | Feature                   | Usage Area                   |
-| ----------------------- | ------------------------- | ---------------------------- |
-| Drug-Eluting Stent (DES)| Low restenosis rate       | Standard choice              |
-| Bare Metal Stent (BMS)  | Short-term antiplatelet   | High bleeding risk patients  |
-| Bioresorbable Stent     | Dissolves over time       | Selected young patients      |
+| Stent Type               | Feature                 | Usage Area                  |
+| ------------------------ | ----------------------- | --------------------------- |
+| Drug-Eluting Stent (DES) | Low restenosis rate     | Standard choice             |
+| Bare Metal Stent (BMS)   | Short-term antiplatelet | High bleeding risk patients |
+| Bioresorbable Stent      | Dissolves over time     | Selected young patients     |
 
 ## Complex Angioplasty Procedures
 

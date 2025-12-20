@@ -31,18 +31,20 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 EVAR (Endovasküler Anevrizma Onarımı) ve TEVAR (Torasik Endovasküler Aort Onarımı), aort anevrizmasının kateter yoluyla tedavi edilmesidir. Açık cerrahiye alternatif minimal invaziv yöntemlerdir.
 
 ## EVAR ve TEVAR Nedir?
 
 ### EVAR (Endovascular Aneurysm Repair)
+
 EVAR, **abdominal (karın) aort anevrizması** tedavisinde kullanılır. Kasıktan girilerek karın bölgesindeki aort anevrizmasına stent-greft yerleştirilir.
 
 ### TEVAR (Thoracic Endovascular Aortic Repair)
+
 TEVAR, **torasik (göğüs) aort anevrizması** ve **aort diseksiyonu** tedavisinde kullanılır. Kasıktan girilerek göğüs bölgesindeki aorta stent-greft yerleştirilir.
 
 **Ortak Avantajlar:**
+
 -   Açık cerrahi gerektirmez
 -   Minimal invaziv
 -   Daha kısa hastane kalışı
@@ -51,22 +53,24 @@ TEVAR, **torasik (göğüs) aort anevrizması** ve **aort diseksiyonu** tedavisi
 
 ## EVAR vs TEVAR: Temel Farklar
 
-| Özellik | EVAR | TEVAR |
-| ------- | ---- | ----- |
-| **Tedavi Bölgesi** | Abdominal (karın) aort | Torasik (göğüs) aort |
-| **Endikasyonlar** | AAA (Abdominal Aort Anevrizması) | TAA, Tip B Diseksiyon, Travmatik aort yaralanması |
-| **Kritik Yapılar** | Böbrek arterleri, iliak arterler | Subklaviyen arter, spinal kord |
-| **Komplikasyon Riski** | Böbrek hasarı, bacak iskemisi | Parapleji, inme riski |
-| **Stent-Greft Tipi** | Bifurkasyonlu (çatallı) | Düz tübüler |
+| Özellik                | EVAR                             | TEVAR                                             |
+| ---------------------- | -------------------------------- | ------------------------------------------------- |
+| **Tedavi Bölgesi**     | Abdominal (karın) aort           | Torasik (göğüs) aort                              |
+| **Endikasyonlar**      | AAA (Abdominal Aort Anevrizması) | TAA, Tip B Diseksiyon, Travmatik aort yaralanması |
+| **Kritik Yapılar**     | Böbrek arterleri, iliak arterler | Subklaviyen arter, spinal kord                    |
+| **Komplikasyon Riski** | Böbrek hasarı, bacak iskemisi    | Parapleji, inme riski                             |
+| **Stent-Greft Tipi**   | Bifurkasyonlu (çatallı)          | Düz tübüler                                       |
 
 ## EVAR Endikasyonları (Abdominal Aort)
 
 ### Anatomik Kriterler
+
 -   Uygun proksimal boyun
 -   Yeterli iliak arter çapı
 -   Uygun açılanma
 
 ### Hasta Kriterleri
+
 -   Anevrizma çapı ≥5.5 cm (erkek)
 -   Anevrizma çapı ≥5.0 cm (kadın)
 -   Hızlı büyüyen anevrizma
@@ -75,11 +79,13 @@ TEVAR, **torasik (göğüs) aort anevrizması** ve **aort diseksiyonu** tedavisi
 ## TEVAR Endikasyonları (Torasik Aort)
 
 ### Anatomik Kriterler
+
 -   İnen torasik aort anevrizması
 -   Uygun proksimal ve distal landing zone
 -   Yeterli erişim damarı
 
 ### Hasta Kriterleri
+
 -   Torasik anevrizma çapı ≥5.5-6.0 cm
 -   Tip B aort diseksiyonu (komplike)
 -   Penetran aort ülseri
@@ -88,13 +94,13 @@ TEVAR, **torasik (göğüs) aort anevrizması** ve **aort diseksiyonu** tedavisi
 
 ### EVAR vs Açık Cerrahi
 
-| Özellik        | EVAR/TEVAR     | Açık Cerrahi  |
-| -------------- | -------------- | ------------- |
+| Özellik        | EVAR/TEVAR     | Açık Cerrahi        |
+| -------------- | -------------- | ------------------- |
 | Kesi           | Küçük (kasık)  | Büyük (karın/göğüs) |
-| Anestezi       | Lokal/Bölgesel | Genel         |
-| Hastane kalışı | 2-3 gün        | 7-10 gün      |
-| İyileşme       | 2-4 hafta      | 6-12 hafta    |
-| Takip          | Düzenli BT     | Daha az sık   |
+| Anestezi       | Lokal/Bölgesel | Genel               |
+| Hastane kalışı | 2-3 gün        | 7-10 gün            |
+| İyileşme       | 2-4 hafta      | 6-12 hafta          |
+| Takip          | Düzenli BT     | Daha az sık         |
 
 ## EVAR/TEVAR Öncesi Değerlendirme
 
@@ -134,13 +140,17 @@ Toplam süre: 1-3 saat
 ## TEVAR'a Özel Konular
 
 ### Spinal Kord Koruması
+
 TEVAR'da en önemli komplikasyonlardan biri parapleji (felç) riskidir. Bu riski azaltmak için:
+
 -   Spinal drenaj (gerektiğinde)
 -   Kan basıncı kontrolü
 -   Kademeli stentleme
 
 ### Subklaviyen Arter Yönetimi
+
 Sol subklaviyen arterin örtülmesi gerekebilir. Bu durumda:
+
 -   Önceden bypass yapılabilir
 -   Paralel stent (chimney) tekniği kullanılabilir
 
@@ -154,12 +164,14 @@ Sol subklaviyen arterin örtülmesi gerekebilir. Bu durumda:
 -   Organ perfüzyonu korunması
 
 ### EVAR Komplikasyonları
+
 -   Endoleak (en sık)
 -   Stent migrasyonu
 -   Bacak trombozu
 -   Böbrek hasarı
 
 ### TEVAR Komplikasyonları
+
 -   Parapleji/paraparezi
 -   İnme
 -   Endoleak
@@ -209,4 +221,4 @@ EVAR ve TEVAR ile bağlantılı diğer tedaviler:
 -   [Periferik Damar]({{< relref "periferik-damar" >}}) - Periferik damar hastalıkları
 -   [Kardiyak BT]({{< relref "kardiyak-bt" >}}) - Bilgisayarlı tomografi
 -   [Kardiyak Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Damar görüntüleme
--   [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar hastalığı
+-   [Alt Ekstremite Arter Hastalığı]({{< relref "hizmetler/alt-ekstremite-arter-hastaligi" >}}) - Bacak damar hastalığı

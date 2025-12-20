@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 Karotis arter stenozu, beyni besleyen ana damarların daralmasıdır ve inmenin en önemli nedenlerinden biridir. Türkiye'de her yıl yaklaşık 200.000 inme vakası görülmekte olup, bunların önemli bir kısmı karotis hastalığına bağlıdır.
 
 ## Karotis Arter Stenozu Nedir?
@@ -213,6 +212,6 @@ Karotis stenozu ile bağlantılı diğer tedaviler:
 
 -   [Periferik Damar]({{< relref "periferik-damar" >}}) - Periferik damar hastalıkları
 -   [Renal Arter Stenozu]({{< relref "renal-arter-stenozu" >}}) - Böbrek damarı darlığı
--   [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar hastalığı
+-   [Alt Ekstremite Arter Hastalığı]({{< relref "hizmetler/alt-ekstremite-arter-hastaligi" >}}) - Bacak damar hastalığı
 -   [Hipertansiyon]({{< relref "hipertansiyon" >}}) - Yüksek tansiyon tedavisi
--   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı
+-   [Koroner Arter Hastalığı]({{< relref "hizmetler/koroner-arter-hastaligi" >}}) - Koroner arter hastalığı

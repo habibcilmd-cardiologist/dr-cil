@@ -37,11 +37,11 @@ Kalp deliği, kalbin odacıkları arasındaki duvarlarda (septum) bulunan açık
 
 **Kalp Deliği Tipleri:**
 
-| Tip | Tam Adı | Lokalizasyon |
-|-----|---------|--------------|
-| **ASD** | Atrial Septal Defekt | Kulakçıklar arası |
-| **VSD** | Ventriküler Septal Defekt | Karıncıklar arası |
-| **PFO** | Patent Foramen Ovale | Kulakçıklar arası (fetal kapanmamış) |
+| Tip     | Tam Adı                   | Lokalizasyon                         |
+| ------- | ------------------------- | ------------------------------------ |
+| **ASD** | Atrial Septal Defekt      | Kulakçıklar arası                    |
+| **VSD** | Ventriküler Septal Defekt | Karıncıklar arası                    |
+| **PFO** | Patent Foramen Ovale      | Kulakçıklar arası (fetal kapanmamış) |
 
 ### Normal Kalp Anatomisi
 
@@ -60,9 +60,10 @@ Kalp deliği, kalbin odacıkları arasındaki duvarlarda (septum) bulunan açık
 ```
 
 **Defektlerde:**
-- ASD: LA-RA arası açıklık
-- VSD: LV-RV arası açıklık
-- PFO: LA-RA arası fetal açıklık
+
+-   ASD: LA-RA arası açıklık
+-   VSD: LV-RV arası açıklık
+-   PFO: LA-RA arası fetal açıklık
 
 ## Atrial Septal Defekt (ASD)
 
@@ -72,53 +73,59 @@ ASD, kalbin iki kulakçığı (atriyum) arasındaki duvarda bulunan deliktir. Do
 
 ### ASD Tipleri
 
-| Tip | Sıklık | Kapatılabilirlik |
-|-----|--------|------------------|
-| **Sekundum** | %75 | Kateter ile ✓ |
-| **Primum** | %15-20 | Cerrahi |
-| **Sinus Venozus** | %5-10 | Cerrahi |
-| **Koroner Sinüs** | <%1 | Cerrahi |
+| Tip               | Sıklık | Kapatılabilirlik |
+| ----------------- | ------ | ---------------- |
+| **Sekundum**      | %75    | Kateter ile ✓    |
+| **Primum**        | %15-20 | Cerrahi          |
+| **Sinus Venozus** | %5-10  | Cerrahi          |
+| **Koroner Sinüs** | <%1    | Cerrahi          |
 
 **Sekundum ASD:**
-- En sık tip
-- Fossa ovalis bölgesinde
-- Kateter ile kapatmaya en uygun
+
+-   En sık tip
+-   Fossa ovalis bölgesinde
+-   Kateter ile kapatmaya en uygun
 
 ### ASD Belirtileri
 
 **Çocukluk Çağında:**
-- Genellikle asemptomatik
-- Sık solunum yolu enfeksiyonu
-- Büyüme geriliği (ciddi olgular)
+
+-   Genellikle asemptomatik
+-   Sık solunum yolu enfeksiyonu
+-   Büyüme geriliği (ciddi olgular)
 
 **Erişkin Dönemde:**
-- Egzersiz intoleransı
-- Çarpıntı (atriyal fibrilasyon)
-- Nefes darlığı
-- Yorgunluk
-- Paradoks emboli riski
+
+-   Egzersiz intoleransı
+-   Çarpıntı (atriyal fibrilasyon)
+-   Nefes darlığı
+-   Yorgunluk
+-   Paradoks emboli riski
 
 ### ASD Komplikasyonları
 
 Tedavi edilmezse:
-- Pulmoner hipertansiyon
-- Sağ kalp yetmezliği
-- Atriyal fibrilasyon/flutter
-- Paradoks emboli (inme)
-- Eisenmenger sendromu (ileri evre)
+
+-   Pulmoner hipertansiyon
+-   Sağ kalp yetmezliği
+-   Atriyal fibrilasyon/flutter
+-   Paradoks emboli (inme)
+-   Eisenmenger sendromu (ileri evre)
 
 ### ASD Tanısı
 
 **Ekokardiyografi:**
-- Transtorasik (TTE): İlk değerlendirme
-- Transözofageal (TEE): Detaylı anatomi
-- Defekt boyutu ve lokalizasyonu
-- Rim (kenar) değerlendirmesi
+
+-   Transtorasik (TTE): İlk değerlendirme
+-   Transözofageal (TEE): Detaylı anatomi
+-   Defekt boyutu ve lokalizasyonu
+-   Rim (kenar) değerlendirmesi
 
 **ASD Kapatma Kriterleri:**
-- Defekt çapı: 5-38 mm
-- Yeterli rim (kenar): ≥5 mm
-- Qp/Qs >1.5 (anlamlı şant)
+
+-   Defekt çapı: 5-38 mm
+-   Yeterli rim (kenar): ≥5 mm
+-   Qp/Qs >1.5 (anlamlı şant)
 
 ## Ventriküler Septal Defekt (VSD)
 
@@ -128,32 +135,34 @@ VSD, kalbin iki karıncığı (ventrikül) arasındaki duvarda bulunan deliktir.
 
 ### VSD Tipleri
 
-| Tip | Lokalizasyon | Kateter |
-|-----|--------------|---------|
-| **Perimembranöz** | Membranöz septum | Seçili olgular |
-| **Musküler** | Musküler septum | ✓ |
-| **Outlet (Suprakristal)** | Çıkış yolu | Cerrahi |
-| **Inlet** | Giriş yolu | Cerrahi |
+| Tip                       | Lokalizasyon     | Kateter        |
+| ------------------------- | ---------------- | -------------- |
+| **Perimembranöz**         | Membranöz septum | Seçili olgular |
+| **Musküler**              | Musküler septum  | ✓              |
+| **Outlet (Suprakristal)** | Çıkış yolu       | Cerrahi        |
+| **Inlet**                 | Giriş yolu       | Cerrahi        |
 
 ### VSD Belirtileri
 
 **Küçük VSD:**
-- Asemptomatik
-- Sadece üfürüm
+
+-   Asemptomatik
+-   Sadece üfürüm
 
 **Orta-Büyük VSD:**
-- Beslenme güçlüğü
-- Terleme
-- Sık solunum yolu enfeksiyonu
-- Büyüme geriliği
-- Kalp yetmezliği
+
+-   Beslenme güçlüğü
+-   Terleme
+-   Sık solunum yolu enfeksiyonu
+-   Büyüme geriliği
+-   Kalp yetmezliği
 
 ### VSD Tedavi Endikasyonları
 
-- Qp/Qs >1.5
-- Sol ventrikül dilatasyonu
-- Kalp yetmezliği bulguları
-- İnfektif endokardit öyküsü
+-   Qp/Qs >1.5
+-   Sol ventrikül dilatasyonu
+-   Kalp yetmezliği bulguları
+-   İnfektif endokardit öyküsü
 
 ## Patent Foramen Ovale (PFO)
 
@@ -162,9 +171,10 @@ VSD, kalbin iki karıncığı (ventrikül) arasındaki duvarda bulunan deliktir.
 PFO, fetal dönemde anne karnında açık olan ve doğumdan sonra kapanması gereken kulakçıklar arası geçidin kapanmamış halidir.
 
 **Epidemiyoloji:**
-- Genel popülasyonun **%25**'inde
-- Çoğunlukla asemptomatik
-- Kriptojenik inmede **%40-50** sıklık
+
+-   Genel popülasyonun **%25**'inde
+-   Çoğunlukla asemptomatik
+-   Kriptojenik inmede **%40-50** sıklık
 
 ### PFO ve İnme İlişkisi
 
@@ -183,72 +193,77 @@ Bacak Venleri → DVT
 ```
 
 **Risk Artıran PFO Özellikleri:**
-- Büyük PFO (>2 mm)
-- Atriyal septal anevrizma
-- Belirgin sağ-sol şant
-- Hipermobil septum
+
+-   Büyük PFO (>2 mm)
+-   Atriyal septal anevrizma
+-   Belirgin sağ-sol şant
+-   Hipermobil septum
 
 ### PFO Kapatma Endikasyonları
 
 **Kesin Endikasyonlar:**
-- Kriptojenik inme + PFO
-- Yaş <60
-- Diğer inme nedenleri dışlanmış
-- RoPE skoru yüksek
+
+-   Kriptojenik inme + PFO
+-   Yaş <60
+-   Diğer inme nedenleri dışlanmış
+-   RoPE skoru yüksek
 
 **RoPE (Risk of Paradoxical Embolism) Skoru:**
 
-| Özellik | Puan |
-|---------|------|
-| Hipertansiyon yok | +1 |
-| Diyabet yok | +1 |
-| İnme/TIA öyküsü yok | +1 |
-| Sigara yok | +1 |
-| Kortikal infarkt | +1 |
-| Yaş 18-29 | +5 |
-| Yaş 30-39 | +4 |
-| Yaş 40-49 | +3 |
-| Yaş 50-59 | +2 |
-| Yaş 60-69 | +1 |
-| Yaş ≥70 | 0 |
+| Özellik             | Puan |
+| ------------------- | ---- |
+| Hipertansiyon yok   | +1   |
+| Diyabet yok         | +1   |
+| İnme/TIA öyküsü yok | +1   |
+| Sigara yok          | +1   |
+| Kortikal infarkt    | +1   |
+| Yaş 18-29           | +5   |
+| Yaş 30-39           | +4   |
+| Yaş 40-49           | +3   |
+| Yaş 50-59           | +2   |
+| Yaş 60-69           | +1   |
+| Yaş ≥70             | 0    |
 
 **RoPE ≥7:** PFO kapatma önerilir
 
 ### PFO ve Migren
 
-- Auralı migren ile PFO ilişkisi
-- Bazı hastalarda kapatma sonrası düzelme
-- Rutin endikasyon değil
+-   Auralı migren ile PFO ilişkisi
+-   Bazı hastalarda kapatma sonrası düzelme
+-   Rutin endikasyon değil
 
 ## Kateter ile Kapatma İşlemi
 
 ### İşlem Öncesi Hazırlık
 
 **Değerlendirme:**
-- Transözofageal ekokardiyografi (TEE)
-- Defekt boyutu ve anatomisi
-- Rim (kenar) değerlendirmesi
-- Pulmoner basınç ölçümü
+
+-   Transözofageal ekokardiyografi (TEE)
+-   Defekt boyutu ve anatomisi
+-   Rim (kenar) değerlendirmesi
+-   Pulmoner basınç ölçümü
 
 **Hasta Hazırlığı:**
-- Açlık (6-8 saat)
-- İlaç değerlendirmesi
-- Antibiyotik profilaksisi
+
+-   Açlık (6-8 saat)
+-   İlaç değerlendirmesi
+-   Antibiyotik profilaksisi
 
 ### Kapatma Cihazları
 
 **ASD/PFO Occluder Cihazları:**
 
-| Cihaz | Özellik |
-|-------|---------|
+| Cihaz                     | Özellik              |
+| ------------------------- | -------------------- |
 | Amplatzer Septal Occluder | En yaygın, çift disk |
-| Gore Cardioform | Esnek, düşük profil |
-| Occlutech | Nitinol örgü |
-| Figulla Flex | Esnek yapı |
+| Gore Cardioform           | Esnek, düşük profil  |
+| Occlutech                 | Nitinol örgü         |
+| Figulla Flex              | Esnek yapı           |
 
 **VSD Occluder:**
-- Amplatzer VSD Occluder
-- Musküler ve perimembranöz tipler
+
+-   Amplatzer VSD Occluder
+-   Musküler ve perimembranöz tipler
 
 ### İşlem Tekniği
 
@@ -266,128 +281,132 @@ Bacak Venleri → DVT
 
 ### İşlem Süresi ve Yatış
 
-- İşlem süresi: 1-2 saat
-- Yatış: 1 gece
-- Taburculuk: Ertesi gün
+-   İşlem süresi: 1-2 saat
+-   Yatış: 1 gece
+-   Taburculuk: Ertesi gün
 
 ## Tedavi Sonuçları
 
 ### ASD Kapatma
 
-| Parametre | Sonuç |
-|-----------|-------|
-| Teknik başarı | %95-98 |
-| Tam kapanma | %98 (6 ay) |
-| Komplikasyon | <%2 |
-| Uzun dönem başarı | >%95 |
+| Parametre         | Sonuç      |
+| ----------------- | ---------- |
+| Teknik başarı     | %95-98     |
+| Tam kapanma       | %98 (6 ay) |
+| Komplikasyon      | <%2        |
+| Uzun dönem başarı | >%95       |
 
 ### PFO Kapatma
 
-| Parametre | Sonuç |
-|-----------|-------|
-| Teknik başarı | %98-99 |
-| Tam kapanma | %95+ |
-| İnme rekürrensi | %1-2/yıl (vs %5 medikal) |
-| NNT | 20 (5 yılda 1 inme önleme) |
+| Parametre       | Sonuç                      |
+| --------------- | -------------------------- |
+| Teknik başarı   | %98-99                     |
+| Tam kapanma     | %95+                       |
+| İnme rekürrensi | %1-2/yıl (vs %5 medikal)   |
+| NNT             | 20 (5 yılda 1 inme önleme) |
 
 ### VSD Kapatma
 
-| Parametre | Sonuç |
-|-----------|-------|
-| Teknik başarı (musküler) | %95 |
-| Teknik başarı (perimembranöz) | %90 |
-| Rezidüel şant | %5-10 |
+| Parametre                     | Sonuç |
+| ----------------------------- | ----- |
+| Teknik başarı (musküler)      | %95   |
+| Teknik başarı (perimembranöz) | %90   |
+| Rezidüel şant                 | %5-10 |
 
 ## İşlem Sonrası Bakım
 
 ### İlaç Tedavisi
 
 **İlk 6 ay:**
-- Aspirin (100 mg/gün)
-- Klopidogrel (75 mg/gün) - ilk 1-3 ay
+
+-   Aspirin (100 mg/gün)
+-   Klopidogrel (75 mg/gün) - ilk 1-3 ay
 
 **6 aydan sonra:**
-- Aspirin monoterapisi (6 ay - 1 yıl)
+
+-   Aspirin monoterapisi (6 ay - 1 yıl)
 
 ### Endokardit Profilaksisi
 
-- İlk 6 ay: Gerekli
-- 6 ay sonra: Tam kapanma varsa gerekli değil
+-   İlk 6 ay: Gerekli
+-   6 ay sonra: Tam kapanma varsa gerekli değil
 
 ### Takip Programı
 
-| Zaman | Değerlendirme |
-|-------|---------------|
-| 1. ay | TTE |
-| 6. ay | TTE veya TEE |
-| 1. yıl | TTE |
-| Sonra | Yıllık TTE |
+| Zaman  | Değerlendirme |
+| ------ | ------------- |
+| 1. ay  | TTE           |
+| 6. ay  | TTE veya TEE  |
+| 1. yıl | TTE           |
+| Sonra  | Yıllık TTE    |
 
 ### Aktivite Kısıtlamaları
 
-- İlk 1 hafta: Ağır aktivite yok
-- İlk 1 ay: Kontakt sporlar yok
-- 1 aydan sonra: Normal aktivite
+-   İlk 1 hafta: Ağır aktivite yok
+-   İlk 1 ay: Kontakt sporlar yok
+-   1 aydan sonra: Normal aktivite
 
 ## Komplikasyonlar
 
 ### İşlem Sırasında
 
-| Komplikasyon | Sıklık | Yönetim |
-|--------------|--------|---------|
-| Cihaz embolizasyonu | <%1 | Perkütan retrieval |
-| Aritmi (geçici) | %5-10 | Genellikle kendiliğinden |
-| Hava embolisi | Nadir | Destek tedavi |
-| Kardiyak perforasyon | <%0.5 | Perikardiyosentez/cerrahi |
+| Komplikasyon         | Sıklık | Yönetim                   |
+| -------------------- | ------ | ------------------------- |
+| Cihaz embolizasyonu  | <%1    | Perkütan retrieval        |
+| Aritmi (geçici)      | %5-10  | Genellikle kendiliğinden  |
+| Hava embolisi        | Nadir  | Destek tedavi             |
+| Kardiyak perforasyon | <%0.5  | Perikardiyosentez/cerrahi |
 
 ### Erken Dönem
 
-- Erişim yeri hematom: Kompresyon
-- Baş ağrısı: Sık, geçici
-- Göğüs ağrısı: Hafif, geçici
+-   Erişim yeri hematom: Kompresyon
+-   Baş ağrısı: Sık, geçici
+-   Göğüs ağrısı: Hafif, geçici
 
 ### Geç Dönem
 
-- Cihaz erozyonu: <%0.1
-- Trombüs oluşumu: Nadir (antiplatelet ile)
-- Rezidüel şant: %5 (genellikle klinik önemi yok)
-- Yeni aritmiler: Nadir
+-   Cihaz erozyonu: <%0.1
+-   Trombüs oluşumu: Nadir (antiplatelet ile)
+-   Rezidüel şant: %5 (genellikle klinik önemi yok)
+-   Yeni aritmiler: Nadir
 
 ## Özel Durumlar
 
 ### Büyük ASD
 
-- Defekt >38 mm: Cerrahi tercih
-- Yetersiz rim: Cerrahi
-- Çoklu defekt: Deneyimli merkezlerde kateter
+-   Defekt >38 mm: Cerrahi tercih
+-   Yetersiz rim: Cerrahi
+-   Çoklu defekt: Deneyimli merkezlerde kateter
 
 ### Atriyal Septal Anevrizma + PFO
 
-- Her ikisi birden kapatılabilir
-- İnme riski daha yüksek
-- Kapatma sonrası prognoz iyi
+-   Her ikisi birden kapatılabilir
+-   İnme riski daha yüksek
+-   Kapatma sonrası prognoz iyi
 
 ### Dalış ve Uçuş
 
 **PFO + Dalış:**
-- Dekompresyon hastalığı riski ↑
-- Profesyonel dalgıçlarda kapatma düşünülmeli
+
+-   Dekompresyon hastalığı riski ↑
+-   Profesyonel dalgıçlarda kapatma düşünülmeli
 
 **PFO + Pilot/Uçuş Personeli:**
-- Yüksek irtifa maruziyeti
-- Mesleki değerlendirme gerekli
+
+-   Yüksek irtifa maruziyeti
+-   Mesleki değerlendirme gerekli
 
 ## Kateter vs Cerrahi
 
-| Özellik | Kateter | Cerrahi |
-|---------|---------|---------|
-| Anestezi | Sedasyon/Genel | Genel |
-| Kesi | Yok | Sternotomi |
-| Hastane | 1 gün | 5-7 gün |
-| İyileşme | 1 hafta | 6-8 hafta |
-| Başarı | %95-98 | %99 |
-| Komplikasyon | <%2 | %2-5 |
-| Uygunluk | Sekundum ASD, PFO, Musküler VSD | Tüm tipler |
+| Özellik      | Kateter                         | Cerrahi    |
+| ------------ | ------------------------------- | ---------- |
+| Anestezi     | Sedasyon/Genel                  | Genel      |
+| Kesi         | Yok                             | Sternotomi |
+| Hastane      | 1 gün                           | 5-7 gün    |
+| İyileşme     | 1 hafta                         | 6-8 hafta  |
+| Başarı       | %95-98                          | %99        |
+| Komplikasyon | <%2                             | %2-5       |
+| Uygunluk     | Sekundum ASD, PFO, Musküler VSD | Tüm tipler |
 
 ## Sık Sorulan Sorular
 
@@ -411,7 +430,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Kalp deliği kapatma ile bağlantılı diğer hizmetler:
 
-- [TAVI]({{< relref "tavi" >}}) - Transkateter aort kapak implantasyonu
-- [MitraClip]({{< relref "mitraclip" >}}) - Mitral kapak tamiri
-- [Alkol Septal Ablasyon]({{< relref "alkol-septal-ablasyon" >}}) - HOKM tedavisi
-- [Balon Valvüloplasti]({{< relref "balon-valvuloplasti" >}}) - Kapak açma işlemi
+-   [TAVI]({{< relref "tavi" >}}) - Transkateter aort kapak implantasyonu
+-   [MitraClip]({{< relref "mitraclip" >}}) - Mitral kapak tamiri
+-   [Alkol Septal Ablasyon]({{< relref "alkol-septal-ablasyon" >}}) - HOKM tedavisi
+-   [Balon Valvüloplasti]({{< relref "hizmetler/balon-valvuloplasti" >}}) - Kapak açma işlemi

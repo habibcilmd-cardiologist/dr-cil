@@ -2,13 +2,11 @@ User-agent: *
 Allow: /
 Disallow: /search/
 Disallow: /admin/
-Disallow: /wp-admin/
-Disallow: /wp-login.php
+
 
 Crawl-delay: 2
 
 # Sitemap Indexes
 Sitemap: https://docdrhabibcil.com/sitemap.xml
-Sitemap: https://docdrhabibcil.com/sitemap-tr.xml
-Sitemap: https://docdrhabibcil.com/sitemap-en.xml
-Sitemap: https://docdrhabibcil.com/sitemap-ar.xml
+Sitemap: https://docdrhabibcil.com/en/sitemap.xml
+Sitemap: https://docdrhabibcil.com/ar/sitemap.xml

@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 Koroner anjiyografi, kalp damarlarının (koroner arterler) röntgen ışınları ve kontrast madde kullanılarak görüntülenmesidir. Bu işlem, koroner arter hastalığının tanısında altın standart olarak kabul edilir.
 
 ## Koroner Anjiyografi Nedir?
@@ -190,4 +189,4 @@ Anjiyografi ile bağlantılı diğer koroner işlemler:
 -   [Radyal Anjiyografi]({{< relref "radyal-anjiyografi" >}}) - Bilekten anjiyografi
 -   [Koroner Anjiyoplasti]({{< relref "koroner-anjiyoplasti" >}}) - Balon ve stent ile damar açma
 -   [Kardiyak Stent]({{< relref "kardiyak-stent" >}}) - İlaç salınımlı stent implantasyonu
--   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı hakkında
+-   [Koroner Arter Hastalığı]({{< relref "hizmetler/koroner-arter-hastaligi" >}}) - Koroner arter hastalığı hakkında

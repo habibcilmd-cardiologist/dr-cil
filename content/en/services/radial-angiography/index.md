@@ -29,7 +29,6 @@ faq:
 This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
 {{< /alert >}}
 
-
 Radial angiography is coronary angiography performed through the wrist (radial artery). It has many advantages over traditional groin (femoral) access.
 
 ## What is Radial Angiography?
@@ -154,8 +153,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to radial angiography:
 
--   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
--   [Coronary Angioplasty](/en/blog/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Angiography](/en/services/angiography/) - Coronary artery imaging
+-   [Coronary Angioplasty](/en/services/angioplasty/) - Balloon and stent vessel opening
 -   [Angiography]({{< relref "angiography" >}}) - General angiography procedures
--   [Cardiac Stent](/en/blog/cardiac-stent/) - Drug-eluting stent implantation
--   [PCI](/en/blog/percutaneous-coronary-intervention/) - Percutaneous coronary intervention
+-   [Cardiac Stent](/en/blog/cardiac-stent-drug-eluting-stent-implantation-guide/) - Drug-eluting stent implantation
+-   [PCI](/en/blog/pci-percutaneous-coronary-intervention-stent-treatment-guide/) - Percutaneous coronary intervention

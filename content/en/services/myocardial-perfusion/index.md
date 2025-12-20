@@ -29,7 +29,6 @@ faq:
 This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
 {{< /alert >}}
 
-
 Myocardial perfusion scintigraphy (MPS) is a nuclear medicine imaging method that evaluates blood flow to the heart muscle. It has high accuracy in diagnosing coronary artery disease.
 
 ## What is Myocardial Perfusion Scintigraphy?
@@ -165,5 +164,5 @@ Other diagnostic tests related to myocardial perfusion scintigraphy:
 -   [Exercise Stress Test]({{< relref "exercise-stress-test" >}}) - Exercise stress test
 -   [Stress Echocardiography]({{< relref "stress-echocardiography" >}}) - Exercise echo
 -   [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography
--   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
--   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease
+-   [Cardiac Angiography](/en/services/angiography/) - Coronary artery imaging
+-   [Coronary Artery Disease](false/) - About coronary artery disease

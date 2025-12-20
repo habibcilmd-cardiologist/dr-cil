@@ -175,9 +175,6 @@ Mitral kapak hastalığı değerlendirmesi için randevu almak isterseniz:
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
-
-## İlgili Kapak Tedavileri
-
 Mitral kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
 
 -   [MitraClip](/tr/hizmetler/mitraclip/) - Kateter ile mitral kapak tamiri

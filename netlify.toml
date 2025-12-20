@@ -17,10 +17,6 @@
 #   conditions = {Country = ["SA", "AE", "EG", "KW", "QA", "BH", "OM", "JO", "LB", "IQ", "YE", "SY", "PS", "DZ", "MA", "TN", "LY", "SD"]}
 
 # Redirect obsolete tr path to new file
-[[redirects]]
-  from = "/tr/sitemap.xml"
-  to = "/tr_sitemap.xml"
-  status = 301
   force = true
 
 

@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 Kalbiniz, vücudunuzdaki en önemli organlardan biri olarak her gün yaklaşık 100.000 kez atarak tüm organlarınıza kan pompalar. Ancak kalbi besleyen koroner damarlar tıkandığında, bu hayati organın bir bölümü oksijensiz kalır ve geri dönüşü olmayan hasarlar meydana gelebilir. İşte bu durum, tıpta **miyokard enfarktüsü**, halk arasında ise **kalp krizi** olarak bilinir.
 
 ## Miyokard Enfarktüsü Nedir?
@@ -201,6 +200,6 @@ Miyokard enfarktüsü ile bağlantılı diğer kardiyoloji hizmetleri:
 
 -   [Koroner Anjiyoplasti]({{< relref "koroner-anjiyoplasti" >}}) - Acil damar açma işlemi
 -   [Kardiyak Stent]({{< relref "kardiyak-stent" >}}) - Stent implantasyonu
--   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı hakkında
+-   [Koroner Arter Hastalığı]({{< relref "hizmetler/koroner-arter-hastaligi" >}}) - Koroner arter hastalığı hakkında
 -   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp fonksiyon değerlendirmesi
 -   [Kalp Yetmezliği]({{< relref "kalp-yetmezligi" >}}) - Kalp yetmezliği tedavisi

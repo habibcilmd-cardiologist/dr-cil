@@ -29,7 +29,6 @@ faq:
 This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
 {{< /alert >}}
 
-
 Your heart, one of the most vital organ in your body, beats approximately 100,000 times daily, pumping blood to every organ. When the coronary arteries that supply blood to the heart become blocked, this essential organ is deprived of oxygen, and irreversible damage can occur. This condition is medically known as **myocardial infarction**, commonly called a **heart attack**.
 
 ## What is Myocardial Infarction?
@@ -189,8 +188,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to myocardial infarction:
 
--   [Coronary Angioplasty](/en/blog/coronary-angioplasty/) - Balloon and stent vessel opening
--   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
--   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease
--   [Cardiac Stent](/en/blog/cardiac-stent/) - Drug-eluting stent implantation
--   [PCI](/en/blog/percutaneous-coronary-intervention/) - Percutaneous coronary intervention
+-   [Coronary Angioplasty](/en/services/angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Angiography](/en/services/angiography/) - Coronary artery imaging
+-   [Coronary Artery Disease](false/) - About coronary artery disease
+-   [Cardiac Stent](/en/blog/cardiac-stent-drug-eluting-stent-implantation-guide/) - Drug-eluting stent implantation
+-   [PCI](/en/blog/pci-percutaneous-coronary-intervention-stent-treatment-guide/) - Percutaneous coronary intervention

@@ -667,14 +667,3 @@ Book Appointment via WhatsApp
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 
 📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
-
----
-
-## Related Cardiology Services
-
--   [Heart Attack Treatment](/services/myocardial-infarction/)
--   [Angioplasty and Stent](/services/coronary-angioplasty/)
--   [Heart Failure Treatment](/services/heart-failure/)
--   [Exercise Stress Test](/services/exercise-stress-test/)
--   [Echocardiography](/services/echocardiography/)
--   [Nutritional Counseling](/services/nutritional-counseling/)

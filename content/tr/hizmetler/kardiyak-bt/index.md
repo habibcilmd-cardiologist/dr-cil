@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 Kardiyak BT (Bilgisayarlı Tomografi), kalp ve koroner arterlerin non-invaziv olarak görüntülenmesidir. Koroner arter hastalığının taranmasında ve değerlendirilmesinde önemli bir yere sahiptir.
 
 ## Kardiyak BT Nedir?
@@ -156,4 +155,4 @@ Kardiyak BT ile bağlantılı diğer kardiyoloji testleri:
 -   [Miyokard Perfüzyon]({{< relref "miyokard-perfuzyon" >}}) - Sintigrafi
 -   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonografisi
 -   [Efor Testi]({{< relref "efor-testi" >}}) - Egzersiz stres testi
--   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı
+-   [Koroner Arter Hastalığı]({{< relref "hizmetler/koroner-arter-hastaligi" >}}) - Koroner arter hastalığı

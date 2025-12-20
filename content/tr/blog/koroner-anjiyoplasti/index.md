@@ -1,30 +1,30 @@
 ---
-title: 'Koroner Anjiyoplasti ve Stent: Damar Açma İşlemi Rehberi'
+title: "Koroner Anjiyoplasti ve Stent: Damar Açma İşlemi Rehberi"
 description: Koroner anjiyoplasti nedir? Tıkalı damarların balon ve stent ile açılması, işlem aşamaları, stent tipleri, komplikasyonlar ve uzun dönem sonuçlar hakkında kapsamlı bilgi.
 date: 2024-12-10
 lastmod: 2024-12-10
-translationKey: coronary-angioplasty
+translationKey: blog-coronary-angioplasty
 categories:
-- Kardiyoloji
-- Girişimsel Kardiyoloji
+    - Kardiyoloji
+    - Girişimsel Kardiyoloji
 tags:
-- Anjiyoplasti
-- Stent
-- Koroner Girişim
+    - Anjiyoplasti
+    - Stent
+    - Koroner Girişim
 author: Doç. Dr. Habib ÇİL
 showTableOfContents: true
 featured: featured.svg
 faq:
-- question: Anjiyoplasti ağrılı bir işlem mi?
-  answer: İşlem lokal anestezi ve sedasyon altında yapılır, bu nedenle ağrı hissedilmez. Balon şişirilirken kısa süreli göğüste baskı hissi olabilir, ancak bu birkaç saniye sürer.
-- question: Stent sonrası ne kadar süre ilaç kullanmalıyım?
-  answer: Aspirin ömür boyu, ikinci antiplatelet ilaç (klopidogrel, tikagrelor veya prasugrel) genellikle 6-12 ay kullanılır. Süre bireysel risk değerlendirmesine göre ayarlanır.
-- question: Stent takıldıktan sonra MR çekilebilir mi?
-  answer: Evet, modern stentler MR uyumludur. İşlemden 6 hafta sonra güvenle MR çekilebilir.
-- question: Stent sonrası spor yapabilir miyim?
-  answer: Evet, iyileşme döneminden sonra spor yapılabilir. Kardiyak rehabilitasyon programı ile güvenli egzersiz düzeyi belirlenir.
-- question: Stent ömür boyu kalır mı?
-  answer: Evet, stent kalıcıdır ve zamanla damar duvarına entegre olur. Vücut tarafından kabul edilir ve normal yaşamı etkilemez.
+    - question: Anjiyoplasti ağrılı bir işlem mi?
+      answer: İşlem lokal anestezi ve sedasyon altında yapılır, bu nedenle ağrı hissedilmez. Balon şişirilirken kısa süreli göğüste baskı hissi olabilir, ancak bu birkaç saniye sürer.
+    - question: Stent sonrası ne kadar süre ilaç kullanmalıyım?
+      answer: Aspirin ömür boyu, ikinci antiplatelet ilaç (klopidogrel, tikagrelor veya prasugrel) genellikle 6-12 ay kullanılır. Süre bireysel risk değerlendirmesine göre ayarlanır.
+    - question: Stent takıldıktan sonra MR çekilebilir mi?
+      answer: Evet, modern stentler MR uyumludur. İşlemden 6 hafta sonra güvenle MR çekilebilir.
+    - question: Stent sonrası spor yapabilir miyim?
+      answer: Evet, iyileşme döneminden sonra spor yapılabilir. Kardiyak rehabilitasyon programı ile güvenli egzersiz düzeyi belirlenir.
+    - question: Stent ömür boyu kalır mı?
+      answer: Evet, stent kalıcıdır ve zamanla damar duvarına entegre olur. Vücut tarafından kabul edilir ve normal yaşamı etkilemez.
 ---
 
 {{< alert type="info" >}}

@@ -4,29 +4,29 @@ description: "Triküspid kapak hastalığı nedir? Belirtileri, tanısı, tedavi
 date: 2024-12-05
 lastmod: 2024-12-05
 draft: false
-translationKey: tricuspid-valve
+translationKey: blog-tricuspid-valve
 categories:
-- Kardiyoloji
+    - Kardiyoloji
 tags:
-- Triküspid Kapak
-- Kapak Yetersizliği
-- Transkateter Girişim
-- TriClip
-- PASCAL
+    - Triküspid Kapak
+    - Kapak Yetersizliği
+    - Transkateter Girişim
+    - TriClip
+    - PASCAL
 author: Doç. Dr. Habib ÇİL
 featured_image: featured.svg
 showTableOfContents: true
 faq:
-- question: "Triküspit yetersizliği tehlikeli mi?"
-  answer: "Ciddi triküspit yetersizliği sağ kalp yetmezliğine yol açabilir. Tedavi önemlidir."
-- question: "Triküspit kapak hastalığı belirtileri nelerdir?"
-  answer: "Bacaklarda şişlik, karında şişlik, yorgunluk ve nefes darlığı başlıca belirtilerdir."
-- question: "Triküspit yetersizliği nasıl tedavi edilir?"
-  answer: "Medikal tedavi, cerrahi tamir veya replasman, transkateter girişimler uygulanabilir."
-- question: "Triküspit kapak ameliyatı riskli mi?"
-  answer: "İzole triküspit cerrahisi yüksek risklidir. Bu nedenle transkateter tedaviler geliştirilmektedir."
-- question: "Triküspit yetersizliği kendiliğinden düzelir mi?"
-  answer: "Altta yatan neden tedavi edilirse fonksiyonel yetersizlik azalabilir."
+    - question: "Triküspit yetersizliği tehlikeli mi?"
+      answer: "Ciddi triküspit yetersizliği sağ kalp yetmezliğine yol açabilir. Tedavi önemlidir."
+    - question: "Triküspit kapak hastalığı belirtileri nelerdir?"
+      answer: "Bacaklarda şişlik, karında şişlik, yorgunluk ve nefes darlığı başlıca belirtilerdir."
+    - question: "Triküspit yetersizliği nasıl tedavi edilir?"
+      answer: "Medikal tedavi, cerrahi tamir veya replasman, transkateter girişimler uygulanabilir."
+    - question: "Triküspit kapak ameliyatı riskli mi?"
+      answer: "İzole triküspit cerrahisi yüksek risklidir. Bu nedenle transkateter tedaviler geliştirilmektedir."
+    - question: "Triküspit yetersizliği kendiliğinden düzelir mi?"
+      answer: "Altta yatan neden tedavi edilirse fonksiyonel yetersizlik azalabilir."
 ---
 
 {{< alert type="info" >}}
@@ -142,12 +142,14 @@ Cerrahi açıdan yüksek riskli olan hastalar için geliştirilen, göğüs aç�
 
 **1. TriClip (Uçtan Uca Tamir - Edge-to-Edge):**
 Mitral kapak için kullanılan MitraClip teknolojisinin triküspit kapağa uyarlanmış versiyonudur. Cerrahi riski yüksek hastalar için onaylanmış bir yöntemdir.
+
 -   **Nasıl Çalışır:** Kasıktan girilerek kalbe ulaşılır ve triküspit kapak yaprakçıkları (leafletler) birbirine tutturulur.
 -   **Etki Mekanizması:** "Mandallama" yöntemiyle kapak açıklığı küçültülür ve geriye doğru kaçak (yetersizlik) azaltılır.
 -   **Avantajı:** Ameliyatsız, minimal invaziv bir yöntemdir. Hastanede kalış süresi kısadır ve yüksek riskli hastalarda güvenle uygulanabilir.
 
 **2. PASCAL Sistemi:**
 TriClip'e benzer bir "uçtan uca tamir" sistemidir ancak tasarımı farklıdır.
+
 -   **Farkı:** Yaprakçıklar arasına yerleştirilen bir "spacer" (aralayıcı) içerir. Bu tasarım, yaprakçıklar üzerindeki stresi azaltır ve daha geniş bir tutunma yüzeyi sağlar.
 -   **Kullanım Alanı:** Yaprakçık aralığı geniş olan (gap) veya yaprakçıkların çok hareketli olduğu anatomilerde tercih sebebi olabilir.
 
@@ -155,6 +157,7 @@ TriClip'e benzer bir "uçtan uca tamir" sistemidir ancak tasarımı farklıdır.
 Bu alan hızla gelişmekte olup farklı mekanizmalara sahip cihazlar kullanılmaktadır:
 
 -   **Kaval Kapak İmplantasyonu (CAVI):** Bu yöntem triküspit kapağı onarmaz; bunun yerine Vena Kava (ana toplardamarlar) içine kapak yerleştirir.
+
     -   **Amaç:** Karaciğer ve bacaklara giden geri akımı (konjesyon) engelleyerek şişlik gibi semptomları hafifletmektir.
     -   **Kimler İçin:** Çok yüksek cerrahi risk taşıyan ve anatomik olarak kapak tamirine/değişimine uygun olmayan hastalarda "palyatif" (rahatlatıcı) amaçla kullanılır.
 
@@ -187,9 +190,6 @@ Triküspit kapak hastalığı değerlendirmesi için randevu almak isterseniz:
 ---
 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
-
-## İlgili Yazılar
-
 Triküspit kapak hastalığı ile bağlantılı diğer konular:
 
 -   [Mitral Kapak Hastalıkları](/tr/blog/mitral-kapak/) - Mitral kapak hastalıkları

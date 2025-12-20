@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 Pulmoner kapak hastalığı, **sağ ventrikül** ile **pulmoner arter** arasındaki kapağın işlev bozukluğudur. En sık iki formu görülür: **pulmoner darlık (stenoz)** ve **pulmoner yetersizlik (regürjitasyon)**.
 
 Bu sayfada, pulmoner kapak hastalığında kullanılan tedavi yaklaşımları (özellikle **balon valvüloplasti** ve seçilmiş hastalarda **kapak replasmanı/yerleştirilmesi**) tıbbi açıdan daha kapsamlı biçimde özetlenmiştir.
@@ -197,7 +196,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 Pulmoner kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
 
 -   [Triküspit Kapak]({{< relref "trikuspid-kapak" >}}) - Triküspit kapak hastalıkları
--   [Balon Valvüloplasti]({{< relref "balon-valvuloplasti" >}}) - Kapak balonla genişletme
+-   [Balon Valvüloplasti]({{< relref "hizmetler/balon-valvuloplasti" >}}) - Kapak balonla genişletme
 -   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kapak değerlendirmesi
 -   [Kalp Yetmezliği]({{< relref "kalp-yetmezligi" >}}) - Kalp yetmezliği tedavisi
 -   [EKG]({{< relref "ekg" >}}) - Elektrokardiyografi

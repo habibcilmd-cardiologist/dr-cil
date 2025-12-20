@@ -176,7 +176,7 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 Other diagnostic tests related to Holter monitoring:
 
 -   [EKG]({{< relref "ekg" >}}) - Electrocardiography
--   [Ambulatory Cardiac Monitoring](/en/blog/ambulatory-cardiac-monitoring/) - Extended rhythm monitoring
+-   [Ambulatory Cardiac Monitoring](/en/blog/ambulatory-cardiac-monitoring-outpatient-rhythm-monitoring-guide/) - Extended rhythm monitoring
 -   [Electrophysiology Study]({{< relref "electrophysiology-study" >}}) - Arrhythmia diagnosis
 -   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
 -   [Ablation]({{< relref "ablation" >}}) - Catheter ablation

@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 Efor testi, kalbin egzersiz sırasındaki performansını değerlendiren önemli bir tanı yöntemidir. Koroner arter hastalığının tespitinde yaygın olarak kullanılır.
 
 ## Efor Testi Nedir?
@@ -183,4 +182,4 @@ Efor testi ile birlikte uygulanan diğer kardiyoloji testleri:
 -   [Miyokard Perfüzyon]({{< relref "miyokard-perfuzyon" >}}) - Talyum testi
 -   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonu
 -   [Kardiyak Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Damar görüntüleme
--   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Hastalık bilgisi
+-   [Koroner Arter Hastalığı]({{< relref "hizmetler/koroner-arter-hastaligi" >}}) - Hastalık bilgisi

@@ -609,14 +609,3 @@ Book Appointment via WhatsApp
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, Istanbul
 
 📞 **Phone:** +90 212 665 50 50 (Ext: 4012)
-
----
-
-## Related Valve Treatments
-
--   [TAVI - Transcatheter Aortic Valve Replacement](/services/tavi/)
--   [Mitral Valve Disease](/services/mitral-valve/)
--   [Tricuspid Valve Disease](/services/tricuspid-valve/)
--   [Balloon Valvuloplasty](/services/balloon-valvuloplasty/)
--   [Echocardiography](/services/echocardiography/)
--   [Heart Failure Treatment](/services/heart-failure/)

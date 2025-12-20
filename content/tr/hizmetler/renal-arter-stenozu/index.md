@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 Renal arter stenozu, böbreği besleyen arterin daralmasıdır. Hipertansiyon ve böbrek yetmezliğine yol açabilir.
 
 ## Renal Arter Stenozu Nedir?
@@ -163,5 +162,5 @@ Renal arter stenozu ile bağlantılı diğer tedaviler:
 -   [Periferik Damar]({{< relref "periferik-damar" >}}) - Periferik damar hastalıkları
 -   [Karotis Stenozu]({{< relref "karotis-stenozu" >}}) - Şah damarı darlığı
 -   [Hipertansiyon]({{< relref "hipertansiyon" >}}) - Yüksek tansiyon tedavisi
--   [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar hastalığı
+-   [Alt Ekstremite Arter Hastalığı]({{< relref "hizmetler/alt-ekstremite-arter-hastaligi" >}}) - Bacak damar hastalığı
 -   [Kardiyak Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Damar görüntüleme

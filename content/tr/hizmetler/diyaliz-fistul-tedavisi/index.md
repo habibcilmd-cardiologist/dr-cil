@@ -37,11 +37,11 @@ Arteriyovenöz (AV) fistül, kronik böbrek yetmezliği hastalarında hemodiyali
 
 **AV Erişim Tipleri:**
 
-| Tip | Açıklama | Avantaj |
-|-----|----------|---------|
-| **AV Fistül** | Arter-ven direkt anastomozu | En uzun ömür, az enfeksiyon |
-| **AV Greft** | Sentetik tüp ile bağlantı | Hızlı kullanım, kolay kanülasyon |
-| **Santral Kateter** | Geçici erişim | Acil kullanım |
+| Tip                 | Açıklama                    | Avantaj                          |
+| ------------------- | --------------------------- | -------------------------------- |
+| **AV Fistül**       | Arter-ven direkt anastomozu | En uzun ömür, az enfeksiyon      |
+| **AV Greft**        | Sentetik tüp ile bağlantı   | Hızlı kullanım, kolay kanülasyon |
+| **Santral Kateter** | Geçici erişim               | Acil kullanım                    |
 
 **En Sık Kullanılan Fistül Lokalizasyonları:**
 
@@ -55,63 +55,66 @@ Arteriyovenöz (AV) fistül, kronik böbrek yetmezliği hastalarında hemodiyali
 
 **En sık neden - %80:**
 
-- **Venöz anastomoz stenozu:** Fistül çıkışında
-- **Juksta-anastomotik stenoz:** Anastomoz yakınında
-- **Santral ven stenozu:** Subklaviyan/innominate ven
+-   **Venöz anastomoz stenozu:** Fistül çıkışında
+-   **Juksta-anastomotik stenoz:** Anastomoz yakınında
+-   **Santral ven stenozu:** Subklaviyan/innominate ven
 
 ### Tromboz
 
-- Akut fistül tıkanması
-- Genellikle altta yatan stenoza bağlı
-- Düşük akım sonucu pıhtı oluşumu
+-   Akut fistül tıkanması
+-   Genellikle altta yatan stenoza bağlı
+-   Düşük akım sonucu pıhtı oluşumu
 
 ### Diğer Nedenler
 
-- Hipotansiyon (diyaliz sırası)
-- Aşırı kompresyon
-- Hiperkoagülabilite
-- Enfeksiyon
+-   Hipotansiyon (diyaliz sırası)
+-   Aşırı kompresyon
+-   Hiperkoagülabilite
+-   Enfeksiyon
 
 ## Fistül Sorunlarının Belirtileri
 
 ### Stenoz Bulguları
 
-- Diyaliz sırasında düşük akım
-- Uzamış kanama süresi
-- Fistül kolunda şişlik
-- Azalmış tril (vibrasyon)
-- Yüksek venöz basınç
+-   Diyaliz sırasında düşük akım
+-   Uzamış kanama süresi
+-   Fistül kolunda şişlik
+-   Azalmış tril (vibrasyon)
+-   Yüksek venöz basınç
 
 ### Tromboz Bulguları
 
-- Tril ve üfürüm kaybı
-- Sert, ağrılı fistül
-- Akut kol şişmesi
-- Diyaliz yapılamama
+-   Tril ve üfürüm kaybı
+-   Sert, ağrılı fistül
+-   Akut kol şişmesi
+-   Diyaliz yapılamama
 
 ## Tanı Yöntemleri
 
 ### Fizik Muayene
 
-- İnspeksiyon: Şişlik, kızarıklık
-- Palpasyon: Tril değerlendirmesi
-- Oskültasyon: Üfürüm karakteri
+-   İnspeksiyon: Şişlik, kızarıklık
+-   Palpasyon: Tril değerlendirmesi
+-   Oskültasyon: Üfürüm karakteri
 
 ### Görüntüleme
 
 **Doppler Ultrason:**
-- İlk basamak değerlendirme
-- Akım hızları ve hacmi
-- Stenoz lokalizasyonu
+
+-   İlk basamak değerlendirme
+-   Akım hızları ve hacmi
+-   Stenoz lokalizasyonu
 
 **Fistülografi:**
-- Altın standart
-- Anatomik detay
-- Aynı seansta tedavi imkanı
+
+-   Altın standart
+-   Anatomik detay
+-   Aynı seansta tedavi imkanı
 
 **Venografi:**
-- Santral ven değerlendirmesi
-- Kollateral damarlar
+
+-   Santral ven değerlendirmesi
+-   Kollateral damarlar
 
 ## Girişimsel Tedavi Yöntemleri
 
@@ -119,53 +122,55 @@ Arteriyovenöz (AV) fistül, kronik böbrek yetmezliği hastalarında hemodiyali
 
 **Birincil tedavi yöntemi:**
 
-- Balon ile darlık açma
-- Yüksek basınçlı balonlar
-- Tekrarlanan şişirmeler
+-   Balon ile darlık açma
+-   Yüksek basınçlı balonlar
+-   Tekrarlanan şişirmeler
 
 **Başarı Oranları:**
 
-| Lokalizasyon | Teknik Başarı | 6 Ay Açıklık |
-|--------------|---------------|--------------|
-| Venöz stenoz | %95 | %50-60 |
-| Arteriyel stenoz | %90 | %60-70 |
-| Santral ven | %90 | %30-40 |
+| Lokalizasyon     | Teknik Başarı | 6 Ay Açıklık |
+| ---------------- | ------------- | ------------ |
+| Venöz stenoz     | %95           | %50-60       |
+| Arteriyel stenoz | %90           | %60-70       |
+| Santral ven      | %90           | %30-40       |
 
 ### Drug-Coated Balloon (DCB)
 
 **İlaç kaplı balon:**
 
-- Paklitaksel kaplamalı
-- Restenoz azaltma
-- Uzun dönem açıklık artışı
+-   Paklitaksel kaplamalı
+-   Restenoz azaltma
+-   Uzun dönem açıklık artışı
 
 ### Stentleme
 
 **Endikasyonlar:**
 
-- PTA'ya dirençli stenoz
-- Elastik recoil
-- Santral ven stenozu
-- Rüptür riski
+-   PTA'ya dirençli stenoz
+-   Elastik recoil
+-   Santral ven stenozu
+-   Rüptür riski
 
 **Stent Tipleri:**
 
-- Bare-metal stent
-- Covered stent (stent-greft)
-- Self-expanding stent
+-   Bare-metal stent
+-   Covered stent (stent-greft)
+-   Self-expanding stent
 
 ### Trombektomi
 
 **Akut trombozda:**
 
 **Mekanik Yöntemler:**
-- Aspirasyon trombektomi
-- Rotasyonel trombektomi
-- Anjiojet
+
+-   Aspirasyon trombektomi
+-   Rotasyonel trombektomi
+-   Anjiojet
 
 **Farmakolojik Tromboliz:**
-- tPA infüzyonu
-- Pulse-spray tekniği
+
+-   tPA infüzyonu
+-   Pulse-spray tekniği
 
 ### Kombine Yaklaşım
 
@@ -181,76 +186,76 @@ Tipik tedavi protokolü:
 
 ### Başarı Oranları
 
-| İşlem | Teknik Başarı | 1 Yıl Primer Açıklık |
-|-------|---------------|---------------------|
-| PTA | %90-95 | %40-50 |
-| DCB | %95 | %60-70 |
-| Stent | %95 | %50-60 |
-| Trombektomi + PTA | %85-90 | %40 |
+| İşlem             | Teknik Başarı | 1 Yıl Primer Açıklık |
+| ----------------- | ------------- | -------------------- |
+| PTA               | %90-95        | %40-50               |
+| DCB               | %95           | %60-70               |
+| Stent             | %95           | %50-60               |
+| Trombektomi + PTA | %85-90        | %40                  |
 
 ### Takip Protokolü
 
-- 1. ay: Klinik değerlendirme
-- 3. ay: Doppler US
-- 6. ay: Doppler US veya fistülografi
-- Sorun gelişirse: Acil değerlendirme
+-   1. ay: Klinik değerlendirme
+-   3. ay: Doppler US
+-   6. ay: Doppler US veya fistülografi
+-   Sorun gelişirse: Acil değerlendirme
 
 ## Komplikasyonlar ve Yönetimi
 
 ### Erken Komplikasyonlar
 
-| Komplikasyon | Sıklık | Yönetim |
-|--------------|--------|---------|
-| Venöz rüptür | %2-5 | Uzun balon, covered stent |
-| Distal embolizasyon | %1-2 | Aspirasyon |
-| Hematom | %5 | Kompresyon |
-| Vazospazm | %5 | Nitrogliserin |
+| Komplikasyon        | Sıklık | Yönetim                   |
+| ------------------- | ------ | ------------------------- |
+| Venöz rüptür        | %2-5   | Uzun balon, covered stent |
+| Distal embolizasyon | %1-2   | Aspirasyon                |
+| Hematom             | %5     | Kompresyon                |
+| Vazospazm           | %5     | Nitrogliserin             |
 
 ### Geç Komplikasyonlar
 
-- Restenoz: En sık, tekrar girişim gerekebilir
-- Stent trombozu: Trombektomi + antikoagülasyon
-- Enfeksiyon: Antibiyotik tedavisi
+-   Restenoz: En sık, tekrar girişim gerekebilir
+-   Stent trombozu: Trombektomi + antikoagülasyon
+-   Enfeksiyon: Antibiyotik tedavisi
 
 ## Fistül Koruma Stratejileri
 
 ### Hasta Eğitimi
 
-- Fistül bakımı
-- Kompresyon kontrolü
-- Erken belirti tanıma
+-   Fistül bakımı
+-   Kompresyon kontrolü
+-   Erken belirti tanıma
 
 ### Diyaliz Ünitesi İşbirliği
 
-- Düzenli akım takibi
-- Venöz basınç monitörizasyonu
-- Erken sevk
+-   Düzenli akım takibi
+-   Venöz basınç monitörizasyonu
+-   Erken sevk
 
 ### Surveyans Programı
 
-- 3 ayda bir Doppler US
-- Diyaliz parametreleri takibi
-- Proaktif girişim planlaması
+-   3 ayda bir Doppler US
+-   Diyaliz parametreleri takibi
+-   Proaktif girişim planlaması
 
 ## Özel Durumlar
 
 ### Santral Ven Stenozu
 
-- Subklaviyan/innominate ven
-- Genellikle kateter öyküsü
-- Stentleme sıklıkla gerekir
+-   Subklaviyan/innominate ven
+-   Genellikle kateter öyküsü
+-   Stentleme sıklıkla gerekir
 
 ### Çalma Sendromu (Steal)
 
-- Elin soğuması, ağrı
-- Banding veya DRIL prosedürü
-- Ciddi vakalarda fistül ligasyonu
+-   Elin soğuması, ağrı
+-   Banding veya DRIL prosedürü
+-   Ciddi vakalarda fistül ligasyonu
 
 ### Anevrizma
 
-- Gerçek vs Psödoanevrizma
-- Covered stent ile tedavi
-- Cerrahi onarım
+-   Gerçek vs Psödoanevrizma
+-   Covered stent ile tedavi
+-   Cerrahi onarım
 
 ## Sık Sorulan Sorular
 
@@ -274,7 +279,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Diyaliz fistül tedavisi ile bağlantılı diğer hizmetler:
 
-- [Periferik Anjiyografi]({{< relref "periferik-anjiyografi" >}}) - Damar görüntüleme
-- [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar tedavisi
-- [Karotis Stenozu]({{< relref "karotis-stenozu" >}}) - Boyun damar tedavisi
-- [Renal Arter Stenozu]({{< relref "renal-arter-stenozu" >}}) - Böbrek damar tedavisi
+-   [Periferik Anjiyografi]({{< relref "periferik-anjiyografi" >}}) - Damar görüntüleme
+-   [Alt Ekstremite Arter Hastalığı]({{< relref "hizmetler/alt-ekstremite-arter-hastaligi" >}}) - Bacak damar tedavisi
+-   [Karotis Stenozu]({{< relref "karotis-stenozu" >}}) - Boyun damar tedavisi
+-   [Renal Arter Stenozu]({{< relref "renal-arter-stenozu" >}}) - Böbrek damar tedavisi

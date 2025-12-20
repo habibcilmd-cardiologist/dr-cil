@@ -113,7 +113,7 @@ showLanguageSwitcher = true
   showPagination = true
   showReadingTime = true
   showTableOfContents = true
-  showRelatedContent = true
+  showRelatedContent = false
   relatedContentLimit = 3
   showTaxonomies = true
   showWordCount = false
@@ -141,6 +141,9 @@ showLanguageSwitcher = true
 # -----------------------------------------------------------------------------
 [taxonomy]
   showTermCount = true
+
+[sitemap]
+  excludedKinds = []
 
 # -----------------------------------------------------------------------------
 # SEO & Analytics

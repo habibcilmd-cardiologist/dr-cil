@@ -185,5 +185,5 @@ Other diagnostic tests related to EKG:
 -   [Holter]({{< relref "holter" >}}) - 24-hour rhythm monitoring
 -   [Exercise Stress Test]({{< relref "exercise-stress-test" >}}) - Exercise stress test
 -   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
--   [Ambulatory Cardiac Monitoring](/en/blog/ambulatory-cardiac-monitoring/) - Extended rhythm monitoring
+-   [Ambulatory Cardiac Monitoring](/en/blog/ambulatory-cardiac-monitoring-outpatient-rhythm-monitoring-guide/) - Extended rhythm monitoring
 -   [Electrophysiology Study]({{< relref "electrophysiology-study" >}}) - Arrhythmia diagnosis

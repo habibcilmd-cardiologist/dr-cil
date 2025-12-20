@@ -244,6 +244,6 @@ Other heart failure treatments related to heart failure:
 
 -   [Biventricular Pacemaker]({{< relref "biventricular-pacemaker" >}}) - CRT pacemaker
 -   [ICD]({{< relref "icd" >}}) - Implantable cardioverter defibrillator
--   [LVAD](/en/blog/lvad/) - Left ventricular assist device
--   [Heart Transplant](/en/blog/heart-transplant/) - Heart transplantation
+-   [LVAD](/en/blog/lvad-heart-failure-treatment-with-left-ventricular-assist-device/) - Left ventricular assist device
+-   [Heart Transplant](/en/blog/heart-transplant-life-saving-treatment-for-end-stage-heart-failure/) - Heart transplantation
 -   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound

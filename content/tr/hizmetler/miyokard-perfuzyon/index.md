@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 Miyokard perfüzyon sintigrafisi (MPS), kalp kasına olan kan akımını değerlendiren nükleer tıp görüntüleme yöntemidir. Koroner arter hastalığının tanısında yüksek doğruluk oranına sahiptir.
 
 ## Miyokard Perfüzyon Sintigrafisi Nedir?
@@ -164,4 +163,4 @@ Miyokard perfüzyon sintigrafisi ile bağlantılı diğer kardiyoloji testleri:
 -   [Kardiyak BT]({{< relref "kardiyak-bt" >}}) - Bilgisayarlı tomografi
 -   [Koroner Anjiyografi]({{< relref "kardiyak-anjiyografi" >}}) - Damar görüntüleme
 -   [Efor Testi]({{< relref "efor-testi" >}}) - Egzersiz stres testi
--   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı
+-   [Koroner Arter Hastalığı]({{< relref "hizmetler/koroner-arter-hastaligi" >}}) - Koroner arter hastalığı

@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 TAVI (Transkateter Aort Kapak İmplantasyonu), ciddi aort darlığı olan hastalarda açık kalp ameliyatı yapılmadan, kateter yoluyla yeni bir aort kapağı yerleştirilmesi işlemidir. Bu devrim niteliğindeki tedavi, özellikle cerrahi riski yüksek yaşlı hastalarda hayat kurtarıcı bir seçenek sunmaktadır.
 
 ## TAVI Nedir?
@@ -216,6 +215,6 @@ _Bu içerik girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil tarafından haz
 TAVI ve diğer yapısal kalp hastalığı tedavileri:
 
 -   [Aort Kapak Hastalığı]({{< relref "aort-kapak-hastaligi" >}}) - Aort darlığı ve yetersizliği hakkında bilgi
--   [Balon Valvüloplasti]({{< relref "balon-valvuloplasti" >}}) - Kapak balonla genişletme
+-   [Balon Valvüloplasti]({{< relref "hizmetler/balon-valvuloplasti" >}}) - Kapak balonla genişletme
 -   [MitraClip]({{< relref "mitraclip" >}}) - Mitral kapak tamiri
 -   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kapak değerlendirmesi

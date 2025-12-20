@@ -29,7 +29,6 @@ faq:
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
 
-
 Hipertansiyon, tıbbi adıyla arteriyel hipertansiyon, halk arasında "yüksek tansiyon" olarak bilinen ve dünya genelinde milyonlarca insanı etkileyen kronik bir sağlık sorunudur. Türkiye'de yetişkin nüfusun yaklaşık %30'u hipertansiyon hastası olup, bunların önemli bir kısmı tanı almamış veya yetersiz tedavi görmektedir. Sessiz katil olarak da bilinen bu durum, kontrol altına alınmazsa kalp krizi, inme, böbrek yetmezliği ve görme kaybı gibi ciddi komplikasyonlara yol açabilir.
 
 ## Hipertansiyon Nedir?
@@ -217,7 +216,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Hipertansiyon ile bağlantılı diğer tedaviler:
 
--   [Koroner Arter Hastalığı]({{< relref "koroner-arter-hastaligi" >}}) - Koroner arter hastalığı
+-   [Koroner Arter Hastalığı]({{< relref "hizmetler/koroner-arter-hastaligi" >}}) - Koroner arter hastalığı
 -   [Kalp Yetmezliği]({{< relref "kalp-yetmezligi" >}}) - Kalp yetmezliği tedavisi
 -   [Renal Arter Stenozu]({{< relref "renal-arter-stenozu" >}}) - Böbrek damarı darlığı
 -   [Ekokardiyografi]({{< relref "ekokardiyografi" >}}) - Kalp ultrasonografisi

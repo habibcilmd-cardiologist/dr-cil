@@ -1,84 +1,94 @@
 ---
 title: Kardiyak Rehabilitasyon - Kalp Hastalıkları Sonrası Yaşam Kalitesi
-description: İstanbul'da kardiyak rehabilitasyon programı. Doç. Dr. Habib Çil ile
-  kalp krizi, anjiyoplasti ve kalp cerrahisi sonrası iyileşme. Egzersiz ve yaşam tarzı
-  değişiklikleri. Avrasya Hospital.
+description:
+    İstanbul'da kardiyak rehabilitasyon programı. Doç. Dr. Habib Çil ile
+    kalp krizi, anjiyoplasti ve kalp cerrahisi sonrası iyileşme. Egzersiz ve yaşam tarzı
+    değişiklikleri. Avrasya Hospital.
 date: 2024-12-05
 lastmod: 2024-12-05
 draft: false
 author: Doç. Dr. Habib ÇİL
 categories:
-- Kardiyoloji
+    - Kardiyoloji
 tags:
-- Kalp Sağlığı ve Yaşam
+    - Kalp Sağlığı ve Yaşam
 translationKey: cardiac-rehabilitation
 showTableOfContents: true
 faq:
-- question: Kardiyak rehabilitasyon nedir ve neden önemlidir?
-  answer: Kardiyak rehabilitasyon, kalp hastalığı geçiren hastaların fiziksel, psikolojik
-    ve sosyal iyileşmesini destekleyen kapsamlı bir programdır. Gözetimli egzersiz,
-    beslenme danışmanlığı, risk faktörü yönetimi ve psikolojik destek içerir. Araştırmalar,
-    kardiyak rehabilitasyona katılan hastaların mortalite riskinin %25-30 azaldığını,
-    yaşam kalitesinin arttığını ve hastane yatışlarının azaldığını göstermektedir.
-- question: Kardiyak rehabilitasyon programı ne kadar sürer?
-  answer: Standart kardiyak rehabilitasyon programı genellikle 12 hafta sürer ve haftada
-    2-3 seans yapılır. Toplam 36 seans önerilir. Ancak program süresi hastanın durumuna,
-    ilerleme hızına ve bireysel ihtiyaçlarına göre kişiselleştirilebilir. Bazı hastalar
-    daha uzun süre programa devam edebilir veya ev tabanlı programa geçiş yapabilir.
-- question: Hangi hastalarda kardiyak rehabilitasyon uygulanır?
-  answer: Kardiyak rehabilitasyon, kalp krizi (miyokard enfarktüsü), anjiyoplasti
-    ve stent, koroner by-pass cerrahisi, kalp kapak ameliyatı, kalp yetmezliği, kalp
-    nakli, TAVI, MitraClip gibi işlemler sonrası ve stabil anjina pektoris hastalarında
-    uygulanır. Ayrıca kardiyak risk faktörleri yüksek olan kişilerde önleyici amaçlı
-    da kullanılabilir.
-- question: Kardiyak rehabilitasyon güvenli midir?
-  answer: Evet, kardiyak rehabilitasyon çok güvenlidir. Program gözetimli ortamda,
-    deneyimli sağlık profesyonelleri tarafından yürütülür. Egzersiz sırasında kalp
-    ritmi, kan basıncı ve oksijen saturasyonu sürekli izlenir. Acil durum ekipmanları
-    hazır bulundurulur. Ciddi komplikasyon riski çok düşüktür (100,000 seansta 1'den
-    az). Faydaları risklerinden çok daha fazladır.
-- question: Kardiyak rehabilitasyonda hangi egzersizler yapılır?
-  answer: Program aerobik egzersizler (yürüyüş bandı, bisiklet, eliptik), direnç egzersizleri
-    (hafif ağırlıklar, elastik bantlar), esneklik ve denge egzersizlerini içerir.
-    Egzersizler hastanın kalp fonksiyonuna, fiziksel kapasitesine ve hedeflerine göre
-    kişiselleştirilir. Başlangıçta düşük yoğunlukta başlanır ve kademeli olarak artırılır.
-    Her seans ısınma, ana egzersiz ve soğuma bölümlerinden oluşur.
-- question: Evde egzersiz yapabilir miyim yoksa mutlaka merkeze gitmem mi gerekir?
-  answer: İdeal olan ilk 12 hafta gözetimli merkez tabanlı programa katılmaktır. Ancak
-    coğrafi uzaklık, ulaşım sorunları veya pandemi gibi nedenlerle merkeze gelemeyenler
-    için ev tabanlı hibrid programlar mevcuttur. Ev programında da düzenli takip,
-    telerehabilitasyon ve periyodik kontroller yapılır. Ancak yüksek riskli hastalarda
-    merkez tabanlı program tercih edilir.
-- question: Kardiyak rehabilitasyon sonrası egzersize devam etmem gerekir mi?
-  answer: Kesinlikle evet! Kardiyak rehabilitasyon programı bittiğinde, kazanılan
-    faydaları sürdürmek için düzenli egzersize ömür boyu devam edilmelidir. Haftada
-    en az 150 dakika orta şiddette aerobik egzersiz ve haftada 2 gün direnç egzersizi
-    önerilir. Birçok hasta yerel spor merkezlerine, yürüyüş gruplarına katılır veya
-    evde egzersiz rutinini sürdürür.
-- question: Kardiyak rehabilitasyon sadece egzersizden mi oluşur?
-  answer: Hayır, kardiyak rehabilitasyon çok yönlü bir programdır. Egzersiz eğitiminin
-    yanı sıra beslenme danışmanlığı, sigara bırakma desteği, stres yönetimi, ilaç
-    uyumu eğitimi, risk faktörü kontrolü (diyabet, hipertansiyon, kolesterol), psikolojik
-    destek ve hasta eğitimi içerir. Bu bütüncül yaklaşım, sadece fiziksel değil, duygusal
-    ve sosyal iyileşmeyi de destekler.
-- question: Yaşlı hastalar da kardiyak rehabilitasyona katılabilir mi?
-  answer: Evet, yaş kardiyak rehabilitasyon için engel değildir. Araştırmalar, yaşlı
-    hastaların da programdan genç hastalar kadar fayda gördüğünü göstermektedir. Program
-    yaşlı hastaların özel ihtiyaçlarına göre uyarlanır. Düşme riski, kas kaybı, denge
-    problemleri gibi yaşa özgü konular dikkate alınır. Yaşlı hastalarda fonksiyonel
-    bağımsızlığın korunması özellikle önemlidir.
-- question: Kardiyak rehabilitasyon maliyeti nedir ve sigorta karşılar mı?
-  answer: Türkiye'de SGK ve özel sağlık sigortaları kardiyak rehabilitasyonu kapsam
-    içinde tutmaktadır. SGK belirli sayıda seans için ödeme yapar. Özel sigortalar
-    poliçe şartlarına göre değişir. Kardiyak rehabilitasyon, uzun vadede hastane yatışlarını
-    ve komplikasyonları azalttığı için maliyet-etkin bir tedavidir. Programın faydaları
-    maliyetinden çok daha fazladır.
+    - question: Kardiyak rehabilitasyon nedir ve neden önemlidir?
+      answer:
+          Kardiyak rehabilitasyon, kalp hastalığı geçiren hastaların fiziksel, psikolojik
+          ve sosyal iyileşmesini destekleyen kapsamlı bir programdır. Gözetimli egzersiz,
+          beslenme danışmanlığı, risk faktörü yönetimi ve psikolojik destek içerir. Araştırmalar,
+          kardiyak rehabilitasyona katılan hastaların mortalite riskinin %25-30 azaldığını,
+          yaşam kalitesinin arttığını ve hastane yatışlarının azaldığını göstermektedir.
+    - question: Kardiyak rehabilitasyon programı ne kadar sürer?
+      answer:
+          Standart kardiyak rehabilitasyon programı genellikle 12 hafta sürer ve haftada
+          2-3 seans yapılır. Toplam 36 seans önerilir. Ancak program süresi hastanın durumuna,
+          ilerleme hızına ve bireysel ihtiyaçlarına göre kişiselleştirilebilir. Bazı hastalar
+          daha uzun süre programa devam edebilir veya ev tabanlı programa geçiş yapabilir.
+    - question: Hangi hastalarda kardiyak rehabilitasyon uygulanır?
+      answer:
+          Kardiyak rehabilitasyon, kalp krizi (miyokard enfarktüsü), anjiyoplasti
+          ve stent, koroner by-pass cerrahisi, kalp kapak ameliyatı, kalp yetmezliği, kalp
+          nakli, TAVI, MitraClip gibi işlemler sonrası ve stabil anjina pektoris hastalarında
+          uygulanır. Ayrıca kardiyak risk faktörleri yüksek olan kişilerde önleyici amaçlı
+          da kullanılabilir.
+    - question: Kardiyak rehabilitasyon güvenli midir?
+      answer:
+          Evet, kardiyak rehabilitasyon çok güvenlidir. Program gözetimli ortamda,
+          deneyimli sağlık profesyonelleri tarafından yürütülür. Egzersiz sırasında kalp
+          ritmi, kan basıncı ve oksijen saturasyonu sürekli izlenir. Acil durum ekipmanları
+          hazır bulundurulur. Ciddi komplikasyon riski çok düşüktür (100,000 seansta 1'den
+          az). Faydaları risklerinden çok daha fazladır.
+    - question: Kardiyak rehabilitasyonda hangi egzersizler yapılır?
+      answer:
+          Program aerobik egzersizler (yürüyüş bandı, bisiklet, eliptik), direnç egzersizleri
+          (hafif ağırlıklar, elastik bantlar), esneklik ve denge egzersizlerini içerir.
+          Egzersizler hastanın kalp fonksiyonuna, fiziksel kapasitesine ve hedeflerine göre
+          kişiselleştirilir. Başlangıçta düşük yoğunlukta başlanır ve kademeli olarak artırılır.
+          Her seans ısınma, ana egzersiz ve soğuma bölümlerinden oluşur.
+    - question: Evde egzersiz yapabilir miyim yoksa mutlaka merkeze gitmem mi gerekir?
+      answer:
+          İdeal olan ilk 12 hafta gözetimli merkez tabanlı programa katılmaktır. Ancak
+          coğrafi uzaklık, ulaşım sorunları veya pandemi gibi nedenlerle merkeze gelemeyenler
+          için ev tabanlı hibrid programlar mevcuttur. Ev programında da düzenli takip,
+          telerehabilitasyon ve periyodik kontroller yapılır. Ancak yüksek riskli hastalarda
+          merkez tabanlı program tercih edilir.
+    - question: Kardiyak rehabilitasyon sonrası egzersize devam etmem gerekir mi?
+      answer:
+          Kesinlikle evet! Kardiyak rehabilitasyon programı bittiğinde, kazanılan
+          faydaları sürdürmek için düzenli egzersize ömür boyu devam edilmelidir. Haftada
+          en az 150 dakika orta şiddette aerobik egzersiz ve haftada 2 gün direnç egzersizi
+          önerilir. Birçok hasta yerel spor merkezlerine, yürüyüş gruplarına katılır veya
+          evde egzersiz rutinini sürdürür.
+    - question: Kardiyak rehabilitasyon sadece egzersizden mi oluşur?
+      answer:
+          Hayır, kardiyak rehabilitasyon çok yönlü bir programdır. Egzersiz eğitiminin
+          yanı sıra beslenme danışmanlığı, sigara bırakma desteği, stres yönetimi, ilaç
+          uyumu eğitimi, risk faktörü kontrolü (diyabet, hipertansiyon, kolesterol), psikolojik
+          destek ve hasta eğitimi içerir. Bu bütüncül yaklaşım, sadece fiziksel değil, duygusal
+          ve sosyal iyileşmeyi de destekler.
+    - question: Yaşlı hastalar da kardiyak rehabilitasyona katılabilir mi?
+      answer:
+          Evet, yaş kardiyak rehabilitasyon için engel değildir. Araştırmalar, yaşlı
+          hastaların da programdan genç hastalar kadar fayda gördüğünü göstermektedir. Program
+          yaşlı hastaların özel ihtiyaçlarına göre uyarlanır. Düşme riski, kas kaybı, denge
+          problemleri gibi yaşa özgü konular dikkate alınır. Yaşlı hastalarda fonksiyonel
+          bağımsızlığın korunması özellikle önemlidir.
+    - question: Kardiyak rehabilitasyon maliyeti nedir ve sigorta karşılar mı?
+      answer:
+          Türkiye'de SGK ve özel sağlık sigortaları kardiyak rehabilitasyonu kapsam
+          içinde tutmaktadır. SGK belirli sayıda seans için ödeme yapar. Özel sigortalar
+          poliçe şartlarına göre değişir. Kardiyak rehabilitasyon, uzun vadede hastane yatışlarını
+          ve komplikasyonları azalttığı için maliyet-etkin bir tedavidir. Programın faydaları
+          maliyetinden çok daha fazladır.
 ---
 
 {{< alert type="info" >}}
 Bu içerik, Türkiye Cumhuriyeti Sağlık Bakanlığı mevzuatına ve tıbbi etik kurallara uygun olarak, toplum sağlığını korumak ve bilgilendirmek amacıyla hazırlanmıştır. Herhangi bir tanı, tedavi garantisi veya yönlendirme içermez. En doğru bilgi için yetkili bir sağlık kuruluşuna başvurunuz.
 {{< /alert >}}
-
 
 {{< lead >}}
 Kalp krizi, anjiyoplasti, by-pass cerrahisi veya diğer kardiyak olaylar sonrası iyileşme süreci, sadece fiziksel değil, psikolojik ve sosyal boyutları da olan kapsamlı bir süreçtir. Kardiyak rehabilitasyon, bu süreçte hastaların en iyi şekilde iyileşmesini, yaşam kalitesini artırmasını ve gelecekteki kardiyak olayları önlemesini sağlayan kanıta dayalı bir programdır. Bu kapsamlı rehberde, kardiyak rehabilitasyonun ne olduğunu, kimler için uygun olduğunu, nasıl uygulandığını ve sağladığı faydaları detaylı olarak ele alacağım.
@@ -664,14 +674,3 @@ Kardiyak rehabilitasyon programı hakkında bilgi almak veya değerlendirme içi
 📍 **Avrasya Hospital** - Beştelsiz Mah. 101. Sokak No:107, Zeytinburnu, İstanbul
 
 📞 **Telefon:** +90 212 665 50 50 (Dahili: 4012)
-
----
-
-## İlgili Kardiyoloji Hizmetleri
-
--   [Kalp Krizi Tedavisi](/tr/hizmetler/miyokard-enfarktüsü/)
--   [Anjiyoplasti ve Stent](/tr/hizmetler/koroner-anjiyoplasti/)
--   [Kalp Yetmezliği Tedavisi](/tr/hizmetler/kalp-yetmezligi/)
--   [Egzersiz Stres Testi](/tr/hizmetler/egzersiz-stres-testi/)
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/)
--   [Beslenme Danışmanlığı](/tr/hizmetler/beslenme-danismanligi/)

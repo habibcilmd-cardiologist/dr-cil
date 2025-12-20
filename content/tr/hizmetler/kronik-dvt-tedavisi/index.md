@@ -37,12 +37,12 @@ Kronik DVT, semptomların başlangıcından 14 günden uzun süre geçmiş derin
 
 **Kronik DVT Özellikleri:**
 
-| Özellik | Akut DVT | Kronik DVT |
-|---------|----------|------------|
-| Süre | <14 gün | >14 gün |
+| Özellik      | Akut DVT      | Kronik DVT     |
+| ------------ | ------------- | -------------- |
+| Süre         | <14 gün       | >14 gün        |
 | Pıhtı yapısı | Yumuşak, taze | Sert, organize |
-| Litik tedavi | Etkili | Etkisiz |
-| Ana tedavi | Tromboliz | Stentleme |
+| Litik tedavi | Etkili        | Etkisiz        |
+| Ana tedavi   | Tromboliz     | Stentleme      |
 
 ## Post-Trombotik Sendrom (PTS)
 
@@ -60,84 +60,92 @@ PTS, DVT sonrası gelişen kronik venöz yetmezlik sendromudur. DVT geçiren has
 ### PTS Belirtileri
 
 **Erken dönem:**
-- Bacak ağrısı ve ağırlık hissi
-- Şişlik (özellikle akşam)
-- Kramplar
-- Kaşıntı
+
+-   Bacak ağrısı ve ağırlık hissi
+-   Şişlik (özellikle akşam)
+-   Kramplar
+-   Kaşıntı
 
 **İleri dönem:**
-- Hiperpigmentasyon
-- Lipodermatoskleroz
-- Venöz ülser
-- Kronik ödem
+
+-   Hiperpigmentasyon
+-   Lipodermatoskleroz
+-   Venöz ülser
+-   Kronik ödem
 
 ## PTS Sınıflandırması
 
 ### Villalta Skoru
 
-| Belirti/Bulgu | Yok | Hafif | Orta | Ağır |
-|---------------|-----|-------|------|------|
-| Ağrı | 0 | 1 | 2 | 3 |
-| Kramp | 0 | 1 | 2 | 3 |
-| Ağırlık | 0 | 1 | 2 | 3 |
-| Parestezi | 0 | 1 | 2 | 3 |
-| Kaşıntı | 0 | 1 | 2 | 3 |
-| Ödem | 0 | 1 | 2 | 3 |
-| Cilt sertliği | 0 | 1 | 2 | 3 |
-| Hiperpigmentasyon | 0 | 1 | 2 | 3 |
-| Kızarıklık | 0 | 1 | 2 | 3 |
-| Venöz ektazi | 0 | 1 | 2 | 3 |
-| Baldır ağrısı | 0 | 1 | 2 | 3 |
-| Venöz ülser | 0 veya 15 | | | |
+| Belirti/Bulgu     | Yok       | Hafif | Orta | Ağır |
+| ----------------- | --------- | ----- | ---- | ---- |
+| Ağrı              | 0         | 1     | 2    | 3    |
+| Kramp             | 0         | 1     | 2    | 3    |
+| Ağırlık           | 0         | 1     | 2    | 3    |
+| Parestezi         | 0         | 1     | 2    | 3    |
+| Kaşıntı           | 0         | 1     | 2    | 3    |
+| Ödem              | 0         | 1     | 2    | 3    |
+| Cilt sertliği     | 0         | 1     | 2    | 3    |
+| Hiperpigmentasyon | 0         | 1     | 2    | 3    |
+| Kızarıklık        | 0         | 1     | 2    | 3    |
+| Venöz ektazi      | 0         | 1     | 2    | 3    |
+| Baldır ağrısı     | 0         | 1     | 2    | 3    |
+| Venöz ülser       | 0 veya 15 |       |      |      |
 
 **Skorlama:**
-- 0-4: PTS yok
-- 5-9: Hafif PTS
-- 10-14: Orta PTS
-- ≥15 veya Ülser: Ağır PTS
+
+-   0-4: PTS yok
+-   5-9: Hafif PTS
+-   10-14: Orta PTS
+-   ≥15 veya Ülser: Ağır PTS
 
 ### CEAP Sınıflandırması
 
-| Sınıf | Klinik Bulgular |
-|-------|-----------------|
-| C0 | Görünür venöz hastalık yok |
-| C1 | Telenjiektazi, retiküler ven |
-| C2 | Variköz ven |
-| C3 | Ödem |
-| C4a | Pigmentasyon, egzama |
-| C4b | Lipodermatoskleroz, atrofi blanche |
-| C5 | İyileşmiş venöz ülser |
-| C6 | Aktif venöz ülser |
+| Sınıf | Klinik Bulgular                    |
+| ----- | ---------------------------------- |
+| C0    | Görünür venöz hastalık yok         |
+| C1    | Telenjiektazi, retiküler ven       |
+| C2    | Variköz ven                        |
+| C3    | Ödem                               |
+| C4a   | Pigmentasyon, egzama               |
+| C4b   | Lipodermatoskleroz, atrofi blanche |
+| C5    | İyileşmiş venöz ülser              |
+| C6    | Aktif venöz ülser                  |
 
 ## Kronik DVT Tanısı
 
 ### Görüntüleme
 
 **Doppler Ultrason:**
-- İlk basamak değerlendirme
-- Rezidüel obstrüksiyon
-- Reflü tespiti
+
+-   İlk basamak değerlendirme
+-   Rezidüel obstrüksiyon
+-   Reflü tespiti
 
 **BT Venografi:**
-- İliokaval segment değerlendirmesi
-- Anatomik detay
-- Tedavi planlaması
+
+-   İliokaval segment değerlendirmesi
+-   Anatomik detay
+-   Tedavi planlaması
 
 **MR Venografi:**
-- Alternatif yöntem
-- Yumuşak doku detayı
+
+-   Alternatif yöntem
+-   Yumuşak doku detayı
 
 **Ascending Venografi:**
-- Altın standart
-- Girişim öncesi değerlendirme
-- Kollateral haritalaması
+
+-   Altın standart
+-   Girişim öncesi değerlendirme
+-   Kollateral haritalaması
 
 ### İntravasküler Ultrason (IVUS)
 
 **Kritik rolü:**
-- Gerçek darlık derecesi
-- Stent boyutlandırma
-- İşlem başarısı değerlendirmesi
+
+-   Gerçek darlık derecesi
+-   Stent boyutlandırma
+-   İşlem başarısı değerlendirmesi
 
 ## Girişimsel Tedavi Endikasyonları
 
@@ -145,18 +153,18 @@ PTS, DVT sonrası gelişen kronik venöz yetmezlik sendromudur. DVT geçiren has
 
 1. **İliofemorral segment tutulumu**
 2. **Medikal tedaviye yanıtsız semptomlar:**
-   - Ağır PTS (Villalta ≥15)
-   - Aktif veya iyileşmeyen venöz ülser
-   - Şiddetli ödem/ağrı
+    - Ağır PTS (Villalta ≥15)
+    - Aktif veya iyileşmeyen venöz ülser
+    - Şiddetli ödem/ağrı
 3. **İyi fonksiyonel durum**
 4. **Antikoagülasyon alabilecek hasta**
 
 ### Kontrendikasyonlar
 
-- Aktif enfeksiyon
-- Ciddi koagülopati
-- Kısa yaşam beklentisi
-- Selektif antikoagülasyon yapılamama
+-   Aktif enfeksiyon
+-   Ciddi koagülopati
+-   Kısa yaşam beklentisi
+-   Selektif antikoagülasyon yapılamama
 
 ## Girişimsel Tedavi Teknikleri
 
@@ -175,114 +183,122 @@ PTS, DVT sonrası gelişen kronik venöz yetmezlik sendromudur. DVT geçiren has
 
 **Stent Seçimi:**
 
-| Özellik | İliak Ven | Femoral Ven |
-|---------|-----------|-------------|
-| Çap | 14-18 mm | 12-14 mm |
-| Tip | Dedicated venous | Dedicated venous |
-| Uzunluk | Lezyon + 1-2 cm | Lezyon + 1 cm |
+| Özellik | İliak Ven        | Femoral Ven      |
+| ------- | ---------------- | ---------------- |
+| Çap     | 14-18 mm         | 12-14 mm         |
+| Tip     | Dedicated venous | Dedicated venous |
+| Uzunluk | Lezyon + 1-2 cm  | Lezyon + 1 cm    |
 
 **Dedicated Venöz Stentler:**
-- Wallstent
-- Veniti Vici
-- Zilver Vena
-- Abre
+
+-   Wallstent
+-   Veniti Vici
+-   Zilver Vena
+-   Abre
 
 ### İşlem Sonrası Yönetim
 
 **Antikoagülasyon:**
-- LMWH köprüleme
-- Warfarin (INR 2-3) veya DOAC
-- Minimum 6-12 ay
-- May-Thurner'da ömür boyu düşünülebilir
+
+-   LMWH köprüleme
+-   Warfarin (INR 2-3) veya DOAC
+-   Minimum 6-12 ay
+-   May-Thurner'da ömür boyu düşünülebilir
 
 **Kompresyon:**
-- 30-40 mmHg diz altı çorap
-- 2 yıl önerilir
+
+-   30-40 mmHg diz altı çorap
+-   2 yıl önerilir
 
 ## Tedavi Sonuçları
 
 ### Teknik Başarı
 
-- Rekanalizasyon: %90-95
-- Primer açıklık (1 yıl): %70-80
-- Sekonder açıklık (1 yıl): %85-95
+-   Rekanalizasyon: %90-95
+-   Primer açıklık (1 yıl): %70-80
+-   Sekonder açıklık (1 yıl): %85-95
 
 ### Klinik İyileşme
 
-| Parametre | İyileşme Oranı |
-|-----------|----------------|
-| Şişlik | %80-90 |
-| Ağrı | %75-85 |
-| Ülser iyileşme | %60-80 |
+| Parametre      | İyileşme Oranı          |
+| -------------- | ----------------------- |
+| Şişlik         | %80-90                  |
+| Ağrı           | %75-85                  |
+| Ülser iyileşme | %60-80                  |
 | Villalta skoru | Ortalama 5-7 puan düşüş |
 
 ### Komplikasyonlar
 
 **Erken:**
-- Erişim yeri hematom: %3-5
-- Stent migrasyonu: <%1
-- PE: <%1
-- Perforasyon: <%1
+
+-   Erişim yeri hematom: %3-5
+-   Stent migrasyonu: <%1
+-   PE: <%1
+-   Perforasyon: <%1
 
 **Geç:**
-- In-stent restenoz: %10-15
-- Stent trombozu: %5-10
-- Stent fraktürü: Nadir
+
+-   In-stent restenoz: %10-15
+-   Stent trombozu: %5-10
+-   Stent fraktürü: Nadir
 
 ## Konservatif Tedavi
 
 ### Tüm Hastalarda
 
 **Kompresyon Tedavisi:**
-- Elastik kompresyon çorapları
-- 30-40 mmHg
-- Semptom kontrolü
+
+-   Elastik kompresyon çorapları
+-   30-40 mmHg
+-   Semptom kontrolü
 
 **Yaşam Tarzı:**
-- Bacak elevasyonu
-- Düzenli egzersiz
-- Kilo kontrolü
+
+-   Bacak elevasyonu
+-   Düzenli egzersiz
+-   Kilo kontrolü
 
 **Medikal Tedavi:**
-- Antikoagülasyon (devam)
-- Venotonikler (kısıtlı kanıt)
-- Yara bakımı (ülserde)
+
+-   Antikoagülasyon (devam)
+-   Venotonikler (kısıtlı kanıt)
+-   Yara bakımı (ülserde)
 
 ## Özel Durumlar
 
 ### May-Thurner Sendromu ile Birlikte
 
-- Sol iliak ven kompresyonu
-- Stentleme ile dekompresyon
-- Uzun dönem antikoagülasyon
+-   Sol iliak ven kompresyonu
+-   Stentleme ile dekompresyon
+-   Uzun dönem antikoagülasyon
 
 ### Bilateral Tutulum
 
-- Staged yaklaşım
-- Önce semptomatik taraf
-- Her iki taraf stentlenebilir
+-   Staged yaklaşım
+-   Önce semptomatik taraf
+-   Her iki taraf stentlenebilir
 
 ### IVC Tutulumu
 
-- IVC stentleme gerekebilir
-- Daha büyük çaplı stentler
-- Dikkatli planlama
+-   IVC stentleme gerekebilir
+-   Daha büyük çaplı stentler
+-   Dikkatli planlama
 
 ## Takip Protokolü
 
 ### Düzenli Kontrol
 
-- 1. hafta: Klinik kontrol
-- 1. ay: Doppler US
-- 6. ay: Doppler US ± BT venografi
-- Yıllık: Doppler US
+-   1. hafta: Klinik kontrol
+-   1. ay: Doppler US
+-   6. ay: Doppler US ± BT venografi
+-   Yıllık: Doppler US
 
 ### İzlem Kriterleri
 
-- Stent açıklığı
-- Semptom değişikliği
-- Antikoagülasyon uyumu
-- Kompresyon kullanımı
+-   Stent açıklığı
+-   Semptom değişikliği
+-   Antikoagülasyon uyumu
+-   Kompresyon kullanımı
 
 ## Sık Sorulan Sorular
 
@@ -306,7 +322,7 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 Kronik DVT tedavisi ile bağlantılı diğer hizmetler:
 
-- [Akut DVT Tedavisi]({{< relref "akut-dvt-tedavisi" >}}) - Yeni oluşan pıhtı tedavisi
-- [May-Thurner Sendromu]({{< relref "may-thurner-sendromu" >}}) - İliak ven kompresyonu
-- [Varikosel ve Pelvik Konjesyon]({{< relref "varikosel-pelvik-konjesyon" >}}) - Venöz yetmezlik
-- [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar tedavisi
+-   [Akut DVT Tedavisi]({{< relref "akut-dvt-tedavisi" >}}) - Yeni oluşan pıhtı tedavisi
+-   [May-Thurner Sendromu]({{< relref "may-thurner-sendromu" >}}) - İliak ven kompresyonu
+-   [Varikosel ve Pelvik Konjesyon]({{< relref "varikosel-pelvik-konjesyon" >}}) - Venöz yetmezlik
+-   [Alt Ekstremite Arter Hastalığı]({{< relref "hizmetler/alt-ekstremite-arter-hastaligi" >}}) - Bacak damar tedavisi

@@ -166,9 +166,6 @@ Book Appointment via WhatsApp
 ---
 
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
-
-## Related Valve Treatments
-
 Other structural heart treatments related to aortic valve disease:
 
 -   [TAVI](/services/tavi/) - Transcatheter aortic valve implantation

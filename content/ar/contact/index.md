@@ -55,6 +55,7 @@ Zeytinburnu, إسطنبول، تركيا
 
 <form name="contact-ar" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="space-y-4">
   <input type="hidden" name="form-name" value="contact-ar" />
+  <input type="hidden" name="subject" value="New Contact Form Message - AR" />
   <p class="hidden">
     <label>لا تملأ هذا إذا كنت إنساناً: <input name="bot-field" /></label>
   </p>

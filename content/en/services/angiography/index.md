@@ -29,7 +29,6 @@ faq:
 This content has been prepared for informational purposes to protect public health, in compliance with the regulations of the Ministry of Health of the Republic of Turkey and medical ethical rules. It does not provide any diagnosis, treatment guarantees, or specific medical advice. Please consult a qualified healthcare provider for the most accurate information.
 {{< /alert >}}
 
-
 Coronary angiography is the imaging of heart vessels (coronary arteries) using X-rays and contrast material. This procedure is considered the gold standard in diagnosing coronary artery disease.
 
 ## What is Coronary Angiography?
@@ -188,8 +187,8 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general infor
 
 Other coronary treatments related to angiography:
 
--   [Cardiac Angiography](/en/blog/cardiac-angiography/) - Coronary artery imaging
--   [Coronary Angioplasty](/en/blog/coronary-angioplasty/) - Balloon and stent vessel opening
+-   [Cardiac Angiography](/en/services/angiography/) - Coronary artery imaging
+-   [Coronary Angioplasty](/en/services/angioplasty/) - Balloon and stent vessel opening
 -   [Radial Angiography]({{< relref "radial-angiography" >}}) - Wrist access angiography
--   [Cardiac Catheterization](/en/blog/cardiac-catheterization/) - Cardiac catheterization
--   [Coronary Artery Disease](/en/blog/coronary-artery-disease/) - About coronary artery disease
+-   [Cardiac Catheterization](/en/blog/cardiac-catheterization-complete-heart-catheter-procedure-guide/) - Cardiac catheterization
+-   [Coronary Artery Disease](false/) - About coronary artery disease

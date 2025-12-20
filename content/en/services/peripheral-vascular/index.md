@@ -221,6 +221,6 @@ Other peripheral vascular treatments related to peripheral vascular disease:
 
 -   [Carotid Stenosis]({{< relref "carotid-stenosis" >}}) - Carotid artery stenosis treatment
 -   [Renal Artery Stenosis]({{< relref "renal-artery-stenosis" >}}) - Renal artery stenosis treatment
--   [Lower Extremity Arterial Disease](/en/blog/lower-extremity-arterial-disease/) - Leg artery disease
--   [Abdominal Aortic Aneurysm](/en/blog/abdominal-aortic-aneurysm/) - Aortic aneurysm treatment
+-   [Lower Extremity Arterial Disease](/en/blog/lower-extremity-arterial-disease-leg-artery-blockage-symptoms-and-treatment/) - Leg artery disease
+-   [Abdominal Aortic Aneurysm](false/) - Aortic aneurysm treatment
 -   [Atherectomy]({{< relref "atherectomy" >}}) - Plaque removal procedure

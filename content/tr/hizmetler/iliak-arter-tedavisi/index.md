@@ -53,46 +53,47 @@ organları    (Bacak)
 
 **Klinik Önemi:**
 
-- **Ana iliak arter:** Aorto-iliak hastalık
-- **Dış iliak arter:** Bacak kan akımı
-- **İç iliak arter:** Pelvis, kalça, erektil fonksiyon
+-   **Ana iliak arter:** Aorto-iliak hastalık
+-   **Dış iliak arter:** Bacak kan akımı
+-   **İç iliak arter:** Pelvis, kalça, erektil fonksiyon
 
 ## İliak Arter Hastalığı Nedenleri
 
 ### Primer Nedenler
 
 **Ateroskleroz (%95):**
-- En sık neden
-- Plak birikimi
-- Kalsifikasyon
+
+-   En sık neden
+-   Plak birikimi
+-   Kalsifikasyon
 
 ### Risk Faktörleri
 
-| Risk Faktörü | Etki |
-|--------------|------|
-| Sigara | En önemli risk faktörü |
-| Diyabet | 4 kat artmış risk |
-| Hipertansiyon | Endotel hasarı |
-| Hiperlipidemi | Plak oluşumu |
-| Yaş >50 | Doğal süreç |
+| Risk Faktörü  | Etki                   |
+| ------------- | ---------------------- |
+| Sigara        | En önemli risk faktörü |
+| Diyabet       | 4 kat artmış risk      |
+| Hipertansiyon | Endotel hasarı         |
+| Hiperlipidemi | Plak oluşumu           |
+| Yaş >50       | Doğal süreç            |
 
 ### Diğer Nedenler
 
-- Aort diseksiyonu
-- Travma
-- Vaskülit
-- Radyasyon
+-   Aort diseksiyonu
+-   Travma
+-   Vaskülit
+-   Radyasyon
 
 ## TASC II Sınıflandırması
 
 İliak lezyonların anatomik sınıflandırması:
 
-| TASC | Lezyon Tipi | Tercih Edilen Tedavi |
-|------|-------------|---------------------|
-| **A** | Tek taraflı CIA/EIA <3 cm stenoz | Endovasküler |
-| **B** | 3-10 cm stenoz, tek taraflı oklüzyon | Endovasküler |
+| TASC  | Lezyon Tipi                                | Tercih Edilen Tedavi |
+| ----- | ------------------------------------------ | -------------------- |
+| **A** | Tek taraflı CIA/EIA <3 cm stenoz           | Endovasküler         |
+| **B** | 3-10 cm stenoz, tek taraflı oklüzyon       | Endovasküler         |
 | **C** | Bilateral stenoz, tek taraflı EIA oklüzyon | Endovasküler/Cerrahi |
-| **D** | Aorto-iliak oklüzyon, diffüz hastalık | Cerrahi (öncelikle) |
+| **D** | Aorto-iliak oklüzyon, diffüz hastalık      | Cerrahi (öncelikle)  |
 
 ## İliak Arter Hastalığı Belirtileri
 
@@ -100,10 +101,10 @@ organları    (Bacak)
 
 **En sık semptom:**
 
-- Yürürken bacak/kalça ağrısı
-- Dinlenince düzelir
-- Belirli mesafede başlar
-- Leriche sendromu (bilateral)
+-   Yürürken bacak/kalça ağrısı
+-   Dinlenince düzelir
+-   Belirli mesafede başlar
+-   Leriche sendromu (bilateral)
 
 ### Leriche Sendromu
 
@@ -117,47 +118,52 @@ Bilateral aorto-iliak tıkanıklık üçlüsü:
 
 İleri evre hastalık:
 
-- İstirahat ağrısı
-- Trofik değişiklikler
-- Yara iyileşmeme
-- Gangren riski
+-   İstirahat ağrısı
+-   Trofik değişiklikler
+-   Yara iyileşmeme
+-   Gangren riski
 
 ## Tanı Yöntemleri
 
 ### Fizik Muayene
 
-- Femoral nabız değerlendirmesi
-- ABI (Ankle-Brachial Index) ölçümü
-- Üfürüm kontrolü
+-   Femoral nabız değerlendirmesi
+-   ABI (Ankle-Brachial Index) ölçümü
+-   Üfürüm kontrolü
 
 ### Görüntüleme
 
 **Doppler Ultrason:**
-- İlk basamak
-- Akım hızları
-- Stenoz lokalizasyonu
+
+-   İlk basamak
+-   Akım hızları
+-   Stenoz lokalizasyonu
 
 **BT Anjiyografi:**
-- Detaylı anatomik görüntü
-- Kalsifikasyon değerlendirmesi
-- Tedavi planlaması
+
+-   Detaylı anatomik görüntü
+-   Kalsifikasyon değerlendirmesi
+-   Tedavi planlaması
 
 **MR Anjiyografi:**
-- Kontrastsız seçenek
-- Yumuşak doku detayı
+
+-   Kontrastsız seçenek
+-   Yumuşak doku detayı
 
 **DSA (Dijital Subtraksiyon Anjiyografi):**
-- Altın standart
-- Aynı seansta tedavi
+
+-   Altın standart
+-   Aynı seansta tedavi
 
 ## Endovasküler Tedavi
 
 ### Balon Anjiyoplasti
 
 **Endikasyonlar:**
-- Kısa segment stenoz
-- Non-kalsifiye lezyonlar
-- Focal hastalık
+
+-   Kısa segment stenoz
+-   Non-kalsifiye lezyonlar
+-   Focal hastalık
 
 ### İliak Stentleme
 
@@ -165,11 +171,11 @@ Bilateral aorto-iliak tıkanıklık üçlüsü:
 
 **Stent Tipleri:**
 
-| Tip | Özellik | Endikasyon |
-|-----|---------|------------|
-| Balloon-expandable | Hassas yerleştirme | Ostial, kalsifiye |
-| Self-expanding | Fleksibilite | Uzun segment, tortüöz |
-| Covered stent | Duvar desteği | Rüptür, anevrizma |
+| Tip                | Özellik            | Endikasyon            |
+| ------------------ | ------------------ | --------------------- |
+| Balloon-expandable | Hassas yerleştirme | Ostial, kalsifiye     |
+| Self-expanding     | Fleksibilite       | Uzun segment, tortüöz |
+| Covered stent      | Duvar desteği      | Rüptür, anevrizma     |
 
 **Teknik Başarı:** >95%
 
@@ -177,50 +183,50 @@ Bilateral aorto-iliak tıkanıklık üçlüsü:
 
 Aorto-iliak bifurkasyon lezyonlarında:
 
-- Bilateral simultane stentleme
-- Aort bifurkasyonunun korunması
-- Uzun dönem açıklık: %85-90 (5 yıl)
+-   Bilateral simultane stentleme
+-   Aort bifurkasyonunun korunması
+-   Uzun dönem açıklık: %85-90 (5 yıl)
 
 ### Hibrit Prosedürler
 
 Endovasküler + Cerrahi kombinasyonu:
 
-- İliak stent + Femoral endarterektomi
-- Kompleks hastalıkta
-- Daha az invaziv yaklaşım
+-   İliak stent + Femoral endarterektomi
+-   Kompleks hastalıkta
+-   Daha az invaziv yaklaşım
 
 ## Tedavi Sonuçları
 
 ### Primer Açıklık Oranları
 
-| Lezyon | 1 Yıl | 5 Yıl |
-|--------|-------|-------|
-| TASC A/B | %95 | %85 |
-| TASC C | %90 | %75 |
-| TASC D | %85 | %70 |
+| Lezyon   | 1 Yıl | 5 Yıl |
+| -------- | ----- | ----- |
+| TASC A/B | %95   | %85   |
+| TASC C   | %90   | %75   |
+| TASC D   | %85   | %70   |
 
 ### Klinik İyileşme
 
-- Klodikasyon mesafesi: Ortalama 3-4 kat artış
-- Yaşam kalitesi: Belirgin iyileşme
-- Ampütasyon riski: Önemli azalma
+-   Klodikasyon mesafesi: Ortalama 3-4 kat artış
+-   Yaşam kalitesi: Belirgin iyileşme
+-   Ampütasyon riski: Önemli azalma
 
 ## Komplikasyonlar
 
 ### Erken Komplikasyonlar
 
-| Komplikasyon | Sıklık | Yönetim |
-|--------------|--------|---------|
-| Erişim yeri hematom | %3-5 | Kompresyon |
-| Distal embolizasyon | %1-2 | Aspirasyon/Tromboliz |
-| Rüptür | <%1 | Covered stent |
-| Diseksiyon | %2-3 | Stentleme |
+| Komplikasyon        | Sıklık | Yönetim              |
+| ------------------- | ------ | -------------------- |
+| Erişim yeri hematom | %3-5   | Kompresyon           |
+| Distal embolizasyon | %1-2   | Aspirasyon/Tromboliz |
+| Rüptür              | <%1    | Covered stent        |
+| Diseksiyon          | %2-3   | Stentleme            |
 
 ### Geç Komplikasyonlar
 
-- In-stent restenoz: %5-10 (yılda)
-- Stent fraktürü: Nadir
-- Tromboz: Antiplatelet uyumsuzluk
+-   In-stent restenoz: %5-10 (yılda)
+-   Stent fraktürü: Nadir
+-   Tromboz: Antiplatelet uyumsuzluk
 
 ## Medikal Tedavi
 
@@ -228,44 +234,44 @@ Endovasküler + Cerrahi kombinasyonu:
 
 Tüm hastalarda medikal optimizasyon:
 
-- **Antiplatelet:** Aspirin ± Klopidogrel
-- **Statin:** LDL <70 mg/dL hedefi
-- **Kan basıncı:** <140/90 mmHg
-- **Diyabet kontrolü:** HbA1c <7%
+-   **Antiplatelet:** Aspirin ± Klopidogrel
+-   **Statin:** LDL <70 mg/dL hedefi
+-   **Kan basıncı:** <140/90 mmHg
+-   **Diyabet kontrolü:** HbA1c <7%
 
 ### Yaşam Tarzı Değişiklikleri
 
-- **Sigara bırakma:** En önemli müdahale
-- **Egzersiz programı:** Gözetimli yürüme
-- **Diyet:** Düşük yağ, düşük tuz
+-   **Sigara bırakma:** En önemli müdahale
+-   **Egzersiz programı:** Gözetimli yürüme
+-   **Diyet:** Düşük yağ, düşük tuz
 
 ## Cerrahi Tedavi
 
 ### Endikasyonlar
 
-- Endovasküler tedavi uygun değilse
-- TASC D lezyonlar
-- Başarısız endovasküler girişim
+-   Endovasküler tedavi uygun değilse
+-   TASC D lezyonlar
+-   Başarısız endovasküler girişim
 
 ### Cerrahi Seçenekler
 
-- **Aorto-bifemoral bypass:** Standart
-- **İlio-femoral bypass:** Tek taraflı
-- **Axillo-femoral bypass:** Yüksek riskli hastalar
+-   **Aorto-bifemoral bypass:** Standart
+-   **İlio-femoral bypass:** Tek taraflı
+-   **Axillo-femoral bypass:** Yüksek riskli hastalar
 
 ## Takip Protokolü
 
 ### Düzenli Kontrol
 
-- 1. ay: Klinik değerlendirme
-- 6. ay: Doppler US + ABI
-- Yıllık: BT Anjiyografi (gerekirse)
+-   1. ay: Klinik değerlendirme
+-   6. ay: Doppler US + ABI
+-   Yıllık: BT Anjiyografi (gerekirse)
 
 ### İlaç Uyumu
 
-- Antiplatelet tedavi: Ömür boyu
-- Statin: Ömür boyu
-- Risk faktörü kontrolü: Sürekli
+-   Antiplatelet tedavi: Ömür boyu
+-   Statin: Ömür boyu
+-   Risk faktörü kontrolü: Sürekli
 
 ## Sık Sorulan Sorular
 
@@ -289,8 +295,8 @@ _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilen
 
 İliak arter tedavisi ile bağlantılı diğer hizmetler:
 
-- [Alt Ekstremite Arter Hastalığı]({{< relref "alt-ekstremite-arter-hastaligi" >}}) - Bacak damar tedavisi
-- [Periferik Anjiyografi]({{< relref "periferik-anjiyografi" >}}) - Damar görüntüleme
-- [Abdominal Aort Anevrizması]({{< relref "abdominal-aort-anevrizması" >}}) - Aort tedavisi
-- [EVAR]({{< relref "evar" >}}) - Endovasküler anevrizma onarımı
-- [Karotis Stenozu]({{< relref "karotis-stenozu" >}}) - Boyun damar tedavisi
+-   [Alt Ekstremite Arter Hastalığı]({{< relref "hizmetler/alt-ekstremite-arter-hastaligi" >}}) - Bacak damar tedavisi
+-   [Periferik Anjiyografi]({{< relref "periferik-anjiyografi" >}}) - Damar görüntüleme
+-   [Abdominal Aort Anevrizması]({{< relref "abdominal-aort-anevrizması" >}}) - Aort tedavisi
+-   [EVAR]({{< relref "evar" >}}) - Endovasküler anevrizma onarımı
+-   [Karotis Stenozu]({{< relref "karotis-stenozu" >}}) - Boyun damar tedavisi
