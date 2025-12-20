@@ -5,6 +5,8 @@ date: 2024-01-01
 translationKey: "blog"
 showDate: false
 showAuthor: false
+cascade:
+  showRelatedContent: false
 ---
 
 {{< lead >}}
