@@ -53,7 +53,7 @@ Sunday: Closed
 
 Fill out the form below to reach us. We will get back to you as soon as possible.
 
-<form name="contact-en" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="space-y-4">
+<form name="contact-en" method="POST" action="/en/contact/thank-you/" data-netlify="true" netlify-honeypot="bot-field" class="space-y-4">
   <input type="hidden" name="form-name" value="contact-en" />
   <input type="hidden" name="subject" value="New Contact Form Message - EN" />
   <p class="hidden">

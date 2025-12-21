@@ -53,7 +53,7 @@ Zeytinburnu, إسطنبول، تركيا
 
 املأ النموذج أدناه للتواصل معنا. سنعاود الاتصال بك في أقرب وقت ممكن.
 
-<form name="contact-ar" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="space-y-4">
+<form name="contact-ar" method="POST" action="/ar/contact/shukran/" data-netlify="true" netlify-honeypot="bot-field" class="space-y-4">
   <input type="hidden" name="form-name" value="contact-ar" />
   <input type="hidden" name="subject" value="New Contact Form Message - AR" />
   <p class="hidden">
