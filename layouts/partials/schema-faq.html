@@ -5,25 +5,48 @@ Returns a dictionary for FAQPage schema if FAQ params exist in front matter.
 =============================================================================
 */}}
 {{ $schema := dict }}
-{{ if .Params.faq }}
-{{ $faqItems := .Params.faq }}
-{{ if gt (len $faqItems) 0 }}
-{{ $questions := slice }}
-{{ range $faqItems }}
-{{ $questions = $questions | append (dict
-"@type" "Question"
-"name" (.question | safeJS)
-"acceptedAnswer" (dict "@type" "Answer" "text" (.answer | safeJS))
-) }}
+
+{{/*
+Guard: Some legacy blog posts embed their own FAQPage JSON-LD in the content.
+If we also emit FAQPage from front matter, Google Search Console reports
+duplicate FAQPage items. In that case, prefer the inline JSON-LD and skip
+auto-generation here.
+*/}}
+{{ $hasInlineFAQSchema := false }}
+{{ with .RawContent }}
+	{{ if gt (len (findRE "\"@type\"\\s*:\\s*\"FAQPage\"" .)) 0 }}
+		{{ $hasInlineFAQSchema = true }}
+	{{ end }}
+{{ end }}
+{{ if not $hasInlineFAQSchema }}
+	{{ with .Content }}
+		{{ if gt (len (findRE "\"@type\"\\s*:\\s*\"FAQPage\"" .)) 0 }}
+			{{ $hasInlineFAQSchema = true }}
+		{{ end }}
+	{{ end }}
 {{ end }}
 
-{{ $schema = dict
-"@type" "FAQPage"
-"@id" (printf "%s#faq" .Permalink)
-"name" (printf "%s - %s" .Title (cond (eq .Site.Language.Lang "tr") "Sık Sorulan Sorular" "Frequently Asked Questions"))
-"url" .Permalink
-"mainEntity" $questions
-}}
-{{ end }}
+{{ if not $hasInlineFAQSchema }}
+	{{ if .Params.faq }}
+	{{ $faqItems := .Params.faq }}
+	{{ if gt (len $faqItems) 0 }}
+	{{ $questions := slice }}
+	{{ range $faqItems }}
+	{{ $questions = $questions | append (dict
+	"@type" "Question"
+	"name" (.question | safeJS)
+	"acceptedAnswer" (dict "@type" "Answer" "text" (.answer | safeJS))
+	) }}
+	{{ end }}
+
+	{{ $schema = dict
+	"@type" "FAQPage"
+	"@id" (printf "%s#faq" .Permalink)
+	"name" (printf "%s - %s" .Title (cond (eq .Site.Language.Lang "tr") "Sık Sorulan Sorular" "Frequently Asked Questions"))
+	"url" .Permalink
+	"mainEntity" $questions
+	}}
+	{{ end }}
+	{{ end }}
 {{ end }}
 {{ return $schema }}

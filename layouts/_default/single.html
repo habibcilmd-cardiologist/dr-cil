@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ .Scratch.Set "scope" "single" }}
-<article {{ if .HasShortcode "faq" }}itemscope itemtype="https://schema.org/FAQPage" {{ end }}>
+<article>
   {{/* Hero */}}
   {{ if .Params.showHero | default (site.Params.article.showHero | default false) }}
   {{ $heroStyle := .Params.heroStyle }}

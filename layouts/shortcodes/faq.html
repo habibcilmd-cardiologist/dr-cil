@@ -1,14 +1,12 @@
 {{/* FAQ Shortcode with Schema.org Microdata */}}
-<div class="faq-item py-4 border-b border-neutral-200 dark:border-neutral-700" itemscope itemprop="mainEntity"
-    itemtype="https://schema.org/Question">
+<div class="faq-item py-4 border-b border-neutral-200 dark:border-neutral-700">
     <h3 class="text-lg font-medium cursor-pointer flex justify-between items-center"
         onclick="this.nextElementSibling.classList.toggle('hidden'); var icon = this.querySelector('.faq-icon'); icon.textContent = icon.textContent === '+' ? '-' : '+';">
-        <span itemprop="name">{{ .Get "question" }}</span>
+        <span>{{ .Get "question" }}</span>
         <span class="faq-icon text-2xl text-primary-500">+</span>
     </h3>
-    <div class="faq-answer hidden mt-2 text-neutral-600 dark:text-neutral-400" itemscope itemprop="acceptedAnswer"
-        itemtype="https://schema.org/Answer">
-        <div itemprop="text">
+    <div class="faq-answer hidden mt-2 text-neutral-600 dark:text-neutral-400">
+        <div>
             {{ .Inner | markdownify }}
         </div>
     </div>
