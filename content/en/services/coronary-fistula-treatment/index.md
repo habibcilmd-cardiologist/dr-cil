@@ -228,4 +228,4 @@ Other services related to coronary fistula treatment:
 - [IVUS]({{< relref "ivus" >}}) - Intravascular ultrasound
 - [Echocardiography]({{< relref "echocardiography" >}}) - Cardiac ultrasonography
 - [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography
-- [Bifurcation Intervention]({{< relref "bifurkasyon-girisimi" >}}) - Branching site treatment
+- [Bifurcation Intervention]({{< relref "bifurcation-intervention" >}}) - Branching site treatment

@@ -269,7 +269,7 @@ all_services_url_asd_pfo: "/ar/services/heart-hole-closure/"
 
 # Coronary Interventions
 all_services_url_left_main: "/ar/services/left-main-coronary-stent/"
-all_services_url_bifurcation: "/ar/services/bifurkasyon-girisimi/"
+all_services_url_bifurcation: "/ar/services/bifurcation-intervention/"
 all_services_url_cto: "/ar/services/cto-intervention/"
 all_services_url_coronary_fistula: "/ar/services/coronary-fistula-treatment/"
 all_services_url_ivus: "/ar/services/ivus/"
@@ -355,7 +355,7 @@ ic_structural_6: "علاج الصمام ثلاثي الشرفات"
 # =============================================================================
 # Coronary URLs
 ic_url_coronary_1: "/ar/services/left-main-coronary-stent/"
-ic_url_coronary_2: "/ar/services/bifurkasyon-girisimi/"
+ic_url_coronary_2: "/ar/services/bifurcation-intervention/"
 ic_url_coronary_3: "/ar/services/cto-intervention/"
 ic_url_coronary_4: "/ar/services/coronary-fistula-treatment/"
 ic_url_coronary_5: "/ar/services/ivus/"

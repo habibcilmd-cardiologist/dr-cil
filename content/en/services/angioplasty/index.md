@@ -200,7 +200,7 @@ _This content has been prepared by Assoc. Prof. Dr. Habib Çil and is for genera
 Other treatments related to coronary angioplasty:
 
 -   [Left Main Coronary Stent]({{< relref "left-main-coronary-stent" >}}) - Left main coronary artery stenting
--   [Bifurcation Intervention]({{< relref "bifurkasyon-girisimi" >}}) - Branching point treatment
+-   [Bifurcation Intervention]({{< relref "bifurcation-intervention" >}}) - Branching point treatment
 -   [CTO Intervention]({{< relref "cto-intervention" >}}) - Chronic total occlusion treatment
 -   [IVUS]({{< relref "ivus" >}}) - Intravascular ultrasound imaging
 -   [FFR]({{< relref "ffr" >}}) - Fractional flow reserve measurement

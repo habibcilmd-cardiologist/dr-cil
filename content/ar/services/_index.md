@@ -15,7 +15,7 @@ translationKey: "services"
 
 <div class="services-grid">
   <a href="{{< relref "left-main-coronary-stent" >}}" class="service-card"><div class="service-icon">⭐</div><h4>تدخل الشريان التاجي الأيسر الرئيسي</h4><p>دعامة الشريان التاجي الأيسر الرئيسي</p></a>
-  <a href="{{< relref "bifurkasyon-girisimi" >}}" class="service-card"><div class="service-icon">🔀</div><h4>تدخلات التفرعات</h4><p>علاج نقطة تفرع الأوعية</p></a>
+  <a href="{{< relref "bifurcation-intervention" >}}" class="service-card"><div class="service-icon">🔀</div><h4>تدخلات التفرعات</h4><p>علاج نقطة تفرع الأوعية</p></a>
   <a href="{{< relref "cto-intervention" >}}" class="service-card"><div class="service-icon">🎯</div><h4>الانسداد الكلي المزمن</h4><p>فتح الأوعية المسدودة تماماً (CTO)</p></a>
   <a href="{{< relref "coronary-fistula-treatment" >}}" class="service-card"><div class="service-icon">🔗</div><h4>علاج الناسور التاجي</h4><p>إغلاق الاتصال الوعائي غير الطبيعي</p></a>
   <a href="{{< relref "ivus" >}}" class="service-card"><div class="service-icon">🔬</div><h4>IVUS</h4><p>التصوير بالموجات فوق الصوتية داخل الأوعية</p></a>

@@ -246,5 +246,5 @@ Other services related to IVUS:
 - [Coronary Angiography]({{< relref "angiography" >}}) - Diagnostic coronary imaging
 - [FFR (Pressure Wire)]({{< relref "ffr" >}}) - Fractional flow reserve
 - [Coronary Stenting]({{< relref "stent" >}}) - Vessel opening procedure
-- [Bifurcation Intervention]({{< relref "bifurkasyon-girisimi" >}}) - Branching site treatment
+- [Bifurcation Intervention]({{< relref "bifurcation-intervention" >}}) - Branching site treatment
 - [CTO Intervention]({{< relref "cto-intervention" >}}) - Chronic total occlusion opening

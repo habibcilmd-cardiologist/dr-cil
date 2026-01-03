@@ -15,7 +15,7 @@ translationKey: "services"
 
 <div class="services-grid">
   <a href="{{< relref "left-main-coronary-stent" >}}" class="service-card"><div class="service-icon">⭐</div><h4>Left Main Coronary Intervention</h4><p>Left main coronary artery stenting</p></a>
-  <a href="{{< relref "bifurkasyon-girisimi" >}}" class="service-card"><div class="service-icon">🔀</div><h4>Bifurcation Interventions</h4><p>Vessel branching point treatment</p></a>
+  <a href="{{< relref "bifurcation-intervention" >}}" class="service-card"><div class="service-icon">🔀</div><h4>Bifurcation Interventions</h4><p>Vessel branching point treatment</p></a>
   <a href="{{< relref "cto-intervention" >}}" class="service-card"><div class="service-icon">🎯</div><h4>Chronic Total Occlusion</h4><p>Opening completely blocked vessels (CTO)</p></a>
   <a href="{{< relref "coronary-fistula-treatment" >}}" class="service-card"><div class="service-icon">🔗</div><h4>Coronary Fistula Treatment</h4><p>Abnormal vessel connection closure</p></a>
   <a href="{{< relref "ivus" >}}" class="service-card"><div class="service-icon">🔬</div><h4>IVUS</h4><p>Intravascular ultrasound imaging</p></a>

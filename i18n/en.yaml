@@ -142,7 +142,7 @@ all_services_url_asd_pfo: "/en/services/heart-hole-closure/"
 
 # Coronary Interventions
 all_services_url_left_main: "/en/services/left-main-coronary-stent/"
-all_services_url_bifurcation: "/en/services/bifurkasyon-girisimi/"
+all_services_url_bifurcation: "/en/services/bifurcation-intervention/"
 all_services_url_cto: "/en/services/cto-intervention/"
 all_services_url_coronary_fistula: "/en/services/coronary-fistula-treatment/"
 all_services_url_ivus: "/en/services/ivus/"
@@ -228,7 +228,7 @@ ic_structural_6: "Tricuspid valve treatment"
 # =============================================================================
 # Coronary URLs
 ic_url_coronary_1: "/en/services/left-main-coronary-stent/"
-ic_url_coronary_2: "/en/services/bifurkasyon-girisimi/"
+ic_url_coronary_2: "/en/services/bifurcation-intervention/"
 ic_url_coronary_3: "/en/services/cto-intervention/"
 ic_url_coronary_4: "/en/services/coronary-fistula-treatment/"
 ic_url_coronary_5: "/en/services/ivus/"
