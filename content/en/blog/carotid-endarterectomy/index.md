@@ -3,8 +3,8 @@ title: 'Carotid Endarterectomy: What You Need to Know About Neck Artery Surgery'
 description: What is carotid endarterectomy (CEA)? Who is a candidate for carotid
   artery surgery, how is it performed, what are the risks and alternatives? Comprehensive
   information about stroke prevention, recovery process, and treatment options.
-date: 2024-12-12
-lastmod: 2024-12-12
+date: 2024-01-15
+lastmod: 2024-01-15
 translationKey: carotid-endarterectomy
 categories:
 - Cardiology

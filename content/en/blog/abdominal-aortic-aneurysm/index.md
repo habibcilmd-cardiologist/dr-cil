@@ -1,8 +1,8 @@
 ---
 title: 'Abdominal Aortic Aneurysm (AAA): Symptoms, Risks and Treatment'
 description: "What is Abdominal Aortic Aneurysm (AAA)? Symptoms, causes and risk factors. Non-surgical aneurysm treatment (EVAR) and surgical options in Istanbul."
-date: 2025-12-11
-lastmod: 2025-12-11
+date: 2025-12-14
+lastmod: 2025-12-14
 translationKey: abdominal-aortic-aneurysm
 categories:
 - Vascular Diseases

@@ -3,8 +3,8 @@ title: 'Karotis Endarterektomi: Boyun Şah Damarı Ameliyatı Hakkında Bilmeniz
 description: Karotis endarterektomi (CEA) nedir? Boyun şah damarı ameliyatı kimlere
   uygulanır, nasıl yapılır, riskleri ve alternatifleri nelerdir? Felç riski, iyileşme
   süreci ve tedavi seçenekleri hakkında kapsamlı bilgi.
-date: 2024-12-12
-lastmod: 2024-12-12
+date: 2024-01-15
+lastmod: 2024-01-15
 translationKey: carotid-endarterectomy
 categories:
 - Kardiyoloji

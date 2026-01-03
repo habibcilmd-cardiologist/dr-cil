@@ -1,8 +1,8 @@
 ---
 title: 'Kalp Bypass (CABG): Koroner Arter Bypass Cerrahisi Rehberi'
 description: Kalp bypass ameliyatı nedir? CABG cerrahisi nasıl yapılır, riskleri nelerdir? Koroner arter bypass greft ameliyatı, iyileşme süreci ve yaşam kalitesi hakkında detaylı bilgi.
-date: 2025-12-12
-lastmod: 2025-12-12
+date: 2024-04-05
+lastmod: 2024-04-05
 translationKey: cabg
 categories:
 - Kalp Cerrahisi

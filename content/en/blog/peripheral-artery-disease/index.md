@@ -3,8 +3,8 @@ title: What is Peripheral Artery Disease? Symptoms, Diagnosis, and Treatment
 description: Comprehensive guide to peripheral artery disease. Learn about leg artery
   blockage symptoms, risk factors, diagnostic methods, and treatment options from
   a cardiology specialist.
-date: 2024-12-03
-lastmod: 2024-12-03
+date: 2025-12-19
+lastmod: 2025-12-19
 translationKey: peripheral-artery-disease
 categories:
 - Cardiology

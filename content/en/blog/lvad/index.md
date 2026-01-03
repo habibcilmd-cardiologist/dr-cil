@@ -1,8 +1,8 @@
 ---
 title: 'LVAD: Heart Failure Treatment with Left Ventricular Assist Device'
 description: What is LVAD, how does it work? Who receives a left ventricular assist device, how does it affect daily life? Comprehensive guide on mechanical heart support.
-date: 2025-12-12
-lastmod: 2025-12-12
+date: 2024-05-15
+lastmod: 2024-05-15
 translationKey: lvad
 categories:
 - Cardiac Surgery

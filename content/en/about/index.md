@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: "Assoc. Prof. Dr. Habib ÇİL - Istanbul University Faculty of Medicine graduate, Akdeniz University Cardiology specialist. 20+ years experience, academic career and interventional cardiology expertise."
+description: "Assoc. Prof. Dr. Habib ÇİL - Istanbul University Cerrahpasa Faculty of Medicine graduate, Akdeniz University Cardiology specialist. 20+ years experience, academic career and interventional cardiology expertise."
 date: 2024-01-01
 translationKey: "about"
 showTableOfContents: true

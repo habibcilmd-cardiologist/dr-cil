@@ -3,8 +3,8 @@ title: What is Diabetic Foot? Symptoms, Treatment, and Prevention Methods
 description: Comprehensive guide to diabetic foot. Interventional cardiology for limb
   salvage, endovascular treatment, revascularization procedures. Symptoms, treatment
   methods, and amputation risk reduction strategies.
-date: 2024-12-05
-lastmod: 2024-12-05
+date: 2025-12-17
+lastmod: 2025-12-17
 translationKey: diabetic-foot
 categories:
 - Cardiology

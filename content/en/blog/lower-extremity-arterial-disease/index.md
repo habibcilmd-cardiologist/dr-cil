@@ -1,8 +1,8 @@
 ---
 title: 'Lower Extremity Arterial Disease: Leg Artery Blockage Symptoms and Treatment'
 description: "What is leg artery blockage (Lower Extremity Arterial Disease)? Leg pain while walking, causes and symptoms. Angioplasty, stent and non-surgical treatments in Istanbul."
-date: 2025-12-11
-lastmod: 2025-12-11
+date: 2025-12-13
+lastmod: 2025-12-13
 translationKey: lower-extremity-arterial-disease
 categories:
 - Vascular Diseases

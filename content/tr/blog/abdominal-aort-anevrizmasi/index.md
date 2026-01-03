@@ -1,8 +1,8 @@
 ---
 title: 'Abdominal Aort Anevrizması (AAA): Belirtileri, Riskleri ve Tedavi Yöntemleri'
 description: "Abdominal Aort Anevrizması (AAA) nedir? Belirtileri, nedenleri ve risk faktörleri nelerdir? İstanbul'da ameliyatsız anevrizma tedavisi (EVAR) ve cerrahi seçenekler hakkında detaylı bilgi."
-date: 2025-12-11
-lastmod: 2025-12-12
+date: 2025-12-14
+lastmod: 2025-12-14
 translationKey: abdominal-aortic-aneurysm
 categories:
 - Damar Hastalıkları

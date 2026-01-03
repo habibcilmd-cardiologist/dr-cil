@@ -1,8 +1,8 @@
 ---
 title: 'Kalp Nakli: Son Dönem Kalp Yetmezliğinde Hayat Kurtaran Tedavi'
 description: Kalp nakli nedir, kimlere yapılır? Kalp transplantasyonu süreci, bekleme listesi, ameliyat sonrası yaşam ve başarı oranları hakkında kapsamlı rehber.
-date: 2025-12-12
-lastmod: 2025-12-12
+date: 2024-03-20
+lastmod: 2024-03-20
 translationKey: heart-transplant
 categories:
 - Kalp Cerrahisi

@@ -1,6 +1,6 @@
 ---
 title: "Hakkımda"
-description: "Doç. Dr. Habib ÇİL - İstanbul Üniversitesi Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji uzmanı. 20+ yıllık deneyim, akademik kariyer ve girişimsel kardiyoloji uzmanlığı."
+description: "Doç. Dr. Habib ÇİL - İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji uzmanı. 20+ yıllık deneyim, akademik kariyer ve girişimsel kardiyoloji uzmanlığı."
 date: 2024-01-01
 translationKey: "about"
 showTableOfContents: true

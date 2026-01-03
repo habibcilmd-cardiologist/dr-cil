@@ -1,8 +1,8 @@
 ---
 title: 'CABG: Complete Guide to Coronary Artery Bypass Surgery'
 description: What is heart bypass surgery? How is CABG performed, what are the risks? Comprehensive information about coronary artery bypass graft surgery, recovery process and quality of life.
-date: 2025-12-12
-lastmod: 2025-12-12
+date: 2024-04-05
+lastmod: 2024-04-05
 translationKey: cabg
 categories:
 - Cardiac Surgery

@@ -1,8 +1,8 @@
 ---
 title: 'Heart Transplant: Life-Saving Treatment for End-Stage Heart Failure'
 description: What is heart transplant, who is eligible? Complete guide on heart transplantation process, waiting list, post-surgery life and success rates.
-date: 2025-12-12
-lastmod: 2025-12-12
+date: 2024-03-20
+lastmod: 2024-03-20
 translationKey: heart-transplant
 categories:
 - Cardiac Surgery

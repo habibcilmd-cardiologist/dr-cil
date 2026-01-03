@@ -1,8 +1,8 @@
 ---
 title: 'Venous Insufficiency and Varicose Veins: Symptoms, Causes and Non-Surgical Treatment'
 description: "What is venous insufficiency and varicose veins? Causes of leg swelling and pain. Laser varicose vein treatment (EVLA), foam sclerotherapy and compression stockings in Istanbul."
-date: 2025-12-11
-lastmod: 2025-12-11
+date: 2025-12-15
+lastmod: 2025-12-15
 translationKey: venous-insufficiency
 categories:
 - Venous Diseases

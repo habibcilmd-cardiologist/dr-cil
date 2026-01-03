@@ -1,8 +1,8 @@
 ---
 title: 'Alt Ekstremite Arter Hastalığı: Bacak Damar Tıkanıklığı Belirtileri ve Tedavisi'
 description: "Bacak damar tıkanıklığı (Alt Ekstremite Arter Hastalığı) nedir? Yürürken bacak ağrısı, nedenleri ve belirtileri. İstanbul'da anjiyoplasti, stent ve ameliyatsız damar açma tedavileri."
-date: 2025-12-11
-lastmod: 2025-12-12
+date: 2025-12-13
+lastmod: 2025-12-13
 translationKey: lower-extremity-arterial-disease
 categories:
 - Damar Hastalıkları

@@ -1,8 +1,8 @@
 ---
 title: 'LVAD: Sol Ventrikül Destek Cihazı ile Kalp Yetmezliği Tedavisi'
 description: LVAD nedir, nasıl çalışır? Sol ventrikül destek cihazı kimlere takılır, günlük yaşam nasıl etkilenir? Mekanik kalp desteği hakkında kapsamlı rehber.
-date: 2025-12-12
-lastmod: 2025-12-12
+date: 2024-05-15
+lastmod: 2024-05-15
 translationKey: lvad
 categories:
 - Kalp Cerrahisi

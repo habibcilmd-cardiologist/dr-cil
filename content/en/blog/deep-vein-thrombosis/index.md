@@ -1,8 +1,8 @@
 ﻿---
 title: 'Deep Vein Thrombosis (DVT): Symptoms, Causes, and Treatment Options'
 description: What is Deep Vein Thrombosis (DVT)? What are the symptoms, causes, and risk factors of blood clots in the legs? Comprehensive guide on non-surgical clot treatment in Istanbul.
-date: 2025-12-07
-lastmod: 2025-12-07
+date: 2025-12-18
+lastmod: 2025-12-18
 translationKey: deep-vein-thrombosis
 categories:
 - Venous Diseases

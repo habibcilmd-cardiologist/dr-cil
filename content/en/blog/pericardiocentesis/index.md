@@ -1,8 +1,8 @@
 ---
 title: 'Pericardiocentesis: Guide to Pericardial Fluid Drainage Procedure'
 description: What is pericardiocentesis, how is it performed? Pericardial effusion treatment, procedure risks and recovery. Complete information about pericardial fluid accumulation treatment.
-date: 2025-12-12
-lastmod: 2025-12-12
+date: 2024-02-10
+lastmod: 2024-02-10
 translationKey: pericardiocentesis
 categories:
 - Interventional Cardiology

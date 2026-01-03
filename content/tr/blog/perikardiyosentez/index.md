@@ -1,8 +1,8 @@
 ---
 title: 'Perikardiyosentez: Kalp Zarı Sıvı Boşaltma İşlemi Rehberi'
 description: Perikardiyosentez nedir, nasıl yapılır? Perikardiyal efüzyon tedavisi, işlem riskleri ve sonrası hakkında kapsamlı bilgi. Kalp zarında sıvı birikimi tedavisi.
-date: 2025-12-12
-lastmod: 2025-12-12
+date: 2024-02-10
+lastmod: 2024-02-10
 translationKey: pericardiocentesis
 categories:
 - Girişimsel Kardiyoloji
