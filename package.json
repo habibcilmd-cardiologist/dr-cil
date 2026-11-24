@@ -2,6 +2,12 @@
 	"name": "drcil-site",
 	"version": "1.0.0",
 	"description": "Dr. Cil website built with Hugo",
+	"private": true,
+	"scripts": {
+		"dev": "hugo server --environment development --bind 127.0.0.1 --port 1313 --baseURL http://localhost:1313/ --disableFastRender --renderToMemory",
+		"start": "npm run dev",
+		"build": "hugo --environment production --minify --cleanDestinationDir"
+	},
 	"devDependencies": {
 		"netlify-plugin-cache": "^1.0.3"
 	}

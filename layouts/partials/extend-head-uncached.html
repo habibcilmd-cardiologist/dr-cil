@@ -6,6 +6,7 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 =============================================================================
 */}}
 
+{{ if and hugo.IsProduction (not hugo.IsServer) }}
 <!-- Google tag (gtag.js) -->
 <script
 	async
@@ -20,6 +21,7 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 
 	gtag("config", "G-TDC4PMVEMK");
 </script>
+{{ end }}
 
 {{/* Hreflang Tags */}} {{ if .IsTranslated }} {{ range .AllTranslations }}
 <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />

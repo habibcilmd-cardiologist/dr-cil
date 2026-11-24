@@ -10,6 +10,8 @@ var first = output.firstChild;
 var last = output.lastChild;
 var searchVisible = false;
 var indexed = false;
+var indexing = false;
+var indexError = false;
 var hasResults = false;
 
 // Listen for events
@@ -90,7 +92,7 @@ input.onkeyup = function (event) {
 };
 
 function displaySearch() {
-	if (!indexed) {
+	if (!indexed && !indexing) {
 		buildIndex();
 	}
 	if (!searchVisible) {
@@ -107,34 +109,63 @@ function hideSearch() {
 		wrapper.style.visibility = "hidden";
 		input.value = "";
 		output.innerHTML = "";
+		hasResults = false;
 		document.activeElement.blur();
 		searchVisible = false;
 	}
 }
 
-function fetchJSON(path, callback) {
+function showSearchMessage(message) {
+	var item = document.createElement("li");
+	item.className = "px-3 py-2 text-neutral-500 dark:text-neutral-400";
+	item.textContent = message;
+	output.innerHTML = "";
+	output.appendChild(item);
+	hasResults = false;
+}
+
+function fetchJSON(path, callback, onError) {
 	var httpRequest = new XMLHttpRequest();
-	httpRequest.onreadystatechange = function () {
-		if (httpRequest.readyState === 4) {
-			if (httpRequest.status === 200) {
-				var data = JSON.parse(httpRequest.responseText);
-				if (callback) callback(data);
-			}
+	httpRequest.onload = function () {
+		if (httpRequest.status !== 200) {
+			onError();
+			return;
+		}
+		try {
+			callback(JSON.parse(httpRequest.responseText));
+		} catch (error) {
+			onError();
 		}
 	};
+	httpRequest.onerror = onError;
+	httpRequest.ontimeout = onError;
+	httpRequest.onabort = onError;
 	httpRequest.open("GET", path);
+	httpRequest.timeout = 15000;
 	httpRequest.send();
 }
 
 function buildIndex() {
+	indexing = true;
+	indexError = false;
 	var baseURL = wrapper.getAttribute("data-url");
 	baseURL = baseURL.replace(/\/?$/, "/");
 
-	// Show loading message
-	output.innerHTML =
-		'<li class="px-3 py-2 text-neutral-500 dark:text-neutral-400">Loading search index...</li>';
+	showSearchMessage("Loading search index...");
+
+	function failIndex() {
+		indexing = false;
+		indexError = true;
+		indexed = false;
+		fuse = undefined;
+		showSearchMessage("Search could not be loaded. Close and reopen search to try again.");
+	}
 
 	fetchJSON(baseURL + "index.json", function (data) {
+		if (!Array.isArray(data)) {
+			failIndex();
+			return;
+		}
 		var options = {
 			shouldSort: true,
 			ignoreLocation: true,
@@ -149,22 +180,22 @@ function buildIndex() {
 		};
 		fuse = new Fuse(data, options);
 		indexed = true;
+		indexing = false;
 
 		// Clear loading message and execute any pending query
 		output.innerHTML = "";
 		if (input.value.trim()) {
 			executeQuery(input.value);
 		}
-	});
+	}, failIndex);
 }
 
 function executeQuery(term) {
 	// Check if fuse is initialized
 	if (!fuse) {
-		// Show a message that search is loading
-		output.innerHTML =
-			'<li class="px-3 py-2 text-neutral-500 dark:text-neutral-400">Search is loading, please wait...</li>';
-		hasResults = false;
+		showSearchMessage(indexError
+			? "Search could not be loaded. Close and reopen search to try again."
+			: "Search is loading, please wait...");
 		return;
 	}
 
@@ -218,11 +249,8 @@ function executeQuery(term) {
 		});
 		hasResults = true;
 	} else {
-		resultsHTML =
-			'<li class="px-3 py-2 text-neutral-500 dark:text-neutral-400">No results found for "' +
-			term +
-			'"</li>';
-		hasResults = false;
+		showSearchMessage('No results found for "' + term + '"');
+		return;
 	}
 
 	output.innerHTML = resultsHTML;
