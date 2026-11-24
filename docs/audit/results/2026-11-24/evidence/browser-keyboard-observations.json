@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-24",
+  "url": "http://localhost:1313/hizmetler/dizalti-damar-tikanikligi/",
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "dpr": 1
+  },
+  "method": "Actual CUA locator clicks + keyboard presses + DOM/computed state",
+  "appointment_modal": {
+    "open": {
+      "activeId": "close-appointment-modal",
+      "hidden": false,
+      "activeInsideModal": true
+    },
+    "shiftTabFromClose": {
+      "activeId": "appointment-button",
+      "activeTag": "BUTTON",
+      "activeInsideModal": false
+    },
+    "escape": {
+      "hidden": true,
+      "activeId": "appointment-button"
+    }
+  },
+  "mobile_menu": {
+    "openerTag": "DIV",
+    "openerRole": null,
+    "openerTabIndex": -1,
+    "closeTag": "LI",
+    "afterClick": {
+      "visibility": "visible",
+      "opacity": "1",
+      "openerVisibility": "hidden",
+      "bodyOverflowY": "hidden"
+    },
+    "afterEscape": {
+      "visibility": "visible",
+      "opacity": "1",
+      "bodyOverflowY": "hidden"
+    },
+    "cleanup": "Closed using close control"
+  },
+  "search": {
+    "query": "__drcil_audit_no_results__",
+    "resultText": "No results found for \"__drcil_audit_no_results__\"",
+    "activeId": "search-query",
+    "ariaLabel": null,
+    "modalRole": null,
+    "afterEscape": {
+      "activeId": "",
+      "activeTag": "BODY",
+      "wrapperVisibility": "hidden"
+    }
+  },
+  "not_tested": [
+    "Full sequential keyboard tab coverage",
+    "screen reader",
+    "search controlled HTTP failure",
+    "Enter without result",
+    "contrast/touch target automated audit"
+  ],
+  "external_side_effects": "No contact form, booking, WhatsApp message or account submission"
+}

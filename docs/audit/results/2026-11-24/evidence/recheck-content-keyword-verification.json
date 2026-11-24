@@ -1,0 +1,102 @@
+{
+  "checked_at_utc": "2026-11-24T01:43:00.845890+00:00",
+  "scope": "Static build; no HTTP/GSC/GBP/SERP/form delivery tests",
+  "queries": [
+    {
+      "query": "istanbul kardiyolog",
+      "url": "https://docdrhabibcil.com/",
+      "build_file": "/tmp/dr-cil-audit-2026-11-24/public/index.html",
+      "exists": true,
+      "canonical_values": [
+        "https://docdrhabibcil.com/"
+      ],
+      "canonical_match": true
+    },
+    {
+      "query": "Kardiyoloji Uzmanı",
+      "url": "https://docdrhabibcil.com/",
+      "build_file": "/tmp/dr-cil-audit-2026-11-24/public/index.html",
+      "exists": true,
+      "canonical_values": [
+        "https://docdrhabibcil.com/"
+      ],
+      "canonical_match": true
+    },
+    {
+      "query": "Diyabetik Ayak",
+      "url": "https://docdrhabibcil.com/blog/diyabetik-ayak/",
+      "build_file": "/tmp/dr-cil-audit-2026-11-24/public/blog/diyabetik-ayak/index.html",
+      "exists": true,
+      "canonical_values": [
+        "https://docdrhabibcil.com/blog/diyabetik-ayak/"
+      ],
+      "canonical_match": true
+    },
+    {
+      "query": "Girişimsel Tedaviler",
+      "url": "https://docdrhabibcil.com/hizmetler/",
+      "build_file": "/tmp/dr-cil-audit-2026-11-24/public/hizmetler/index.html",
+      "exists": true,
+      "canonical_values": [
+        "https://docdrhabibcil.com/hizmetler/"
+      ],
+      "canonical_match": true
+    },
+    {
+      "query": "Girişimsel Kardiyoloji",
+      "url": "https://docdrhabibcil.com/hizmetler/",
+      "build_file": "/tmp/dr-cil-audit-2026-11-24/public/hizmetler/index.html",
+      "exists": true,
+      "canonical_values": [
+        "https://docdrhabibcil.com/hizmetler/"
+      ],
+      "canonical_match": true
+    },
+    {
+      "query": "Diz altı damar açma",
+      "url": "https://docdrhabibcil.com/hizmetler/dizalti-damar-tikanikligi/",
+      "build_file": "/tmp/dr-cil-audit-2026-11-24/public/hizmetler/dizalti-damar-tikanikligi/index.html",
+      "exists": true,
+      "canonical_values": [
+        "https://docdrhabibcil.com/hizmetler/dizalti-damar-tikanikligi/"
+      ],
+      "canonical_match": true
+    },
+    {
+      "query": "Girişimsel damar açma",
+      "url": "https://docdrhabibcil.com/hizmetler/",
+      "build_file": "/tmp/dr-cil-audit-2026-11-24/public/hizmetler/index.html",
+      "exists": true,
+      "canonical_values": [
+        "https://docdrhabibcil.com/hizmetler/"
+      ],
+      "canonical_match": true
+    },
+    {
+      "query": "Diyabetik ayak tedavisi",
+      "url": "https://docdrhabibcil.com/blog/diyabetik-ayak/",
+      "build_file": "/tmp/dr-cil-audit-2026-11-24/public/blog/diyabetik-ayak/index.html",
+      "exists": true,
+      "canonical_values": [
+        "https://docdrhabibcil.com/blog/diyabetik-ayak/"
+      ],
+      "canonical_match": true
+    }
+  ],
+  "hub_interventional_anchor_exists": true,
+  "new_dedicated_diabetic_service_source_paths": [],
+  "privacy_sources_exist": [
+    [
+      "content/tr/kvkk/index.md",
+      true
+    ],
+    [
+      "content/en/privacy/index.md",
+      true
+    ],
+    [
+      "content/ar/privacy/index.md",
+      true
+    ]
+  ]
+}

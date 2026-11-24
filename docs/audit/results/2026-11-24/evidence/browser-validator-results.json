@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-24",
+  "input": "Actual JSON-LD extracted via DOM from http://localhost:1313/hizmetler/dizalti-damar-tikanikligi/ and wrapped in script[type=application/ld+json]",
+  "input_characters_jsonld": 5691,
+  "limitations": [
+    "Code mode, not live URL crawl.",
+    "Localhost IDs/URLs retained. This is development render, not byte-for-byte production input.",
+    "Only one representative service code sample tested.",
+    "Visible full page content and public URL/image fetchability are not validated by code-only test."
+  ],
+  "schema_org_validator": {
+    "url": "https://validator.schema.org/",
+    "status": "EXECUTED",
+    "items_detected": 4,
+    "errors": 1,
+    "warnings": 3,
+    "groups": {
+      "BreadcrumbList": {
+        "errors": 0,
+        "warnings": 1,
+        "items": 1
+      },
+      "WebSite": {
+        "errors": 0,
+        "warnings": 0,
+        "items": 1
+      },
+      "MedicalWebPage": {
+        "errors": 1,
+        "warnings": 2,
+        "items": 1
+      },
+      "FAQPage": {
+        "errors": 0,
+        "warnings": 0,
+        "items": 1
+      }
+    },
+    "observed_error": "TherapeuticProcedure (procedureType dizesinin değeri geçersiz. Geçerli değerler: [http://schema.org/NoninvasiveProcedure,http://schema.org/PercutaneousProcedure])",
+    "observed_warnings": [
+      "performer özelliği, şema (örneğin, schema.org) tarafından MedicalProcedure türünde bir nesne olarak tanınmıyor.",
+      "performer özelliği, şema (örneğin, schema.org) tarafından MedicalWebPage türünde bir nesne olarak tanınmıyor."
+    ],
+    "breadcrumb_warning_detail": "Count observed, detail not expanded yet."
+  },
+  "google_rich_results_test": {
+    "url": "https://search.google.com/test/rich-results/result?id=qsf2f9kvkCtQm7CbrWhRBg",
+    "status": "EXECUTED",
+    "summary": "3 geçerli öğe algılandı",
+    "detected": {
+      "Breadcrumbs": "1 valid item",
+      "Local businesses": "1 valid item, noncritical issues detected",
+      "Organization": "1 valid item"
+    },
+    "details": "LocalBusiness has 3 noncritical warnings: missing address, missing priceRange, invalid image URL. Item remains valid. The tested image URL is localhost; this warning does not prove production-image fetch failure.",
+    "noncritical_warnings": [
+      {
+        "property": "address",
+        "issue": "missing",
+        "severity": "NONCRITICAL",
+        "optional_as_displayed": true
+      },
+      {
+        "property": "priceRange",
+        "issue": "missing",
+        "severity": "NONCRITICAL",
+        "optional_as_displayed": true
+      },
+      {
+        "property": "image",
+        "issue": "invalid URL",
+        "severity": "NONCRITICAL",
+        "optional_as_displayed": true,
+        "limitation": "DEV input retains localhost image URL; do not conflate with independently proven missing build artifact"
+      }
+    ],
+    "breadcrumb_interpretation": "One valid breadcrumb item detected despite duplicate graph definitions and positions; do not label these as observed Google critical errors."
+  },
+  "url_inspection": "NOT_RUN (no authenticated GSC connection)"
+}

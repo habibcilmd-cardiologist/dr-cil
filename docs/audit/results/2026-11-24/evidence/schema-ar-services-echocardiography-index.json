@@ -1,0 +1,274 @@
+{
+  "file": "ar/services/echocardiography/index.html",
+  "url": "https://docdrhabibcil.com/ar/services/echocardiography/",
+  "language": "ar",
+  "canonical": [
+    "https://docdrhabibcil.com/ar/services/echocardiography/"
+  ],
+  "refresh": null,
+  "jsonld_script_count": 1,
+  "parse_errors": [],
+  "microdata": [],
+  "rdfa": [],
+  "top_nodes": [
+    {
+      "script": 1,
+      "node": 1,
+      "value": {
+        "@id": "https://docdrhabibcil.com/ar/#website",
+        "@type": "WebSite",
+        "description": "أ.د. حبيب جيل - أخصائي أمراض القلب. خبير في تخطيط صدى القلب، القسطرة القلبية، علاج ارتفاع ضغط الدم وأمراض الشرايين التاجية.",
+        "inLanguage": "ar-SA",
+        "name": "أ.د. حبيب جيل | أخصائي أمراض القلب",
+        "publisher": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "url": "https://docdrhabibcil.com/ar/"
+      },
+      "issues": []
+    },
+    {
+      "script": 1,
+      "node": 2,
+      "value": {
+        "@id": "https://docdrhabibcil.com/#physician",
+        "@type": [
+          "Person",
+          "Physician"
+        ],
+        "description": "أخصائي أمراض القلب في إسطنبول. خبير في فتح شرايين الساق، وعلاج القدم السكري.",
+        "email": "habibcilmd@gmail.com",
+        "familyName": "ÇİL",
+        "gender": "Male",
+        "givenName": "Habib",
+        "honorificPrefix": "Doç. Dr.",
+        "image": "https://docdrhabibcil.com/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp",
+        "jobTitle": "أخصائي أمراض القلب",
+        "medicalSpecialty": [
+          "http://schema.org/Cardiovascular"
+        ],
+        "name": "Doç. Dr. Habib ÇİL",
+        "sameAs": [
+          "https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul",
+          "https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul",
+          "https://www.instagram.com/doc.dr.habibcil",
+          "https://wa.me/905339454639"
+        ],
+        "telephone": "+90 212 665 50 50",
+        "url": "https://docdrhabibcil.com/"
+      },
+      "issues": [
+        "SCHEMA_IMAGE_MISSING_IN_BUILD"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 3,
+      "value": {
+        "@id": "https://docdrhabibcil.com/ar/services/echocardiography/#breadcrumb",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/ar/",
+            "name": "أ.د. حبيب جيل | أخصائي أمراض القلب",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/ar/services/",
+            "name": "الخدمات",
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/ar/services/echocardiography/",
+            "name": "تخطيط صدى القلب - تصوير القلب بالموجات فوق الصوتية",
+            "position": 3
+          }
+        ]
+      },
+      "issues": [
+        "SCHEMA_BREADCRUMB_POSITIONS"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 4,
+      "value": {
+        "@id": "https://docdrhabibcil.com/ar/services/echocardiography/#faq",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "لا، تخطيط صدى القلب عبر الصدر هو إجراء غير مؤلم تمامًا. يتم وضع الجل فقط على الصدر والتصوير بمسبار."
+            },
+            "name": "هل تخطيط صدى القلب مؤلم؟"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "يستغرق تخطيط صدى القلب القياسي عبر الصدر 20-45 دقيقة."
+            },
+            "name": "كم يستغرق تخطيط صدى القلب؟"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "الصيام غير مطلوب للصدى عبر الصدر. مطلوب صيام 6 ساعات للصدى عبر المريء."
+            },
+            "name": "هل أحتاج للصيام من أجل تخطيط صدى القلب؟"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "لا، نظرًا لاستخدام الموجات الصوتية، فهو لا يحتوي على إشعاع وهو آمن تمامًا."
+            },
+            "name": "هل تخطيط صدى القلب ضار؟"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "عادة ما يتم تقييم النتائج والإبلاغ عنها في نفس اليوم."
+            },
+            "name": "متى تظهر نتائج تخطيط صدى القلب؟"
+          }
+        ],
+        "name": "تخطيط صدى القلب - تصوير القلب بالموجات فوق الصوتية - Frequently Asked Questions",
+        "url": "https://docdrhabibcil.com/ar/services/echocardiography/"
+      },
+      "issues": []
+    },
+    {
+      "script": 1,
+      "node": 5,
+      "value": {
+        "@id": "https://docdrhabibcil.com/ar/services/echocardiography/#procedure",
+        "@type": "MedicalProcedure",
+        "bodyLocation": "Heart",
+        "description": "تخطيط صدى القلب الخبير في إسطنبول. أخصائي أمراض القلب أ.م.د. حبيب جيل يقوم بتقييم الموجات فوق الصوتية للقلب. صدى عبر الصدر وعبر المريء. مستشفى أوراسيا.",
+        "followup": "Post-procedure follow-up appointments will be scheduled.",
+        "howPerformed": "Performed by specialist cardiologist using modern medical equipment.",
+        "name": "تخطيط صدى القلب - تصوير القلب بالموجات فوق الصوتية",
+        "performer": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "preparation": "Pre-procedure preparation instructions will be provided by your doctor.",
+        "procedureType": "DiagnosticProcedure",
+        "recognizingAuthority": {
+          "@type": "Organization",
+          "name": "Turkish Society of Cardiology"
+        },
+        "status": "https://schema.org/EventScheduled",
+        "url": "https://docdrhabibcil.com/ar/services/echocardiography/"
+      },
+      "issues": [
+        "SCHEMA_BLANKET_PROCEDURE_SEMANTICS_REVIEW",
+        "SCHEMA_PERFORMER_DOMAIN",
+        "SCHEMA_PROCEDURETYPE_NON_ENUM"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 6,
+      "value": {
+        "@id": "https://docdrhabibcil.com/ar/services/echocardiography/#webpage",
+        "@type": "MedicalWebPage",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "تخطيط صدى القلب - تصوير القلب بالموجات فوق الصوتية"
+        },
+        "author": {
+          "@id": "https://docdrhabibcil.com/#physician",
+          "@type": "Physician"
+        },
+        "dateModified": "2024-12-04",
+        "datePublished": "2024-01-15",
+        "description": "تخطيط صدى القلب الخبير في إسطنبول. أخصائي أمراض القلب أ.م.د. حبيب جيل يقوم بتقييم الموجات فوق الصوتية للقلب. صدى عبر الصدر وعبر المريء. مستشفى أوراسيا.",
+        "inLanguage": "ar",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "أ.د. حبيب جيل | أخصائي أمراض القلب",
+          "url": "https://docdrhabibcil.com/"
+        },
+        "lastReviewed": "2024-12-04",
+        "mainEntity": {
+          "@id": "https://docdrhabibcil.com/ar/services/echocardiography/#procedure"
+        },
+        "name": "تخطيط صدى القلب - تصوير القلب بالموجات فوق الصوتية",
+        "performer": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "reviewedBy": {
+          "@id": "https://docdrhabibcil.com/#physician",
+          "@type": "Physician"
+        },
+        "url": "https://docdrhabibcil.com/ar/services/echocardiography/"
+      },
+      "issues": [
+        "SCHEMA_PERFORMER_DOMAIN",
+        "SCHEMA_REVIEW_EVIDENCE_MISSING"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 7,
+      "value": {
+        "@id": "https://docdrhabibcil.com/ar/services/echocardiography/#breadcrumb",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/",
+            "name": "Home",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/services/",
+            "name": "Services",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/ar/services/echocardiography/",
+            "name": "تخطيط صدى القلب - تصوير القلب بالموجات فوق الصوتية",
+            "position": 3
+          }
+        ],
+        "performer": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        }
+      },
+      "issues": [
+        "SCHEMA_BREADCRUMB_MISSING_TARGET",
+        "SCHEMA_PERFORMER_DOMAIN"
+      ]
+    }
+  ],
+  "issues": [
+    "SCHEMA_BLANKET_PROCEDURE_SEMANTICS_REVIEW",
+    "SCHEMA_BREADCRUMB_MISSING_TARGET",
+    "SCHEMA_BREADCRUMB_POSITIONS",
+    "SCHEMA_CONFLICTING_ID",
+    "SCHEMA_IMAGE_MISSING_IN_BUILD",
+    "SCHEMA_PERFORMER_DOMAIN",
+    "SCHEMA_PROCEDURETYPE_NON_ENUM",
+    "SCHEMA_REVIEW_EVIDENCE_MISSING"
+  ],
+  "conflicting_ids": [
+    {
+      "id": "https://docdrhabibcil.com/ar/services/echocardiography/#breadcrumb",
+      "definitions": 2,
+      "conflicting_properties": [
+        "itemListElement"
+      ]
+    }
+  ]
+}

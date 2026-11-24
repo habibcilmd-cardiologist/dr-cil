@@ -1,0 +1,108 @@
+{
+  "timestamp_utc": "2026-11-24T01:02:27.595170Z",
+  "dns_local_environment": {
+    "localhost": [
+      "127.0.0.1",
+      "::1"
+    ],
+    "docdrhabibcil.com": {
+      "error": "[Errno 8] nodename nor servname provided, or not known"
+    },
+    "www.docdrhabibcil.com": {
+      "error": "[Errno 8] nodename nor servname provided, or not known"
+    },
+    "google.com": {
+      "error": "[Errno 8] nodename nor servname provided, or not known"
+    },
+    "github.com": {
+      "error": "[Errno 8] nodename nor servname provided, or not known"
+    }
+  },
+  "http": [
+    {
+      "url": "http://127.0.0.1:1313/",
+      "command": [
+        "curl",
+        "-sS",
+        "-L",
+        "-I",
+        "--connect-timeout",
+        "3",
+        "--max-time",
+        "8",
+        "http://127.0.0.1:1313/"
+      ],
+      "returncode": 7,
+      "stdout": "",
+      "stderr": "curl: (7) Failed to connect to 127.0.0.1 port 1313 after 0 ms: Couldn't connect to server\n"
+    },
+    {
+      "url": "http://localhost:1313/",
+      "command": [
+        "curl",
+        "-sS",
+        "-L",
+        "-I",
+        "--connect-timeout",
+        "3",
+        "--max-time",
+        "8",
+        "http://localhost:1313/"
+      ],
+      "returncode": 7,
+      "stdout": "",
+      "stderr": "curl: (7) Failed to connect to localhost port 1313 after 0 ms: Couldn't connect to server\n"
+    },
+    {
+      "url": "https://docdrhabibcil.com/",
+      "command": [
+        "curl",
+        "-sS",
+        "-L",
+        "-I",
+        "--connect-timeout",
+        "3",
+        "--max-time",
+        "8",
+        "https://docdrhabibcil.com/"
+      ],
+      "returncode": 6,
+      "stdout": "",
+      "stderr": "curl: (6) Could not resolve host: docdrhabibcil.com\n"
+    },
+    {
+      "url": "https://www.docdrhabibcil.com/",
+      "command": [
+        "curl",
+        "-sS",
+        "-L",
+        "-I",
+        "--connect-timeout",
+        "3",
+        "--max-time",
+        "8",
+        "https://www.docdrhabibcil.com/"
+      ],
+      "returncode": 6,
+      "stdout": "",
+      "stderr": "curl: (6) Could not resolve host: www.docdrhabibcil.com\n"
+    },
+    {
+      "url": "https://www.google.com/",
+      "command": [
+        "curl",
+        "-sS",
+        "-L",
+        "-I",
+        "--connect-timeout",
+        "3",
+        "--max-time",
+        "8",
+        "https://www.google.com/"
+      ],
+      "returncode": 6,
+      "stdout": "",
+      "stderr": "curl: (6) Could not resolve host: www.google.com\n"
+    }
+  ]
+}

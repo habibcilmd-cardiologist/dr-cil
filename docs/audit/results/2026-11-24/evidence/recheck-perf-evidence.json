@@ -1,0 +1,115 @@
+{
+  "timestamp_utc": "2026-11-24T01:38:48.028433+00:00",
+  "method": "read-only source and existing isolated production artifact recheck; no browser/server process; no timing claim",
+  "build_exists": true,
+  "tooling": {
+    "node": "v26.11.0",
+    "lighthouse_in_path": null,
+    "platform": "macOS-26.6.2-arm64-arm-64bit"
+  },
+  "pages": {
+    "index.html": {
+      "bytes": 101605,
+      "sha256": "5443e2b1e1d457569a8dac8ab4b21df104705dbd1bfe8f3484aee8387539b5a8",
+      "old_evidence_sha_matches": true,
+      "active_glb_references": 1,
+      "old_glb_references": 0
+    },
+    "en/index.html": {
+      "bytes": 99224,
+      "sha256": "c75ec47acf7df76ee7ea4d3fce04e6c32b7e1d5085c135a5eeb45726cf0a4658",
+      "old_evidence_sha_matches": true,
+      "active_glb_references": 1,
+      "old_glb_references": 0
+    },
+    "ar/index.html": {
+      "bytes": 124161,
+      "sha256": "760dad74514b5a6d526c2330eeb043060a910b3d2800d7d25f6451a1dbce385f",
+      "old_evidence_sha_matches": true,
+      "active_glb_references": 1,
+      "old_glb_references": 0
+    }
+  },
+  "sources": {
+    "layouts/partials/three-heart.html": {
+      "bytes": 8443,
+      "sha256": "6710b2c2f89257218efe45d286fc8a52139959be6806c0525d96a98d657bb086"
+    },
+    "layouts/shortcodes/three-heart.html": {
+      "bytes": 4784,
+      "sha256": "c36d375b677c7f1b8f0e70a28a983a14600694b24edadaaf08cbae3817678b18"
+    },
+    "layouts/partials/home/profile.html": {
+      "bytes": 445,
+      "sha256": "8ed6994e2c2ea04747bcd6c34bd3bb51c9f938d2d0f90241ac19f7326fb9485a"
+    },
+    "layouts/partials/interventional-cardiology-diagram.html": {
+      "bytes": 27737,
+      "sha256": "9015218bd5bec652db5c83f2b64cd474cc1195405c7aa8186bd66fe34df95609"
+    },
+    "assets/css/custom.css": {
+      "bytes": 89955,
+      "sha256": "dd362bbbf33f536411ff54a895f2337cbe99c7f9bf0b8190ad3b38b0fd6c48d4"
+    },
+    "layouts/partials/home/hero.html": {
+      "bytes": 9479,
+      "sha256": "ea84db65d1fa24612e6dc2c9fbc117ab04af24615b31c6241521dc5f9b7ab366"
+    },
+    "assets/js/search.js": {
+      "bytes": 7157,
+      "sha256": "e44cc3333e1e41319a08242909c3c1281b780423707bc10c0f8fa581c0e45302"
+    }
+  },
+  "all_html": {
+    "count": 976,
+    "active_model_pages": [
+      "index.html",
+      "page/4/index.html",
+      "page/3/index.html",
+      "page/2/index.html",
+      "ar/index.html",
+      "ar/page/4/index.html",
+      "ar/page/3/index.html",
+      "ar/page/2/index.html",
+      "en/index.html",
+      "en/page/4/index.html",
+      "en/page/3/index.html",
+      "en/page/2/index.html"
+    ],
+    "old_model_pages": [],
+    "video_tag_pages": []
+  },
+  "models": {
+    "istanbul-kardiyolog-dr-habib-cil.glb": {
+      "bytes": 3255284,
+      "sha256": "fcb3c1036fe59dfdcc1c30917dbdaa8fbd52c858e6ba3cadaf126b44ccca4b5b",
+      "meshes": 1,
+      "primitives": 1,
+      "images": 3,
+      "extensionsUsed": [],
+      "draw_calls": "NOT_MEASURED; primitive count is not draw-call count"
+    },
+    "3d-kalp-modeli-doc-dr-habib-cil-istanbul-kardiyoloji-uzmani.glb": {
+      "bytes": 1511228,
+      "sha256": "76836a4164bec704267ff709d17e6886268b3807df12a1f4f37fabf59fdbb2ff",
+      "meshes": 1,
+      "primitives": 1,
+      "images": 1,
+      "extensionsUsed": [],
+      "draw_calls": "NOT_MEASURED; primitive count is not draw-call count"
+    }
+  },
+  "not_run": [
+    "production Lighthouse cold desktop >=3",
+    "production Lighthouse cold mobile >=3",
+    "warm repeat visits",
+    "LCP subpart attribution",
+    "network main-thread trace",
+    "CPU/GPU cost and drawcalls",
+    "model blocked/enabled controlled comparison",
+    "offscreen render frame counter",
+    "visibilitychange runtime counter",
+    "Save-Data and WebGL/CDN failure",
+    "field CrUX/GSC/PSI"
+  ]
+}

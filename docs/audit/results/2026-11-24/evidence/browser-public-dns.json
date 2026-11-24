@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-24",
+  "surface": "CUA navigation + visible JSON DOM read",
+  "resolver": "Google Public DNS JSON API",
+  "records": [
+    {
+      "name": "docdrhabibcil.com",
+      "type": "A",
+      "Status": 0,
+      "QuestionType": 1,
+      "Authority": [
+        {
+          "name": "docdrhabibcil.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "dns1.p01.nsone.net. domains+netlify.netlify.com. 1765915864 43200 7200 1209600 3600"
+        }
+      ],
+      "Comment": "Response from 198.51.44.72.",
+      "url": "https://dns.google/resolve?name=docdrhabibcil.com&type=A"
+    },
+    {
+      "name": "docdrhabibcil.com",
+      "type": "AAAA",
+      "Status": 0,
+      "QuestionType": 28,
+      "Authority": [
+        {
+          "name": "docdrhabibcil.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "dns1.p01.nsone.net. domains+netlify.netlify.com. 1765915864 43200 7200 1209600 3600"
+        }
+      ],
+      "Comment": "Response from 198.51.45.72.",
+      "url": "https://dns.google/resolve?name=docdrhabibcil.com&type=AAAA"
+    },
+    {
+      "name": "docdrhabibcil.com",
+      "type": "NS",
+      "Status": 0,
+      "QuestionType": 2,
+      "Answer": [
+        {
+          "name": "docdrhabibcil.com.",
+          "type": 2,
+          "TTL": 3600,
+          "data": "dns4.p08.nsone.net."
+        },
+        {
+          "name": "docdrhabibcil.com.",
+          "type": 2,
+          "TTL": 3600,
+          "data": "dns1.p08.nsone.net."
+        },
+        {
+          "name": "docdrhabibcil.com.",
+          "type": 2,
+          "TTL": 3600,
+          "data": "dns3.p08.nsone.net."
+        },
+        {
+          "name": "docdrhabibcil.com.",
+          "type": 2,
+          "TTL": 3600,
+          "data": "dns2.p08.nsone.net."
+        }
+      ],
+      "Comment": "Response from 198.51.44.72.",
+      "url": "https://dns.google/resolve?name=docdrhabibcil.com&type=NS"
+    },
+    {
+      "name": "www.docdrhabibcil.com",
+      "type": "CNAME",
+      "Status": 3,
+      "QuestionType": 5,
+      "Authority": [
+        {
+          "name": "docdrhabibcil.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "dns1.p01.nsone.net. domains+netlify.netlify.com. 1765915864 43200 7200 1209600 3600"
+        }
+      ],
+      "Comment": "Response from 198.51.45.8.",
+      "url": "https://dns.google/resolve?name=www.docdrhabibcil.com&type=CNAME"
+    },
+    {
+      "name": "www.docdrhabibcil.com",
+      "type": "A",
+      "Status": 3,
+      "QuestionType": 1,
+      "Authority": [
+        {
+          "name": "docdrhabibcil.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "dns1.p01.nsone.net. domains+netlify.netlify.com. 1765915864 43200 7200 1209600 3600"
+        }
+      ],
+      "Comment": "Response from 198.51.44.8.",
+      "url": "https://dns.google/resolve?name=www.docdrhabibcil.com&type=A"
+    },
+    {
+      "name": "google.com",
+      "type": "A",
+      "Status": 0,
+      "QuestionType": 1,
+      "Answer": [
+        {
+          "name": "google.com.",
+          "type": 1,
+          "TTL": 213,
+          "data": "142.251.38.110"
+        }
+      ],
+      "url": "https://dns.google/resolve?name=google.com&type=A"
+    }
+  ],
+  "interpretation": {
+    "apex_A_AAAA": "NOERROR but no Answer (NODATA); NS exists",
+    "www_A_CNAME": "Status3 NXDOMAIN",
+    "control_google_A": "Answer142.251.38.110 confirms successful public resolver access"
+  },
+  "limits": [
+    "Single public resolver service; independent second resolver not executed.",
+    "Authority addresses are Comment evidence, not direct authoritative query by our code.",
+    "No registrar account/config change, no origin/TLS/production HTTP header proof.",
+    "Do not infer who changed records, domain expiry or past downtime duration.",
+    "Earlier shell DNS all-control failures are sandbox limitation, separate from these actual public DNS responses."
+  ]
+}

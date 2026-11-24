@@ -1,0 +1,35 @@
+{
+  "checked_date": "2026-11-24",
+  "method": "Web open/find of primary web.dev pages; no site performance test",
+  "sources": [
+    {
+      "url": "https://web.dev/articles/vitals",
+      "claims_checked": [
+        "Current Core Web Vitals: LCP <= 2.5 s, INP <= 200 ms, CLS <= 0.1",
+        "Evaluate all three at p75, segmented by mobile and desktop",
+        "Noninteractive Lighthouse uses TBT as a lab proxy and does not measure field INP",
+        "Lab measurement does not replace field measurement"
+      ]
+    },
+    {
+      "url": "https://web.dev/articles/optimize-lcp",
+      "claims_checked": [
+        "Establish whether and where an LCP issue exists before optimizing",
+        "URL and origin field data have different scope",
+        "Lab results need not represent actual user experience"
+      ]
+    },
+    {
+      "url": "https://web.dev/articles/browser-level-image-lazy-loading",
+      "claims_checked": [
+        "Do not lazy-load likely in-viewport/LCP images",
+        "eager and fetchpriority have different functions",
+        "Dimension attributes or reserved geometry help avoid layout shifts"
+      ]
+    }
+  ],
+  "not_claimed": [
+    "No public CrUX/PSI result was obtained",
+    "No production Lighthouse score, INP or CWV pass was produced"
+  ]
+}

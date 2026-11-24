@@ -1,0 +1,27 @@
+{
+  "asset": {
+    "extras": {
+      "author": "aqhsalrinara (https://sketchfab.com/aqhsalrinara)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/jantung-f54a728161e84f1f9d7d698091d0f81d",
+      "title": "Jantung"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "extensionsUsed": [],
+  "mesh_count": 1,
+  "primitives": [
+    {
+      "mode": 4,
+      "vertex_count": 12530,
+      "index_count": 65820
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/jpeg",
+      "bufferView_bytes": 844250
+    }
+  ]
+}

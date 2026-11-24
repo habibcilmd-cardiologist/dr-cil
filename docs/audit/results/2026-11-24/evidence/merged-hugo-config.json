@@ -1,0 +1,1104 @@
+{
+  "archetypedir": "archetypes",
+  "assetdir": "assets",
+  "author": {},
+  "baseurl": "https://docdrhabibcil.com/",
+  "build": {
+    "cachebusters": [
+      {
+        "source": "(postcss|tailwind)\\.config\\.(js|mjs|cjs)",
+        "target": "(css|styles|scss|sass)"
+      }
+    ],
+    "cleandestinationdir": {
+      "keepdirs": [
+        "{**/,}.*"
+      ],
+      "keepfiles": [
+        "{**/,}.{git,gitignore,gitattributes}"
+      ]
+    },
+    "useresourcecachewhen": "fallback"
+  },
+  "cachedir": "/Users/yavuz/Library/Caches/hugo_cache",
+  "caches": {
+    "assets": {
+      "dir": ":resourceDir/_gen",
+      "maxage": -1
+    },
+    "getresource": {
+      "dir": ":cacheDir/:project",
+      "maxage": -1
+    },
+    "images": {
+      "dir": ":resourceDir/_gen",
+      "maxage": -1
+    },
+    "misc": {
+      "dir": ":cacheDir/:project",
+      "maxage": -1
+    },
+    "modulegitinfo": {
+      "dir": ":cacheDir/modules",
+      "maxage": "24h"
+    },
+    "modulequeries": {
+      "dir": ":cacheDir/modules",
+      "maxage": "24h"
+    },
+    "modules": {
+      "dir": ":cacheDir/modules",
+      "maxage": -1
+    }
+  },
+  "capitalizelisttitles": true,
+  "contentdir": "content/tr",
+  "contenttypes": {
+    "text/asciidoc": {},
+    "text/html": {},
+    "text/markdown": {},
+    "text/org": {},
+    "text/pandoc": {},
+    "text/rst": {}
+  },
+  "datadir": "data",
+  "defaultcontentlanguage": "tr",
+  "defaultcontentrole": "guest",
+  "defaultoutputformat": "html",
+  "deployment": {
+    "invalidatecdn": true,
+    "maxdeletes": 256,
+    "workers": 10
+  },
+  "environment": "production",
+  "frontmatter": {
+    "date": [
+      "date",
+      "publishdate",
+      "pubdate",
+      "published",
+      "lastmod",
+      "modified"
+    ],
+    "expirydate": [
+      "expirydate",
+      "unpublishdate"
+    ],
+    "lastmod": [
+      ":git",
+      "lastmod",
+      "modified",
+      "date",
+      "publishdate",
+      "pubdate",
+      "published"
+    ],
+    "publishdate": [
+      "publishdate",
+      "pubdate",
+      "published",
+      "date"
+    ]
+  },
+  "httpcache": {
+    "cache": {
+      "for": {
+        "excludes": [
+          "**"
+        ]
+      }
+    },
+    "polls": [
+      {
+        "disable": true,
+        "for": {
+          "includes": [
+            "**"
+          ]
+        },
+        "high": "0s",
+        "low": "0s"
+      }
+    ],
+    "respectcachecontrolnostoreinrequest": true
+  },
+  "i18ndir": "i18n",
+  "imaging": {
+    "anchor": "smart",
+    "avif": {
+      "compression": "lossy",
+      "encoderspeed": 10,
+      "hint": "photo",
+      "quality": 85
+    },
+    "bgcolor": "ffffff",
+    "exif": {
+      "disablelatlong": true,
+      "excludefields": "GPS|Exif|Exposure[M|P|B]|Contrast|Resolution|Sharp|JPEG|Metering|Sensing|Saturation|ColorSpace|Flash|WhiteBalance"
+    },
+    "jpeg": {
+      "quality": 85
+    },
+    "meta": {
+      "fields": [
+        "! *{GPS,Exif,Exposure[MPB],Contrast,Resolution,Sharp,JPEG,Metering,Sensing,Saturation,ColorSpace,Flash,WhiteBalance}*"
+      ],
+      "sources": [
+        "exif",
+        "iptc"
+      ]
+    },
+    "resamplefilter": "catmullrom",
+    "webp": {
+      "compression": "lossy",
+      "hint": "photo",
+      "method": 2,
+      "quality": 85
+    }
+  },
+  "languages": {
+    "ar": {
+      "label": "العربية",
+      "locale": "ar-SA",
+      "title": "أ.د. حبيب جيل | أخصائي أمراض القلب",
+      "weight": 3
+    },
+    "en": {
+      "label": "English",
+      "locale": "en-US",
+      "title": "Assoc. Prof. Dr. Habib ÇİL | Cardiologist",
+      "weight": 2
+    },
+    "tr": {
+      "label": "Türkçe",
+      "locale": "tr-TR",
+      "title": "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı",
+      "weight": 1
+    }
+  },
+  "layoutdir": "layouts",
+  "locale": "tr-TR",
+  "mainsections": [
+    "posts",
+    "blog"
+  ],
+  "markup": {
+    "asciidocext": {
+      "attributes": {},
+      "backend": "html5",
+      "failurelevel": "fatal",
+      "noheaderorfooter": true,
+      "safemode": "unsafe"
+    },
+    "defaultmarkdownhandler": "goldmark",
+    "goldmark": {
+      "extensions": {
+        "cjk": {
+          "eastasianlinebreaksstyle": "simple"
+        },
+        "definitionlist": true,
+        "footnote": {
+          "backlinkhtml": "\u0026#x21a9;\u0026#xfe0e;",
+          "enable": true
+        },
+        "linkify": true,
+        "linkifyprotocol": "https",
+        "strikethrough": true,
+        "table": true,
+        "tasklist": true,
+        "typographer": {
+          "apostrophe": "\u0026rsquo;",
+          "ellipsis": "\u0026hellip;",
+          "emdash": "\u0026mdash;",
+          "endash": "\u0026ndash;",
+          "leftanglequote": "\u0026laquo;",
+          "leftdoublequote": "\u0026ldquo;",
+          "leftsinglequote": "\u0026lsquo;",
+          "rightanglequote": "\u0026raquo;",
+          "rightdoublequote": "\u0026rdquo;",
+          "rightsinglequote": "\u0026rsquo;"
+        }
+      },
+      "parser": {
+        "attribute": {
+          "title": true
+        },
+        "autoheadingid": true,
+        "autoidtype": "github",
+        "wrapstandaloneimagewithinparagraph": true
+      },
+      "renderer": {
+        "unsafe": true
+      },
+      "renderhooks": {
+        "image": {
+          "useembedded": "fallback"
+        },
+        "link": {
+          "useembedded": "fallback"
+        }
+      }
+    },
+    "highlight": {
+      "codefences": true,
+      "linenostart": 1,
+      "linenumbersintable": true,
+      "noclasses": true,
+      "style": "monokai",
+      "tabwidth": 4,
+      "wrapperclass": "highlight"
+    },
+    "rst": {
+      "syntaxhighlight": "long"
+    },
+    "tableofcontents": {
+      "endlevel": 3,
+      "startlevel": 2
+    }
+  },
+  "mediatypes": {
+    "application/json": {
+      "delimiter": ".",
+      "suffixes": [
+        "json"
+      ]
+    },
+    "application/manifest+json": {
+      "delimiter": ".",
+      "suffixes": [
+        "webmanifest"
+      ]
+    },
+    "application/octet-stream": {
+      "delimiter": "."
+    },
+    "application/pdf": {
+      "delimiter": ".",
+      "suffixes": [
+        "pdf"
+      ]
+    },
+    "application/rss+xml": {
+      "delimiter": ".",
+      "suffixes": [
+        "xml",
+        "rss"
+      ]
+    },
+    "application/source-map": {
+      "delimiter": ".",
+      "suffixes": [
+        "map"
+      ]
+    },
+    "application/toml": {
+      "delimiter": ".",
+      "suffixes": [
+        "toml"
+      ]
+    },
+    "application/wasm": {
+      "delimiter": ".",
+      "suffixes": [
+        "wasm"
+      ]
+    },
+    "application/xml": {
+      "delimiter": ".",
+      "suffixes": [
+        "xml"
+      ]
+    },
+    "application/yaml": {
+      "delimiter": ".",
+      "suffixes": [
+        "yaml",
+        "yml"
+      ]
+    },
+    "font/otf": {
+      "delimiter": ".",
+      "suffixes": [
+        "otf"
+      ]
+    },
+    "font/ttf": {
+      "delimiter": ".",
+      "suffixes": [
+        "ttf"
+      ]
+    },
+    "font/woff": {
+      "delimiter": ".",
+      "suffixes": [
+        "woff"
+      ]
+    },
+    "font/woff2": {
+      "delimiter": ".",
+      "suffixes": [
+        "woff2"
+      ]
+    },
+    "image/avif": {
+      "delimiter": ".",
+      "suffixes": [
+        "avif"
+      ]
+    },
+    "image/bmp": {
+      "delimiter": ".",
+      "suffixes": [
+        "bmp"
+      ]
+    },
+    "image/gif": {
+      "delimiter": ".",
+      "suffixes": [
+        "gif"
+      ]
+    },
+    "image/heic": {
+      "delimiter": ".",
+      "suffixes": [
+        "heic"
+      ]
+    },
+    "image/heif": {
+      "delimiter": ".",
+      "suffixes": [
+        "heif"
+      ]
+    },
+    "image/jpeg": {
+      "delimiter": ".",
+      "suffixes": [
+        "jpg",
+        "jpeg",
+        "jpe",
+        "jif",
+        "jfif"
+      ]
+    },
+    "image/png": {
+      "delimiter": ".",
+      "suffixes": [
+        "png"
+      ]
+    },
+    "image/svg+xml": {
+      "delimiter": ".",
+      "suffixes": [
+        "svg"
+      ]
+    },
+    "image/tiff": {
+      "delimiter": ".",
+      "suffixes": [
+        "tif",
+        "tiff"
+      ]
+    },
+    "image/webp": {
+      "delimiter": ".",
+      "suffixes": [
+        "webp"
+      ]
+    },
+    "text/asciidoc": {
+      "delimiter": ".",
+      "suffixes": [
+        "adoc",
+        "asciidoc",
+        "ad"
+      ]
+    },
+    "text/calendar": {
+      "delimiter": ".",
+      "suffixes": [
+        "ics"
+      ]
+    },
+    "text/css": {
+      "delimiter": ".",
+      "suffixes": [
+        "css"
+      ]
+    },
+    "text/csv": {
+      "delimiter": ".",
+      "suffixes": [
+        "csv"
+      ]
+    },
+    "text/html": {
+      "delimiter": ".",
+      "suffixes": [
+        "html",
+        "htm"
+      ]
+    },
+    "text/javascript": {
+      "delimiter": ".",
+      "suffixes": [
+        "js",
+        "jsm",
+        "mjs"
+      ]
+    },
+    "text/jsx": {
+      "delimiter": ".",
+      "suffixes": [
+        "jsx"
+      ]
+    },
+    "text/markdown": {
+      "delimiter": ".",
+      "suffixes": [
+        "md",
+        "mdown",
+        "markdown"
+      ]
+    },
+    "text/org": {
+      "delimiter": ".",
+      "suffixes": [
+        "org"
+      ]
+    },
+    "text/pandoc": {
+      "delimiter": ".",
+      "suffixes": [
+        "pandoc",
+        "pdc"
+      ]
+    },
+    "text/plain": {
+      "delimiter": ".",
+      "suffixes": [
+        "txt"
+      ]
+    },
+    "text/rst": {
+      "delimiter": ".",
+      "suffixes": [
+        "rst"
+      ]
+    },
+    "text/tsx": {
+      "delimiter": ".",
+      "suffixes": [
+        "tsx"
+      ]
+    },
+    "text/typescript": {
+      "delimiter": ".",
+      "suffixes": [
+        "ts"
+      ]
+    },
+    "text/x-gotmpl": {
+      "delimiter": ".",
+      "suffixes": [
+        "gotmpl"
+      ]
+    },
+    "text/x-sass": {
+      "delimiter": ".",
+      "suffixes": [
+        "sass"
+      ]
+    },
+    "text/x-scss": {
+      "delimiter": ".",
+      "suffixes": [
+        "scss"
+      ]
+    },
+    "video/3gpp": {
+      "delimiter": ".",
+      "suffixes": [
+        "3gpp",
+        "3gp"
+      ]
+    },
+    "video/mp4": {
+      "delimiter": ".",
+      "suffixes": [
+        "mp4"
+      ]
+    },
+    "video/mpeg": {
+      "delimiter": ".",
+      "suffixes": [
+        "mpg",
+        "mpeg"
+      ]
+    },
+    "video/ogg": {
+      "delimiter": ".",
+      "suffixes": [
+        "ogv"
+      ]
+    },
+    "video/webm": {
+      "delimiter": ".",
+      "suffixes": [
+        "webm"
+      ]
+    },
+    "video/x-msvideo": {
+      "delimiter": ".",
+      "suffixes": [
+        "avi"
+      ]
+    }
+  },
+  "menus": {
+    "footer": [
+      {
+        "name": "KVKK",
+        "url": "/kvkk/",
+        "weight": 10
+      }
+    ],
+    "main": [
+      {
+        "name": "Hakkımda",
+        "url": "/hakkimda/",
+        "weight": 20
+      },
+      {
+        "name": "Hizmetler",
+        "url": "/hizmetler/",
+        "weight": 25
+      },
+      {
+        "name": "Klinik",
+        "url": "/klinik/",
+        "weight": 30
+      },
+      {
+        "name": "Yayınlar",
+        "url": "/yayinlar/",
+        "weight": 40
+      },
+      {
+        "name": "Blog",
+        "url": "/blog/",
+        "weight": 50
+      },
+      {
+        "name": "İletişim",
+        "url": "/iletisim/",
+        "weight": 60
+      }
+    ]
+  },
+  "minify": {
+    "minifyoutput": true,
+    "tdewolff": {
+      "html": {
+        "keepdefaultattrvals": true,
+        "keepdocumenttags": true,
+        "keepspecialcomments": true,
+        "templatedelims": [
+          "",
+          ""
+        ]
+      },
+      "js": {
+        "version": 2022
+      },
+      "svg": {
+        "keepnamespaces": [
+          "",
+          "x-bind"
+        ]
+      }
+    }
+  },
+  "module": {
+    "imports": [
+      {
+        "path": "blowfish"
+      }
+    ],
+    "mounts": [
+      {
+        "source": "package.json",
+        "target": "assets/_jsconfig/package.json"
+      },
+      {
+        "sites": {
+          "matrix": {
+            "languages": [
+              "tr"
+            ]
+          }
+        },
+        "source": "content/tr",
+        "target": "content"
+      },
+      {
+        "sites": {
+          "matrix": {
+            "languages": [
+              "en"
+            ]
+          }
+        },
+        "source": "content/en",
+        "target": "content"
+      },
+      {
+        "sites": {
+          "matrix": {
+            "languages": [
+              "ar"
+            ]
+          }
+        },
+        "source": "content/ar",
+        "target": "content"
+      },
+      {
+        "source": "data",
+        "target": "data"
+      },
+      {
+        "source": "layouts",
+        "target": "layouts"
+      },
+      {
+        "source": "i18n",
+        "target": "i18n"
+      },
+      {
+        "source": "archetypes",
+        "target": "archetypes"
+      },
+      {
+        "source": "assets",
+        "target": "assets"
+      },
+      {
+        "source": "static",
+        "target": "static"
+      }
+    ],
+    "noproxy": "none",
+    "private": "*.*",
+    "proxy": "direct",
+    "workspace": "off"
+  },
+  "outputformats": {
+    "404": {
+      "ishtml": true,
+      "mediatype": "text/html",
+      "notalternative": true,
+      "permalinkable": true,
+      "ugly": true
+    },
+    "alias": {
+      "ishtml": true,
+      "mediatype": "text/html",
+      "ugly": true
+    },
+    "amp": {
+      "basename": "index",
+      "ishtml": true,
+      "mediatype": "text/html",
+      "path": "amp",
+      "permalinkable": true,
+      "rel": "amphtml"
+    },
+    "calendar": {
+      "basename": "index",
+      "isplaintext": true,
+      "mediatype": "text/calendar",
+      "protocol": "webcal://",
+      "rel": "alternate"
+    },
+    "css": {
+      "basename": "styles",
+      "isplaintext": true,
+      "mediatype": "text/css",
+      "notalternative": true,
+      "rel": "stylesheet"
+    },
+    "csv": {
+      "basename": "index",
+      "isplaintext": true,
+      "mediatype": "text/csv",
+      "rel": "alternate"
+    },
+    "gotmpl": {
+      "isplaintext": true,
+      "mediatype": "text/x-gotmpl",
+      "notalternative": true
+    },
+    "html": {
+      "basename": "index",
+      "ishtml": true,
+      "mediatype": "text/html",
+      "permalinkable": true,
+      "rel": "canonical",
+      "weight": 10
+    },
+    "json": {
+      "basename": "index",
+      "isplaintext": true,
+      "mediatype": "application/json",
+      "rel": "alternate"
+    },
+    "markdown": {
+      "basename": "index",
+      "isplaintext": true,
+      "mediatype": "text/markdown",
+      "rel": "alternate"
+    },
+    "robots": {
+      "basename": "robots",
+      "isplaintext": true,
+      "mediatype": "text/plain",
+      "rel": "alternate",
+      "root": true
+    },
+    "rss": {
+      "basename": "index",
+      "mediatype": "application/rss+xml",
+      "nougly": true,
+      "rel": "alternate"
+    },
+    "sitemap": {
+      "basename": "sitemap",
+      "mediatype": "application/xml",
+      "rel": "sitemap",
+      "ugly": true
+    },
+    "sitemapindex": {
+      "basename": "sitemap",
+      "mediatype": "application/xml",
+      "rel": "sitemap",
+      "root": true,
+      "ugly": true
+    },
+    "webappmanifest": {
+      "basename": "manifest",
+      "isplaintext": true,
+      "mediatype": "application/manifest+json",
+      "notalternative": true,
+      "rel": "manifest"
+    }
+  },
+  "outputs": {
+    "home": [
+      "html",
+      "rss",
+      "json",
+      "sitemap"
+    ],
+    "page": [
+      "html"
+    ],
+    "rss": [
+      "rss"
+    ],
+    "section": [
+      "html",
+      "rss",
+      "sitemap"
+    ],
+    "taxonomy": [
+      "html",
+      "rss"
+    ],
+    "term": [
+      "html",
+      "rss"
+    ]
+  },
+  "page": {
+    "nextprevinsectionsortorder": "desc",
+    "nextprevsortorder": "desc"
+  },
+  "pagination": {
+    "pagersize": 10,
+    "path": "page"
+  },
+  "params": {
+    "advertisement": {},
+    "article": {
+      "editappendpath": true,
+      "layoutbackgroundblur": true,
+      "layoutbackgroundheaderspace": true,
+      "relatedcontentlimit": 3,
+      "sharinglinks": [
+        "facebook",
+        "twitter",
+        "whatsapp",
+        "linkedin",
+        "email"
+      ],
+      "showauthor": true,
+      "showbreadcrumbs": true,
+      "showdate": true,
+      "showdateupdated": true,
+      "showdraftlabel": true,
+      "showheadinganchors": true,
+      "showpagination": true,
+      "showreadingtime": true,
+      "showtableofcontents": true,
+      "showtaxonomies": true
+    },
+    "author": {
+      "bio": "İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. Girişimsel kardiyoloji, koroner anjiyoplasti ve TAVI konularında uzman.",
+      "headline": "Girişimsel Kardiyoloji Uzmanı",
+      "image": "img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp",
+      "links": [
+        {
+          "email": "mailto:habibcilmd@gmail.com"
+        },
+        {
+          "whatsapp": "https://wa.me/905339454639"
+        },
+        {
+          "facebook": "https://www.facebook.com/docdrhabibcil/"
+        },
+        {
+          "instagram": "https://www.instagram.com/doc.dr.habibcil"
+        },
+        {
+          "linkedin": "https://www.linkedin.com/in/do%C3%A7-dr-habib-%C3%A7il-988695a3/"
+        }
+      ],
+      "name": "Doç. Dr. Habib ÇİL"
+    },
+    "autoswitchappearance": true,
+    "buymeacoffee": {},
+    "colorscheme": "cardiology",
+    "copyright": "© 2024 Doç. Dr. Habib ÇİL. Tüm hakları saklıdır.",
+    "dateformat": "2 January 2006",
+    "defaultappearance": "light",
+    "defaultsocialimage": "img/og-image.webp",
+    "description": "Doç. Dr. Habib ÇİL - Kardiyoloji Uzmanı. Ekokardiyografi, anjiyografi, hipertansiyon tedavisi ve koroner arter hastalığı konularında uzman.",
+    "displayname": "TR",
+    "enablecodecopy": true,
+    "enableimagelazyloading": true,
+    "enablesearch": true,
+    "enablestructuredbreadcrumbs": true,
+    "fathomanalytics": {},
+    "fingerprintalgorithm": "sha512",
+    "firebase": {},
+    "footer": {
+      "showappearanceswitcher": true,
+      "showcopyright": true,
+      "showmenu": true,
+      "showscrolltotop": true
+    },
+    "forgejodefaultserver": "https://v11.next.forgejo.org",
+    "giteadefaultserver": "https://git.fsfe.org",
+    "header": {
+      "disabletextinheader": true,
+      "layout": "fixed",
+      "showlanguageswitcher": true
+    },
+    "homepage": {
+      "cardview": true,
+      "layout": "profile",
+      "showmorelink": true,
+      "showmorelinkdest": "/blog/",
+      "showrecent": true,
+      "showrecentitems": 3
+    },
+    "isocode": "tr",
+    "keywords": [
+      "kardiyoloji",
+      "kardiyolog",
+      "istanbul kardiyoloji",
+      "istanbul",
+      "doktor",
+      "kalp hastalığı",
+      "anjiyografi",
+      "ekokardiyografi",
+      "hipertansiyon",
+      "TAVI",
+      "kalp pili",
+      "girişimsel kardiyoloji",
+      "kardiyoloji uzmanı istanbul",
+      "damar açma",
+      "bacak damarı açma",
+      "dizüstü damar açma",
+      "dizaltı damarı açma",
+      "diyabetik ayak",
+      "periferik arter hastalığı",
+      "koroner anjiyoplasti",
+      "stent",
+      "kardiyolog istanbul",
+      "istanbul kardiyoloji uzmanı"
+    ],
+    "list": {
+      "cardview": true,
+      "herostyle": "background",
+      "layoutbackgroundblur": true,
+      "layoutbackgroundheaderspace": true,
+      "showbreadcrumbs": true,
+      "showcards": true,
+      "showhero": true,
+      "showsummary": true
+    },
+    "logo": "img/logo.svg",
+    "mainsections": [
+      "posts",
+      "blog"
+    ],
+    "robots": "index, follow",
+    "rssnext": {},
+    "secondarylogo": "img/logo-dark.svg",
+    "selineanalytics": {},
+    "taxonomy": {
+      "showtermcount": true
+    },
+    "term": {
+      "showtableofcontents": true
+    },
+    "umamianalytics": {},
+    "verification": {
+      "google": "bs3oztIehq9ZyMyqgBKUm1LOx_X_Juv7U9I-Mps5Tik"
+    }
+  },
+  "pluralizelisttitles": true,
+  "privacy": {
+    "googleanalytics": {
+      "respectdonottrack": true
+    }
+  },
+  "publishdir": "public",
+  "related": {
+    "indices": [
+      {
+        "name": "keywords",
+        "type": "basic",
+        "weight": 100
+      },
+      {
+        "name": "date",
+        "type": "basic",
+        "weight": 10
+      },
+      {
+        "name": "tags",
+        "type": "basic",
+        "weight": 80
+      }
+    ],
+    "threshold": 80
+  },
+  "resourcedir": "resources",
+  "security": {
+    "allowcontent": [
+      "! ^text/html$",
+      "! ^text/org$"
+    ],
+    "enableinlineshortcodes": true,
+    "exec": {
+      "allow": [
+        "^(dart-)?sass$",
+        "^go$",
+        "^git$",
+        "^node$",
+        "^postcss$"
+      ],
+      "osenv": [
+        "(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG|SYSTEMDRIVE|PROGRAMDATA)$"
+      ]
+    },
+    "funcs": {
+      "getenv": [
+        "^HUGO_",
+        "^CI$"
+      ]
+    },
+    "http": {
+      "methods": [
+        "(?i)GET|POST"
+      ],
+      "urls": [
+        "(?i)^https?://[a-z0-9]",
+        "! (?i)^https?://\\d+\\.",
+        "! (?i)localhost",
+        "! (?i)^https?://[^/?#]*@"
+      ]
+    },
+    "node": {
+      "permissions": {
+        "allowaddons": [
+          "tailwindcss"
+        ],
+        "allowchildprocess": [
+          "tailwindcss"
+        ],
+        "allowread": [
+          "."
+        ],
+        "allowworker": [
+          "tailwindcss"
+        ]
+      }
+    }
+  },
+  "segments": {
+    "sitemaps": {
+      "includes": [
+        {
+          "kind": "home"
+        },
+        {
+          "kind": "section"
+        },
+        {
+          "kind": "taxonomy"
+        },
+        {
+          "kind": "term"
+        }
+      ]
+    }
+  },
+  "server": {
+    "redirects": [
+      {
+        "from": "/**",
+        "status": 404,
+        "to": "/404.html"
+      }
+    ]
+  },
+  "services": {
+    "rss": {
+      "limit": -1
+    }
+  },
+  "sitemap": {
+    "filename": "sitemap.xml",
+    "priority": -1
+  },
+  "staticdir": [
+    "static"
+  ],
+  "summarylength": 70,
+  "taxonomies": {
+    "category": "categories",
+    "tag": "tags"
+  },
+  "theme": [
+    "blowfish"
+  ],
+  "themesdir": "themes",
+  "timeout": "180s",
+  "title": "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı",
+  "titlecasestyle": "AP",
+  "uglyurls": {},
+  "workingdir": "/Users/yavuz/prg/dr-cil"
+}

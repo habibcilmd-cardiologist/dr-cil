@@ -1,0 +1,274 @@
+{
+  "file": "hizmetler/hipertansiyon/index.html",
+  "url": "https://docdrhabibcil.com/hizmetler/hipertansiyon/",
+  "language": "tr",
+  "canonical": [
+    "https://docdrhabibcil.com/hizmetler/hipertansiyon/"
+  ],
+  "refresh": null,
+  "jsonld_script_count": 1,
+  "parse_errors": [],
+  "microdata": [],
+  "rdfa": [],
+  "top_nodes": [
+    {
+      "script": 1,
+      "node": 1,
+      "value": {
+        "@id": "https://docdrhabibcil.com/#website",
+        "@type": "WebSite",
+        "description": "Doç. Dr. Habib ÇİL - Kardiyoloji Uzmanı. Ekokardiyografi, anjiyografi, hipertansiyon tedavisi ve koroner arter hastalığı konularında uzman.",
+        "inLanguage": "tr-TR",
+        "name": "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı",
+        "publisher": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "url": "https://docdrhabibcil.com/"
+      },
+      "issues": []
+    },
+    {
+      "script": 1,
+      "node": 2,
+      "value": {
+        "@id": "https://docdrhabibcil.com/#physician",
+        "@type": [
+          "Person",
+          "Physician"
+        ],
+        "description": "İstanbul'da Kardiyoloji Uzmanı. Bacak damarlarını açma, diyabetik ayak tedavisi ve TAVI uzmanı.",
+        "email": "habibcilmd@gmail.com",
+        "familyName": "ÇİL",
+        "gender": "Male",
+        "givenName": "Habib",
+        "honorificPrefix": "Doç. Dr.",
+        "image": "https://docdrhabibcil.com/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp",
+        "jobTitle": "Kardiyoloji Uzmanı",
+        "medicalSpecialty": [
+          "http://schema.org/Cardiovascular"
+        ],
+        "name": "Doç. Dr. Habib ÇİL",
+        "sameAs": [
+          "https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul",
+          "https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul",
+          "https://www.instagram.com/doc.dr.habibcil",
+          "https://wa.me/905339454639"
+        ],
+        "telephone": "+90 212 665 50 50",
+        "url": "https://docdrhabibcil.com/"
+      },
+      "issues": [
+        "SCHEMA_IMAGE_MISSING_IN_BUILD"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 3,
+      "value": {
+        "@id": "https://docdrhabibcil.com/hizmetler/hipertansiyon/#breadcrumb",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/",
+            "name": "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/hizmetler/",
+            "name": "Hizmetler",
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/hizmetler/hipertansiyon/",
+            "name": "Hipertansiyon (Yüksek Tansiyon) Tanı ve Tedavisi",
+            "position": 3
+          }
+        ]
+      },
+      "issues": [
+        "SCHEMA_BREADCRUMB_POSITIONS"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 4,
+      "value": {
+        "@id": "https://docdrhabibcil.com/hizmetler/hipertansiyon/#faq",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Çoğu hastada evet. Hipertansiyon kronik bir hastalıktır ve ilaçlar hastalığı tedavi etmez, kontrol altında tutar. Ancak yaşam tarzı değişiklikleriyle bazı hastalarda ilaç dozları azaltılabilir veya basit vakalarda kesilme denenebilir."
+            },
+            "name": "Hipertansiyon ilaçlarını ömür boyu kullanmak zorunda mıyım?"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hayır, bu çok tehlikeli bir yaklaşımdır. İlaç sayesinde tansiyonunuz normaldir. İlacı bıraktığınızda tansiyon tekrar yükselecektir. Herhangi bir değişiklik yapmadan önce mutlaka doktorunuza danışın."
+            },
+            "name": "Tansiyonum normal olduktan sonra ilacı bırakabilir miyim?"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Her ilaç gibi antihipertansif ilaçların da yan etkileri olabilir. Ancak modern ilaçlar genellikle iyi tolere edilir. Yaşadığınız herhangi bir sorunu doktorunuzla paylaşın; alternatif ilaç seçenekleri değerlendirilebilir."
+            },
+            "name": "Tansiyon ilaçları yan etki yapar mı?"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Evet, evde düzenli ölçüm çok değerlidir. Doğru teknikle yapılan ev ölçümleri, tedavinin etkinliğini değerlendirmede yardımcıdır. Kol tipi dijital tansiyon aletleri tercih edilmelidir."
+            },
+            "name": "Evde tansiyon ölçümü yapmalı mıyım?"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Stres, geçici tansiyon yükselmelerine neden olabilir. Ancak kronik stres, kalıcı hipertansiyon gelişimine katkıda bulunabilir. Stres yönetimi, tedavinin önemli bir parçasıdır."
+            },
+            "name": "Stres tansiyonu ne kadar etkiler?"
+          }
+        ],
+        "name": "Hipertansiyon (Yüksek Tansiyon) Tanı ve Tedavisi - Sık Sorulan Sorular",
+        "url": "https://docdrhabibcil.com/hizmetler/hipertansiyon/"
+      },
+      "issues": []
+    },
+    {
+      "script": 1,
+      "node": 5,
+      "value": {
+        "@id": "https://docdrhabibcil.com/hizmetler/hipertansiyon/#procedure",
+        "@type": "MedicalProcedure",
+        "bodyLocation": "Cardiovascular System",
+        "description": "İstanbul'da hipertansiyon tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile yüksek tansiyon tanısı, ilaç tedavisi ve yaşam tarzı önerileri. Avrasya Hospital.",
+        "followup": "İşlem sonrası takip randevuları planlanacaktır.",
+        "howPerformed": "Modern tıbbi ekipmanlarla uzman kardiyolog tarafından gerçekleştirilir.",
+        "name": "Hipertansiyon (Yüksek Tansiyon) Tanı ve Tedavisi",
+        "performer": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "preparation": "İşlem öncesi hazırlık talimatları doktorunuz tarafından verilecektir.",
+        "procedureType": "TherapeuticProcedure",
+        "recognizingAuthority": {
+          "@type": "Organization",
+          "name": "Türk Kardiyoloji Derneği"
+        },
+        "status": "https://schema.org/EventScheduled",
+        "url": "https://docdrhabibcil.com/hizmetler/hipertansiyon/"
+      },
+      "issues": [
+        "SCHEMA_BLANKET_PROCEDURE_SEMANTICS_REVIEW",
+        "SCHEMA_PERFORMER_DOMAIN",
+        "SCHEMA_PROCEDURETYPE_NON_ENUM"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 6,
+      "value": {
+        "@id": "https://docdrhabibcil.com/hizmetler/hipertansiyon/#webpage",
+        "@type": "MedicalWebPage",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Hipertansiyon (Yüksek Tansiyon) Tanı ve Tedavisi"
+        },
+        "author": {
+          "@id": "https://docdrhabibcil.com/#physician",
+          "@type": "Physician"
+        },
+        "dateModified": "2024-12-04",
+        "datePublished": "2024-01-15",
+        "description": "İstanbul'da hipertansiyon tedavisi. Kardiyoloji uzmanı Doç. Dr. Habib Çil ile yüksek tansiyon tanısı, ilaç tedavisi ve yaşam tarzı önerileri. Avrasya Hospital.",
+        "inLanguage": "tr",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı",
+          "url": "https://docdrhabibcil.com/"
+        },
+        "lastReviewed": "2024-12-04",
+        "mainEntity": {
+          "@id": "https://docdrhabibcil.com/hizmetler/hipertansiyon/#procedure"
+        },
+        "name": "Hipertansiyon (Yüksek Tansiyon) Tanı ve Tedavisi",
+        "performer": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "reviewedBy": {
+          "@id": "https://docdrhabibcil.com/#physician",
+          "@type": "Physician"
+        },
+        "url": "https://docdrhabibcil.com/hizmetler/hipertansiyon/"
+      },
+      "issues": [
+        "SCHEMA_PERFORMER_DOMAIN",
+        "SCHEMA_REVIEW_EVIDENCE_MISSING"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 7,
+      "value": {
+        "@id": "https://docdrhabibcil.com/hizmetler/hipertansiyon/#breadcrumb",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/",
+            "name": "Ana Sayfa",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/tr/hizmetler/",
+            "name": "Hizmetler",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/hizmetler/hipertansiyon/",
+            "name": "Hipertansiyon (Yüksek Tansiyon) Tanı ve Tedavisi",
+            "position": 3
+          }
+        ],
+        "performer": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        }
+      },
+      "issues": [
+        "SCHEMA_BREADCRUMB_MISSING_TARGET",
+        "SCHEMA_PERFORMER_DOMAIN"
+      ]
+    }
+  ],
+  "issues": [
+    "SCHEMA_BLANKET_PROCEDURE_SEMANTICS_REVIEW",
+    "SCHEMA_BREADCRUMB_MISSING_TARGET",
+    "SCHEMA_BREADCRUMB_POSITIONS",
+    "SCHEMA_CONFLICTING_ID",
+    "SCHEMA_IMAGE_MISSING_IN_BUILD",
+    "SCHEMA_PERFORMER_DOMAIN",
+    "SCHEMA_PROCEDURETYPE_NON_ENUM",
+    "SCHEMA_REVIEW_EVIDENCE_MISSING"
+  ],
+  "conflicting_ids": [
+    {
+      "id": "https://docdrhabibcil.com/hizmetler/hipertansiyon/#breadcrumb",
+      "definitions": 2,
+      "conflicting_properties": [
+        "itemListElement"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "method": "Computed from root CUA development diagnostics; not production Lighthouse nor field CWV",
+  "source": "browser-dev-diagnostics.json",
+  "profiles": {
+    "desktop-viewport-local-dev": {
+      "n": 3,
+      "metrics": {
+        "ttfb_ms": {
+          "median": 20.6,
+          "min": 6.6,
+          "max": 35.1
+        },
+        "dom_content_loaded_ms": {
+          "median": 374.3,
+          "min": 201,
+          "max": 677.5
+        },
+        "load_ms": {
+          "median": 382.7,
+          "min": 205.6,
+          "max": 689.8
+        },
+        "fcp_ms": {
+          "median": 312,
+          "min": 184,
+          "max": 536
+        },
+        "lcp_ms": {
+          "median": 312,
+          "min": 268,
+          "max": 536
+        },
+        "cls_observed_sum": {
+          "median": 1.1613904161667305e-05,
+          "min": 0,
+          "max": 0.0001265772714686919
+        },
+        "model_start_ms": {
+          "median": 1355.5,
+          "min": 894.8,
+          "max": 1589.3
+        },
+        "model_duration_ms": {
+          "median": 229.6,
+          "min": 112.8,
+          "max": 566.6
+        },
+        "observed_longtask_total_ms": {
+          "median": 95,
+          "min": 74,
+          "max": 189
+        }
+      },
+      "long_tasks_count_by_run": [
+        2,
+        1,
+        1
+      ]
+    },
+    "mobile-viewport-local-dev": {
+      "n": 3,
+      "metrics": {
+        "ttfb_ms": {
+          "median": 1.4,
+          "min": 1,
+          "max": 5.8
+        },
+        "dom_content_loaded_ms": {
+          "median": 161.3,
+          "min": 65.7,
+          "max": 214.3
+        },
+        "load_ms": {
+          "median": 164.2,
+          "min": 69.1,
+          "max": 218.9
+        },
+        "fcp_ms": {
+          "median": 148,
+          "min": 100,
+          "max": 164
+        },
+        "lcp_ms": {
+          "median": 180,
+          "min": 100,
+          "max": 232
+        },
+        "cls_observed_sum": {
+          "median": 6.21507986524625e-05,
+          "min": 0,
+          "max": 6.21507986524625e-05
+        },
+        "observed_longtask_total_ms": {
+          "median": 0,
+          "min": 0,
+          "max": 0
+        }
+      },
+      "long_tasks_count_by_run": [
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

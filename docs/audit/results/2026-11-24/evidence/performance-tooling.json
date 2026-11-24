@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-24",
+  "node": "v26.11.0",
+  "chrome_app_version": "157.0.8103.80",
+  "platform": "darwin/arm64",
+  "lighthouse_in_PATH": false,
+  "browser_CLI_in_PATH": false,
+  "lighthouse_executed": false,
+  "browser_or_server_processes_started_by_performance_agent": false,
+  "network_or_port_restriction_bypassed": false,
+  "embedded_lighthouse_bundle_discovered_but_not_used": true,
+  "cold_cache_desktop_runs": 0,
+  "cold_cache_mobile_runs": 0,
+  "metric_values": null,
+  "field_data_obtained": false,
+  "source_changed": false,
+  "scope": "Original offline tooling discovery; separate browser diagnostics subsequently recorded by root in browser-dev-diagnostics.json",
+  "metric_values_source": "browser-dev-diagnostics.json (development diagnostic only)"
+}

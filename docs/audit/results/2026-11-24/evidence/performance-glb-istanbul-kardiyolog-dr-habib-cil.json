@@ -1,0 +1,35 @@
+{
+  "asset": {
+    "extras": {
+      "author": "neshallads (https://sketchfab.com/neshallads)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/realistic-human-heart-3f8072336ce94d18b3d0d055a1ece089",
+      "title": "Realistic Human Heart"
+    },
+    "generator": "Sketchfab-14.10.0",
+    "version": "2.0"
+  },
+  "extensionsUsed": [],
+  "mesh_count": 1,
+  "primitives": [
+    {
+      "mode": 4,
+      "vertex_count": 12013,
+      "index_count": 67686
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/png",
+      "bufferView_bytes": 775721
+    },
+    {
+      "mimeType": "image/png",
+      "bufferView_bytes": 31534
+    },
+    {
+      "mimeType": "image/png",
+      "bufferView_bytes": 1404696
+    }
+  ]
+}

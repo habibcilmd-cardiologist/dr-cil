@@ -1,0 +1,135 @@
+{
+  "source_excerpts": [
+    {
+      "file": "content/en/services/myocardial-infarction/index.md",
+      "line": 191,
+      "excerpt": "-   [Coronary Artery Disease](false/) - About coronary artery disease"
+    },
+    {
+      "file": "content/en/blog/aortic-aneurysm/index.md",
+      "line": 505,
+      "excerpt": "{{< button href=\"/contact/\" target=\"_self\" >}}"
+    },
+    {
+      "file": "content/en/_index.md",
+      "line": 39,
+      "excerpt": "  <a href=\"/en/services/#pacemaker-and-electrophysiology\" class=\"service-card\">"
+    },
+    {
+      "file": "content/en/services/_index.md",
+      "line": 67,
+      "excerpt": "### ⚡ Pacemaker and Electrophysiology {#pacemaker-electrophysiology}"
+    },
+    {
+      "file": "layouts/partials/extend-head-uncached.html",
+      "line": 26,
+      "excerpt": "{{/* Hreflang Tags */}} {{ if .IsTranslated }} {{ range .AllTranslations }}"
+    },
+    {
+      "file": "layouts/partials/extend-head-uncached.html",
+      "line": 31,
+      "excerpt": "\threflang=\"x-default\""
+    },
+    {
+      "file": "layouts/partials/extend-head-uncached.html",
+      "line": 32,
+      "excerpt": "\thref=\"{{ .Sites.Default.Home.Permalink }}\""
+    },
+    {
+      "file": "layouts/_default/sitemap.xml",
+      "line": 4,
+      "excerpt": "  {{- $pages := where .Site.AllPages \"Kind\" \"in\" (slice \"page\" \"section\" \"taxonomy\" \"term\" \"home\") }}"
+    },
+    {
+      "file": "layouts/_default/sitemap.xml",
+      "line": 9,
+      "excerpt": "  {{- if eq .Language.Lang $.Site.Language.Lang }}"
+    },
+    {
+      "file": "layouts/_default/sitemap.xml",
+      "line": 24,
+      "excerpt": "    <xhtml:link rel=\"alternate\" hreflang=\"{{ $p.Language.LanguageCode }}\" href=\"{{ $p.Permalink }}\" />"
+    },
+    {
+      "file": "layouts/_default/sitemap.xml",
+      "line": 27,
+      "excerpt": "    <xhtml:link rel=\"alternate\" hreflang=\"{{ .Language.LanguageCode }}\" href=\"{{ .Permalink }}\" />"
+    },
+    {
+      "file": "static/robots.txt",
+      "line": 10,
+      "excerpt": "Sitemap: https://docdrhabibcil.com/sitemap.xml"
+    },
+    {
+      "file": "static/_redirects",
+      "line": 5,
+      "excerpt": "/tr/* /:splat 301!"
+    },
+    {
+      "file": "hugo.toml",
+      "line": 82,
+      "excerpt": "      home = [\"HTML\", \"RSS\", \"JSON\", \"Sitemap\"]"
+    },
+    {
+      "file": "hugo.toml",
+      "line": 83,
+      "excerpt": "      section = [\"HTML\", \"RSS\", \"Sitemap\"]"
+    },
+    {
+      "file": "hugo.toml",
+      "line": 116,
+      "excerpt": "      home = [\"HTML\", \"RSS\", \"JSON\", \"Sitemap\"]"
+    },
+    {
+      "file": "hugo.toml",
+      "line": 117,
+      "excerpt": "      section = [\"HTML\", \"RSS\", \"Sitemap\"]"
+    },
+    {
+      "file": "hugo.toml",
+      "line": 153,
+      "excerpt": "      home = [\"HTML\", \"RSS\", \"JSON\", \"Sitemap\"]"
+    },
+    {
+      "file": "hugo.toml",
+      "line": 154,
+      "excerpt": "      section = [\"HTML\", \"RSS\", \"Sitemap\"]"
+    },
+    {
+      "file": "content/tr/tags/girisimsel-kardiyoloji.md",
+      "line": 2,
+      "excerpt": "title: \"Girişimsel-Kardiyoloji\""
+    },
+    {
+      "file": "content/tr/tags/girisimsel-kardiyoloji.md",
+      "line": 3,
+      "excerpt": "slug: \"girisimsel-kardiyoloji\""
+    }
+  ],
+  "rendered_excerpts": [
+    {
+      "file": "en/services/myocardial-infarction/index.html",
+      "pattern": "href=false/",
+      "found": true,
+      "excerpt": "n/services/angiography/>Cardiac Angiography</a> - Coronary artery imaging<li><a href=false/>Coronary Artery Disease</a> - About coronary artery disease<li><a href=/en/blog/cardiac-stent-drug-eluting-stent-implantation-guide/>Cardiac Stent</a> - Drug-eluting stent implantation<li><a href=/en/blog/pci-percutaneous-coronary-interve"
+    },
+    {
+      "file": "en/blog/aortic-aneurysm-symptoms-diagnosis-and-modern-treatment-methods/index.html",
+      "pattern": "href=/contact/",
+      "found": true,
+      "excerpt": "underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700\" href=/contact/ target=_self role=button>Schedule Appointment</a></div><div class=\"blog-disclaimer mb-10 p-4 bg-yellow-50 dark:bg-yellow-900/20 border-l-4 border-yellow-500 rounded-r\"><p class=\"text-sm text-yellow-800 dark:text-yellow-200\"><strong>⚠️ "
+    },
+    {
+      "file": "blog/page/2/index.html",
+      "pattern": "rel=canonical",
+      "found": true,
+      "excerpt": "l,istanbul kardiyoloji uzmanı,\"><meta name=robots content=\"index, follow\"><link rel=canonical href=https://docdrhabibcil.com/blog/><link rel=alternate type=application/rss+xml href=/blog/index.xml title=\"Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı\"><link rel=sitemap type=application/xml href=/sitemap.xml title=\"Doç. Dr. Hab"
+    },
+    {
+      "file": "en/index.html",
+      "pattern": "pacemaker-and-electrophysiology",
+      "found": true,
+      "excerpt": " Failure, Medical Treatment of Atrial Fibrillation</p></a><a href=/en/services/#pacemaker-and-electrophysiology class=service-card><div class=service-icon>⚡</div><h4>Pacemaker & Electrophysiology</h4><p>Pacemaker, ICD, ablation therapies</p></a><a href=/en/services/#diagnostic-procedures class=service-card><div class=service-ico"
+    }
+  ]
+}

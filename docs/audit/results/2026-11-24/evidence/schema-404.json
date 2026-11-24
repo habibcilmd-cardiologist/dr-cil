@@ -1,0 +1,119 @@
+{
+  "file": "404.html",
+  "url": "https://docdrhabibcil.com/404.html",
+  "language": "tr",
+  "canonical": [
+    "https://docdrhabibcil.com/404.html"
+  ],
+  "refresh": null,
+  "jsonld_script_count": 1,
+  "parse_errors": [],
+  "microdata": [],
+  "rdfa": [],
+  "top_nodes": [
+    {
+      "script": 1,
+      "node": 1,
+      "value": {
+        "@id": "https://docdrhabibcil.com/#website",
+        "@type": "WebSite",
+        "description": "Doç. Dr. Habib ÇİL - Kardiyoloji Uzmanı. Ekokardiyografi, anjiyografi, hipertansiyon tedavisi ve koroner arter hastalığı konularında uzman.",
+        "inLanguage": "tr-TR",
+        "name": "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı",
+        "publisher": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "url": "https://docdrhabibcil.com/"
+      },
+      "issues": []
+    },
+    {
+      "script": 1,
+      "node": 2,
+      "value": {
+        "@id": "https://docdrhabibcil.com/#physician",
+        "@type": [
+          "Person",
+          "Physician"
+        ],
+        "description": "İstanbul'da Kardiyoloji Uzmanı. Bacak damarlarını açma, diyabetik ayak tedavisi ve TAVI uzmanı.",
+        "email": "habibcilmd@gmail.com",
+        "familyName": "ÇİL",
+        "gender": "Male",
+        "givenName": "Habib",
+        "honorificPrefix": "Doç. Dr.",
+        "image": "https://docdrhabibcil.com/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp",
+        "jobTitle": "Kardiyoloji Uzmanı",
+        "medicalSpecialty": [
+          "http://schema.org/Cardiovascular"
+        ],
+        "name": "Doç. Dr. Habib ÇİL",
+        "sameAs": [
+          "https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul",
+          "https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul",
+          "https://www.instagram.com/doc.dr.habibcil",
+          "https://wa.me/905339454639"
+        ],
+        "telephone": "+90 212 665 50 50",
+        "url": "https://docdrhabibcil.com/"
+      },
+      "issues": [
+        "SCHEMA_IMAGE_MISSING_IN_BUILD"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 3,
+      "value": {
+        "@id": "https://docdrhabibcil.com/404.html#breadcrumb",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/",
+            "name": "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/404.html",
+            "name": "404 Page not found",
+            "position": 2
+          }
+        ]
+      },
+      "issues": []
+    },
+    {
+      "script": 1,
+      "node": 4,
+      "value": {
+        "@id": "https://docdrhabibcil.com/404.html#article",
+        "@type": "Article",
+        "author": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "dateModified": "0001-01-01T00:00:00+00:00",
+        "datePublished": "0001-01-01T00:00:00+00:00",
+        "headline": "404 Page not found",
+        "inLanguage": "tr",
+        "isPartOf": {
+          "@id": "https://docdrhabibcil.com/#website"
+        },
+        "mainEntityOfPage": {
+          "@id": "https://docdrhabibcil.com/404.html"
+        },
+        "publisher": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "url": "https://docdrhabibcil.com/404.html",
+        "wordCount": 0
+      },
+      "issues": []
+    }
+  ],
+  "issues": [
+    "SCHEMA_IMAGE_MISSING_IN_BUILD"
+  ],
+  "conflicting_ids": []
+}

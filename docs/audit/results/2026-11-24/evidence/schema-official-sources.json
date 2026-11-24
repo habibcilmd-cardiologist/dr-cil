@@ -1,0 +1,93 @@
+{
+  "access_date": "2026-11-24",
+  "schema_version_as_displayed": "V30.1 / 2026-09-16; development-version banner",
+  "sources": [
+    {
+      "url": "https://schema.org/performer",
+      "targeted_observation": "Event domain; Organization/Person range; not listed for MedicalProcedure/WebPage/BreadcrumbList"
+    },
+    {
+      "url": "https://schema.org/MedicalProcedure",
+      "targeted_observation": "status includes EventStatusType, MedicalStudyStatus, Text; procedureType expects MedicalProcedureType"
+    },
+    {
+      "url": "https://schema.org/MedicalProcedureType",
+      "targeted_observation": "Current members NoninvasiveProcedure and PercutaneousProcedure"
+    },
+    {
+      "url": "https://schema.org/PercutaneousProcedure",
+      "targeted_observation": "Existing enumeration member"
+    },
+    {
+      "url": "https://schema.org/DiagnosticProcedure",
+      "targeted_observation": "Procedure subclass, not MedicalProcedureType member"
+    },
+    {
+      "url": "https://schema.org/TherapeuticProcedure",
+      "targeted_observation": "Procedure subclass, not MedicalProcedureType member"
+    },
+    {
+      "url": "https://schema.org/MedicalScholarlyArticle",
+      "targeted_observation": "Existing subtype of ScholarlyArticle; zero occurrences rendered here"
+    },
+    {
+      "url": "https://schema.org/Physician",
+      "targeted_observation": "Individual physician or office considered as MedicalOrganization; inherits LocalBusiness"
+    },
+    {
+      "url": "https://schema.org/Cardiovascular",
+      "targeted_observation": "Existing MedicalSpecialty member"
+    },
+    {
+      "url": "https://schema.org/reviewedBy",
+      "targeted_observation": "Content accuracy/completeness reviewer"
+    },
+    {
+      "url": "https://schema.org/lastReviewed",
+      "targeted_observation": "Date of content review, not generic file modification"
+    },
+    {
+      "url": "https://schema.org/MedicalWebPage",
+      "targeted_observation": "Existing WebPage subclass for medical information"
+    },
+    {
+      "url": "https://schema.org/BreadcrumbList",
+      "targeted_observation": "position establishes order; markup array order alone insufficient"
+    },
+    {
+      "url": "https://schema.org/MedicalCondition",
+      "targeted_observation": "Condition affecting normal functioning; not every procedure name"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/search-gallery",
+      "targeted_observation": "Supported Google search features; not entire Schema.org vocabulary"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/sd-policies",
+      "targeted_observation": "Relevance, visibility and truthfulness; no rich-result guarantee"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/article",
+      "targeted_observation": "Article/news/blog guidance"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/breadcrumb",
+      "targeted_observation": "Breadcrumb feature and property requirements"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/local-business",
+      "targeted_observation": "LocalBusiness name/address requirements; subtype specificity"
+    },
+    {
+      "url": "https://developers.google.com/search/updates",
+      "targeted_observation": "FAQ rich results no longer shown from May7,2026"
+    }
+  ],
+  "official_validators": {
+    "schema_org_validator": "EXECUTED_ONE_DEV_SAMPLE_CODE_MODE; 1 ERROR, 3 WARNINGS",
+    "google_rich_results_test": "EXECUTED_ONE_DEV_SAMPLE_CODE_MODE; 3 VALID ITEMS, 3 NONCRITICAL LOCALBUSINESS WARNINGS",
+    "google_url_inspection": "NOT_RUN"
+  },
+  "official_test_evidence": "browser-validator-results.json",
+  "official_test_scope": "Actual DOM JSON-LD from localhost:1313/hizmetler/dizalti-damar-tikanikligi/; 5691 characters; localhost URLs retained; not byte-equivalent production input; not public URL crawl."
+}

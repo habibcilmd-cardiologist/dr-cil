@@ -1,0 +1,116 @@
+{
+  "url": "http://localhost:1313/",
+  "date": "2026-11-24",
+  "method": "viewport override + DOM text Range.getClientRects and computedstyle via CUA tab CDP",
+  "widths_checked": [
+    320,
+    360,
+    390,
+    430,
+    768,
+    1024,
+    1280,
+    1440,
+    1920
+  ],
+  "dpr": 1,
+  "desktop_nav_results": [
+    {
+      "width": 1024,
+      "label_lines": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "anchor_height_px": 48
+    },
+    {
+      "width": 1280,
+      "label_lines": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "anchor_height_px": 48
+    },
+    {
+      "width": 1440,
+      "label_lines": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "anchor_height_px": 48
+    },
+    {
+      "width": 1920,
+      "label_lines": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "anchor_height_px": 48
+    }
+  ],
+  "mobile_nav_hidden_at_widths": [
+    320,
+    360,
+    390,
+    430,
+    768
+  ],
+  "labels": [
+    "Hakkımda",
+    "Hizmetler",
+    "Klinik",
+    "Yayınlar",
+    "Blog",
+    "İletişim"
+  ],
+  "computed": {
+    "whiteSpace": "normal",
+    "wordBreak": "break-word",
+    "overflowWrap": "break-word",
+    "flexShrink": "1"
+  },
+  "at1280": {
+    "Hakkımda": {
+      "x": 591.578125,
+      "width": 68.2890625,
+      "height": 48,
+      "text_line_y": [
+        4.5,
+        28.5
+      ]
+    },
+    "Blog": {
+      "x": 896.5390625,
+      "width": 30.6796875,
+      "height": 48,
+      "text_line_y": [
+        4.5,
+        28.5
+      ]
+    }
+  },
+  "hero_first_label": "Damar Açma",
+  "zoom": "Native200percent NOT_RUN; viewport emulation is not zoom",
+  "screenshots": "430x844 and1280x900 screenshots emitted in CUA tool output; header crop separately captured via Page.captureScreenshot",
+  "notes": [
+    "Offcanvas anchors can have nonzero rectangles while transformed offscreen; those were excluded from visible desktop conclusions.",
+    "Desktop breakpoint actual853px from theme; boundary852/853/854 pending.",
+    "HTMLroot clientWidth appeared innerWidth-8 and scrollWidth clientWidth+4; no horizontal-scroll pass claimed."
+  ]
+}

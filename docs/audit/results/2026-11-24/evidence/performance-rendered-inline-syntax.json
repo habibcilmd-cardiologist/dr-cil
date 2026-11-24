@@ -1,0 +1,197 @@
+{
+  "method": "Node static syntax only, no DOM/runtime/network execution",
+  "results": [
+    {
+      "page": "index.html",
+      "script_index": 6,
+      "bytes": 129,
+      "sha256": "27442ff69c2dab508bb492a44850fd03ef9df823ac816af083dc75a082a95ba3",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "index.html",
+      "script_index": 8,
+      "bytes": 3550,
+      "sha256": "d5560662036033067de89e4f52ebe04f5b8b44282fe1408aaf35dbf8d9f69a9e",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "index.html",
+      "script_index": 9,
+      "bytes": 1376,
+      "sha256": "1cf55df8eb0340b90bb40f1378a17851d4236648a406f0118c2e189d2d9d4879",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "index.html",
+      "script_index": 10,
+      "bytes": 2737,
+      "sha256": "27ee90b5959eb29508dc7f04249877526173e8ae89fe5105249c784583d2a16e",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "index.html",
+      "script_index": 11,
+      "bytes": 113,
+      "sha256": "9e7bac8367ed345e3cb9ad1d2636dfd956155041c352b7fcf4d02388053d9f91",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "index.html",
+      "script_index": 13,
+      "bytes": 1188,
+      "sha256": "52bbb41d806df895111510fbd6542c62645943754225e227b92fcfe0f6083757",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "en/index.html",
+      "script_index": 6,
+      "bytes": 129,
+      "sha256": "27442ff69c2dab508bb492a44850fd03ef9df823ac816af083dc75a082a95ba3",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "en/index.html",
+      "script_index": 8,
+      "bytes": 3550,
+      "sha256": "d5560662036033067de89e4f52ebe04f5b8b44282fe1408aaf35dbf8d9f69a9e",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "en/index.html",
+      "script_index": 9,
+      "bytes": 1376,
+      "sha256": "1cf55df8eb0340b90bb40f1378a17851d4236648a406f0118c2e189d2d9d4879",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "en/index.html",
+      "script_index": 10,
+      "bytes": 2737,
+      "sha256": "27ee90b5959eb29508dc7f04249877526173e8ae89fe5105249c784583d2a16e",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "en/index.html",
+      "script_index": 11,
+      "bytes": 113,
+      "sha256": "9e7bac8367ed345e3cb9ad1d2636dfd956155041c352b7fcf4d02388053d9f91",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "en/index.html",
+      "script_index": 13,
+      "bytes": 1188,
+      "sha256": "52bbb41d806df895111510fbd6542c62645943754225e227b92fcfe0f6083757",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "ar/index.html",
+      "script_index": 6,
+      "bytes": 129,
+      "sha256": "27442ff69c2dab508bb492a44850fd03ef9df823ac816af083dc75a082a95ba3",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "ar/index.html",
+      "script_index": 8,
+      "bytes": 3550,
+      "sha256": "d5560662036033067de89e4f52ebe04f5b8b44282fe1408aaf35dbf8d9f69a9e",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "ar/index.html",
+      "script_index": 9,
+      "bytes": 1376,
+      "sha256": "1cf55df8eb0340b90bb40f1378a17851d4236648a406f0118c2e189d2d9d4879",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "ar/index.html",
+      "script_index": 10,
+      "bytes": 2737,
+      "sha256": "27ee90b5959eb29508dc7f04249877526173e8ae89fe5105249c784583d2a16e",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "ar/index.html",
+      "script_index": 11,
+      "bytes": 113,
+      "sha256": "9e7bac8367ed345e3cb9ad1d2636dfd956155041c352b7fcf4d02388053d9f91",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "ar/index.html",
+      "script_index": 13,
+      "bytes": 1188,
+      "sha256": "52bbb41d806df895111510fbd6542c62645943754225e227b92fcfe0f6083757",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "hizmetler/dizalti-damar-tikanikligi/index.html",
+      "script_index": 6,
+      "bytes": 129,
+      "sha256": "27442ff69c2dab508bb492a44850fd03ef9df823ac816af083dc75a082a95ba3",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "hizmetler/dizalti-damar-tikanikligi/index.html",
+      "script_index": 9,
+      "bytes": 113,
+      "sha256": "9e7bac8367ed345e3cb9ad1d2636dfd956155041c352b7fcf4d02388053d9f91",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "hizmetler/dizalti-damar-tikanikligi/index.html",
+      "script_index": 11,
+      "bytes": 1188,
+      "sha256": "52bbb41d806df895111510fbd6542c62645943754225e227b92fcfe0f6083757",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "blog/diyabetik-ayak/index.html",
+      "script_index": 6,
+      "bytes": 129,
+      "sha256": "27442ff69c2dab508bb492a44850fd03ef9df823ac816af083dc75a082a95ba3",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "blog/diyabetik-ayak/index.html",
+      "script_index": 9,
+      "bytes": 113,
+      "sha256": "9e7bac8367ed345e3cb9ad1d2636dfd956155041c352b7fcf4d02388053d9f91",
+      "syntax_exit": 0,
+      "error": null
+    },
+    {
+      "page": "blog/diyabetik-ayak/index.html",
+      "script_index": 11,
+      "bytes": 1188,
+      "sha256": "52bbb41d806df895111510fbd6542c62645943754225e227b92fcfe0f6083757",
+      "syntax_exit": 0,
+      "error": null
+    }
+  ]
+}

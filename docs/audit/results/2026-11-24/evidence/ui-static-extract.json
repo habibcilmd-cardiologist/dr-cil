@@ -1,0 +1,487 @@
+{
+  "/index.html": {
+    "html": {
+      "lang": "tr",
+      "dir": "ltr",
+      "class": "scroll-smooth",
+      "data-default-appearance": "light",
+      "data-auto-appearance": "true"
+    },
+    "controls": {
+      "menu-button": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-button",
+          "class": "block"
+        }
+      },
+      "menu-wrapper": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-wrapper",
+          "class": "fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]"
+        }
+      },
+      "menu-close-button": {
+        "tag": "li",
+        "attributes": {
+          "id": "menu-close-button"
+        }
+      },
+      "appointment-button": {
+        "tag": "button",
+        "attributes": {
+          "id": "appointment-button",
+          "class": "appointment-float",
+          "aria-label": "Randevu Al",
+          "aria-haspopup": "dialog"
+        }
+      },
+      "appointment-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "appointment-modal",
+          "class": "appointment-modal",
+          "role": "dialog",
+          "aria-modal": "true",
+          "aria-labelledby": "appointment-modal-title",
+          "hidden": null
+        }
+      },
+      "search-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "search-modal",
+          "class": "flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800"
+        }
+      },
+      "search-query": {
+        "tag": "input",
+        "attributes": {
+          "type": "search",
+          "id": "search-query",
+          "class": "flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent",
+          "placeholder": "Ara",
+          "tabindex": "0"
+        }
+      }
+    },
+    "forms": [
+      {
+        "class": "flex items-center flex-auto min-w-0"
+      }
+    ],
+    "hero_values": [
+      "Damar Açma",
+      "Akademik Yetkinlik"
+    ]
+  },
+  "/en/index.html": {
+    "html": {
+      "lang": "en",
+      "dir": "ltr",
+      "class": "scroll-smooth",
+      "data-default-appearance": "light",
+      "data-auto-appearance": "true"
+    },
+    "controls": {
+      "menu-button": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-button",
+          "class": "block"
+        }
+      },
+      "menu-wrapper": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-wrapper",
+          "class": "fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]"
+        }
+      },
+      "menu-close-button": {
+        "tag": "li",
+        "attributes": {
+          "id": "menu-close-button"
+        }
+      },
+      "appointment-button": {
+        "tag": "button",
+        "attributes": {
+          "id": "appointment-button",
+          "class": "appointment-float",
+          "aria-label": "Book Appointment",
+          "aria-haspopup": "dialog"
+        }
+      },
+      "appointment-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "appointment-modal",
+          "class": "appointment-modal",
+          "role": "dialog",
+          "aria-modal": "true",
+          "aria-labelledby": "appointment-modal-title",
+          "hidden": null
+        }
+      },
+      "search-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "search-modal",
+          "class": "flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800"
+        }
+      },
+      "search-query": {
+        "tag": "input",
+        "attributes": {
+          "type": "search",
+          "id": "search-query",
+          "class": "flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent",
+          "placeholder": "Search",
+          "tabindex": "0"
+        }
+      }
+    },
+    "forms": [
+      {
+        "class": "flex items-center flex-auto min-w-0"
+      }
+    ],
+    "hero_values": [
+      "Vascular Interventions",
+      "Academic Excellence"
+    ]
+  },
+  "/ar/index.html": {
+    "html": {
+      "lang": "ar",
+      "dir": "rtl",
+      "class": "scroll-smooth",
+      "data-default-appearance": "light",
+      "data-auto-appearance": "true"
+    },
+    "controls": {
+      "menu-button": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-button",
+          "class": "block"
+        }
+      },
+      "menu-wrapper": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-wrapper",
+          "class": "fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]"
+        }
+      },
+      "menu-close-button": {
+        "tag": "li",
+        "attributes": {
+          "id": "menu-close-button"
+        }
+      },
+      "appointment-button": {
+        "tag": "button",
+        "attributes": {
+          "id": "appointment-button",
+          "class": "appointment-float",
+          "aria-label": "حجز موعد",
+          "aria-haspopup": "dialog"
+        }
+      },
+      "appointment-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "appointment-modal",
+          "class": "appointment-modal",
+          "role": "dialog",
+          "aria-modal": "true",
+          "aria-labelledby": "appointment-modal-title",
+          "hidden": null
+        }
+      },
+      "search-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "search-modal",
+          "class": "flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800"
+        }
+      },
+      "search-query": {
+        "tag": "input",
+        "attributes": {
+          "type": "search",
+          "id": "search-query",
+          "class": "flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent",
+          "placeholder": "بحث...",
+          "tabindex": "0"
+        }
+      }
+    },
+    "forms": [
+      {
+        "class": "flex items-center flex-auto min-w-0"
+      }
+    ],
+    "hero_values": [
+      "فتح الأوعية الدموية",
+      "تميز أكاديمي"
+    ]
+  },
+  "/iletisim/index.html": {
+    "html": {
+      "lang": "tr",
+      "dir": "ltr",
+      "class": "scroll-smooth",
+      "data-default-appearance": "light",
+      "data-auto-appearance": "true"
+    },
+    "controls": {
+      "menu-button": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-button",
+          "class": "block"
+        }
+      },
+      "menu-wrapper": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-wrapper",
+          "class": "fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]"
+        }
+      },
+      "menu-close-button": {
+        "tag": "li",
+        "attributes": {
+          "id": "menu-close-button"
+        }
+      },
+      "appointment-button": {
+        "tag": "button",
+        "attributes": {
+          "id": "appointment-button",
+          "class": "appointment-float",
+          "aria-label": "Randevu Al",
+          "aria-haspopup": "dialog"
+        }
+      },
+      "appointment-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "appointment-modal",
+          "class": "appointment-modal",
+          "role": "dialog",
+          "aria-modal": "true",
+          "aria-labelledby": "appointment-modal-title",
+          "hidden": null
+        }
+      },
+      "search-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "search-modal",
+          "class": "flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800"
+        }
+      },
+      "search-query": {
+        "tag": "input",
+        "attributes": {
+          "type": "search",
+          "id": "search-query",
+          "class": "flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent",
+          "placeholder": "Ara",
+          "tabindex": "0"
+        }
+      }
+    },
+    "forms": [
+      {
+        "name": "contact-tr",
+        "method": "POST",
+        "action": "/tr/iletisim/tesekkurler/",
+        "data-netlify": "true",
+        "netlify-honeypot": "bot-field",
+        "class": "space-y-4"
+      },
+      {
+        "class": "flex items-center flex-auto min-w-0"
+      }
+    ],
+    "hero_values": []
+  },
+  "/en/contact/index.html": {
+    "html": {
+      "lang": "en",
+      "dir": "ltr",
+      "class": "scroll-smooth",
+      "data-default-appearance": "light",
+      "data-auto-appearance": "true"
+    },
+    "controls": {
+      "menu-button": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-button",
+          "class": "block"
+        }
+      },
+      "menu-wrapper": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-wrapper",
+          "class": "fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]"
+        }
+      },
+      "menu-close-button": {
+        "tag": "li",
+        "attributes": {
+          "id": "menu-close-button"
+        }
+      },
+      "appointment-button": {
+        "tag": "button",
+        "attributes": {
+          "id": "appointment-button",
+          "class": "appointment-float",
+          "aria-label": "Book Appointment",
+          "aria-haspopup": "dialog"
+        }
+      },
+      "appointment-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "appointment-modal",
+          "class": "appointment-modal",
+          "role": "dialog",
+          "aria-modal": "true",
+          "aria-labelledby": "appointment-modal-title",
+          "hidden": null
+        }
+      },
+      "search-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "search-modal",
+          "class": "flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800"
+        }
+      },
+      "search-query": {
+        "tag": "input",
+        "attributes": {
+          "type": "search",
+          "id": "search-query",
+          "class": "flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent",
+          "placeholder": "Search",
+          "tabindex": "0"
+        }
+      }
+    },
+    "forms": [
+      {
+        "name": "contact-en",
+        "method": "POST",
+        "action": "/en/contact/thank-you/",
+        "data-netlify": "true",
+        "netlify-honeypot": "bot-field",
+        "class": "space-y-4"
+      },
+      {
+        "class": "flex items-center flex-auto min-w-0"
+      }
+    ],
+    "hero_values": []
+  },
+  "/ar/contact/index.html": {
+    "html": {
+      "lang": "ar",
+      "dir": "rtl",
+      "class": "scroll-smooth",
+      "data-default-appearance": "light",
+      "data-auto-appearance": "true"
+    },
+    "controls": {
+      "menu-button": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-button",
+          "class": "block"
+        }
+      },
+      "menu-wrapper": {
+        "tag": "div",
+        "attributes": {
+          "id": "menu-wrapper",
+          "class": "fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]"
+        }
+      },
+      "menu-close-button": {
+        "tag": "li",
+        "attributes": {
+          "id": "menu-close-button"
+        }
+      },
+      "appointment-button": {
+        "tag": "button",
+        "attributes": {
+          "id": "appointment-button",
+          "class": "appointment-float",
+          "aria-label": "حجز موعد",
+          "aria-haspopup": "dialog"
+        }
+      },
+      "appointment-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "appointment-modal",
+          "class": "appointment-modal",
+          "role": "dialog",
+          "aria-modal": "true",
+          "aria-labelledby": "appointment-modal-title",
+          "hidden": null
+        }
+      },
+      "search-modal": {
+        "tag": "div",
+        "attributes": {
+          "id": "search-modal",
+          "class": "flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800"
+        }
+      },
+      "search-query": {
+        "tag": "input",
+        "attributes": {
+          "type": "search",
+          "id": "search-query",
+          "class": "flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent",
+          "placeholder": "بحث...",
+          "tabindex": "0"
+        }
+      }
+    },
+    "forms": [
+      {
+        "name": "contact-ar",
+        "method": "POST",
+        "action": "/ar/contact/shukran/",
+        "data-netlify": "true",
+        "netlify-honeypot": "bot-field",
+        "class": "space-y-4"
+      },
+      {
+        "class": "flex items-center flex-auto min-w-0"
+      }
+    ],
+    "hero_values": []
+  },
+  "merged_config_excerpt": {
+    "params.disabletextinheader": null,
+    "params.header": {
+      "disabletextinheader": true,
+      "layout": "fixed",
+      "showlanguageswitcher": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "http://localhost:1313/",
+  "desktop1280x900": "3of3 initial reloads started GLB without scroll; see browser-dev-diagnostics.json",
+  "mobile390x844": "3of3 initial reloads no Skypack/GLB and no canvas at2.2–2.6s sampling",
+  "mobile_scroll_test": {
+    "scrollY": 1702,
+    "model_rect": {
+      "top": -159.5078125,
+      "bottom": 180.4921875,
+      "height": 340
+    },
+    "skypack_first_start_ms": 19703,
+    "glb_start_ms": 20155.1,
+    "glb_duration_ms": 30.4,
+    "glb_transfer_bytes": 1511528,
+    "canvas_created": true
+  },
+  "attribution_limits": "No experimental CPU/GPU attribution, offscreen rendering comparison or3D blockedA/B performed."
+}

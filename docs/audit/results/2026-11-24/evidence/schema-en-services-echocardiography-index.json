@@ -1,0 +1,274 @@
+{
+  "file": "en/services/echocardiography/index.html",
+  "url": "https://docdrhabibcil.com/en/services/echocardiography/",
+  "language": "en",
+  "canonical": [
+    "https://docdrhabibcil.com/en/services/echocardiography/"
+  ],
+  "refresh": null,
+  "jsonld_script_count": 1,
+  "parse_errors": [],
+  "microdata": [],
+  "rdfa": [],
+  "top_nodes": [
+    {
+      "script": 1,
+      "node": 1,
+      "value": {
+        "@id": "https://docdrhabibcil.com/en/#website",
+        "@type": "WebSite",
+        "description": "Assoc. Prof. Dr. Habib ÇİL - Cardiology Specialist. Expert in echocardiography, angiography, hypertension treatment, and coronary artery disease.",
+        "inLanguage": "en-US",
+        "name": "Assoc. Prof. Dr. Habib ÇİL | Cardiologist",
+        "publisher": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "url": "https://docdrhabibcil.com/en/"
+      },
+      "issues": []
+    },
+    {
+      "script": 1,
+      "node": 2,
+      "value": {
+        "@id": "https://docdrhabibcil.com/#physician",
+        "@type": [
+          "Person",
+          "Physician"
+        ],
+        "description": "Cardiology Specialist in Istanbul. Expert in leg artery opening and TAVI.",
+        "email": "habibcilmd@gmail.com",
+        "familyName": "ÇİL",
+        "gender": "Male",
+        "givenName": "Habib",
+        "honorificPrefix": "Doç. Dr.",
+        "image": "https://docdrhabibcil.com/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp",
+        "jobTitle": "Cardiology Specialist",
+        "medicalSpecialty": [
+          "http://schema.org/Cardiovascular"
+        ],
+        "name": "Doç. Dr. Habib ÇİL",
+        "sameAs": [
+          "https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul",
+          "https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul",
+          "https://www.instagram.com/doc.dr.habibcil",
+          "https://wa.me/905339454639"
+        ],
+        "telephone": "+90 212 665 50 50",
+        "url": "https://docdrhabibcil.com/"
+      },
+      "issues": [
+        "SCHEMA_IMAGE_MISSING_IN_BUILD"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 3,
+      "value": {
+        "@id": "https://docdrhabibcil.com/en/services/echocardiography/#breadcrumb",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/en/",
+            "name": "Assoc. Prof. Dr. Habib ÇİL | Cardiologist",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/en/services/",
+            "name": "Services",
+            "position": 3
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/en/services/echocardiography/",
+            "name": "Echocardiography - Heart Ultrasound Imaging",
+            "position": 3
+          }
+        ]
+      },
+      "issues": [
+        "SCHEMA_BREADCRUMB_POSITIONS"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 4,
+      "value": {
+        "@id": "https://docdrhabibcil.com/en/services/echocardiography/#faq",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, transthoracic echocardiography is a completely painless procedure. Only gel is applied to the chest and imaging is done with a probe."
+            },
+            "name": "Is echocardiography painful?"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Standard transthoracic echocardiography takes 20-45 minutes."
+            },
+            "name": "How long does echocardiography take?"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Fasting is not required for transthoracic echo. 6 hours fasting is required for transesophageal echo."
+            },
+            "name": "Do I need to fast for echocardiography?"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, since ultrasound waves are used, it contains no radiation and is completely safe."
+            },
+            "name": "Is echocardiography harmful?"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Results are usually evaluated and reported on the same day."
+            },
+            "name": "When do echocardiography results come out?"
+          }
+        ],
+        "name": "Echocardiography - Heart Ultrasound Imaging - Frequently Asked Questions",
+        "url": "https://docdrhabibcil.com/en/services/echocardiography/"
+      },
+      "issues": []
+    },
+    {
+      "script": 1,
+      "node": 5,
+      "value": {
+        "@id": "https://docdrhabibcil.com/en/services/echocardiography/#procedure",
+        "@type": "MedicalProcedure",
+        "bodyLocation": "Heart",
+        "description": "Expert echocardiography in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs heart ultrasound evaluation. Transthoracic and transesophageal echo. Avrasya Hospital.",
+        "followup": "Post-procedure follow-up appointments will be scheduled.",
+        "howPerformed": "Performed by specialist cardiologist using modern medical equipment.",
+        "name": "Echocardiography - Heart Ultrasound Imaging",
+        "performer": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "preparation": "Pre-procedure preparation instructions will be provided by your doctor.",
+        "procedureType": "DiagnosticProcedure",
+        "recognizingAuthority": {
+          "@type": "Organization",
+          "name": "Turkish Society of Cardiology"
+        },
+        "status": "https://schema.org/EventScheduled",
+        "url": "https://docdrhabibcil.com/en/services/echocardiography/"
+      },
+      "issues": [
+        "SCHEMA_BLANKET_PROCEDURE_SEMANTICS_REVIEW",
+        "SCHEMA_PERFORMER_DOMAIN",
+        "SCHEMA_PROCEDURETYPE_NON_ENUM"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 6,
+      "value": {
+        "@id": "https://docdrhabibcil.com/en/services/echocardiography/#webpage",
+        "@type": "MedicalWebPage",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Echocardiography - Heart Ultrasound Imaging"
+        },
+        "author": {
+          "@id": "https://docdrhabibcil.com/#physician",
+          "@type": "Physician"
+        },
+        "dateModified": "2024-12-04",
+        "datePublished": "2024-01-15",
+        "description": "Expert echocardiography in Istanbul. Cardiologist Assoc. Prof. Dr. Habib Çil performs heart ultrasound evaluation. Transthoracic and transesophageal echo. Avrasya Hospital.",
+        "inLanguage": "en",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "Assoc. Prof. Dr. Habib ÇİL | Cardiologist",
+          "url": "https://docdrhabibcil.com/"
+        },
+        "lastReviewed": "2024-12-04",
+        "mainEntity": {
+          "@id": "https://docdrhabibcil.com/en/services/echocardiography/#procedure"
+        },
+        "name": "Echocardiography - Heart Ultrasound Imaging",
+        "performer": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "reviewedBy": {
+          "@id": "https://docdrhabibcil.com/#physician",
+          "@type": "Physician"
+        },
+        "url": "https://docdrhabibcil.com/en/services/echocardiography/"
+      },
+      "issues": [
+        "SCHEMA_PERFORMER_DOMAIN",
+        "SCHEMA_REVIEW_EVIDENCE_MISSING"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 7,
+      "value": {
+        "@id": "https://docdrhabibcil.com/en/services/echocardiography/#breadcrumb",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/",
+            "name": "Home",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/services/",
+            "name": "Services",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/en/services/echocardiography/",
+            "name": "Echocardiography - Heart Ultrasound Imaging",
+            "position": 3
+          }
+        ],
+        "performer": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        }
+      },
+      "issues": [
+        "SCHEMA_BREADCRUMB_MISSING_TARGET",
+        "SCHEMA_PERFORMER_DOMAIN"
+      ]
+    }
+  ],
+  "issues": [
+    "SCHEMA_BLANKET_PROCEDURE_SEMANTICS_REVIEW",
+    "SCHEMA_BREADCRUMB_MISSING_TARGET",
+    "SCHEMA_BREADCRUMB_POSITIONS",
+    "SCHEMA_CONFLICTING_ID",
+    "SCHEMA_IMAGE_MISSING_IN_BUILD",
+    "SCHEMA_PERFORMER_DOMAIN",
+    "SCHEMA_PROCEDURETYPE_NON_ENUM",
+    "SCHEMA_REVIEW_EVIDENCE_MISSING"
+  ],
+  "conflicting_ids": [
+    {
+      "id": "https://docdrhabibcil.com/en/services/echocardiography/#breadcrumb",
+      "definitions": 2,
+      "conflicting_properties": [
+        "itemListElement"
+      ]
+    }
+  ]
+}

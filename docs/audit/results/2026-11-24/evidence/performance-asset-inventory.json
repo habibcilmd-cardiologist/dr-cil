@@ -1,0 +1,914 @@
+{
+  "date": "2026-11-24",
+  "method": "Offline production output inspection only; gzip9 is a size estimate, not HTTP transfer or negotiated encoding; no timing metrics.",
+  "pages": {
+    "index.html": {
+      "html": {
+        "bytes": 101605,
+        "gzip9_estimate_bytes": 23366,
+        "sha256": "5443e2b1e1d457569a8dac8ab4b21df104705dbd1bfe8f3484aee8387539b5a8"
+      },
+      "scripts": [
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "integrity": "sha512-9Lzo9q9g/1qN0iUFcrFL/jHCpx0DEvCx9DwMHKdYcUB06uye9FNrNTxm3+m/ffR5SO+nrfzsLfG9Lh6QX7yMVw=="
+          },
+          "bytes": 3615,
+          "gzip9_estimate_bytes": 1155,
+          "sha256": "9e746edacab223b949ccbf7577ebb4814d6478ae7505182744182040787b2754"
+        },
+        {
+          "attributes": {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "integrity": "sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7+kfJ6kKCJxQGC+8wm+Bz9JucDjDTGNew=="
+          },
+          "bytes": 8828,
+          "gzip9_estimate_bytes": 2809,
+          "sha256": "db90c347df2234befc6345b10a4d9ceb1a065b23d0950da84646cad885b5ffd3"
+        },
+        {
+          "attributes": {
+            "defer": null,
+            "type": "text/javascript",
+            "id": "script-bundle",
+            "src": "/js/main.bundle.min.0398bf7f50077f6620b98fd1ba89ae664c29efd1dbd549e95daa4533e6e63f2da46ea69eaf666261bd7e2db790de129c6c4441d7ef7d9bb015461e8945e86212.js",
+            "integrity": "sha512-A5i/f1AHf2YguY/RuomuZkwp79Hb1UnpXapFM+bmPy2kbqaer2ZiYb1+LbeQ3hKcbERB1+99m7AVRh6JRehiEg==",
+            "data-copy": "Kopyala",
+            "data-copied": "Kopyalandı"
+          },
+          "bytes": 34017,
+          "gzip9_estimate_bytes": 11290,
+          "sha256": "90759f3ac65f9c8cfba99ef081a8f34f4cf3ad71950f2670097e7fd3fe4907e7"
+        },
+        {
+          "attributes": {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "integrity": "sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj+KsslFkCOt3TvJrX2AV/Gc3wOqA=="
+          },
+          "bytes": 70264,
+          "gzip9_estimate_bytes": 24036,
+          "sha256": "9261efb3407e3a9096e4654750d8eff6b3a663422f48845c7fbcc65034c340cf"
+        },
+        {
+          "attributes": {
+            "type": "application/ld+json"
+          },
+          "inline_bytes": 2148,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "async": null,
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK"
+          },
+          "external": true
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 129,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "integrity": "sha512-YFs7lCgY8KtacXrkRhNexGuO5aKtEq5W+5DcKnbOMMOI+f7IvMGNsVvUfj+ooJ13n6EqqcGEz2FKMVvHLGwWPQ==",
+            "data-blur-id": "menu-blur"
+          },
+          "bytes": 826,
+          "gzip9_estimate_bytes": 469,
+          "sha256": "0d21b61b6dc8ec9efacfed77a2d9fe928b3045070473428764af54f1f7e21b6e"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 3550,
+          "contains_3d_lazy_init": true
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 1376,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 2737,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 113,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "integrity": "sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh+sCQ0E53ghYrxgYqw+0GCRyIEpA=="
+          },
+          "bytes": 1003,
+          "gzip9_estimate_bytes": 472,
+          "sha256": "dbf4302e410585c4cb99912b595277600a3f1f51e81375ef82878edef12db9e7"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 1188,
+          "contains_3d_lazy_init": false
+        }
+      ],
+      "stylesheets": [
+        {
+          "attributes": {
+            "type": "text/css",
+            "rel": "stylesheet",
+            "href": "/css/main.bundle.min.f720b86d4c8d771075b7b8e339875643b8a035aa271914bc3bae0a983a55e5ee461a9b04f250b92e88e56f7e2b30c3e7171ed5461e7631b08a66fc9e73595f68.css",
+            "integrity": "sha512-9yC4bUyNdxB1t7jjOYdWQ7igNaonGRS8O64KmDpV5e5GGpsE8lC5Lojlb34rMMPnFx7VRh52MbCKZvyec1lfaA=="
+          },
+          "bytes": 160183,
+          "gzip9_estimate_bytes": 26388,
+          "sha256": "c521c4fdffb0d61402b0d6abd9fc8920f49d44d453d9b42a8315f0391a7d1a65"
+        }
+      ],
+      "hero_images": [
+        {
+          "src": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp",
+          "alt": "Doç. Dr. Habib ÇİL",
+          "class": "home-hero-image",
+          "loading": "eager",
+          "file": {
+            "bytes": 35410,
+            "gzip9_estimate_bytes": 35443,
+            "sha256": "de3cb4d18ee2df2dc5cdc8bb2ffffeae10ce5ab4f576466a96505a21e631af71"
+          }
+        }
+      ],
+      "image_count": 5,
+      "video_tags": [],
+      "inline_executable_script_bytes": 9093,
+      "inline_style_bytes": 5713,
+      "search_index": {
+        "bytes": 1067469,
+        "gzip9_estimate_bytes": 253535,
+        "sha256": "8c09bfdc8eabf812d95e2550cf2397adea68c282ce9fdcf8c8669614b600a431"
+      }
+    },
+    "en/index.html": {
+      "html": {
+        "bytes": 99224,
+        "gzip9_estimate_bytes": 22872,
+        "sha256": "c75ec47acf7df76ee7ea4d3fce04e6c32b7e1d5085c135a5eeb45726cf0a4658"
+      },
+      "scripts": [
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "integrity": "sha512-9Lzo9q9g/1qN0iUFcrFL/jHCpx0DEvCx9DwMHKdYcUB06uye9FNrNTxm3+m/ffR5SO+nrfzsLfG9Lh6QX7yMVw=="
+          },
+          "bytes": 3615,
+          "gzip9_estimate_bytes": 1155,
+          "sha256": "9e746edacab223b949ccbf7577ebb4814d6478ae7505182744182040787b2754"
+        },
+        {
+          "attributes": {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "integrity": "sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7+kfJ6kKCJxQGC+8wm+Bz9JucDjDTGNew=="
+          },
+          "bytes": 8828,
+          "gzip9_estimate_bytes": 2809,
+          "sha256": "db90c347df2234befc6345b10a4d9ceb1a065b23d0950da84646cad885b5ffd3"
+        },
+        {
+          "attributes": {
+            "defer": null,
+            "type": "text/javascript",
+            "id": "script-bundle",
+            "src": "/js/main.bundle.min.0398bf7f50077f6620b98fd1ba89ae664c29efd1dbd549e95daa4533e6e63f2da46ea69eaf666261bd7e2db790de129c6c4441d7ef7d9bb015461e8945e86212.js",
+            "integrity": "sha512-A5i/f1AHf2YguY/RuomuZkwp79Hb1UnpXapFM+bmPy2kbqaer2ZiYb1+LbeQ3hKcbERB1+99m7AVRh6JRehiEg==",
+            "data-copy": "Copy",
+            "data-copied": "Copied"
+          },
+          "bytes": 34017,
+          "gzip9_estimate_bytes": 11290,
+          "sha256": "90759f3ac65f9c8cfba99ef081a8f34f4cf3ad71950f2670097e7fd3fe4907e7"
+        },
+        {
+          "attributes": {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "integrity": "sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj+KsslFkCOt3TvJrX2AV/Gc3wOqA=="
+          },
+          "bytes": 70264,
+          "gzip9_estimate_bytes": 24036,
+          "sha256": "9261efb3407e3a9096e4654750d8eff6b3a663422f48845c7fbcc65034c340cf"
+        },
+        {
+          "attributes": {
+            "type": "application/ld+json"
+          },
+          "inline_bytes": 2108,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "async": null,
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK"
+          },
+          "external": true
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 129,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "integrity": "sha512-YFs7lCgY8KtacXrkRhNexGuO5aKtEq5W+5DcKnbOMMOI+f7IvMGNsVvUfj+ooJ13n6EqqcGEz2FKMVvHLGwWPQ==",
+            "data-blur-id": "menu-blur"
+          },
+          "bytes": 826,
+          "gzip9_estimate_bytes": 469,
+          "sha256": "0d21b61b6dc8ec9efacfed77a2d9fe928b3045070473428764af54f1f7e21b6e"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 3550,
+          "contains_3d_lazy_init": true
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 1376,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 2737,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 113,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "integrity": "sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh+sCQ0E53ghYrxgYqw+0GCRyIEpA=="
+          },
+          "bytes": 1003,
+          "gzip9_estimate_bytes": 472,
+          "sha256": "dbf4302e410585c4cb99912b595277600a3f1f51e81375ef82878edef12db9e7"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 1188,
+          "contains_3d_lazy_init": false
+        }
+      ],
+      "stylesheets": [
+        {
+          "attributes": {
+            "type": "text/css",
+            "rel": "stylesheet",
+            "href": "/css/main.bundle.min.f720b86d4c8d771075b7b8e339875643b8a035aa271914bc3bae0a983a55e5ee461a9b04f250b92e88e56f7e2b30c3e7171ed5461e7631b08a66fc9e73595f68.css",
+            "integrity": "sha512-9yC4bUyNdxB1t7jjOYdWQ7igNaonGRS8O64KmDpV5e5GGpsE8lC5Lojlb34rMMPnFx7VRh52MbCKZvyec1lfaA=="
+          },
+          "bytes": 160183,
+          "gzip9_estimate_bytes": 26388,
+          "sha256": "c521c4fdffb0d61402b0d6abd9fc8920f49d44d453d9b42a8315f0391a7d1a65"
+        }
+      ],
+      "hero_images": [
+        {
+          "src": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp",
+          "alt": "Assoc. Prof. Dr. Habib ÇİL",
+          "class": "home-hero-image",
+          "loading": "eager",
+          "file": {
+            "bytes": 35410,
+            "gzip9_estimate_bytes": 35443,
+            "sha256": "de3cb4d18ee2df2dc5cdc8bb2ffffeae10ce5ab4f576466a96505a21e631af71"
+          }
+        }
+      ],
+      "image_count": 5,
+      "video_tags": [],
+      "inline_executable_script_bytes": 9093,
+      "inline_style_bytes": 5713,
+      "search_index": {
+        "bytes": 1043274,
+        "gzip9_estimate_bytes": 246296,
+        "sha256": "d4c6720b703f7d6c73f744e36940904ec886388cbcd28842694e4f51b0fe4b64"
+      }
+    },
+    "ar/index.html": {
+      "html": {
+        "bytes": 124161,
+        "gzip9_estimate_bytes": 27405,
+        "sha256": "760dad74514b5a6d526c2330eeb043060a910b3d2800d7d25f6451a1dbce385f"
+      },
+      "scripts": [
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "integrity": "sha512-9Lzo9q9g/1qN0iUFcrFL/jHCpx0DEvCx9DwMHKdYcUB06uye9FNrNTxm3+m/ffR5SO+nrfzsLfG9Lh6QX7yMVw=="
+          },
+          "bytes": 3615,
+          "gzip9_estimate_bytes": 1155,
+          "sha256": "9e746edacab223b949ccbf7577ebb4814d6478ae7505182744182040787b2754"
+        },
+        {
+          "attributes": {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "integrity": "sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7+kfJ6kKCJxQGC+8wm+Bz9JucDjDTGNew=="
+          },
+          "bytes": 8828,
+          "gzip9_estimate_bytes": 2809,
+          "sha256": "db90c347df2234befc6345b10a4d9ceb1a065b23d0950da84646cad885b5ffd3"
+        },
+        {
+          "attributes": {
+            "defer": null,
+            "type": "text/javascript",
+            "id": "script-bundle",
+            "src": "/js/main.bundle.min.0398bf7f50077f6620b98fd1ba89ae664c29efd1dbd549e95daa4533e6e63f2da46ea69eaf666261bd7e2db790de129c6c4441d7ef7d9bb015461e8945e86212.js",
+            "integrity": "sha512-A5i/f1AHf2YguY/RuomuZkwp79Hb1UnpXapFM+bmPy2kbqaer2ZiYb1+LbeQ3hKcbERB1+99m7AVRh6JRehiEg==",
+            "data-copy": "نسخ",
+            "data-copied": "تم النسخ"
+          },
+          "bytes": 34017,
+          "gzip9_estimate_bytes": 11290,
+          "sha256": "90759f3ac65f9c8cfba99ef081a8f34f4cf3ad71950f2670097e7fd3fe4907e7"
+        },
+        {
+          "attributes": {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "integrity": "sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj+KsslFkCOt3TvJrX2AV/Gc3wOqA=="
+          },
+          "bytes": 70264,
+          "gzip9_estimate_bytes": 24036,
+          "sha256": "9261efb3407e3a9096e4654750d8eff6b3a663422f48845c7fbcc65034c340cf"
+        },
+        {
+          "attributes": {
+            "type": "application/ld+json"
+          },
+          "inline_bytes": 2276,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "async": null,
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK"
+          },
+          "external": true
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 129,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "integrity": "sha512-YFs7lCgY8KtacXrkRhNexGuO5aKtEq5W+5DcKnbOMMOI+f7IvMGNsVvUfj+ooJ13n6EqqcGEz2FKMVvHLGwWPQ==",
+            "data-blur-id": "menu-blur"
+          },
+          "bytes": 826,
+          "gzip9_estimate_bytes": 469,
+          "sha256": "0d21b61b6dc8ec9efacfed77a2d9fe928b3045070473428764af54f1f7e21b6e"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 3550,
+          "contains_3d_lazy_init": true
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 1376,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 2737,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 113,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "integrity": "sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh+sCQ0E53ghYrxgYqw+0GCRyIEpA=="
+          },
+          "bytes": 1003,
+          "gzip9_estimate_bytes": 472,
+          "sha256": "dbf4302e410585c4cb99912b595277600a3f1f51e81375ef82878edef12db9e7"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 1188,
+          "contains_3d_lazy_init": false
+        }
+      ],
+      "stylesheets": [
+        {
+          "attributes": {
+            "type": "text/css",
+            "rel": "stylesheet",
+            "href": "/css/main.bundle.min.f720b86d4c8d771075b7b8e339875643b8a035aa271914bc3bae0a983a55e5ee461a9b04f250b92e88e56f7e2b30c3e7171ed5461e7631b08a66fc9e73595f68.css",
+            "integrity": "sha512-9yC4bUyNdxB1t7jjOYdWQ7igNaonGRS8O64KmDpV5e5GGpsE8lC5Lojlb34rMMPnFx7VRh52MbCKZvyec1lfaA=="
+          },
+          "bytes": 160183,
+          "gzip9_estimate_bytes": 26388,
+          "sha256": "c521c4fdffb0d61402b0d6abd9fc8920f49d44d453d9b42a8315f0391a7d1a65"
+        }
+      ],
+      "hero_images": [
+        {
+          "src": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp",
+          "alt": "أ.د. حبيب جيل",
+          "class": "home-hero-image",
+          "loading": "eager",
+          "file": {
+            "bytes": 35410,
+            "gzip9_estimate_bytes": 35443,
+            "sha256": "de3cb4d18ee2df2dc5cdc8bb2ffffeae10ce5ab4f576466a96505a21e631af71"
+          }
+        }
+      ],
+      "image_count": 8,
+      "video_tags": [],
+      "inline_executable_script_bytes": 9093,
+      "inline_style_bytes": 5713,
+      "search_index": {
+        "bytes": 1444730,
+        "gzip9_estimate_bytes": 270939,
+        "sha256": "adc81663f349b3c5335cabb9c4e919d8a79cd770509f2f1495411382282f3cc0"
+      }
+    },
+    "hizmetler/dizalti-damar-tikanikligi/index.html": {
+      "html": {
+        "bytes": 96528,
+        "gzip9_estimate_bytes": 24216,
+        "sha256": "45ee0bce9d8e8f16e840ee516aea6c61215e1e2df8788fc799c5a39654f2d8c4"
+      },
+      "scripts": [
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "integrity": "sha512-9Lzo9q9g/1qN0iUFcrFL/jHCpx0DEvCx9DwMHKdYcUB06uye9FNrNTxm3+m/ffR5SO+nrfzsLfG9Lh6QX7yMVw=="
+          },
+          "bytes": 3615,
+          "gzip9_estimate_bytes": 1155,
+          "sha256": "9e746edacab223b949ccbf7577ebb4814d6478ae7505182744182040787b2754"
+        },
+        {
+          "attributes": {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "integrity": "sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7+kfJ6kKCJxQGC+8wm+Bz9JucDjDTGNew=="
+          },
+          "bytes": 8828,
+          "gzip9_estimate_bytes": 2809,
+          "sha256": "db90c347df2234befc6345b10a4d9ceb1a065b23d0950da84646cad885b5ffd3"
+        },
+        {
+          "attributes": {
+            "defer": null,
+            "type": "text/javascript",
+            "id": "script-bundle",
+            "src": "/js/main.bundle.min.0398bf7f50077f6620b98fd1ba89ae664c29efd1dbd549e95daa4533e6e63f2da46ea69eaf666261bd7e2db790de129c6c4441d7ef7d9bb015461e8945e86212.js",
+            "integrity": "sha512-A5i/f1AHf2YguY/RuomuZkwp79Hb1UnpXapFM+bmPy2kbqaer2ZiYb1+LbeQ3hKcbERB1+99m7AVRh6JRehiEg==",
+            "data-copy": "Kopyala",
+            "data-copied": "Kopyalandı"
+          },
+          "bytes": 34017,
+          "gzip9_estimate_bytes": 11290,
+          "sha256": "90759f3ac65f9c8cfba99ef081a8f34f4cf3ad71950f2670097e7fd3fe4907e7"
+        },
+        {
+          "attributes": {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "integrity": "sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj+KsslFkCOt3TvJrX2AV/Gc3wOqA=="
+          },
+          "bytes": 70264,
+          "gzip9_estimate_bytes": 24036,
+          "sha256": "9261efb3407e3a9096e4654750d8eff6b3a663422f48845c7fbcc65034c340cf"
+        },
+        {
+          "attributes": {
+            "type": "application/ld+json"
+          },
+          "inline_bytes": 5986,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "async": null,
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK"
+          },
+          "external": true
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 129,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "integrity": "sha512-YFs7lCgY8KtacXrkRhNexGuO5aKtEq5W+5DcKnbOMMOI+f7IvMGNsVvUfj+ooJ13n6EqqcGEz2FKMVvHLGwWPQ==",
+            "data-blur-id": "menu-blur"
+          },
+          "bytes": 826,
+          "gzip9_estimate_bytes": 469,
+          "sha256": "0d21b61b6dc8ec9efacfed77a2d9fe928b3045070473428764af54f1f7e21b6e"
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js",
+            "integrity": "sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA==",
+            "data-oid": "views_hizmetler/dizalti-damar-tikanikligi/index.md",
+            "data-oid-likes": "likes_hizmetler/dizalti-damar-tikanikligi/index.md"
+          },
+          "bytes": 2643,
+          "gzip9_estimate_bytes": 638,
+          "sha256": "142668f51cff206f54370fedbd7f24de609a4f1ba56bda252cf5c0aac67e0088"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 113,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "integrity": "sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh+sCQ0E53ghYrxgYqw+0GCRyIEpA=="
+          },
+          "bytes": 1003,
+          "gzip9_estimate_bytes": 472,
+          "sha256": "dbf4302e410585c4cb99912b595277600a3f1f51e81375ef82878edef12db9e7"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 1188,
+          "contains_3d_lazy_init": false
+        }
+      ],
+      "stylesheets": [
+        {
+          "attributes": {
+            "type": "text/css",
+            "rel": "stylesheet",
+            "href": "/css/main.bundle.min.f720b86d4c8d771075b7b8e339875643b8a035aa271914bc3bae0a983a55e5ee461a9b04f250b92e88e56f7e2b30c3e7171ed5461e7631b08a66fc9e73595f68.css",
+            "integrity": "sha512-9yC4bUyNdxB1t7jjOYdWQ7igNaonGRS8O64KmDpV5e5GGpsE8lC5Lojlb34rMMPnFx7VRh52MbCKZvyec1lfaA=="
+          },
+          "bytes": 160183,
+          "gzip9_estimate_bytes": 26388,
+          "sha256": "c521c4fdffb0d61402b0d6abd9fc8920f49d44d453d9b42a8315f0391a7d1a65"
+        }
+      ],
+      "hero_images": [],
+      "image_count": 1,
+      "video_tags": [],
+      "inline_executable_script_bytes": 1430,
+      "inline_style_bytes": 5377
+    },
+    "hizmetler/periferik-damar/index.html": {
+      "html": {
+        "bytes": 79026,
+        "gzip9_estimate_bytes": 20089,
+        "sha256": "ede0aef5b1d462d40e4f719c881a712a8c8aab0f0f73fd3bddfbe582889d9ca3"
+      },
+      "scripts": [
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "integrity": "sha512-9Lzo9q9g/1qN0iUFcrFL/jHCpx0DEvCx9DwMHKdYcUB06uye9FNrNTxm3+m/ffR5SO+nrfzsLfG9Lh6QX7yMVw=="
+          },
+          "bytes": 3615,
+          "gzip9_estimate_bytes": 1155,
+          "sha256": "9e746edacab223b949ccbf7577ebb4814d6478ae7505182744182040787b2754"
+        },
+        {
+          "attributes": {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "integrity": "sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7+kfJ6kKCJxQGC+8wm+Bz9JucDjDTGNew=="
+          },
+          "bytes": 8828,
+          "gzip9_estimate_bytes": 2809,
+          "sha256": "db90c347df2234befc6345b10a4d9ceb1a065b23d0950da84646cad885b5ffd3"
+        },
+        {
+          "attributes": {
+            "defer": null,
+            "type": "text/javascript",
+            "id": "script-bundle",
+            "src": "/js/main.bundle.min.0398bf7f50077f6620b98fd1ba89ae664c29efd1dbd549e95daa4533e6e63f2da46ea69eaf666261bd7e2db790de129c6c4441d7ef7d9bb015461e8945e86212.js",
+            "integrity": "sha512-A5i/f1AHf2YguY/RuomuZkwp79Hb1UnpXapFM+bmPy2kbqaer2ZiYb1+LbeQ3hKcbERB1+99m7AVRh6JRehiEg==",
+            "data-copy": "Kopyala",
+            "data-copied": "Kopyalandı"
+          },
+          "bytes": 34017,
+          "gzip9_estimate_bytes": 11290,
+          "sha256": "90759f3ac65f9c8cfba99ef081a8f34f4cf3ad71950f2670097e7fd3fe4907e7"
+        },
+        {
+          "attributes": {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "integrity": "sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj+KsslFkCOt3TvJrX2AV/Gc3wOqA=="
+          },
+          "bytes": 70264,
+          "gzip9_estimate_bytes": 24036,
+          "sha256": "9261efb3407e3a9096e4654750d8eff6b3a663422f48845c7fbcc65034c340cf"
+        },
+        {
+          "attributes": {
+            "type": "application/ld+json"
+          },
+          "inline_bytes": 5698,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "async": null,
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK"
+          },
+          "external": true
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 129,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "integrity": "sha512-YFs7lCgY8KtacXrkRhNexGuO5aKtEq5W+5DcKnbOMMOI+f7IvMGNsVvUfj+ooJ13n6EqqcGEz2FKMVvHLGwWPQ==",
+            "data-blur-id": "menu-blur"
+          },
+          "bytes": 826,
+          "gzip9_estimate_bytes": 469,
+          "sha256": "0d21b61b6dc8ec9efacfed77a2d9fe928b3045070473428764af54f1f7e21b6e"
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js",
+            "integrity": "sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA==",
+            "data-oid": "views_hizmetler/periferik-damar/index.md",
+            "data-oid-likes": "likes_hizmetler/periferik-damar/index.md"
+          },
+          "bytes": 2643,
+          "gzip9_estimate_bytes": 638,
+          "sha256": "142668f51cff206f54370fedbd7f24de609a4f1ba56bda252cf5c0aac67e0088"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 113,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "integrity": "sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh+sCQ0E53ghYrxgYqw+0GCRyIEpA=="
+          },
+          "bytes": 1003,
+          "gzip9_estimate_bytes": 472,
+          "sha256": "dbf4302e410585c4cb99912b595277600a3f1f51e81375ef82878edef12db9e7"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 1188,
+          "contains_3d_lazy_init": false
+        }
+      ],
+      "stylesheets": [
+        {
+          "attributes": {
+            "type": "text/css",
+            "rel": "stylesheet",
+            "href": "/css/main.bundle.min.f720b86d4c8d771075b7b8e339875643b8a035aa271914bc3bae0a983a55e5ee461a9b04f250b92e88e56f7e2b30c3e7171ed5461e7631b08a66fc9e73595f68.css",
+            "integrity": "sha512-9yC4bUyNdxB1t7jjOYdWQ7igNaonGRS8O64KmDpV5e5GGpsE8lC5Lojlb34rMMPnFx7VRh52MbCKZvyec1lfaA=="
+          },
+          "bytes": 160183,
+          "gzip9_estimate_bytes": 26388,
+          "sha256": "c521c4fdffb0d61402b0d6abd9fc8920f49d44d453d9b42a8315f0391a7d1a65"
+        }
+      ],
+      "hero_images": [],
+      "image_count": 1,
+      "video_tags": [],
+      "inline_executable_script_bytes": 1430,
+      "inline_style_bytes": 5377
+    },
+    "blog/diyabetik-ayak/index.html": {
+      "html": {
+        "bytes": 128137,
+        "gzip9_estimate_bytes": 32684,
+        "sha256": "f8d669ff59b1b80fb3549749403bcf64ee2affd28cb20bf382fa425376b404dc"
+      },
+      "scripts": [
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "integrity": "sha512-9Lzo9q9g/1qN0iUFcrFL/jHCpx0DEvCx9DwMHKdYcUB06uye9FNrNTxm3+m/ffR5SO+nrfzsLfG9Lh6QX7yMVw=="
+          },
+          "bytes": 3615,
+          "gzip9_estimate_bytes": 1155,
+          "sha256": "9e746edacab223b949ccbf7577ebb4814d6478ae7505182744182040787b2754"
+        },
+        {
+          "attributes": {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "integrity": "sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7+kfJ6kKCJxQGC+8wm+Bz9JucDjDTGNew=="
+          },
+          "bytes": 8828,
+          "gzip9_estimate_bytes": 2809,
+          "sha256": "db90c347df2234befc6345b10a4d9ceb1a065b23d0950da84646cad885b5ffd3"
+        },
+        {
+          "attributes": {
+            "defer": null,
+            "type": "text/javascript",
+            "id": "script-bundle",
+            "src": "/js/main.bundle.min.0398bf7f50077f6620b98fd1ba89ae664c29efd1dbd549e95daa4533e6e63f2da46ea69eaf666261bd7e2db790de129c6c4441d7ef7d9bb015461e8945e86212.js",
+            "integrity": "sha512-A5i/f1AHf2YguY/RuomuZkwp79Hb1UnpXapFM+bmPy2kbqaer2ZiYb1+LbeQ3hKcbERB1+99m7AVRh6JRehiEg==",
+            "data-copy": "Kopyala",
+            "data-copied": "Kopyalandı"
+          },
+          "bytes": 34017,
+          "gzip9_estimate_bytes": 11290,
+          "sha256": "90759f3ac65f9c8cfba99ef081a8f34f4cf3ad71950f2670097e7fd3fe4907e7"
+        },
+        {
+          "attributes": {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "integrity": "sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj+KsslFkCOt3TvJrX2AV/Gc3wOqA=="
+          },
+          "bytes": 70264,
+          "gzip9_estimate_bytes": 24036,
+          "sha256": "9261efb3407e3a9096e4654750d8eff6b3a663422f48845c7fbcc65034c340cf"
+        },
+        {
+          "attributes": {
+            "type": "application/ld+json"
+          },
+          "inline_bytes": 8172,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "async": null,
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK"
+          },
+          "external": true
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 129,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "integrity": "sha512-YFs7lCgY8KtacXrkRhNexGuO5aKtEq5W+5DcKnbOMMOI+f7IvMGNsVvUfj+ooJ13n6EqqcGEz2FKMVvHLGwWPQ==",
+            "data-blur-id": "menu-blur"
+          },
+          "bytes": 826,
+          "gzip9_estimate_bytes": 469,
+          "sha256": "0d21b61b6dc8ec9efacfed77a2d9fe928b3045070473428764af54f1f7e21b6e"
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js",
+            "integrity": "sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA==",
+            "data-oid": "views_blog/diyabetik-ayak/index.md",
+            "data-oid-likes": "likes_blog/diyabetik-ayak/index.md"
+          },
+          "bytes": 2643,
+          "gzip9_estimate_bytes": 638,
+          "sha256": "142668f51cff206f54370fedbd7f24de609a4f1ba56bda252cf5c0aac67e0088"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 113,
+          "contains_3d_lazy_init": false
+        },
+        {
+          "attributes": {
+            "type": "text/javascript",
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "integrity": "sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh+sCQ0E53ghYrxgYqw+0GCRyIEpA=="
+          },
+          "bytes": 1003,
+          "gzip9_estimate_bytes": 472,
+          "sha256": "dbf4302e410585c4cb99912b595277600a3f1f51e81375ef82878edef12db9e7"
+        },
+        {
+          "attributes": {},
+          "inline_bytes": 1188,
+          "contains_3d_lazy_init": false
+        }
+      ],
+      "stylesheets": [
+        {
+          "attributes": {
+            "type": "text/css",
+            "rel": "stylesheet",
+            "href": "/css/main.bundle.min.f720b86d4c8d771075b7b8e339875643b8a035aa271914bc3bae0a983a55e5ee461a9b04f250b92e88e56f7e2b30c3e7171ed5461e7631b08a66fc9e73595f68.css",
+            "integrity": "sha512-9yC4bUyNdxB1t7jjOYdWQ7igNaonGRS8O64KmDpV5e5GGpsE8lC5Lojlb34rMMPnFx7VRh52MbCKZvyec1lfaA=="
+          },
+          "bytes": 160183,
+          "gzip9_estimate_bytes": 26388,
+          "sha256": "c521c4fdffb0d61402b0d6abd9fc8920f49d44d453d9b42a8315f0391a7d1a65"
+        }
+      ],
+      "hero_images": [],
+      "image_count": 1,
+      "video_tags": [],
+      "inline_executable_script_bytes": 1430,
+      "inline_style_bytes": 5377
+    }
+  },
+  "models": {
+    "heart1.mtl": {
+      "bytes": 189,
+      "gzip9_estimate_bytes": 96,
+      "sha256": "038b6532e3a85cf1d966c8a652d24ea61d39613d92bb740239a05762137bb477"
+    },
+    "istanbul-kardiyolog-dr-habib-cil.glb": {
+      "bytes": 3255284,
+      "gzip9_estimate_bytes": 2945110,
+      "sha256": "fcb3c1036fe59dfdcc1c30917dbdaa8fbd52c858e6ba3cadaf126b44ccca4b5b"
+    },
+    "3d-kalp-modeli-doc-dr-habib-cil-istanbul-kardiyoloji-uzmani.glb": {
+      "bytes": 1511228,
+      "gzip9_estimate_bytes": 1252362,
+      "sha256": "76836a4164bec704267ff709d17e6886268b3807df12a1f4f37fabf59fdbb2ff"
+    },
+    "heart1.jpg": {
+      "bytes": 2839334,
+      "gzip9_estimate_bytes": 2808032,
+      "sha256": "d3e26b6675242716f846983c50e61e1bc1204585643b814407a5e4fd7ec20aea"
+    },
+    "heart1.obj": {
+      "bytes": 3739754,
+      "gzip9_estimate_bytes": 1123543,
+      "sha256": "9bc04b0bb70be2e45a7ca25fa907fbf3b70593154d826a694627fee531eed282"
+    }
+  },
+  "source_assets": {
+    "assets/css/custom.css": {
+      "bytes": 89955,
+      "gzip9_estimate_bytes": 15365,
+      "sha256": "dd362bbbf33f536411ff54a895f2337cbe99c7f9bf0b8190ad3b38b0fd6c48d4"
+    },
+    "themes/blowfish/assets/css/compiled/main.css": {
+      "bytes": 114413,
+      "gzip9_estimate_bytes": 16324,
+      "sha256": "640dd80ef963f4ac9552fbf138df44e60ce6c0c6f9efc5596c1aeceb510de595"
+    },
+    "assets/videos/istanbul-kardiyolog-doc-dr-habib-cil-anjiyoplasti.mp4": {
+      "bytes": 155341,
+      "gzip9_estimate_bytes": 142375,
+      "sha256": "18e23acfe1eca89f19a7b41cff5ea067d3b4ec69b8eee0f3622d7f8333c906a8"
+    }
+  },
+  "all_html_3d_paths": {
+    "active_partial_model": [
+      "index.html",
+      "page/4/index.html",
+      "page/3/index.html",
+      "page/2/index.html",
+      "ar/index.html",
+      "ar/page/4/index.html",
+      "ar/page/3/index.html",
+      "ar/page/2/index.html",
+      "en/index.html",
+      "en/page/4/index.html",
+      "en/page/3/index.html",
+      "en/page/2/index.html"
+    ],
+    "eager_shortcode_model": [],
+    "video_tags": []
+  }
+}

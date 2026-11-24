@@ -1,0 +1,16 @@
+{
+  "access_date": "2026-11-24",
+  "method": "Official pages reopened independently during completion review; targeted terms/ranges, not a full RDF vocabulary validation.",
+  "sources": [
+    {"url":"https://developers.google.com/search/updates","observation":"May 8 2026 entry says FAQ rich results cease appearing starting May 7 2026; June 15 entry confirms FAQ documentation removed.","retrieval_ref":"turn610173499view5","retrieval_lines":"284-291; June entry 237-241 in turn610173499view4"},
+    {"url":"https://schema.org/MedicalProcedure","observation":"status range includes EventStatusType, MedicalStudyStatus and Text; procedureType expects MedicalProcedureType; recognizingAuthority denotes official recognition if applicable.","retrieval_ref":"turn681645460view1"},
+    {"url":"https://schema.org/MedicalProcedureType","observation":"Enumeration members shown: NoninvasiveProcedure and PercutaneousProcedure.","retrieval_ref":"turn681645460view2"},
+    {"url":"https://schema.org/Physician","observation":"Type exists under MedicalOrganization and MedicalBusiness/LocalBusiness; describes individual physician or office considered as MedicalOrganization.","retrieval_ref":"turn681645460view3"},
+    {"url":"https://schema.org/performer","observation":"Expected domain Event; Person or Organization values. It is not an applicable property of the three emitted non-Event types."},
+    {"url":"https://schema.org/Cardiovascular","observation":"Existing MedicalSpecialty enumeration member."},
+    {"url":"https://schema.org/MedicalScholarlyArticle","observation":"Existing scholarly article subtype; existence is separate from whether this build emits it."},
+    {"url":"https://developers.google.com/search/docs/appearance/structured-data/search-gallery","observation":"Google-supported feature list is distinct from the complete Schema.org vocabulary."}
+  ],
+  "schema_version_as_displayed":"V30.1 / 2026-09-16; development-version banner",
+  "validators_this_completion_review":"NOT_RUN. Existing browser-validator-results.json records a prior same-day single DEV code input; no new official test or production validation claimed."
+}

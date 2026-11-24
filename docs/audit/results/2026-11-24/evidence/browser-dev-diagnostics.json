@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-24",
+  "url": "http://localhost:1313/",
+  "surface": "CUA in-app browser, authorized tab-scoped CDP",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+  "build": "Existing user Hugo DEVELOPMENT server; not isolated production build",
+  "method": "Navigation/Resource Timing and buffered PerformanceObserver, Network.setCacheDisabled(true), reload; source not changed",
+  "cpu_throttling": "none",
+  "network_throttling": "none; localhost and live external CDN",
+  "limitations": [
+    "Not Lighthouse; no Lighthouse score or TBT/INP claimed.",
+    "Mobile viewport only, not physical phone or mobile CPU/network emulation.",
+    "Browser cache bypass does not cold-reset OS/DNS/TLS/CDN caches.",
+    "Sampling time differed due tool latency; this is a diagnostic series, not controlled production benchmark.",
+    "CLS values are buffered non-recent-input shift sums over observed window; not field p75/session-window certification.",
+    "Live server excludes production Analytics; production output was checked offline only.",
+    "Values transcribed from observed tool outputs; rounded submillisecond timing to0.1ms where shown."
+  ],
+  "runs": [
+    {
+      "profile": "desktop-viewport-local-dev",
+      "run": 1,
+      "width": 1280,
+      "height": 900,
+      "dpr": 1,
+      "sample_time_ms": 11731.9,
+      "ttfb_ms": 20.6,
+      "dom_content_loaded_ms": 677.5,
+      "load_ms": 689.8,
+      "fcp_ms": 536,
+      "lcp_ms": 536,
+      "lcp_element": "IMG",
+      "cls_observed_sum": 0.0001265772714686919,
+      "long_tasks": [
+        {
+          "start_ms": 581.3,
+          "duration_ms": 99
+        },
+        {
+          "start_ms": 1928.6,
+          "duration_ms": 90
+        }
+      ],
+      "model_start_ms": 1589.3,
+      "model_duration_ms": 229.6,
+      "model_transfer_bytes": 1511528,
+      "skypack_first_start_ms": 785.5,
+      "heart_canvas": true
+    },
+    {
+      "profile": "desktop-viewport-local-dev",
+      "run": 2,
+      "width": 1280,
+      "height": 900,
+      "dpr": 1,
+      "sample_time_ms": 7052.1,
+      "ttfb_ms": 35.1,
+      "dom_content_loaded_ms": 374.3,
+      "load_ms": 382.7,
+      "fcp_ms": 312,
+      "lcp_ms": 312,
+      "lcp_element": "IMG",
+      "cls_observed_sum": 0,
+      "long_tasks": [
+        {
+          "start_ms": 1124,
+          "duration_ms": 95
+        }
+      ],
+      "model_start_ms": 894.8,
+      "model_duration_ms": 112.8,
+      "model_transfer_bytes": 1511528,
+      "skypack_first_start_ms": 394.3,
+      "heart_canvas": true
+    },
+    {
+      "profile": "desktop-viewport-local-dev",
+      "run": 3,
+      "width": 1280,
+      "height": 900,
+      "dpr": 1,
+      "sample_time_ms": 14160.3,
+      "ttfb_ms": 6.6,
+      "dom_content_loaded_ms": 201,
+      "load_ms": 205.6,
+      "fcp_ms": 184,
+      "lcp_ms": 268,
+      "lcp_element": "IMG",
+      "cls_observed_sum": 1.1613904161667305e-05,
+      "long_tasks": [
+        {
+          "start_ms": 2061.9,
+          "duration_ms": 74
+        }
+      ],
+      "model_start_ms": 1355.5,
+      "model_duration_ms": 566.6,
+      "model_transfer_bytes": 1511528,
+      "skypack_first_start_ms": 286.3,
+      "heart_canvas": true
+    },
+    {
+      "profile": "mobile-viewport-local-dev",
+      "run": 1,
+      "width": 390,
+      "height": 844,
+      "dpr": 1,
+      "sample_time_ms": 2613.3,
+      "ttfb_ms": 5.8,
+      "dom_content_loaded_ms": 214.3,
+      "load_ms": 218.9,
+      "fcp_ms": 164,
+      "lcp_ms": 232,
+      "lcp_element": "P",
+      "cls_observed_sum": 6.21507986524625e-05,
+      "long_tasks": [],
+      "model_resources": [],
+      "heart_canvas": false
+    },
+    {
+      "profile": "mobile-viewport-local-dev",
+      "run": 2,
+      "width": 390,
+      "height": 844,
+      "dpr": 1,
+      "sample_time_ms": 2218.1,
+      "ttfb_ms": 1,
+      "dom_content_loaded_ms": 65.7,
+      "load_ms": 69.1,
+      "fcp_ms": 100,
+      "lcp_ms": 100,
+      "lcp_element": "P",
+      "cls_observed_sum": 0,
+      "long_tasks": [],
+      "model_resources": [],
+      "heart_canvas": false
+    },
+    {
+      "profile": "mobile-viewport-local-dev",
+      "run": 3,
+      "width": 390,
+      "height": 844,
+      "dpr": 1,
+      "sample_time_ms": 2450.1,
+      "ttfb_ms": 1.4,
+      "dom_content_loaded_ms": 161.3,
+      "load_ms": 164.2,
+      "fcp_ms": 148,
+      "lcp_ms": 180,
+      "lcp_element": "P",
+      "cls_observed_sum": 6.21507986524625e-05,
+      "long_tasks": [],
+      "model_resources": [],
+      "heart_canvas": false
+    }
+  ],
+  "summaries": {
+    "desktop-viewport-local-dev": {
+      "fcp_ms": {
+        "median": 312,
+        "min": 184,
+        "max": 536
+      },
+      "lcp_ms": {
+        "median": 312,
+        "min": 268,
+        "max": 536
+      },
+      "ttfb_ms": {
+        "median": 20.6,
+        "min": 6.6,
+        "max": 35.1
+      }
+    },
+    "mobile-viewport-local-dev": {
+      "fcp_ms": {
+        "median": 148,
+        "min": 100,
+        "max": 164
+      },
+      "lcp_ms": {
+        "median": 180,
+        "min": 100,
+        "max": 232
+      },
+      "ttfb_ms": {
+        "median": 1.4,
+        "min": 1,
+        "max": 5.8
+      }
+    }
+  }
+}

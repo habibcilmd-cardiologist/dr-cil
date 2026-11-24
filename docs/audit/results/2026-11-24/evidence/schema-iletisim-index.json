@@ -1,0 +1,169 @@
+{
+  "file": "iletisim/index.html",
+  "url": "https://docdrhabibcil.com/iletisim/",
+  "language": "tr",
+  "canonical": [
+    "https://docdrhabibcil.com/iletisim/"
+  ],
+  "refresh": null,
+  "jsonld_script_count": 1,
+  "parse_errors": [],
+  "microdata": [],
+  "rdfa": [],
+  "top_nodes": [
+    {
+      "script": 1,
+      "node": 1,
+      "value": {
+        "@id": "https://docdrhabibcil.com/#website",
+        "@type": "WebSite",
+        "description": "Doç. Dr. Habib ÇİL - Kardiyoloji Uzmanı. Ekokardiyografi, anjiyografi, hipertansiyon tedavisi ve koroner arter hastalığı konularında uzman.",
+        "inLanguage": "tr-TR",
+        "name": "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı",
+        "publisher": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "url": "https://docdrhabibcil.com/"
+      },
+      "issues": []
+    },
+    {
+      "script": 1,
+      "node": 2,
+      "value": {
+        "@id": "https://docdrhabibcil.com/#physician",
+        "@type": [
+          "Person",
+          "Physician"
+        ],
+        "description": "İstanbul'da Kardiyoloji Uzmanı. Bacak damarlarını açma, diyabetik ayak tedavisi ve TAVI uzmanı.",
+        "email": "habibcilmd@gmail.com",
+        "familyName": "ÇİL",
+        "gender": "Male",
+        "givenName": "Habib",
+        "honorificPrefix": "Doç. Dr.",
+        "image": "https://docdrhabibcil.com/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil.webp",
+        "jobTitle": "Kardiyoloji Uzmanı",
+        "medicalSpecialty": [
+          "http://schema.org/Cardiovascular"
+        ],
+        "name": "Doç. Dr. Habib ÇİL",
+        "sameAs": [
+          "https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul",
+          "https://www.doktorsitesi.com/prof-dr-habib-cil/kardiyoloji/istanbul",
+          "https://www.instagram.com/doc.dr.habibcil",
+          "https://wa.me/905339454639"
+        ],
+        "telephone": "+90 212 665 50 50",
+        "url": "https://docdrhabibcil.com/"
+      },
+      "issues": [
+        "SCHEMA_IMAGE_MISSING_IN_BUILD"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 3,
+      "value": {
+        "@id": "https://docdrhabibcil.com/#clinic",
+        "@type": "MedicalBusiness",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "TR",
+          "addressLocality": "Zeytinburnu",
+          "addressRegion": "İstanbul",
+          "postalCode": "34020",
+          "streetAddress": "Beştelsiz Mah. 101. Sokak No:107"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 41.0082,
+          "longitude": 28.9784
+        },
+        "name": "Doç. Dr. Habib ÇİL - Kardiyoloji Kliniği",
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "closes": "18:00",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "09:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "closes": "14:00",
+            "dayOfWeek": "Saturday",
+            "opens": "09:00"
+          }
+        ],
+        "priceRange": "$$$",
+        "telephone": "+90 212 665 50 50",
+        "url": "https://docdrhabibcil.com/"
+      },
+      "issues": [
+        "SCHEMA_CLINIC_HOURS_CONFLICT"
+      ]
+    },
+    {
+      "script": 1,
+      "node": 4,
+      "value": {
+        "@id": "https://docdrhabibcil.com/iletisim/#breadcrumb",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/",
+            "name": "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": "https://docdrhabibcil.com/iletisim/",
+            "name": "İletişim",
+            "position": 2
+          }
+        ]
+      },
+      "issues": []
+    },
+    {
+      "script": 1,
+      "node": 5,
+      "value": {
+        "@id": "https://docdrhabibcil.com/iletisim/#article",
+        "@type": "Article",
+        "author": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "dateModified": "2024-01-01T00:00:00+00:00",
+        "datePublished": "2024-01-01T00:00:00+00:00",
+        "description": "Doç. Dr. Habib ÇİL ile iletişime geçin. Avrasya Hospital Zeytinburnu.",
+        "headline": "İletişim",
+        "inLanguage": "tr",
+        "isPartOf": {
+          "@id": "https://docdrhabibcil.com/#website"
+        },
+        "mainEntityOfPage": {
+          "@id": "https://docdrhabibcil.com/iletisim/"
+        },
+        "publisher": {
+          "@id": "https://docdrhabibcil.com/#physician"
+        },
+        "url": "https://docdrhabibcil.com/iletisim/",
+        "wordCount": 141
+      },
+      "issues": []
+    }
+  ],
+  "issues": [
+    "SCHEMA_CLINIC_HOURS_CONFLICT",
+    "SCHEMA_IMAGE_MISSING_IN_BUILD"
+  ],
+  "conflicting_ids": []
+}
