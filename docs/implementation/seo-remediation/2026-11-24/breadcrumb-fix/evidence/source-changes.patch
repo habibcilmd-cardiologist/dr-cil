@@ -1,0 +1,69 @@
+diff --git a/layouts/partials/breadcrumbs.html b/layouts/partials/breadcrumbs.html
+index 845a2ac..6ba313f 100644
+--- a/layouts/partials/breadcrumbs.html
++++ b/layouts/partials/breadcrumbs.html
+@@ -8,7 +8,9 @@
+       {{ if eq (add $index 1) (len $items) }}
+         <span aria-current="page">{{ $item.name }}</span>
+       {{ else }}
+-        <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="{{ $item.item }}">{{ $item.name }}</a>
++        {{/* Navigation stays on the current host; JSON-LD keeps absolute canonical URLs. */}}
++        {{ $target := urls.Parse $item.item }}
++        <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="{{ $target.RequestURI }}">{{ $item.name }}</a>
+         <span class="px-1 text-primary-500" aria-hidden="true">/</span>
+       {{ end }}
+     </li>
+diff --git a/scripts/validate_schema_output.py b/scripts/validate_schema_output.py
+index dfb36b0..e01d7b5 100644
+--- a/scripts/validate_schema_output.py
++++ b/scripts/validate_schema_output.py
+@@ -28,6 +28,8 @@ class Document(HTMLParser):
+         self._ld = None
+         self._ignored = 0
+         self.text = []
++        self.breadcrumb_links = None
++        self._in_breadcrumb = False
+ 
+     def handle_starttag(self, tag, attrs):
+         a = dict(attrs)
+@@ -37,12 +39,19 @@ class Document(HTMLParser):
+             self.canonical = a.get("href", "")
+         if a.get("id") == "single_header":
+             self.single = True
++        if tag == "nav" and a.get("aria-label") in {"İçerik yolu", "Breadcrumb", "مسار التنقل"}:
++            self.breadcrumb_links = []
++            self._in_breadcrumb = True
++        if tag == "a" and self._in_breadcrumb:
++            self.breadcrumb_links.append(a.get("href", ""))
+         if tag in {"script", "style", "template"}:
+             self._ignored += 1
+         if tag == "script" and a.get("type", "").lower() == "application/ld+json":
+             self._ld = []
+ 
+     def handle_endtag(self, tag):
++        if tag == "nav":
++            self._in_breadcrumb = False
+         if tag == "script" and self._ld is not None:
+             self.scripts.append("".join(self._ld))
+             self._ld = None
+@@ -150,6 +159,20 @@ def main():
+                     target = target.get("@id", target.get("url", "")) if isinstance(target, dict) else target
+                     if root and target and not target_exists(root, target):
+                         fail(file, "BREADCRUMB_TARGET", target)
++                if doc.breadcrumb_links is not None:
++                    counts["visible_breadcrumbs"] += 1
++                    expected = []
++                    for item in items[:-1]:
++                        target = item.get("item", "")
++                        target = target.get("@id", target.get("url", "")) if isinstance(target, dict) else target
++                        parsed = urlsplit(target)
++                        expected.append(unquote(parsed.path) + ("?" + parsed.query if parsed.query else ""))
++                    for href in doc.breadcrumb_links:
++                        parsed = urlsplit(href)
++                        if parsed.scheme or parsed.netloc or not href.startswith("/") or href.startswith("//"):
++                            fail(file, "BREADCRUMB_VISIBLE_ORIGIN", href)
++                    if [unquote(href) for href in doc.breadcrumb_links] != expected:
++                        fail(file, "BREADCRUMB_VISIBLE_MATCH", {"expected": expected, "actual": doc.breadcrumb_links})
+             if "ItemList" in ts and not node.get("itemListElement"):
+                 fail(file, "EMPTY_ITEMLIST", node.get("@id"))
+             if "FAQPage" in ts:

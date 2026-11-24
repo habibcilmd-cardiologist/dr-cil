@@ -8,7 +8,9 @@
       {{ if eq (add $index 1) (len $items) }}
         <span aria-current="page">{{ $item.name }}</span>
       {{ else }}
-        <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="{{ $item.item }}">{{ $item.name }}</a>
+        {{/* Navigation stays on the current host; JSON-LD keeps absolute canonical URLs. */}}
+        {{ $target := urls.Parse $item.item }}
+        <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="{{ $target.RequestURI }}">{{ $item.name }}</a>
         <span class="px-1 text-primary-500" aria-hidden="true">/</span>
       {{ end }}
     </li>

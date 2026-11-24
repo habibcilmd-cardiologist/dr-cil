@@ -1,0 +1,93 @@
+{
+  "scope": "Emitted-output same-origin URL resolution, JSON-LD/canonical preservation; not browser click or HTTP test",
+  "before": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-production-9uvcvyei/public",
+  "after": "/tmp/dr-cil-breadcrumb-fix-20261124-01/public",
+  "html_files": 967,
+  "visible_breadcrumb_pages": 367,
+  "visible_breadcrumb_links": 704,
+  "tested_origins": [
+    "http://localhost:1314",
+    "http://127.0.0.1:1314",
+    "https://docdrhabibcil.com"
+  ],
+  "origin_resolutions_checked": 2112,
+  "jsonld_and_canonical_unchanged": true,
+  "changed_html_count": 367,
+  "changed_assets": [],
+  "examples": [
+    {
+      "route": "/ar/about/",
+      "before": [
+        "https://docdrhabibcil.com/ar/"
+      ],
+      "after": [
+        "/ar/"
+      ],
+      "canonical": "https://docdrhabibcil.com/ar/about/"
+    },
+    {
+      "route": "/ar/blog/abdominal-aortic-aneurysm/",
+      "before": [
+        "https://docdrhabibcil.com/ar/",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      "after": [
+        "/ar/",
+        "/ar/blog/"
+      ],
+      "canonical": "https://docdrhabibcil.com/ar/blog/abdominal-aortic-aneurysm/"
+    },
+    {
+      "route": "/ar/blog/ambulatory-cardiac-monitoring/",
+      "before": [
+        "https://docdrhabibcil.com/ar/",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      "after": [
+        "/ar/",
+        "/ar/blog/"
+      ],
+      "canonical": "https://docdrhabibcil.com/ar/blog/ambulatory-cardiac-monitoring/"
+    },
+    {
+      "route": "/ar/blog/aortic-aneurysm/",
+      "before": [
+        "https://docdrhabibcil.com/ar/",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      "after": [
+        "/ar/",
+        "/ar/blog/"
+      ],
+      "canonical": "https://docdrhabibcil.com/ar/blog/aortic-aneurysm/"
+    },
+    {
+      "route": "/ar/blog/aortic-valve-disease/",
+      "before": [
+        "https://docdrhabibcil.com/ar/",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      "after": [
+        "/ar/",
+        "/ar/blog/"
+      ],
+      "canonical": "https://docdrhabibcil.com/ar/blog/aortic-valve-disease/"
+    },
+    {
+      "route": "/hizmetler/dizalti-damar-tikanikligi/",
+      "before": [
+        "https://docdrhabibcil.com/",
+        "https://docdrhabibcil.com/hizmetler/"
+      ],
+      "after": [
+        "/",
+        "/hizmetler/"
+      ],
+      "canonical": "https://docdrhabibcil.com/hizmetler/dizalti-damar-tikanikligi/"
+    }
+  ],
+  "error_count": 0,
+  "errors": [],
+  "homepage_sha256": "4a79c1dad0267299b166a0e932005d98a10aff97f393529267a2dcdc3d9ba4ef",
+  "detail_sha256": "08bcaf233e93e7719cbc96dd774af0f2903594f907b1d36b9ea77c5ecb21e54d"
+}

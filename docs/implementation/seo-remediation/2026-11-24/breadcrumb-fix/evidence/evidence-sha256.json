@@ -1,0 +1,9 @@
+{
+  "build-manifest.json": "19412e10b8191efd18835d218aa1679ac3c365c9aaabf500c025af5e8585eb91",
+  "build.log": "06ceba8b84d11278e858f44eda93281328655a31a4de174b82d6d52e322238d9",
+  "origin-check.json": "a66bdbf4f5203a784f9f49652df1478b120523278d9e8a5606937057310625a1",
+  "release-check.json": "eadc51ed3184b706b685e66d40a82d29abb81421919ebd32a6472a20d8ceced9",
+  "schema-after.json": "df94fa933f9e6e908967525c4ef44700246f7d91c2652dd44b9614aa7fa59aec",
+  "schema-before.json": "5729d924e1e582f7ebb9a778de5df4c530d4e69373fdb38362a861aab0fa18a9",
+  "source-changes.patch": "9bfcf98097dda2b681aaedd4cf153171d77a8bd53b72b6a917139d8b4f874daf"
+}
