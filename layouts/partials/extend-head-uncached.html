@@ -8,18 +8,25 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 
 {{ if and hugo.IsProduction (not hugo.IsServer) }}
 <!-- Google tag (gtag.js) -->
-<script
-	async
-	src="https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK"
-></script>
-<script>
+<script id="site-analytics">
+	(function () {
+	// A production artifact may be previewed locally. Only the configured
+	// public HTTPS host sends measurements; local/staging previews stay silent.
+	var productionHost = {{ (urls.Parse .Site.BaseURL).Hostname | jsonify | safeJS }};
+	var currentHost = window.location.hostname;
+	if (window.location.protocol !== "https:" ||
+		(currentHost !== productionHost && currentHost !== "www." + productionHost)) return;
 	window.dataLayer = window.dataLayer || [];
-	function gtag() {
+	window.gtag = function () {
 		dataLayer.push(arguments);
-	}
+	};
 	gtag("js", new Date());
-
 	gtag("config", "G-TDC4PMVEMK");
+	var script = document.createElement("script");
+	script.async = true;
+	script.src = "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK";
+	document.head.appendChild(script);
+	})();
 </script>
 {{ end }}
 

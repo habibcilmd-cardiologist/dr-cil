@@ -1,0 +1,18 @@
+{
+  "git_head": "de2a68cfef46dd6a861cc33ac60495ebf31e839c",
+  "source_sha256": {
+    ".gitignore": "ddf70f12f90b06cb3742d11ed96ab7e2f1814409cefd9d9cbe528c284a1faa68",
+    "README.md": "3523d9ba317ad06b96ae25253d5450b7a05d1122812cf04a5353af6e90584194",
+    "content/tr/_index.md": "40809a832a731c54362e76411f633bc920fa95d8cf280c29cd5c3bf371c42473",
+    ".htaccess": "85b1db30d8c1ccb496917d8c8e1d9467bd215846e738a2e200febcabfc5ff965",
+    "static/.htaccess": "85b1db30d8c1ccb496917d8c8e1d9467bd215846e738a2e200febcabfc5ff965",
+    "layouts/partials/extend-head-uncached.html": "c574a39848dfa4e20b2d47b079c3d59dc8eaf49b16014b991d38aad816df7c9e",
+    "layouts/partials/schema-faq.html": "2c4a5605f18c142f55b247ac679fcabed7dfffd4938a2cf70c4bb3c9ae3526a1",
+    "layouts/partials/seo/social.html": "8a4e5946ff943b0cd35f4db8f7e03622a404142b0599eb104a82f0c1eb7f110a",
+    "layouts/partials/seo/social-image.html": "10ce37c73d14e5b4b39b258d98b46dda56f4832344e525f0178cc4e1fe4f3f50",
+    "scripts/tests/analytics-guard.test.mjs": "157ca6db03e267b14f646b776dff4bc34697571c745f3b9055975995e19580d2",
+    "scripts/tests/apache-publication.test.py": "e5ca712312698a5a0b47657493287442ba2864c939e4f39a673af8a85a3f0b67",
+    "scripts/validate_metadata_output.py": "b1d9a3a3568cf0d489f5e62cc8981d35c38415f3d2484f78d525383c87e1589a"
+  },
+  "note": "Uncommitted authorized source changes; no commit/push/deploy. Existing user library.html excluded."
+}

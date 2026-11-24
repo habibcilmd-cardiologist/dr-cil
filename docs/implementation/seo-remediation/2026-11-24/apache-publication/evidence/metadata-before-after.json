@@ -1,0 +1,180 @@
+{
+  "scope": "Representative emitted HTML metadata comparison, not live social platform previews",
+  "examples": [
+    {
+      "file": "index.html",
+      "before": {
+        "og:image": [
+          "https://docdrhabibcil.com/img/og-image.webp"
+        ],
+        "og:image:type": null,
+        "og:image:width": null,
+        "og:image:height": null,
+        "twitter:card": [
+          "summary_large_image"
+        ],
+        "twitter:image:alt": null
+      },
+      "after": {
+        "og:image": [
+          "https://docdrhabibcil.com/img/og-image.webp"
+        ],
+        "og:image:type": [
+          "image/webp"
+        ],
+        "og:image:width": [
+          "1024"
+        ],
+        "og:image:height": [
+          "1024"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:image:alt": [
+          "Doç. Dr. Habib ÇİL — Kardiyoloji Uzmanı"
+        ]
+      }
+    },
+    {
+      "file": "en/index.html",
+      "before": {
+        "og:image": [
+          "https://docdrhabibcil.com/img/og-image.webp"
+        ],
+        "og:image:type": null,
+        "og:image:width": null,
+        "og:image:height": null,
+        "twitter:card": [
+          "summary_large_image"
+        ],
+        "twitter:image:alt": null
+      },
+      "after": {
+        "og:image": [
+          "https://docdrhabibcil.com/img/og-image.webp"
+        ],
+        "og:image:type": [
+          "image/webp"
+        ],
+        "og:image:width": [
+          "1024"
+        ],
+        "og:image:height": [
+          "1024"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:image:alt": [
+          "Assoc. Prof. Dr. Habib ÇİL — Cardiologist"
+        ]
+      }
+    },
+    {
+      "file": "ar/index.html",
+      "before": {
+        "og:image": [
+          "https://docdrhabibcil.com/img/og-image.webp"
+        ],
+        "og:image:type": null,
+        "og:image:width": null,
+        "og:image:height": null,
+        "twitter:card": [
+          "summary_large_image"
+        ],
+        "twitter:image:alt": null
+      },
+      "after": {
+        "og:image": [
+          "https://docdrhabibcil.com/img/og-image.webp"
+        ],
+        "og:image:type": [
+          "image/webp"
+        ],
+        "og:image:width": [
+          "1024"
+        ],
+        "og:image:height": [
+          "1024"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:image:alt": [
+          "د. حبيب جيل — أخصائي أمراض القلب"
+        ]
+      }
+    },
+    {
+      "file": "blog/diyabetik-ayak/index.html",
+      "before": {
+        "og:image": [
+          "https://docdrhabibcil.com/blog/diyabetik-ayak/featured.svg"
+        ],
+        "og:image:type": null,
+        "og:image:width": null,
+        "og:image:height": null,
+        "twitter:card": [
+          "summary_large_image"
+        ],
+        "twitter:image:alt": null
+      },
+      "after": {
+        "og:image": [
+          "https://docdrhabibcil.com/img/og-image.webp"
+        ],
+        "og:image:type": [
+          "image/webp"
+        ],
+        "og:image:width": [
+          "1024"
+        ],
+        "og:image:height": [
+          "1024"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:image:alt": [
+          "Doç. Dr. Habib ÇİL — Kardiyoloji Uzmanı"
+        ]
+      }
+    },
+    {
+      "file": "hizmetler/dizalti-damar-tikanikligi/index.html",
+      "before": {
+        "og:image": [
+          "https://docdrhabibcil.com/img/og-image.webp"
+        ],
+        "og:image:type": null,
+        "og:image:width": null,
+        "og:image:height": null,
+        "twitter:card": [
+          "summary_large_image"
+        ],
+        "twitter:image:alt": null
+      },
+      "after": {
+        "og:image": [
+          "https://docdrhabibcil.com/img/og-image.webp"
+        ],
+        "og:image:type": [
+          "image/webp"
+        ],
+        "og:image:width": [
+          "1024"
+        ],
+        "og:image:height": [
+          "1024"
+        ],
+        "twitter:card": [
+          "summary"
+        ],
+        "twitter:image:alt": [
+          "Doç. Dr. Habib ÇİL — Kardiyoloji Uzmanı"
+        ]
+      }
+    }
+  ]
+}

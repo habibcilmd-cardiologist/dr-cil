@@ -1,0 +1,622 @@
+{
+  "scope": "Isolated Apache fixture, actual .htaccess; not live host/TLS/CDN/PHP/form delivery",
+  "work": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-apache-acceptance-odjvf4ag",
+  "public": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-apache-acceptance-odjvf4ag/public",
+  "config": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-apache-acceptance-odjvf4ag/httpd.conf",
+  "source_sha256": "85b1db30d8c1ccb496917d8c8e1d9467bd215846e738a2e200febcabfc5ff965",
+  "port": 1316,
+  "http_acceptance": "RUN",
+  "tests": [
+    {
+      "name": "source_root_and_static_mirror",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "apache_syntax_with_actual_rules_in_directory_context",
+      "pass": true,
+      "detail": "Syntax OK\n"
+    },
+    {
+      "name": "isolated_apache_listener_ready",
+      "pass": true,
+      "detail": {
+        "port": 1316,
+        "process_exit_code": null
+      }
+    },
+    {
+      "name": "directory_index_/",
+      "pass": true,
+      "detail": {
+        "status": 200
+      }
+    },
+    {
+      "name": "directory_index_/en/",
+      "pass": true,
+      "detail": {
+        "status": 200
+      }
+    },
+    {
+      "name": "directory_index_/ar/",
+      "pass": true,
+      "detail": {
+        "status": 200
+      }
+    },
+    {
+      "name": "directory_index_/hizmetler/",
+      "pass": true,
+      "detail": {
+        "status": 200
+      }
+    },
+    {
+      "name": "exact_301_/tr/page/1/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/tr/page/2/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/tr/page/3/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/tr/page/4/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/ar/page/1/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/ar/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/ar/page/2/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/ar/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/ar/page/3/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/ar/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/ar/page/4/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/ar/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/en/page/1/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/en/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/en/page/2/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/en/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/en/page/3/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/en/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/en/page/4/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/en/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/page/1/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/page/2/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/page/3/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/page/4/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "exact_301_/hizmetler/sitemap.xml",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/sitemap.xml?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "legacy_encoded_/tr/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "legacy_encoded_/tr/hizmetler/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/hizmetler/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "legacy_encoded_/tr/blog/i%C5%9Flem/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/blog/i%C5%9Flem/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "legacy_encoded_/tr/tags/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/tags/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "legacy_encoded_/tr/blog/part%23one/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://localhost:1316/blog/part%23one/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "production_one_hop_/tr/page/2/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "https://docdrhabibcil.com/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "production_one_hop_/en/page/4/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "https://docdrhabibcil.com/en/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "production_one_hop_/tr/hizmetler/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "https://docdrhabibcil.com/hizmetler/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "production_one_hop_/hizmetler/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "https://docdrhabibcil.com/hizmetler/?utm_source=apache-test&term=%C4%B0stanbul"
+      }
+    },
+    {
+      "name": "localized_true_404_/not-found/",
+      "pass": true,
+      "detail": {
+        "status": 404,
+        "body": "TR_NOT_FOUND",
+        "cache": "no-store"
+      }
+    },
+    {
+      "name": "error_not_cached_/not-found/",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "no-store",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"c-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "12",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      }
+    },
+    {
+      "name": "localized_true_404_/en/not-found/",
+      "pass": true,
+      "detail": {
+        "status": 404,
+        "body": "EN_NOT_FOUND",
+        "cache": "no-store"
+      }
+    },
+    {
+      "name": "error_not_cached_/en/not-found/",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "no-store",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"c-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "12",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      }
+    },
+    {
+      "name": "localized_true_404_/ar/not-found/",
+      "pass": true,
+      "detail": {
+        "status": 404,
+        "body": "AR_NOT_FOUND",
+        "cache": "no-store"
+      }
+    },
+    {
+      "name": "error_not_cached_/ar/not-found/",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "no-store",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"c-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "12",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      }
+    },
+    {
+      "name": "revalidation_/index.json",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"2-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "2",
+        "Connection": "close",
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "name": "revalidation_/sitemap.xml",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"9-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "9",
+        "Connection": "close",
+        "Content-Type": "application/xml"
+      }
+    },
+    {
+      "name": "revalidation_/en/sitemap.xml",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"9-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "9",
+        "Connection": "close",
+        "Content-Type": "application/xml"
+      }
+    },
+    {
+      "name": "revalidation_/ar/sitemap.xml",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"9-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "9",
+        "Connection": "close",
+        "Content-Type": "application/xml"
+      }
+    },
+    {
+      "name": "revalidation_/robots.txt",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"17-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "23",
+        "Connection": "close",
+        "Content-Type": "text/plain; charset=UTF-8"
+      }
+    },
+    {
+      "name": "mime_/models/heart.glb",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=86400, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"b-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "11",
+        "Connection": "close",
+        "Content-Type": "model/gltf-binary"
+      }
+    },
+    {
+      "name": "mime_/sitemap.xml",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"9-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "9",
+        "Connection": "close",
+        "Content-Type": "application/xml"
+      }
+    },
+    {
+      "name": "mime_/index.json",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"2-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "2",
+        "Connection": "close",
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "name": "asset_cache_/css/site.css",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=86400, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"13-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "19",
+        "Connection": "close",
+        "Content-Type": "text/css"
+      }
+    },
+    {
+      "name": "asset_cache_/css/site.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.css",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"13-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "19",
+        "Connection": "close",
+        "Content-Type": "text/css"
+      }
+    },
+    {
+      "name": "missing_hash_asset_uncached_404",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "no-store",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"c-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "12",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      }
+    },
+    {
+      "name": "gzip_and_vary",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"3e88-660ff14e8ec00-gzip\"",
+        "Accept-Ranges": "bytes",
+        "Vary": "Accept-Encoding",
+        "Content-Encoding": "gzip",
+        "Content-Length": "78",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      }
+    },
+    {
+      "name": "security_headers",
+      "pass": true,
+      "detail": {
+        "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "Server": "Apache/2.4.67 (Unix)",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+        "ETag": "W/\"3e88-660ff14e8ec00\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "16008",
+        "Vary": "Accept-Encoding",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      }
+    },
+    {
+      "name": "etag_conditional_304",
+      "pass": true,
+      "detail": {
+        "status": 304,
+        "headers": {
+          "Date": "Tue, 24 Nov 2026 05:35:44 GMT",
+          "Server": "Apache/2.4.67 (Unix)",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY",
+          "Referrer-Policy": "strict-origin-when-cross-origin",
+          "Cache-Control": "public, max-age=0, must-revalidate",
+          "Last-Modified": "Tue, 24 Nov 2026 05:35:44 GMT",
+          "ETag": "W/\"3e88-660ff14e8ec00\"",
+          "Accept-Ranges": "bytes",
+          "Connection": "close"
+        }
+      }
+    },
+    {
+      "name": "source_denied_/.htaccess",
+      "pass": true,
+      "detail": 403
+    },
+    {
+      "name": "source_denied_/hugo.toml",
+      "pass": true,
+      "detail": 403
+    },
+    {
+      "name": "acme_allowed",
+      "pass": true,
+      "detail": 200
+    }
+  ],
+  "server_exit_code": 0,
+  "error.log": "[Tue Nov 24 06:35:44.255152 2026] [mpm_prefork:notice] [pid 99201] AH00163: Apache/2.4.67 (Unix) configured -- resuming normal operations\n[Tue Nov 24 06:35:44.255461 2026] [core:notice] [pid 99201] AH00094: Command line: '/usr/sbin/httpd -f /var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-apache-acceptance-odjvf4ag/httpd.conf -D FOREGROUND'\n[Tue Nov 24 06:35:44.297374 2026] [authz_core:error] [pid 99206] [client 127.0.0.1:56260] AH01630: client denied by server configuration: /var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-apache-acceptance-odjvf4ag/public/hugo.toml\n[Tue Nov 24 06:35:44.318054 2026] [mpm_prefork:notice] [pid 99201] AH00169: caught SIGTERM, shutting down\n",
+  "startup.log": "",
+  "passed": 56,
+  "failed": 0
+}

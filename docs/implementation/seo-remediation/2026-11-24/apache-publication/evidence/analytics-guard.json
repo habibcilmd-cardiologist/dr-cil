@@ -1,0 +1,67 @@
+{
+  "scope": "Actual compiled inline script, VM/mock document only; no requests or real analytics events",
+  "htmlFile": "output/releases/apache-publication-20261124-01/public/index.html",
+  "passed": 10,
+  "cases": [
+    {
+      "protocol": "http:",
+      "hostname": "localhost",
+      "enabled": false,
+      "pass": true
+    },
+    {
+      "protocol": "https:",
+      "hostname": "localhost",
+      "enabled": false,
+      "pass": true
+    },
+    {
+      "protocol": "http:",
+      "hostname": "127.0.0.1",
+      "enabled": false,
+      "pass": true
+    },
+    {
+      "protocol": "https:",
+      "hostname": "[::1]",
+      "enabled": false,
+      "pass": true
+    },
+    {
+      "protocol": "https:",
+      "hostname": "preview.localhost",
+      "enabled": false,
+      "pass": true
+    },
+    {
+      "protocol": "https:",
+      "hostname": "preview.example.invalid",
+      "enabled": false,
+      "pass": true
+    },
+    {
+      "protocol": "https:",
+      "hostname": "docdrhabibcil.com.attacker.invalid",
+      "enabled": false,
+      "pass": true
+    },
+    {
+      "protocol": "http:",
+      "hostname": "docdrhabibcil.com",
+      "enabled": false,
+      "pass": true
+    },
+    {
+      "protocol": "https:",
+      "hostname": "docdrhabibcil.com",
+      "enabled": true,
+      "pass": true
+    },
+    {
+      "protocol": "https:",
+      "hostname": "www.docdrhabibcil.com",
+      "enabled": true,
+      "pass": true
+    }
+  ]
+}

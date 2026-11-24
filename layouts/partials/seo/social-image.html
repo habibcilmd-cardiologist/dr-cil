@@ -1,0 +1,32 @@
+{{/* Social cards require a raster image. SVG content diagrams remain in the
+     article and its semantic markup; use the existing site fallback for cards. */}}
+{{- $page := . -}}
+{{- $image := false -}}
+{{- $isFallback := false -}}
+{{- $rasterTypes := slice "image/jpeg" "image/png" "image/webp" "image/gif" -}}
+{{- range slice "*featured*" "*cover*" "*thumbnail*" -}}
+  {{- if not $image -}}
+    {{- range $page.Resources.Match . -}}
+      {{- if and (not $image) (in $rasterTypes .MediaType.Type) -}}{{- $image = . -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $image -}}
+  {{- with $page.Site.Params.defaultSocialImage -}}
+    {{- with resources.Get . -}}
+      {{- if in $rasterTypes .MediaType.Type -}}{{- $image = . -}}{{- $isFallback = true -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $result := dict -}}
+{{- with $image -}}
+  {{- $alt := $page.Title | plainify -}}
+  {{- if $isFallback -}}
+    {{- $alts := dict "tr" "Doç. Dr. Habib ÇİL — Kardiyoloji Uzmanı" "en" "Assoc. Prof. Dr. Habib ÇİL — Cardiologist" "ar" "د. حبيب جيل — أخصائي أمراض القلب" -}}
+    {{- $alt = index $alts $page.Language.Lang -}}
+  {{- end -}}
+  {{- $card := "summary" -}}
+  {{- if ge (div (float .Width) (float .Height)) 1.5 -}}{{- $card = "summary_large_image" -}}{{- end -}}
+  {{- $result = dict "image" . "fallback" $isFallback "alt" $alt "card" $card -}}
+{{- end -}}
+{{- return $result -}}

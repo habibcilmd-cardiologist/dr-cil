@@ -1,0 +1,33 @@
+{
+  "scope": "Actual new compiled-output Apache preview; old external Python process could not be signaled by this execution sandbox",
+  "public": "/Users/yavuz/prg/dr-cil/output/releases/apache-publication-20261124-01/public",
+  "config": "/Users/yavuz/prg/dr-cil/output/releases/apache-publication-20261124-01/preview/httpd-1313.conf",
+  "port": 1313,
+  "new_pid": 98490,
+  "new_server_pass": true,
+  "home": {
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 24 Nov 2026 05:33:54 GMT",
+      "Server": "Apache/2.4.67 (Unix)",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "DENY",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Cache-Control": "public, max-age=0, must-revalidate",
+      "Last-Modified": "Tue, 24 Nov 2026 05:28:35 GMT",
+      "ETag": "\"1b10c-660fefb56e6c0\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "110860",
+      "Vary": "Accept-Encoding",
+      "Connection": "close",
+      "Content-Type": "text/html; charset=UTF-8"
+    },
+    "bytes": 110860,
+    "sha256": "1f430d052ef64ba0cbe7d156156bfed129dd5bd09d375ca6e546692b4e270184"
+  },
+  "expected_home_sha256": "1f430d052ef64ba0cbe7d156156bfed129dd5bd09d375ca6e546692b4e270184",
+  "stop_old_1314": "BLOCKED: os.kill(76204,SIGTERM) returned PermissionError [Errno1] Operation not permitted; no alternative signal API attempted",
+  "old_pid": 76204,
+  "manual_stop_command": "kill 76204",
+  "old_1314_restarted": false
+}

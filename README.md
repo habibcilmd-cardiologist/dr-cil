@@ -127,6 +127,25 @@ Sonraki iyileştirmeler:
 
 Bu incelemede DNS, Netlify yayını ve canlı sunucu değiştirilmedi.
 
+## Apache / PHP barındırmada derlenmiş site
+
+Apache 2.4 kullanan barındırma için yalın dosya depo kökündeki `.htaccess`'tir.
+Hugo kaynağı `static/.htaccess` aynı kuralları içerir; yeni derlemenin
+`public/.htaccess` dosyası da yayın paketine dahil edilmelidir. Dosya adı
+noktayla başladığından FTP veya dosya yöneticisinde gizli dosyaların da
+aktarılmasını sağlayın. Yalnız güncel derlenmiş `public/` içeriğini yayınlayın.
+
+Kurallar eski URL'leri, üç dilde gerçek 404'leri, MIME türlerini, önbelleği ve
+sıkıştırmayı kapsar. Ana sayfaya dönen genel bir PHP/SPA rewrite'ı kullanılmaz.
+PHP desteği tek başına `.htaccess` desteği anlamına gelmez; Nginx ve PHP'nin
+`php -S` sunucusu bu dosyayı uygulamaz. Apache modülleri ve `AllowOverride`
+izinleri hedef barındırmada doğrulanmalıdır.
+
+HTTPS zorlaması host/CDN üzerinde kurulmalıdır. Dosyadaki isteğe bağlı doğrudan
+TLS bloğu, Apache'nin TLS'yi kendisinin sonlandırdığı doğrulanmadan açılmaz;
+bilinmeyen proxy başlıklarıyla yönlendirme döngüsü oluşturulmaz. Mevcut hostun
+PHP-handler veya diğer kurallarını körlemesine üzerine yazmayın.
+
 ## İletişim formu sağlayıcısı
 
 Kendi sunucusuna geçiş için doğrulanmış bir form hizmeti henüz seçilmedi.

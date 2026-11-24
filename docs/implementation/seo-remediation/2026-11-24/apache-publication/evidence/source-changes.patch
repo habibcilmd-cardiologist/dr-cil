@@ -1,0 +1,826 @@
+diff --git a/.gitignore b/.gitignore
+index c364b81..ec8c8c0 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,5 +1,6 @@
+ # Hugo build artifacts
+ public/
++output/releases/
+ agent-logs/
+ resources/_gen/
+ .hugo_build.lock
+diff --git a/README.md b/README.md
+index 9f90f26..178ddf2 100644
+--- a/README.md
++++ b/README.md
+@@ -127,6 +127,25 @@ Sonraki iyileştirmeler:
+ 
+ Bu incelemede DNS, Netlify yayını ve canlı sunucu değiştirilmedi.
+ 
++## Apache / PHP barındırmada derlenmiş site
++
++Apache 2.4 kullanan barındırma için yalın dosya depo kökündeki `.htaccess`'tir.
++Hugo kaynağı `static/.htaccess` aynı kuralları içerir; yeni derlemenin
++`public/.htaccess` dosyası da yayın paketine dahil edilmelidir. Dosya adı
++noktayla başladığından FTP veya dosya yöneticisinde gizli dosyaların da
++aktarılmasını sağlayın. Yalnız güncel derlenmiş `public/` içeriğini yayınlayın.
++
++Kurallar eski URL'leri, üç dilde gerçek 404'leri, MIME türlerini, önbelleği ve
++sıkıştırmayı kapsar. Ana sayfaya dönen genel bir PHP/SPA rewrite'ı kullanılmaz.
++PHP desteği tek başına `.htaccess` desteği anlamına gelmez; Nginx ve PHP'nin
++`php -S` sunucusu bu dosyayı uygulamaz. Apache modülleri ve `AllowOverride`
++izinleri hedef barındırmada doğrulanmalıdır.
++
++HTTPS zorlaması host/CDN üzerinde kurulmalıdır. Dosyadaki isteğe bağlı doğrudan
++TLS bloğu, Apache'nin TLS'yi kendisinin sonlandırdığı doğrulanmadan açılmaz;
++bilinmeyen proxy başlıklarıyla yönlendirme döngüsü oluşturulmaz. Mevcut hostun
++PHP-handler veya diğer kurallarını körlemesine üzerine yazmayın.
++
+ ## İletişim formu sağlayıcısı
+ 
+ Kendi sunucusuna geçiş için doğrulanmış bir form hizmeti henüz seçilmedi.
+diff --git a/content/tr/_index.md b/content/tr/_index.md
+index d356f83..57c0333 100644
+--- a/content/tr/_index.md
++++ b/content/tr/_index.md
+@@ -22,7 +22,7 @@ keywords:
+     ]
+ ---
+ 
+-İstanbul'da kardiyolog ararken Doç. Dr. Habib ÇİL'in
++İstanbul'da çalışan Girişimsel Kardiyolog Doç. Dr. Habib ÇİL’in
+ [mesleki geçmişini](/hakkimda/) ve [yayınlarını](/yayinlar/)
+ inceleyebilirsiniz. [Kardiyoloji hizmetleri](/hizmetler/) sayfası, girişimsel
+ tedavileri, klinik kardiyolojiyi ve tanısal işlemleri ayrı başlıklarda sunar.
+diff --git a/layouts/partials/extend-head-uncached.html b/layouts/partials/extend-head-uncached.html
+index f139fd1..c58d10d 100644
+--- a/layouts/partials/extend-head-uncached.html
++++ b/layouts/partials/extend-head-uncached.html
+@@ -8,18 +8,25 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
+ 
+ {{ if and hugo.IsProduction (not hugo.IsServer) }}
+ <!-- Google tag (gtag.js) -->
+-<script
+-	async
+-	src="https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK"
+-></script>
+-<script>
++<script id="site-analytics">
++	(function () {
++	// A production artifact may be previewed locally. Only the configured
++	// public HTTPS host sends measurements; local/staging previews stay silent.
++	var productionHost = {{ (urls.Parse .Site.BaseURL).Hostname | jsonify | safeJS }};
++	var currentHost = window.location.hostname;
++	if (window.location.protocol !== "https:" ||
++		(currentHost !== productionHost && currentHost !== "www." + productionHost)) return;
+ 	window.dataLayer = window.dataLayer || [];
+-	function gtag() {
++	window.gtag = function () {
+ 		dataLayer.push(arguments);
+-	}
++	};
+ 	gtag("js", new Date());
+-
+ 	gtag("config", "G-TDC4PMVEMK");
++	var script = document.createElement("script");
++	script.async = true;
++	script.src = "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK";
++	document.head.appendChild(script);
++	})();
+ </script>
+ {{ end }}
+ 
+diff --git a/layouts/partials/schema-faq.html b/layouts/partials/schema-faq.html
+index 95d354a..70402e5 100644
+--- a/layouts/partials/schema-faq.html
++++ b/layouts/partials/schema-faq.html
+@@ -1,4 +1,5 @@
+-{{/* FAQ is semantic markup, not a promise of Google rich-result eligibility.
++{{/* FAQ is semantic markup. Google retired FAQ rich results on 2026-05-07;
++     retain useful, truthful FAQ semantics without promising that feature.
+      Only emit Q/A text actually rendered by this page's content. */}}
+ {{ $schema := dict }}
+ {{ $hasInline := gt (len (findRE `"@type"\s*:\s*"FAQPage"` (.RawContent | default ""))) 0 }}
+diff --git a/layouts/partials/seo/social.html b/layouts/partials/seo/social.html
+index c64da26..c6d02da 100644
+--- a/layouts/partials/seo/social.html
++++ b/layouts/partials/seo/social.html
+@@ -1,11 +1,5 @@
+ {{- $page := .page -}}
+-{{- $image := false -}}
+-{{- range slice "*featured*" "*cover*" "*thumbnail*" -}}
+-  {{- if not $image -}}{{- $image = $page.Resources.GetMatch . -}}{{- end -}}
+-{{- end -}}
+-{{- if not $image -}}
+-  {{- with $page.Site.Params.defaultSocialImage -}}{{- $image = resources.Get . -}}{{- end -}}
+-{{- end -}}
++{{- $social := partial "seo/social-image.html" $page -}}
+ {{- $description := ($page.Params.Summary | default $page.Params.Description | default $page.Site.Params.description) | plainify -}}
+ <meta property="og:title" content="{{ .title }}">
+ <meta property="og:description" content="{{ $description }}">
+@@ -25,11 +19,15 @@
+ {{- else }}
+ <meta property="og:type" content="website">
+ {{- end -}}
+-{{- with $image }}
+-<meta property="og:image" content="{{ .Permalink }}">
+-<meta property="og:image:alt" content="{{ $page.Title | plainify }}">
+-<meta name="twitter:image" content="{{ .Permalink }}">
+-<meta name="twitter:card" content="summary_large_image">
++{{- with $social }}
++<meta property="og:image" content="{{ .image.Permalink }}">
++<meta property="og:image:type" content="{{ .image.MediaType.Type }}">
++<meta property="og:image:width" content="{{ .image.Width }}">
++<meta property="og:image:height" content="{{ .image.Height }}">
++<meta property="og:image:alt" content="{{ .alt }}">
++<meta name="twitter:image" content="{{ .image.Permalink }}">
++<meta name="twitter:image:alt" content="{{ .alt }}">
++<meta name="twitter:card" content="{{ .card }}">
+ {{- else }}
+ <meta name="twitter:card" content="summary">
+ {{- end -}}
+diff --git a/.htaccess b/.htaccess
+new file mode 100644
+index 0000000..64459ff
+--- /dev/null
++++ b/.htaccess
+@@ -0,0 +1,104 @@
++# dr-cil compiled Hugo publication — Apache 2.4+, document-root deployment.
++# Source mirror: /.htaccess. Publish the compiled public/ contents, including this file.
++# Required: mod_rewrite, mod_dir, mod_authz_core and permitted .htaccess overrides.
++# HTTPS: configure the host/CDN to enforce HTTPS using its trusted TLS topology.
++# Do not trust arbitrary X-Forwarded-Proto headers or enable a proxy redirect loop.
++
++Options -Indexes -MultiViews
++DirectoryIndex index.html
++DirectorySlash On
++AddDefaultCharset UTF-8
++FileETag MTime Size
++
++# Local ErrorDocument preserves HTTP 404; no SPA/home-page fallback.
++ErrorDocument 404 /404.html
++<If "%{REQUEST_URI} =~ m#^/en(?:/|$)#">
++    ErrorDocument 404 /en/404.html
++</If>
++<If "%{REQUEST_URI} =~ m#^/ar(?:/|$)#">
++    ErrorDocument 404 /ar/404.html
++</If>
++
++RewriteEngine On
++
++# Prevent publishing hidden/source-control files; retain ACME /.well-known/ paths.
++RewriteRule "(^|/)\.(?!well-known(?:/|$))" - [F,L]
++<FilesMatch "(?i)(?:^(?:hugo\.toml|netlify\.toml|package(?:-lock)?\.json|composer\.(?:json|lock))$|\.(?:bak|orig|sql|sqlite3?|toml|ya?ml|md)$)">
++    Require all denied
++</FilesMatch>
++
++# Redirect destinations stay local in localhost/staging previews. Production
++# aliases go directly to the final HTTPS/apex URL, including www legacy URLs.
++RewriteRule ^ - [E=DRCIL_REDIRECT_ORIGIN:]
++RewriteCond %{HTTP_HOST} ^(?:www\.)?docdrhabibcil\.com(?::[0-9]+)?$ [NC]
++RewriteRule ^ - [E=DRCIL_REDIRECT_ORIGIN:https://docdrhabibcil.com]
++
++# Exact retired routes from static/_redirects precede the generic /tr/ rule.
++RewriteRule ^(?:tr/)?page/[1-4]/?$ %{ENV:DRCIL_REDIRECT_ORIGIN}/ [R=301,L]
++RewriteRule ^(en|ar)/page/[1-4]/?$ %{ENV:DRCIL_REDIRECT_ORIGIN}/$1/ [R=301,L]
++RewriteRule ^hizmetler/sitemap\.xml$ %{ENV:DRCIL_REDIRECT_ORIGIN}/sitemap.xml [R=301,L]
++
++# THE_REQUEST keeps the original encoded path. REQUEST_URI and RewriteRule
++# backreferences are already decoded; blindly adding NE to those is unsafe.
++# No QSD/new query: the original query string is preserved by Apache.
++RewriteRule ^tr/?$ %{ENV:DRCIL_REDIRECT_ORIGIN}/ [R=301,L]
++RewriteCond %{THE_REQUEST} "\s/+tr/+([^?\s]*)"
++RewriteRule ^tr/ %{ENV:DRCIL_REDIRECT_ORIGIN}/%1 [R=301,L,NE]
++
++# Canonical www host; localhost and other explicit preview hosts are untouched.
++RewriteCond %{HTTP_HOST} ^www\.docdrhabibcil\.com(?::[0-9]+)?$ [NC]
++RewriteCond %{THE_REQUEST} "\s/+([^?\s]*)"
++RewriteRule ^ https://docdrhabibcil.com/%1 [R=301,L,NE]
++
++# Direct-TLS-only optional block. Enable ONLY if the host confirms Apache itself
++# terminates TLS. With a TLS proxy/CDN, enforce HTTPS there or configure trusted
++# proxy mapping in the server configuration instead. Never copy this blindly.
++# RewriteCond %{HTTP_HOST} ^docdrhabibcil\.com$ [NC]
++# RewriteCond %{HTTPS} !=on
++# RewriteCond %{THE_REQUEST} "\s/+([^?\s]*)"
++# RewriteRule ^ https://docdrhabibcil.com/%1 [R=301,L,NE]
++
++# Existing files/directories are served normally. Missing paths use ErrorDocument.
++# Do not rewrite all requests to index.php, index.html, or a 404 page with 200.
++
++<IfModule mod_mime.c>
++    AddType text/css .css
++    AddType text/javascript .js .mjs
++    AddType application/json .json
++    AddType application/xml .xml
++    AddType image/svg+xml .svg
++    AddType image/webp .webp
++    AddType image/avif .avif
++    AddType font/woff2 .woff2
++    AddType model/gltf-binary .glb
++</IfModule>
++
++<IfModule mod_headers.c>
++    Header always set X-Content-Type-Options "nosniff"
++    Header always set X-Frame-Options "DENY"
++    Header always set Referrer-Policy "strict-origin-when-cross-origin"
++    Header always set Cache-Control "no-store" "expr=%{REQUEST_STATUS} >= 400"
++
++    # Content/search/sitemap changes must be revalidated, including / directory URLs.
++    <FilesMatch "(?i)\.(?:html?|json|xml|txt)$">
++        Header always set Cache-Control "public, max-age=0, must-revalidate" "expr=%{REQUEST_STATUS} == 200 || %{REQUEST_STATUS} == 304"
++    </FilesMatch>
++    # Mutable assets can change at the same URL; never mark them immutable.
++    <FilesMatch "(?i)\.(?:css|js|mjs|svg|webp|avif|png|jpe?g|gif|ico|woff2?|ttf|otf|glb)$">
++        Header always set Cache-Control "public, max-age=86400, must-revalidate" "expr=%{REQUEST_STATUS} == 200 || %{REQUEST_STATUS} == 304"
++    </FilesMatch>
++    # Hugo content-hashed CSS/JS only. Missing hashed URLs remain uncached errors.
++    <FilesMatch "(?i)\.[0-9a-f]{32,128}\.(?:css|js)$">
++        Header always set Cache-Control "public, max-age=31536000, immutable" "expr=%{REQUEST_STATUS} == 200 || %{REQUEST_STATUS} == 304"
++    </FilesMatch>
++</IfModule>
++
++<IfModule mod_filter.c>
++    <IfModule mod_deflate.c>
++        AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript application/json application/xml text/xml image/svg+xml
++    </IfModule>
++</IfModule>
++
++# Host gates: valid TLS certificate/HTTPS enforcement; permitted overrides and
++# modules; actual 301/404/MIME/cache/compression checks. No blanket PHP denial,
++# untested CSP/COEP, or HSTS includeSubDomains/preload is imposed by this file.
+diff --git a/static/.htaccess b/static/.htaccess
+new file mode 100644
+index 0000000..64459ff
+--- /dev/null
++++ b/static/.htaccess
+@@ -0,0 +1,104 @@
++# dr-cil compiled Hugo publication — Apache 2.4+, document-root deployment.
++# Source mirror: /.htaccess. Publish the compiled public/ contents, including this file.
++# Required: mod_rewrite, mod_dir, mod_authz_core and permitted .htaccess overrides.
++# HTTPS: configure the host/CDN to enforce HTTPS using its trusted TLS topology.
++# Do not trust arbitrary X-Forwarded-Proto headers or enable a proxy redirect loop.
++
++Options -Indexes -MultiViews
++DirectoryIndex index.html
++DirectorySlash On
++AddDefaultCharset UTF-8
++FileETag MTime Size
++
++# Local ErrorDocument preserves HTTP 404; no SPA/home-page fallback.
++ErrorDocument 404 /404.html
++<If "%{REQUEST_URI} =~ m#^/en(?:/|$)#">
++    ErrorDocument 404 /en/404.html
++</If>
++<If "%{REQUEST_URI} =~ m#^/ar(?:/|$)#">
++    ErrorDocument 404 /ar/404.html
++</If>
++
++RewriteEngine On
++
++# Prevent publishing hidden/source-control files; retain ACME /.well-known/ paths.
++RewriteRule "(^|/)\.(?!well-known(?:/|$))" - [F,L]
++<FilesMatch "(?i)(?:^(?:hugo\.toml|netlify\.toml|package(?:-lock)?\.json|composer\.(?:json|lock))$|\.(?:bak|orig|sql|sqlite3?|toml|ya?ml|md)$)">
++    Require all denied
++</FilesMatch>
++
++# Redirect destinations stay local in localhost/staging previews. Production
++# aliases go directly to the final HTTPS/apex URL, including www legacy URLs.
++RewriteRule ^ - [E=DRCIL_REDIRECT_ORIGIN:]
++RewriteCond %{HTTP_HOST} ^(?:www\.)?docdrhabibcil\.com(?::[0-9]+)?$ [NC]
++RewriteRule ^ - [E=DRCIL_REDIRECT_ORIGIN:https://docdrhabibcil.com]
++
++# Exact retired routes from static/_redirects precede the generic /tr/ rule.
++RewriteRule ^(?:tr/)?page/[1-4]/?$ %{ENV:DRCIL_REDIRECT_ORIGIN}/ [R=301,L]
++RewriteRule ^(en|ar)/page/[1-4]/?$ %{ENV:DRCIL_REDIRECT_ORIGIN}/$1/ [R=301,L]
++RewriteRule ^hizmetler/sitemap\.xml$ %{ENV:DRCIL_REDIRECT_ORIGIN}/sitemap.xml [R=301,L]
++
++# THE_REQUEST keeps the original encoded path. REQUEST_URI and RewriteRule
++# backreferences are already decoded; blindly adding NE to those is unsafe.
++# No QSD/new query: the original query string is preserved by Apache.
++RewriteRule ^tr/?$ %{ENV:DRCIL_REDIRECT_ORIGIN}/ [R=301,L]
++RewriteCond %{THE_REQUEST} "\s/+tr/+([^?\s]*)"
++RewriteRule ^tr/ %{ENV:DRCIL_REDIRECT_ORIGIN}/%1 [R=301,L,NE]
++
++# Canonical www host; localhost and other explicit preview hosts are untouched.
++RewriteCond %{HTTP_HOST} ^www\.docdrhabibcil\.com(?::[0-9]+)?$ [NC]
++RewriteCond %{THE_REQUEST} "\s/+([^?\s]*)"
++RewriteRule ^ https://docdrhabibcil.com/%1 [R=301,L,NE]
++
++# Direct-TLS-only optional block. Enable ONLY if the host confirms Apache itself
++# terminates TLS. With a TLS proxy/CDN, enforce HTTPS there or configure trusted
++# proxy mapping in the server configuration instead. Never copy this blindly.
++# RewriteCond %{HTTP_HOST} ^docdrhabibcil\.com$ [NC]
++# RewriteCond %{HTTPS} !=on
++# RewriteCond %{THE_REQUEST} "\s/+([^?\s]*)"
++# RewriteRule ^ https://docdrhabibcil.com/%1 [R=301,L,NE]
++
++# Existing files/directories are served normally. Missing paths use ErrorDocument.
++# Do not rewrite all requests to index.php, index.html, or a 404 page with 200.
++
++<IfModule mod_mime.c>
++    AddType text/css .css
++    AddType text/javascript .js .mjs
++    AddType application/json .json
++    AddType application/xml .xml
++    AddType image/svg+xml .svg
++    AddType image/webp .webp
++    AddType image/avif .avif
++    AddType font/woff2 .woff2
++    AddType model/gltf-binary .glb
++</IfModule>
++
++<IfModule mod_headers.c>
++    Header always set X-Content-Type-Options "nosniff"
++    Header always set X-Frame-Options "DENY"
++    Header always set Referrer-Policy "strict-origin-when-cross-origin"
++    Header always set Cache-Control "no-store" "expr=%{REQUEST_STATUS} >= 400"
++
++    # Content/search/sitemap changes must be revalidated, including / directory URLs.
++    <FilesMatch "(?i)\.(?:html?|json|xml|txt)$">
++        Header always set Cache-Control "public, max-age=0, must-revalidate" "expr=%{REQUEST_STATUS} == 200 || %{REQUEST_STATUS} == 304"
++    </FilesMatch>
++    # Mutable assets can change at the same URL; never mark them immutable.
++    <FilesMatch "(?i)\.(?:css|js|mjs|svg|webp|avif|png|jpe?g|gif|ico|woff2?|ttf|otf|glb)$">
++        Header always set Cache-Control "public, max-age=86400, must-revalidate" "expr=%{REQUEST_STATUS} == 200 || %{REQUEST_STATUS} == 304"
++    </FilesMatch>
++    # Hugo content-hashed CSS/JS only. Missing hashed URLs remain uncached errors.
++    <FilesMatch "(?i)\.[0-9a-f]{32,128}\.(?:css|js)$">
++        Header always set Cache-Control "public, max-age=31536000, immutable" "expr=%{REQUEST_STATUS} == 200 || %{REQUEST_STATUS} == 304"
++    </FilesMatch>
++</IfModule>
++
++<IfModule mod_filter.c>
++    <IfModule mod_deflate.c>
++        AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript application/json application/xml text/xml image/svg+xml
++    </IfModule>
++</IfModule>
++
++# Host gates: valid TLS certificate/HTTPS enforcement; permitted overrides and
++# modules; actual 301/404/MIME/cache/compression checks. No blanket PHP denial,
++# untested CSP/COEP, or HSTS includeSubDomains/preload is imposed by this file.
+diff --git a/layouts/partials/seo/social-image.html b/layouts/partials/seo/social-image.html
+new file mode 100644
+index 0000000..904a42c
+--- /dev/null
++++ b/layouts/partials/seo/social-image.html
+@@ -0,0 +1,32 @@
++{{/* Social cards require a raster image. SVG content diagrams remain in the
++     article and its semantic markup; use the existing site fallback for cards. */}}
++{{- $page := . -}}
++{{- $image := false -}}
++{{- $isFallback := false -}}
++{{- $rasterTypes := slice "image/jpeg" "image/png" "image/webp" "image/gif" -}}
++{{- range slice "*featured*" "*cover*" "*thumbnail*" -}}
++  {{- if not $image -}}
++    {{- range $page.Resources.Match . -}}
++      {{- if and (not $image) (in $rasterTypes .MediaType.Type) -}}{{- $image = . -}}{{- end -}}
++    {{- end -}}
++  {{- end -}}
++{{- end -}}
++{{- if not $image -}}
++  {{- with $page.Site.Params.defaultSocialImage -}}
++    {{- with resources.Get . -}}
++      {{- if in $rasterTypes .MediaType.Type -}}{{- $image = . -}}{{- $isFallback = true -}}{{- end -}}
++    {{- end -}}
++  {{- end -}}
++{{- end -}}
++{{- $result := dict -}}
++{{- with $image -}}
++  {{- $alt := $page.Title | plainify -}}
++  {{- if $isFallback -}}
++    {{- $alts := dict "tr" "Doç. Dr. Habib ÇİL — Kardiyoloji Uzmanı" "en" "Assoc. Prof. Dr. Habib ÇİL — Cardiologist" "ar" "د. حبيب جيل — أخصائي أمراض القلب" -}}
++    {{- $alt = index $alts $page.Language.Lang -}}
++  {{- end -}}
++  {{- $card := "summary" -}}
++  {{- if ge (div (float .Width) (float .Height)) 1.5 -}}{{- $card = "summary_large_image" -}}{{- end -}}
++  {{- $result = dict "image" . "fallback" $isFallback "alt" $alt "card" $card -}}
++{{- end -}}
++{{- return $result -}}
+diff --git a/scripts/tests/analytics-guard.test.mjs b/scripts/tests/analytics-guard.test.mjs
+new file mode 100644
+index 0000000..920caf9
+--- /dev/null
++++ b/scripts/tests/analytics-guard.test.mjs
+@@ -0,0 +1,47 @@
++// Execute the actual compiled inline tag in a mock document; never sends HTTP.
++import assert from 'node:assert/strict';
++import fs from 'node:fs';
++import vm from 'node:vm';
++
++const htmlFile = process.argv[2];
++if (!htmlFile) throw new Error('Pass the newly built public/index.html');
++const html = fs.readFileSync(htmlFile, 'utf8');
++const match = html.match(/<script\b(?=[^>]*\bid\s*=\s*["']?site-analytics(?:["'\s>]))[^>]*>([\s\S]*?)<\/script>/i);
++assert.ok(match, 'compiled production inline tag exists');
++const cases = [
++  ['http:', 'localhost', false],
++  ['https:', 'localhost', false],
++  ['http:', '127.0.0.1', false],
++  ['https:', '[::1]', false],
++  ['https:', 'preview.localhost', false],
++  ['https:', 'preview.example.invalid', false],
++  ['https:', 'docdrhabibcil.com.attacker.invalid', false],
++  ['http:', 'docdrhabibcil.com', false],
++  ['https:', 'docdrhabibcil.com', true],
++  ['https:', 'www.docdrhabibcil.com', true],
++];
++const reports = [];
++for (const [protocol, hostname, enabled] of cases) {
++  const appended = [];
++  const sandbox = {
++    location: {protocol, hostname},
++    document: {
++      createElement(tag) {assert.equal(tag, 'script'); return {};},
++      head: {appendChild(script) {appended.push(script);}},
++    },
++  };
++  sandbox.window = sandbox;
++  vm.runInNewContext(match[1], sandbox, {timeout:1000});
++  assert.equal(appended.length, enabled ? 1 : 0, `${protocol}//${hostname}: loader count`);
++  if (enabled) {
++    assert.equal(appended[0].src, 'https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK');
++    assert.equal(appended[0].async, true);
++    assert.equal(sandbox.dataLayer.length, 2);
++    assert.equal(sandbox.dataLayer[1][0], 'config');
++    assert.equal(sandbox.dataLayer[1][1], 'G-TDC4PMVEMK');
++  } else {
++    assert.equal(sandbox.dataLayer, undefined, 'preview has no measurement queue');
++  }
++  reports.push({protocol,hostname,enabled,pass:true});
++}
++console.log(JSON.stringify({scope:'Actual compiled inline script, VM/mock document only; no requests or real analytics events',htmlFile,passed:reports.length,cases:reports},null,2));
+diff --git a/scripts/tests/apache-publication.test.py b/scripts/tests/apache-publication.test.py
+new file mode 100644
+index 0000000..2d0cf5b
+--- /dev/null
++++ b/scripts/tests/apache-publication.test.py
+@@ -0,0 +1,209 @@
++#!/usr/bin/env python3
++"""Exercise the actual .htaccess in an isolated Apache fixture; no external HTTP."""
++import argparse
++import gzip
++import hashlib
++import json
++import os
++from pathlib import Path
++import pwd
++import grp
++import shutil
++import subprocess
++import tempfile
++import time
++import urllib.error
++import urllib.parse
++import urllib.request
++
++
++class NoRedirect(urllib.request.HTTPRedirectHandler):
++    def redirect_request(self, req, fp, code, msg, headers, newurl):
++        return None
++
++
++def main():
++    ap = argparse.ArgumentParser(description=__doc__)
++    ap.add_argument('--output', type=Path, required=True)
++    ap.add_argument('--port', type=int, default=1316)
++    ap.add_argument('--httpd', default='/usr/sbin/httpd')
++    args = ap.parse_args()
++    root = Path(__file__).resolve().parents[2]
++    work = Path(tempfile.mkdtemp(prefix='dr-cil-apache-acceptance-'))
++    public = work / 'public'
++    public.mkdir()
++    fixture = {
++        'index.html': 'TR_HOME ' + ('content ' * 2000),
++        'en/index.html': 'EN_HOME', 'ar/index.html': 'AR_HOME',
++        '404.html': 'TR_NOT_FOUND', 'en/404.html': 'EN_NOT_FOUND',
++        'ar/404.html': 'AR_NOT_FOUND', 'hizmetler/index.html': 'SERVICES',
++        'sitemap.xml': '<urlset/>', 'en/sitemap.xml': '<urlset/>',
++        'ar/sitemap.xml': '<urlset/>', 'robots.txt': 'User-agent: *\nAllow: /\n',
++        'index.json': '[]', 'css/site.css': 'body {color: black}',
++        'css/site.' + ('a' * 64) + '.css': 'body {color: black}',
++        'models/heart.glb': 'GLB_FIXTURE',
++        'blog/işlem/index.html': 'UNICODE_TR',
++        'tags/اختبار/index.html': 'UNICODE_AR',
++        'blog/part#one/index.html': 'ENCODED_HASH',
++        '.well-known/acme-challenge/probe': 'ACME_PROBE',
++        'hugo.toml': 'SOURCE_MUST_NOT_BE_PUBLIC',
++    }
++    for name, content in fixture.items():
++        file = public / name
++        file.parent.mkdir(parents=True, exist_ok=True)
++        file.write_text(content)
++    shutil.copyfile(root / 'static/.htaccess', public / '.htaccess')
++    tests = []
++
++    def check(name, success, detail=None):
++        tests.append({'name': name, 'pass': bool(success), 'detail': detail})
++
++    check('source_root_and_static_mirror', (root / '.htaccess').read_bytes() == (public / '.htaccess').read_bytes())
++    modules = ['mpm_prefork', 'unixd', 'authz_core', 'authz_host', 'dir',
++               'mime', 'rewrite', 'headers', 'filter', 'deflate']
++    config = '\n'.join([
++        'ServerRoot "' + str(work) + '"',
++        *['LoadModule ' + name + '_module /usr/libexec/apache2/mod_' + name + '.so' for name in modules],
++        'Listen 127.0.0.1:' + str(args.port), 'ServerName localhost',
++        'PidFile "' + str(work / 'httpd.pid') + '"',
++        'ErrorLog "' + str(work / 'error.log') + '"',
++        'User ' + pwd.getpwuid(os.getuid()).pw_name,
++        'Group ' + grp.getgrgid(os.getgid()).gr_name,
++        'TypesConfig /etc/apache2/mime.types',
++        'DocumentRoot "' + str(public) + '"',
++        '<Directory "' + str(public) + '">',
++        'Options FollowSymLinks', 'AllowOverride All', 'Require all granted',
++        '</Directory>', '',
++    ])
++    config_file = work / 'httpd.conf'
++    config_file.write_text(config)
++    syntax_file = work / 'syntax-httpd.conf'
++    syntax_file.write_text(config.replace('</Directory>', 'Include "' + str(public / '.htaccess') + '"\n</Directory>'))
++    syntax = subprocess.run([args.httpd, '-t', '-f', str(syntax_file)], capture_output=True, text=True)
++    (work / 'syntax.log').write_text(syntax.stdout + syntax.stderr)
++    check('apache_syntax_with_actual_rules_in_directory_context', syntax.returncode == 0, syntax.stdout + syntax.stderr)
++    report = {'scope': 'Isolated Apache fixture, actual .htaccess; not live host/TLS/CDN/PHP/form delivery',
++              'work': str(work), 'public': str(public), 'config': str(config_file),
++              'source_sha256': hashlib.sha256((public / '.htaccess').read_bytes()).hexdigest(),
++              'port': args.port, 'http_acceptance': 'NOT_RUN', 'tests': tests}
++    process = None
++    opener = urllib.request.build_opener(urllib.request.ProxyHandler({}), NoRedirect())
++
++    def get(path, headers=None):
++        request = urllib.request.Request('http://127.0.0.1:' + str(args.port) + path,
++                                         headers={'Host': 'localhost:' + str(args.port), **(headers or {})})
++        try:
++            response = opener.open(request, timeout=3)
++        except urllib.error.HTTPError as error:
++            response = error
++        with response:
++            return response.status, dict(response.headers.items()), response.read()
++
++    try:
++        if syntax.returncode == 0:
++            log = open(work / 'startup.log', 'w')
++            # Apache shutdown can signal its process group; isolate the fixture
++            # so terminating it cannot terminate this test runner or user tasks.
++            process = subprocess.Popen([args.httpd, '-f', str(config_file), '-DFOREGROUND'], stdout=log, stderr=subprocess.STDOUT, start_new_session=True)
++            ready = False
++            for attempt in range(30):
++                if process.poll() is not None:
++                    break
++                try:
++                    status, _, _ = get('/')
++                    if status == 200:
++                        ready = True
++                        break
++                except (OSError, urllib.error.URLError):
++                    pass
++                time.sleep(0.1)
++            check('isolated_apache_listener_ready', ready,
++                  {'port': args.port, 'process_exit_code': process.poll()})
++            if not ready:
++                report['blocker'] = 'Apache listener did not become usable; no alternative port/API attempted.'
++            else:
++                report['http_acceptance'] = 'RUN'
++                for route, marker in [('/', 'TR_HOME'), ('/en/', 'EN_HOME'), ('/ar/', 'AR_HOME'), ('/hizmetler/', 'SERVICES')]:
++                    status, headers, body = get(route)
++                    check('directory_index_' + route, status == 200 and marker.encode() in body, {'status': status})
++                query = 'utm_source=apache-test&term=%C4%B0stanbul'
++                for line in (root / 'static/_redirects').read_text().splitlines():
++                    parts = line.split()
++                    if len(parts) < 3 or parts[0].startswith('#') or '*' in parts[0] or not parts[2].startswith('301'):
++                        continue
++                    status, headers, _ = get(parts[0] + '?' + query)
++                    target = urllib.parse.urlsplit(headers.get('Location', ''))
++                    check('exact_301_' + parts[0], status == 301 and target.netloc == 'localhost:' + str(args.port)
++                          and target.path == parts[1] and target.query == query,
++                          {'status': status, 'location': headers.get('Location')})
++                for source, target in [('/tr/', '/'), ('/tr/hizmetler/', '/hizmetler/'),
++                                       ('/tr/blog/i%C5%9Flem/', '/blog/i%C5%9Flem/'),
++                                       ('/tr/tags/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1/', '/tags/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1/'),
++                                       ('/tr/blog/part%23one/', '/blog/part%23one/')]:
++                    status, headers, _ = get(source + '?' + query)
++                    location = urllib.parse.urlsplit(headers.get('Location', ''))
++                    check('legacy_encoded_' + source, status == 301 and location.path == target and location.query == query,
++                          {'status': status, 'location': headers.get('Location')})
++                for source, target in [('/tr/page/2/', '/'), ('/en/page/4/', '/en/'), ('/tr/hizmetler/', '/hizmetler/'), ('/hizmetler/', '/hizmetler/')]:
++                    status, headers, _ = get(source + '?' + query, {'Host': 'www.docdrhabibcil.com'})
++                    check('production_one_hop_' + source, status == 301 and headers.get('Location') == 'https://docdrhabibcil.com' + target + '?' + query,
++                          {'status': status, 'location': headers.get('Location')})
++                for route, marker in [('/not-found/', 'TR_NOT_FOUND'), ('/en/not-found/', 'EN_NOT_FOUND'), ('/ar/not-found/', 'AR_NOT_FOUND')]:
++                    status, headers, body = get(route)
++                    check('localized_true_404_' + route, status == 404 and marker.encode() in body,
++                          {'status': status, 'body': body.decode(), 'cache': headers.get('Cache-Control')})
++                    check('error_not_cached_' + route, headers.get('Cache-Control') == 'no-store', headers)
++                for route in ['/index.json', '/sitemap.xml', '/en/sitemap.xml', '/ar/sitemap.xml', '/robots.txt']:
++                    status, headers, _ = get(route)
++                    check('revalidation_' + route, status == 200 and headers.get('Cache-Control') == 'public, max-age=0, must-revalidate', headers)
++                for route, mime in [('/models/heart.glb', 'model/gltf-binary'), ('/sitemap.xml', 'application/xml'), ('/index.json', 'application/json')]:
++                    status, headers, _ = get(route)
++                    check('mime_' + route, status == 200 and headers.get('Content-Type', '').startswith(mime), headers)
++                for route, expected in [('/css/site.css', 'public, max-age=86400, must-revalidate'), ('/css/site.' + 'a' * 64 + '.css', 'public, max-age=31536000, immutable')]:
++                    status, headers, _ = get(route)
++                    check('asset_cache_' + route, status == 200 and headers.get('Cache-Control') == expected, headers)
++                status, headers, _ = get('/css/missing.' + 'b' * 64 + '.css')
++                check('missing_hash_asset_uncached_404', status == 404 and headers.get('Cache-Control') == 'no-store', headers)
++                status, headers, body = get('/', {'Accept-Encoding': 'gzip'})
++                check('gzip_and_vary', status == 200 and headers.get('Content-Encoding') == 'gzip'
++                      and 'accept-encoding' in headers.get('Vary', '').lower()
++                      and b'TR_HOME' in gzip.decompress(body), headers)
++                status, headers, _ = get('/')
++                check('security_headers', headers.get('X-Content-Type-Options') == 'nosniff'
++                      and headers.get('X-Frame-Options') == 'DENY'
++                      and headers.get('Referrer-Policy') == 'strict-origin-when-cross-origin', headers)
++                etag = headers.get('ETag')
++                status, headers, _ = get('/', {'If-None-Match': etag or ''})
++                check('etag_conditional_304', etag and status == 304, {'status': status, 'headers': headers})
++                for route in ['/.htaccess', '/hugo.toml']:
++                    status, _, _ = get(route)
++                    check('source_denied_' + route, status == 403, status)
++                status, _, body = get('/.well-known/acme-challenge/probe')
++                check('acme_allowed', status == 200 and body == b'ACME_PROBE', status)
++    except Exception as error:
++        check('unexpected_test_exception', False, repr(error))
++    finally:
++        if process is not None:
++            if process.poll() is None:
++                process.terminate()
++                try:
++                    process.wait(timeout=5)
++                except subprocess.TimeoutExpired:
++                    process.kill()
++                    process.wait(timeout=5)
++            report['server_exit_code'] = process.returncode
++        for name in ['error.log', 'startup.log']:
++            file = work / name
++            if file.exists():
++                report[name] = file.read_text()
++        report['passed'] = sum(item['pass'] for item in tests)
++        report['failed'] = sum(not item['pass'] for item in tests)
++        args.output.parent.mkdir(parents=True, exist_ok=True)
++        args.output.write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
++        print(json.dumps({'output': str(args.output), 'work': str(work), 'http_acceptance': report['http_acceptance'],
++                          'passed': report['passed'], 'failed': report['failed'], 'blocker': report.get('blocker')}, ensure_ascii=False))
++    return int(bool(report['failed']))
++
++
++if __name__ == '__main__':
++    raise SystemExit(main())
+diff --git a/scripts/validate_metadata_output.py b/scripts/validate_metadata_output.py
+new file mode 100644
+index 0000000..b79508c
+--- /dev/null
++++ b/scripts/validate_metadata_output.py
+@@ -0,0 +1,153 @@
++#!/usr/bin/env python3
++"""Verify emitted social/GSC/GA/sitemap metadata; no HTTP or account claims."""
++import argparse
++from collections import Counter
++from html.parser import HTMLParser
++import json
++from pathlib import Path
++import re
++import struct
++from urllib.parse import unquote, urlsplit
++import xml.etree.ElementTree as ET
++
++
++class Document(HTMLParser):
++    def __init__(self):
++        super().__init__(convert_charrefs=True)
++        self.meta = {}
++        self.canonical = []
++        self.alias = False
++        self.analytics = []
++        self._analytics = False
++
++    def handle_starttag(self, tag, attrs):
++        a = dict(attrs)
++        if tag == 'meta':
++            key = a.get('property', a.get('name', ''))
++            self.meta.setdefault(key, []).append(a.get('content', ''))
++            if a.get('http-equiv', '').lower() == 'refresh': self.alias = True
++        if tag == 'link' and a.get('rel') == 'canonical':
++            self.canonical.append(a.get('href', ''))
++        if tag == 'script' and a.get('id') == 'site-analytics':
++            self.analytics.append('')
++            self._analytics = True
++
++    def handle_endtag(self, tag):
++        if tag == 'script': self._analytics = False
++
++    def handle_data(self, data):
++        if self._analytics: self.analytics[-1] += data
++
++
++def image_info(path):
++    """Read raster magic bytes and dimensions without an imaging dependency."""
++    data = path.read_bytes()
++    if data.startswith(b'\x89PNG\r\n\x1a\n'):
++        return 'image/png', *struct.unpack('>II', data[16:24])
++    if data.startswith((b'GIF87a', b'GIF89a')):
++        return 'image/gif', *struct.unpack('<HH', data[6:10])
++    if data.startswith(b'RIFF') and data[8:12] == b'WEBP':
++        kind = data[12:16]
++        if kind == b'VP8X':
++            return 'image/webp', 1+int.from_bytes(data[24:27], 'little'), 1+int.from_bytes(data[27:30], 'little')
++        if kind == b'VP8L':
++            bits = int.from_bytes(data[21:25], 'little')
++            return 'image/webp', 1+(bits & 0x3fff), 1+((bits >> 14) & 0x3fff)
++        if kind == b'VP8 ':
++            start = data.index(b'\x9d\x01\x2a', 20, 40) + 3
++            width, height = struct.unpack('<HH', data[start:start+4])
++            return 'image/webp', width & 0x3fff, height & 0x3fff
++    if data.startswith(b'\xff\xd8'):
++        position = 2
++        while position < len(data):
++            if data[position] != 255: raise ValueError('Invalid JPEG marker')
++            while data[position] == 255: position += 1
++            marker = data[position]; position += 1
++            length = int.from_bytes(data[position:position+2], 'big')
++            if marker in {0xc0, 0xc1, 0xc2, 0xc3, 0xc5, 0xc6, 0xc7, 0xc9, 0xca, 0xcb, 0xcd, 0xce, 0xcf}:
++                height, width = struct.unpack('>HH', data[position+3:position+7])
++                return 'image/jpeg', width, height
++            position += length
++    raise ValueError('Unsupported or invalid raster image')
++
++
++def main():
++    ap = argparse.ArgumentParser(description=__doc__)
++    ap.add_argument('public', type=Path)
++    ap.add_argument('--source', type=Path, default=Path(__file__).resolve().parent.parent)
++    ap.add_argument('--json', type=Path)
++    args = ap.parse_args()
++    config = (args.source/'hugo.toml').read_text()
++    base_url = re.search(r'^baseURL\s*=\s*"([^"]+)"', config, re.M).group(1)
++    origin = urlsplit(base_url)
++    verification = re.search(r'^\s*google\s*=\s*"([^"]+)"', config, re.M).group(1)
++    analytics_source = (args.source/'layouts/partials/extend-head-uncached.html').read_text()
++    measurement = re.search(r'gtag\("config",\s*"([^"]+)"\)', analytics_source).group(1)
++    counts = Counter(); cards = Counter(); errors = []; images = {}; examples = {}
++
++    def fail(file, code, detail):
++        errors.append({'file':str(file), 'code':code, 'detail':detail})
++
++    for file in sorted(args.public.rglob('*.html')):
++        counts['html'] += 1
++        doc = Document(); doc.feed(file.read_text())
++        rel = file.relative_to(args.public).as_posix()
++        if doc.alias:
++            counts['aliases'] += 1
++            continue
++        counts['pages_checked'] += 1
++        for key in ['og:title','og:type','og:url','og:description','og:site_name','og:locale',
++                    'og:image','og:image:type','og:image:width','og:image:height','og:image:alt',
++                    'twitter:title','twitter:description','twitter:image','twitter:image:alt','twitter:card']:
++            values = doc.meta.get(key, [])
++            if len(values) != 1 or not values[0]: fail(rel, 'SOCIAL_MISSING_OR_DUPLICATE', key)
++        def value(key): return (doc.meta.get(key) or [''])[0]
++        if doc.canonical != [value('og:url')]: fail(rel, 'SOCIAL_CANONICAL', doc.canonical)
++        canonical = urlsplit(value('og:url'))
++        if (canonical.scheme, canonical.netloc) != (origin.scheme, origin.netloc): fail(rel,'PRODUCTION_ORIGIN',value('og:url'))
++        if doc.meta.get('google-site-verification') != [verification]: fail(rel,'GSC_TOKEN',doc.meta.get('google-site-verification'))
++        if len(doc.analytics) != 1 or doc.analytics[0].count(measurement) != 2: fail(rel,'GA_ID_OR_DUPLICATE',len(doc.analytics))
++        image = value('og:image'); image_url = urlsplit(image)
++        if image != value('twitter:image'): fail(rel,'TWITTER_IMAGE_MISMATCH',value('twitter:image'))
++        if (image_url.scheme,image_url.netloc) != (origin.scheme,origin.netloc): fail(rel,'IMAGE_ORIGIN',image)
++        image_path = args.public/unquote(image_url.path).lstrip('/')
++        try:
++            if image not in images: images[image] = image_info(image_path)
++            mime,width,height = images[image]
++            declared = (value('og:image:type'),value('og:image:width'),value('og:image:height'))
++            if declared != (mime,str(width),str(height)): fail(rel,'IMAGE_METADATA',{'actual':[mime,width,height],'declared':declared})
++            expected_card = 'summary_large_image' if width/height >= 1.5 else 'summary'
++            if value('twitter:card') != expected_card: fail(rel,'TWITTER_CARD_ASPECT',value('twitter:card'))
++        except (OSError,ValueError,IndexError,struct.error) as exc:
++            fail(rel,'IMAGE_FILE',str(exc))
++        cards[value('twitter:card')] += 1
++        for key in ['index.html','en/index.html','ar/index.html','blog/diyabetik-ayak/index.html','hizmetler/dizalti-damar-tikanikligi/index.html']:
++            if rel == key: examples[rel] = {'canonical':doc.canonical,'image':image,'card':value('twitter:card'),'gsc':doc.meta.get('google-site-verification'),'analytics_scripts':len(doc.analytics)}
++
++    robots = (args.public/'robots.txt').read_text()
++    maps = {}
++    ns = {'sm':'http://www.sitemaps.org/schemas/sitemap/0.9'}
++    for relative in ['sitemap.xml','en/sitemap.xml','ar/sitemap.xml']:
++        url = base_url.rstrip('/')+'/'+relative
++        if 'Sitemap: '+url not in robots: fail('robots.txt','SITEMAP_NOT_DECLARED',url)
++        try:
++            tree = ET.parse(args.public/relative)
++            locs = [(node.text or '') for node in tree.findall('.//sm:loc',ns)]
++            if not locs: fail(relative,'SITEMAP_EMPTY',None)
++            for loc in locs:
++                parsed = urlsplit(loc)
++                if (parsed.scheme,parsed.netloc)!=(origin.scheme,origin.netloc): fail(relative,'SITEMAP_ORIGIN',loc)
++            maps[relative] = len(locs)
++        except (OSError,ET.ParseError) as exc: fail(relative,'SITEMAP_XML',str(exc))
++    result = {'scope':'Emitted social metadata, image bytes/dimensions, GSC token, GA code and sitemap/robots; not HTTP, account ownership, live Analytics collection or external preview acceptance',
++              'public':str(args.public),'counts':dict(counts),'twitter_cards':dict(cards),'image_assets':{key:list(value) for key,value in images.items()},
++              'sitemaps':maps,'measurement_id':measurement,'examples':examples,'error_count':len(errors),'errors':errors,
++              'google_faq_rich_result':'REMOVED_BY_GOOGLE_2026-05-07','runtime_guard':'Run scripts/tests/analytics-guard.test.mjs separately with mocked document; no requests'}
++    if args.json:
++        args.json.parent.mkdir(parents=True,exist_ok=True)
++        args.json.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
++    print(json.dumps({key:value for key,value in result.items() if key not in {'errors','examples'}},ensure_ascii=False,indent=2))
++    return int(bool(errors))
++
++
++if __name__ == '__main__': raise SystemExit(main())

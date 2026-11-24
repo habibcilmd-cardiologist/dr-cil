@@ -1,0 +1,154 @@
+{
+  "scope": "Actual latest compiled output through localApache1313, not publicTLS/CDN/accountvalidation",
+  "public": "/Users/yavuz/prg/dr-cil/output/releases/apache-publication-20261124-01/public",
+  "passed": 17,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "body_identity_/",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "sha256": "1f430d052ef64ba0cbe7d156156bfed129dd5bd09d375ca6e546692b4e270184"
+      }
+    },
+    {
+      "name": "body_identity_/en/",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "sha256": "ca881ecd9eaf8093ff8a8ebb15abecbe3f6d04e58cee932b342afcf8df4ddac4"
+      }
+    },
+    {
+      "name": "body_identity_/ar/",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "sha256": "52725314198838a151e40597a9787299f481ad5705787b86d8296fc0a011fefc"
+      }
+    },
+    {
+      "name": "body_identity_/hizmetler/dizalti-damar-tikanikligi/",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "sha256": "437c6f0d92cd0926009f9021aceaf5ff526d68a5a8b5fd4a0a19f9c0cfe1cafe"
+      }
+    },
+    {
+      "name": "localized_real_404_tr",
+      "pass": true,
+      "detail": {
+        "status": 404,
+        "cache": "no-store",
+        "expected_lang": "tr",
+        "html_start": "<!doctype html><html lang=tr dir=ltr class=scroll-smooth data-default-appearance=light data-auto-appearance=true><head><meta charset=utf-8><meta http-equiv=content-langua"
+      }
+    },
+    {
+      "name": "localized_real_404_en",
+      "pass": true,
+      "detail": {
+        "status": 404,
+        "cache": "no-store",
+        "expected_lang": "en",
+        "html_start": "<!doctype html><html lang=en dir=ltr class=scroll-smooth data-default-appearance=light data-auto-appearance=true><head><meta charset=utf-8><meta http-equiv=content-langua"
+      }
+    },
+    {
+      "name": "localized_real_404_ar",
+      "pass": true,
+      "detail": {
+        "status": 404,
+        "cache": "no-store",
+        "expected_lang": "ar",
+        "html_start": "<!doctype html><html lang=ar dir=rtl class=scroll-smooth data-default-appearance=light data-auto-appearance=true><head><meta charset=utf-8><meta http-equiv=content-langua"
+      }
+    },
+    {
+      "name": "xml_/sitemap.xml",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "content_type": "application/xml",
+        "elements": 258
+      }
+    },
+    {
+      "name": "xml_/en/sitemap.xml",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "content_type": "application/xml",
+        "elements": 196
+      }
+    },
+    {
+      "name": "xml_/ar/sitemap.xml",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "content_type": "application/xml",
+        "elements": 198
+      }
+    },
+    {
+      "name": "redirect_/tr/page/2/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://127.0.0.1:1313/?utm_source=acceptance"
+      }
+    },
+    {
+      "name": "redirect_/en/page/2/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://127.0.0.1:1313/en/?utm_source=acceptance"
+      }
+    },
+    {
+      "name": "redirect_/hizmetler/sitemap.xml",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://127.0.0.1:1313/sitemap.xml?utm_source=acceptance"
+      }
+    },
+    {
+      "name": "redirect_/tr/hizmetler/",
+      "pass": true,
+      "detail": {
+        "status": 301,
+        "location": "http://127.0.0.1:1313/hizmetler/?utm_source=acceptance"
+      }
+    },
+    {
+      "name": "gzip_home",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "encoding": "gzip",
+        "vary": "Accept-Encoding"
+      }
+    },
+    {
+      "name": "conditional_304",
+      "pass": true,
+      "detail": {
+        "status": 304,
+        "etag": "\"1b10c-660fefb56e6c0\""
+      }
+    },
+    {
+      "name": "head_sitemap",
+      "pass": true,
+      "detail": {
+        "status": 200,
+        "type": "application/xml"
+      }
+    }
+  ]
+}

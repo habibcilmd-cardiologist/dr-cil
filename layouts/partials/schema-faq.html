@@ -1,4 +1,5 @@
-{{/* FAQ is semantic markup, not a promise of Google rich-result eligibility.
+{{/* FAQ is semantic markup. Google retired FAQ rich results on 2026-05-07;
+     retain useful, truthful FAQ semantics without promising that feature.
      Only emit Q/A text actually rendered by this page's content. */}}
 {{ $schema := dict }}
 {{ $hasInline := gt (len (findRE `"@type"\s*:\s*"FAQPage"` (.RawContent | default ""))) 0 }}

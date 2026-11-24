@@ -1,0 +1,96 @@
+{
+  "scope": "Emitted social metadata, image bytes/dimensions, GSC token, GA code and sitemap/robots; not HTTP, account ownership, live Analytics collection or external preview acceptance",
+  "public": "output/releases/apache-publication-20261124-01/public",
+  "counts": {
+    "html": 967,
+    "pages_checked": 673,
+    "aliases": 294
+  },
+  "twitter_cards": {
+    "summary": 673
+  },
+  "image_assets": {
+    "https://docdrhabibcil.com/img/og-image.webp": [
+      "image/webp",
+      1024,
+      1024
+    ],
+    "https://docdrhabibcil.com/en/about/featured.webp": [
+      "image/webp",
+      640,
+      640
+    ],
+    "https://docdrhabibcil.com/hakkimda/featured.webp": [
+      "image/webp",
+      640,
+      640
+    ]
+  },
+  "sitemaps": {
+    "sitemap.xml": 258,
+    "en/sitemap.xml": 196,
+    "ar/sitemap.xml": 198
+  },
+  "measurement_id": "G-TDC4PMVEMK",
+  "examples": {
+    "ar/index.html": {
+      "canonical": [
+        "https://docdrhabibcil.com/ar/"
+      ],
+      "image": "https://docdrhabibcil.com/img/og-image.webp",
+      "card": "summary",
+      "gsc": [
+        "bs3oztIehq9ZyMyqgBKUm1LOx_X_Juv7U9I-Mps5Tik"
+      ],
+      "analytics_scripts": 1
+    },
+    "blog/diyabetik-ayak/index.html": {
+      "canonical": [
+        "https://docdrhabibcil.com/blog/diyabetik-ayak/"
+      ],
+      "image": "https://docdrhabibcil.com/img/og-image.webp",
+      "card": "summary",
+      "gsc": [
+        "bs3oztIehq9ZyMyqgBKUm1LOx_X_Juv7U9I-Mps5Tik"
+      ],
+      "analytics_scripts": 1
+    },
+    "en/index.html": {
+      "canonical": [
+        "https://docdrhabibcil.com/en/"
+      ],
+      "image": "https://docdrhabibcil.com/img/og-image.webp",
+      "card": "summary",
+      "gsc": [
+        "bs3oztIehq9ZyMyqgBKUm1LOx_X_Juv7U9I-Mps5Tik"
+      ],
+      "analytics_scripts": 1
+    },
+    "hizmetler/dizalti-damar-tikanikligi/index.html": {
+      "canonical": [
+        "https://docdrhabibcil.com/hizmetler/dizalti-damar-tikanikligi/"
+      ],
+      "image": "https://docdrhabibcil.com/img/og-image.webp",
+      "card": "summary",
+      "gsc": [
+        "bs3oztIehq9ZyMyqgBKUm1LOx_X_Juv7U9I-Mps5Tik"
+      ],
+      "analytics_scripts": 1
+    },
+    "index.html": {
+      "canonical": [
+        "https://docdrhabibcil.com/"
+      ],
+      "image": "https://docdrhabibcil.com/img/og-image.webp",
+      "card": "summary",
+      "gsc": [
+        "bs3oztIehq9ZyMyqgBKUm1LOx_X_Juv7U9I-Mps5Tik"
+      ],
+      "analytics_scripts": 1
+    }
+  },
+  "error_count": 0,
+  "errors": [],
+  "google_faq_rich_result": "REMOVED_BY_GOOGLE_2026-05-07",
+  "runtime_guard": "Run scripts/tests/analytics-guard.test.mjs separately with mocked document; no requests"
+}

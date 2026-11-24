@@ -1,5 +1,6 @@
 # Hugo build artifacts
 public/
+output/releases/
 agent-logs/
 resources/_gen/
 .hugo_build.lock

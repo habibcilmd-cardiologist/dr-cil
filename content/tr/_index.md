@@ -22,7 +22,7 @@ keywords:
     ]
 ---
 
-İstanbul'da kardiyolog ararken Doç. Dr. Habib ÇİL'in
+İstanbul'da çalışan Girişimsel Kardiyolog Doç. Dr. Habib ÇİL’in
 [mesleki geçmişini](/hakkimda/) ve [yayınlarını](/yayinlar/)
 inceleyebilirsiniz. [Kardiyoloji hizmetleri](/hizmetler/) sayfası, girişimsel
 tedavileri, klinik kardiyolojiyi ve tanısal işlemleri ayrı başlıklarda sunar.
