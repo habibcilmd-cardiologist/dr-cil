@@ -1,0 +1,289 @@
+- generic [active] [ref=f2e1]:
+  - link "↓ Ana içeriğe geç" [ref=f2e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f2e8]:
+    - link "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı" [ref=f2e10] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f2e17]:
+      - group [ref=f2e18]:
+        - generic "Dil seç" [ref=f2e19] [cursor=pointer]: TR
+      - button "Sitede ara (/)" [ref=f2e24] [cursor=pointer]
+      - button "Açık/koyu görünümü değiştir" [ref=f2e28] [cursor=pointer]
+    - button "Menüyü aç" [ref=f2e34] [cursor=pointer]
+  - generic [ref=f2e38]:
+    - main [ref=f2e39]:
+      - generic [ref=f2e42]:
+        - generic [ref=f2e43]:
+          - generic [ref=f2e44]:
+            - generic [ref=f2e45]: Girişimsel Kardiyoloji Uzmanı
+            - generic [ref=f2e46]: İstanbul
+          - heading "Doç. Dr. Habib ÇİL" [level=1] [ref=f2e47]
+          - heading "Kalbinizin Ritmi Güvenli Ellerde" [level=2] [ref=f2e48]
+          - paragraph [ref=f2e49]: İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi mezunu, Akdeniz Üniversitesi Kardiyoloji ihtisası. 25 yılı aşkın klinik deneyim ve akademik kariyer ile hastalarına en güncel tanı ve tedavi yöntemlerini sunmaktadır.
+          - generic [ref=f2e50]:
+            - generic [ref=f2e51]:
+              - generic [ref=f2e52]: 25+
+              - generic [ref=f2e53]: Yıl Deneyim
+            - generic [ref=f2e54]:
+              - generic [ref=f2e55]: 20K+
+              - generic [ref=f2e56]: İnvaziv Girişim
+            - generic [ref=f2e57]:
+              - generic [ref=f2e58]: 100+
+              - generic [ref=f2e59]: Yayın
+          - generic [ref=f2e60]:
+            - link "WhatsApp ile Sor" [ref=f2e61] [cursor=pointer]:
+              - /url: https://wa.me/905339454639
+            - button "Randevu Al" [ref=f2e64] [cursor=pointer]
+            - link "Tedavileri İncele" [ref=f2e67] [cursor=pointer]:
+              - /url: /hizmetler/
+        - generic [ref=f2e68]:
+          - img "Doç. Dr. Habib ÇİL" [ref=f2e70]
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: Uzmanlık
+                - paragraph: Girişimsel Kardiyoloji
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: Kariyer
+                - paragraph: Akademik Yetkinlik
+      - region "Girişimsel Kardiyoloji Hizmetleri" [ref=f2e71]:
+        - generic [ref=f2e72]:
+          - heading "Girişimsel Kardiyoloji Hizmetleri" [level=2] [ref=f2e74]
+          - generic "Kalbin anatomik yapısına üç boyutlu bir bakış" [ref=f2e76]:
+            - group "Kalbin anatomik yapısına üç boyutlu bir bakış" [ref=f2e78]:
+              - generic [ref=f2e80]:
+                - status [ref=f2e81]: 3B görünümü istediğinizde açabilirsiniz.
+                - button "3B kalp modelini yükle" [ref=f2e82] [cursor=pointer]
+          - generic [ref=f2e83]:
+            - group [ref=f2e84]:
+              - generic "💙 Koroner Girişimler" [ref=f2e85] [cursor=pointer]:
+                - generic [ref=f2e86]: 💙
+                - generic [ref=f2e87]: Koroner Girişimler
+            - group [ref=f2e90]:
+              - generic "💚 Periferik Girişimler" [ref=f2e91] [cursor=pointer]:
+                - generic [ref=f2e92]: 💚
+                - generic [ref=f2e93]: Periferik Girişimler
+            - group [ref=f2e96]:
+              - generic "💜 Yapısal Kalp Girişimleri" [ref=f2e97] [cursor=pointer]:
+                - generic [ref=f2e98]: 💜
+                - generic [ref=f2e99]: Yapısal Kalp Girişimleri
+          - link "WhatsApp ile Sor" [ref=f2e103] [cursor=pointer]:
+            - /url: https://wa.me/905339454639
+      - generic [ref=f2e108]:
+        - paragraph [ref=f2e109]:
+          - text: İstanbul’da kardiyolog ararken Doç. Dr. Habib ÇİL’in
+          - link "mesleki geçmişini" [ref=f2e110] [cursor=pointer]:
+            - /url: /hakkimda/
+          - text: ve
+          - link "yayınlarını" [ref=f2e111] [cursor=pointer]:
+            - /url: /yayinlar/
+          - text: inceleyebilirsiniz.
+          - link "Kardiyoloji hizmetleri" [ref=f2e112] [cursor=pointer]:
+            - /url: /hizmetler/
+          - text: sayfası, girişimsel tedavileri, klinik kardiyolojiyi ve tanısal işlemleri ayrı başlıklarda sunar.
+          - link "Klinik ve iletişim bilgileri" [ref=f2e113] [cursor=pointer]:
+            - /url: /iletisim/
+          - text: üzerinden görüşme seçeneklerine ulaşabilirsiniz.
+        - generic [ref=f2e114]:
+          - heading [level=2] [ref=f2e115]:
+            - text: Tüm Hizmet Kategorileri
+            - link "#" [ref=f2e117] [cursor=pointer]:
+              - /url: "#t%c3%bcm-hizmet-kategorileri"
+          - paragraph [ref=f2e118]: Kardiyoloji alanında sunulan tüm hizmet kategorileri
+          - generic [ref=f2e119]:
+            - link "🔧 Girişimsel Kardiyoloji Koroner girişimler, Periferik girişimler, Yapısal kalp hastalığına yönelik girişimler" [ref=f2e120] [cursor=pointer]:
+              - /url: /hizmetler/#girisimsel-kardiyoloji
+              - generic [ref=f2e121]: 🔧
+              - heading "Girişimsel Kardiyoloji" [level=4] [ref=f2e122]
+              - paragraph [ref=f2e123]: Koroner girişimler, Periferik girişimler, Yapısal kalp hastalığına yönelik girişimler
+            - link "🫀 Klinik Kardiyoloji Koroner Kalp Hastalığından Korunma, Hipertansiyon, Hiperlipidemi, Kalp Yetersizliği Tedavisi, Atriyal Fibrilasyonun Tıbbi Tedavisi" [ref=f2e124] [cursor=pointer]:
+              - /url: /hizmetler/#klinik-kardiyoloji
+              - generic [ref=f2e125]: 🫀
+              - heading "Klinik Kardiyoloji" [level=4] [ref=f2e126]
+              - paragraph [ref=f2e127]: Koroner Kalp Hastalığından Korunma, Hipertansiyon, Hiperlipidemi, Kalp Yetersizliği Tedavisi, Atriyal Fibrilasyonun Tıbbi Tedavisi
+            - link "⚡ Kalp Pili ve Elektrofizyoloji Kalp pili, ICD, ablasyon tedavileri" [ref=f2e128] [cursor=pointer]:
+              - /url: /hizmetler/#kalp-pili-ve-elektrofizyoloji
+              - generic [ref=f2e129]: ⚡
+              - heading "Kalp Pili ve Elektrofizyoloji" [level=4] [ref=f2e130]
+              - paragraph [ref=f2e131]: Kalp pili, ICD, ablasyon tedavileri
+            - link "🩺 Tanısal İşlemler Anjiyografi, EKG, ekokardiyografi, holter" [ref=f2e132] [cursor=pointer]:
+              - /url: /hizmetler/#tanisal-islemler
+              - generic [ref=f2e133]: 🩺
+              - heading "Tanısal İşlemler" [level=4] [ref=f2e134]
+              - paragraph [ref=f2e135]: Anjiyografi, EKG, ekokardiyografi, holter
+          - link "📋 Tüm Hizmetleri Gör" [ref=f2e137] [cursor=pointer]:
+            - /url: /hizmetler/
+            - generic [ref=f2e138]: 📋
+            - generic [ref=f2e139]: Tüm Hizmetleri Gör
+        - region "Tüm Hizmetler" [ref=f2e140]:
+          - generic [ref=f2e141]:
+            - generic [ref=f2e142]:
+              - heading "Tüm Hizmetler" [level=2] [ref=f2e143]
+              - paragraph [ref=f2e144]: İleri seviye girişimsel prosedürlerle kapsamlı kardiyovasküler bakım
+            - generic [ref=f2e145]:
+              - generic [ref=f2e146]: ❤️
+              - paragraph [ref=f2e147]: Hizmetler Yükleniyor...
+        - heading [level=2] [ref=f2e148]:
+          - text: Bacak damarları ve diyabetik ayak hakkında bilgi
+          - link "#" [ref=f2e150] [cursor=pointer]:
+            - /url: "#bacak-damarlar%c4%b1-ve-diyabetik-ayak-hakk%c4%b1nda-bilgi"
+        - paragraph [ref=f2e151]: "Aradığınız bilgiye göre ilgili rehber veya hizmet sayfasından başlayın:"
+        - list [ref=f2e152]:
+          - listitem [ref=f2e153]:
+            - 'link "Diyabetik ayak: belirtiler, bakım ve tedavi yaklaşımları" [ref=f2e154] [cursor=pointer]':
+              - /url: /blog/diyabetik-ayak/
+          - listitem [ref=f2e155]:
+            - link "Periferik arter hastalığı rehberi" [ref=f2e156] [cursor=pointer]:
+              - /url: /blog/periferik-arter-hastaligi/
+          - listitem [ref=f2e157]:
+            - link "Periferik damar hastalıkları ve girişimleri" [ref=f2e158] [cursor=pointer]:
+              - /url: /hizmetler/periferik-damar/
+          - listitem [ref=f2e159]:
+            - link "Diz altı damar açma ve dizaltı damar tıkanıklığı" [ref=f2e160] [cursor=pointer]:
+              - /url: /hizmetler/dizalti-damar-tikanikligi/
+        - separator [ref=f2e161]
+        - heading [level=3] [ref=f2e162]:
+          - text: Randevu
+          - link "#" [ref=f2e164] [cursor=pointer]:
+            - /url: "#randevu"
+        - generic [ref=f2e165]:
+          - generic [ref=f2e170]:
+            - heading "Doç. Dr. Habib ÇİL" [level=3] [ref=f2e171]
+            - paragraph [ref=f2e172]: Girişimsel Kardiyoloji Uzmanı
+          - generic [ref=f2e173]:
+            - link "RANDEVU Doktor Sitesi" [ref=f2e174] [cursor=pointer]:
+              - /url: https://www.doktorsitesi.com/doc-dr-habib-cil/kardiyoloji/istanbul
+              - generic [ref=f2e178]:
+                - generic [ref=f2e179]: RANDEVU
+                - generic [ref=f2e180]: Doktor Sitesi
+            - link "RANDEVU Doktor Takvimi" [ref=f2e183] [cursor=pointer]:
+              - /url: https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul
+              - generic [ref=f2e187]:
+                - generic [ref=f2e188]: RANDEVU
+                - generic [ref=f2e189]: Doktor Takvimi
+            - 'link "0212 665 50 50 Ara (Dahili : 4012)" [ref=f2e192] [cursor=pointer]':
+              - /url: tel:+902126655050
+              - generic [ref=f2e196]:
+                - generic [ref=f2e197]: 0212 665 50 50
+                - generic [ref=f2e198]: "Ara (Dahili : 4012)"
+            - link "MESAJ AT - SORU SOR WhatsApp" [ref=f2e199] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send/?phone=905339454639&text&type=phone_number&app_absent=0
+              - generic [ref=f2e203]:
+                - generic [ref=f2e204]: MESAJ AT - SORU SOR
+                - generic [ref=f2e205]: WhatsApp
+        - link "WhatsApp ile iletişime geç" [ref=f2e208] [cursor=pointer]:
+          - /url: https://wa.me/905339454639
+          - generic [ref=f2e209]: 💬
+      - generic [ref=f2e210]:
+        - heading "Güncel" [level=2] [ref=f2e211]
+        - generic [ref=f2e212]:
+          - article [ref=f2e213]:
+            - generic [ref=f2e214]:
+              - img "Periferik Arter Hastalığı Nedir? Belirtileri, Tanısı ve Tedavisi"
+            - generic [ref=f2e215]:
+              - link [ref=f2e217] [cursor=pointer]:
+                - /url: /blog/periferik-arter-hastaligi/
+                - heading "Periferik Arter Hastalığı Nedir? Belirtileri, Tanısı ve Tedavisi" [level=2] [ref=f2e218]
+              - generic [ref=f2e219]:
+                - generic [ref=f2e220]:
+                  - time [ref=f2e221]: 19 Aralık 2025
+                  - generic [ref=f2e222]: ·
+                  - time [ref=f2e223]: "Güncellendi: 24 Kasım 2026"
+                  - generic [ref=f2e224]: ·
+                  - generic "Okuma süresi" [ref=f2e225]: 8 dk
+                - generic [ref=f2e226]:
+                  - link "Kardiyoloji" [ref=f2e227] [cursor=pointer]:
+                    - /url: /categories/kardiyoloji/
+                  - link "Bacak Damar Hastalıkları" [ref=f2e230] [cursor=pointer]:
+                    - /url: /tags/bacak-damar-hastal%C4%B1klar%C4%B1/
+                  - link "Koroner Arter Hastalığı" [ref=f2e233] [cursor=pointer]:
+                    - /url: /tags/koroner-arter-hastal%C4%B1%C4%9F%C4%B1/
+                  - link "Bacak Damarlarını Açma" [ref=f2e236] [cursor=pointer]:
+                    - /url: /tags/bacak-damarlar%C4%B1n%C4%B1-a%C3%A7ma/
+                  - link "Ameliyatsız Damar Açma" [ref=f2e239] [cursor=pointer]:
+                    - /url: /tags/ameliyats%C4%B1z-damar-a%C3%A7ma/
+                  - link "Damar Açma" [ref=f2e242] [cursor=pointer]:
+                    - /url: /tags/damar-a%C3%A7ma/
+                  - link "Girişimsel Kardiyoloji İstanbul" [ref=f2e245] [cursor=pointer]:
+                    - /url: /tags/giri%C5%9Fimsel-kardiyoloji-istanbul/
+                  - link "İstanbul-Kardiyolog" [ref=f2e248] [cursor=pointer]:
+                    - /url: /tags/istanbul-kardiyolog/
+          - article [ref=f2e252]:
+            - generic [ref=f2e253]:
+              - 'img "Derin Ven Trombozu (DVT): Belirtileri, Riskleri ve Tedavi Yöntemleri"'
+            - generic [ref=f2e254]:
+              - link [ref=f2e256] [cursor=pointer]:
+                - /url: /blog/derin-ven-trombozu/
+                - 'heading "Derin Ven Trombozu (DVT): Belirtileri, Riskleri ve Tedavi Yöntemleri" [level=2] [ref=f2e257]'
+              - generic [ref=f2e258]:
+                - generic [ref=f2e259]:
+                  - time [ref=f2e260]: 18 Aralık 2025
+                  - generic [ref=f2e261]: ·
+                  - generic "Okuma süresi" [ref=f2e262]: 5 dk
+                - generic [ref=f2e263]:
+                  - link "Toplardamar Hastalıkları" [ref=f2e264] [cursor=pointer]:
+                    - /url: /categories/toplardamar-hastal%C4%B1klar%C4%B1/
+                  - link "Derin Ven Trombozu" [ref=f2e267] [cursor=pointer]:
+                    - /url: /tags/derin-ven-trombozu/
+                  - link "Bacak Damarlarını Açma" [ref=f2e270] [cursor=pointer]:
+                    - /url: /tags/bacak-damarlar%C4%B1n%C4%B1-a%C3%A7ma/
+                  - link "Ameliyatsız Damar Açma" [ref=f2e273] [cursor=pointer]:
+                    - /url: /tags/ameliyats%C4%B1z-damar-a%C3%A7ma/
+                  - link "Girişimsel Kardiyoloji İstanbul" [ref=f2e276] [cursor=pointer]:
+                    - /url: /tags/giri%C5%9Fimsel-kardiyoloji-istanbul/
+                  - link "Pıhtı Tedavisi" [ref=f2e279] [cursor=pointer]:
+                    - /url: /tags/p%C4%B1ht%C4%B1-tedavisi/
+                  - link "Pulmoner Emboli" [ref=f2e282] [cursor=pointer]:
+                    - /url: /tags/pulmoner-emboli/
+          - article [ref=f2e286]:
+            - generic [ref=f2e287]:
+              - img "Diyabetik Ayak Nedir? Belirtileri, Tedavisi ve Korunma Yöntemleri"
+            - generic [ref=f2e288]:
+              - link [ref=f2e290] [cursor=pointer]:
+                - /url: /blog/diyabetik-ayak/
+                - heading "Diyabetik Ayak Nedir? Belirtileri, Tedavisi ve Korunma Yöntemleri" [level=2] [ref=f2e291]
+              - generic [ref=f2e292]:
+                - generic [ref=f2e293]:
+                  - time [ref=f2e294]: 17 Aralık 2025
+                  - generic [ref=f2e295]: ·
+                  - time [ref=f2e296]: "Güncellendi: 24 Kasım 2026"
+                  - generic [ref=f2e297]: ·
+                  - generic "Okuma süresi" [ref=f2e298]: 16 dk
+                - generic [ref=f2e299]:
+                  - link "Kardiyoloji" [ref=f2e300] [cursor=pointer]:
+                    - /url: /categories/kardiyoloji/
+                  - link "Bacak Damar Hastalıkları" [ref=f2e303] [cursor=pointer]:
+                    - /url: /tags/bacak-damar-hastal%C4%B1klar%C4%B1/
+                  - link "Koroner Arter Hastalığı" [ref=f2e306] [cursor=pointer]:
+                    - /url: /tags/koroner-arter-hastal%C4%B1%C4%9F%C4%B1/
+                  - link "Diyabetik Ayak" [ref=f2e309] [cursor=pointer]:
+                    - /url: /tags/diyabetik-ayak/
+                  - link "Ayak Yarası" [ref=f2e312] [cursor=pointer]:
+                    - /url: /tags/ayak-yaras%C4%B1/
+                  - link "Ameliyatsız Damar Açma" [ref=f2e315] [cursor=pointer]:
+                    - /url: /tags/ameliyats%C4%B1z-damar-a%C3%A7ma/
+                  - link "Bacak Damarlarını Açma" [ref=f2e318] [cursor=pointer]:
+                    - /url: /tags/bacak-damarlar%C4%B1n%C4%B1-a%C3%A7ma/
+                  - link "Girişimsel Kardiyoloji İstanbul" [ref=f2e321] [cursor=pointer]:
+                    - /url: /tags/giri%C5%9Fimsel-kardiyoloji-istanbul/
+        - link [ref=f2e326] [cursor=pointer]:
+          - /url: /blog/
+          - button "Daha Fazla Göster" [ref=f2e327]
+      - link "Yukarı çık" [ref=f2e329] [cursor=pointer]:
+        - /url: "#the-top"
+        - text: ↑
+    - contentinfo [ref=f2e330]:
+      - navigation [ref=f2e331]:
+        - list [ref=f2e332]:
+          - listitem [ref=f2e333]:
+            - link "KVKK" [ref=f2e334] [cursor=pointer]:
+              - /url: /kvkk/
+      - paragraph [ref=f2e336]: © 2024 Doç. Dr. Habib ÇİL. Tüm hakları saklıdır.
+      - paragraph [ref=f2e338]:
+        - strong [ref=f2e339]: "Bilgilendirme:"
+        - text: Bu web sitesindeki bilgiler genel bilgilendirme amaçlıdır ve tıbbi tavsiye niteliği taşımamaktadır. Sitedeki bilgiler tanı koymak veya tedavi uygulamak amacıyla kullanılamaz. Sağlık sorunlarınız için bir sağlık kuruluşuna başvurunuz.
+      - link "WhatsApp ile iletişim" [ref=f2e340] [cursor=pointer]:
+        - /url: https://wa.me/905339454639
+      - button "Randevu Al" [ref=f2e343] [cursor=pointer]

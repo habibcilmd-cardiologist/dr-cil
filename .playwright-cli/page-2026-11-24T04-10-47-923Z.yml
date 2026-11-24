@@ -1,0 +1,330 @@
+- generic [active] [ref=f4e1]:
+  - link "↓ الانتقال إلى المحتوى الرئيسي" [ref=f4e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f4e8]:
+    - link "أ.د. حبيب جيل | أخصائي أمراض القلب" [ref=f4e10] [cursor=pointer]:
+      - /url: /ar/
+    - generic [ref=f4e17]:
+      - group [ref=f4e18]:
+        - generic "اختيار اللغة" [ref=f4e19] [cursor=pointer]: AR
+      - button "البحث في الموقع (/)" [ref=f4e24] [cursor=pointer]
+      - button "تبديل المظهر الفاتح والداكن" [ref=f4e28] [cursor=pointer]
+    - button "فتح القائمة" [ref=f4e34] [cursor=pointer]
+  - generic [ref=f4e38]:
+    - main [ref=f4e39]:
+      - generic [ref=f4e42]:
+        - generic [ref=f4e43]:
+          - generic [ref=f4e44]:
+            - generic [ref=f4e45]: أخصائي أمراض القلب التداخلية
+            - generic [ref=f4e46]: إسطنبول
+          - heading "أ.د. حبيب جيل" [level=1] [ref=f4e47]
+          - heading "نبض قلبك بين أيدٍ أمينة" [level=2] [ref=f4e48]
+          - paragraph [ref=f4e49]: خريج كلية الطب بجامعة إسطنبول جراح باشا، متخصص في أمراض القلب من جامعة أكدينيز. مع أكثر من 25 عاماً من الخبرة السريرية والمسيرة الأكاديمية، يقدم لمرضاه أحدث طرق التشخيص والعلاج.
+          - generic [ref=f4e50]:
+            - generic [ref=f4e51]:
+              - generic [ref=f4e52]: 25+
+              - generic [ref=f4e53]: سنة خبرة
+            - generic [ref=f4e54]:
+              - generic [ref=f4e55]: 20K+
+              - generic [ref=f4e56]: إجراء تداخلي
+            - generic [ref=f4e57]:
+              - generic [ref=f4e58]: 100+
+              - generic [ref=f4e59]: منشور علمي
+          - generic [ref=f4e60]:
+            - link "اسأل عبر واتساب" [ref=f4e61] [cursor=pointer]:
+              - /url: https://wa.me/905339454639
+            - button "احجز موعد" [ref=f4e64] [cursor=pointer]
+            - link "استكشف العلاجات" [ref=f4e67] [cursor=pointer]:
+              - /url: /ar/services/
+        - generic [ref=f4e68]:
+          - img "أ.د. حبيب جيل" [ref=f4e70]
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: الخبرة
+                - paragraph: طب القلب التداخلي
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: المسيرة
+                - paragraph: تميز أكاديمي
+      - region "خدمات أمراض القلب التداخلية" [ref=f4e71]:
+        - generic [ref=f4e72]:
+          - heading "خدمات أمراض القلب التداخلية" [level=2] [ref=f4e74]
+          - generic "نظرة ثلاثية الأبعاد على التركيب التشريحي للقلب" [ref=f4e76]:
+            - group "نظرة ثلاثية الأبعاد على التركيب التشريحي للقلب" [ref=f4e78]:
+              - generic [ref=f4e80]:
+                - status [ref=f4e81]: يمكنك فتح العرض ثلاثي الأبعاد متى شئت.
+                - button "تحميل نموذج القلب ثلاثي الأبعاد" [ref=f4e82] [cursor=pointer]
+          - generic [ref=f4e83]:
+            - group [ref=f4e84]:
+              - generic "💙 التداخلات التاجية" [ref=f4e85] [cursor=pointer]:
+                - generic [ref=f4e86]: 💙
+                - generic [ref=f4e87]: التداخلات التاجية
+            - group [ref=f4e90]:
+              - generic "💚 التداخلات الطرفية" [ref=f4e91] [cursor=pointer]:
+                - generic [ref=f4e92]: 💚
+                - generic [ref=f4e93]: التداخلات الطرفية
+            - group [ref=f4e96]:
+              - generic "💜 تداخلات القلب الهيكلية" [ref=f4e97] [cursor=pointer]:
+                - generic [ref=f4e98]: 💜
+                - generic [ref=f4e99]: تداخلات القلب الهيكلية
+          - link "احجز عبر واتساب" [ref=f4e103] [cursor=pointer]:
+            - /url: https://wa.me/905339454639
+      - generic [ref=f4e108]:
+        - generic [ref=f4e109]:
+          - heading [level=2] [ref=f4e110]:
+            - text: جميع فئات الخدمات
+            - link "رابط" [ref=f4e112] [cursor=pointer]:
+              - /url: "#%d8%ac%d9%85%d9%8a%d8%b9-%d9%81%d8%a6%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa"
+              - text: "#"
+          - paragraph [ref=f4e113]: جميع فئات الخدمات المقدمة في مجال أمراض القلب
+          - generic [ref=f4e114]:
+            - link "🔧 أمراض القلب التداخلية التدخلات التاجية، التدخلات المحيطية، تدخلات أمراض القلب البنيوية" [ref=f4e115] [cursor=pointer]:
+              - /url: /ar/services/#interventional-cardiology
+              - generic [ref=f4e116]: 🔧
+              - heading "أمراض القلب التداخلية" [level=4] [ref=f4e117]
+              - paragraph [ref=f4e118]: التدخلات التاجية، التدخلات المحيطية، تدخلات أمراض القلب البنيوية
+            - link "🫀 طب القلب السريري الوقاية من أمراض القلب التاجية، ارتفاع ضغط الدم، فرط شحوم الدم، علاج قصور القلب، العلاج الطبي للرجفان الأذيني" [ref=f4e119] [cursor=pointer]:
+              - /url: /ar/services/#clinical-cardiology
+              - generic [ref=f4e120]: 🫀
+              - heading "طب القلب السريري" [level=4] [ref=f4e121]
+              - paragraph [ref=f4e122]: الوقاية من أمراض القلب التاجية، ارتفاع ضغط الدم، فرط شحوم الدم، علاج قصور القلب، العلاج الطبي للرجفان الأذيني
+            - link "⚡ جهاز تنظيم ضربات القلب والفيزيولوجيا الكهربية جهاز تنظيم ضربات القلب، ICD، علاجات الاستئصال" [ref=f4e123] [cursor=pointer]:
+              - /url: /ar/services/#pacemaker-electrophysiology
+              - generic [ref=f4e124]: ⚡
+              - heading "جهاز تنظيم ضربات القلب والفيزيولوجيا الكهربية" [level=4] [ref=f4e125]
+              - paragraph [ref=f4e126]: جهاز تنظيم ضربات القلب، ICD، علاجات الاستئصال
+            - link "🩺 الإجراءات التشخيصية تصوير الأوعية، تخطيط القلب، تخطيط صدى القلب، هولتر" [ref=f4e127] [cursor=pointer]:
+              - /url: /ar/services/#diagnostic-procedures
+              - generic [ref=f4e128]: 🩺
+              - heading "الإجراءات التشخيصية" [level=4] [ref=f4e129]
+              - paragraph [ref=f4e130]: تصوير الأوعية، تخطيط القلب، تخطيط صدى القلب، هولتر
+          - link "📋 عرض جميع الخدمات" [ref=f4e132] [cursor=pointer]:
+            - /url: /ar/services/
+            - generic [ref=f4e133]: 📋
+            - generic [ref=f4e134]: عرض جميع الخدمات
+        - region "جميع الخدمات الطبية" [ref=f4e135]:
+          - generic [ref=f4e136]:
+            - generic [ref=f4e137]:
+              - heading "جميع الخدمات الطبية" [level=2] [ref=f4e138]
+              - paragraph [ref=f4e139]: رعاية شاملة للقلب والأوعية الدموية مع إجراءات تدخلية متقدمة
+            - generic [ref=f4e140]:
+              - generic [ref=f4e141]: ❤️
+              - paragraph [ref=f4e142]: جارٍ تحميل الخدمات...
+        - separator [ref=f4e143]
+        - heading [level=3] [ref=f4e144]:
+          - text: الموعد
+          - link "رابط" [ref=f4e146] [cursor=pointer]:
+            - /url: "#%d8%a7%d9%84%d9%85%d9%88%d8%b9%d8%af"
+            - text: "#"
+        - generic [ref=f4e147]:
+          - generic [ref=f4e152]:
+            - heading "د. حبيب جيل" [level=3] [ref=f4e153]
+            - paragraph [ref=f4e154]: أخصائي أمراض القلب التدخلي
+          - generic [ref=f4e155]:
+            - link "موعد موقع الطبيب" [ref=f4e156] [cursor=pointer]:
+              - /url: https://www.doktorsitesi.com/doc-dr-habib-cil/kardiyoloji/istanbul
+              - generic [ref=f4e160]:
+                - generic [ref=f4e161]: موعد
+                - generic [ref=f4e162]: موقع الطبيب
+            - link "موعد تقويم الطبيب" [ref=f4e165] [cursor=pointer]:
+              - /url: https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul
+              - generic [ref=f4e169]:
+                - generic [ref=f4e170]: موعد
+                - generic [ref=f4e171]: تقويم الطبيب
+            - 'link "0212 665 50 50 اتصل (التحويلة: 4012)" [ref=f4e174] [cursor=pointer]':
+              - /url: tel:+902126655050
+              - generic [ref=f4e178]:
+                - generic [ref=f4e179]: 0212 665 50 50
+                - generic [ref=f4e180]: "اتصل (التحويلة: 4012)"
+            - link "أرسل رسالة - اسأل WhatsApp" [ref=f4e181] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send/?phone=905339454639&text&type=phone_number&app_absent=0
+              - generic [ref=f4e185]:
+                - generic [ref=f4e186]: أرسل رسالة - اسأل
+                - generic [ref=f4e187]: WhatsApp
+        - link "تواصل عبر واتساب" [ref=f4e190] [cursor=pointer]:
+          - /url: https://wa.me/905339454639
+          - generic [ref=f4e191]: 💬
+      - generic [ref=f4e192]:
+        - heading "المقالات الأخيرة" [level=2] [ref=f4e193]
+        - generic [ref=f4e194]:
+          - article [ref=f4e195]:
+            - generic [ref=f4e196]:
+              - img "ما هو مرض الشرايين المحيطية؟ الأعراض والتشخيص والعلاج"
+            - generic [ref=f4e197]:
+              - link [ref=f4e199] [cursor=pointer]:
+                - /url: /ar/blog/peripheral-artery-disease/
+                - heading "ما هو مرض الشرايين المحيطية؟ الأعراض والتشخيص والعلاج" [level=2] [ref=f4e200]
+              - generic [ref=f4e201]:
+                - generic [ref=f4e202]:
+                  - time [ref=f4e203]: 19 ديسمبر 2025
+                  - generic [ref=f4e204]: ·
+                  - generic "وقت القراءة" [ref=f4e205]: 9 دقيقة
+                - generic [ref=f4e206]:
+                  - link "أمراض القلب" [ref=f4e207] [cursor=pointer]:
+                    - /url: /ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8/
+                  - link "أمراض الأوعية الدموية المحيطية" [ref=f4e210] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D9%8A%D8%A9/
+                  - link "أمراض الشرايين التاجية" [ref=f4e213] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A%D8%A9/
+          - article [ref=f4e217]:
+            - generic [ref=f4e218]:
+              - 'img "جلطة الأوردة العميقة (DVT): الأعراض والأسباب والعلاج"'
+            - generic [ref=f4e219]:
+              - link [ref=f4e221] [cursor=pointer]:
+                - /url: /ar/blog/deep-vein-thrombosis/
+                - 'heading "جلطة الأوردة العميقة (DVT): الأعراض والأسباب والعلاج" [level=2] [ref=f4e222]'
+              - generic [ref=f4e223]:
+                - generic [ref=f4e224]:
+                  - time [ref=f4e225]: 18 ديسمبر 2025
+                  - generic [ref=f4e226]: ·
+                  - generic "وقت القراءة" [ref=f4e227]: 5 دقيقة
+                - generic [ref=f4e228]:
+                  - link "أمراض الأوردة" [ref=f4e229] [cursor=pointer]:
+                    - /url: /ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D8%AF%D8%A9/
+                  - link "جلطة الأوردة العميقة" [ref=f4e232] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%AC%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82%D8%A9/
+                  - link "فتح شرايين الساق" [ref=f4e235] [cursor=pointer]:
+                    - /url: /ar/tags/%D9%81%D8%AA%D8%AD-%D8%B4%D8%B1%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D8%A7%D9%82/
+                  - link "علاج الأوعية الدموية بدون جراحة" [ref=f4e238] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9/
+                  - link "طب القلب التداخلي إسطنبول" [ref=f4e241] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%B7%D8%A8-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84/
+                  - link "علاج الجلطة" [ref=f4e244] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%AC%D9%84%D8%B7%D8%A9/
+                  - link "الانسداد الرئوي" [ref=f4e247] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%B1%D8%A6%D9%88%D9%8A/
+          - article [ref=f4e251]:
+            - generic [ref=f4e252]:
+              - img "ما هي القدم السكرية؟ الأعراض والعلاج وطرق الوقاية"
+            - generic [ref=f4e253]:
+              - link [ref=f4e255] [cursor=pointer]:
+                - /url: /ar/blog/diabetic-foot/
+                - heading "ما هي القدم السكرية؟ الأعراض والعلاج وطرق الوقاية" [level=2] [ref=f4e256]
+              - generic [ref=f4e257]:
+                - generic [ref=f4e258]:
+                  - time [ref=f4e259]: 17 ديسمبر 2025
+                  - generic [ref=f4e260]: ·
+                  - generic "وقت القراءة" [ref=f4e261]: 18 دقيقة
+                - generic [ref=f4e262]:
+                  - link "أمراض القلب" [ref=f4e263] [cursor=pointer]:
+                    - /url: /ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8/
+                  - link "أمراض الأوعية الدموية المحيطية" [ref=f4e266] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D9%8A%D8%A9/
+                  - link "أمراض الشرايين التاجية" [ref=f4e269] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A%D8%A9/
+          - article [ref=f4e273]:
+            - generic [ref=f4e274]:
+              - 'img "القصور الوريدي والدوالي: الأعراض، الأسباب والعلاج بدون جراحة"'
+            - generic [ref=f4e275]:
+              - link [ref=f4e277] [cursor=pointer]:
+                - /url: /ar/blog/venous-insufficiency/
+                - 'heading "القصور الوريدي والدوالي: الأعراض، الأسباب والعلاج بدون جراحة" [level=2] [ref=f4e278]'
+              - generic [ref=f4e279]:
+                - generic [ref=f4e280]:
+                  - time [ref=f4e281]: 15 ديسمبر 2025
+                  - generic [ref=f4e282]: ·
+                  - generic "وقت القراءة" [ref=f4e283]: 4 دقيقة
+                - generic [ref=f4e284]:
+                  - link "الأمراض الوريدية" [ref=f4e285] [cursor=pointer]:
+                    - /url: /ar/categories/%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9/
+                  - link "الدوالي" [ref=f4e288] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84%D9%8A/
+                  - link "القصور الوريدي" [ref=f4e291] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A7%D9%84%D9%82%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A/
+                  - link "علاج الدوالي بالليزر" [ref=f4e294] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D9%84%D9%8A%D8%B2%D8%B1/
+                  - link "التصليب الرغوي" [ref=f4e297] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A7%D9%84%D8%AA%D8%B5%D9%84%D9%8A%D8%A8-%D8%A7%D9%84%D8%B1%D8%BA%D9%88%D9%8A/
+                  - link "تورم الساق" [ref=f4e300] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%AA%D9%88%D8%B1%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D9%82/
+                  - link "تضخم الأوردة" [ref=f4e303] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%AA%D8%B6%D8%AE%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D8%AF%D8%A9/
+          - article [ref=f4e307]:
+            - generic [ref=f4e308]:
+              - 'img "تمدد الأوعية الدموية الأبهري البطني (AAA): الأعراض والمخاطر والعلاج"'
+            - generic [ref=f4e309]:
+              - link [ref=f4e311] [cursor=pointer]:
+                - /url: /ar/blog/abdominal-aortic-aneurysm/
+                - 'heading "تمدد الأوعية الدموية الأبهري البطني (AAA): الأعراض والمخاطر والعلاج" [level=2] [ref=f4e312]'
+              - generic [ref=f4e313]:
+                - generic [ref=f4e314]:
+                  - time [ref=f4e315]: 14 ديسمبر 2025
+                  - generic [ref=f4e316]: ·
+                  - generic "وقت القراءة" [ref=f4e317]: 4 دقيقة
+                - generic [ref=f4e318]:
+                  - link "أمراض الأوعية الدموية" [ref=f4e319] [cursor=pointer]:
+                    - /url: /ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9/
+                  - link "تمدد الأوعية الدموية الأبهري البطني" [ref=f4e322] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%AA%D9%85%D8%AF%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D9%87%D8%B1%D9%8A-%D8%A7%D9%84%D8%A8%D8%B7%D9%86%D9%8A/
+                  - link "AAA" [ref=f4e325] [cursor=pointer]:
+                    - /url: /ar/tags/aaa/
+                  - link "تمزق الأبهري" [ref=f4e328] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%AA%D9%85%D8%B2%D9%82-%D8%A7%D9%84%D8%A3%D8%A8%D9%87%D8%B1%D9%8A/
+                  - link "EVAR" [ref=f4e331] [cursor=pointer]:
+                    - /url: /ar/tags/evar/
+                  - link "تضخم الأوعية الدموية" [ref=f4e334] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%AA%D8%B6%D8%AE%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9/
+                  - link "أمراض القلب التداخلية إسطنبول" [ref=f4e337] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84/
+          - article [ref=f4e341]:
+            - generic [ref=f4e342]:
+              - 'img "مرض شريان الأطراف السفلية: أعراض انسداد شرايين الساق وعلاجه"'
+            - generic [ref=f4e343]:
+              - link [ref=f4e345] [cursor=pointer]:
+                - /url: /ar/blog/lower-extremity-arterial-disease/
+                - 'heading "مرض شريان الأطراف السفلية: أعراض انسداد شرايين الساق وعلاجه" [level=2] [ref=f4e346]'
+              - generic [ref=f4e347]:
+                - generic [ref=f4e348]:
+                  - time [ref=f4e349]: 13 ديسمبر 2025
+                  - generic [ref=f4e350]: ·
+                  - generic "وقت القراءة" [ref=f4e351]: 4 دقيقة
+                - generic [ref=f4e352]:
+                  - link "أمراض الأوعية الدموية" [ref=f4e353] [cursor=pointer]:
+                    - /url: /ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9/
+                  - link "مرض شريان الأطراف السفلية" [ref=f4e356] [cursor=pointer]:
+                    - /url: /ar/tags/%D9%85%D8%B1%D8%B6-%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B3%D9%81%D9%84%D9%8A%D8%A9/
+                  - link "انسداد شريان الساق" [ref=f4e359] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A7%D9%86%D8%B3%D8%AF%D8%A7%D8%AF-%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D8%A7%D9%82/
+                  - link "ألم المشي" [ref=f4e362] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A3%D9%84%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D9%8A/
+                  - link "العرج المتقطع" [ref=f4e365] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%A7%D9%84%D8%B9%D8%B1%D8%AC-%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%B7%D8%B9/
+                  - link "مرض الشريان المحيطي" [ref=f4e368] [cursor=pointer]:
+                    - /url: /ar/tags/%D9%85%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D9%8A/
+                  - link "رأب الأوعية" [ref=f4e371] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%B1%D8%A3%D8%A8-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9/
+                  - link "دعامة" [ref=f4e374] [cursor=pointer]:
+                    - /url: /ar/tags/%D8%AF%D8%B9%D8%A7%D9%85%D8%A9/
+        - link [ref=f4e379] [cursor=pointer]:
+          - /url: /ar/blog
+          - button "عرض المزيد" [ref=f4e380]
+      - link "العودة إلى الأعلى" [ref=f4e382] [cursor=pointer]:
+        - /url: "#the-top"
+        - text: ↑
+    - contentinfo [ref=f4e383]:
+      - navigation [ref=f4e384]:
+        - list [ref=f4e385]:
+          - listitem [ref=f4e386]:
+            - link "حول" [ref=f4e387] [cursor=pointer]:
+              - /url: /ar/about/
+          - listitem [ref=f4e388]:
+            - link "الخدمات" [ref=f4e389] [cursor=pointer]:
+              - /url: /ar/services/
+          - listitem [ref=f4e390]:
+            - link "المدونة" [ref=f4e391] [cursor=pointer]:
+              - /url: /ar/blog/
+          - listitem [ref=f4e392]:
+            - link "اتصل بنا" [ref=f4e393] [cursor=pointer]:
+              - /url: /ar/contact/
+          - listitem [ref=f4e394]:
+            - link "سياسة الخصوصية" [ref=f4e395] [cursor=pointer]:
+              - /url: /ar/privacy/
+      - paragraph [ref=f4e397]: © 2024 أ.د. حبيب جيل. جميع الحقوق محفوظة.
+      - paragraph [ref=f4e399]:
+        - strong [ref=f4e400]: "معلومات طبية:"
+        - text: المعلومات الواردة في هذا الموقع لأغراض التوعية العامة فقط ولا تشكل نصيحة طبية. لا يمكن استخدام المحتوى للتشخيص أو العلاج. يُرجى مراجعة مؤسسة صحية بشأن مشاكلك الصحية.
+      - link "التواصل عبر واتساب" [ref=f4e401] [cursor=pointer]:
+        - /url: https://wa.me/905339454639
+      - button "حجز موعد" [ref=f4e404] [cursor=pointer]

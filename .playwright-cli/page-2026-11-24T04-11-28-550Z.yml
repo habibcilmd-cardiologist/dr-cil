@@ -1,0 +1,57 @@
+- generic [active] [ref=f5e1]:
+  - link "↓ الانتقال إلى المحتوى الرئيسي" [ref=f5e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f5e8]:
+    - link "أ.د. حبيب جيل | أخصائي أمراض القلب" [ref=f5e10] [cursor=pointer]:
+      - /url: /ar/
+    - generic [ref=f5e17]:
+      - group [ref=f5e18]:
+        - generic "اختيار اللغة" [ref=f5e19] [cursor=pointer]: AR
+      - button "البحث في الموقع (/)" [ref=f5e24] [cursor=pointer]
+      - button "تبديل المظهر الفاتح والداكن" [ref=f5e28] [cursor=pointer]
+    - button "فتح القائمة" [ref=f5e34] [cursor=pointer]
+  - generic [ref=f5e38]:
+    - main [ref=f5e39]:
+      - article [ref=f5e40]:
+        - generic [aria-hidden] [ref=f5e41]: 🏥
+        - heading "الصفحة غير موجودة" [level=1] [ref=f5e42]
+        - paragraph [ref=f5e43]: الصفحة التي تبحث عنها غير موجودة أو ربما تم نقلها.
+        - generic [ref=f5e44]:
+          - link "العودة إلى الصفحة الرئيسية" [ref=f5e45] [cursor=pointer]:
+            - /url: /ar/
+          - link "التواصل" [ref=f5e46] [cursor=pointer]:
+            - /url: /ar/contact/
+        - paragraph [ref=f5e48]:
+          - strong [ref=f5e49]: خيارات التواصل
+          - link "+90 533 945 46 39" [ref=f5e50] [cursor=pointer]:
+            - /url: tel:+905339454639
+          - link "التواصل عبر واتساب" [ref=f5e51] [cursor=pointer]:
+            - /url: https://wa.me/905339454639
+      - link "العودة إلى الأعلى" [ref=f5e53] [cursor=pointer]:
+        - /url: "#the-top"
+        - text: ↑
+    - contentinfo [ref=f5e54]:
+      - navigation [ref=f5e55]:
+        - list [ref=f5e56]:
+          - listitem [ref=f5e57]:
+            - link "حول" [ref=f5e58] [cursor=pointer]:
+              - /url: /ar/about/
+          - listitem [ref=f5e59]:
+            - link "الخدمات" [ref=f5e60] [cursor=pointer]:
+              - /url: /ar/services/
+          - listitem [ref=f5e61]:
+            - link "المدونة" [ref=f5e62] [cursor=pointer]:
+              - /url: /ar/blog/
+          - listitem [ref=f5e63]:
+            - link "اتصل بنا" [ref=f5e64] [cursor=pointer]:
+              - /url: /ar/contact/
+          - listitem [ref=f5e65]:
+            - link "سياسة الخصوصية" [ref=f5e66] [cursor=pointer]:
+              - /url: /ar/privacy/
+      - paragraph [ref=f5e68]: © 2024 أ.د. حبيب جيل. جميع الحقوق محفوظة.
+      - paragraph [ref=f5e70]:
+        - strong [ref=f5e71]: "معلومات طبية:"
+        - text: المعلومات الواردة في هذا الموقع لأغراض التوعية العامة فقط ولا تشكل نصيحة طبية. لا يمكن استخدام المحتوى للتشخيص أو العلاج. يُرجى مراجعة مؤسسة صحية بشأن مشاكلك الصحية.
+      - link "التواصل عبر واتساب" [ref=f5e72] [cursor=pointer]:
+        - /url: https://wa.me/905339454639
+      - button "حجز موعد" [ref=f5e75] [cursor=pointer]

@@ -1,0 +1,282 @@
+- generic [active] [ref=f3e1]:
+  - link "↓ Skip to main content" [ref=f3e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f3e8]:
+    - link "Assoc. Prof. Dr. Habib ÇİL | Cardiologist" [ref=f3e10] [cursor=pointer]:
+      - /url: /en/
+    - navigation "Navigation" [ref=f3e17]:
+      - link "About" [ref=f3e18] [cursor=pointer]:
+        - /url: /en/about/
+        - paragraph [ref=f3e19]: About
+      - link "Services" [ref=f3e20] [cursor=pointer]:
+        - /url: /en/services/
+        - paragraph [ref=f3e21]: Services
+      - link "Clinic" [ref=f3e22] [cursor=pointer]:
+        - /url: /en/clinic/
+        - paragraph [ref=f3e23]: Clinic
+      - link "Publications" [ref=f3e24] [cursor=pointer]:
+        - /url: /en/publications/
+        - paragraph [ref=f3e25]: Publications
+      - link "Blog" [ref=f3e26] [cursor=pointer]:
+        - /url: /en/blog/
+        - paragraph [ref=f3e27]: Blog
+      - link "Contact" [ref=f3e28] [cursor=pointer]:
+        - /url: /en/contact/
+        - paragraph [ref=f3e29]: Contact
+      - group [ref=f3e30]:
+        - generic "Choose language" [ref=f3e31] [cursor=pointer]: EN
+      - button "Search this site (/)" [ref=f3e36] [cursor=pointer]
+      - button "Switch light/dark appearance" [ref=f3e41] [cursor=pointer]
+  - generic [ref=f3e46]:
+    - main [ref=f3e47]:
+      - generic [ref=f3e50]:
+        - generic [ref=f3e51]:
+          - generic [ref=f3e52]:
+            - generic [ref=f3e53]: Interventional Cardiologist
+            - generic [ref=f3e54]: Istanbul
+          - heading "Assoc. Prof. Dr. Habib ÇİL" [level=1] [ref=f3e55]
+          - heading "Your Heartbeat In Safe Hands" [level=2] [ref=f3e56]
+          - paragraph [ref=f3e57]: Graduate of Istanbul University Cerrahpaşa Faculty of Medicine, specialized in Cardiology at Akdeniz University. With over 25 years of clinical experience and academic career, providing patients with the most up-to-date diagnostic and treatment methods.
+          - generic [ref=f3e58]:
+            - generic [ref=f3e59]:
+              - generic [ref=f3e60]: 25+
+              - generic [ref=f3e61]: Years Experience
+            - generic [ref=f3e62]:
+              - generic [ref=f3e63]: 20K+
+              - generic [ref=f3e64]: Invasive Procedures
+            - generic [ref=f3e65]:
+              - generic [ref=f3e66]: 100+
+              - generic [ref=f3e67]: Publications
+          - generic [ref=f3e68]:
+            - link "Ask via WhatsApp" [ref=f3e69] [cursor=pointer]:
+              - /url: https://wa.me/905339454639
+            - button "Book Appointment" [ref=f3e72] [cursor=pointer]
+            - link "Explore Treatments" [ref=f3e75] [cursor=pointer]:
+              - /url: /en/services/
+        - generic [ref=f3e76]:
+          - img "Assoc. Prof. Dr. Habib ÇİL" [ref=f3e78]
+          - generic [ref=f3e84]:
+            - paragraph [ref=f3e85]: Expertise
+            - paragraph [ref=f3e86]: Interventional Cardiology
+          - generic [ref=f3e93]:
+            - paragraph [ref=f3e94]: Career
+            - paragraph [ref=f3e95]: Academic Excellence
+      - region "Interventional Cardiology Services" [ref=f3e96]:
+        - generic [ref=f3e97]:
+          - heading "Interventional Cardiology Services" [level=2] [ref=f3e99]
+          - generic [ref=f3e100]:
+            - generic "A three-dimensional view of the heart's anatomical structure" [ref=f3e101]:
+              - group "A three-dimensional view of the heart's anatomical structure" [ref=f3e103]:
+                - generic [ref=f3e105]:
+                  - status [ref=f3e106]: You can open the 3D view when you choose.
+                  - button "Load 3D heart model" [ref=f3e107] [cursor=pointer]
+            - 'img "Interventional Cardiology Services Diagram Interactive diagram showing three main branches: Coronary Interventions, Peripheral Interventions, and Structural Heart Disease Interventions" [ref=f3e110]':
+              - generic [ref=f3e115]: Interventional Cardiology
+              - button "Coronary Interventions" [ref=f3e125] [cursor=pointer]
+              - generic [ref=f3e130]:
+                - link "Left main coronary interventions" [ref=f3e131] [cursor=pointer]:
+                  - /url: /en/services/left-main-coronary-stent/
+                - link "Bifurcation interventions" [ref=f3e135] [cursor=pointer]:
+                  - /url: /en/services/bifurcation-intervention/
+                - link "Chronic total occlusion (CTO)" [ref=f3e139] [cursor=pointer]:
+                  - /url: /en/services/cto-intervention/
+                - link "Coronary fistula treatment" [ref=f3e143] [cursor=pointer]:
+                  - /url: /en/services/coronary-fistula-treatment/
+                - 'link "IVUS: Intravascular ultrasound" [ref=f3e147] [cursor=pointer]':
+                  - /url: /en/services/ivus/
+                - 'link "FFR: Stenosis assessment" [ref=f3e151] [cursor=pointer]':
+                  - /url: /en/services/ffr/
+              - button "Peripheral Interventions" [ref=f3e155] [cursor=pointer]
+              - generic [ref=f3e160]:
+                - link "Carotid artery stenting" [ref=f3e161] [cursor=pointer]:
+                  - /url: /en/services/carotid-stenosis/
+                - link "Renal artery stenosis treatment" [ref=f3e165] [cursor=pointer]:
+                  - /url: /en/services/renal-artery-stenosis/
+                - link "Aortic aneurysm treatment" [ref=f3e169] [cursor=pointer]:
+                  - /url: /en/services/evar-tevar/
+                - link "Dialysis fistula occlusion" [ref=f3e173] [cursor=pointer]:
+                  - /url: /en/services/dialysis-fistula-treatment/
+                - link "Iliac artery occlusion" [ref=f3e177] [cursor=pointer]:
+                  - /url: /en/services/iliac-artery-treatment/
+                - link "Above-knee vessel occlusion" [ref=f3e181] [cursor=pointer]:
+                  - /url: /en/services/above-knee-arterial-disease/
+                - link "Below-knee vessel occlusion" [ref=f3e185] [cursor=pointer]:
+                  - /url: /en/services/below-knee-arterial-disease/
+              - button "Structural Heart Interventions" [ref=f3e189] [cursor=pointer]
+              - generic [ref=f3e194]:
+                - link "Congenital heart defect closure" [ref=f3e195] [cursor=pointer]:
+                  - /url: /en/services/heart-hole-closure/
+                - link "HOCM treatment (Septal ablation)" [ref=f3e199] [cursor=pointer]:
+                  - /url: /en/services/alcohol-septal-ablation/
+                - link "Mitral balloon valvuloplasty" [ref=f3e203] [cursor=pointer]:
+                  - /url: /en/services/mitral-balloon-valvuloplasty/
+                - 'link "TAVI: Aortic stenosis treatment" [ref=f3e207] [cursor=pointer]':
+                  - /url: /en/services/tavi/
+                - 'link "MitraClip: Mitral regurgitation" [ref=f3e211] [cursor=pointer]':
+                  - /url: /en/services/mitraclip/
+                - link "Tricuspid valve treatment" [ref=f3e215] [cursor=pointer]:
+                  - /url: /en/services/tricuspid-valve/
+          - link "Ask a question via WhatsApp" [ref=f3e220] [cursor=pointer]:
+            - /url: https://wa.me/905339454639
+      - generic [ref=f3e225]:
+        - generic [ref=f3e226]:
+          - heading [level=2] [ref=f3e227]:
+            - text: All Service Categories
+            - link "Anchor" [ref=f3e229] [cursor=pointer]:
+              - /url: "#all-service-categories"
+              - text: "#"
+          - paragraph [ref=f3e230]: All service categories offered in the field of cardiology
+          - generic [ref=f3e231]:
+            - link "🔧 Interventional Cardiology Coronary interventions, Peripheral interventions, Structural heart disease interventions" [ref=f3e232] [cursor=pointer]:
+              - /url: /en/services/#interventional-cardiology
+              - generic [ref=f3e233]: 🔧
+              - heading "Interventional Cardiology" [level=4] [ref=f3e234]
+              - paragraph [ref=f3e235]: Coronary interventions, Peripheral interventions, Structural heart disease interventions
+            - link "🫀 Clinical Cardiology Prevention of Coronary Heart Disease, Hypertension, Hyperlipidemia, Treatment of Heart Failure, Medical Treatment of Atrial Fibrillation" [ref=f3e236] [cursor=pointer]:
+              - /url: /en/services/#clinical-cardiology
+              - generic [ref=f3e237]: 🫀
+              - heading "Clinical Cardiology" [level=4] [ref=f3e238]
+              - paragraph [ref=f3e239]: Prevention of Coronary Heart Disease, Hypertension, Hyperlipidemia, Treatment of Heart Failure, Medical Treatment of Atrial Fibrillation
+            - link "⚡ Pacemaker & Electrophysiology Pacemaker, ICD, ablation therapies" [ref=f3e240] [cursor=pointer]:
+              - /url: /en/services/#pacemaker-electrophysiology
+              - generic [ref=f3e241]: ⚡
+              - heading "Pacemaker & Electrophysiology" [level=4] [ref=f3e242]
+              - paragraph [ref=f3e243]: Pacemaker, ICD, ablation therapies
+            - link "🩺 Diagnostic Procedures Angiography, EKG, echocardiography, holter" [ref=f3e244] [cursor=pointer]:
+              - /url: /en/services/#diagnostic-procedures
+              - generic [ref=f3e245]: 🩺
+              - heading "Diagnostic Procedures" [level=4] [ref=f3e246]
+              - paragraph [ref=f3e247]: Angiography, EKG, echocardiography, holter
+          - link "📋 View All Services" [ref=f3e249] [cursor=pointer]:
+            - /url: /en/services/
+            - generic [ref=f3e250]: 📋
+            - generic [ref=f3e251]: View All Services
+        - region "All Medical Services" [ref=f3e252]:
+          - generic [ref=f3e253]:
+            - generic [ref=f3e254]:
+              - heading "All Medical Services" [level=2] [ref=f3e255]
+              - paragraph [ref=f3e256]: Comprehensive cardiovascular care with advanced interventional procedures
+            - generic [ref=f3e257]:
+              - generic [ref=f3e258]: ❤️
+              - paragraph [ref=f3e259]: Loading Services...
+        - separator [ref=f3e260]
+        - heading [level=3] [ref=f3e261]:
+          - text: Appointment
+          - link "Anchor" [ref=f3e263] [cursor=pointer]:
+            - /url: "#appointment"
+            - text: "#"
+        - generic [ref=f3e264]:
+          - generic [ref=f3e269]:
+            - heading "Assoc. Prof. Habib ÇİL" [level=3] [ref=f3e270]
+            - paragraph [ref=f3e271]: Interventional Cardiology Specialist
+          - generic [ref=f3e272]:
+            - link "APPOINTMENT Doctor Site" [ref=f3e273] [cursor=pointer]:
+              - /url: https://www.doktorsitesi.com/doc-dr-habib-cil/kardiyoloji/istanbul
+              - generic [ref=f3e277]:
+                - generic [ref=f3e278]: APPOINTMENT
+                - generic [ref=f3e279]: Doctor Site
+            - link "APPOINTMENT Doctor Calendar" [ref=f3e282] [cursor=pointer]:
+              - /url: https://www.doktortakvimi.com/habib-cil/kardiyoloji/istanbul
+              - generic [ref=f3e286]:
+                - generic [ref=f3e287]: APPOINTMENT
+                - generic [ref=f3e288]: Doctor Calendar
+            - 'link "0212 665 50 50 Call (Ext: 4012)" [ref=f3e291] [cursor=pointer]':
+              - /url: tel:+902126655050
+              - generic [ref=f3e295]:
+                - generic [ref=f3e296]: 0212 665 50 50
+                - generic [ref=f3e297]: "Call (Ext: 4012)"
+            - link "MESSAGE - ASK WhatsApp" [ref=f3e298] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send/?phone=905339454639&text&type=phone_number&app_absent=0
+              - generic [ref=f3e302]:
+                - generic [ref=f3e303]: MESSAGE - ASK
+                - generic [ref=f3e304]: WhatsApp
+        - link "Contact via WhatsApp" [ref=f3e307] [cursor=pointer]:
+          - /url: https://wa.me/905339454639
+          - generic [ref=f3e308]: 💬
+      - generic [ref=f3e309]:
+        - heading "Recent" [level=2] [ref=f3e310]
+        - generic [ref=f3e311]:
+          - article [ref=f3e312]:
+            - generic [ref=f3e313]:
+              - img "What is Peripheral Artery Disease? Symptoms, Diagnosis, and Treatment"
+            - generic [ref=f3e314]:
+              - link [ref=f3e316] [cursor=pointer]:
+                - /url: /en/blog/what-is-peripheral-artery-disease-symptoms-diagnosis-and-treatment/
+                - heading "What is Peripheral Artery Disease? Symptoms, Diagnosis, and Treatment" [level=2] [ref=f3e317]
+              - generic [ref=f3e318]:
+                - generic [ref=f3e319]:
+                  - time [ref=f3e320]: December 19, 2025
+                  - generic [ref=f3e321]: ·
+                  - generic "Reading time" [ref=f3e322]: 9 mins
+                - generic [ref=f3e323]:
+                  - link "Cardiology" [ref=f3e324] [cursor=pointer]:
+                    - /url: /en/categories/cardiology/
+                  - link "Coronary Artery Disease" [ref=f3e327] [cursor=pointer]:
+                    - /url: /en/tags/coronary-artery-disease/
+                  - link "Peripheral Vascular Disease" [ref=f3e330] [cursor=pointer]:
+                    - /url: /en/tags/peripheral-vascular-disease/
+          - article [ref=f3e334]:
+            - generic [ref=f3e335]:
+              - 'img "Deep Vein Thrombosis (DVT): Symptoms, Causes, and Treatment Options"'
+            - generic [ref=f3e336]:
+              - link [ref=f3e338] [cursor=pointer]:
+                - /url: /en/blog/deep-vein-thrombosis-dvt-symptoms-causes-and-treatment-options/
+                - 'heading "Deep Vein Thrombosis (DVT): Symptoms, Causes, and Treatment Options" [level=2] [ref=f3e339]'
+              - generic [ref=f3e340]:
+                - generic [ref=f3e341]:
+                  - time [ref=f3e342]: December 18, 2025
+                  - generic [ref=f3e343]: ·
+                  - generic "Reading time" [ref=f3e344]: 6 mins
+                - generic [ref=f3e345]:
+                  - link "Venous Diseases" [ref=f3e346] [cursor=pointer]:
+                    - /url: /en/categories/venous-diseases/
+                  - link "Deep Vein Thrombosis" [ref=f3e349] [cursor=pointer]:
+                    - /url: /en/tags/deep-vein-thrombosis/
+                  - link "Leg Vein Clearance" [ref=f3e352] [cursor=pointer]:
+                    - /url: /en/tags/leg-vein-clearance/
+                  - link "Non-Surgical Vein Treatment" [ref=f3e355] [cursor=pointer]:
+                    - /url: /en/tags/non-surgical-vein-treatment/
+                  - link "Interventional Cardiology Istanbul" [ref=f3e358] [cursor=pointer]:
+                    - /url: /en/tags/interventional-cardiology-istanbul/
+                  - link "Clot Treatment" [ref=f3e361] [cursor=pointer]:
+                    - /url: /en/tags/clot-treatment/
+                  - link "Pulmonary Embolism" [ref=f3e364] [cursor=pointer]:
+                    - /url: /en/tags/pulmonary-embolism/
+          - article [ref=f3e368]:
+            - generic [ref=f3e369]:
+              - img "What is Diabetic Foot? Symptoms, Treatment, and Prevention Methods"
+            - generic [ref=f3e370]:
+              - link [ref=f3e372] [cursor=pointer]:
+                - /url: /en/blog/what-is-diabetic-foot-symptoms-treatment-and-prevention-methods/
+                - heading "What is Diabetic Foot? Symptoms, Treatment, and Prevention Methods" [level=2] [ref=f3e373]
+              - generic [ref=f3e374]:
+                - generic [ref=f3e375]:
+                  - time [ref=f3e376]: December 17, 2025
+                  - generic [ref=f3e377]: ·
+                  - generic "Reading time" [ref=f3e378]: 17 mins
+                - generic [ref=f3e379]:
+                  - link "Cardiology" [ref=f3e380] [cursor=pointer]:
+                    - /url: /en/categories/cardiology/
+                  - link "Coronary Artery Disease" [ref=f3e383] [cursor=pointer]:
+                    - /url: /en/tags/coronary-artery-disease/
+                  - link "Peripheral Vascular Disease" [ref=f3e386] [cursor=pointer]:
+                    - /url: /en/tags/peripheral-vascular-disease/
+        - link [ref=f3e391] [cursor=pointer]:
+          - /url: /en/blog/
+          - button "Show More" [ref=f3e392]
+      - link "Scroll to top" [ref=f3e394] [cursor=pointer]:
+        - /url: "#the-top"
+        - text: ↑
+    - contentinfo [ref=f3e395]:
+      - navigation [ref=f3e396]:
+        - list [ref=f3e397]:
+          - listitem [ref=f3e398]:
+            - link "Privacy Policy" [ref=f3e399] [cursor=pointer]:
+              - /url: /en/privacy/
+      - paragraph [ref=f3e401]: © 2024 Assoc. Prof. Dr. Habib ÇİL. All rights reserved.
+      - paragraph [ref=f3e403]:
+        - strong [ref=f3e404]: "Medical information:"
+        - text: The information on this website is for general informational purposes only and does not constitute medical advice. The content cannot be used for diagnosis or treatment. Please consult a healthcare facility for your health concerns.
+      - link "Contact via WhatsApp" [ref=f3e405] [cursor=pointer]:
+        - /url: https://wa.me/905339454639
+      - button "Book Appointment" [ref=f3e408] [cursor=pointer]

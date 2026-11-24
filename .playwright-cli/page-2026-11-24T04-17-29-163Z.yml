@@ -1,0 +1,55 @@
+- generic [ref=f9e1]:
+  - generic [aria-hidden] [ref=f9e2]:
+    - generic [ref=f9e4]:
+      - link [ref=f9e7] [cursor=pointer]:
+        - /url: https://schema.org/
+        - text: Schema.org
+      - list [ref=f9e9]:
+        - listitem [ref=f9e10]:
+          - link [ref=f9e11] [cursor=pointer]:
+            - /url: https://schema.org/docs/documents.html
+            - text: Documentation
+        - listitem [ref=f9e12]:
+          - link [ref=f9e13] [cursor=pointer]:
+            - /url: https://schema.org/docs/schemas.html
+            - text: Schemas
+        - listitem [ref=f9e14]:
+          - link [ref=f9e15] [cursor=pointer]:
+            - /url: /
+            - text: Validate
+        - listitem [ref=f9e16]:
+          - link [ref=f9e17] [cursor=pointer]:
+            - /url: https://schema.org/docs/about.html
+            - text: About
+      - generic [ref=f9e20] [cursor=pointer]
+    - generic [ref=f9e25]:
+      - generic [ref=f9e26]: public
+      - generic [ref=f9e27]:
+        - button [ref=f9e28] [cursor=pointer]: Yeni test çalıştır
+        - button [ref=f9e30] [cursor=pointer]:
+          - generic [ref=f9e31]: language_japanese_kana
+        - button [ref=f9e33] [cursor=pointer]:
+          - generic [ref=f9e34]: info
+    - generic [ref=f9e38]:
+      - textbox [ref=f9e39]
+      - generic [ref=f9e40]: "1"
+    - button [disabled] [ref=f9e51]:
+      - generic [ref=f9e52]: play_arrow
+    - generic:
+      - button [aria-hidden]
+  - iframe [aria-hidden] [ref=f9e53]
+  - dialog "Yapısal verilerinizi test edin" [ref=f9e55]:
+    - generic [ref=f9e59]:
+      - generic [ref=f9e60]:
+        - link "URL'yi getir" [ref=f9e61] [cursor=pointer]:
+          - /url: "#new-test-url-tab"
+        - link "Kod snippet'i" [ref=f9e62] [cursor=pointer]:
+          - /url: "#new-test-code-tab"
+      - generic [ref=f9e64]:
+        - generic [ref=f9e65]: public
+        - generic [ref=f9e66]:
+          - textbox "URL girin" [active] [ref=f9e67]
+          - generic: URL girin
+    - generic [ref=f9e68]:
+      - button "Kapat" [ref=f9e69]
+      - button "Testi çalıştır" [ref=f9e70] [cursor=pointer]

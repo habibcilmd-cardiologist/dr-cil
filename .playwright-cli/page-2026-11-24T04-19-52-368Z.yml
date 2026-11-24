@@ -1,0 +1,72 @@
+- generic [ref=f11e1]:
+  - generic [ref=f11e2]:
+    - banner [ref=f11e4]:
+      - generic [ref=f11e5]:
+        - heading "Zengin Sonuçlar Testi" [level=1] [ref=f11e8]
+        - button [ref=f11e12] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f11e15]: 
+        - link "Oturum açın" [ref=f11e18] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=sitemaps&passive=1209600&continue=https://search.google.com/test/rich-results&followup=https://search.google.com/test/rich-results&ec=GAZA1AI
+    - generic [ref=f11e22]:
+      - generic [ref=f11e23]:
+        - generic [ref=f11e24]: Sayfanız zengin sonuçları destekliyor mu?
+        - generic [ref=f11e26]:
+          - tablist [ref=f11e27]:
+            - tab [ref=f11e28] [cursor=pointer]:
+              - generic [ref=f11e29]:
+                - generic [aria-hidden] [ref=f11e30]: 
+                - text: URL
+            - tab [active] [selected] [ref=f11e32] [cursor=pointer]:
+              - generic [ref=f11e33]:
+                - generic [aria-hidden] [ref=f11e34]: 
+                - text: kod
+          - tabpanel [ref=f11e100]:
+            - generic [ref=f11e101]:
+              - generic [ref=f11e105]:
+                - generic [ref=f11e106]:
+                  - button "Arama iletişim kutusunu aç" [ref=f11e107] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f11e110]: 
+                  - button "Editör içeriğini kopyala" [ref=f11e111] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f11e114]: 
+                - generic [ref=f11e115]:
+                  - textbox [ref=f11e116]
+                  - generic [ref=f11e119]:
+                    - generic: Test etmek için kodu yapıştırın
+                    - generic [ref=f11e120]: "1"
+              - generic [ref=f11e125]:
+                - listbox "Kullanıcı aracısı seçenekleri" [disabled] [ref=f11e128]:
+                  - generic [ref=f11e129]:
+                    - option "Google Denetleme Aracı akıllı telefon" [disabled] [selected] [ref=f11e130]:
+                      - generic [ref=f11e132]:
+                        - generic [aria-hidden] [ref=f11e133]: 
+                        - generic [ref=f11e134]: Google Denetleme Aracı akıllı telefon
+                    - option "Google Denetleme Aracı masaüstü" [disabled]:
+                      - generic [ref=f11e136]:
+                        - generic [aria-hidden] [ref=f11e137]: 
+                        - generic [ref=f11e138]: Google Denetleme Aracı masaüstü
+                  - generic [aria-hidden] [ref=f11e139]: 
+                - button "kodu test et" [disabled] [ref=f11e140]
+      - generic [ref=f11e71]:
+        - generic [ref=f11e72]:
+          - generic [ref=f11e73]: Zengin sonuç nedir?
+          - generic [ref=f11e74]: Zengin sonuçlar, Arama gibi Google sayfalarında standart mavi bağlantıdan daha fazla içerikle gösterilen deneyimlerdir. Zengin sonuçlar bant, resim veya diğer metin harici öğelerden oluşabilir.
+        - generic [ref=f11e75]:
+          - generic [ref=f11e76]: Bu test nedir?
+          - generic [ref=f11e77]: Sayfadaki yapısal veriler tarafından hangi zengin sonuçların oluşturulacağını görmek için genel erişime açık sayfanızı test edin.
+          - link "Daha fazla bilgi" [ref=f11e78] [cursor=pointer]:
+            - /url: https://support.google.com/webmasters/answer/7445569
+            - generic [ref=f11e82]:
+              - generic [ref=f11e83]: Daha fazla bilgi
+              - generic [aria-hidden] [ref=f11e85]: 
+        - generic [ref=f11e86]:
+          - generic [ref=f11e87]: Yapılandırılmış veri galerisi
+          - generic [ref=f11e88]: Google destekli yapısal veriler için başvuru dokümanları
+          - link "Dokümanları okuyun" [ref=f11e89] [cursor=pointer]:
+            - /url: https://developers.google.com/search/docs/guides/search-gallery
+            - generic [ref=f11e93]:
+              - generic [ref=f11e94]: Dokümanları okuyun
+              - generic [aria-hidden] [ref=f11e96]: 
+  - iframe [ref=f11e99]:
+    - generic [ref=f12e6]:
+      - strong [ref=f12e7]: reCAPTCHA
+      - text: tarafından korunmaktadır
