@@ -6,6 +6,25 @@ gözlemlerini birleştirir. Kaynak kodu, içerik, çalışan sunucu, DNS, Netlif
 hesap ayarları değiştirilmedi. İzole production çıktısının canlı Netlify
 sürümüyle byte eşitliği doğrulanmadı.
 
+## Bu turdaki tekrar doğrulama ve kanıtın zamanı
+
+Bu çalışma başlarken aynı günün kısmi raporları ve ham kanıtları zaten vardı.
+Kaynak hashleri `recheck-worktree-state.json` içinde eski manifestle tamamen
+eşleşti. Bu turda schema, içerik ve varlık taramaları yeniden çalıştırıldı;
+önceki tarayıcı, DNS ve validator kayıtları korunarak yeniden okunmuştur.
+İki yeni tarayıcı bağlantı denemesi zaman aşımına uğradı; bu turda runtime,
+gerçek %200 zoom ve yeni Lighthouse sonucu yoktur. NET-01 önceki kamu DNS
+yanıtının kayıt zamanında doğrulanmıştır; son durum bu tur yeniden ölçülemedi.
+Web aracının site DNS sorgusunda hata vermesi bir DNS cevabı değildir.
+Yeni izole minify production build exit0: `recheck-production-build.json`.
+Önceki/yeni 976 HTML byte-eş (`recheck-build-comparison.json`); yeni tam
+statik tarama exit0 (`recheck-production-static/`). Dış HEAD değişimi
+`b2944ac5` ayrıca kaydedildi; başlangıç kaynak byte'ları değişmedi.
+
+Her bulgunun zorunlu alanları aşağıdadır; makineyle işlenebilir aynı alanlar
+`09-findings-matrix.csv` içinde de vardır. `Yeniden üretim` adımları yeni bir
+testin çalıştırıldığını ifade etmez; NOT_RUN sınırı ayrıca yazılmıştır.
+
 ## Kanıtın nasıl okunacağı
 
 **Doğrulandı** belirtilen kaynak/çıktı veya gerçek tarayıcı olgusunu ifade eder;
@@ -57,6 +76,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Mevcut yetkili zone ve amaçlanan yayın hedefi doğrulansın; Netlify geri dönüşü veya kendi sunucusu için doğru apex/www hedefleri, seçilen platformun gerçek gereksinimleriyle tanımlansın. Bu denetimde DNS değiştirilmedi; sunucu dosyalarını taşımak tek başına bu çözümleme sorununu gidermez.
 - **Kabul:** Yetkili kaynaktan ve en az iki bağımsız resolver'dan doğru apex/www cevapları; seçilen adres politikasında çalışan HTTP→HTTPS ve www/apex yönlendirmesi; geçerli TLS; ana sayfa, robots ve sitemap için gerçek başarılı HTTP sonuçları. DNS dışındaki origin/TLS kabulü ayrı kanıt ister.
 - **Kanıt:** [browser-public-dns.json](evidence/browser-public-dns.json); önceki [network-probes.json](evidence/network-probes.json) shell denemeleri ayrı sınırlı kanıt. Güncel JSON yanıt yorumları [Google Public DNS API](https://developers.google.com/speed/public-dns/docs/doh/json) tanımıyla ele alınır.
+- **Yeniden üretim:** browser-public-dns.json içindeki tam name/type sorgularını ve google.com kontrolünü oku. Bu tur web aracı site sorgularından yanıt döndürmedi; ikinci resolver ve güncel DNS tekrar ölçümü Doğrulanamadı. Önceki kaydı güncel cevap sayma.
+- **Kullanıcı/arama etkisi:** Kayıt zamanındaki web adresleri çözümlenemediği için kullanıcı ve crawler erişimi engellenir; geçmiş kayıp/süre ve güncel tekrar sonucu bilinmiyor.
 
 ## Arayüz, gezinme ve erişilebilirlik
 
@@ -70,6 +91,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Başlık parametresi/koşulu, kullanılabilir genişlik, flex ve masaüstü breakpoint’i birlikte düzeltilmeli; tema link bölme kuralı menü etiketlerine uygulanmamalı.
 - **Kabul:** 852/853/854 sınırı, 320–1920 px matrisi ve gerçek %200 zoom’da kırılan, kırpılan veya kaybolan etiket yok; sığmadığı yerde erişilebilir mobil menü. Aşırı font küçültme/overflow gizleme yeterli değil.
 - **Kanıt:** browser-layout-observations.json; ui-static-extract.json; browser-menu-1280-crop.jpg
+- **Yeniden üretim:** Önceki browser-layout-observations.json ve browser-menu-1280-crop.jpg kaydını aç. Yeniden test: / üzerinde 1024/1280/1440/1920 CSS px, DPR1, %100; her metin düğümünde Range rect satır sayısı ve computed flex/whiteSpace/wordBreak ölç. Bu tur browser tekrar testi NOT_RUN; 852/853/854 ve native200 de NOT_RUN.
+- **Kullanıcı/arama etkisi:** Masaüstü menü etiketleri okunurluğunu ve gezinme rahatlığını kaybediyor; sıralama etkisi ölçülmedi.
 
 ### UI-02 — Uzmanlık kartı yanlış değeri gösteriyor
 
@@ -81,6 +104,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Kartın hedefini “Girişimsel Kardiyoloji” yapmak; doğrudan/fallback ve EN/AR anlam karşılıklarını birlikte düzenlemek. Sitenin diğer yerlerindeki damar açma terimlerini silmek gerekmiyor.
 - **Kabul:** Üç dilde istenen uzmanlık anlamı görünür; fallback aynı anlamı korur; dar ekran ve zoom’da kart taşmaz.
 - **Kanıt:** browser-layout-observations.json; ui-static-extract.json
+- **Yeniden üretim:** ui-static-extract.json kart değerlerini i18n/tr.yaml:12,25–26 ve hero.html:149–150 ile karşılaştır; /, /en/, /ar/ kart metinlerini kontrol et. Dar viewport/zoom yeni testi NOT_RUN.
+- **Kullanıcı/arama etkisi:** Hekimin istenen uzmanlık alanı kartta doğru anlamla anlatılmıyor.
 
 ### UI-03 — Mobil menünün klavye semantiği ve Escape davranışı eksik
 
@@ -92,6 +117,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Semantik düğme, erişilebilir ad/expanded/controls, klavye ve odak yönetimi sağlamak.
 - **Kabul:** Tab ile açıcıya ulaşılır; Enter/Space açar; Escape kapatır; odak açıcıya döner; açık durumda beklenmedik arka plan etkileşimi ve scroll kilidi kalmaz.
 - **Kanıt:** browser-keyboard-observations.json; ui-static-extract.json
+- **Yeniden üretim:** browser-keyboard-observations.json kaydındaki /hizmetler/dizalti-damar-tikanikligi/ 390×844 senaryosunu incele. Tekrar: menüyü aç, Escape, görünürlük/body scroll ve açıcı tabIndex/role ölç. Yeni runtime NOT_RUN.
+- **Kullanıcı/arama etkisi:** Mobil menünün klavyeyle kullanım ve kapanış yolu eksik; açık kalınca sayfa kaydırması kilitli kalabiliyor.
 
 ### UI-04 — Modal odağı kaçıyor; arama kapanınca açıcıya dönmüyor
 
@@ -103,6 +130,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Modal içi odak döngüsü, arka plan etkileşimsizliği, dialog/input adı ve doğru açıcıya odak dönüşü; boş sonuç Enter davranışını ayrıca test etmek.
 - **Kabul:** Her iki modalde Tab/Shift+Tab odağı içeride tutar; Escape kapatır ve açıcıya döner; ekran okuyucu adlandırması ve boş/hata/yükleme arama durumları doğrulanır.
 - **Kanıt:** browser-keyboard-observations.json; ui-source-notes.md
+- **Yeniden üretim:** Aynı 390×844 sayfada randevu aç/kapat, Shift+Tab ve Escape; aramada Escape sonrası activeElement ölç. Önceki kayıt browser-keyboard-observations.json; yeni runtime NOT_RUN.
+- **Kullanıcı/arama etkisi:** Klavye/yardımcı teknoloji kullanıcısı modal dışına kaçabiliyor veya açıcı odağını kaybediyor.
 
 ### UI-05 — Ortak kontrollerde dil karşılıkları eksik
 
@@ -114,6 +143,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Görünen ve duyurulan metinleri i18n üzerinden üç dile taşımak; AR fiziksel left/right ve ikon sırasını görsel olarak denetlemek.
 - **Kabul:** Kontrollerin metin/adları sayfa diliyle uyumlu; AR okuma sırası ve yerleşim testli. Hareket tercihi ayrı PERF-02’de.
 - **Kanıt:** browser-keyboard-observations.json; ui-source-notes.md
+- **Yeniden üretim:** Üç dilde header/search/footer metinlerini ui-source-notes.md kaynakları ve ui-static-extract.json ile karşılaştır; tam AR/ekran okuyucu/kontrast testi NOT_RUN.
+- **Kullanıcı/arama etkisi:** Sayfa diliyle uyuşmayan kontrol ve durum metinleri kullanım ve anlaşılmayı zorlaştırır.
 
 ### UI-06 — JS olmayan ortamda bazı temel eylemler için fallback yok
 
@@ -125,6 +156,21 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** JS/CDN başarısızlığında açık, gerçek bağlantılı iletişim/randevu ve gezinme yolu sağlamak.
 - **Kabul:** JS kapalıyken içerik okunur; en az bir görünür iletişim/hizmet yolu çalışır; işlevsiz görünen temel kontrol bırakılmaz.
 - **Kanıt:** ui-source-notes.md
+- **Yeniden üretim:** Belirtilen template içindeki gerçek href ile yalnız onclick eylemini karşılaştır. JS kapalı/CDN engelli tarayıcıda temel gezinmeyi denemek gerekir; bu test NOT_RUN.
+- **Kullanıcı/arama etkisi:** JS/CDN başarısızlığında bazı temel eylemler için dayanıklı bağlantı yolu eksik olabilir; runtime doğrulanmadı.
+
+### UI-07 — Arapça 404 İngilizce metin ve İngilizce çıkışlar veriyor
+
+**P2 · Doğrulandı — kaynak ve üretim HTML; HTTP durumu NOT_RUN**
+
+- **URL/kapsam:** https://docdrhabibcil.com/ar/404.html; karşılaştırma /404.html ve /en/404.html
+- **Kaynak:** layouts/404.html:8–15,19–43; i18n/ar.yaml:48–50
+- **Olgu / kök neden:** Özel şablon yalnız TR ve else ayırıyor. AR kök dir=rtl olsa da main başlığı Page Not Found; dönüş /en/ ve iletişim /en/contact/. Arapça 404 çeviri anahtarları var ama bu şablon kullanmıyor. TR çıkışları eski /tr/ yolları; ilan edilmiş 301 ile çalışabilir. Statik dosya olması gerçek HTTP404 sonucunu kanıtlamaz.
+- **Öneri:** Üç dil için yerelleştirilmiş mesaj ve gerçek dil köküne/iletişime dönüş; hedef sunucuda doğru dil hata gövdesiyle 404 durumunu ayrıca sağlamak.
+- **Kabul:** AR mesaj/çıkış /ar/ ve /ar/contact/; TR kök /; EN /en/. Olmayan gerçek URL GET404, dil korunur; keyboard/focus ve RTL testli.
+- **Kanıt:** recheck-404.json; 02-url-and-template-inventory.csv
+- **Yeniden üretim:** evidence/recheck-404.json içindeki üç üretilmiş hata sayfasının main h1 ve href değerlerini karşılaştır; layouts/404.html TR/else dallarını oku. Gerçek olmayan URL için HTTP404 yeni sunucuda ayrıca test edilmeli; NOT_RUN.
+- **Kullanıcı/arama etkisi:** Arapça hata sayfası İngilizce mesaj ve İngilizceye çıkış sunarak seçilmiş dilde toparlanma yolunu bozuyor.
 
 ## Yapılandırılmış veri
 
@@ -138,6 +184,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Sıraları yalnız gerçekten eklenen öğelerden üretmek.
 - **Kabul:** Bütün BreadcrumbList’lerde benzersiz artan 1..N sırası; tüm route’ların kontrolü ve temsilci resmî kod testi.
 - **Kanıt:** schema-summary.json; schema-hizmetler-hipertansiyon-index.json
+- **Yeniden üretim:** evidence/recheck-schema.py ile tüm build taramasını yeniden üret; recheck-schema-output.json, schema-inventory.csv ve bu kaydın örnek JSON-LD dosyasını karşılaştır. Resmî validator tekrarı ayrı kod girişiyle yapılmalı; bu tur NOT_RUN.
+- **Kullanıcı/arama etkisi:** Breadcrumb dizisinin sırası belirsizleşir; Google reddi veya ceza sonucu çıkarılamaz.
 
 ### SCH-02 — Aynı breadcrumb kimliğinin çelişen tanımları var
 
@@ -149,6 +197,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Görünür breadcrumb ile aynı veriden tek tanım üretmek; meşru farklı yollar varsa kimliklerini ayırmak.
 - **Kabul:** Aynı @id için çelişen dizi kalmaz; her dilde hedefler doğru canonical 200 adreslerine gider.
 - **Kanıt:** schema-pages.json/conflicting_ids; hizmet örnek JSON’ları
+- **Yeniden üretim:** evidence/recheck-schema.py ile tüm build taramasını yeniden üret; recheck-schema-output.json, schema-inventory.csv ve bu kaydın örnek JSON-LD dosyasını karşılaştır. Resmî validator tekrarı ayrı kod girişiyle yapılmalı; bu tur NOT_RUN.
+- **Kullanıcı/arama etkisi:** Aynı varlığın çelişen yol tanımları ve yanlış dil hedefleri makine yorumunu belirsizleştirir.
 
 ### SCH-03 — performer yanlış domain’lerde kullanılıyor
 
@@ -160,6 +210,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Uygunsuz alanı kaldırmak; gerçek hekim–hizmet ilişkisini ancak doğrulanmış domain/range ve entity modeliyle kurmak.
 - **Kabul:** Event olmayan bu düğümlerde uygunsuz performer yok; seçilen ilişki sözlük ve gerçek içerikle uyumlu; resmî testte ilgili uyarılar kapanmış.
 - **Kanıt:** schema-inventory.csv; schema-jsonld-all.jsonl; browser-validator-results.json
+- **Yeniden üretim:** evidence/recheck-schema.py ile tüm build taramasını yeniden üret; recheck-schema-output.json, schema-inventory.csv ve bu kaydın örnek JSON-LD dosyasını karşılaştır. Resmî validator tekrarı ayrı kod girişiyle yapılmalı; bu tur NOT_RUN.
+- **Kullanıcı/arama etkisi:** İşaretlemedeki ilişki sözlük domainine uymaz; tıbbi hizmet ile hekim ilişkisi doğru temsil edilmez.
 
 ### SCH-04 — İşlem sınıfları procedureType enum değeri gibi yazılıyor
 
@@ -171,6 +223,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Ana entity sınıfı ile işlem enum’unu ayırıp her hizmetin gerçek tıbbi anlamıyla eşlemek.
 - **Kabul:** 132 uyuşmazlık giderilir; kalan enum’lar güncel gerçek üye/değer biçimindedir; görünür konu ve resmî test uyumlu.
 - **Kanıt:** schema-summary.json; schema-inventory.csv; browser-validator-results.json
+- **Yeniden üretim:** evidence/recheck-schema.py ile tüm build taramasını yeniden üret; recheck-schema-output.json, schema-inventory.csv ve bu kaydın örnek JSON-LD dosyasını karşılaştır. Resmî validator tekrarı ayrı kod girişiyle yapılmalı; bu tur NOT_RUN.
+- **Kullanıcı/arama etkisi:** Tür sınıfının enum alanında kullanımı sözlük doğrulamasında hata verir.
 
 ### SCH-05 — Schema hekim görseli yayımlanan dosyaya gitmiyor
 
@@ -182,6 +236,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Graph içinde de yayımlanmış resource’un gerçek permalink’ini kullanmak.
 - **Kabul:** Production hedef dosyası var; gerçek GET 200, doğru MIME ve taranabilirlik ayrıca kanıtlı.
 - **Kanıt:** schema-index.json; schema-summary.json/SCHEMA_IMAGE_MISSING_IN_BUILD
+- **Yeniden üretim:** evidence/recheck-schema.py ile tüm build taramasını yeniden üret; recheck-schema-output.json, schema-inventory.csv ve bu kaydın örnek JSON-LD dosyasını karşılaştır. Resmî validator tekrarı ayrı kod girişiyle yapılmalı; bu tur NOT_RUN.
+- **Kullanıcı/arama etkisi:** Makinenin hekim görseli olarak aldığı URL üretim çıktısında bulunmuyor; görünür hero görseli ayrı var.
 
 ### SCH-06 — Görünür çalışma saatleriyle schema çelişiyor
 
@@ -193,10 +249,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Gerçek saati kullanıcı/klinik kaynağıyla doğrulayıp tek veri kaynağına bağlamak.
 - **Kabul:** Üç dilde görünür bilgi, bütün graph’lar ve erişilebilen yetkili işletme kaydı uyuşur.
 - **Kanıt:** schema-iletisim-index.json; content-evidence.json
+- **Yeniden üretim:** evidence/recheck-schema.py ile tüm build taramasını yeniden üret; recheck-schema-output.json, schema-inventory.csv ve bu kaydın örnek JSON-LD dosyasını karşılaştır. Resmî validator tekrarı ayrı kod girişiyle yapılmalı; bu tur NOT_RUN.
+- **Kullanıcı/arama etkisi:** Ziyaretçi ve makineye farklı çalışma saatleri veriliyor; gerçek randevu planı yanlış anlaşılabilir.
 
 ### SCH-07 — Hastalık/test/işlem tek semantik şablona zorlanıyor
 
-**P1 · Örneklerde doğrulandı; kapsamın tamamı tıbbi inceleme gerektiriyor**
+**P1 · Doğrulandı — örneklerde; kapsamın tamamı tıbbi inceleme gerektiriyor**
 
 - **URL/kapsam:** /en/services/echocardiography/; /hizmetler/alt-ekstremite-arter-hastaligi/
 - **Kaynak:** layouts/partials/schema-procedure.html:9,34–47,64; content/tr/hizmetler/alt-ekstremite-arter-hastaligi/index.md:1–4
@@ -204,6 +262,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Ana entity, anatomi ve işlem tipini sayfa konusu/hekim incelemesiyle eşlemek; sessiz genel varsayımları kaldırmak.
 - **Kabul:** Her sayfanın ana entity’si ve tıbbi alanları gerçek içerikle uyumlu; hastalık, test, işlem ve hizmet rolleri ayrı.
 - **Kanıt:** İlgili schema örnek JSON’ları; 03-schema-audit.md
+- **Yeniden üretim:** evidence/recheck-schema.py ile tüm build taramasını yeniden üret; recheck-schema-output.json, schema-inventory.csv ve bu kaydın örnek JSON-LD dosyasını karşılaştır. Resmî validator tekrarı ayrı kod girişiyle yapılmalı; bu tur NOT_RUN.
+- **Kullanıcı/arama etkisi:** Hastalık/test/işlem konusu yanlış tıbbi entity ve anatomiyle anlatılabiliyor.
 
 ### SCH-08 — Review ve otorite iddialarının dayanağı doğrulanamıyor
 
@@ -215,6 +275,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Gerçek inceleme tarihi/kaydı ve gerektiğinde otorite kaynağıyla doğrulamak; dayanak yoksa iddiayı üretmemek.
 - **Kabul:** İnceleme sahibi/tarihi gerçek kayıtla eşleşir; otorite, koordinat, fiyat gibi dış olgular teyitli; otomatik tarih klinik review kanıtı sayılmaz.
 - **Kanıt:** schema-inventory.csv; 03-schema-audit.md
+- **Yeniden üretim:** evidence/recheck-schema.py ile tüm build taramasını yeniden üret; recheck-schema-output.json, schema-inventory.csv ve bu kaydın örnek JSON-LD dosyasını karşılaştır. Resmî validator tekrarı ayrı kod girişiyle yapılmalı; bu tur NOT_RUN.
+- **Kullanıcı/arama etkisi:** Otomatik review/kurum otoritesi bilgisi gerçekte kanıtlanmış inceleme/onay sanılabilir; gerçek dayanak bilinmiyor.
 
 ### SCH-09 — Liste/iletişim/hata sayfaları makale oluyor
 
@@ -226,10 +288,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Yalnız gerçek makaleyi Article/BlogPosting yapmak; liste/profil/iletişim/hata sayfalarını gerçek amaçlarına göre modellemek.
 - **Kabul:** Şablon–schema matrisi her route’ta doğru; ilgili Google Article koşulları ayrı kontrol edilmiş.
 - **Kanıt:** schema-tags-index.json; schema-blog-index.json; schema-404.json; schema-inventory.csv
+- **Yeniden üretim:** evidence/recheck-schema.py ile tüm build taramasını yeniden üret; recheck-schema-output.json, schema-inventory.csv ve bu kaydın örnek JSON-LD dosyasını karşılaştır. Resmî validator tekrarı ayrı kod girişiyle yapılmalı; bu tur NOT_RUN.
+- **Kullanıcı/arama etkisi:** Liste, iletişim ve hata sayfaları içerik amaçlarıyla uyuşmayan makale olarak tanımlanıyor.
 
 ### SCH-10 — Boş hizmet ItemList’i ve entity sınırı
 
-**P2 · Boş liste doğrulandı; entity modeli güçlü aday**
+**P2 · Doğrulandı — boş liste; entity modeli güçlü aday**
 
 - **URL/kapsam:** 12 home/pagination çıktısı; hekim node’u ortak
 - **Kaynak:** layouts/partials/schema.html:29–42,124–131
@@ -237,12 +301,14 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Listeyi gerçek görünür hizmetlere bağlamak; hekim/ofis kimlik ve adres ilişkisini gerçek model/Google koşullarıyla netleştirmek.
 - **Kabul:** Liste dolu ve doğru dilde; kişi/ofis entity sınırı ve adres ilişkileri doğrulanmış; isteğe bağlı uyarılar kritik hata diye sunulmaz.
 - **Kanıt:** schema-index.json; schema-ar-index.json; browser-validator-results.json
+- **Yeniden üretim:** evidence/recheck-schema.py ile tüm build taramasını yeniden üret; recheck-schema-output.json, schema-inventory.csv ve bu kaydın örnek JSON-LD dosyasını karşılaştır. Resmî validator tekrarı ayrı kod girişiyle yapılmalı; bu tur NOT_RUN.
+- **Kullanıcı/arama etkisi:** Makineye sunulan boş hizmet listesi gerçek görünür hizmet kapsamını açıklamıyor.
 
 ## İç bağlantı, dil ve tarama mimarisi
 
 ### STATIC-01 — Çözülemeyen iç bağlantılar var
 
-**P1 · Statik doğrulandı; canlı HTTP 404 testi ayrı**
+**P1 · Doğrulandı — statik; canlı HTTP 404 testi ayrı**
 
 - **URL/kapsam:** 40 kaynak route; /en/services/myocardial-infarction/ ve İngilizce blog CTA örnekleri
 - **Kaynak:** content/en/services/myocardial-infarction/index.md:191; content/en/blog/aortic-aneurysm/index.md:505
@@ -250,6 +316,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Linkleri gerçek canonical hedeflerle eşlemek; CTA’larda doğru dilde iletişim yolunu kullanmak.
 - **Kabul:** Tam çıktı taramasında çözülemeyen link 0; randevu yolu doğru dilde; gerçek HTTP durumları ayrıca kaydedilmiş.
 - **Kanıt:** static-link-triage.json; static-broken-links.json
+- **Yeniden üretim:** evidence/static-audit.py BUILD OUT ile ayrı kanıt klasörüne bütün HTML taramasını üret; bu bulgudaki static-*.json örneklerini gerçek çıktı dosyasıyla karşılaştır. /tr/* ilan edilmiş redirect ayrımını static-link-triage.json ile koru. Dosya varlığı HTTP sonucu değildir.
+- **Kullanıcı/arama etkisi:** CTA ve iç gezinme hedefleri üretimde çözülemeyebilir; dosya eksikliği canlı HTTP 404 ölçümü değildir.
 
 ### STATIC-02 — Pagination canonical/alternate’ları ilk sayfaya dönüyor
 
@@ -261,6 +329,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Gerçek pagination’a kendi canonical’ını ve varsa eşdeğer pagination alternate’ını üretmek; home kopyalarının gerekliliğini değerlendirmek.
 - **Kabul:** 24 canonical ve 72 self/return kontrolü doğru; normal sayfaların zaten geçen dil eşlemeleri bozulmamış.
 - **Kanıt:** static-canonical-issues.json; static-hreflang-issues.json
+- **Yeniden üretim:** evidence/static-audit.py BUILD OUT ile ayrı kanıt klasörüne bütün HTML taramasını üret; bu bulgudaki static-*.json örneklerini gerçek çıktı dosyasıyla karşılaştır. /tr/* ilan edilmiş redirect ayrımını static-link-triage.json ile koru. Dosya varlığı HTTP sonucu değildir.
+- **Kullanıcı/arama etkisi:** Sayfa 2+ için ayrı içerik ve eşdeğer dil adresleri yanlış ilk sayfayla ilişkilendiriliyor; Google seçimi bilinmiyor.
 
 ### STATIC-03 — Sitemap sahipliği ve dil keşfi parçalı
 
@@ -272,10 +342,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Tek sahipli kök dil index’i veya açık üç sitemap bildirimi politikası kurmak.
 - **Kabul:** Geçerli XML, doğru dil kapsaması, 652 canonical, gerçek HTTP 200 ve redirect döngüsü yok.
 - **Kanıt:** static-sitemaps.json; static-not-in-any-sitemap.json
+- **Yeniden üretim:** evidence/static-audit.py BUILD OUT ile ayrı kanıt klasörüne bütün HTML taramasını üret; bu bulgudaki static-*.json örneklerini gerçek çıktı dosyasıyla karşılaştır. /tr/* ilan edilmiş redirect ayrımını static-link-triage.json ile koru. Dosya varlığı HTTP sonucu değildir.
+- **Kullanıcı/arama etkisi:** Üç dil sitemap keşfi ve bakımında tek açık sahiplik yok; bütün dillerin indekssiz olduğu kanıtlanmadı.
 
 ### STATIC-04 — İngilizce hizmet kartının anchor’ı yanlış
 
-**P2 · Statik doğrulandı; scroll uçtan uca NOT_RUN**
+**P2 · Doğrulandı — statik; scroll uçtan uca NOT_RUN**
 
 - **URL/kapsam:** /en/ → /en/services/#pacemaker-and-electrophysiology; 4 home/pagination kullanımı
 - **Kaynak:** content/en/_index.md:39; content/en/services/_index.md:67
@@ -283,6 +355,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Kartı gerçek sabit bölüm ID’sine bağlamak.
 - **Kabul:** Tıklama doğru bölüme kayar; sabit header başlığı örtmez; aynı kartın pagination kopyaları da doğru.
 - **Kanıt:** static-broken-fragments.json
+- **Yeniden üretim:** evidence/static-audit.py BUILD OUT ile ayrı kanıt klasörüne bütün HTML taramasını üret; bu bulgudaki static-*.json örneklerini gerçek çıktı dosyasıyla karşılaştır. /tr/* ilan edilmiş redirect ayrımını static-link-triage.json ile koru. Dosya varlığı HTTP sonucu değildir.
+- **Kullanıcı/arama etkisi:** İngilizce kart istenen hizmet alt bölümüne doğrudan atlamıyor; sabit header etkisi henüz test edilmedi.
 
 ### STATIC-05 — Boş paralel taxonomy benzeri sayfalar var
 
@@ -294,10 +368,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Normal page/gerçek term ayrımını ve boş paralel URL’leri içerik ihtiyacına göre düzenlemek; yararlı arşivleri korumak.
 - **Kabul:** Gerekli birleştirmelerde URL/301 haritası ve iç linkler doğru; toplu noindex/silme kararı gerekçesiz uygulanmamış.
 - **Kanıt:** static-empty-manual-taxonomy-pages.json; static-orphan-candidates.json
+- **Yeniden üretim:** evidence/static-audit.py BUILD OUT ile ayrı kanıt klasörüne bütün HTML taramasını üret; bu bulgudaki static-*.json örneklerini gerçek çıktı dosyasıyla karşılaştır. /tr/* ilan edilmiş redirect ayrımını static-link-triage.json ile koru. Dosya varlığı HTTP sonucu değildir.
+- **Kullanıcı/arama etkisi:** Boş paralel arşiv/normal sayfalar arama ve gezinmeyi gereksiz seçeneklerle dolduruyor; organik zarar ölçülmedi.
 
 ### STATIC-06 — Dil fallback sonuçları açık politika/etiket gerektiriyor
 
-**P2 · Veri doğrulandı; ürün kararı**
+**P2 · Doğrulandı — veri; ürün kararı**
 
 - **URL/kapsam:** /index.json, /en/index.json, /ar/index.json
 - **Kaynak:** themes/blowfish/layouts/_default/index.json:2–5
@@ -305,6 +381,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Seçili dil ve çeviri fallback politikasını belirlemek; gerekirse dil etiketi/filtre sağlamak.
 - **Kabul:** Mevcut dil eşdeğeri varken başka dil hedefi tercih edilmez; fallback dili açıktır; dil değiştirme ve sonuç linki testlidir.
 - **Kanıt:** static-search-indexes.json
+- **Yeniden üretim:** evidence/static-audit.py BUILD OUT ile ayrı kanıt klasörüne bütün HTML taramasını üret; bu bulgudaki static-*.json örneklerini gerçek çıktı dosyasıyla karşılaştır. /tr/* ilan edilmiş redirect ayrımını static-link-triage.json ile koru. Dosya varlığı HTTP sonucu değildir.
+- **Kullanıcı/arama etkisi:** Kullanıcı seçtiği dilden farklı içerik açabilir; bunun bilinçli fallback olduğu açıkça anlatılmalı.
 
 ### STATIC-07 — Metadata tekrarları sayfa amaçlarını ayırmıyor
 
@@ -316,12 +394,14 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Önce önemli hizmet/blog amaçlarını ayıran metadata üretmek; pagination ve boş sayfa köklerini STATIC-02/05 ile çözmek.
 - **Kabul:** Kalıcı önemli sayfalarda amaçla uyumlu metadata; kalan tekrarlar gerekçeli ve raporlanmış; yapay karakter sayısı eşiğine göre kritik hata üretilmemiş.
 - **Kanıt:** static-duplicate-titles.json; static-duplicate-descriptions.json
+- **Yeniden üretim:** evidence/static-audit.py BUILD OUT ile ayrı kanıt klasörüne bütün HTML taramasını üret; bu bulgudaki static-*.json örneklerini gerçek çıktı dosyasıyla karşılaştır. /tr/* ilan edilmiş redirect ayrımını static-link-triage.json ile koru. Dosya varlığı HTTP sonucu değildir.
+- **Kullanıcı/arama etkisi:** Sayfa amaçları metadata ile yeterince ayrışmıyor; tekrarı tek başına ceza veya kritik hata saymak doğru değil.
 
 ## Performans ve yükleme stratejisi
 
 ### PERF-01 — 3B görünürlük stratejisi masaüstünde ilk isteği engellemiyor
 
-**P2 · İlk istek runtime doğrulandı; offscreen maliyet kaynak adayı**
+**P2 · Doğrulandı — önceki runtime ilk isteği; offscreen maliyet kaynak adayı**
 
 - **URL/kapsam:** /; desktop 1280×900 ve mobil viewport 390×844 development
 - **Kaynak:** layouts/partials/home/profile.html:6; layouts/partials/interventional-cardiology-diagram.html:16; layouts/partials/three-heart.html:35–55,164–183
@@ -329,10 +409,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Yükleme ve render görünürlük stratejisini açıkça seçip ölçmek; viewport dışında render durdurmak; gerekirse poster/istek üzerine yüklemeyi karşılaştırmak.
 - **Kabul:** İlk viewport/scroll/offscreen/tekrar girişte istek ve tek render loop davranışı kanıtlı; production ve mobil profilinde maliyet ölçülmüş. Lazy veya idle sıfır maliyet demek değildir.
 - **Kanıt:** browser-model-observations.json; browser-dev-diagnostics.json; performance-asset-inventory.json
+- **Yeniden üretim:** 04-performance.md içindeki aktif yol ve satırları, recheck-perf-evidence.json varlık sayımını, varsa önceki browser-dev-diagnostics.json ham koşularını karşılaştır. Production cold/warm, A/B ve CPU/GPU ölçümü NOT_RUN; yeniden koşma protokolü aynı rapordadır.
+- **Kullanıcı/arama etkisi:** Model ağ/CPU/GPU işi yaratır; gözlenen erken istek vardır, toplam performans veya pil etkisi nicel ölçülmedi.
 
 ### PERF-02 — Hareket/veri tercihleri bütünüyle ele alınmıyor
 
-**P2 · Statik doğrulandı; OS/Save-Data/WebGL senaryoları NOT_RUN**
+**P2 · Doğrulandı — statik; OS/Save-Data/WebGL senaryoları NOT_RUN**
 
 - **URL/kapsam:** Üç dil ana sayfa ve aktif 3B
 - **Kaynak:** layouts/partials/three-heart.html:26–27,91–117; assets/css/custom.css:1877–1888; layouts/partials/extend-footer.html:533–541
@@ -340,10 +422,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Reduced-motion’da gereksiz hareketi kapatmak; Save-Data/WebGL/CDN hatalarında hafif, anlamlı fallback sağlamak.
 - **Kabul:** Gerçek tercihler ve hata senaryolarında gereksiz istek/hareket yok; içerik ve bağlantılar kullanılabilir; pil/ısı/FPS etkisi ölçüme dayanıyor.
 - **Kanıt:** 04-performance.md; ui-source-notes.md
+- **Yeniden üretim:** 04-performance.md içindeki aktif yol ve satırları, recheck-perf-evidence.json varlık sayımını, varsa önceki browser-dev-diagnostics.json ham koşularını karşılaştır. Production cold/warm, A/B ve CPU/GPU ölçümü NOT_RUN; yeniden koşma protokolü aynı rapordadır.
+- **Kullanıcı/arama etkisi:** Hareket/veri tercihleriyle uyuşmayan animasyon ve gereksiz model yükü oluşabilir; belirli cihaz etkisi ölçülmedi.
 
 ### PERF-03 — Head’de senkron vendor zinciri var
 
-**P2 · Öznitelikler doğrulandı; darboğaz etkisi aday**
+**P2 · Doğrulandı — öznitelikler; darboğaz etkisi aday**
 
 - **URL/kapsam:** Ortak sayfalar; yerel dış JS 118553 bayt, jQuery slim 70264 bayt
 - **Kaynak:** themes/blowfish/layouts/partials/head.html:118–140; themes/blowfish/layouts/partials/vendor.html:1–3; layouts/partials/header/basic.html:251–254
@@ -351,10 +435,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Bağımlılık sırasını koruyarak gerekli sayfa/ertelenmiş yükleme ve küçük kullanımın sadeleştirilmesini ölçmek; körlemesine bütün scriptlere defer eklememek.
 - **Kabul:** Üretimde tekrarlı önce/sonra izleri; tema flash’ı, menü aktifliği, arama, mobil menü ve zoom regresyonu yok.
 - **Kanıt:** performance-asset-inventory.json/.csv; 04-performance.md
+- **Yeniden üretim:** 04-performance.md içindeki aktif yol ve satırları, recheck-perf-evidence.json varlık sayımını, varsa önceki browser-dev-diagnostics.json ham koşularını karşılaştır. Production cold/warm, A/B ve CPU/GPU ölçümü NOT_RUN; yeniden koşma protokolü aynı rapordadır.
+- **Kullanıcı/arama etkisi:** Senkron vendor zinciri parse/render zamanlamasına katkı yapabilir; ana darboğaz olduğu kanıtlanmadı.
 
 ### PERF-04 — Hero kaynak seçimi ve önceliği iyileştirme adayı
 
-**P2 · Çıktı öznitelikleri doğrulandı; LCP/CLS production etkisi bilinmiyor**
+**P2 · Doğrulandı — çıktı öznitelikleri; LCP/CLS production etkisi bilinmiyor**
 
 - **URL/kapsam:** /, /en/, /ar/; 35410 bayt ortak işlenmiş WebP
 - **Kaynak:** layouts/partials/home/hero.html:131–138; assets/css/custom.css:2349–2367
@@ -362,10 +448,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Gerçek production LCP öğesi/alt sürelerine göre intrinsic boyut, responsive kaynak ve gerekçeli fetchpriority seçmek.
 - **Kabul:** Doğru cihaz kaynağı yüklenir; görüntü kalitesi ve ayrılan alan korunur; CLS ve LCP tekrar ölçülür. İlk görünüm görseli körlemesine lazy yapılmaz.
 - **Kanıt:** performance-asset-inventory.json; browser-dev-diagnostics.json
+- **Yeniden üretim:** 04-performance.md içindeki aktif yol ve satırları, recheck-perf-evidence.json varlık sayımını, varsa önceki browser-dev-diagnostics.json ham koşularını karşılaştır. Production cold/warm, A/B ve CPU/GPU ölçümü NOT_RUN; yeniden koşma protokolü aynı rapordadır.
+- **Kullanıcı/arama etkisi:** Kaynak/öncelik seçimi iyileştirilebilir; üretimde LCP/CLS sorunu olduğu henüz ölçülmedi.
 
 ### PERF-05 — İlk arama büyük JSON ve senkron Fuse kurulumu getiriyor
 
-**P2 · Dosya boyutu/kod doğrulandı; süre etkisi ölçülmedi**
+**P2 · Doğrulandı — dosya boyutu/kod; süre etkisi ölçülmedi**
 
 - **URL/kapsam:** /index.json 1.067 MB; /en/index.json 1.043 MB; /ar/index.json 1.445 MB ham
 - **Kaynak:** assets/js/search.js:148–180; themes/blowfish/layouts/_default/index.json:2–5
@@ -373,6 +461,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** İlk arama/açılış/sonuç ve long task ölçümünden sonra alan azaltımı, indeks kapsamı veya worker seçmek.
 - **Kabul:** Yavaş mobil profilinde ilk sonuç süreleri/uzun görevler kayıtlı; hata/yeniden deneme ve dil politikası çalışır; TBT/JSON baytı INP diye sunulmaz.
 - **Kanıt:** performance-asset-inventory.json; static-search-indexes.json
+- **Yeniden üretim:** 04-performance.md içindeki aktif yol ve satırları, recheck-perf-evidence.json varlık sayımını, varsa önceki browser-dev-diagnostics.json ham koşularını karşılaştır. Production cold/warm, A/B ve CPU/GPU ölçümü NOT_RUN; yeniden koşma protokolü aynı rapordadır.
+- **Kullanıcı/arama etkisi:** İlk aramada büyük veri ve senkron hazırlık etkileşim gecikmesi adayıdır; INP veya süre etkisi ölçülmedi.
 
 ### PERF-06 — Kullanılmayan eski 3B shortcode’da sözdizimi hatası
 
@@ -384,6 +474,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Yeniden kullanımdan önce onarmak veya tek aktif uygulamaya birleştirmek.
 - **Kabul:** Sözdizimi kontrolü 0; kullanılacaksa gerçek render/error testleri; aktif lazy yolun davranışı korunmuş.
 - **Kanıt:** performance-unused-shortcode-syntax.mjs; performance-unused-shortcode-syntax.log
+- **Yeniden üretim:** node --check evidence/performance-unused-shortcode-syntax.mjs; önceki syntax logunda exit1. recheck-perf-evidence.json eski model yolunun 0 HTML olduğunu doğrular. Üretim timing testi değildir.
+- **Kullanıcı/arama etkisi:** Eski shortcode yeniden kullanılırsa script ayrışmaz; halen etkin sayfalarda çalışmadığı için mevcut runtime etkisi yok.
 
 ## İçerik, güven ve sorgu eşlemesi
 
@@ -397,10 +489,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Kullanıcı/CV kaynağıyla doğru bilgiyi belirleyip tek kaynağa bağlamak.
 - **Kabul:** Üç dilde biyografi ve gerekli diğer entity/profil bilgisi aynı doğrulanmış olguyu gösterir.
 - **Kanıt:** content-evidence.json; content-notes.md
+- **Yeniden üretim:** evidence/recheck-content-check.py --build-root BUILD ile 15 örnek çıktıyı tara; recheck-content-evidence.json ve bulgudaki kaynak satırını karşılaştır. Dış CV/klinik/hesap verisi bu komutla doğrulanmaz; gerekli onay/ölçüm ayrı bekler.
+- **Kullanıcı/arama etkisi:** Aynı kişinin çelişen doğum bilgisi güven ve doğruluk sorunu yaratır; doğru yıl denetimde seçilmedi.
 
 ### CT-03 — Hero sayısal iddiaları veri dayanağına bağlanmamış
 
-**P1 · Sabit iddia doğrulandı; gerçek dayanak Doğrulanamadı**
+**P1 · Doğrulandı — sabit iddia; gerçek dayanak Doğrulanamadı**
 
 - **URL/kapsam:** Üç dil ana sayfa: 25+ yıl, 20K+ girişim, 100+ yayın
 - **Kaynak:** layouts/partials/home/hero.html:60–69; content/tr/yayinlar/_index.md:27–193,197–198
@@ -408,10 +502,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Her iddianın tanımı, tarih aralığı, güncelliği ve gerçek dayanağını onaylamak; gizli kayıtları rapora/yayına kopyalamamak.
 - **Kabul:** Üç dil/CV/yayın kapsamı tutarlı; her sayı için sahibi ve doğrulanmış tanım/dayanak var.
 - **Kanıt:** content-evidence.json; content-notes.md
+- **Yeniden üretim:** evidence/recheck-content-check.py --build-root BUILD ile 15 örnek çıktıyı tara; recheck-content-evidence.json ve bulgudaki kaynak satırını karşılaştır. Dış CV/klinik/hesap verisi bu komutla doğrulanmaz; gerekli onay/ölçüm ayrı bekler.
+- **Kullanıcı/arama etkisi:** Okuyucu sayısal deneyim/yayın iddialarının kapsam ve dayanağını göremiyor; iddiaların yanlışlığı kanıtlanmadı.
 
 ### CT-04 — Hedef sağlık oranlarının okuyucu kaynakları yok
 
-**P1 · Kaynak boşluğu doğrulandı; klinik doğruluk Doğrulanamadı**
+**P1 · Doğrulandı — kaynak boşluğu; klinik doğruluk Doğrulanamadı**
 
 - **URL/kapsam:** /blog/diyabetik-ayak/, /blog/periferik-arter-hastaligi/, /hizmetler/dizalti-damar-tikanikligi/, /hizmetler/periferik-damar/
 - **Kaynak:** content/tr/blog/diyabetik-ayak/index.md:344–393,463–487; content/tr/hizmetler/dizalti-damar-tikanikligi/index.md:25,75–86
@@ -419,6 +515,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Hekimin her klinik iddiayı uygun güncel kılavuz/birincil çalışma, hasta grubu, takip süresi ve sonlanımla eşlemesi.
 - **Kabul:** Erişilebilir kaynak/tarih/bağlam ve gerçek review sorumlusu var; teknik başarı, açıklık, yara iyileşmesi ve ekstremite kurtarma karıştırılmaz; tıbbi değişiklik hekim onaylıdır.
 - **Kanıt:** content-evidence.json; content-notes.md
+- **Yeniden üretim:** evidence/recheck-content-check.py --build-root BUILD ile 15 örnek çıktıyı tara; recheck-content-evidence.json ve bulgudaki kaynak satırını karşılaştır. Dış CV/klinik/hesap verisi bu komutla doğrulanmaz; gerekli onay/ölçüm ayrı bekler.
+- **Kullanıcı/arama etkisi:** Hasta klinik oranların hangi grup/takip/sonlanıma ait olduğunu bağımsız doğrulayamıyor; klinik yanlışlık hükmü yok.
 
 ### CT-05 — Vasküler rehberlerden ilgili hizmetlere doğrudan geçiş yok
 
@@ -430,6 +528,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Klinik olarak uygun bağlamda mevcut rehber/hizmetleri doğru canonical ile bağlamak; diyabetik ayağı yalnız damar açmaya indirgememek.
 - **Kabul:** Anlamlı ve doğru dilde rehber–hizmet yolu; bağlantı taraması ve gerçek kullanıcı yolculuğu kontrolü.
 - **Kanıt:** content-evidence.json; content-notes.md/CT-05
+- **Yeniden üretim:** evidence/recheck-content-check.py --build-root BUILD ile 15 örnek çıktıyı tara; recheck-content-evidence.json ve bulgudaki kaynak satırını karşılaştır. Dış CV/klinik/hesap verisi bu komutla doğrulanmaz; gerekli onay/ölçüm ayrı bekler.
+- **Kullanıcı/arama etkisi:** Bilgilendirmeden ilgili gerçek hizmete hasta yolculuğu zayıf; sıralama kaybı ölçülmedi.
 
 ### CT-06 — Yazar kutusundan biyografiye bağlantı yok
 
@@ -441,6 +541,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Yazar kutusunu doğru dilde doğrulanmış biyografiye bağlamak; gerçek inceleyici/editör ile yazarı ayrı tutmak.
 - **Kabul:** Yazıdan ilgili hekim biyografisine ulaşılır; gösterilen unvan ve varsa inceleme rolü gerçek bilgiyle uyumlu.
 - **Kanıt:** content-evidence.json; content-notes.md
+- **Yeniden üretim:** evidence/recheck-content-check.py --build-root BUILD ile 15 örnek çıktıyı tara; recheck-content-evidence.json ve bulgudaki kaynak satırını karşılaştır. Dış CV/klinik/hesap verisi bu komutla doğrulanmaz; gerekli onay/ölçüm ayrı bekler.
+- **Kullanıcı/arama etkisi:** Yazıdan hekimin mesleki kanıtına doğrudan geçiş eksik; biyografi genel menüde var.
 
 ### CT-08 — Bilgi/hekim/hizmet sorgu rolleri netleştirilmeli
 
@@ -452,12 +554,27 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Önce sekiz sorgunun mevcut canonical/amaç eşlemesini hekimle onaylamak; yeni sayfayı yalnız gerçek hizmet kapsamı/niyet gerektiriyorsa açmak.
 - **Kabul:** Her sayfanın farklı kullanıcı ihtiyacı açık; GSC baseline/izleme planı var; şehir sayfası/anahtar kelime çoğaltması ve sıralama garantisi yok.
 - **Kanıt:** 05-keyword-url-map.csv; content-evidence.json
+- **Yeniden üretim:** evidence/recheck-content-check.py --build-root BUILD ile 15 örnek çıktıyı tara; recheck-content-evidence.json ve bulgudaki kaynak satırını karşılaştır. Dış CV/klinik/hesap verisi bu komutla doğrulanmaz; gerekli onay/ölçüm ayrı bekler.
+- **Kullanıcı/arama etkisi:** Bilgi/hekim/hizmet niyetleri karışabilir; GSC verisi olmadan cannibalization veya rank nedeni kesinleşmez.
+
+### CT-09 — Gizlilik açıklaması ile gerçek üretim veri akışı eşlenmeli
+
+**P2 · Güçlü aday — kaynak doğrulandı; runtime/hukuki sonuç Doğrulanamadı**
+
+- **URL/kapsam:** https://docdrhabibcil.com/kvkk/; /en/privacy/ ve /ar/privacy/; üç dil iletişim formları
+- **Kaynak:** content/tr/kvkk/index.md:30–55; layouts/partials/extend-head-uncached.html:9–24; üç contact index.md:56–58
+- **Olgu / kök neden:** Gizlilik sayfaları var; TR metin form/WhatsApp/sağlık verisini anıyor. Üretimde Google tag kodu ve Netlify form bağımlılığı var. Metinlerde bu altyapı ve saklama süresi açıklaması saptanmadı. Gerçek veri akışı/çerez/tercih davranışı ölçülmedi; bunların her birinin yasal zorunluluğu veya ihlal olduğu ileri sürülmüyor.
+- **Öneri:** Seçilen backend/analitik ve gerçek veri akışını görünür metin/tercihlerle yetkili uzman üzerinden eşlemek; gereksiz hasta verisi toplamamak.
+- **Kabul:** Üretim istek/çerez ve tercih testi; gerçek sağlayıcı/amaç/saklama kararları; üç dilde doğru açıklama; hukuki uygunluk için yetkili inceleme.
+- **Kanıt:** recheck-content-evidence.json; recheck-content-sources.md; 07-self-hosting-readiness.md/CT-09
+- **Yeniden üretim:** evidence/recheck-content-check.py --build-root BUILD ile 15 örnek çıktıyı tara; recheck-content-evidence.json ve bulgudaki kaynak satırını karşılaştır. Dış CV/klinik/hesap verisi bu komutla doğrulanmaz; gerekli onay/ölçüm ayrı bekler.
+- **Kullanıcı/arama etkisi:** Görünen açıklama gerçek üretim veri akışının tamamını yansıtmayabilir; hukuki ihlal veya consent davranışı doğrulanmadı.
 
 ## Kendi sunucusuna geçiş kapıları
 
 ### HOST-01 — Form backend’i ve teşekkür akışı taşınmıyor
 
-**P1 · Statik doğrulandı; CT-07 aynı bulgunun alias’ı**
+**P1 · Doğrulandı — statik; CT-07 aynı bulgunun alias’ı**
 
 - **URL/kapsam:** /iletisim/, /en/contact/, /ar/contact/
 - **Kaynak:** Her contact/iletisim index.md:56–58; teşekkür .md dosyaları parent index.md leaf bundle altında
@@ -465,10 +582,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Yeni backend/servis kararını, doğru dilde teşekkür/error URL’sini ve veri minimizasyonu/teslim akışını belirlemek.
 - **Kabul:** Yetkili, sentetik verili staging testinde POST başarı/hata/spam/teslim ve teşekkür yolu çalışır; yalnız başarı sayfası mesaj teslimi sayılmaz.
 - **Kanıt:** ui-static-extract.json; static-source-content.csv; 07-self-hosting-readiness.md
+- **Yeniden üretim:** 07-self-hosting-readiness.md içindeki dosya/satır ve üç dil form/redirect/header matrisini kaynakla karşılaştır. Hedef sunucuda sentetik staging POST ve GET/HEAD kabulünü çalıştırmak gerekir; bu denetimde NOT_RUN.
+- **Kullanıcı/arama etkisi:** Yalnız statik dosyalar taşınırsa Netlify form işleme/teslimi kendiliğinden taşınmaz; gerçek teslim testi yapılmadı.
 
 ### HOST-02 — Redirect/404 kuralları yeni sunucuda uygulanmayı bekliyor
 
-**P1 geçiş kapısı · Kaynak kuralları doğrulandı; hedef HTTP NOT_RUN**
+**P1 geçiş kapısı · Doğrulandı — kaynak kuralları; hedef HTTP NOT_RUN**
 
 - **URL/kapsam:** /tr/* ve üç dilde olmayan URL örnekleri
 - **Kaynak:** static/_redirects:5–11; netlify.toml:20–23
@@ -476,10 +595,12 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Ürün belirlendiğinde gerçek index/redirect/lokalize 404 kurallarını açıkça aktarmak; varsayımsal konfigürasyonu çalışmış saymamak.
 - **Kabul:** Tek 301, query/slash/UTF-8 korunması; mevcut sayfa 200; doğru dilde gövdeyle gerçek 404; SPA ana sayfa 200 fallback yok.
 - **Kanıt:** 07-self-hosting-readiness.md; ilgili kaynak dosyalar
+- **Yeniden üretim:** 07-self-hosting-readiness.md içindeki dosya/satır ve üç dil form/redirect/header matrisini kaynakla karşılaştır. Hedef sunucuda sentetik staging POST ve GET/HEAD kabulünü çalıştırmak gerekir; bu denetimde NOT_RUN.
+- **Kullanıcı/arama etkisi:** Eski URL ve hata durumları yeni sunucuda yanlış yanıt verebilir; hedef runtime henüz test edilmedi.
 
 ### HOST-03 — Üretim başlıkları ve sıkıştırma doğrulanmayı bekliyor
 
-**P2 geçiş kapısı · Kaynak politikası doğrulandı; hedef yanıt NOT_RUN**
+**P2 geçiş kapısı · Doğrulandı — kaynak politikası; hedef yanıt NOT_RUN**
 
 - **URL/kapsam:** /, pretty hizmet/blog URL’leri, JSON/XML/CSS/JS/model/görsel
 - **Kaynak:** netlify.toml:68–118
@@ -487,6 +608,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Gerçek hedef yanıtlarında Content-Type, cache, ETag/Last-Modified/304, gzip/Brotli ve uygun güvenlik başlıklarını doğrulamak.
 - **Kabul:** Temsilci dosya türlerinin GET/HEAD başlıkları ve cold/warm davranışı saklanır; çevrimdışı gzip tahmini HTTP sıkıştırması kanıtı sayılmaz.
 - **Kanıt:** 07-self-hosting-readiness.md; network-probes.json
+- **Yeniden üretim:** 07-self-hosting-readiness.md içindeki dosya/satır ve üç dil form/redirect/header matrisini kaynakla karşılaştır. Hedef sunucuda sentetik staging POST ve GET/HEAD kabulünü çalıştırmak gerekir; bu denetimde NOT_RUN.
+- **Kullanıcı/arama etkisi:** Yeni sunucuda stale içerik, MIME/güvenlik ve sıkıştırma davranışı kaynak dosyadan garanti edilemez.
 
 ### HOST-04 — Build sürümü ve güvenli yayın yöntemi sabitlenmemiş
 
@@ -498,6 +621,8 @@ Farklı sayım birimleri birbirine eklenmemelidir.
 - **Öneri:** Sürüm/tema commit’ini sabitlemek; ayrı build, staging, atomik yayın ve rollback tasarlamak; canlı dizinde kontrolsüz temizlik yapmamak.
 - **Kabul:** Tekrarlanabilir build manifest/hash, tam tarama sonucu ve test edilmiş geri dönüş yolu; üretimde Hugo watcher çalıştırma gereği yok.
 - **Kanıt:** production-build.log; initial-worktree-state.json; 07-self-hosting-readiness.md
+- **Yeniden üretim:** 07-self-hosting-readiness.md içindeki dosya/satır ve üç dil form/redirect/header matrisini kaynakla karşılaştır. Hedef sunucuda sentetik staging POST ve GET/HEAD kabulünü çalıştırmak gerekir; bu denetimde NOT_RUN.
+- **Kullanıcı/arama etkisi:** Farklı Hugo sürümü ve destrüktif build adımları tekrarlanabilir yayın/geri dönüşü zorlaştırır; mevcut build geçmiştir.
 
 ## Resmî doğrulayıcı sonuçları ve sınırı
 

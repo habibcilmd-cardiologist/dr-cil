@@ -1,29 +1,32 @@
 # Performans ve 3B kalp denetimi — 24 Kasım 2026
 
-## Bu turdaki bağımsız tekrar kontrolünün kapsamı
+## Yöntem, kaynak doğrulaması ve son durum
 
-Bu dosyada aşağıda korunan tarayıcı süreleri ve önceki üretim varlık ölçümleri,
-denetim klasöründe bu çalışma başlamadan önce bulunan kanıtlara aittir. Bu
-turda yeni bir Chrome/Lighthouse koşusu yapılmadı. Aktif ve eski 3B şablon,
-çağıran partial'lar ve koşullu yükleme/render davranışı kaynak satırlarından
-yeniden okundu; aşağıdaki `PERF-01`–`PERF-06` ayrımı korunmaktadır. Önceki
-geliştirme gözlemleri yeni üretim ölçümü olarak sunulmamaktadır.
+Bu rapor aynı denetimin izole production varlık taramasını, kaynak tekrar
+kontrolünü ve altı gerçek development tarayıcı tanı koşusunu birleştirir.
+Kanıtların ölçüm türü ayrıdır; development süreleri production benchmark
+olarak kullanılmaz. Ek çevrimdışı tekrar kontrolü
+`evidence/recheck-perf-evidence.json` içindedir. Bu ek kontrol yeni bir
+Chrome/Lighthouse ölçümü değil, mevcut build/kaynak eşleşmesi kontrolüdür.
 
-Yeni kanıt: `evidence/recheck-perf-evidence.json`. Mevcut izole üretim
-çıktısındaki TR/EN/AR ana sayfaların SHA-256'ları önceki varlık envanteriyle
-birebir eşleşti. 976 HTML yeniden tarandı: etkin partial model yolu 12
-dosyada, eski shortcode model yolu 0 dosyada, video etiketi 0 dosyada.
-Aktif GLB 1.511.228 bayt, tek mesh/primitive ve tek gömülü görseldir; eski GLB
-3.255.284 bayt ve bu çıktıda kullanılmıyor. Primitive sayısı gerçek draw-call
-ölçümü olarak sunulmamıştır. Yeni kanıtta Node v26.11.0, macOS 26.6.2 arm64
-ve PATH'te Lighthouse bulunmaması da kaydedilmiştir.
+İzole üretim çıktısındaki TR/EN/AR ana sayfa SHA-256'ları varlık envanteriyle
+eşleşti. 976 HTML taramasında aktif partial model yolu12, eski shortcode
+model yolu0, video etiketi0 dosyada. Aktif GLB1.511.228 bayt, tek
+mesh/primitive ve tek gömülü görseldir; eski GLB3.255.284 bayt ve kullanılmıyor.
+Primitive sayısı gerçek draw-call ölçümü değildir. Nodev26.11.0 ve PATH'te
+Lighthouse bulunmaması tooling kanıtında kayıtlıdır.
 
-24 Kasım 2026 tekrar kontrolünde web.dev'in Web Vitals, optimize-lcp ve
-browser-level-image-lazy-loading sayfaları yeniden açıldı. LCP ≤2.5 saniye,
-INP ≤200 ms ve CLS ≤0.1 hedeflerinin mobil/masaüstü ayrı p75 kapsamı;
-etkileşimsiz Lighthouse'ta TBT ile INP'nin aynı ölçüm olmaması ve
-laboratuvarın saha verisinin yerini tutmaması doğrulandı. Hero'ya körlemesine
-lazy yükleme önerilmemesinin dayanağı aynı resmî görsel yükleme rehberidir.
+**Son üretim testi durumu:** Shell'in ayrı1314server girişimi port yetkisi
+nedeniyle başarısız oldu. Kullanıcı komutu kendi terminalinde başlattı;
+`http://127.0.0.1:1314/` minify production sayfası gerçek tarayıcıda açıldı.
+Sonraki ağ/CPU/önbellek kontrol çağrısı takıldı ve kullanıcı bağlantıyı
+kesti. Tamamlanmış production timing koşusu **sıfır**; son kontrol
+komutlarının uygulanması/reset'i doğrulanmadı. Ayrıntı
+`08-coverage-and-limitations.md` ve `evidence/production-preview-server.log`.
+
+web.dev kaynaklarından LCP≤2.5s, INP≤200ms, CLS≤0.1 hedeflerinin cihaz
+bazında saha p75 kapsamı; TBT/INP ve lab/saha ayrımı doğrulandı. Ana görünümdeki
+hero görseline körlemesine lazy yükleme önerilmedi.
 
 Ek sınır: `isInitialized` bayrağı aynı partial örneğinde ikinci başlangıcı
 engeller (`three-heart.html:32,38–40`); bu, çalışma anında her sayfada tek
@@ -41,9 +44,9 @@ CPU/GPU etkisi **Ölçülmedi**. Hiçbir koşul için “performansa sıfır etk
 üretilmedi.** Üretim HTML ve varlıkları üzerinde gerçek bayt ölçümleri,
 yükleme öznitelikleri ve 3B çağrı zinciri doğrulandı. Ardından mevcut yerel
 **geliştirme** sunucusunda üç masaüstü viewport ve üç dar viewport tanılama
-koşusu kaydedildi; aşağıdaki ayrı bölümde medyan/aralıkları verildi. Ağ/port
-kısıtı ve PATH'te çalıştırılabilir Lighthouse bulunmaması nedeniyle tekrarlı
-**üretim Lighthouse** koşuları çalıştırılmadı. Rakip firmanın “masaüstü yavaş” iddiası
+koşusu kaydedildi; aşağıdaki ayrı bölümde medyan/aralıkları verildi. PATH'te Lighthouse bulunmadı; kullanıcı1314önizlemesini açtıktan sonraki
+ölçüm kontrol çağrısı da kesildi. Tekrarlı **üretim Lighthouse** koşuları
+çalıştırılmadı. Rakip firmanın “masaüstü yavaş” iddiası
 bu bulgularla ne doğrulanmış ne de çürütülmüş olur.
 
 | Denetim | Sonuç |
@@ -341,3 +344,11 @@ Ana kanıt: `evidence/performance-asset-inventory.json`, `.csv`,
 `browser-model-observations.json`, `performance-dev-summary.json`, üretim build log'u ve
 başlangıç çalışma ağacı manifesti. Kaynak satırları mevcut denetim snapshot'ına
 aittir; gelecekte değişirse yeniden doğrulanmalıdır.
+
+## Bu tur yeni production build doğrulaması
+
+`evidence/recheck-production-build.json` ve `.log` yeni ayrı minify build
+exit0 kaydıdır; `recheck-build-comparison.json` önceki/yeni 976 HTML
+byte-eşliğini doğrular. Yeni static tarama `recheck-production-static/`
+içindedir. Bu tekrar build/tarama tarayıcıda sunulan performans koşusu
+değildir; production timing/trace ve ≥3+3 cold benchmark tamamlanmadı.

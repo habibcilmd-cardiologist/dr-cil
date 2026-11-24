@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-24",
+  "build": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-recheck-production-0dcj_877/public",
+  "pages": [
+    {
+      "url": "https://docdrhabibcil.com/404.html",
+      "build_file": "404.html",
+      "html_lang": "tr",
+      "dir": "ltr",
+      "main_h1": "Sayfa Bulunamadı",
+      "main_hrefs": [
+        "/tr/",
+        "/tr/iletisim/",
+        "tel:+905339454639",
+        "https://wa.me/905339454639",
+        "#the-top"
+      ],
+      "http_status": "NOT_RUN"
+    },
+    {
+      "url": "https://docdrhabibcil.com/en/404.html",
+      "build_file": "en/404.html",
+      "html_lang": "en",
+      "dir": "ltr",
+      "main_h1": "Page Not Found",
+      "main_hrefs": [
+        "/en/",
+        "/en/contact/",
+        "tel:+905339454639",
+        "https://wa.me/905339454639",
+        "#the-top"
+      ],
+      "http_status": "NOT_RUN"
+    },
+    {
+      "url": "https://docdrhabibcil.com/ar/404.html",
+      "build_file": "ar/404.html",
+      "html_lang": "ar",
+      "dir": "rtl",
+      "main_h1": "Page Not Found",
+      "main_hrefs": [
+        "/en/",
+        "/en/contact/",
+        "tel:+905339454639",
+        "https://wa.me/905339454639",
+        "#the-top"
+      ],
+      "http_status": "NOT_RUN"
+    }
+  ],
+  "source_lines": {
+    "layouts/404.html": "8–15,19–43"
+  }
+}

@@ -393,3 +393,12 @@ FAQPage tekrarı bulunmadı. Bu taramanın JSON
 ayrıştırması, düğüm sayısı ve hedefli graph kontrolleri için kanıt sağladığı;
 tam JSON-LD expansion, klinik doğruluk, public HTTP veya Google indeks
 doğrulaması olmadığı korunur.
+
+## Yeni üretim derlemesiyle eşitlik
+
+Bu tur root denetiminde ayrıca ayrı minify production build alındı (exit0).
+`evidence/recheck-production-build.json` tam komut/env/hedefi kaydeder.
+`evidence/recheck-build-comparison.json`: önceki/yeni **976 HTML byte-eş**,
+fark0. Bu dosyanın mevcut çıktı sayımları yeni build için de geçerlidir;
+Google/Schema.org resmî servislerinin yeni production testinin yapıldığı
+anlamına gelmez. Canlı Netlify byte eşitliği hâlâ doğrulanmadı.

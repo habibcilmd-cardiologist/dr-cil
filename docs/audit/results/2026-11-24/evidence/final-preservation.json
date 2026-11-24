@@ -1,0 +1,13 @@
+{
+  "timestamp_utc": "2026-11-24T01:58:39.184412Z",
+  "initial_commit": "2fad17e0b2e07e38dceadaccc7c877732ee10d19",
+  "final_commit": "b2944ac5e70363d631ce0e48576d43e9db689f88",
+  "head_changed_during_audit": true,
+  "checked_initial_tracked_files": 593,
+  "changed_initial_tracked_files": [],
+  "missing_initial_tracked_files": [],
+  "final_git_status": " M docs/audit/results/2026-11-24/01-findings.md\n M docs/audit/results/2026-11-24/04-performance.md\n M docs/audit/results/2026-11-24/07-self-hosting-readiness.md\n?? docs/audit/dr-cil-audit-2026-11-24.zip\n?? docs/audit/results/2026-11-24/00-executive-summary.md\n?? docs/audit/results/2026-11-24/06-remediation-backlog.md\n?? docs/audit/results/2026-11-24/08-coverage-and-limitations.md\n?? docs/audit/results/2026-11-24/09-findings-matrix.csv\n?? docs/audit/results/2026-11-24/evidence/artifact-manifest.json\n?? docs/audit/results/2026-11-24/evidence/browser-session-final-status.json\n?? docs/audit/results/2026-11-24/evidence/final-preservation.json\n?? docs/audit/results/2026-11-24/evidence/finalize-audit.py\n?? docs/audit/results/2026-11-24/evidence/recheck-404.json\n?? docs/audit/results/2026-11-24/evidence/recheck-build-comparison.json\n?? docs/audit/results/2026-11-24/evidence/recheck-production-build.json\n?? docs/audit/results/2026-11-24/evidence/recheck-runtime-limitations.json\n",
+  "theme_commit": "7ce8be1d2f7e0cfef792433f4a1b42c0b66090f4",
+  "theme_worktree_status": "",
+  "interpretation": "Audit wrote results/helper evidence only. Existing application source bytes compared with initial snapshot; any external HEAD/index change is recorded, not attributed to audit actions."
+}

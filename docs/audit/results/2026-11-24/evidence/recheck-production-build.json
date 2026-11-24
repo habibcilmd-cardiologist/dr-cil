@@ -1,0 +1,23 @@
+{
+  "timestamp_utc": "2026-11-24T01:56:21.447761+00:00",
+  "command": [
+    "hugo",
+    "--environment",
+    "production",
+    "--minify",
+    "--destination",
+    "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-recheck-production-0dcj_877/public",
+    "--cacheDir",
+    "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-recheck-production-0dcj_877/cache",
+    "--noBuildLock"
+  ],
+  "environment_overrides": {
+    "HUGO_RESOURCEDIR": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-recheck-production-0dcj_877/resources",
+    "HUGO_CACHEDIR": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-recheck-production-0dcj_877/cache"
+  },
+  "exit_code": 0,
+  "output_root": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-recheck-production-0dcj_877/public",
+  "html_count": 976,
+  "no_gc": true,
+  "no_clean_destination": true
+}

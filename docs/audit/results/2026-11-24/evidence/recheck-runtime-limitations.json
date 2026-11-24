@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-24",
+  "browser_attempts": [
+    {
+      "call": "cua.getState()",
+      "result": "js execution timed out; kernel reset",
+      "timeout_ms": 30000
+    },
+    {
+      "call": "cua.getState()",
+      "result": "js execution timed out; kernel reset",
+      "timeout_ms": 60000
+    }
+  ],
+  "new_runtime_observations": 0,
+  "dns_search_tool": {
+    "site_A_AAAA_www_NS": "Internal Error / URL not accessible; no DNS reply available",
+    "control_google_com_A": {
+      "Status": 0,
+      "Answer": "142.251.142.238",
+      "tool_source": "turn536521092view3"
+    }
+  },
+  "dns_conclusion": "Prior browser-public-dns.json retained; no new site DNS result; search tool error is not NODATA/NXDOMAIN evidence",
+  "localhost_socket": "initial lsof -nP -iTCP:1313 -sTCP:LISTEN output empty, exit1; listening address not reverified; prior browser localhost access only",
+  "permissions": "No restriction bypass or user server restart"
+}

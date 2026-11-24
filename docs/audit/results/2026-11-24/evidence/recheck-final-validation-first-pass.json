@@ -1,0 +1,31 @@
+{
+  "timestamp_utc": "2026-11-24T02:06:55.124238+00:00",
+  "required_missing": [],
+  "csv_rows": {
+    "02-url-and-template-inventory.csv": 976,
+    "schema-inventory.csv": 3322,
+    "05-keyword-url-map.csv": 8,
+    "09-findings-matrix.csv": 42
+  },
+  "finding_unique_ids": 42,
+  "finding_empty_fields": [],
+  "local_report_link_missing": [],
+  "sample_urls_not_in_inventory_except_declared_legacy": [
+    "https://docdrhabibcil.com/en/blog/aortic-aneurysm/",
+    "https://docdrhabibcil.com/tr/**"
+  ],
+  "initial_commit": "2fad17e0b2e07e38dceadaccc7c877732ee10d19",
+  "current_head": "b2944ac5e70363d631ce0e48576d43e9db689f88",
+  "initial_file_count": 593,
+  "changed_initial_files": [],
+  "missing_initial_files": [],
+  "theme_status": "",
+  "triaged_unresolved_instances": 66,
+  "triaged_unresolved_targets": 42,
+  "triaged_affected_routes": 40,
+  "executive_word_count": 724,
+  "source_changes_by_audit": false,
+  "new_production_build_exit": 0,
+  "new_vs_prior_html_comparison": [],
+  "git_status": " M docs/audit/results/2026-11-24/01-findings.md\n M docs/audit/results/2026-11-24/03-schema-audit.md\n M docs/audit/results/2026-11-24/04-performance.md\n M docs/audit/results/2026-11-24/07-self-hosting-readiness.md\n?? docs/audit/dr-cil-audit-2026-11-24.zip\n?? docs/audit/results/2026-11-24/00-executive-summary.md\n?? docs/audit/results/2026-11-24/06-remediation-backlog.md\n?? docs/audit/results/2026-11-24/08-coverage-and-limitations.md\n?? docs/audit/results/2026-11-24/08-test-coverage.md\n?? docs/audit/results/2026-11-24/09-findings-matrix.csv\n?? docs/audit/results/2026-11-24/evidence/02-url-and-template-inventory.csv\n?? docs/audit/results/2026-11-24/evidence/README-reproduction.md\n?? docs/audit/results/2026-11-24/evidence/artifact-manifest.json\n?? docs/audit/results/2026-11-24/evidence/browser-session-final-status.json\n?? docs/audit/results/2026-11-24/evidence/final-preservation.json\n?? docs/audit/results/2026-11-24/evidence/finalize-audit.py\n?? docs/audit/results/2026-11-24/evidence/recheck-404.json\n?? docs/audit/results/2026-11-24/evidence/recheck-build-comparison.json\n?? docs/audit/results/2026-11-24/evidence/recheck-production-build.json\n?? docs/audit/results/2026-11-24/evidence/recheck-production-static/\n?? docs/audit/results/2026-11-24/evidence/recheck-runtime-limitations.json\n"
+}

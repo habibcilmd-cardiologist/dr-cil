@@ -4,17 +4,17 @@ Tarih: 24 Kasım 2026. İnceleme statik kaynak ve izole üretim çıktısına
 dayanır. Sunucu, DNS, Netlify veya hesap ayarı değiştirilmedi. Mevcut
 çalışan Hugo süreci durdurulmadı. Hedef işletim sistemi/sunucu ürünü,
 sunucu adresi, ters proxy ve sertifika yöntemi henüz doğrulanmış değil.
-Önceki aynı tarihli denetim kaydında tarayıcı üzerinden Google Public DNS
+Aynı denetimde tarayıcı üzerinden Google Public DNS
 JSON yanıtları alınmıştır (`browser-public-dns.json`):
 apex A/AAAA NODATA, www A/CNAME NXDOMAIN; kontrol `google.com` A yanıtı
 başarılıdır. Bu, mevcut web çözümlemesinde **NET-01 P0** durumunu gösterir.
 İkinci resolver, registrar kök nedeni, TLS/origin ve gerçek HTTP yanıtları
 henüz doğrulanmadı; bu dosyadaki “bekliyor” kayıtları başarı kabulü değildir.
-Bu turdaki kaynak/çıktı tekrar incelemesi
+Ek kaynak/çıktı tekrar incelemesi
 `evidence/recheck-content-evidence.json` (15 çıktı sayfası),
 `evidence/recheck-content-keyword-verification.json` (sekiz sorgu hedefi)
-ve `evidence/recheck-content-sources.md` içindedir. Önceki DNS kaydı yeni
-DNS ölçümü olarak sayılmadı; DNS'nin son durumu birleşik rapordadır.
+ve `evidence/recheck-content-sources.md` içindedir. Tek kamu resolver hizmetinden alınan DNS kanıtı, farklı bir ikinci
+resolver doğrulaması olarak sayılmadı; kapsam birleşik rapordadır.
 
 ## Sonuç
 

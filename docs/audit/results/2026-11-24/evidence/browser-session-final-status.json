@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-24",
+  "production_preview_url": "http://127.0.0.1:1314/",
+  "production_preview_started_by": "user in own Terminal after explicit input response",
+  "production_preview_opened_in_browser": true,
+  "completed_production_metric_runs": 0,
+  "last_control_call": "Network.enable, Network.setCacheDisabled, Emulation.setCPUThrottlingRate and Network.emulateNetworkConditions sequence",
+  "last_control_result": "aborted by user after 1121.7 seconds; no command results returned",
+  "command_application_and_reset_confirmed": false,
+  "further_CUA_measurements": "not attempted after interrupted browser part completed",
+  "limitations": "Do not infer successful CPU/network profile, completed metric series or production performance score. Existing development diagnostics and official validator/DNS results are independent saved observations."
+}
