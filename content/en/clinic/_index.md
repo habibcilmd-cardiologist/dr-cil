@@ -24,7 +24,7 @@ Procedures in this group cover examinations performed for the diagnosis and foll
 *   [**Electrocardiography (ECG)**](/en/services/ekg/) - Analysis of heart rhythm via electrodes
 *   [**Stress Test (Exercise ECG)**](/en/services/exercise-stress-test/) - Monitoring heart performance during exercise
 *   [**Holter Monitoring**](/en/services/holter/) - Continuous recording of heart rhythm for a specific period
-*   [**Coronary Angiography**](/en/services/cardiac-angiography/) - Imaging of heart vessels
+*   [**Coronary Angiography**](/en/services/angiography/) - Imaging of heart vessels
 
 ---
 
@@ -32,7 +32,7 @@ Procedures in this group cover examinations performed for the diagnosis and foll
 
 Includes procedures aimed at opening vascular occlusions and stenoses via catheterization.
 
-*   [**Coronary Angioplasty and Stent**](/en/services/coronary-angioplasty/) - Vessel opening procedures
+*   [**Coronary Angioplasty and Stent**](/en/services/angioplasty/) - Vessel opening procedures
 *   [**CTO Interventions**](/en/services/cto-intervention/) - Opening completely blocked vessels
 *   [**Left Main Coronary Stent**](/en/services/left-main-coronary-stent/) - Interventional procedure for main vessel stenosis
 *   **Complex Bifurcation Interventions** - Interventional procedures for challenging vessel structures
@@ -54,7 +54,7 @@ Procedures for the repair of heart valves and congenital structural defects usin
 Applications for the treatment of stenoses in major vessels outside the heart (carotid artery, leg vessels, etc.).
 
 *   [**Carotid Artery Interventions**](/en/services/carotid-stenosis/) - Management of carotid artery stenosis
-*   [**Lower/Upper Extremity Interventions**](/en/services/lower-extremity-arterial-disease/) - Management of arm and leg vessel occlusions
+*   [**Lower/Upper Extremity Interventions**](/en/services/peripheral-vascular/) - Management of arm and leg vessel occlusions
 *   [**Renal Artery Interventions**](/en/services/renal-artery-stenosis/) - Procedures for kidney vessel stenosis
 
 ---

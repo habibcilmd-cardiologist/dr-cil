@@ -755,6 +755,6 @@ Early diagnosis and appropriate treatment are vital. If you notice any changes i
 
 If you have questions about diabetic foot or would like to schedule an evaluation, please feel free to contact me.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

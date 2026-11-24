@@ -342,6 +342,6 @@ Regular blood pressure monitoring is essential for early diagnosis and treatment
 
 If you have concerns about your blood pressure readings or want to consult about hypertension treatment, please feel free to contact me.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

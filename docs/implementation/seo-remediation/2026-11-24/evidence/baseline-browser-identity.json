@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-24",
+  "url": "http://127.0.0.1:1314/",
+  "status": 200,
+  "bytes": 101605,
+  "sha256": "5443e2b1e1d457569a8dac8ab4b21df104705dbd1bfe8f3484aee8387539b5a8",
+  "matches_frozen_baseline": true,
+  "canonical": "https://docdrhabibcil.com/",
+  "viewport": [
+    1280,
+    720
+  ],
+  "dpr": 2,
+  "ua": "Chrome/158.0.0.0",
+  "method": "CUA tab5 scoped CDP Runtime.evaluate fetch no-store + SHA256",
+  "not_a_performance_run": true
+}

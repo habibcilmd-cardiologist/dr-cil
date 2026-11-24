@@ -1,10 +1,9 @@
 ---
 title: Diyabetik Ayak Nedir? Belirtileri, Tedavisi ve Korunma Yöntemleri
-description: Diyabetik ayak hakkında kapsamlı rehber. Girişimsel kardiyoloji ile bacak
-  kurtarma, endovasküler tedavi, damar açma işlemleri. Belirtiler, tedavi yöntemleri
-  ve ampütasyon riskini azaltma stratejileri.
+description: Diyabetik ayak belirtileri, ayak bakımı ve tedavi yaklaşımları hakkında
+  rehber. Yara bakımı, enfeksiyon, damar değerlendirmesi ve ilgili hizmet sayfaları.
 date: 2025-12-17
-lastmod: 2025-12-17
+lastmod: 2026-11-24
 translationKey: diabetic-foot
 categories:
 - Kardiyoloji
@@ -764,3 +763,14 @@ Erken tanı ve uygun tedavi hayati önem taşır. Ayaklarınızda herhangi bir d
 Diyabetik ayak hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, uzman bir sağlık kuruluşu ile iletişime geçebilirsiniz.
 
 {{< contact-buttons >}}
+
+## İlgili rehber ve hizmetler
+
+Bu rehberdeki damar değerlendirmesi başlığıyla birlikte
+[periferik arter hastalığı rehberini](/blog/periferik-arter-hastaligi/)
+okuyabilirsiniz. Mevcut hizmetlerin kapsamı
+[periferik damar hastalıkları](/hizmetler/periferik-damar/) ve
+[diz altı damar açma](/hizmetler/dizalti-damar-tikanikligi/)
+sayfalarında ayrıca açıklanır. Hekimin
+[mesleki geçmişi](/hakkimda/), [yayınları](/yayinlar/) ve
+[iletişim seçenekleri](/iletisim/) ilgili sayfalarda yer alır.

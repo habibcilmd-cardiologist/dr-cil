@@ -159,7 +159,7 @@ Aort, kalpten çıkan ve vücuda oksijenlenmiş kanı dağıtan ana atardamardı
 **Değiştirilebilir Risk Faktörleri:**
 
 -   **Sigara:** En güçlü risk faktörü (risk 5-6 kat artar)
--   **[Hipertansiyon](/tr/blog/hipertansiyon-nedir/):** Kontrolsüz yüksek tansiyon
+-   **[Hipertansiyon](/blog/hipertansiyon-nedir/):** Kontrolsüz yüksek tansiyon
 -   **Hiperkolesterolemi:** Yüksek LDL, düşük HDL
 -   **Obezite:** Vücut kitle indeksi >30
 -   **Hareketsiz Yaşam:** Fiziksel aktivite eksikliği
@@ -255,7 +255,7 @@ Anevrizmaların büyük çoğunluğu (%70-80) belirti vermez. Tesadüfen yapıla
 -   Bağ dokusu hastalıklarında duvar özelliklerini gösterebilir
 -   Metal implantlar, klostrofobi kısıtlamaları
 
-**[Transözofageal Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) (TEE):**
+**[Transözofageal Ekokardiyografi](/hizmetler/ekokardiyografi/) (TEE):**
 
 -   Torasik aort değerlendirmesinde detaylı görüntüleme
 -   Aort kapağı ve çıkan aort segmenti için ideal
@@ -296,7 +296,7 @@ Tedavi kararı anevrizma özelliklerine, hastanın klinik durumuna ve risk fakt�
 **Risk Faktörü Modifikasyonu:**
 
 -   **Sigara Bırakma:** En kritik müdahale
--   **[Kan Basıncı Kontrolü](/tr/hizmetler/hipertansiyon/):** Hedef <130/80 mmHg
+-   **[Kan Basıncı Kontrolü](/hizmetler/hipertansiyon/):** Hedef <130/80 mmHg
 -   **Statin Tedavisi:** LDL <70 mg/dL (plak stabilizasyonu)
 -   **Beta Blokerler:** Marfan sendromunda progresyonu yavaşlatma
 -   **ACE İnhibitörleri/ARB:** Bağ dokusu hastalıklarında TGF-β inhibisyonu

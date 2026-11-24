@@ -1,0 +1,17 @@
+{
+  "localized_control_keys": {
+    "tr": 29,
+    "en": 29,
+    "ar": 29
+  },
+  "same_key_sets": true,
+  "new_duplicate_keys": {
+    "tr": [],
+    "en": [],
+    "ar": []
+  },
+  "ui_contract_helper_ast": "PASS; no bytecode written",
+  "py_compile_attempt": "Blocked: global Python cache outside permitted roots; replaced by in-memory AST parse, not a runtime test",
+  "runtime_tests": "NOT_RUN by UI agent; root owns real browser/layout/zoom checks",
+  "ui_isolated_hugo_build": "TIMEOUT180seconds; final integration build required"
+}

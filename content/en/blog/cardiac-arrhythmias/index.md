@@ -425,6 +425,6 @@ You can reduce arrhythmia risk by controlling risk factors:
 
 If you're experiencing arrhythmia symptoms or have arrhythmia risk factors, you can schedule an appointment for comprehensive cardiac evaluation.
 
-{{< button href="/contact/" target="_self" >}}
+{{< button href="/en/contact/" target="_self" >}}
 Schedule Appointment
 {{< /button >}}

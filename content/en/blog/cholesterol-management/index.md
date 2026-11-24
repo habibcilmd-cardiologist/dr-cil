@@ -372,6 +372,6 @@ Regular cholesterol monitoring and appropriate treatment significantly reduce he
 
 If you have questions about your cholesterol levels or would like to schedule an evaluation, please feel free to contact me.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

@@ -1,0 +1,46 @@
+{{/* A form is rendered only when an actual delivery service is selected. */}}
+{{ $lang := .Site.Language.Lang }}
+{{ $copy := index (dict
+  "tr" (dict "unavailable" "İletişim için telefon veya WhatsApp seçeneklerini kullanabilirsiniz." "phone" "Telefon" "message" "WhatsApp ile iletişim" "notice" "Lütfen bu forma tahlil sonucu veya sağlık bilgisi yazmayın." "name" "Adınız Soyadınız" "telephone" "Telefon" "email" "E-posta (isteğe bağlı)" "body" "Mesajınız" "send" "Gönder" "privacy" "Kişisel veriler hakkında bilgilendirme" "trap" "Bu alanı boş bırakın")
+  "en" (dict "unavailable" "Please use the telephone or WhatsApp contact options." "phone" "Telephone" "message" "Contact via WhatsApp" "notice" "Please do not include test results or health information in this form." "name" "Full name" "telephone" "Telephone" "email" "Email (optional)" "body" "Message" "send" "Send" "privacy" "Personal data information" "trap" "Leave this field empty")
+  "ar" (dict "unavailable" "يمكنكم التواصل عبر الهاتف أو واتساب." "phone" "الهاتف" "message" "التواصل عبر واتساب" "notice" "يرجى عدم إدراج نتائج الفحوصات أو المعلومات الصحية في هذا النموذج." "name" "الاسم الكامل" "telephone" "الهاتف" "email" "البريد الإلكتروني (اختياري)" "body" "الرسالة" "send" "إرسال" "privacy" "معلومات حول البيانات الشخصية" "trap" "اترك هذا الحقل فارغاً")
+) $lang }}
+{{ $settings := .Site.Params.contactForm | default dict }}
+{{ $provider := $settings.provider | default "disabled" }}
+{{ $netlify := eq $provider "netlify" }}
+{{ $action := "" }}
+{{ if $netlify }}
+  {{ $action = .Get "success" }}
+{{ else if eq $provider "endpoint" }}
+  {{ $action = $settings.endpoint | default "" }}
+{{ end }}
+{{ $allowed := and $action (or (and (hasPrefix $action "/") (not (hasPrefix $action "//"))) (hasPrefix $action "https://")) }}
+{{ $privacy := cond (eq $lang "tr") "/kvkk/" (printf "/%s/privacy/" $lang) }}
+{{ $id := printf "contact-%s" $lang }}
+
+{{ if $allowed }}
+<form name="{{ $id }}" method="POST" action="{{ $action }}" class="space-y-4"
+  aria-describedby="{{ $id }}-notice"{{ if $netlify }} data-netlify="true" netlify-honeypot="bot-field"{{ end }}>
+  {{ if $netlify }}
+  <input type="hidden" name="form-name" value="{{ $id }}">
+  <p hidden><label>{{ $copy.trap }}<input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+  {{ end }}
+  <p id="{{ $id }}-notice">{{ $copy.notice }} <a href="{{ $privacy }}">{{ $copy.privacy }}</a>.</p>
+  <div><label for="{{ $id }}-name">{{ $copy.name }} *</label>
+    <input class="w-full px-4 py-2 border rounded-lg" id="{{ $id }}-name" type="text" name="name" autocomplete="name" required maxlength="120"></div>
+  <div><label for="{{ $id }}-phone">{{ $copy.telephone }} *</label>
+    <input class="w-full px-4 py-2 border rounded-lg" id="{{ $id }}-phone" type="tel" name="phone" autocomplete="tel" required maxlength="40"></div>
+  <div><label for="{{ $id }}-email">{{ $copy.email }}</label>
+    <input class="w-full px-4 py-2 border rounded-lg" id="{{ $id }}-email" type="email" name="email" autocomplete="email" maxlength="254"></div>
+  <div><label for="{{ $id }}-body">{{ $copy.body }} *</label>
+    <textarea class="w-full px-4 py-2 border rounded-lg" id="{{ $id }}-body" name="message" rows="4" required maxlength="3000"></textarea></div>
+  <button class="px-6 py-3 bg-primary-600 text-white rounded-lg" type="submit">{{ $copy.send }}</button>
+</form>
+{{ else }}
+<div class="space-y-4" data-contact-fallback>
+  <p>{{ $copy.unavailable }}</p>
+  <p><a href="tel:+902126655050">{{ $copy.phone }}: +90 212 665 50 50</a> ·
+    <a href="https://wa.me/905339454639" target="_blank" rel="noopener noreferrer">{{ $copy.message }}</a></p>
+  <p><a href="{{ $privacy }}">{{ $copy.privacy }}</a></p>
+</div>
+{{ end }}

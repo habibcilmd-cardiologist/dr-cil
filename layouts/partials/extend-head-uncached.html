@@ -23,13 +23,6 @@ Dr. Habib ÇİL - Extended Head Partial (Uncached) Includes: Physician Schema
 </script>
 {{ end }}
 
-{{/* Hreflang Tags */}} {{ if .IsTranslated }} {{ range .AllTranslations }}
-<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
-{{ end }}
-<link
-	rel="alternate"
-	hreflang="x-default"
-	href="{{ .Sites.Default.Home.Permalink }}"
-/>
-{{ end }} {{/* JSON-LD schemas moved to layouts/partials/schema.html to avoid
+{{ partial "seo/alternates.html" . }}
+{{/* JSON-LD schemas moved to layouts/partials/schema.html to avoid
 duplicate graphs/contexts. */}}

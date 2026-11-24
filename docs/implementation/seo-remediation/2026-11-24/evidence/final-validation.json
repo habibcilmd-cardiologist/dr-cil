@@ -1,0 +1,23 @@
+{
+  "timestamp_utc": "2026-11-24T03:35:29.635206+00:00",
+  "required_missing": [],
+  "missing_local_report_links": [],
+  "finding_ids": 42,
+  "packages": 15,
+  "keyword_rows": 8,
+  "source_patch_bytes": 277143,
+  "changed_tracked_source_count": 89,
+  "new_source_count": 29,
+  "audit_changed": [],
+  "resources_changed": [],
+  "theme_clean": true,
+  "schema_targeted_errors": 0,
+  "ui_contract_errors": 0,
+  "release_checks_passed": 32,
+  "contact_cases_passed": 8,
+  "heart_node_cases_passed": 9,
+  "percent_claim_lines_unchanged": 47,
+  "diff_check_exit": 0,
+  "artifact_and_local_acceptance_pass": true,
+  "full_browser_production_external_acceptance": "NOT_RUN / pending; see06-launch-readiness.md"
+}

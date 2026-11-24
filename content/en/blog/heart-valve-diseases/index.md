@@ -367,6 +367,6 @@ Regular cardiology follow-up is critical for early diagnosis and timely treatmen
 
 If you have questions about heart valve diseases or would like to schedule an evaluation, please feel free to contact me.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

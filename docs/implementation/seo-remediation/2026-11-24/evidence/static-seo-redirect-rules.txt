@@ -1,0 +1,14 @@
+# Insert these exact rules before the language/default 404 catch-alls.
+/ar/page/1/ /ar/ 301!
+/ar/page/2/ /ar/ 301!
+/ar/page/3/ /ar/ 301!
+/ar/page/4/ /ar/ 301!
+/en/page/1/ /en/ 301!
+/en/page/2/ /en/ 301!
+/en/page/3/ /en/ 301!
+/en/page/4/ /en/ 301!
+/page/1/ / 301!
+/page/2/ / 301!
+/page/3/ / 301!
+/page/4/ / 301!
+/hizmetler/sitemap.xml /sitemap.xml 301!

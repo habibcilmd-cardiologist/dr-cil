@@ -177,8 +177,8 @@ If you would like to schedule an appointment for mitral valve disease evaluation
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
 Other structural heart treatments related to mitral valve disease:
 
--   [MitraClip](/services/mitraclip/) - Transcatheter mitral valve repair
--   [Balloon Valvuloplasty](/services/balloon-valvuloplasty/) - Balloon valve dilation
--   [Echocardiography](/services/echocardiography/) - Valve assessment
--   [Tricuspid Valve](/services/tricuspid-valve/) - Tricuspid valve diseases
--   [Heart Failure](/services/heart-failure/) - Heart failure treatment
+-   [MitraClip](/en/services/mitraclip/) - Transcatheter mitral valve repair
+-   [Balloon Valvuloplasty](/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/) - Balloon valve dilation
+-   [Echocardiography](/en/services/echocardiography/) - Valve assessment
+-   [Tricuspid Valve](/en/services/tricuspid-valve/) - Tricuspid valve diseases
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment

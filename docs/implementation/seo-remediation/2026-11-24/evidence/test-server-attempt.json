@@ -1,0 +1,8 @@
+{
+  "command": "python3 -m http.server 1315 --bind 127.0.0.1 --directory FROZEN_BASELINE_PUBLIC",
+  "exit_code": 1,
+  "error": "PermissionError: [Errno 1] Operation not permitted at socket.bind",
+  "restriction_bypassed": false,
+  "user_servers_restarted": false,
+  "consequence": "New final production test server not available from this execution environment"
+}

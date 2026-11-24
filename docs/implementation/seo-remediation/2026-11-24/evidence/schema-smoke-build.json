@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-24T02:39:16.986703+00:00",
+  "args": [
+    "hugo",
+    "--environment",
+    "production",
+    "--minify",
+    "--noBuildLock",
+    "--destination",
+    "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-schema-smoke-p2g0fq94/public",
+    "--cacheDir",
+    "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-schema-smoke-p2g0fq94/cache"
+  ],
+  "env": {
+    "HUGO_RESOURCEDIR": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-schema-smoke-p2g0fq94/resources",
+    "HUGO_CACHEDIR": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-schema-smoke-p2g0fq94/cache"
+  },
+  "exit_code": 0,
+  "root": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-schema-smoke-p2g0fq94/public",
+  "scope": "intermediate integrated source snapshot; final acceptance build belongs to root"
+}

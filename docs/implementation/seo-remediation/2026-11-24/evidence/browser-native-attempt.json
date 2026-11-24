@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-24",
+  "surface": "Native Google Chrome through CUA",
+  "url": "http://localhost:1313/",
+  "opened_separate_test_window": true,
+  "observed_heading": "Bu siteye ulaşılamıyor",
+  "observed_error": "ERR_CONNECTION_REFUSED",
+  "native_zoom_test": "NOT_RUN: site did not load",
+  "after_runtime_visual_acceptance": "NOT_RUN",
+  "test_window_closed": true,
+  "existing_user_window_preserved": true,
+  "server_restarted_or_restriction_bypassed": false,
+  "screenshot": "Error state emitted in CUA tool output; no successful after screenshot exists",
+  "interpretation": "This is a local preview connection result, not public-domain DNS or production origin status."
+}

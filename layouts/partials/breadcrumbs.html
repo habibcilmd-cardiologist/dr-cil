@@ -1,28 +1,18 @@
-<ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
-	{{/* Always show Home link first */}}
-	<li class="inline">
-		<a
-			class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
-			href="{{ .Site.Home.RelPermalink }}"
-		>
-			{{- if eq .Site.Language.Lang "tr" -}} Ana Sayfa {{- else if eq
-			.Site.Language.Lang "ar" -}} الرئيسية {{- else -}} Home {{- end -}}
-		</a>
-		<span class="px-1 text-primary-500">/</span>
-	</li>
-	{{/* Show parent section if exists (e.g., Blog) */}} {{ if .Parent }} {{ if
-	not .Parent.IsHome }}
-	<li class="inline">
-		<a
-			class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
-			href="{{ .Parent.RelPermalink }}"
-		>
-			{{ .Parent.Title }}
-		</a>
-		<span class="px-1 text-primary-500">/</span>
-	</li>
-	{{ end }} {{ end }} {{/* Show current page title */}}
-	<li class="inline font-medium text-neutral-700 dark:text-neutral-300">
-		{{ .Title }}
-	</li>
-</ol>
+{{ $items := partial "schema-breadcrumb-items.html" . }}
+{{ $labels := dict "tr" "İçerik yolu" "en" "Breadcrumb" "ar" "مسار التنقل" }}
+{{ with $items }}
+<nav aria-label="{{ index $labels site.Language.Lang }}" class="print:hidden">
+  <ol class="text-sm text-neutral-500 dark:text-neutral-400">
+    {{ range $index, $item := . }}
+    <li class="inline{{ if eq (add $index 1) (len $items) }} font-medium text-neutral-700 dark:text-neutral-300{{ end }}">
+      {{ if eq (add $index 1) (len $items) }}
+        <span aria-current="page">{{ $item.name }}</span>
+      {{ else }}
+        <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="{{ $item.item }}">{{ $item.name }}</a>
+        <span class="px-1 text-primary-500" aria-hidden="true">/</span>
+      {{ end }}
+    </li>
+    {{ end }}
+  </ol>
+</nav>
+{{ end }}

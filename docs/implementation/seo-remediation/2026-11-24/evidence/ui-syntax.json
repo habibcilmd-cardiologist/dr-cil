@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-24",
+  "checks": [
+    {
+      "source": "assets/js/search.js",
+      "command": [
+        "node",
+        "--check",
+        "assets/js/search.js"
+      ],
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "source": "assets/js/mobilemenu.js",
+      "command": [
+        "node",
+        "--check",
+        "assets/js/mobilemenu.js"
+      ],
+      "exit_code": 0,
+      "stderr": ""
+    },
+    {
+      "source": "layouts/partials/extend-footer.html script[0]",
+      "command": [
+        "node",
+        "--check",
+        "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/drcil-ui-footer-final-0.js"
+      ],
+      "exit_code": 0,
+      "stderr": ""
+    }
+  ],
+  "scope": "JS syntax only; runtime keyboard/focus/layout not exercised"
+}

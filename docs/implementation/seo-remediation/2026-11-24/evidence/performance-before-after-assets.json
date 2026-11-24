@@ -1,0 +1,774 @@
+{
+  "date_utc": "2026-11-24T03:08:44.961553+00:00",
+  "type": "offline artifact inventory only; no HTTP, browser or performance score",
+  "before": {
+    "root": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-implementation-baseline-ev_cpc_t/public",
+    "html_files": 976,
+    "pages": {
+      "index.html": {
+        "html_bytes": 101605,
+        "sha256": "5443e2b1e1d457569a8dac8ab4b21df104705dbd1bfe8f3484aee8387539b5a8",
+        "hero_images": [
+          {
+            "src": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp",
+            "alt": "Doç. Dr. Habib ÇİL",
+            "class": "home-hero-image",
+            "loading": "eager"
+          }
+        ],
+        "scripts": [
+          {
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 3615
+          },
+          {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 8828
+          },
+          {
+            "src": "/js/main.bundle.min.0398bf7f50077f6620b98fd1ba89ae664c29efd1dbd549e95daa4533e6e63f2da46ea69eaf666261bd7e2db790de129c6c4441d7ef7d9bb015461e8945e86212.js",
+            "type": "text/javascript",
+            "defer": true,
+            "async": false,
+            "file_bytes": 34017
+          },
+          {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 70264
+          },
+          {
+            "src": "",
+            "type": "application/ld+json",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK",
+            "type": "",
+            "defer": false,
+            "async": true,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 826
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 1003
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          }
+        ],
+        "viewer_count": 0,
+        "viewer_data": []
+      },
+      "en/index.html": {
+        "html_bytes": 99224,
+        "sha256": "c75ec47acf7df76ee7ea4d3fce04e6c32b7e1d5085c135a5eeb45726cf0a4658",
+        "hero_images": [
+          {
+            "src": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp",
+            "alt": "Assoc. Prof. Dr. Habib ÇİL",
+            "class": "home-hero-image",
+            "loading": "eager"
+          }
+        ],
+        "scripts": [
+          {
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 3615
+          },
+          {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 8828
+          },
+          {
+            "src": "/js/main.bundle.min.0398bf7f50077f6620b98fd1ba89ae664c29efd1dbd549e95daa4533e6e63f2da46ea69eaf666261bd7e2db790de129c6c4441d7ef7d9bb015461e8945e86212.js",
+            "type": "text/javascript",
+            "defer": true,
+            "async": false,
+            "file_bytes": 34017
+          },
+          {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 70264
+          },
+          {
+            "src": "",
+            "type": "application/ld+json",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK",
+            "type": "",
+            "defer": false,
+            "async": true,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 826
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 1003
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          }
+        ],
+        "viewer_count": 0,
+        "viewer_data": []
+      },
+      "ar/index.html": {
+        "html_bytes": 124161,
+        "sha256": "760dad74514b5a6d526c2330eeb043060a910b3d2800d7d25f6451a1dbce385f",
+        "hero_images": [
+          {
+            "src": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp",
+            "alt": "أ.د. حبيب جيل",
+            "class": "home-hero-image",
+            "loading": "eager"
+          }
+        ],
+        "scripts": [
+          {
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 3615
+          },
+          {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 8828
+          },
+          {
+            "src": "/js/main.bundle.min.0398bf7f50077f6620b98fd1ba89ae664c29efd1dbd549e95daa4533e6e63f2da46ea69eaf666261bd7e2db790de129c6c4441d7ef7d9bb015461e8945e86212.js",
+            "type": "text/javascript",
+            "defer": true,
+            "async": false,
+            "file_bytes": 34017
+          },
+          {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 70264
+          },
+          {
+            "src": "",
+            "type": "application/ld+json",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK",
+            "type": "",
+            "defer": false,
+            "async": true,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 826
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 1003
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          }
+        ],
+        "viewer_count": 0,
+        "viewer_data": []
+      }
+    },
+    "active_model": {
+      "bytes": 1511228,
+      "sha256": "76836a4164bec704267ff709d17e6886268b3807df12a1f4f37fabf59fdbb2ff"
+    },
+    "poster": {
+      "bytes": 86028,
+      "sha256": "56bda3a1ca1d5e352a2257ea3472856ce99d9cc8f6060ef2fbd447d417de823e"
+    }
+  },
+  "after": {
+    "root": "/tmp/dr-cil-implementation-after-20261124-release/public",
+    "html_files": 967,
+    "pages": {
+      "index.html": {
+        "html_bytes": 110410,
+        "sha256": "4a79c1dad0267299b166a0e932005d98a10aff97f393529267a2dcdc3d9ba4ef",
+        "hero_images": [
+          {
+            "src": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp",
+            "alt": "Doç. Dr. Habib ÇİL",
+            "width": "640",
+            "height": "640",
+            "srcset": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_d532be0358033442.webp 320w, /img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_7eeed48cce009f2c.webp 480w, /img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp 640w",
+            "sizes": "(max-width: 640px) 360px, (max-width: 1023px) 520px, 580px",
+            "class": "home-hero-image",
+            "loading": "eager",
+            "fetchpriority": "high",
+            "decoding": "async"
+          }
+        ],
+        "scripts": [
+          {
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 3615
+          },
+          {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 8828
+          },
+          {
+            "src": "/js/main.bundle.min.0a3198647373a47b0e7b67d162c33ed3cc1eb54c1cd1f09ae770c6355559752139c1c20e13e10e75326461a9188ac82f98816103ae93dc5ca6283c381970332b.js",
+            "type": "text/javascript",
+            "defer": true,
+            "async": false,
+            "file_bytes": 35165
+          },
+          {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 70264
+          },
+          {
+            "src": "",
+            "type": "application/ld+json",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK",
+            "type": "",
+            "defer": false,
+            "async": true,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 826
+          },
+          {
+            "src": "/js/heart-viewer.min.fa0263c732554a8fc0a39cbb8084e110f59f1dc62384b2382771375c1d9873c4.js",
+            "type": "module",
+            "defer": false,
+            "async": false,
+            "file_bytes": 6911
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 1003
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          }
+        ],
+        "viewer_count": 1,
+        "viewer_data": [
+          {
+            "id": "heart-model-container",
+            "class": "heart-model-container",
+            "data-heart-model": null,
+            "data-model-url": "/models/3d-kalp-modeli-doc-dr-habib-cil-istanbul-kardiyoloji-uzmani.glb",
+            "data-loading-label": "Kalp Modeli Yükleniyor...",
+            "data-error-label": "3B görünüm yüklenemedi. Kalp çizimini inceleyebilir veya yeniden deneyebilirsiniz.",
+            "data-retry-label": "Tekrar dene",
+            "data-pause-label": "Döndürmeyi durdur",
+            "data-play-label": "Döndürmeyi başlat",
+            "style": "width:100%;height:100%;min-height:400px"
+          }
+        ]
+      },
+      "en/index.html": {
+        "html_bytes": 106544,
+        "sha256": "496fa188a3c52c2371cbbfe9c43711127ba48640a032fbae92847dc7c7c02d20",
+        "hero_images": [
+          {
+            "src": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp",
+            "alt": "Assoc. Prof. Dr. Habib ÇİL",
+            "width": "640",
+            "height": "640",
+            "srcset": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_d532be0358033442.webp 320w, /img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_7eeed48cce009f2c.webp 480w, /img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp 640w",
+            "sizes": "(max-width: 640px) 360px, (max-width: 1023px) 520px, 580px",
+            "class": "home-hero-image",
+            "loading": "eager",
+            "fetchpriority": "high",
+            "decoding": "async"
+          }
+        ],
+        "scripts": [
+          {
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 3615
+          },
+          {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 8828
+          },
+          {
+            "src": "/js/main.bundle.min.0a3198647373a47b0e7b67d162c33ed3cc1eb54c1cd1f09ae770c6355559752139c1c20e13e10e75326461a9188ac82f98816103ae93dc5ca6283c381970332b.js",
+            "type": "text/javascript",
+            "defer": true,
+            "async": false,
+            "file_bytes": 35165
+          },
+          {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 70264
+          },
+          {
+            "src": "",
+            "type": "application/ld+json",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK",
+            "type": "",
+            "defer": false,
+            "async": true,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 826
+          },
+          {
+            "src": "/js/heart-viewer.min.fa0263c732554a8fc0a39cbb8084e110f59f1dc62384b2382771375c1d9873c4.js",
+            "type": "module",
+            "defer": false,
+            "async": false,
+            "file_bytes": 6911
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 1003
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          }
+        ],
+        "viewer_count": 1,
+        "viewer_data": [
+          {
+            "id": "heart-model-container",
+            "class": "heart-model-container",
+            "data-heart-model": null,
+            "data-model-url": "/models/3d-kalp-modeli-doc-dr-habib-cil-istanbul-kardiyoloji-uzmani.glb",
+            "data-loading-label": "Loading Heart Model...",
+            "data-error-label": "The 3D view could not load. You can view the heart illustration or try again.",
+            "data-retry-label": "Try again",
+            "data-pause-label": "Pause rotation",
+            "data-play-label": "Start rotation",
+            "style": "width:100%;height:100%;min-height:400px"
+          }
+        ]
+      },
+      "ar/index.html": {
+        "html_bytes": 134037,
+        "sha256": "a2e5d4259e614ffb40babda21cbad29f82c0bbb47a21c2ecb314552ded64aba5",
+        "hero_images": [
+          {
+            "src": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp",
+            "alt": "أ.د. حبيب جيل",
+            "width": "640",
+            "height": "640",
+            "srcset": "/img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_d532be0358033442.webp 320w, /img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_7eeed48cce009f2c.webp 480w, /img/istanbul-kardiyoloji-uzmani-doc-dr-habib-cil_hu_35be8d9035c8d4e6.webp 640w",
+            "sizes": "(max-width: 640px) 360px, (max-width: 1023px) 520px, 580px",
+            "class": "home-hero-image",
+            "loading": "eager",
+            "fetchpriority": "high",
+            "decoding": "async"
+          }
+        ],
+        "scripts": [
+          {
+            "src": "/js/appearance.min.f4bce8f6af60ff5a8dd2250572b14bfe31c2a71d0312f0b1f43c0c1ca758714074eaec9ef4536b353c66dfe9bf7df47948efa7adfcec2df1bd2e1e905fbc8c57.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 3615
+          },
+          {
+            "src": "/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 8828
+          },
+          {
+            "src": "/js/main.bundle.min.0a3198647373a47b0e7b67d162c33ed3cc1eb54c1cd1f09ae770c6355559752139c1c20e13e10e75326461a9188ac82f98816103ae93dc5ca6283c381970332b.js",
+            "type": "text/javascript",
+            "defer": true,
+            "async": false,
+            "file_bytes": 35165
+          },
+          {
+            "src": "/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": 70264
+          },
+          {
+            "src": "",
+            "type": "application/ld+json",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "https://www.googletagmanager.com/gtag/js?id=G-TDC4PMVEMK",
+            "type": "",
+            "defer": false,
+            "async": true,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 826
+          },
+          {
+            "src": "/js/heart-viewer.min.fa0263c732554a8fc0a39cbb8084e110f59f1dc62384b2382771375c1d9873c4.js",
+            "type": "module",
+            "defer": false,
+            "async": false,
+            "file_bytes": 6911
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          },
+          {
+            "src": "/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js",
+            "type": "text/javascript",
+            "defer": false,
+            "async": false,
+            "file_bytes": 1003
+          },
+          {
+            "src": "",
+            "type": "",
+            "defer": false,
+            "async": false,
+            "file_bytes": null
+          }
+        ],
+        "viewer_count": 1,
+        "viewer_data": [
+          {
+            "id": "heart-model-container",
+            "class": "heart-model-container",
+            "data-heart-model": null,
+            "data-model-url": "/models/3d-kalp-modeli-doc-dr-habib-cil-istanbul-kardiyoloji-uzmani.glb",
+            "data-loading-label": "جارٍ تحميل نموذج القلب...",
+            "data-error-label": "تعذر تحميل العرض ثلاثي الأبعاد. يمكنك مشاهدة رسم القلب أو المحاولة مرة أخرى.",
+            "data-retry-label": "حاول مرة أخرى",
+            "data-pause-label": "إيقاف الدوران",
+            "data-play-label": "بدء الدوران",
+            "style": "width:100%;height:100%;min-height:400px"
+          }
+        ]
+      }
+    },
+    "active_model": {
+      "bytes": 1511228,
+      "sha256": "76836a4164bec704267ff709d17e6886268b3807df12a1f4f37fabf59fdbb2ff"
+    },
+    "poster": {
+      "bytes": 86028,
+      "sha256": "56bda3a1ca1d5e352a2257ea3472856ce99d9cc8f6060ef2fbd447d417de823e"
+    }
+  },
+  "runtime_metrics": null
+}

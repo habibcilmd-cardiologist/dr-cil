@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-24",
+  "method": "opened current primary webpages during implementation",
+  "sources": [
+    {
+      "url": "https://schema.org/MedicalProcedure",
+      "used_for": "MedicalProcedure property/range; procedureType is MedicalProcedureType; status vocabulary existence does not prove scheduled treatment."
+    },
+    {
+      "url": "https://schema.org/MedicalProcedureType",
+      "used_for": "Enumeration members are NoninvasiveProcedure and PercutaneousProcedure; class names are not members."
+    },
+    {
+      "url": "https://schema.org/Physician",
+      "used_for": "Physician represents an individual physician or office considered as MedicalOrganization; separate person authorship from unverified office facts."
+    },
+    {
+      "url": "https://schema.org/Service",
+      "used_for": "Generic service may have a Person provider; broad care topic need not be forced into a procedure."
+    },
+    {
+      "url": "https://schema.org/MedicalTest",
+      "used_for": "Type for a medical test, typically diagnostic; no automatic disease or anatomy assumption."
+    },
+    {
+      "url": "https://schema.org/DiagnosticProcedure",
+      "used_for": "DiagnosticProcedure is a MedicalProcedure subclass, not a procedureType enumeration value."
+    },
+    {
+      "url": "https://schema.org/MedicalWebPage",
+      "used_for": "Medical information page; review fields imply real review, not automatic modification date."
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/article",
+      "used_for": "Article markup describes real article pages; list/contact/taxonomy/404 are not automatically articles."
+    },
+    {
+      "url": "https://schema.org/TherapeuticProcedure",
+      "used_for": "TherapeuticProcedure is a MedicalProcedure subclass; no automatic procedure enum/body/status is required."
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/sd-policies",
+      "used_for": "Markup must represent visible real page content; passing syntax or an automated tool does not certify truth or appearance."
+    },
+    {
+      "url": "https://developers.google.com/search/updates",
+      "used_for": "May 8 2026 entry: FAQ rich-result display ended May 7 2026; this does not require deleting useful visible FAQ."
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/profile-page",
+      "used_for": "ProfilePage support exists; mainEntity person and the feature-specific conditions need separate official testing."
+    },
+    {
+      "url": "https://schema.org/Person",
+      "used_for": "Person supports individual authorship/jobTitle; it is not automatically the Physician MedicalOrganization."
+    }
+  ],
+  "limits": [
+    "No official validator test executed by schema agent",
+    "No external clinic/CV/source truth certified",
+    "Source-supported classification is not physician review"
+  ]
+}

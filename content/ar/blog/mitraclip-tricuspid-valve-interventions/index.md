@@ -605,8 +605,8 @@ MitraClip هو جهاز ثوري يمكّن من علاج قصور الصمام 
 ## علاجات الصمامات ذات الصلة
 
 -   [TAVI - استبدال الصمام الأبهري عبر القسطرة](/ar/services/tavi/)
--   [مرض الصمام التاجي](/ar/services/mitral-valve/)
+-   [مرض الصمام التاجي](/ar/blog/mitral-valve/)
 -   [مرض الصمام ثلاثي الشرفات](/ar/services/tricuspid-valve/)
--   [رأب الصمام بالبالون](/ar/services/balloon-valvuloplasty/)
+-   [رأب الصمام بالبالون](/ar/blog/balloon-valvuloplasty/)
 -   [تخطيط صدى القلب](/ar/services/echocardiography/)
 -   [علاج فشل القلب](/ar/services/heart-failure/)

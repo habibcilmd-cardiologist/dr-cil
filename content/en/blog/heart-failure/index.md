@@ -404,6 +404,6 @@ With modern treatments, heart failure patients can lead quality lives for many y
 
 If you're experiencing heart failure symptoms or have risk factors, you can schedule an appointment for comprehensive cardiac evaluation.
 
-{{< button href="/contact/" target="_self" >}}
+{{< button href="/en/contact/" target="_self" >}}
 Schedule Appointment
 {{< /button >}}

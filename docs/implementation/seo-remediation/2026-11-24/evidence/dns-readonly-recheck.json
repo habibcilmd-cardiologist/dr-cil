@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-24",
+  "method": "Read-only web retrieval; tool errors are not DNS responses",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Internal Error ()\n【turn959408059view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://dns.google/resolve?name=docdrhabibcil.com&type=A\",\"lineno\":null}); \nURL https://dns.google/resolve?name=docdrhabibcil.com&type=A is not accessible via this tool.\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn959408059view1】 [wordlim: 200] Source: open({\"ref_id\":\"https://cloudflare-dns.com/dns-query?name=docdrhabibcil.com&type=A\",\"lineno\":null}); \nURL https://cloudflare-dns.com/dns-query?name=docdrhabibcil.com&type=A is not accessible via this tool.\n--------------------------------------------------------------------------------\n (https://dns.google/resolve?name=google.com&type=A)\n【turn959408059view2】 [wordlim: 200] Crawled: today; Content type: application/json; Source: open({\"ref_id\":\"https://dns.google/resolve?name=google.com&type=A\",\"lineno\":null}); Total lines: 1\nL0: {\"Status\":0,\"TC\":false,\"RD\":true,\"RA\":true,\"AD\":false,\"CD\":false,\"Question\":[{\"name\":\"google.com.\",\"type\":1}],\"Answer\":[{\"name\":\"google.com.\",\"type\":1,\"TTL\":300,\"data\":\"172.217.208.102\"},{\"name\":\"google.com.\",\"type\":1,\"TTL\":300,\"data\":\"172.217.208.138\"},{\"name\":\"google.com.\",\"type\":1,\"TTL\":300,\"data\":\"172.217.208.139\"},{\"name\":\"google.com.\",\"type\":1,\"TTL\":300,\"data\":\"172.217.208.100\"},{\"name\":\"google.com.\",\"type\":1,\"TTL\":300,\"data\":\"172.217.208.101\"},{\"name\":\"google.com.\",\"type\":1,\"TTL\":300,\"data\":\"172.217.208.113\"}],\"Comment\":\"Response from 216.239.38.10.\"}\n"
+      }
+    ],
+    "isError": false
+  }
+}

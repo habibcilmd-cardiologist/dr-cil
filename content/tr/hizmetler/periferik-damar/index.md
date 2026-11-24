@@ -1,8 +1,8 @@
 ---
 title: "Periferik Damar Hastalıkları"
-description: "İstanbul'da periferik damar hastalıkları tedavisi. Girişimsel kardiyoloji uzmanı Doç. Dr. Habib Çil ile bacak damarları ve periferik anjiyoplasti. Avrasya Hospital."
+description: "Periferik damar hastalıkları, bacak damarları ve periferik anjiyoplasti hakkında bilgi. Doç. Dr. Habib Çil'in İstanbul'daki ilgili hizmet ve iletişim sayfaları."
 date: 2024-01-15
-lastmod: 2024-12-04
+lastmod: 2026-11-24
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -214,6 +214,10 @@ Periferik damar hastalığı değerlendirmesi veya tedavisi için randevu almak 
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
 
 ## İlgili Periferik Damar Tedavileri
+
+Hastalık hakkında genel bilgi için [periferik arter hastalığı rehberine](/blog/periferik-arter-hastaligi/),
+ayakla ilgili bilgi için [diyabetik ayak rehberine](/blog/diyabetik-ayak/)
+ulaşabilirsiniz. Tüm işlem grupları [hizmetler sayfasında](/hizmetler/) yer alır.
 
 Periferik damar hastalığı ile bağlantılı diğer tedaviler:
 

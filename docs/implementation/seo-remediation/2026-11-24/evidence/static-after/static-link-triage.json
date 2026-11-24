@@ -1,0 +1,8 @@
+{
+  "static_missing_instances": 0,
+  "netlify_tr_rule_recoverable_instances": 0,
+  "unresolved_even_after_declared_tr_rule_instances": 0,
+  "recoverable_under_declared_netlify_rule": [],
+  "unresolved_after_declared_netlify_rule": [],
+  "limitations": "Declared /tr/* redirects evaluated as configuration only; actual HTTP redirect was not measured."
+}

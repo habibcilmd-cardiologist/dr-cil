@@ -155,4 +155,4 @@ Other diagnostic tests related to cardiac CT:
 -   [Echocardiography]({{< relref "echocardiography" >}}) - Heart ultrasound
 -   [Myocardial Perfusion]({{< relref "myocardial-perfusion" >}}) - Myocardial perfusion scintigraphy
 -   [Exercise Stress Test]({{< relref "exercise-stress-test" >}}) - Exercise stress test
--   [Coronary Artery Disease](false/) - About coronary artery disease
+-   [Coronary Artery Disease](/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/) - About coronary artery disease

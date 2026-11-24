@@ -423,6 +423,6 @@ Your chest pain complaint should be taken seriously, especially if you have rece
 
 If you have questions about pericarditis or would like to schedule an evaluation, please feel free to contact me.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

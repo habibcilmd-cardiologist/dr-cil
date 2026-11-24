@@ -166,8 +166,8 @@ Aort kapak hastalığı değerlendirmesi için randevu almak isterseniz:
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
 Aort kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
 
--   [TAVI](/tr/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
--   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
--   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
--   [Kalp Bypass](/tr/hizmetler/kalp-bypass/) - Koroner bypass ameliyatı
+-   [TAVI](/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
+-   [Balon Valvüloplasti](/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
+-   [Ekokardiyografi](/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
+-   [Kalp Yetmezliği](/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [Kalp Bypass](/blog/kalp-bypass/) - Koroner bypass ameliyatı

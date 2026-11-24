@@ -1,0 +1,42 @@
+{
+  "type": "Node lifecycle and DOM-stub regression; not browser/WebGL/CPU timing",
+  "tests": [
+    {
+      "name": "Offscreen initial state draws nothing and schedules no RAF",
+      "status": "PASS"
+    },
+    {
+      "name": "Repeated visible updates keep one frame chain",
+      "status": "PASS"
+    },
+    {
+      "name": "Leaving viewport or hiding tab cancels outstanding RAF",
+      "status": "PASS"
+    },
+    {
+      "name": "Re-entry resumes only one frame chain",
+      "status": "PASS"
+    },
+    {
+      "name": "Reduced motion or pause renders one still frame without a loop",
+      "status": "PASS"
+    },
+    {
+      "name": "Disposal prevents re-entry from restarting frames",
+      "status": "PASS"
+    },
+    {
+      "name": "Viewer startup and duplicate bootstrap do not request WebGL or a model",
+      "status": "PASS"
+    },
+    {
+      "name": "WebGL unavailable fails before remote imports, retains poster and Retry",
+      "status": "PASS"
+    },
+    {
+      "name": "Retry after unavailable WebGL remains a recoverable state",
+      "status": "PASS"
+    }
+  ],
+  "passed": 9
+}

@@ -4,7 +4,7 @@ description: Periferik arter hastalığı hakkında kapsamlı rehber. Bacak dama
   belirtileri, risk faktörleri, tanı yöntemleri ve tedavi seçenekleri. Kardiyoloji
   uzmanından bilgiler.
 date: 2025-12-19
-lastmod: 2025-12-19
+lastmod: 2026-11-24
 translationKey: peripheral-artery-disease
 categories:
 - Kardiyoloji
@@ -409,3 +409,14 @@ Aşağıdaki durumlarda gecikmeden tıbbi yardım alın:
 Periferik arter hastalığı hakkında sorularınız varsa veya değerlendirme için randevu almak istiyorsanız, uzman bir sağlık kuruluşu ile iletişime geçebilirsiniz.
 
 {{< contact-buttons >}}
+
+## İlgili rehber ve hizmetler
+
+[Diyabetik ayak rehberi](/blog/diyabetik-ayak/) bu konuyla ilişkili diğer
+bir bilgilendirme sayfasıdır. İşlem kapsamını incelemek için
+[periferik damar hastalıkları](/hizmetler/periferik-damar/) ve
+[diz altı damar açma](/hizmetler/dizalti-damar-tikanikligi/)
+sayfalarını; diğer konu grupları için
+[girişimsel kardiyoloji hizmetlerini](/hizmetler/#girisimsel-kardiyoloji)
+kullanabilirsiniz. [Hekimin mesleki geçmişi](/hakkimda/) ve
+[iletişim seçenekleri](/iletisim/) ayrı sayfalarda sunulur.

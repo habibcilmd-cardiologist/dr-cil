@@ -262,6 +262,6 @@ When in doubt, always seek emergency help. When it comes to heart attacks, a "wa
 
 If you have questions about your heart health or would like to have a risk assessment, please feel free to contact me.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

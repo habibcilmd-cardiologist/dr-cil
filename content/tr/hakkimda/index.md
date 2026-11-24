@@ -98,6 +98,6 @@ Evli ve 2 çocuk babasıyım.
 
 ---
 
-{{< button href="/tr/yayinlar/" >}}
+{{< button href="/yayinlar/" >}}
 Akademik Yayınlarımı İnceleyin →
 {{< /button >}}

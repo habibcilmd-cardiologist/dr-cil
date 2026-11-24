@@ -404,6 +404,6 @@ Regular vascular health check-ups are recommended especially if you smoke or hav
 
 If you have questions about peripheral artery disease or would like to schedule an evaluation, please feel free to contact me.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

@@ -181,7 +181,7 @@ _تم إعداد هذا المحتوى من قبل أ.م.د. حبيب جيل ل�
 علاجات القلب الهيكلية الأخرى المتعلقة بمرض الصمام التاجي:
 
 -   [MitraClip](/ar/services/mitraclip/) - إصلاح الصمام التاجي عبر القسطرة
--   [رأب الصمام بالبالون](/ar/services/balloon-valvuloplasty/) - توسيع الصمام بالبالون
+-   [رأب الصمام بالبالون](/ar/blog/balloon-valvuloplasty/) - توسيع الصمام بالبالون
 -   [تخطيط صدى القلب](/ar/services/echocardiography/) - تقييم الصمام
 -   [الصمام ثنائي الشرف](/ar/services/tricuspid-valve/) - أمراض الصمام ثنائي الشرف
 -   [قصور القلب](/ar/services/heart-failure/) - علاج قصور القلب

@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-24",
+  "commands": [
+    {
+      "index": 0,
+      "command": "python3 scripts/validate_schema_output.py /tmp/dr-cil-implementation-after-20261124-release/public --json docs/implementation/seo-remediation/2026-11-24/evidence/schema-after-final.json > docs/implementation/seo-remediation/2026-11-24/evidence/schema-after-final.log 2>&1",
+      "exit_code": 0
+    },
+    {
+      "index": 1,
+      "command": "python3 scripts/check_ui_contract.py /tmp/dr-cil-implementation-after-20261124-release/public --output docs/implementation/seo-remediation/2026-11-24/evidence/ui-contract-final.json > docs/implementation/seo-remediation/2026-11-24/evidence/ui-contract-final.log 2>&1",
+      "exit_code": 0
+    },
+    {
+      "index": 2,
+      "command": "python3 docs/audit/results/2026-11-24/evidence/static-audit.py /tmp/dr-cil-implementation-after-20261124-release/public docs/implementation/seo-remediation/2026-11-24/evidence/static-after > docs/implementation/seo-remediation/2026-11-24/evidence/static-after-final.log 2>&1",
+      "exit_code": 0
+    },
+    {
+      "index": 3,
+      "command": "python3 scripts/validate_seo_release.py --before /var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-implementation-baseline-ev_cpc_t/public --after /tmp/dr-cil-implementation-after-20261124-release/public --output docs/implementation/seo-remediation/2026-11-24/evidence/seo-release-final.json > docs/implementation/seo-remediation/2026-11-24/evidence/seo-release-final.log 2>&1",
+      "exit_code": 0
+    },
+    {
+      "index": 4,
+      "command": "python3 docs/audit/results/2026-11-24/evidence/static-audit.py /var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-implementation-baseline-ev_cpc_t/public docs/implementation/seo-remediation/2026-11-24/evidence/static-before > docs/implementation/seo-remediation/2026-11-24/evidence/static-before.log 2>&1",
+      "exit_code": 0
+    },
+    {
+      "index": 5,
+      "command": "python3 docs/implementation/seo-remediation/2026-11-24/evidence/performance-implementation-collect.py --before /var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-implementation-baseline-ev_cpc_t/public --after /tmp/dr-cil-implementation-after-20261124-release/public --output docs/implementation/seo-remediation/2026-11-24/evidence/performance-before-after-assets.json",
+      "exit_code": 0
+    }
+  ],
+  "other_verified": [
+    {
+      "command": "node scripts/tests/heart-viewer.test.mjs",
+      "passed": 9,
+      "scope": "Lifecycle and DOM stub; not real WebGL"
+    },
+    {
+      "command": "python3 scripts/tests/contact-form.test.py --output EVIDENCE/contact-form-tests.json",
+      "passed": 8,
+      "languages_per_case": 3,
+      "scope": "Hugo fixtures; no delivery"
+    },
+    {
+      "command": "python3 scripts/build-production.py --output EXISTING_RELEASE",
+      "exit_code": 2,
+      "expected_rejection": true,
+      "old_manifest_preserved": true
+    }
+  ],
+  "not_run": [
+    "Production cold>=3desktop+3mobile",
+    "Warm visits",
+    "Lighthouse",
+    "Native200/responsive real browser",
+    "Official new Validator/RRT",
+    "Model A/B/CPU/GPU/fieldCWV",
+    "Origin TLS/HTTP301/404/headers",
+    "Form delivery/GSC/GBP/SERP"
+  ]
+}

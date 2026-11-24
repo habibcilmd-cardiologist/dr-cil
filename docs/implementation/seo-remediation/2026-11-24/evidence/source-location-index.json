@@ -1,0 +1,102 @@
+[
+  {
+    "file": "layouts/partials/header/basic.html",
+    "line": 6,
+    "purpose": "Header/menü"
+  },
+  {
+    "file": "assets/css/custom.css",
+    "line": 20,
+    "purpose": "Header breakpoint/layout"
+  },
+  {
+    "file": "assets/js/mobilemenu.js",
+    "line": 14,
+    "purpose": "Ortak odak/inert"
+  },
+  {
+    "file": "assets/js/search.js",
+    "line": 27,
+    "purpose": "Arama/modal"
+  },
+  {
+    "file": "layouts/404.html",
+    "line": 1,
+    "purpose": "Üç dil404"
+  },
+  {
+    "file": "layouts/partials/author.html",
+    "line": 50,
+    "purpose": "Biyografi bağlantısı"
+  },
+  {
+    "file": "layouts/partials/head.html",
+    "line": 1,
+    "purpose": "Canonical/title"
+  },
+  {
+    "file": "layouts/partials/seo/alternates.html",
+    "line": 1,
+    "purpose": "Hreflang"
+  },
+  {
+    "file": "layouts/home.sitemappages.xml",
+    "line": 2,
+    "purpose": "Sitemap sahipliği"
+  },
+  {
+    "file": "layouts/partials/seo/manual-taxonomy-links.html",
+    "line": 5,
+    "purpose": "53 kesin arşiv"
+  },
+  {
+    "file": "layouts/partials/schema.html",
+    "line": 50,
+    "purpose": "Graph ve breadcrumb"
+  },
+  {
+    "file": "layouts/partials/schema-procedure.html",
+    "line": 7,
+    "purpose": "Konu sınıflandırması"
+  },
+  {
+    "file": "data/schema_content_types.yaml",
+    "line": 4,
+    "purpose": "Dar kaynak haritası"
+  },
+  {
+    "file": "assets/js/heart-viewer.js",
+    "line": 15,
+    "purpose": "Render lifecycle"
+  },
+  {
+    "file": "layouts/partials/three-heart.html",
+    "line": 7,
+    "purpose": "Poster/istek"
+  },
+  {
+    "file": "layouts/partials/home/hero.html",
+    "line": 147,
+    "purpose": "Hero kaynakları"
+  },
+  {
+    "file": "layouts/shortcodes/contact-form.html",
+    "line": 9,
+    "purpose": "Form sağlayıcı kapısı"
+  },
+  {
+    "file": "static/_redirects",
+    "line": 7,
+    "purpose": "Doğrudan301"
+  },
+  {
+    "file": "scripts/build-production.py",
+    "line": 30,
+    "purpose": "Güvenli/pinli build"
+  },
+  {
+    "file": "netlify.toml",
+    "line": 30,
+    "purpose": "Yerel CI sürüm tanımı"
+  }
+]

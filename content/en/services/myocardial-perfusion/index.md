@@ -163,4 +163,4 @@ Other diagnostic tests related to myocardial perfusion scintigraphy:
 -   [Stress Echocardiography]({{< relref "stress-echocardiography" >}}) - Exercise echo
 -   [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography
 -   [Cardiac Angiography](/en/services/angiography/) - Coronary artery imaging
--   [Coronary Artery Disease](false/) - About coronary artery disease
+-   [Coronary Artery Disease](/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/) - About coronary artery disease

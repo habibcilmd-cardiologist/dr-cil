@@ -1,0 +1,21 @@
+{{- $result := dict -}}
+{{- /* Historical normal pages under /tags and /categories have no body.
+  Preserve their URLs and only populate an exact same-language term match.
+  Punctuation/case normalization is permitted; transliteration/fuzzy medical
+  topic guesses are deliberately not used. */ -}}
+{{- if and .IsPage (in (slice "tags" "categories") .Section) (eq (strings.TrimSpace .RawContent) "") -}}
+  {{- $name := replaceRE "[-_[:space:]]+" " " (.Title | lower) | strings.TrimSpace -}}
+  {{- $matches := slice -}}
+  {{- with index .Site.Taxonomies .Section -}}
+    {{- range . -}}
+      {{- $termName := replaceRE "[-_[:space:]]+" " " (.Page.Title | lower) | strings.TrimSpace -}}
+      {{- if eq $name $termName -}}
+        {{- $matches = $matches | append (dict "term" .Page "pages" .Pages) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if eq (len $matches) 1 -}}
+    {{- $result = index $matches 0 -}}
+  {{- end -}}
+{{- end -}}
+{{- return $result -}}

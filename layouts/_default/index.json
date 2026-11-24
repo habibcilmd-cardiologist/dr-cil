@@ -1,0 +1,30 @@
+{{- /* Preserve deliberate translation fallback, with explicit result language.
+  lang.Merge keeps the selected language when an equivalent translation exists. */ -}}
+{{- $index := slice -}}
+{{- $pages := .Site.Pages -}}
+{{- range .Site.Home.Translations -}}
+  {{- $pages = $pages | lang.Merge .Site.Pages -}}
+{{- end -}}
+{{- range $pages -}}
+  {{- if not .Params.excludeFromSearch -}}
+    {{- $section := .Site.GetPage "section" .Section -}}
+    {{- $sectionTitle := "" -}}
+    {{- with $section -}}{{- $sectionTitle = .Title | plainify -}}{{- end -}}
+    {{- $entry := dict
+      "title" (.Title | emojify | plainify)
+      "section" $sectionTitle
+      "summary" (.Summary | plainify)
+      "content" .Plain
+      "permalink" .RelPermalink
+      "externalUrl" .Params.externalUrl
+      "type" .Type
+      "language" .Language.Lang
+      "languageName" .Language.LanguageName
+    -}}
+    {{- if not .Date.IsZero -}}
+      {{- $entry = merge $entry (dict "date" (.Date | time.Format (.Site.Language.Params.dateFormat | default ":date_long"))) -}}
+    {{- end -}}
+    {{- $index = $index | append $entry -}}
+  {{- end -}}
+{{- end -}}
+{{- $index | jsonify -}}

@@ -1,30 +1,18 @@
-{{/* MedicalScholarlyArticle Schema for Publications */}}
-
-{{- $schema := dict -}}
-
-{{- if and (eq .Section "yayinlar") .IsPage -}}
-
-    {{- $description := .Summary -}}
-    {{- with .Description }}
-        {{- $description = . -}}
-    {{- end }}
-
-    {{- $schema = dict
-        "@type" "MedicalScholarlyArticle"
-        "@id" (printf "%s#scholarly" .Permalink)
-        "headline" .Title
-        "name" .Title
-        "description" $description
-        "publicationType" "Medical Journal"
-        "author" (dict
-            "@type" "Person"
-            "name" "Doç. Dr. Habib ÇİL"
-        )
-        "datePublished" (.Date.Format "2006-01-02")
-        "url" .Permalink
-        "inLanguage" .Site.Language.Lang
-    -}}
-
-{{- end -}}
-
-{{- return $schema -}}
+{{/* A bibliography list is not one scholarly article. Future publication
+     details opt in only with explicitly verified bibliographic metadata. */}}
+{{ $schema := dict }}
+{{ if and .IsPage (in (slice "yayinlar" "publications") .Section) }}
+  {{ with .Params.scholarly }}
+    {{ if and .verified .doi .journal .authors }}
+      {{ $url := partial "seo/current-page-url.html" $ }}
+      {{ $authors := slice }}
+      {{ range .authors }}{{ $authors = $authors | append (dict "@type" "Person" "name" .) }}{{ end }}
+      {{ $schema = dict "@type" "MedicalScholarlyArticle" "@id" (printf "%s#scholarly" $url)
+        "headline" ($.Title | plainify) "url" $url "inLanguage" site.Language.Lang
+        "identifier" (dict "@type" "PropertyValue" "propertyID" "DOI" "value" .doi)
+        "isPartOf" (dict "@type" "Periodical" "name" .journal) "author" $authors }}
+      {{ with .date }}{{ $schema = merge $schema (dict "datePublished" .) }}{{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $schema }}

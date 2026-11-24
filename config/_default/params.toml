@@ -154,3 +154,8 @@ showLanguageSwitcher = true
   # Bing Webmaster Tools verification
   # bing = "your-bing-verification-code"
 
+
+# Select a verified delivery service before enabling a contact form.
+[contactForm]
+  provider = "disabled"
+  endpoint = ""

@@ -192,6 +192,6 @@ If you experience chest pain, unexplained shortness of breath, or fainting, espe
 
 If you have concerns about myocarditis or need a cardiac evaluation, please feel free to contact me. Your heart is your most precious asset; take good care of it.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

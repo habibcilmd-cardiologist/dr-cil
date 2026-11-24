@@ -159,7 +159,7 @@ The aorta is the main artery that emerges from the heart and distributes oxygena
 **Modifiable Risk Factors:**
 
 -   **Smoking:** Strongest risk factor (risk increases 5-6 fold)
--   **[Hypertension](/en/blog/what-is-hypertension/):** Uncontrolled high blood pressure
+-   **[Hypertension](/en/blog/what-is-hypertension-high-blood-pressure/):** Uncontrolled high blood pressure
 -   **Hypercholesterolemia:** High LDL, low HDL
 -   **Obesity:** Body mass index >30
 -   **Sedentary Lifestyle:** Lack of physical activity
@@ -502,6 +502,6 @@ Especially if you are in a high-risk group (smoking, hypertension, family histor
 
 You can schedule an appointment for aortic aneurysm evaluation, screening, or information about treatment options.
 
-{{< button href="/contact/" target="_self" >}}
+{{< button href="/en/contact/" target="_self" >}}
 Schedule Appointment
 {{< /button >}}

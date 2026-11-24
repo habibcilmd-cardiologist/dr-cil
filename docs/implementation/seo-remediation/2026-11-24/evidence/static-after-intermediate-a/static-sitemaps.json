@@ -1,0 +1,3292 @@
+[
+  {
+    "file": "ar/sitemap.xml",
+    "root_type": "urlset",
+    "entries": 198,
+    "unique_locs": 198,
+    "missing_targets": [],
+    "child_sitemaps": [],
+    "urls": [
+      {
+        "loc": "https://docdrhabibcil.com/ar/categories/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D9%8A%D8%A9/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A%D8%A9/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/peripheral-artery-disease/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D8%AF%D8%A9/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%B1%D8%A6%D9%88%D9%8A/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AC%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82%D8%A9/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/deep-vein-thrombosis/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B7%D8%A8-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%AC%D9%84%D8%B7%D8%A9/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%81%D8%AA%D8%AD-%D8%B4%D8%B1%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D8%A7%D9%82/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/diabetic-foot/",
+        "lastmod": "2025-12-17T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/categories/%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%AA%D8%B5%D9%84%D9%8A%D8%A8-%D8%A7%D9%84%D8%B1%D8%BA%D9%88%D9%8A/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84%D9%8A/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D9%82%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/venous-insufficiency/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AA%D8%B6%D8%AE%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D8%AF%D8%A9/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AA%D9%88%D8%B1%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D9%82/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D9%84%D9%8A%D8%B2%D8%B1/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/aaa/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/evar/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AA%D8%B6%D8%AE%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AA%D9%85%D8%AF%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D9%87%D8%B1%D9%8A-%D8%A7%D9%84%D8%A8%D8%B7%D9%86%D9%8A/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/abdominal-aortic-aneurysm/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AA%D9%85%D8%B2%D9%82-%D8%A7%D9%84%D8%A3%D8%A8%D9%87%D8%B1%D9%8A/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A3%D9%84%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D9%8A/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%B9%D8%B1%D8%AC-%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%B7%D8%B9/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%86%D8%B3%D8%AF%D8%A7%D8%AF-%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D8%A7%D9%82/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AF%D8%B9%D8%A7%D9%85%D8%A9/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B1%D8%A3%D8%A8-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%85%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D9%8A/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%85%D8%B1%D8%B6-%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B3%D9%81%D9%84%D9%8A%D8%A9/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/lower-extremity-arterial-disease/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/mitraclip/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/tavi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/aortic-valve-disease/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%B5%D9%85%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D8%B3%D8%AA%D8%A8%D8%AF%D8%A7%D9%84-%D8%B5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A8%D8%A7%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%A8%D9%87%D8%B1%D9%8A/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A8%D8%A7%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AA%D8%B6%D9%8A%D9%82-%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%A8%D9%87%D8%B1%D9%8A/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AA%D8%B6%D9%8A%D9%8A%D9%82-%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B1%D8%A3%D8%A8-%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D8%A8%D8%A7%D9%84%D9%88%D9%86/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/balloon-valvuloplasty/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85-%D8%A8%D8%AF%D9%88%D9%86-%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%82%D9%84%D8%B3-%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%A8%D9%87%D8%B1%D9%8A/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/mitral-valve/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/pci/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/percutaneous-coronary-intervention/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/ptca/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/ptca/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/tte/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%AA%D8%B4%D8%AE%D9%8A%D8%B5%D9%8A%D8%A9/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%AC%D9%84%D8%AF/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/cardiac-stent/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D9%82%D8%B3%D8%B7%D8%B1%D8%A9/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/cardiac-catheterization/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/ambulatory-cardiac-monitoring/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A7%D8%AA-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B5%D9%88%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D8%B5%D8%AF%D9%89-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/surface-echocardiography/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/cardiac-angiography/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AF%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%A7%D8%AC%D9%8A%D8%A9/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/coronary-angioplasty/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B1%D8%A3%D8%A8-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%A7%D9%84%D9%88%D9%86/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%82%D8%B3%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D9%86%D8%B8%D9%85/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%87%D9%88%D9%84%D8%AA%D8%B1/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D9%86%D8%B8%D9%85-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%82%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/myocarditis/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/mitraclip-tricuspid-valve-interventions/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/pascal/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/triclip/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/cardiac-rehabilitation/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%82%D8%B3%D8%B7%D8%B1%D8%A9/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85-%D8%AB%D9%86%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%81/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/categories/%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/heart-transplant-lvad/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D9%88%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/tavi-treatment/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%82%D9%84%D8%B3-%D8%A7%D9%84%D8%B5%D9%85%D8%A7%D9%85/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/tricuspid-valve/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D8%B7%D9%8A/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/aortic-aneurysm/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/cardiac-arrhythmias/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/heart-failure/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/cardiomyopathy/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/pericarditis/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/coronary-artery-disease/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/atrial-fibrillation/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/cholesterol-management/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B6%D8%BA%D8%B7-%D8%A7%D9%84%D8%AF%D9%85-%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%88%D9%84/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/heart-valve-diseases/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/lvad/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/lvad/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A7%D9%84%D8%A8%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D9%8A%D8%B3%D8%B1/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D9%8A/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%85%D8%B6%D8%AE%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/cabg/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/cabg/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%85%D8%AC%D8%A7%D8%B2%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%85%D8%AC%D8%A7%D8%B2%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%85%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/heart-transplant/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%86%D8%B5%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%A7%D9%85%D9%88%D8%B1/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A8%D8%B2%D9%84-%D8%A7%D9%84%D8%AA%D8%A7%D9%85%D9%88%D8%B1/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/pericardiocentesis/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%AF%D9%83%D8%A7%D9%83-%D8%A7%D9%84%D9%82%D9%84%D8%A8/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AA%D8%A7%D9%85%D9%88%D8%B1/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/cardiovascular-prevention/",
+        "lastmod": "2025-12-09T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/evar-tevar/",
+        "lastmod": "2024-12-12T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/ffr/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/icd/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/ivus/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/mitraclip/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/tavi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/heart-attack-symptoms/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D8%AA%D9%8A/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/heart-hole-closure/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/myocardial-infarction/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/exercise-stress-test/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/tilt-table-test/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/hypertension/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/atherectomy/",
+        "lastmod": "2024-12-12T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/ablation/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/carotid-endarterectomy/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/alcohol-septal-ablation/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/cardiac-ct/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AD%D9%8A/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/tags/%D8%A7%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%83%D8%AA%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%BA%D9%8A%D8%A9/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/echocardiography/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/stress-echocardiography/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/transthoracic-echocardiography/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/transesophageal-echocardiography/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/ekg/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/cto-intervention/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/bifurcation-intervention/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/angiography/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/radial-angiography/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/peripheral-angiography/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/myocardial-perfusion/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/carotid-stenosis/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/renal-artery-stenosis/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/cardioversion/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/permanent-pacemaker/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/temporary-pacemaker/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/biventricular-pacemaker/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/electrophysiology-study/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/left-main-coronary-stent/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/angioplasty/",
+        "lastmod": "2024-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/mitral-balloon-valvuloplasty/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/coronary-fistula-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/below-knee-arterial-disease/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/above-knee-arterial-disease/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/iliac-artery-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/dialysis-fistula-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/acute-dvt-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/chronic-dvt-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/varicocele-pelvic-congestion/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/hyperlipidemia-treatment/",
+        "lastmod": "2025-12-09T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/may-thurner-syndrome/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/heart-failure/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/ambulatory-blood-pressure-monitoring/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/holter/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/peripheral-vascular/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/pulmonary-valve/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/tricuspid-valve/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/crt-pacemaker/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/what-is-hypertension/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/contact/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/services/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/blog/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/publications/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/privacy/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/about/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/ar/clinic/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      }
+    ]
+  },
+  {
+    "file": "en/sitemap.xml",
+    "root_type": "urlset",
+    "entries": 196,
+    "unique_locs": 196,
+    "missing_targets": [],
+    "child_sitemaps": [],
+    "urls": [
+      {
+        "loc": "https://docdrhabibcil.com/en/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/categories/cardiology/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/categories/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/coronary-artery-disease/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/peripheral-vascular-disease/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/what-is-peripheral-artery-disease-symptoms-diagnosis-and-treatment/",
+        "lastmod": "2025-12-19T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/clot-treatment/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/deep-vein-thrombosis/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/deep-vein-thrombosis-dvt-symptoms-causes-and-treatment-options/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/interventional-cardiology-istanbul/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/leg-vein-clearance/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/non-surgical-vein-treatment/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/pulmonary-embolism/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/categories/venous-diseases/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/what-is-diabetic-foot-symptoms-treatment-and-prevention-methods/",
+        "lastmod": "2025-12-17T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/foam-sclerotherapy/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/laser-varicose-treatment/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/leg-swelling/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/varicose-veins/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/vein-enlargement/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/venous-insufficiency/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/venous-insufficiency-and-varicose-veins-symptoms-causes-and-non-surgical-treatment/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/aaa/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/abdominal-aortic-aneurysm/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/abdominal-aortic-aneurysm-aaa-symptoms-risks-and-treatment/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/aortic-rupture/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/evar/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/categories/vascular-diseases/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/vessel-enlargement/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/angioplasty/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/claudication/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/leg-artery-blockage/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/lower-extremity-arterial-disease/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/lower-extremity-arterial-disease-leg-artery-blockage-symptoms-and-treatment/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/peripheral-artery-disease/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/stent/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/walking-pain/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/aortic-balloon/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/aortic-regurgitation/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/aortic-stenosis/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/aortic-valve-disease-stenosis-and-regurgitation-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/balloon-valvuloplasty/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-valve-diseases/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-valve-replacement/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/mitraclip/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/mitral-balloon/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/mitral-regurgitation/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/mitral-stenosis/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/non-surgical-valve-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/tavi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/valve-repair/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/ambulatory-cardiac-monitoring-outpatient-rhythm-monitoring-guide/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/angiography/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/balloon-angioplasty/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/cardiac-angiography-complete-guide-to-coronary-artery-imaging/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/cardiac-catheterization-complete-heart-catheter-procedure-guide/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/cardiac-monitoring/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/cardiac-stent-drug-eluting-stent-implantation-guide/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/catheterization/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/coronary-angioplasty-and-stent-complete-vessel-opening-procedure-guide/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/coronary-artery/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/coronary-intervention/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/coronary-stent/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/categories/diagnostic-cardiology/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/echocardiography/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-catheter/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-ultrasound/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/holter/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/categories/interventional-cardiology/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/pci/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/pci-percutaneous-coronary-intervention-stent-treatment-guide/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/percutaneous-coronary-intervention/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/ptca/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/ptca-percutaneous-coronary-balloon-angioplasty-guide/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/rhythm-monitoring/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/surface-echocardiography-tte-heart-ultrasound-guide/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/tte/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/categories/heart-diseases/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-failure/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-inflammation/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-rhythm-disorders/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/what-is-myocarditis-symptoms-causes-and-treatment/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/cardiac-rehabilitation-improving-quality-of-life-after-heart-disease/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/categories/cardiac-surgery/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-health-living/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/heart-transplant-lvad-end-stage-heart-failure-treatments/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/mitraclip-and-tricuspid-valve-interventions-minimally-invasive-valve-treatment/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/pascal/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/tavi-treatment-minimally-invasive-aortic-valve-replacement/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/transcatheter-intervention/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/triclip/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/tricuspid-valve/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/tricuspid-valve-disease-causes-treatment-and-transcatheter-interventions/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/valve-regurgitation/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/aortic-aneurysm-symptoms-diagnosis-and-modern-treatment-methods/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/aortic-diseases/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/cardiac-arrhythmias-types-symptoms-and-treatment/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/heart-failure-symptoms-diagnosis-and-treatment-options/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/what-is-cardiomyopathy-types-symptoms-and-treatment-options/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/what-is-pericarditis-causes-symptoms-and-treatment-options/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/what-is-atrial-fibrillation-afib-symptoms-causes-and-treatment/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/cholesterol-management-causes-risks-and-treatment-of-high-cholesterol/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/hypertension-cholesterol/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/heart-valve-diseases-symptoms-diagnosis-and-treatment/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-pump/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/left-ventricular-assist-device/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/lvad/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/lvad-heart-failure-treatment-with-left-ventricular-assist-device/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/mechanical-heart-support/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/cabg/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/cabg-complete-guide-to-coronary-artery-bypass-surgery/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/coronary-artery-bypass/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-bypass/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-surgery/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/end-stage-heart-disease/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-transplant/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/heart-transplant-life-saving-treatment-for-end-stage-heart-failure/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/heart-transplantation/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/organ-transplant/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/cardiac-tamponade/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/interventional-cardiology/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/pericardial-effusion/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/pericardial-fluid/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/pericardiocentesis/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/pericardiocentesis-guide-to-pericardial-fluid-drainage-procedure/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/cardiovascular-prevention/",
+        "lastmod": "2025-12-09T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/above-knee-arterial-disease/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/acute-dvt-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/alcohol-septal-ablation/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/ambulatory-blood-pressure-monitoring/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/below-knee-arterial-disease/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/bifurcation-intervention/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/biventricular-pacemaker/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/cardiac-ct/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/cardioversion/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/carotid-stenosis/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/carotid-disease/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/carotid-endarterectomy-what-you-need-to-know-about-neck-artery-surgery/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/ablation/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/chronic-dvt-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/angiography/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/angioplasty/",
+        "lastmod": "2024-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/coronary-fistula-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/crt-pacemaker/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/cto-intervention/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/dialysis-fistula-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/ekg/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/echocardiography/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/electrophysiology-study/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/evar-tevar/",
+        "lastmod": "2024-12-12T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/exercise-stress-test/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/ffr/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/heart-attack-symptoms-early-detection-saves-lives/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/heart-failure/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/heart-hole-closure/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/holter/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/hyperlipidemia-treatment/",
+        "lastmod": "2025-12-09T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/hypertension/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/icd/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/iliac-artery-treatment/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/ivus/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/left-main-coronary-stent/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/may-thurner-syndrome/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/mitraclip/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/mitral-balloon-valvuloplasty/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/myocardial-infarction/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/myocardial-perfusion/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/atherectomy/",
+        "lastmod": "2024-12-12T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/peripheral-angiography/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/peripheral-vascular/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/permanent-pacemaker/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/pulmonary-valve/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/radial-angiography/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/renal-artery-stenosis/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/stress-echocardiography/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/stroke-prevention/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/tags/surgical-treatment/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/tavi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/temporary-pacemaker/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/tilt-table-test/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/transesophageal-echocardiography/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/transthoracic-echocardiography/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/tricuspid-valve/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/varicocele-pelvic-congestion/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/what-is-hypertension-high-blood-pressure/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/about/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/publications/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/blog/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/contact/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/clinic/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/privacy/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/en/services/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      }
+    ]
+  },
+  {
+    "file": "sitemap.xml",
+    "root_type": "urlset",
+    "entries": 258,
+    "unique_locs": 258,
+    "missing_targets": [],
+    "child_sitemaps": [],
+    "urls": [
+      {
+        "loc": "https://docdrhabibcil.com/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/ameliyats%C4%B1z-damar-a%C3%A7ma/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/bacak-damar-hastal%C4%B1klar%C4%B1/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/bacak-damarlar%C4%B1n%C4%B1-a%C3%A7ma/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/damar-a%C3%A7ma/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/giri%C5%9Fimsel-kardiyoloji-istanbul/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/kardiyoloji/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/koroner-arter-hastal%C4%B1%C4%9F%C4%B1/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/periferik-arter-hastaligi/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/derin-ven-trombozu/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/derin-ven-trombozu/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/p%C4%B1ht%C4%B1-tedavisi/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/pulmoner-emboli/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/toplardamar-hastal%C4%B1klar%C4%B1/",
+        "lastmod": "2025-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/ayak-yaras%C4%B1/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/diyabetik-ayak/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/diyabetik-ayak/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/bacak-%C5%9Fi%C5%9Fli%C4%9Fi/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/damar-geni%C5%9Flemesi/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/k%C3%B6p%C3%BCk-tedavisi/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/lazer-varis-tedavisi/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/varis/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/ven%C3%B6z-yetmezlik/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/venoz-yetmezlik/",
+        "lastmod": "2025-12-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/aaa/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/abdominal-aort-anevrizmas%C4%B1/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/abdominal-aort-anevrizmasi/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/aort-y%C4%B1rt%C4%B1lmas%C4%B1/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/damar-balonla%C5%9Fmas%C4%B1/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/damar-hastal%C4%B1klar%C4%B1/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/evar/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/alt-ekstremite-arter-hastal%C4%B1%C4%9F%C4%B1/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/alt-ekstremite-arter-hastaligi/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/anjiyoplasti/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/bacak-damar-t%C4%B1kan%C4%B1kl%C4%B1%C4%9F%C4%B1/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kladikasyon/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/periferik-arter-hastal%C4%B1%C4%9F%C4%B1/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/stent/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/y%C3%BCr%C3%BCme-a%C4%9Fr%C4%B1s%C4%B1/",
+        "lastmod": "2025-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/ameliyats%C4%B1z-kalp-kapa%C4%9F%C4%B1-tedavisi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/aort-balon/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/aort-darl%C4%B1%C4%9F%C4%B1/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/aort-kapak-hastaligi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/aort-yetersizli%C4%9Fi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/balon-valv%C3%BCloplasti/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/balon-valvuloplasti/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-kapa%C4%9F%C4%B1-de%C4%9Fi%C5%9Fimi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-kapak-hastal%C4%B1klar%C4%B1/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kapak-tamiri/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/mitraclip/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/mitral-balon/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/mitral-darl%C4%B1%C4%9F%C4%B1/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/mitral-kapak/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/mitral-yetersizli%C4%9Fi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/tavi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/ambulatuvar-kardiyak-izleme/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/anjiyografi/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/balon-anjiyoplasti/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/ekokardiyografi/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/giri%C5%9Fimsel-kardiyoloji/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/holter/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-kateteri/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-ultrasonu/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kardiyak-anjiyografi/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kardiyak-kateterizasyon/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kardiyak-stent/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kateterizasyon/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/koroner-anjiyoplasti/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/koroner-arter/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/koroner-giri%C5%9Fim/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/koroner-stent/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/pci/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/perk%C3%BCtan-koroner-girisim/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/perk%C3%BCtan-koroner-giri%C5%9Fim/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/ptka/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/ptka/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/ritim-takibi/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/tan%C4%B1sal-kardiyoloji/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/tte/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/yuzeyel-ekokardiyografi/",
+        "lastmod": "2024-12-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/kalp-hastal%C4%B1klar%C4%B1/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-iltihab%C4%B1/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-ritim-bozukluklar%C4%B1/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-yetmezli%C4%9Fi/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kardiyoloji/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/miyokardit/",
+        "lastmod": "2024-12-07T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/kalp-cerrahisi/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kalp-nakli-lvad/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-sa%C4%9Fl%C4%B1%C4%9F%C4%B1-ve-ya%C5%9Fam/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kapak-yetersizli%C4%9Fi/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kardiyak-rehabilitasyon/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/mitraclip-trikuspid-kapak-mudahaleleri/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/pascal/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/tavi-tedavisi/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/transkateter-giri%C5%9Fim/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/triclip/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/trik%C3%BCspid-kapak/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/trikuspid-kapak/",
+        "lastmod": "2024-12-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/aort-anevrizmasi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/aort-hastal%C4%B1klar%C4%B1/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/vask%C3%BCler-hastal%C4%B1klar/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kalp-ritim-bozukluklari/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kalp-yetmezligi/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kardiyomiyopati/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/koroner-arter-hastaligi/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/perikardit/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/atriyal-fibrilasyon/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/hipertansiyon-ve-kolesterol/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kolesterol-yonetimi/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kalp-kapak-hastaliklari/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-pompas%C4%B1/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/lvad/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/lvad/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/mekanik-kalp-deste%C4%9Fi/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/sol-ventrik%C3%BCl-destek-cihaz%C4%B1/",
+        "lastmod": "2024-05-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/cabg/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-ameliyat%C4%B1/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-bypass/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kalp-bypass/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/koroner-arter-bypass/",
+        "lastmod": "2024-04-05T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-nakli/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kalp-nakli/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-transplantasyonu/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/organ-nakli/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/son-d%C3%B6nem-kalp-hastal%C4%B1%C4%9F%C4%B1/",
+        "lastmod": "2024-03-20T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/giri%C5%9Fimsel-kardiyoloji/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-zar%C4%B1-s%C4%B1v%C4%B1s%C4%B1/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kardiyak-tamponad/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/perikardiyal-ef%C3%BCzyon/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/perikardiyosentez/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/perikardiyosentez/",
+        "lastmod": "2024-02-10T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/kardiyovaskuler-korunma/",
+        "lastmod": "2025-12-09T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/akut-dvt-tedavisi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/alkol-septal-ablasyon/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/bifurkasyon-girisimi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/biventrikuler-pacemaker/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/cerrahi-tedavi/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/cto-girisimi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/diyaliz-fistul-tedavisi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/dizalti-damar-tikanikligi/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/dizustu-damar-tikanikligi/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/efor-testi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/ekg/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/ekokardiyografi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/elektrofizyolojik-test/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/evar-tevar/",
+        "lastmod": "2024-12-12T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/ffr/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/gecici-kalp-pili/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/hiperlipidemi-tedavisi/",
+        "lastmod": "2025-12-09T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/hipertansiyon/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/holter/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/icd/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/ivus/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/iliak-arter-tedavisi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/inme-%C3%B6nleme/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/kalici-kalp-pili/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/kalp-deligi-kapatma/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/kalp-krizi-belirtileri/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/kalp-yetmezligi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/kardiyak-bt/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/kardiyoversiyon/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/karotis-stenozu/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/karotis-endarterektomi/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/karotis-hastal%C4%B1klar%C4%B1/",
+        "lastmod": "2024-01-15T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/ablasyon/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/anjiyografi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/anjiyoplasti/",
+        "lastmod": "2024-12-18T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/koroner-fistul-tedavisi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/kronik-dvt-tedavisi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/may-thurner-sendromu/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/mitraclip/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/mitral-balon-valvuloplasti/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/miyokard-enfarktusu/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/miyokard-perfuzyon/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/periferik-anjiyografi/",
+        "lastmod": "2024-12-13T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/periferik-damar/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/aterektomi/",
+        "lastmod": "2024-12-12T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/pulmoner-kapak/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/radyal-anjiyografi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/renal-arter-stenozu/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/sol-ana-koroner-stent/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/stres-ekokardiyografi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/tansiyon-holter/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/tavi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/tilt-testi/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/transozofageal-ekokardiyografi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/transtorasik-ekokardiyografi/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/trikuspid-kapak/",
+        "lastmod": "2025-12-14T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/uc-odacikli-kalp-pili/",
+        "lastmod": "2024-12-04T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/varikosel-pelvik-konjesyon/",
+        "lastmod": "2024-12-11T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/hipertansiyon-nedir/",
+        "lastmod": "2024-12-03T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/yayinlar/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/blog/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/",
+        "lastmod": "2026-11-24T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hakkimda/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/iletisim/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/klinik/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/kvkk/",
+        "lastmod": "2024-01-01T00:00:00+00:00",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/abdominal-aort-anevrizmasi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/alt-ekstremite-arter-hastaligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/alt-ekstremite-arter-hastaligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/ameliyatsiz-damar-acma/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/ameliyatsiz-kalp-kapagi-tedavisi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/aort-darligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/aort-hastaliklari/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/aort-yetersizligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/aort-yirtilmasi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/ayak-yarasi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/bacak-damar-hastaliklari/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/bacak-damar-tikanikligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/bacak-damarlarini-acma/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/bacak-sisligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/balon-valvuloplasti/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/balon-valvuloplasti/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/damar-acma/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/damar-balonlasmasi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/damar-genislemesi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/damar-hastaliklari/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/girisimsel-kardiyoloji/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/girisimsel-kardiyoloji/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/girisimsel-kardiyoloji-istanbul/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/inme-onleme/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/istanbul-kardiyolog/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-ameliyati/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/kalp-hastaliklari/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-iltihabi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-kapagi-degisimi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-kapak-hastaliklari/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-pompasi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-ritim-bozukluklari/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-sagligi-ve-yasam/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-yetmezligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kalp-zari-sivisi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kapak-yetersizligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kardiyak-izleme/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/karotis-hastaliklari/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/hizmetler/koroner-arter-hastaligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/koroner-arter-hastaligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/koroner-girisim/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/kopuk-tedavisi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/mekanik-kalp-destegi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/mitral-darligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/mitral-yetersizligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/periferik-arter-hastaligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/perikardiyal-efuzyon/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/perkutan-koroner-girisim/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/pihti-tedavisi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/sol-ventrikul-destek-cihazi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/son-donem-kalp-hastaligi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/tanisal-kardiyoloji/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/toplardamar-hastaliklari/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/transkateter-girisim/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/trikuspid-kapak/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/categories/vaskuler-hastaliklar/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/venoz-yetmezlik/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      },
+      {
+        "loc": "https://docdrhabibcil.com/tags/yurume-agrisi/",
+        "lastmod": "",
+        "target_status_static": "exists"
+      }
+    ]
+  }
+]

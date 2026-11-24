@@ -1,0 +1,598 @@
+{
+  "before_broken_instances": 98,
+  "changed_files": 45,
+  "link_replacements": 98,
+  "changes": [
+    {
+      "file": "content/tr/blog/aort-anevrizmasi/index.md",
+      "old": "/tr/blog/hipertansiyon-nedir/",
+      "new": "/blog/hipertansiyon-nedir/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/aort-anevrizmasi/index.md",
+      "old": "/tr/hizmetler/ekokardiyografi/",
+      "new": "/hizmetler/ekokardiyografi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/aort-anevrizmasi/index.md",
+      "old": "/tr/hizmetler/hipertansiyon/",
+      "new": "/hizmetler/hipertansiyon/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/aort-kapak-hastaligi/index.md",
+      "old": "/tr/hizmetler/tavi/",
+      "new": "/hizmetler/tavi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/aort-kapak-hastaligi/index.md",
+      "old": "/tr/hizmetler/balon-valvuloplasti/",
+      "new": "/hizmetler/balon-valvuloplasti/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/aort-kapak-hastaligi/index.md",
+      "old": "/tr/hizmetler/ekokardiyografi/",
+      "new": "/hizmetler/ekokardiyografi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/aort-kapak-hastaligi/index.md",
+      "old": "/tr/hizmetler/kalp-yetmezligi/",
+      "new": "/hizmetler/kalp-yetmezligi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/aort-kapak-hastaligi/index.md",
+      "old": "/tr/hizmetler/kalp-bypass/",
+      "new": "/blog/kalp-bypass/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/balon-valvuloplasti/index.md",
+      "old": "/tr/hizmetler/tavi/",
+      "new": "/hizmetler/tavi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/balon-valvuloplasti/index.md",
+      "old": "/tr/hizmetler/mitraclip/",
+      "new": "/hizmetler/mitraclip/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/balon-valvuloplasti/index.md",
+      "old": "/tr/hizmetler/ekokardiyografi/",
+      "new": "/hizmetler/ekokardiyografi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/balon-valvuloplasti/index.md",
+      "old": "/tr/hizmetler/aort-kapak-hastaligi/",
+      "new": "/blog/aort-kapak-hastaligi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/balon-valvuloplasti/index.md",
+      "old": "/tr/hizmetler/mitral-kapak/",
+      "new": "/blog/mitral-kapak/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/mitral-kapak/index.md",
+      "old": "/tr/hizmetler/mitraclip/",
+      "new": "/hizmetler/mitraclip/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/mitral-kapak/index.md",
+      "old": "/tr/hizmetler/balon-valvuloplasti/",
+      "new": "/hizmetler/balon-valvuloplasti/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/mitral-kapak/index.md",
+      "old": "/tr/hizmetler/ekokardiyografi/",
+      "new": "/hizmetler/ekokardiyografi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/mitral-kapak/index.md",
+      "old": "/tr/hizmetler/trikuspid-kapak/",
+      "new": "/hizmetler/trikuspid-kapak/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/mitral-kapak/index.md",
+      "old": "/tr/hizmetler/kalp-yetmezligi/",
+      "new": "/hizmetler/kalp-yetmezligi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/trikuspid-kapak/index.md",
+      "old": "/tr/blog/mitral-kapak/",
+      "new": "/blog/mitral-kapak/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/trikuspid-kapak/index.md",
+      "old": "/tr/blog/kalp-kapak-hastaliklari/",
+      "new": "/blog/kalp-kapak-hastaliklari/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/blog/trikuspid-kapak/index.md",
+      "old": "/tr/blog/mitraclip-trikuspid-kapak-mudahaleleri/",
+      "new": "/blog/mitraclip-trikuspid-kapak-mudahaleleri/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/hakkimda/index.md",
+      "old": "/tr/yayinlar/",
+      "new": "/yayinlar/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/ekokardiyografi/",
+      "new": "/hizmetler/ekokardiyografi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/ekg/",
+      "new": "/hizmetler/ekg/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/efor-testi/",
+      "new": "/hizmetler/efor-testi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/holter/",
+      "new": "/hizmetler/holter/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/cto-girisimi/",
+      "new": "/hizmetler/cto-girisimi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/sol-ana-koroner-stent/",
+      "new": "/hizmetler/sol-ana-koroner-stent/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/tavi/",
+      "new": "/hizmetler/tavi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/alt-ekstremite-arter-hastaligi/",
+      "new": "/hizmetler/alt-ekstremite-arter-hastaligi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/renal-arter-stenozu/",
+      "new": "/hizmetler/renal-arter-stenozu/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/kalici-kalp-pili/",
+      "new": "/hizmetler/kalici-kalp-pili/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/icd/",
+      "new": "/hizmetler/icd/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/biventrikuler-pacemaker/",
+      "new": "/hizmetler/biventrikuler-pacemaker/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/koroner-anjiyografi/",
+      "new": "/hizmetler/anjiyografi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/koroner-anjiyoplasti/",
+      "new": "/hizmetler/anjiyoplasti/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/alkol-septal-ablation/",
+      "new": "/hizmetler/alkol-septal-ablasyon/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/klinik/_index.md",
+      "old": "/tr/hizmetler/karotis-arter-girisimleri/",
+      "new": "/hizmetler/karotis-stenozu/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/tr/yayinlar/_index.md",
+      "old": "/tr/iletisim/",
+      "new": "/iletisim/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/ar/blog/aortic-valve-disease/index.md",
+      "old": "/ar/services/balloon-valvuloplasty/",
+      "new": "/ar/blog/balloon-valvuloplasty/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/ar/blog/aortic-valve-disease/index.md",
+      "old": "/ar/services/cabg/",
+      "new": "/ar/blog/cabg/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/ar/blog/balloon-valvuloplasty/index.md",
+      "old": "/ar/services/aortic-valve-disease/",
+      "new": "/ar/blog/aortic-valve-disease/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/ar/blog/balloon-valvuloplasty/index.md",
+      "old": "/ar/services/mitral-valve/",
+      "new": "/ar/blog/mitral-valve/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/ar/blog/mitraclip-tricuspid-valve-interventions/index.md",
+      "old": "/ar/services/mitral-valve/",
+      "new": "/ar/blog/mitral-valve/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/ar/blog/mitraclip-tricuspid-valve-interventions/index.md",
+      "old": "/ar/services/balloon-valvuloplasty/",
+      "new": "/ar/blog/balloon-valvuloplasty/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/ar/blog/mitral-valve/index.md",
+      "old": "/ar/services/balloon-valvuloplasty/",
+      "new": "/ar/blog/balloon-valvuloplasty/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/ar/clinic/_index.md",
+      "old": "/ar/services/cardiac-angiography/",
+      "new": "/ar/services/angiography/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/ar/clinic/_index.md",
+      "old": "/ar/services/coronary-angioplasty/",
+      "new": "/ar/services/angioplasty/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/ar/clinic/_index.md",
+      "old": "/ar/services/lower-extremity-arterial-disease/",
+      "new": "/ar/services/peripheral-vascular/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/aortic-aneurysm/index.md",
+      "old": "/en/blog/what-is-hypertension/",
+      "new": "/en/blog/what-is-hypertension-high-blood-pressure/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/aortic-aneurysm/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/aortic-valve-disease/index.md",
+      "old": "/services/tavi/",
+      "new": "/en/services/tavi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/aortic-valve-disease/index.md",
+      "old": "/services/balloon-valvuloplasty/",
+      "new": "/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/aortic-valve-disease/index.md",
+      "old": "/services/echocardiography/",
+      "new": "/en/services/echocardiography/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/aortic-valve-disease/index.md",
+      "old": "/services/heart-failure/",
+      "new": "/en/services/heart-failure/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/aortic-valve-disease/index.md",
+      "old": "/services/cabg/",
+      "new": "/en/blog/cabg-complete-guide-to-coronary-artery-bypass-surgery/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/balloon-valvuloplasty/index.md",
+      "old": "/services/tavi/",
+      "new": "/en/services/tavi/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/balloon-valvuloplasty/index.md",
+      "old": "/services/aortic-valve-disease/",
+      "new": "/en/blog/aortic-valve-disease-stenosis-and-regurgitation-treatment/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/balloon-valvuloplasty/index.md",
+      "old": "/services/mitral-valve/",
+      "new": "/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/balloon-valvuloplasty/index.md",
+      "old": "/services/mitraclip/",
+      "new": "/en/services/mitraclip/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/balloon-valvuloplasty/index.md",
+      "old": "/services/echocardiography/",
+      "new": "/en/services/echocardiography/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/cardiac-arrhythmias/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/cholesterol-management/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/coronary-artery-disease/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/deep-vein-thrombosis/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/heart-attack-symptoms/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/heart-failure/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/heart-transplant-lvad/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/heart-valve-diseases/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/mitral-valve/index.md",
+      "old": "/services/mitraclip/",
+      "new": "/en/services/mitraclip/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/mitral-valve/index.md",
+      "old": "/services/balloon-valvuloplasty/",
+      "new": "/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/mitral-valve/index.md",
+      "old": "/services/echocardiography/",
+      "new": "/en/services/echocardiography/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/mitral-valve/index.md",
+      "old": "/services/tricuspid-valve/",
+      "new": "/en/services/tricuspid-valve/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/mitral-valve/index.md",
+      "old": "/services/heart-failure/",
+      "new": "/en/services/heart-failure/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/tricuspid-valve/index.md",
+      "old": "/blog/mitral-valve/",
+      "new": "/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/tricuspid-valve/index.md",
+      "old": "/blog/heart-valve-diseases/",
+      "new": "/en/blog/heart-valve-diseases-symptoms-diagnosis-and-treatment/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/tricuspid-valve/index.md",
+      "old": "/blog/mitraclip-tricuspid-valve-interventions/",
+      "new": "/en/blog/mitraclip-and-tricuspid-valve-interventions-minimally-invasive-valve-treatment/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/atrial-fibrillation/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/cardiomyopathy/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/diabetic-foot/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/what-is-hypertension/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/myocarditis/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/pericarditis/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/blog/peripheral-artery-disease/index.md",
+      "old": "/contact/",
+      "new": "/en/contact/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/clinic/_index.md",
+      "old": "/en/services/cardiac-angiography/",
+      "new": "/en/services/angiography/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/clinic/_index.md",
+      "old": "/en/services/coronary-angioplasty/",
+      "new": "/en/services/angioplasty/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/clinic/_index.md",
+      "old": "/en/services/lower-extremity-arterial-disease/",
+      "new": "/en/services/peripheral-vascular/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/angiography/index.md",
+      "old": "false/",
+      "new": "/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/cardiac-ct/index.md",
+      "old": "false/",
+      "new": "/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/cto-intervention/index.md",
+      "old": "false/",
+      "new": "/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/evar-tevar/index.md",
+      "old": "false/",
+      "new": "/en/blog/abdominal-aortic-aneurysm-aaa-symptoms-risks-and-treatment/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/exercise-stress-test/index.md",
+      "old": "false/",
+      "new": "/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/hyperlipidemia-treatment/index.md",
+      "old": "false/",
+      "new": "/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/hypertension/index.md",
+      "old": "false/",
+      "new": "/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/myocardial-infarction/index.md",
+      "old": "false/",
+      "new": "/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/myocardial-perfusion/index.md",
+      "old": "false/",
+      "new": "/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/peripheral-vascular/index.md",
+      "old": "false/",
+      "new": "/en/blog/abdominal-aortic-aneurysm-aaa-symptoms-risks-and-treatment/",
+      "occurrences": 1
+    },
+    {
+      "file": "content/en/services/stress-echocardiography/index.md",
+      "old": "false/",
+      "new": "/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+      "occurrences": 1
+    }
+  ],
+  "root_owned_replacements": [],
+  "non_content_sources": [],
+  "content_changes": "Link destinations only; labels, clinical claims and URL front matter unchanged."
+}

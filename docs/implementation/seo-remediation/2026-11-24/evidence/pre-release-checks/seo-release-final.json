@@ -1,0 +1,180 @@
+{
+  "scope": "Static release acceptance; not real HTTP, browser, official schema, clinical or Google indexing validation",
+  "before": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-implementation-baseline-ev_cpc_t/public",
+  "after": "/tmp/dr-cil-implementation-after-20261124-final/public",
+  "html_before": 976,
+  "html_after": 967,
+  "checks": [
+    {
+      "name": "keyword_target_1",
+      "pass": true,
+      "detail": "/"
+    },
+    {
+      "name": "keyword_target_2",
+      "pass": true,
+      "detail": "/"
+    },
+    {
+      "name": "keyword_target_3",
+      "pass": true,
+      "detail": "/blog/diyabetik-ayak/"
+    },
+    {
+      "name": "keyword_target_4",
+      "pass": true,
+      "detail": "/hizmetler/"
+    },
+    {
+      "name": "keyword_target_5",
+      "pass": true,
+      "detail": "/hizmetler/"
+    },
+    {
+      "name": "keyword_target_6",
+      "pass": true,
+      "detail": "/hizmetler/dizalti-damar-tikanikligi/"
+    },
+    {
+      "name": "keyword_target_7",
+      "pass": true,
+      "detail": "/hizmetler/"
+    },
+    {
+      "name": "keyword_target_8",
+      "pass": true,
+      "detail": "/blog/diyabetik-ayak/"
+    },
+    {
+      "name": "existing_interventional_anchor",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "all_prior_canonical_urls_preserved",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "every_removed_html_route_has_explicit_301",
+      "pass": true,
+      "detail": [
+        "/ar/page/1/",
+        "/ar/page/2/",
+        "/ar/page/3/",
+        "/ar/page/4/",
+        "/en/page/1/",
+        "/en/page/2/",
+        "/en/page/3/",
+        "/en/page/4/",
+        "/page/1/",
+        "/page/2/",
+        "/page/3/",
+        "/page/4/"
+      ]
+    },
+    {
+      "name": "retired_home_rules_before_404",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "success_noindex_/iletisim/tesekkurler/",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "success_noindex_/en/contact/thank-you/",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "success_noindex_/ar/contact/shukran/",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "disabled_form_has_real_fallback_/iletisim/",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "disabled_form_has_real_fallback_/en/contact/",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "disabled_form_has_real_fallback_/ar/contact/",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no_success_page_in_search_",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "search_language_fields_",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no_success_page_in_search_en/",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "search_language_fields_en/",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no_success_page_in_search_ar/",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "search_language_fields_ar/",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "explicit_sitemap_sitemap.xml",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no_success_page_in_sitemap_sitemap.xml",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "explicit_sitemap_en/sitemap.xml",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no_success_page_in_sitemap_en/sitemap.xml",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "explicit_sitemap_ar/sitemap.xml",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no_success_page_in_sitemap_ar/sitemap.xml",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "exact_taxonomy_links_rendered",
+      "pass": true,
+      "detail": 53
+    }
+  ],
+  "passed": 31,
+  "error_count": 0,
+  "errors": []
+}

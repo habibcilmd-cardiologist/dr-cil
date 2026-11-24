@@ -655,7 +655,7 @@ Especially if you have NYHA Class III-IV heart failure diagnosis and your sympto
 
 You can schedule an appointment for evaluation and information about end-stage heart failure, heart transplant, or LVAD treatment.
 
-{{< button href="/contact/" target="_self" >}}
+{{< button href="/en/contact/" target="_self" >}}
 Schedule Appointment
 {{< /button >}}
 

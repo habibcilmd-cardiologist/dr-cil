@@ -1,0 +1,256 @@
+{
+  "root": "/tmp/dr-cil-implementation-after-20261124-final/public",
+  "html_total": 967,
+  "by_language": {
+    "tr": 366,
+    "ar": 302,
+    "en": 299
+  },
+  "by_classification": {
+    "404": 3,
+    "content_or_section": 306,
+    "alias": 294,
+    "pagination": 15,
+    "taxonomy": 346,
+    "home": 3
+  },
+  "actual_non_alias_non404": 670,
+  "actual_language_counts": {
+    "ar": 204,
+    "tr": 264,
+    "en": 202
+  },
+  "noindex_actual": 3,
+  "unique_canonicals": 670,
+  "missing_descriptions": 0,
+  "missing_titles": 0,
+  "broken_link_instances": 0,
+  "broken_link_unique_targets": 0,
+  "broken_link_affected_pages": 0,
+  "broken_asset_instances": 0,
+  "broken_asset_unique_targets": 0,
+  "broken_fragment_instances": 0,
+  "alias_link_instances": 0,
+  "canonical_issues": 0,
+  "hreflang_issues": 0,
+  "duplicate_hreflang_groups": 0,
+  "conflicting_hreflang_groups": 0,
+  "heading_issues": 0,
+  "sitemaps": [
+    {
+      "file": "ar/sitemap.xml",
+      "root_type": "urlset",
+      "entries": 198,
+      "unique_locs": 198,
+      "missing_targets": [],
+      "child_sitemaps": []
+    },
+    {
+      "file": "en/sitemap.xml",
+      "root_type": "urlset",
+      "entries": 196,
+      "unique_locs": 196,
+      "missing_targets": [],
+      "child_sitemaps": []
+    },
+    {
+      "file": "sitemap.xml",
+      "root_type": "urlset",
+      "entries": 258,
+      "unique_locs": 258,
+      "missing_targets": [],
+      "child_sitemaps": []
+    }
+  ],
+  "not_in_any_sitemap_nonpagination": 0,
+  "search_indexes": [
+    {
+      "file": "index.json",
+      "sha256": "0eaa2f75958826332e767f79982e6999ffa4d6825b6b1a00be5d5bbe693778f9",
+      "entries": 423,
+      "permalink_languages": {
+        "tr": 258,
+        "en": 81,
+        "ar": 84
+      },
+      "examples_foreign": [
+        {
+          "title": "Cardiology",
+          "permalink": "/en/categories/cardiology/"
+        },
+        {
+          "title": "Coronary Artery Disease",
+          "permalink": "/en/tags/coronary-artery-disease/"
+        },
+        {
+          "title": "Peripheral Vascular Disease",
+          "permalink": "/en/tags/peripheral-vascular-disease/"
+        },
+        {
+          "title": "أمراض الأوعية الدموية المحيطية",
+          "permalink": "/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D9%8A%D8%A9/"
+        },
+        {
+          "title": "أمراض الشرايين التاجية",
+          "permalink": "/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A%D8%A9/"
+        },
+        {
+          "title": "أمراض القلب",
+          "permalink": "/ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8/"
+        },
+        {
+          "title": "Clot Treatment",
+          "permalink": "/en/tags/clot-treatment/"
+        },
+        {
+          "title": "Deep Vein Thrombosis",
+          "permalink": "/en/tags/deep-vein-thrombosis/"
+        },
+        {
+          "title": "Interventional Cardiology Istanbul",
+          "permalink": "/en/tags/interventional-cardiology-istanbul/"
+        },
+        {
+          "title": "Leg Vein Clearance",
+          "permalink": "/en/tags/leg-vein-clearance/"
+        },
+        {
+          "title": "Non-Surgical Vein Treatment",
+          "permalink": "/en/tags/non-surgical-vein-treatment/"
+        },
+        {
+          "title": "Pulmonary Embolism",
+          "permalink": "/en/tags/pulmonary-embolism/"
+        }
+      ]
+    },
+    {
+      "file": "en/index.json",
+      "sha256": "c471df37ae6ab170ba79bd8008f3cf0e70a8362e41bd9dc74daa1d4ce49598f2",
+      "entries": 423,
+      "permalink_languages": {
+        "tr": 143,
+        "en": 196,
+        "ar": 84
+      },
+      "examples_foreign": [
+        {
+          "title": "Ameliyatsız Damar Açma",
+          "permalink": "/tags/ameliyats%C4%B1z-damar-a%C3%A7ma/"
+        },
+        {
+          "title": "Bacak Damar Hastalıkları",
+          "permalink": "/tags/bacak-damar-hastal%C4%B1klar%C4%B1/"
+        },
+        {
+          "title": "Bacak Damarlarını Açma",
+          "permalink": "/tags/bacak-damarlar%C4%B1n%C4%B1-a%C3%A7ma/"
+        },
+        {
+          "title": "Damar Açma",
+          "permalink": "/tags/damar-a%C3%A7ma/"
+        },
+        {
+          "title": "Girişimsel Kardiyoloji İstanbul",
+          "permalink": "/tags/giri%C5%9Fimsel-kardiyoloji-istanbul/"
+        },
+        {
+          "title": "Kardiyoloji",
+          "permalink": "/categories/kardiyoloji/"
+        },
+        {
+          "title": "Koroner Arter Hastalığı",
+          "permalink": "/tags/koroner-arter-hastal%C4%B1%C4%9F%C4%B1/"
+        },
+        {
+          "title": "أمراض الأوعية الدموية المحيطية",
+          "permalink": "/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%A3%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D9%8A%D8%A9/"
+        },
+        {
+          "title": "أمراض الشرايين التاجية",
+          "permalink": "/ar/tags/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A%D8%A9/"
+        },
+        {
+          "title": "أمراض القلب",
+          "permalink": "/ar/categories/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8/"
+        },
+        {
+          "title": "Derin Ven Trombozu",
+          "permalink": "/tags/derin-ven-trombozu/"
+        },
+        {
+          "title": "Pıhtı Tedavisi",
+          "permalink": "/tags/p%C4%B1ht%C4%B1-tedavisi/"
+        }
+      ]
+    },
+    {
+      "file": "ar/index.json",
+      "sha256": "fb3c69c39ede80626251eea516310c92a00fae59bd51fc084b59ddd7d22d244f",
+      "entries": 423,
+      "permalink_languages": {
+        "tr": 145,
+        "en": 80,
+        "ar": 198
+      },
+      "examples_foreign": [
+        {
+          "title": "Ameliyatsız Damar Açma",
+          "permalink": "/tags/ameliyats%C4%B1z-damar-a%C3%A7ma/"
+        },
+        {
+          "title": "Bacak Damar Hastalıkları",
+          "permalink": "/tags/bacak-damar-hastal%C4%B1klar%C4%B1/"
+        },
+        {
+          "title": "Bacak Damarlarını Açma",
+          "permalink": "/tags/bacak-damarlar%C4%B1n%C4%B1-a%C3%A7ma/"
+        },
+        {
+          "title": "Cardiology",
+          "permalink": "/en/categories/cardiology/"
+        },
+        {
+          "title": "Coronary Artery Disease",
+          "permalink": "/en/tags/coronary-artery-disease/"
+        },
+        {
+          "title": "Damar Açma",
+          "permalink": "/tags/damar-a%C3%A7ma/"
+        },
+        {
+          "title": "Girişimsel Kardiyoloji İstanbul",
+          "permalink": "/tags/giri%C5%9Fimsel-kardiyoloji-istanbul/"
+        },
+        {
+          "title": "Kardiyoloji",
+          "permalink": "/categories/kardiyoloji/"
+        },
+        {
+          "title": "Koroner Arter Hastalığı",
+          "permalink": "/tags/koroner-arter-hastal%C4%B1%C4%9F%C4%B1/"
+        },
+        {
+          "title": "Peripheral Vascular Disease",
+          "permalink": "/en/tags/peripheral-vascular-disease/"
+        },
+        {
+          "title": "Clot Treatment",
+          "permalink": "/en/tags/clot-treatment/"
+        },
+        {
+          "title": "Deep Vein Thrombosis",
+          "permalink": "/en/tags/deep-vein-thrombosis/"
+        }
+      ]
+    }
+  ],
+  "orphan_candidates": 53,
+  "limitations": [
+    "No HTTP requests/status codes inferred; local file existence only.",
+    "DOM text and heading counts include all emitted elements; browser visibility not inferred.",
+    "Source template/category classification inferred from output URL except aliases/404/home.",
+    "Anchor targets are checked against emitted id/name only; JS-created destinations may create false positives.",
+    "Duplicate titles/descriptions can be legitimate on pagination; review before severity assignment."
+  ]
+}

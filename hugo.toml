@@ -6,6 +6,10 @@ defaultContentLanguage = "tr"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = false
 enableInlineShortcodes = true
+# Sitemap output has one owner: the three language home output templates.
+# Native multilingual sitemaps otherwise place a file under /tr/, which is
+# reserved for the legacy /tr/* redirect. robots.txt declares all three maps.
+disableKinds = ["sitemap"]
 
 # Build Performance
 timeout = "180s"
@@ -22,7 +26,14 @@ buildDrafts = false
   category = "categories"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "SiteMapPages"]
+
+[outputFormats.SiteMapPages]
+  mediaType = "application/xml"
+  baseName = "sitemap"
+  isPlainText = true
+  notAlternative = true
+  ugly = true
 
 [segments]
   [segments.sitemaps]
@@ -79,8 +90,8 @@ buildDrafts = false
     contentDir = "content/tr"
     title = "Doç. Dr. Habib ÇİL | İstanbul Kardiyoloji Uzmanı"
     [languages.tr.outputs]
-      home = ["HTML", "RSS", "JSON", "Sitemap"]
-      section = ["HTML", "RSS", "Sitemap"]
+      home = ["HTML", "RSS", "JSON", "SiteMapPages"]
+      section = ["HTML", "RSS"]
       page = ["HTML"]
 
 
@@ -113,8 +124,8 @@ buildDrafts = false
     contentDir = "content/en"
     title = "Assoc. Prof. Dr. Habib ÇİL | Cardiologist"
     [languages.en.outputs]
-      home = ["HTML", "RSS", "JSON", "Sitemap"]
-      section = ["HTML", "RSS", "Sitemap"]
+      home = ["HTML", "RSS", "JSON", "SiteMapPages"]
+      section = ["HTML", "RSS"]
       page = ["HTML"]
 
     [languages.en.permalinks]
@@ -150,8 +161,8 @@ buildDrafts = false
     contentDir = "content/ar"
     title = "أ.د. حبيب جيل | أخصائي أمراض القلب"
     [languages.ar.outputs]
-      home = ["HTML", "RSS", "JSON", "Sitemap"]
-      section = ["HTML", "RSS", "Sitemap"]
+      home = ["HTML", "RSS", "JSON", "SiteMapPages"]
+      section = ["HTML", "RSS"]
       page = ["HTML"]
 
     [languages.ar.params]

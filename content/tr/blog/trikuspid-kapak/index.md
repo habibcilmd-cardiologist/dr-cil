@@ -192,6 +192,6 @@ Triküspit kapak hastalığı değerlendirmesi için randevu almak isterseniz:
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
 Triküspit kapak hastalığı ile bağlantılı diğer konular:
 
--   [Mitral Kapak Hastalıkları](/tr/blog/mitral-kapak/) - Mitral kapak hastalıkları
--   [Kalp Kapak Hastalıkları](/tr/blog/kalp-kapak-hastaliklari/) - Genel bilgi
--   [MitraClip ve Triküspid Kapak Müdahaleleri](/tr/blog/mitraclip-trikuspid-kapak-mudahaleleri/) - Modern tedavi yöntemleri
+-   [Mitral Kapak Hastalıkları](/blog/mitral-kapak/) - Mitral kapak hastalıkları
+-   [Kalp Kapak Hastalıkları](/blog/kalp-kapak-hastaliklari/) - Genel bilgi
+-   [MitraClip ve Triküspid Kapak Müdahaleleri](/blog/mitraclip-trikuspid-kapak-mudahaleleri/) - Modern tedavi yöntemleri

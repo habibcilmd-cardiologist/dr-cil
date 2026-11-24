@@ -1,0 +1,722 @@
+[
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/2/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/blog/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/blog/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/3/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/blog/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/blog/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/4/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/blog/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/blog/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/blog/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/2/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/3/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/4/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/ar/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/2/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/blog/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/blog/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/3/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/blog/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/blog/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/4/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/blog/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/blog/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/blog/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/2/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/blog/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/blog/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/3/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/blog/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/blog/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/4/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/blog/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/blog/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/blog/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/blog/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/blog/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/2/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/3/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/4/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/en/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/2/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/2/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/3/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/3/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/4/",
+    "issue": "missing_self",
+    "alternates": [
+      [
+        "tr",
+        "https://docdrhabibcil.com/"
+      ],
+      [
+        "en",
+        "https://docdrhabibcil.com/en/"
+      ],
+      [
+        "ar",
+        "https://docdrhabibcil.com/ar/"
+      ],
+      [
+        "x-default",
+        "https://docdrhabibcil.com/"
+      ]
+    ]
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "tr",
+    "target": "https://docdrhabibcil.com/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "en",
+    "target": "https://docdrhabibcil.com/en/"
+  },
+  {
+    "url": "https://docdrhabibcil.com/page/4/",
+    "issue": "missing_reciprocal",
+    "hreflang": "ar",
+    "target": "https://docdrhabibcil.com/ar/"
+  }
+]

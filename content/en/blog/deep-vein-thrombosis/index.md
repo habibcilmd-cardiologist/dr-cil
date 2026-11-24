@@ -141,6 +141,6 @@ Deep Vein Thrombosis is a serious vascular disease requiring expertise. With mod
 
 If you have swelling, pain in your legs, or suspect a vascular blockage, consult a healthcare center for detailed evaluation and treatment.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

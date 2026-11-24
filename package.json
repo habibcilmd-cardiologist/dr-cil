@@ -6,7 +6,7 @@
 	"scripts": {
 		"dev": "hugo server --environment development --bind 127.0.0.1 --port 1313 --baseURL http://localhost:1313/ --disableFastRender --renderToMemory",
 		"start": "npm run dev",
-		"build": "hugo --environment production --minify --cleanDestinationDir"
+		"build": "python3 scripts/build-production.py"
 	},
 	"devDependencies": {
 		"netlify-plugin-cache": "^1.0.3"

@@ -198,6 +198,6 @@ showAuthor: false
 **Not:** Tam yayın listesi için CV'mi talep edebilirsiniz.
 {{< /alert >}}
 
-{{< button href="/tr/iletisim/" >}}
+{{< button href="/iletisim/" >}}
 İletişime Geç →
 {{< /button >}}

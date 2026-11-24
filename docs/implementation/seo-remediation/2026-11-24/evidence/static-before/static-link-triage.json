@@ -1,0 +1,735 @@
+{
+  "static_missing_instances": 98,
+  "netlify_tr_rule_recoverable_instances": 32,
+  "unresolved_even_after_declared_tr_rule_instances": 66,
+  "recoverable_under_declared_netlify_rule": [
+    {
+      "source_url": "https://docdrhabibcil.com/blog/aort-anevrizmasi/",
+      "href": "/tr/blog/hipertansiyon-nedir/",
+      "resolved": "https://docdrhabibcil.com/tr/blog/hipertansiyon-nedir/",
+      "expected_file": "tr/blog/hipertansiyon-nedir/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/blog/hipertansiyon-nedir/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/aort-anevrizmasi/",
+      "href": "/tr/hizmetler/ekokardiyografi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/ekokardiyografi/",
+      "expected_file": "tr/hizmetler/ekokardiyografi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/ekokardiyografi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/aort-anevrizmasi/",
+      "href": "/tr/hizmetler/hipertansiyon/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/hipertansiyon/",
+      "expected_file": "tr/hizmetler/hipertansiyon/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/hipertansiyon/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/aort-kapak-hastaligi/",
+      "href": "/tr/hizmetler/tavi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/tavi/",
+      "expected_file": "tr/hizmetler/tavi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/tavi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/aort-kapak-hastaligi/",
+      "href": "/tr/hizmetler/balon-valvuloplasti/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/balon-valvuloplasti/",
+      "expected_file": "tr/hizmetler/balon-valvuloplasti/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/balon-valvuloplasti/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/aort-kapak-hastaligi/",
+      "href": "/tr/hizmetler/ekokardiyografi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/ekokardiyografi/",
+      "expected_file": "tr/hizmetler/ekokardiyografi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/ekokardiyografi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/aort-kapak-hastaligi/",
+      "href": "/tr/hizmetler/kalp-yetmezligi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/kalp-yetmezligi/",
+      "expected_file": "tr/hizmetler/kalp-yetmezligi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/kalp-yetmezligi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/balon-valvuloplasti/",
+      "href": "/tr/hizmetler/tavi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/tavi/",
+      "expected_file": "tr/hizmetler/tavi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/tavi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/balon-valvuloplasti/",
+      "href": "/tr/hizmetler/mitraclip/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/mitraclip/",
+      "expected_file": "tr/hizmetler/mitraclip/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/mitraclip/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/balon-valvuloplasti/",
+      "href": "/tr/hizmetler/ekokardiyografi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/ekokardiyografi/",
+      "expected_file": "tr/hizmetler/ekokardiyografi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/ekokardiyografi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/mitral-kapak/",
+      "href": "/tr/hizmetler/mitraclip/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/mitraclip/",
+      "expected_file": "tr/hizmetler/mitraclip/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/mitraclip/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/mitral-kapak/",
+      "href": "/tr/hizmetler/balon-valvuloplasti/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/balon-valvuloplasti/",
+      "expected_file": "tr/hizmetler/balon-valvuloplasti/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/balon-valvuloplasti/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/mitral-kapak/",
+      "href": "/tr/hizmetler/ekokardiyografi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/ekokardiyografi/",
+      "expected_file": "tr/hizmetler/ekokardiyografi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/ekokardiyografi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/mitral-kapak/",
+      "href": "/tr/hizmetler/trikuspid-kapak/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/trikuspid-kapak/",
+      "expected_file": "tr/hizmetler/trikuspid-kapak/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/trikuspid-kapak/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/mitral-kapak/",
+      "href": "/tr/hizmetler/kalp-yetmezligi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/kalp-yetmezligi/",
+      "expected_file": "tr/hizmetler/kalp-yetmezligi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/kalp-yetmezligi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/trikuspid-kapak/",
+      "href": "/tr/blog/mitral-kapak/",
+      "resolved": "https://docdrhabibcil.com/tr/blog/mitral-kapak/",
+      "expected_file": "tr/blog/mitral-kapak/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/blog/mitral-kapak/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/trikuspid-kapak/",
+      "href": "/tr/blog/kalp-kapak-hastaliklari/",
+      "resolved": "https://docdrhabibcil.com/tr/blog/kalp-kapak-hastaliklari/",
+      "expected_file": "tr/blog/kalp-kapak-hastaliklari/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/blog/kalp-kapak-hastaliklari/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/trikuspid-kapak/",
+      "href": "/tr/blog/mitraclip-trikuspid-kapak-mudahaleleri/",
+      "resolved": "https://docdrhabibcil.com/tr/blog/mitraclip-trikuspid-kapak-mudahaleleri/",
+      "expected_file": "tr/blog/mitraclip-trikuspid-kapak-mudahaleleri/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/blog/mitraclip-trikuspid-kapak-mudahaleleri/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/hakkimda/",
+      "href": "/tr/yayinlar/",
+      "resolved": "https://docdrhabibcil.com/tr/yayinlar/",
+      "expected_file": "tr/yayinlar/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/yayinlar/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/ekokardiyografi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/ekokardiyografi/",
+      "expected_file": "tr/hizmetler/ekokardiyografi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/ekokardiyografi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/ekg/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/ekg/",
+      "expected_file": "tr/hizmetler/ekg/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/ekg/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/efor-testi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/efor-testi/",
+      "expected_file": "tr/hizmetler/efor-testi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/efor-testi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/holter/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/holter/",
+      "expected_file": "tr/hizmetler/holter/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/holter/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/cto-girisimi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/cto-girisimi/",
+      "expected_file": "tr/hizmetler/cto-girisimi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/cto-girisimi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/sol-ana-koroner-stent/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/sol-ana-koroner-stent/",
+      "expected_file": "tr/hizmetler/sol-ana-koroner-stent/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/sol-ana-koroner-stent/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/tavi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/tavi/",
+      "expected_file": "tr/hizmetler/tavi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/tavi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/alt-ekstremite-arter-hastaligi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/alt-ekstremite-arter-hastaligi/",
+      "expected_file": "tr/hizmetler/alt-ekstremite-arter-hastaligi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/alt-ekstremite-arter-hastaligi/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/renal-arter-stenozu/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/renal-arter-stenozu/",
+      "expected_file": "tr/hizmetler/renal-arter-stenozu/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/renal-arter-stenozu/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/kalici-kalp-pili/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/kalici-kalp-pili/",
+      "expected_file": "tr/hizmetler/kalici-kalp-pili/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/kalici-kalp-pili/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/icd/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/icd/",
+      "expected_file": "tr/hizmetler/icd/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/icd/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/biventrikuler-pacemaker/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/biventrikuler-pacemaker/",
+      "expected_file": "tr/hizmetler/biventrikuler-pacemaker/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/biventrikuler-pacemaker/",
+      "target_after_declared_redirect_exists": true
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/yayinlar/",
+      "href": "/tr/iletisim/",
+      "resolved": "https://docdrhabibcil.com/tr/iletisim/",
+      "expected_file": "tr/iletisim/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/iletisim/",
+      "target_after_declared_redirect_exists": true
+    }
+  ],
+  "unresolved_after_declared_netlify_rule": [
+    {
+      "source_url": "https://docdrhabibcil.com/ar/blog/aortic-valve-disease/",
+      "href": "/ar/services/balloon-valvuloplasty/",
+      "resolved": "https://docdrhabibcil.com/ar/services/balloon-valvuloplasty/",
+      "expected_file": "ar/services/balloon-valvuloplasty/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/ar/blog/aortic-valve-disease/",
+      "href": "/ar/services/cabg/",
+      "resolved": "https://docdrhabibcil.com/ar/services/cabg/",
+      "expected_file": "ar/services/cabg/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/ar/blog/balloon-valvuloplasty/",
+      "href": "/ar/services/aortic-valve-disease/",
+      "resolved": "https://docdrhabibcil.com/ar/services/aortic-valve-disease/",
+      "expected_file": "ar/services/aortic-valve-disease/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/ar/blog/balloon-valvuloplasty/",
+      "href": "/ar/services/mitral-valve/",
+      "resolved": "https://docdrhabibcil.com/ar/services/mitral-valve/",
+      "expected_file": "ar/services/mitral-valve/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/ar/blog/mitraclip-tricuspid-valve-interventions/",
+      "href": "/ar/services/mitral-valve/",
+      "resolved": "https://docdrhabibcil.com/ar/services/mitral-valve/",
+      "expected_file": "ar/services/mitral-valve/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/ar/blog/mitraclip-tricuspid-valve-interventions/",
+      "href": "/ar/services/balloon-valvuloplasty/",
+      "resolved": "https://docdrhabibcil.com/ar/services/balloon-valvuloplasty/",
+      "expected_file": "ar/services/balloon-valvuloplasty/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/ar/blog/mitral-valve/",
+      "href": "/ar/services/balloon-valvuloplasty/",
+      "resolved": "https://docdrhabibcil.com/ar/services/balloon-valvuloplasty/",
+      "expected_file": "ar/services/balloon-valvuloplasty/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/ar/clinic/",
+      "href": "/ar/services/cardiac-angiography/",
+      "resolved": "https://docdrhabibcil.com/ar/services/cardiac-angiography/",
+      "expected_file": "ar/services/cardiac-angiography/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/ar/clinic/",
+      "href": "/ar/services/coronary-angioplasty/",
+      "resolved": "https://docdrhabibcil.com/ar/services/coronary-angioplasty/",
+      "expected_file": "ar/services/coronary-angioplasty/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/ar/clinic/",
+      "href": "/ar/services/lower-extremity-arterial-disease/",
+      "resolved": "https://docdrhabibcil.com/ar/services/lower-extremity-arterial-disease/",
+      "expected_file": "ar/services/lower-extremity-arterial-disease/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/aort-kapak-hastaligi/",
+      "href": "/tr/hizmetler/kalp-bypass/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/kalp-bypass/",
+      "expected_file": "tr/hizmetler/kalp-bypass/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/kalp-bypass/",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/balon-valvuloplasti/",
+      "href": "/tr/hizmetler/aort-kapak-hastaligi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/aort-kapak-hastaligi/",
+      "expected_file": "tr/hizmetler/aort-kapak-hastaligi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/aort-kapak-hastaligi/",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/blog/balon-valvuloplasti/",
+      "href": "/tr/hizmetler/mitral-kapak/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/mitral-kapak/",
+      "expected_file": "tr/hizmetler/mitral-kapak/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/mitral-kapak/",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/aortic-aneurysm-symptoms-diagnosis-and-modern-treatment-methods/",
+      "href": "/en/blog/what-is-hypertension/",
+      "resolved": "https://docdrhabibcil.com/en/blog/what-is-hypertension/",
+      "expected_file": "en/blog/what-is-hypertension/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/aortic-aneurysm-symptoms-diagnosis-and-modern-treatment-methods/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/aortic-valve-disease-stenosis-and-regurgitation-treatment/",
+      "href": "/services/tavi/",
+      "resolved": "https://docdrhabibcil.com/services/tavi/",
+      "expected_file": "services/tavi/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/aortic-valve-disease-stenosis-and-regurgitation-treatment/",
+      "href": "/services/balloon-valvuloplasty/",
+      "resolved": "https://docdrhabibcil.com/services/balloon-valvuloplasty/",
+      "expected_file": "services/balloon-valvuloplasty/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/aortic-valve-disease-stenosis-and-regurgitation-treatment/",
+      "href": "/services/echocardiography/",
+      "resolved": "https://docdrhabibcil.com/services/echocardiography/",
+      "expected_file": "services/echocardiography/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/aortic-valve-disease-stenosis-and-regurgitation-treatment/",
+      "href": "/services/heart-failure/",
+      "resolved": "https://docdrhabibcil.com/services/heart-failure/",
+      "expected_file": "services/heart-failure/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/aortic-valve-disease-stenosis-and-regurgitation-treatment/",
+      "href": "/services/cabg/",
+      "resolved": "https://docdrhabibcil.com/services/cabg/",
+      "expected_file": "services/cabg/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/",
+      "href": "/services/tavi/",
+      "resolved": "https://docdrhabibcil.com/services/tavi/",
+      "expected_file": "services/tavi/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/",
+      "href": "/services/aortic-valve-disease/",
+      "resolved": "https://docdrhabibcil.com/services/aortic-valve-disease/",
+      "expected_file": "services/aortic-valve-disease/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/",
+      "href": "/services/mitral-valve/",
+      "resolved": "https://docdrhabibcil.com/services/mitral-valve/",
+      "expected_file": "services/mitral-valve/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/",
+      "href": "/services/mitraclip/",
+      "resolved": "https://docdrhabibcil.com/services/mitraclip/",
+      "expected_file": "services/mitraclip/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/",
+      "href": "/services/echocardiography/",
+      "resolved": "https://docdrhabibcil.com/services/echocardiography/",
+      "expected_file": "services/echocardiography/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/cardiac-arrhythmias-types-symptoms-and-treatment/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/cholesterol-management-causes-risks-and-treatment-of-high-cholesterol/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/deep-vein-thrombosis-dvt-symptoms-causes-and-treatment-options/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/heart-attack-symptoms-early-detection-saves-lives/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/heart-failure-symptoms-diagnosis-and-treatment-options/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/heart-transplant-lvad-end-stage-heart-failure-treatments/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/heart-valve-diseases-symptoms-diagnosis-and-treatment/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/",
+      "href": "/services/mitraclip/",
+      "resolved": "https://docdrhabibcil.com/services/mitraclip/",
+      "expected_file": "services/mitraclip/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/",
+      "href": "/services/balloon-valvuloplasty/",
+      "resolved": "https://docdrhabibcil.com/services/balloon-valvuloplasty/",
+      "expected_file": "services/balloon-valvuloplasty/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/",
+      "href": "/services/echocardiography/",
+      "resolved": "https://docdrhabibcil.com/services/echocardiography/",
+      "expected_file": "services/echocardiography/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/",
+      "href": "/services/tricuspid-valve/",
+      "resolved": "https://docdrhabibcil.com/services/tricuspid-valve/",
+      "expected_file": "services/tricuspid-valve/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/",
+      "href": "/services/heart-failure/",
+      "resolved": "https://docdrhabibcil.com/services/heart-failure/",
+      "expected_file": "services/heart-failure/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/tricuspid-valve-disease-causes-treatment-and-transcatheter-interventions/",
+      "href": "/blog/mitral-valve/",
+      "resolved": "https://docdrhabibcil.com/blog/mitral-valve/",
+      "expected_file": "blog/mitral-valve/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/tricuspid-valve-disease-causes-treatment-and-transcatheter-interventions/",
+      "href": "/blog/heart-valve-diseases/",
+      "resolved": "https://docdrhabibcil.com/blog/heart-valve-diseases/",
+      "expected_file": "blog/heart-valve-diseases/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/tricuspid-valve-disease-causes-treatment-and-transcatheter-interventions/",
+      "href": "/blog/mitraclip-tricuspid-valve-interventions/",
+      "resolved": "https://docdrhabibcil.com/blog/mitraclip-tricuspid-valve-interventions/",
+      "expected_file": "blog/mitraclip-tricuspid-valve-interventions/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/what-is-atrial-fibrillation-afib-symptoms-causes-and-treatment/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/what-is-cardiomyopathy-types-symptoms-and-treatment-options/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/what-is-diabetic-foot-symptoms-treatment-and-prevention-methods/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/what-is-hypertension-high-blood-pressure/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/what-is-myocarditis-symptoms-causes-and-treatment/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/what-is-pericarditis-causes-symptoms-and-treatment-options/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/blog/what-is-peripheral-artery-disease-symptoms-diagnosis-and-treatment/",
+      "href": "/contact/",
+      "resolved": "https://docdrhabibcil.com/contact/",
+      "expected_file": "contact/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/clinic/",
+      "href": "/en/services/cardiac-angiography/",
+      "resolved": "https://docdrhabibcil.com/en/services/cardiac-angiography/",
+      "expected_file": "en/services/cardiac-angiography/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/clinic/",
+      "href": "/en/services/coronary-angioplasty/",
+      "resolved": "https://docdrhabibcil.com/en/services/coronary-angioplasty/",
+      "expected_file": "en/services/coronary-angioplasty/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/clinic/",
+      "href": "/en/services/lower-extremity-arterial-disease/",
+      "resolved": "https://docdrhabibcil.com/en/services/lower-extremity-arterial-disease/",
+      "expected_file": "en/services/lower-extremity-arterial-disease/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/angiography/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/angiography/false/",
+      "expected_file": "en/services/angiography/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/cardiac-ct/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/cardiac-ct/false/",
+      "expected_file": "en/services/cardiac-ct/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/cto-intervention/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/cto-intervention/false/",
+      "expected_file": "en/services/cto-intervention/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/evar-tevar/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/evar-tevar/false/",
+      "expected_file": "en/services/evar-tevar/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/exercise-stress-test/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/exercise-stress-test/false/",
+      "expected_file": "en/services/exercise-stress-test/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/hyperlipidemia-treatment/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/hyperlipidemia-treatment/false/",
+      "expected_file": "en/services/hyperlipidemia-treatment/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/hypertension/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/hypertension/false/",
+      "expected_file": "en/services/hypertension/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/myocardial-infarction/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/myocardial-infarction/false/",
+      "expected_file": "en/services/myocardial-infarction/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/myocardial-perfusion/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/myocardial-perfusion/false/",
+      "expected_file": "en/services/myocardial-perfusion/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/peripheral-vascular/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/peripheral-vascular/false/",
+      "expected_file": "en/services/peripheral-vascular/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/en/services/stress-echocardiography/",
+      "href": "false/",
+      "resolved": "https://docdrhabibcil.com/en/services/stress-echocardiography/false/",
+      "expected_file": "en/services/stress-echocardiography/false/index.html",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/koroner-anjiyografi/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/koroner-anjiyografi/",
+      "expected_file": "tr/hizmetler/koroner-anjiyografi/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/koroner-anjiyografi/",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/koroner-anjiyoplasti/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/koroner-anjiyoplasti/",
+      "expected_file": "tr/hizmetler/koroner-anjiyoplasti/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/koroner-anjiyoplasti/",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/alkol-septal-ablation/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/alkol-septal-ablation/",
+      "expected_file": "tr/hizmetler/alkol-septal-ablation/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/alkol-septal-ablation/",
+      "target_after_declared_redirect_exists": false
+    },
+    {
+      "source_url": "https://docdrhabibcil.com/klinik/",
+      "href": "/tr/hizmetler/karotis-arter-girisimleri/",
+      "resolved": "https://docdrhabibcil.com/tr/hizmetler/karotis-arter-girisimleri/",
+      "expected_file": "tr/hizmetler/karotis-arter-girisimleri/index.html",
+      "declared_netlify_redirect_target": "https://docdrhabibcil.com/hizmetler/karotis-arter-girisimleri/",
+      "target_after_declared_redirect_exists": false
+    }
+  ],
+  "limitations": "Declared /tr/* redirects evaluated as configuration only; actual HTTP redirect was not measured."
+}

@@ -1,0 +1,12 @@
+{
+  "command": [
+    "python3",
+    "scripts/build-production.py",
+    "--output",
+    "/tmp/dr-cil-implementation-after-20261124-a"
+  ],
+  "exit_code": 2,
+  "stderr": "usage: build-production.py [-h] [--output OUTPUT] [--baseURL BASEURL]\nbuild-production.py: error: --output must be a new or empty directory; existing files will not be removed\n",
+  "existing_manifest_preserved": true,
+  "pass": true
+}

@@ -363,6 +363,6 @@ Regular cardiology follow-up is essential for successful AFib management. Early 
 
 If you have questions about atrial fibrillation or would like to schedule an evaluation, please feel free to contact me.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

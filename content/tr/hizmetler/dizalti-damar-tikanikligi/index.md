@@ -1,8 +1,8 @@
 ---
-title: "Dizaltı Damar Tıkanıklığı Tedavisi - İnfrapopliteal Arter"
-description: "İstanbul'da dizaltı damar tıkanıklığı tedavisi. Tibial arter hastalığı, kritik bacak iskemisi ve diyabetik ayak tedavisi. Doç. Dr. Habib Çil, Avrasya Hospital."
+title: "Diz Altı Damar Açma ve Dizaltı Damar Tıkanıklığı"
+description: "Diz altı damar açma, infrapopliteal damar tıkanıklığı ve değerlendirme süreci hakkında bilgi. Doç. Dr. Habib Çil'in İstanbul'daki hizmet sayfası."
 date: 2024-01-15
-lastmod: 2024-12-13
+lastmod: 2026-11-24
 draft: false
 service_type: "MedicalProcedure"
 medical_specialty: "Cardiology"
@@ -396,6 +396,11 @@ Dizaltı damar tıkanıklığı değerlendirmesi ve tedavisi için randevu almak
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
 
 ## İlgili Periferik Girişimler
+
+Genel bilgi için [periferik arter hastalığı rehberini](/blog/periferik-arter-hastaligi/)
+ve [diyabetik ayak rehberini](/blog/diyabetik-ayak/) inceleyebilirsiniz.
+Diğer işlem başlıkları [girişimsel kardiyoloji hizmetleri](/hizmetler/#girisimsel-kardiyoloji)
+bölümünde yer alır.
 
 Dizaltı damar tıkanıklığı tedavisi ile bağlantılı diğer hizmetler:
 

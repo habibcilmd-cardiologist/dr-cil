@@ -1,0 +1,21 @@
+{
+  "timestamp_utc": "2026-11-24T02:22:12.139860+00:00",
+  "args": [
+    "hugo",
+    "--environment",
+    "production",
+    "--minify",
+    "--noBuildLock",
+    "--destination",
+    "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-implementation-baseline-ev_cpc_t/public",
+    "--cacheDir",
+    "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-implementation-baseline-ev_cpc_t/cache"
+  ],
+  "env": {
+    "HUGO_RESOURCEDIR": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-implementation-baseline-ev_cpc_t/resources",
+    "HUGO_CACHEDIR": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-implementation-baseline-ev_cpc_t/cache"
+  },
+  "exit_code": 0,
+  "root": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-implementation-baseline-ev_cpc_t/public",
+  "html": 976
+}

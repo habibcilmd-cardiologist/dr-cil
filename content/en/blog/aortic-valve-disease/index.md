@@ -166,8 +166,8 @@ If you would like to schedule an appointment for aortic valve disease evaluation
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
 Other structural heart treatments related to aortic valve disease:
 
--   [TAVI](/services/tavi/) - Transcatheter aortic valve implantation
--   [Balloon Valvuloplasty](/services/balloon-valvuloplasty/) - Balloon valve dilation
--   [Echocardiography](/services/echocardiography/) - Valve assessment
--   [Heart Failure](/services/heart-failure/) - Heart failure treatment
--   [CABG](/services/cabg/) - Coronary bypass surgery
+-   [TAVI](/en/services/tavi/) - Transcatheter aortic valve implantation
+-   [Balloon Valvuloplasty](/en/blog/balloon-valvuloplasty-percutaneous-valve-dilation/) - Balloon valve dilation
+-   [Echocardiography](/en/services/echocardiography/) - Valve assessment
+-   [Heart Failure](/en/services/heart-failure/) - Heart failure treatment
+-   [CABG](/en/blog/cabg-complete-guide-to-coronary-artery-bypass-surgery/) - Coronary bypass surgery

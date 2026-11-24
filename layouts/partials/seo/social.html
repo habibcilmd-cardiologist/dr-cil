@@ -1,0 +1,35 @@
+{{- $page := .page -}}
+{{- $image := false -}}
+{{- range slice "*featured*" "*cover*" "*thumbnail*" -}}
+  {{- if not $image -}}{{- $image = $page.Resources.GetMatch . -}}{{- end -}}
+{{- end -}}
+{{- if not $image -}}
+  {{- with $page.Site.Params.defaultSocialImage -}}{{- $image = resources.Get . -}}{{- end -}}
+{{- end -}}
+{{- $description := ($page.Params.Summary | default $page.Params.Description | default $page.Site.Params.description) | plainify -}}
+<meta property="og:title" content="{{ .title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:url" content="{{ .canonical }}">
+<meta property="og:site_name" content="{{ $page.Site.Title }}">
+<meta property="og:locale" content="{{ replace $page.Site.Language.LanguageCode "-" "_" }}">
+<meta name="twitter:title" content="{{ .title }}">
+<meta name="twitter:description" content="{{ $description }}">
+{{- if and $page.IsPage (eq $page.Section "blog") }}
+<meta property="og:type" content="article">
+  {{- if not $page.Date.IsZero }}
+<meta property="article:published_time" content="{{ $page.Date.Format "2006-01-02T15:04:05-07:00" }}">
+  {{- end -}}
+  {{- if not $page.Lastmod.IsZero }}
+<meta property="article:modified_time" content="{{ $page.Lastmod.Format "2006-01-02T15:04:05-07:00" }}">
+  {{- end -}}
+{{- else }}
+<meta property="og:type" content="website">
+{{- end -}}
+{{- with $image }}
+<meta property="og:image" content="{{ .Permalink }}">
+<meta property="og:image:alt" content="{{ $page.Title | plainify }}">
+<meta name="twitter:image" content="{{ .Permalink }}">
+<meta name="twitter:card" content="summary_large_image">
+{{- else }}
+<meta name="twitter:card" content="summary">
+{{- end -}}

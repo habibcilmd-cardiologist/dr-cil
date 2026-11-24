@@ -1,0 +1,6 @@
+{
+  "html_tested": 673,
+  "aliases_skipped": 294,
+  "errors": [],
+  "scope": "Rendered HTML contract only; browser layout/focus/keyboard/contrast/native zoom are separate tests"
+}

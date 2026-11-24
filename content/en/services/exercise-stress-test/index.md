@@ -183,4 +183,4 @@ Other diagnostic tests related to exercise stress test:
 -   [Myocardial Perfusion]({{< relref "myocardial-perfusion" >}}) - Myocardial perfusion scintigraphy
 -   [EKG]({{< relref "ekg" >}}) - Electrocardiography
 -   [Cardiac CT]({{< relref "cardiac-ct" >}}) - Computed tomography
--   [Coronary Artery Disease](false/) - About coronary artery disease
+-   [Coronary Artery Disease](/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/) - About coronary artery disease

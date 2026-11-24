@@ -1,52 +1,24 @@
-{{/*
-=============================================================================
-Dr. Habib ÇİL - FAQPage Schema Partial
-Returns a dictionary for FAQPage schema if FAQ params exist in front matter.
-=============================================================================
-*/}}
+{{/* FAQ is semantic markup, not a promise of Google rich-result eligibility.
+     Only emit Q/A text actually rendered by this page's content. */}}
 {{ $schema := dict }}
-
-{{/*
-Guard: Some legacy blog posts embed their own FAQPage JSON-LD in the content.
-If we also emit FAQPage from front matter, Google Search Console reports
-duplicate FAQPage items. In that case, prefer the inline JSON-LD and skip
-auto-generation here.
-*/}}
-{{ $hasInlineFAQSchema := false }}
-{{ with .RawContent }}
-	{{ if gt (len (findRE "\"@type\"\\s*:\\s*\"FAQPage\"" .)) 0 }}
-		{{ $hasInlineFAQSchema = true }}
-	{{ end }}
-{{ end }}
-{{ if not $hasInlineFAQSchema }}
-	{{ with .Content }}
-		{{ if gt (len (findRE "\"@type\"\\s*:\\s*\"FAQPage\"" .)) 0 }}
-			{{ $hasInlineFAQSchema = true }}
-		{{ end }}
-	{{ end }}
-{{ end }}
-
-{{ if not $hasInlineFAQSchema }}
-	{{ if .Params.faq }}
-	{{ $faqItems := .Params.faq }}
-	{{ if gt (len $faqItems) 0 }}
-	{{ $questions := slice }}
-	{{ range $faqItems }}
-	{{ $questions = $questions | append (dict
-	"@type" "Question"
-	"name" (.question | safeJS)
-	"acceptedAnswer" (dict "@type" "Answer" "text" (.answer | safeJS))
-	) }}
-	{{ end }}
-
-	{{ $schema = dict
-	"@type" "FAQPage"
-	"@id" (printf "%s#faq" .Permalink)
-	"name" (printf "%s - %s" .Title (cond (eq .Site.Language.Lang "tr") "Sık Sorulan Sorular" "Frequently Asked Questions"))
-	"url" .Permalink
-	"mainEntity" $questions
-	}}
-	{{ end }}
-	{{ end }}
+{{ $hasInline := gt (len (findRE `"@type"\s*:\s*"FAQPage"` (.RawContent | default ""))) 0 }}
+{{ if and .IsPage .Params.faq (not $hasInline) }}
+  {{ $content := .Content | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
+  {{ $questions := slice }}
+  {{ range .Params.faq }}
+    {{ $question := .question | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
+    {{ $answer := .answer | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
+    {{ if and $question $answer (strings.Contains $content $question) (strings.Contains $content $answer) }}
+      {{ $questions = $questions | append (dict "@type" "Question" "name" $question
+        "acceptedAnswer" (dict "@type" "Answer" "text" $answer)) }}
+    {{ end }}
+  {{ end }}
+  {{ if gt (len $questions) 0 }}
+    {{ $url := partial "seo/current-page-url.html" . }}
+    {{ $names := dict "tr" "Sık Sorulan Sorular" "en" "Frequently Asked Questions" "ar" "الأسئلة الشائعة" }}
+    {{ $schema = dict "@type" "FAQPage" "@id" (printf "%s#faq" $url)
+      "name" (printf "%s — %s" (.Title | plainify) (index $names site.Language.Lang))
+      "url" $url "mainEntity" $questions }}
+  {{ end }}
 {{ end }}
 {{ return $schema }}

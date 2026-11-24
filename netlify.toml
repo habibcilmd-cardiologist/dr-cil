@@ -23,11 +23,11 @@
   status = 301
 
 [build]
-  command = "rm -rf themes/blowfish/exampleSite && rm -rf public && hugo --gc --minify"
+  command = "hugo --environment production --minify --noBuildLock"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.151.0"
+  HUGO_VERSION = "0.167.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   GO_VERSION = "1.23"

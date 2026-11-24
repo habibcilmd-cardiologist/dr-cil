@@ -20,11 +20,11 @@ Kliniğimizde aşağıdaki alanlarda tıbbi danışmanlık, tanı ve tedavi hizm
 
 Bu gruptaki işlemler, kalp hastalıklarının teşhisi ve takibi amacıyla uygulanan tetkikleri kapsar.
 
-*   [**Ekokardiyografi (EKO)**](/tr/hizmetler/ekokardiyografi/) - Kalbin ultrason ile görüntülenmesi
-*   [**Elektrokardiyografi (EKG)**](/tr/hizmetler/ekg/) - Kalp ritminin elektrotlar aracılığıyla analizi
-*   [**Eforlu EKG (Stres Testi)**](/tr/hizmetler/efor-testi/) - Kalbin egzersiz altındaki performansının izlenmesi
-*   [**Holter Monitörizasyonu**](/tr/hizmetler/holter/) - Kalp ritminin belirli bir süre boyunca kesintisiz kaydı
-*   [**Koroner Anjiyografi**](/tr/hizmetler/koroner-anjiyografi/) - Kalp damarlarının görüntülenmesi
+*   [**Ekokardiyografi (EKO)**](/hizmetler/ekokardiyografi/) - Kalbin ultrason ile görüntülenmesi
+*   [**Elektrokardiyografi (EKG)**](/hizmetler/ekg/) - Kalp ritminin elektrotlar aracılığıyla analizi
+*   [**Eforlu EKG (Stres Testi)**](/hizmetler/efor-testi/) - Kalbin egzersiz altındaki performansının izlenmesi
+*   [**Holter Monitörizasyonu**](/hizmetler/holter/) - Kalp ritminin belirli bir süre boyunca kesintisiz kaydı
+*   [**Koroner Anjiyografi**](/hizmetler/anjiyografi/) - Kalp damarlarının görüntülenmesi
 
 ---
 
@@ -32,9 +32,9 @@ Bu gruptaki işlemler, kalp hastalıklarının teşhisi ve takibi amacıyla uygu
 
 Damar tıkanıklıkları ve darlıklarının kateter yoluyla açılmasını hedefleyen işlemleri içerir.
 
-*   [**Koroner Anjiyoplasti ve Stent**](/tr/hizmetler/koroner-anjiyoplasti/) - Damar açma işlemleri
-*   [**CTO Girişimleri**](/tr/hizmetler/cto-girisimi/) - Tam tıkanmış damar açma işlemleri
-*   [**Sol Ana Koroner Stent**](/tr/hizmetler/sol-ana-koroner-stent/) - Ana damar darlıklarında girişimsel işlem
+*   [**Koroner Anjiyoplasti ve Stent**](/hizmetler/anjiyoplasti/) - Damar açma işlemleri
+*   [**CTO Girişimleri**](/hizmetler/cto-girisimi/) - Tam tıkanmış damar açma işlemleri
+*   [**Sol Ana Koroner Stent**](/hizmetler/sol-ana-koroner-stent/) - Ana damar darlıklarında girişimsel işlem
 *   **Kompleks Bifurkasyon Girişimleri** - Zorlu damar yapılarında girişimsel işlemler
 
 ---
@@ -43,9 +43,9 @@ Damar tıkanıklıkları ve darlıklarının kateter yoluyla açılmasını hede
 
 Kalp kapakları ve doğuştan gelen yapısal bozuklukların kateter yöntemiyle onarımına yönelik işlemlerdir.
 
-*   [**TAVI (Transkateter Aort Kapak İmplantasyonu)**](/tr/hizmetler/tavi/) - Ameliyatsız kapak değişimi yöntemi
+*   [**TAVI (Transkateter Aort Kapak İmplantasyonu)**](/hizmetler/tavi/) - Ameliyatsız kapak değişimi yöntemi
 *   **ASD/PFO Kapatma** - Kalp deliklerinin kapatılması
-*   [**Septal Alkol Ablasyonu**](/tr/hizmetler/alkol-septal-ablation/) - Kalp kası kalınlaşmasında uygulanan bir yöntem
+*   [**Septal Alkol Ablasyonu**](/hizmetler/alkol-septal-ablasyon/) - Kalp kası kalınlaşmasında uygulanan bir yöntem
 
 ---
 
@@ -53,9 +53,9 @@ Kalp kapakları ve doğuştan gelen yapısal bozuklukların kateter yöntemiyle 
 
 Kalp dışındaki büyük damarlarda (şah damarı, bacak nakil damarları vb.) görülen darlıkların tedavisine yönelik uygulamalardır.
 
-*   [**Karotis Arter Girişimleri**](/tr/hizmetler/karotis-arter-girisimleri/) - Şah damarı darlıklarının yönetimi
-*   [**Alt/Üst Ekstremite Girişimleri**](/tr/hizmetler/alt-ekstremite-arter-hastaligi/) - Kol ve bacak damar tıkanıklıklarının yönetimi
-*   [**Renal Arter Girişimleri**](/tr/hizmetler/renal-arter-stenozu/) - Böbrek damar darlıklarına yönelik işlemler
+*   [**Karotis Arter Girişimleri**](/hizmetler/karotis-stenozu/) - Şah damarı darlıklarının yönetimi
+*   [**Alt/Üst Ekstremite Girişimleri**](/hizmetler/alt-ekstremite-arter-hastaligi/) - Kol ve bacak damar tıkanıklıklarının yönetimi
+*   [**Renal Arter Girişimleri**](/hizmetler/renal-arter-stenozu/) - Böbrek damar darlıklarına yönelik işlemler
 
 ---
 
@@ -63,9 +63,9 @@ Kalp dışındaki büyük damarlarda (şah damarı, bacak nakil damarları vb.) 
 
 Kalp ritim bozukluklarının tanı ve tedavisine yönelik cihaz uygulamalarını kapsar.
 
-*   [**Kalp Pili İmplantasyonu**](/tr/hizmetler/kalici-kalp-pili/) - Kalıcı pil takılması işlemleri
-*   [**ICD (Şoklu Kalp Pili)**](/tr/hizmetler/icd/) - Şok özellikli cihaz uygulamaları
-*   [**CRT (Biventriküler Pacemaker)**](/tr/hizmetler/biventrikuler-pacemaker/) - Kalp yetmezliği tedavisinde kullanılan piller
+*   [**Kalp Pili İmplantasyonu**](/hizmetler/kalici-kalp-pili/) - Kalıcı pil takılması işlemleri
+*   [**ICD (Şoklu Kalp Pili)**](/hizmetler/icd/) - Şok özellikli cihaz uygulamaları
+*   [**CRT (Biventriküler Pacemaker)**](/hizmetler/biventrikuler-pacemaker/) - Kalp yetmezliği tedavisinde kullanılan piller
 
 ---
 

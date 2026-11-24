@@ -1,0 +1,14 @@
+{{- $page := . -}}
+{{- with partial "seo/manual-taxonomy-context.html" . -}}
+  {{- $heading := cond (eq $page.Language.Lang "tr") "Bu konudaki içerikler" (cond (eq $page.Language.Lang "ar") "محتوى ذو صلة" "Related reading") -}}
+  {{- $archive := cond (eq $page.Language.Lang "tr") "Konu arşivini görüntüle" (cond (eq $page.Language.Lang "ar") "عرض أرشيف الموضوع" "View topic archive") }}
+<section class="manual-taxonomy-content" data-taxonomy-source="{{ .term.RelPermalink }}">
+  <h2>{{ $heading }}</h2>
+  <p><a href="{{ .term.RelPermalink }}">{{ $archive }}: {{ .term.Title }}</a></p>
+  <ul>
+    {{- range .pages.ByTitle }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{- end }}
+  </ul>
+</section>
+{{- end -}}

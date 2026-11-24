@@ -1,0 +1,13 @@
+{{- /* Match Blowfish list.html's collection and ordering before head metadata.
+  Never call Page.Paginator here: its default collection would win Hugo's
+  pagination cache before the list template can choose its actual collection. */ -}}
+{{- $pager := false -}}
+{{- if and (in (slice "section" "term") .Kind) (gt (len .Pages) 0) (ne .Layout "simple") -}}
+  {{- $orderByWeight := .Params.orderByWeight | default (.Site.Params.list.orderByWeight | default false) -}}
+  {{- if $orderByWeight -}}
+    {{- $pager = .Paginate .Pages.ByWeight -}}
+  {{- else -}}
+    {{- $pager = .Paginate (.Pages.GroupByDate "2006") -}}
+  {{- end -}}
+{{- end -}}
+{{- return $pager -}}

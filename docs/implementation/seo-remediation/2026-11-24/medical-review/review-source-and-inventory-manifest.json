@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-24",
+  "review_status": "DRAFT_HEKIM_ONAYI_BEKLIYOR",
+  "source_files": [
+    {
+      "file": "content/tr/blog/diyabetik-ayak/index.md",
+      "sha256": "c3c55d0c32aa30fabc313ee114032b6f215e7f09cee1f0ad2f6e56d99746fae9",
+      "percent_lines": 23
+    },
+    {
+      "file": "content/tr/blog/periferik-arter-hastaligi/index.md",
+      "sha256": "05ebea3593a81136ccdbec693ac77b917a7b1b245bc582971b3384de97245d8c",
+      "percent_lines": 4
+    },
+    {
+      "file": "content/tr/hizmetler/dizalti-damar-tikanikligi/index.md",
+      "sha256": "4b799666db78e85fc55a78cef0774a83667e0609e994862693ced689a528b88e",
+      "percent_lines": 19
+    },
+    {
+      "file": "content/tr/hizmetler/periferik-damar/index.md",
+      "sha256": "aa959558fb2a8b8732e9829b85df190e20079f132ea5796b95d7bf27682c3db2",
+      "percent_lines": 1
+    }
+  ],
+  "clinical_percent_rows": 47,
+  "primary_sources": [
+    {
+      "id": "C1",
+      "url": "https://iwgdfguidelines.org/pad-guideline-2023/",
+      "opened": true,
+      "full_primary_pdf": "https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-05-PAD-Guideline.pdf",
+      "pdf_opened": true,
+      "reviewed_sections": "Recommendation12rationale/outcomes and Glycaemicgoals section; not all guideline recommendations verified",
+      "web_refs": [
+        "turn579669405view2",
+        "turn607837522view2",
+        "turn425591989view0",
+        "turn425591989view1"
+      ],
+      "note": "2023 document is not a new2026guideline; no local outcome or all site rates verified"
+    },
+    {
+      "id": "C2",
+      "url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/peripheral-arterial-and-aortic-diseases/",
+      "opened": true,
+      "doi": "10.1093/eurheartj/ehae179",
+      "article_url": "https://academic.oup.com/eurheartj/article/45/36/3538/7738955",
+      "full_article_opened": false,
+      "error": "500 redirect minimal article not accessible",
+      "web_refs": [
+        "turn579669405view0",
+        "turn607837522view1"
+      ],
+      "note": "Only official portal scope; not full recommendation/tables review"
+    },
+    {
+      "id": "C3",
+      "url": "https://professional.heart.org/en/science-news/2024-guideline-for-the-management-of-lower-extremity-peripheral-artery-disease/top-things-to-know",
+      "opened": true,
+      "doi": "10.1161/CIR.0000000000001251",
+      "article_url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001251",
+      "full_article_opened": false,
+      "error": "403 Forbidden",
+      "web_refs": [
+        "turn607837522view0",
+        "turn579669405view1"
+      ],
+      "note": "Official ten-message summary; no individual numerical outcome validated"
+    }
+  ],
+  "source_content_edited": false,
+  "messages_forms_or_accounts_changed": false
+}

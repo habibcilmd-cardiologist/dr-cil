@@ -171,8 +171,8 @@ Balon valvüloplasti için randevu almak isterseniz:
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
 Balon valvüloplasti ile bağlantılı diğer yapısal kalp tedavileri:
 
--   [TAVI](/tr/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
--   [Aort Kapak Hastalığı](/tr/hizmetler/aort-kapak-hastaligi/) - Aort kapak hastalıkları hakkında
--   [Mitral Kapak](/tr/hizmetler/mitral-kapak/) - Mitral kapak hastalıkları
--   [MitraClip](/tr/hizmetler/mitraclip/) - Mitral kapak tamiri
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
+-   [TAVI](/hizmetler/tavi/) - Transkateter aort kapak implantasyonu
+-   [Aort Kapak Hastalığı](/blog/aort-kapak-hastaligi/) - Aort kapak hastalıkları hakkında
+-   [Mitral Kapak](/blog/mitral-kapak/) - Mitral kapak hastalıkları
+-   [MitraClip](/hizmetler/mitraclip/) - Mitral kapak tamiri
+-   [Ekokardiyografi](/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi

@@ -1,0 +1,99 @@
+{
+  "scope": "targeted output regressions; not full vocabulary, official validator, HTTP or clinical truth",
+  "input": "/var/folders/t5/l46_wxcd1sjfl_jrlc8lqhj00000gq/T/dr-cil-schema-smoke-p2g0fq94/public",
+  "counts": {
+    "html": 982,
+    "pages_with_jsonld": 685,
+    "scripts": 685,
+    "faq_pages": 267,
+    "breadcrumbs": 679,
+    "aliases": 297
+  },
+  "types_including_nested": {
+    "WebSite": 685,
+    "Person": 685,
+    "WebPage": 227,
+    "BreadcrumbList": 679,
+    "ListItem": 2146,
+    "ProfilePage": 3,
+    "BlogPosting": 117,
+    "MedicalWebPage": 279,
+    "FAQPage": 267,
+    "Question": 1550,
+    "Answer": 1550,
+    "CollectionPage": 333,
+    "ContactPage": 3,
+    "ItemList": 3,
+    "TherapeuticProcedure": 60,
+    "Service": 51,
+    "MedicalTest": 36,
+    "DiagnosticProcedure": 15
+  },
+  "examples": {
+    "WebSite": {
+      "file": "404.html",
+      "url": "https://docdrhabibcil.com/404.html"
+    },
+    "Person": {
+      "file": "404.html",
+      "url": "https://docdrhabibcil.com/404.html"
+    },
+    "WebPage": {
+      "file": "404.html",
+      "url": "https://docdrhabibcil.com/404.html"
+    },
+    "BreadcrumbList": {
+      "file": "ar/about/index.html",
+      "url": "https://docdrhabibcil.com/ar/about/"
+    },
+    "ProfilePage": {
+      "file": "ar/about/index.html",
+      "url": "https://docdrhabibcil.com/ar/about/"
+    },
+    "BlogPosting": {
+      "file": "ar/blog/abdominal-aortic-aneurysm/index.html",
+      "url": "https://docdrhabibcil.com/ar/blog/abdominal-aortic-aneurysm/"
+    },
+    "MedicalWebPage": {
+      "file": "ar/blog/abdominal-aortic-aneurysm/index.html",
+      "url": "https://docdrhabibcil.com/ar/blog/abdominal-aortic-aneurysm/"
+    },
+    "FAQPage": {
+      "file": "ar/blog/abdominal-aortic-aneurysm/index.html",
+      "url": "https://docdrhabibcil.com/ar/blog/abdominal-aortic-aneurysm/"
+    },
+    "CollectionPage": {
+      "file": "ar/blog/index.html",
+      "url": "https://docdrhabibcil.com/ar/blog/"
+    },
+    "ContactPage": {
+      "file": "ar/contact/index.html",
+      "url": "https://docdrhabibcil.com/ar/contact/"
+    },
+    "ItemList": {
+      "file": "ar/index.html",
+      "url": "https://docdrhabibcil.com/ar/"
+    },
+    "TherapeuticProcedure": {
+      "file": "ar/services/ablation/index.html",
+      "url": "https://docdrhabibcil.com/ar/services/ablation/"
+    },
+    "Service": {
+      "file": "ar/services/above-knee-arterial-disease/index.html",
+      "url": "https://docdrhabibcil.com/ar/services/above-knee-arterial-disease/"
+    },
+    "MedicalTest": {
+      "file": "ar/services/ambulatory-blood-pressure-monitoring/index.html",
+      "url": "https://docdrhabibcil.com/ar/services/ambulatory-blood-pressure-monitoring/"
+    },
+    "DiagnosticProcedure": {
+      "file": "ar/services/angiography/index.html",
+      "url": "https://docdrhabibcil.com/ar/services/angiography/"
+    }
+  },
+  "error_count": 0,
+  "errors_by_code": {},
+  "errors": [],
+  "official_schema_validator": "NOT_RUN",
+  "google_rich_results_test": "NOT_RUN"
+}

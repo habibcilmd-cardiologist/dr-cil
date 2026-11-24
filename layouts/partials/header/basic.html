@@ -3,16 +3,16 @@
 {{ if .Site.Params.Logo }}
 {{ $logo := resources.Get .Site.Params.Logo }}
 {{ if $logo }}
-<div>
+<div class="drcil-header-logo">
   <a href="{{ "" | relLangURL }}" class="flex">
     <span class="sr-only">{{ .Site.Title | markdownify }}</span>
     {{ if eq $logo.MediaType.SubType "svg" }}
-    <span class="logo object-scale-down object-left nozoom" role="img" aria-label="İstanbul Kardiyolog - Doç.Dr.Habib ÇİL">
+    <span class="logo object-scale-down object-left nozoom" aria-hidden="true">
       {{ $logo.Content | safeHTML }}
     </span>
     {{ else }}
     <img src="{{ $logo.RelPermalink }}" width="{{ div $logo.Width 2 }}" height="{{ div $logo.Height 2 }}"
-      class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="İstanbul Kardiyolog - Doç.Dr.Habib ÇİL">
+      class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="">
     {{ end }}
   </a>
 </div>
@@ -22,29 +22,29 @@
 
 {{/* Desktop navigation */}}
 {{ define "HeaderDesktopNavigation" }}
-<nav class="hidden md:flex items-center gap-x-5 md:ml-12 h-12">
+<nav class="drcil-desktop-nav" aria-label="{{ i18n "ui_navigation" }}">
   {{ if .Site.Menus.main }}
   {{ range .Site.Menus.main }}
   {{ partial "header/header-option.html" . }}
   {{ end }}
   {{ end }}
 
-  {{ partial "translations.html" . }}
+  {{ partial "header/language-switcher.html" . }}
   {{ if .Site.Params.enableA11y | default false }}
   {{ template "HeaderA11y" (dict "prefix" "desktop-" "Site" .Site) }}
   {{ end }}
 
   {{ if .Site.Params.enableSearch | default false }}
-  <button id="search-button" aria-label="Search" class="text-base hover:text-primary-600 dark:hover:text-primary-400"
-    title="{{ i18n " search.open_button_title" }}">
+  <button id="search-button" type="button" aria-label="{{ i18n "ui_search_open" }}" class="drcil-icon-button drcil-js-control text-base hover:text-primary-600 dark:hover:text-primary-400"
+    title="{{ i18n "ui_search_open" }}">
     {{ partial "icon.html" "search" }}
   </button>
   {{ end }}
 
   {{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
   <div class="{{ if .Site.Params.footer.showScrollToTop | default true -}}{{- end }} flex items-center">
-    <button id="appearance-switcher" aria-label="Dark mode switcher" type="button"
-      class="text-base hover:text-primary-600 dark:hover:text-primary-400">
+    <button id="appearance-switcher" aria-label="{{ i18n "ui_appearance" }}" type="button"
+      class="drcil-icon-button drcil-js-control text-base hover:text-primary-600 dark:hover:text-primary-400">
       <div class="flex items-center justify-center dark:hidden">
         {{ partial "icon.html" "moon" }}
       </div>
@@ -59,24 +59,23 @@
 
 {{/* Mobile navigation toolbar */}}
 {{ define "HeaderMobileToolbar" }}
-<div class="flex md:hidden items-center gap-x-5 md:ml-12 h-12">
-  <span></span>
+<div class="drcil-mobile-toolbar">
 
-  {{ partial "translations.html" . }}
+  {{ partial "header/language-switcher.html" . }}
   {{ if .Site.Params.enableA11y | default false }}
   {{ template "HeaderA11y" (dict "prefix" "mobile-" "Site" .Site) }}
   {{ end }}
 
   {{ if .Site.Params.enableSearch | default false }}
-  <button id="search-button-mobile" aria-label="Search"
-    class="text-base hover:text-primary-600 dark:hover:text-primary-400" title="{{ i18n " search.open_button_title" }}">
+  <button id="search-button-mobile" type="button" aria-label="{{ i18n "ui_search_open" }}"
+    class="drcil-icon-button drcil-js-control text-base hover:text-primary-600 dark:hover:text-primary-400" title="{{ i18n "ui_search_open" }}">
     {{ partial "icon.html" "search" }}
   </button>
   {{ end }}
 
   {{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
-  <button id="appearance-switcher-mobile" aria-label="Dark mode switcher" type="button"
-    class="text-base hover:text-primary-600 dark:hover:text-primary-400 me-1">
+  <button id="appearance-switcher-mobile" aria-label="{{ i18n "ui_appearance" }}" type="button"
+    class="drcil-icon-button drcil-js-control text-base hover:text-primary-600 dark:hover:text-primary-400">
     <div class="flex items-center justify-center dark:hidden">
       {{ partial "icon.html" "moon" }}
     </div>
@@ -88,49 +87,46 @@
 </div>
 {{ end }}
 
-{{/* Mobile hamburger navigation - WITH SITE TITLE */}}
+{{/* The links remain available if the deferred scripts cannot load. */}}
 {{ define "HeaderMobileNavigation" }}
-<div class="-my-2 md:hidden">
-  <div id="menu-button" class="block">
-    {{ if .Site.Menus.main }}
-    <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
-      {{ partial "icon.html" "bars" }}
-    </div>
-    <div id="menu-wrapper"
-      class="fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]">
-      <ul
-        class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none text-end max-w-7xl">
-        <li id="menu-close-button">
-          <span
-            class="cursor-pointer inline-block align-text-bottom hover:text-primary-600 dark:hover:text-primary-400">
-            {{ partial "icon.html" "xmark" }}
-          </span>
-        </li>
-
-        {{/* SITE TITLE - Added for mobile menu */}}
-        <li class="mb-4 pb-3 border-b border-neutral-200 dark:border-neutral-700 w-full">
-          <a href="{{ "" | relLangURL }}" class="block text-right">
-            <span class="text-lg font-bold text-primary-600 dark:text-primary-400">
-              {{ .Site.Title | markdownify }}
-            </span>
-          </a>
-        </li>
-
-        {{ range .Site.Menus.main }}
-        {{ partial "header/header-mobile-option.html" . }}
-        {{ end }}
-
+<div class="drcil-mobile-navigation">
+  <button id="menu-button" type="button" class="drcil-icon-button"
+    aria-label="{{ i18n "ui_menu_open" }}" aria-expanded="false"
+    aria-controls="menu-wrapper" aria-haspopup="dialog">
+    {{ partial "icon.html" "bars" }}
+  </button>
+  <div id="menu-wrapper" class="drcil-menu-wrapper" role="dialog"
+    aria-modal="true" aria-labelledby="mobile-menu-title" tabindex="-1" hidden>
+    <nav class="drcil-menu-panel" aria-label="{{ i18n "ui_navigation" }}">
+      <div class="drcil-menu-heading">
+        <h2 id="mobile-menu-title">{{ i18n "ui_navigation" }}</h2>
+        <button id="menu-close-button" type="button" class="drcil-icon-button"
+          aria-label="{{ i18n "ui_menu_close" }}">{{ partial "icon.html" "xmark" }}</button>
+      </div>
+      <a href="{{ "" | relLangURL }}" class="drcil-mobile-brand">{{ .Site.Title | markdownify }}</a>
+      <ul class="drcil-menu-links">
+        {{ range .Site.Menus.main }}{{ partial "header/header-mobile-option.html" . }}{{ end }}
       </ul>
-    </div>
-    {{ end }}
+    </nav>
   </div>
 </div>
+<details class="drcil-fallback-navigation">
+  <summary class="drcil-icon-button" aria-label="{{ i18n "ui_menu_open" }}">
+    {{ partial "icon.html" "bars" }}
+  </summary>
+  <nav class="drcil-fallback-links" aria-label="{{ i18n "ui_navigation" }}">
+    {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}">{{ .Name | markdownify }}</a>
+      {{ range .Children }}<a href="{{ .URL }}">{{ .Name | markdownify }}</a>{{ end }}
+    {{ end }}
+  </nav>
+</details>
 {{ end }}
 
 {{ define "HeaderA11y" }}
 {{- $prefix := .prefix | default "" -}}
 <div class="flex items-center">
-  <button id="{{ $prefix }}a11y-toggle" aria-label="Open accessibility panel" aria-expanded="false" type="button"
+  <button id="{{ $prefix }}a11y-toggle" aria-label="{{ i18n "ui_a11y_open" }}" aria-expanded="false" type="button"
     class="text-base hover:text-primary-600 dark:hover:text-primary-400" role="button" aria-pressed="false">
     {{ partial "icon.html" "a11y" }}
   </button>
@@ -146,7 +142,7 @@
       </h3>
       <button id="{{ $prefix }}a11y-close"
         class="text-neutral-500 hover:text-neutral-700 dark:text-neutral-400 dark:hover:text-neutral-200"
-        aria-label="Close a11y panel">
+        aria-label="{{ i18n "ui_close" }}">
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
         </svg>
@@ -206,17 +202,20 @@
 {{ end }}
 
 {{/* ========== Render HTML ========== */}}
-<div
-  class="main-menu flex items-center justify-between py-6 md:justify-start gap-x-3 pt-[2px] pr-2 md:pr-4 pb-[3px] pl-0">
+<div class="main-menu drcil-header-row">
   {{ template "HeaderLogo" . }}
-  <div class="flex flex-1 items-center justify-between">
-    <nav class="flex space-x-3">
-      {{ if not .Site.Params.disableTextInHeader | default true }}
-      <a href="{{ "" | relLangURL }}" class="text-base font-medium">
-        {{ .Site.Title | markdownify }}
-      </a>
-      {{ end }}
-    </nav>
+  <div class="drcil-header-main">
+    {{ $showTitle := true }}
+    {{ if isset .Site.Params.header "showtitle" }}
+      {{ $showTitle = .Site.Params.header.showTitle }}
+    {{ else if isset .Site.Params.header "disabletextinheader" }}
+      {{ $showTitle = not .Site.Params.header.disableTextInHeader }}
+    {{ else if isset .Site.Params "disabletextinheader" }}
+      {{ $showTitle = not .Site.Params.disableTextInHeader }}
+    {{ end }}
+    {{ if $showTitle }}
+      <a href="{{ "" | relLangURL }}" class="drcil-header-brand">{{ .Site.Title | markdownify }}</a>
+    {{ end }}
     {{ template "HeaderDesktopNavigation" . }}
     {{ template "HeaderMobileToolbar" . }}
   </div>
@@ -247,12 +246,11 @@
 
 {{ if .Site.Params.highlightCurrentMenuArea }}
 <script>
-  (function () {
-    var $mainmenu = $(".main-menu");
-    var path = window.location.pathname;
-    $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
-      $(e).children("p").addClass("active");
-    });
-  })();
+  document.querySelectorAll('.main-menu a[href]').forEach(function (link) {
+    if (new URL(link.href, location.href).pathname === location.pathname) {
+      link.setAttribute('aria-current', 'page');
+      link.querySelector('p')?.classList.add('active');
+    }
+  });
 </script>
 {{ end }}

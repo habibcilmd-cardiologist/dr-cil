@@ -393,6 +393,6 @@ If there is a family history of cardiomyopathy or sudden death, cardiological ev
 
 If you have questions about cardiomyopathy or would like to schedule an evaluation, please feel free to contact me.
 
-{{< button href="/contact/" >}}
+{{< button href="/en/contact/" >}}
 Book Appointment →
 {{< /button >}}

@@ -1,0 +1,46 @@
+{
+  "scope": "Opaque CSS color pairs with white foreground; computed runtime/whole-page contrast not tested",
+  "formula": "WCAG relative luminance and contrast ratio",
+  "pairs": [
+    {
+      "component": "hero_whatsapp",
+      "before_background": "#25D366",
+      "before_white_ratio": 1.983,
+      "after_background": "#117A3A",
+      "after_white_ratio": 5.428,
+      "target": "normal text 4.5"
+    },
+    {
+      "component": "hero_whatsapp_hover",
+      "before_background": "#20BA5A",
+      "before_white_ratio": 2.551,
+      "after_background": "#0E652F",
+      "after_white_ratio": 7.189,
+      "target": "normal text 4.5"
+    },
+    {
+      "component": "hero_appointment",
+      "before_background": "#FF3B30",
+      "before_white_ratio": 3.547,
+      "after_background": "#C62828",
+      "after_white_ratio": 5.622,
+      "target": "normal text 4.5"
+    },
+    {
+      "component": "hero_appointment_hover",
+      "before_background": "#E6342A",
+      "before_white_ratio": 4.295,
+      "after_background": "#A91F1F",
+      "after_white_ratio": 7.234,
+      "target": "normal text 4.5"
+    },
+    {
+      "component": "floating_whatsapp_icon",
+      "before_background": "#25D366",
+      "before_white_ratio": 1.983,
+      "after_background": "#128C7E",
+      "after_white_ratio": 4.135,
+      "target": "non-text icon 3.0"
+    }
+  ]
+}

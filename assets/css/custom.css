@@ -7,66 +7,61 @@
    Header & Navigation Fixes
    ----------------------------------------------------------------------------- */
 
-/* Logo size - heart symbol only */
-.main-menu .logo,
-.main-menu .logo svg {
-	height: 48px !important;
-	width: 48px !important;
-	max-height: 48px !important;
-	max-width: 48px !important;
+/* Header layout is independent of the theme's 853px md utilities. */
+.drcil-header-container {
+  max-width: 80rem;
+  padding-inline: clamp(1rem, 3vw, 2rem);
 }
-
-/* Site title text styling - visible on desktop */
-.main-menu .flex-1 > nav.flex.space-x-3 a {
-	font-size: 1rem !important;
-	font-weight: 600 !important;
-	white-space: nowrap !important;
+.drcil-header-row { display: flex; align-items: center; gap: .75rem; min-height: 80px; }
+.drcil-header-logo { flex: 0 0 auto; }
+.main-menu .logo, .main-menu .logo svg { width: 48px; height: 48px; max-width: 48px; max-height: 48px; }
+.drcil-header-main { display: flex; align-items: center; justify-content: flex-end; flex: 1 1 auto; min-width: 0; gap: 1rem; }
+.drcil-header-brand { min-width: 0; font-weight: 600; }
+.drcil-desktop-nav { display: none; align-items: center; gap: 1rem; flex: 0 0 auto; }
+.drcil-desktop-nav > a { flex-shrink: 0; min-height: 44px; }
+.drcil-desktop-nav a, .drcil-desktop-nav a p { white-space: nowrap; word-break: normal; overflow-wrap: normal; }
+.drcil-desktop-nav a p { font-size: .875rem; padding: .25rem 0; }
+.drcil-mobile-toolbar { display: flex; align-items: center; gap: .25rem; }
+.drcil-icon-button { display: inline-flex; align-items: center; justify-content: center; gap: .25rem; min-width: 44px; min-height: 44px; flex-shrink: 0; cursor: pointer; border-radius: .375rem; }
+.drcil-js-control, .drcil-mobile-navigation { display: none; }
+.drcil-interactive .drcil-js-control { display: inline-flex; }
+.drcil-interactive .drcil-mobile-navigation { display: block; }
+.drcil-interactive .drcil-fallback-navigation { display: none; }
+.drcil-language-switcher, .drcil-fallback-navigation { position: relative; flex-shrink: 0; }
+.drcil-language-switcher summary, .drcil-fallback-navigation summary { list-style: none; }
+.drcil-language-switcher summary::-webkit-details-marker, .drcil-fallback-navigation summary::-webkit-details-marker { display: none; }
+.drcil-language-switcher > ul, .drcil-fallback-links {
+  position: absolute; inset-inline-end: 0; inset-block-start: 100%; z-index: 600;
+  min-width: 11rem; padding: .5rem; margin: 0; list-style: none;
+  background: rgb(var(--color-neutral)); border: 1px solid rgb(var(--color-neutral-200));
+  border-radius: .75rem; box-shadow: 0 8px 24px rgb(0 0 0 / .15);
 }
-
-/* Mobile: Show site title with smaller font */
-@media (max-width: 1024px) {
-	.main-menu .flex-1 > nav.flex.space-x-3 {
-		display: flex !important;
-	}
-
-	.main-menu .flex-1 > nav.flex.space-x-3 a {
-		font-size: 0.75rem !important;
-		font-weight: 500 !important;
-		line-height: 1.2 !important;
-		max-width: 180px !important;
-		white-space: normal !important;
-		overflow: hidden !important;
-		text-overflow: ellipsis !important;
-		display: -webkit-box !important;
-		-webkit-line-clamp: 2 !important;
-		-webkit-box-orient: vertical !important;
-	}
+.drcil-language-switcher a, .drcil-fallback-links a { display: flex; align-items: center; min-height: 44px; padding-inline: .75rem; }
+.drcil-fallback-links { width: min(20rem, calc(100vw - 2rem)); max-height: calc(100dvh - 100px); overflow-y: auto; }
+.dark .drcil-language-switcher > ul, .dark .drcil-fallback-links { background: rgb(var(--color-neutral-800)); border-color: rgb(var(--color-neutral-600)); }
+.drcil-menu-wrapper {
+  position: fixed; inset: 0; z-index: 500; height: 100dvh; overflow-y: auto;
+  background: rgb(0 0 0 / .45); padding: 1rem; overscroll-behavior: contain;
 }
-
-/* Even smaller on very small screens */
-@media (max-width: 400px) {
-	.main-menu .flex-1 > nav.flex.space-x-3 a {
-		font-size: 0.65rem !important;
-		max-width: 140px !important;
-	}
+.drcil-menu-wrapper[hidden] { display: none; }
+.drcil-menu-panel { width: min(28rem, 100%); min-height: 100%; margin-inline-start: auto; padding: 1rem; background: rgb(var(--color-neutral)); border-radius: .75rem; }
+.dark .drcil-menu-panel { background: rgb(var(--color-neutral-800)); }
+.drcil-menu-heading { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+.drcil-menu-heading h2 { font-size: 1.25rem; font-weight: 600; }
+.drcil-mobile-brand { display: block; padding-block: 1rem; font-weight: 600; }
+.drcil-menu-links { list-style: none; padding: 0; margin: 0; }
+.drcil-menu-links a { display: flex; align-items: center; min-height: 48px; padding-block: .5rem; }
+.drcil-menu-links a p { padding: 0; }
+.main-menu :focus-visible, #search-modal :focus-visible {
+  outline: 2px solid rgb(var(--color-primary-600)) !important; outline-offset: 3px;
 }
-
-/* Compact menu items */
-header nav a p {
-	font-size: 0.875rem !important;
-	padding: 0.25rem 0.5rem !important;
+@media (min-width: 1024px) {
+  .drcil-desktop-nav { display: flex; }
+  .drcil-mobile-toolbar, .drcil-mobile-navigation, .drcil-interactive .drcil-mobile-navigation, .drcil-fallback-navigation { display: none; }
 }
-
-/* Mobile adjustments */
-@media (max-width: 768px) {
-	/* Smaller logo on mobile */
-	.main-menu .logo,
-	.main-menu .logo svg {
-		height: 40px !important;
-		width: 40px !important;
-		max-height: 40px !important;
-		max-width: 40px !important;
-	}
+@media (max-width: 430px) {
+  .drcil-header-row { gap: .25rem; }
+  .main-menu .logo, .main-menu .logo svg { width: 40px; height: 40px; }
 }
 
 /* -----------------------------------------------------------------------------
@@ -79,10 +74,6 @@ html {
 		"Helvetica Neue", Arial, "Noto Sans", sans-serif;
 }
 
-/* Prevent horizontal scroll on mobile */
-body {
-	overflow-x: hidden;
-}
 
 /* Headings - Slightly bolder for medical authority */
 h1,
@@ -2316,31 +2307,31 @@ a.service-card:hover {
 
 /* WhatsApp Button - Green */
 .home-hero-btn--whatsapp {
-	background-color: #25D366 !important;
+	background-color: #117A3A !important;
 	color: #fff !important;
-	border: 1px solid #25D366 !important;
+	border: 1px solid #117A3A !important;
 	box-shadow: 0 10px 26px rgba(37, 211, 102, 0.3);
 }
 
 .home-hero-btn--whatsapp:hover {
-	background-color: #20BA5A !important;
-	border-color: #20BA5A !important;
+	background-color: #0E652F !important;
+	border-color: #0E652F !important;
 	transform: translateY(-2px);
 	box-shadow: 0 14px 34px rgba(37, 211, 102, 0.4);
 }
 
 /* Appointment Button - Red */
 .home-hero-btn--appointment {
-	background-color: #FF3B30 !important;
+	background-color: #C62828 !important;
 	color: #fff !important;
-	border: 1px solid #FF3B30 !important;
+	border: 1px solid #C62828 !important;
 	box-shadow: 0 10px 26px rgba(255, 59, 48, 0.3);
 	cursor: pointer;
 }
 
 .home-hero-btn--appointment:hover {
-	background-color: #E6342A !important;
-	border-color: #E6342A !important;
+	background-color: #A91F1F !important;
+	border-color: #A91F1F !important;
 	transform: translateY(-2px);
 	box-shadow: 0 14px 34px rgba(255, 59, 48, 0.4);
 }
@@ -4494,3 +4485,22 @@ html.dark .ic-center-label {
 	right: -5px;
 }
 
+
+/* Match the spacer to the actual header without clipping content at zoom. */
+#header-spacer { min-height: var(--drcil-header-height, 80px); }
+:where(h1, h2, h3, h4, h5, h6, section)[id] { scroll-margin-block-start: calc(var(--drcil-header-height, 80px) + 1rem); }
+.home-hero-media { min-width: 0; }
+.home-hero-image-backdrop { max-inline-size: 100%; }
+.home-hero-float-value { overflow-wrap: anywhere; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .home-hero *, .ic-diagram-section *, .all-services-section *,
+  .animate-hero-float, .animate-hero-drift, .hero-ecg-line {
+    animation: none !important; transition: none !important;
+  }
+  .hero-ecg-line { stroke-dashoffset: 0; }
+}
+
+#search-wrapper[hidden] { display: none; }
+
+.drcil-fixed-header:has(.drcil-menu-wrapper:not([hidden])) { z-index: 10000; }

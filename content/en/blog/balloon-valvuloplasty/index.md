@@ -171,8 +171,8 @@ If you would like to schedule an appointment for balloon valvuloplasty:
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
 Other structural heart treatments related to balloon valvuloplasty:
 
--   [TAVI](/services/tavi/) - Transcatheter aortic valve implantation
--   [Aortic Valve Disease](/services/aortic-valve-disease/) - About aortic valve diseases
--   [Mitral Valve](/services/mitral-valve/) - Mitral valve diseases
--   [MitraClip](/services/mitraclip/) - Mitral valve repair
--   [Echocardiography](/services/echocardiography/) - Valve assessment
+-   [TAVI](/en/services/tavi/) - Transcatheter aortic valve implantation
+-   [Aortic Valve Disease](/en/blog/aortic-valve-disease-stenosis-and-regurgitation-treatment/) - About aortic valve diseases
+-   [Mitral Valve](/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/) - Mitral valve diseases
+-   [MitraClip](/en/services/mitraclip/) - Mitral valve repair
+-   [Echocardiography](/en/services/echocardiography/) - Valve assessment

@@ -1,0 +1,14 @@
+{{ if .IsTranslated }}
+<details class="drcil-language-switcher">
+  <summary class="drcil-icon-button" aria-label="{{ i18n "ui_language" }}">
+    {{ partial "icon.html" "language" }}
+    <span>{{ .Site.Language.Params.displayName }}</span>
+  </summary>
+  <ul>
+    {{ range .AllTranslations }}
+    <li><a href="{{ .RelPermalink }}" lang="{{ .Language.Lang }}" hreflang="{{ .Language.Lang }}"
+      {{ if eq .Language.Lang $.Site.Language.Lang }}aria-current="page"{{ end }}>{{ .Language.LanguageName }}</a></li>
+    {{ end }}
+  </ul>
+</details>
+{{ end }}

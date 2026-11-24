@@ -1,0 +1,16 @@
+{{/* Shared by visible breadcrumbs and JSON-LD; positions derive from items. */}}
+{{ $items := slice }}
+{{ if and (not .IsHome) (ne .Kind "404") }}
+  {{ $homeNames := dict "tr" "Ana Sayfa" "en" "Home" "ar" "الرئيسية" }}
+  {{ $items = $items | append (dict "@type" "ListItem" "position" 1
+    "name" (index $homeNames site.Language.Lang) "item" site.Home.Permalink) }}
+  {{ range .Ancestors.Reverse }}
+    {{ if not .IsHome }}
+      {{ $items = $items | append (dict "@type" "ListItem" "position" (add (len $items) 1)
+        "name" (.Title | plainify) "item" .Permalink) }}
+    {{ end }}
+  {{ end }}
+  {{ $items = $items | append (dict "@type" "ListItem" "position" (add (len $items) 1)
+    "name" (.Title | plainify) "item" (partial "seo/current-page-url.html" .)) }}
+{{ end }}
+{{ return $items }}

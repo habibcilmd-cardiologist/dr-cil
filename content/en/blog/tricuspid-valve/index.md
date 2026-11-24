@@ -192,6 +192,6 @@ If you would like to schedule an appointment for tricuspid valve disease evaluat
 _This content has been prepared by Assoc. Prof. Dr. Habib Çil for general informational purposes. Please consult a cardiology specialist for definitive diagnosis and treatment._
 Other topics related to tricuspid valve disease:
 
--   [Mitral Valve Disease](/blog/mitral-valve/) - Mitral valve diseases
--   [Heart Valve Diseases](/blog/heart-valve-diseases/) - General information
--   [MitraClip and Tricuspid Valve Interventions](/blog/mitraclip-tricuspid-valve-interventions/) - Modern treatment methods
+-   [Mitral Valve Disease](/en/blog/mitral-valve-disease-stenosis-and-regurgitation-treatment/) - Mitral valve diseases
+-   [Heart Valve Diseases](/en/blog/heart-valve-diseases-symptoms-diagnosis-and-treatment/) - General information
+-   [MitraClip and Tricuspid Valve Interventions](/en/blog/mitraclip-and-tricuspid-valve-interventions-minimally-invasive-valve-treatment/) - Modern treatment methods

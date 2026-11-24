@@ -36,7 +36,7 @@ keywords:
     <h4>Clinical Cardiology</h4>
     <p>Prevention of Coronary Heart Disease, Hypertension, Hyperlipidemia, Treatment of Heart Failure, Medical Treatment of Atrial Fibrillation</p>
   </a>
-  <a href="/en/services/#pacemaker-and-electrophysiology" class="service-card">
+  <a href="/en/services/#pacemaker-electrophysiology" class="service-card">
     <div class="service-icon">⚡</div>
     <h4>Pacemaker & Electrophysiology</h4>
     <p>Pacemaker, ICD, ablation therapies</p>

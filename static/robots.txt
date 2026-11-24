@@ -2,9 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /search/
 Disallow: /admin/
-
-
-Crawl-delay: 2
-
-# Sitemap Indexes
+# Explicit language sitemap policy: no sitemap lives below the legacy /tr/ redirect.
 Sitemap: https://docdrhabibcil.com/sitemap.xml
+Sitemap: https://docdrhabibcil.com/en/sitemap.xml
+Sitemap: https://docdrhabibcil.com/ar/sitemap.xml

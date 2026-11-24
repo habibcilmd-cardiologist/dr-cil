@@ -51,38 +51,6 @@ Pazar: Kapalı
 
 ## İletişim Formu
 
-Aşağıdaki formu doldurarak bize ulaşabilirsiniz. En kısa sürede size dönüş yapacağız.
 
-<form name="contact-tr" method="POST" action="/tr/iletisim/tesekkurler/" data-netlify="true" netlify-honeypot="bot-field" class="space-y-4">
-  <input type="hidden" name="form-name" value="contact-tr" />
-  <input type="hidden" name="subject" value="Yeni İletişim Formu Mesajı - TR" />
-  <p class="hidden">
-    <label>Don't fill this out if you're human: <input name="bot-field" /></label>
-  </p>
-  <div>
-    <label for="name" class="block text-sm font-medium mb-1">Adınız Soyadınız *</label>
-    <input type="text" name="name" id="name" required
-           class="w-full px-4 py-2 border border-neutral-300 dark:border-neutral-600 rounded-lg bg-white dark:bg-neutral-800 focus:ring-2 focus:ring-primary-500 focus:border-transparent" />
-  </div>
-  <div>
-    <label for="phone" class="block text-sm font-medium mb-1">Telefon *</label>
-    <input type="tel" name="phone" id="phone" required
-           class="w-full px-4 py-2 border border-neutral-300 dark:border-neutral-600 rounded-lg bg-white dark:bg-neutral-800 focus:ring-2 focus:ring-primary-500 focus:border-transparent" />
-  </div>
-  <div>
-    <label for="email" class="block text-sm font-medium mb-1">E-posta</label>
-    <input type="email" name="email" id="email"
-           class="w-full px-4 py-2 border border-neutral-300 dark:border-neutral-600 rounded-lg bg-white dark:bg-neutral-800 focus:ring-2 focus:ring-primary-500 focus:border-transparent" />
-  </div>
-  <div>
-    <label for="message" class="block text-sm font-medium mb-1">Mesajınız *</label>
-    <textarea name="message" id="message" rows="4" required
-              class="w-full px-4 py-2 border border-neutral-300 dark:border-neutral-600 rounded-lg bg-white dark:bg-neutral-800 focus:ring-2 focus:ring-primary-500 focus:border-transparent"></textarea>
-  </div>
-  <div>
-    <button type="submit"
-            class="w-full px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-medium rounded-lg transition-colors">
-      Gönder
-    </button>
-  </div>
-</form>
+
+{{< contact-form success="/iletisim/tesekkurler/" >}}

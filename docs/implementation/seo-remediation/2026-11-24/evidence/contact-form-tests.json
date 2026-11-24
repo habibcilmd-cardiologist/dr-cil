@@ -1,0 +1,63 @@
+{
+  "scope": "Real Hugo rendering of shortcode; no HTTP or form delivery test",
+  "cases": [
+    {
+      "case": "disabled",
+      "languages": 3,
+      "exit_code": 0,
+      "errors": [],
+      "pass": true
+    },
+    {
+      "case": "missing-endpoint",
+      "languages": 3,
+      "exit_code": 0,
+      "errors": [],
+      "pass": true
+    },
+    {
+      "case": "relative-endpoint",
+      "languages": 3,
+      "exit_code": 0,
+      "errors": [],
+      "pass": true
+    },
+    {
+      "case": "https-endpoint",
+      "languages": 3,
+      "exit_code": 0,
+      "errors": [],
+      "pass": true
+    },
+    {
+      "case": "unsafe-scheme",
+      "languages": 3,
+      "exit_code": 0,
+      "errors": [],
+      "pass": true
+    },
+    {
+      "case": "protocol-relative",
+      "languages": 3,
+      "exit_code": 0,
+      "errors": [],
+      "pass": true
+    },
+    {
+      "case": "netlify",
+      "languages": 3,
+      "exit_code": 0,
+      "errors": [],
+      "pass": true
+    },
+    {
+      "case": "unknown-provider",
+      "languages": 3,
+      "exit_code": 0,
+      "errors": [],
+      "pass": true
+    }
+  ],
+  "passed": 8,
+  "failed": 0
+}

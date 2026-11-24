@@ -403,6 +403,6 @@ Consult a cardiologist if you experience:
 
 If you have risk factors for coronary artery disease or have chest pain symptoms, you can schedule an appointment for comprehensive cardiac evaluation.
 
-{{< button href="/contact/" target="_self" >}}
+{{< button href="/en/contact/" target="_self" >}}
 Schedule Appointment
 {{< /button >}}

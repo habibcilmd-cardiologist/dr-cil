@@ -189,4 +189,4 @@ Other coronary treatments related to angiography:
 -   [Coronary Angioplasty](/en/services/angioplasty/) - Balloon and stent vessel opening
 -   [Radial Angiography]({{< relref "radial-angiography" >}}) - Wrist access angiography
 -   [Cardiac Catheterization](/en/blog/cardiac-catheterization-complete-heart-catheter-procedure-guide/) - Cardiac catheterization
--   [Coronary Artery Disease](false/) - About coronary artery disease
+-   [Coronary Artery Disease](/en/blog/coronary-artery-disease-causes-symptoms-and-treatment-methods/) - About coronary artery disease

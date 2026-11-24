@@ -1,0 +1,5 @@
+{{- $url := .Permalink -}}
+{{- with partial "seo/list-paginator.html" . -}}
+  {{- $url = .URL | absURL -}}
+{{- end -}}
+{{- return $url -}}

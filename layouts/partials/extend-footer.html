@@ -1,15 +1,8 @@
-{{/* Medical Disclaimer - Required by Turkish Medical Association */}}
+{{ $contactPath := "contact/" }}{{ if eq .Site.Language.Lang "tr" }}{{ $contactPath = "iletisim/" }}{{ end }}
+{{/* General information, translated consistently across the site. */}}
 <div class="medical-disclaimer mt-8 pt-4 border-t border-neutral-200 dark:border-neutral-700">
   <p class="text-xs text-neutral-500 dark:text-neutral-400 text-center leading-relaxed">
-    {{ if eq .Site.Language.Lang "tr" }}
-      ⚕️ <strong>Yasal Uyarı:</strong> Bu web sitesindeki bilgiler genel bilgilendirme amaçlıdır ve tıbbi tavsiye niteliği taşımamaktadır. 
-      Sitedeki bilgiler tanı koymak veya tedavi uygulamak amacıyla kullanılamaz. 
-      Sağlık sorunlarınız için mutlaka bir sağlık kuruluşuna başvurunuz.
-    {{ else }}
-      ⚕️ <strong>Medical Disclaimer:</strong> The information on this website is for general informational purposes only and does not constitute medical advice. 
-      The content cannot be used for diagnosis or treatment. 
-      Please consult a healthcare facility for your health concerns.
-    {{ end }}
+    <strong>{{ i18n "ui_disclaimer_title" }}:</strong> {{ i18n "ui_disclaimer" }}
   </p>
 </div>
 
@@ -18,18 +11,18 @@
    target="_blank"
    rel="noopener noreferrer"
    class="whatsapp-float"
-   aria-label="{{ if eq .Site.Language.Lang "tr" }}WhatsApp ile İletişim{{ else }}Contact via WhatsApp{{ end }}">
+   aria-label="{{ i18n "ui_whatsapp" }}">
   <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="currentColor">
     <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
   </svg>
 </a>
 
 {{/* Floating Appointment Button */}}
-<button
+<a href="{{ $contactPath | relLangURL }}"
    id="appointment-button"
    class="appointment-float"
    aria-label="{{ if eq .Site.Language.Lang "tr" }}Randevu Al{{ else if eq .Site.Language.Lang "ar" }}حجز موعد{{ else }}Book Appointment{{ end }}"
-   aria-haspopup="dialog">
+   >
   <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
     <line x1="16" y1="2" x2="16" y2="6"></line>
@@ -41,7 +34,7 @@
     <path d="M8 18h.01"></path>
     <path d="M12 18h.01"></path>
   </svg>
-</button>
+</a>
 
 {{/* Appointment Modal */}}
 <div id="appointment-modal" 
@@ -52,7 +45,7 @@
      hidden>
   <div class="appointment-modal-overlay" aria-hidden="true"></div>
   <div class="appointment-modal-content">
-    <button class="appointment-modal-close" 
+    <button type="button" class="appointment-modal-close"
             id="close-appointment-modal"
             aria-label="{{ if eq .Site.Language.Lang "tr" }}Kapat{{ else if eq .Site.Language.Lang "ar" }}إغلاق{{ else }}Close{{ end }}">
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -186,7 +179,7 @@
   right: 20px;
   width: 60px;
   height: 60px;
-  background-color: #25D366;
+  background-color: #128C7E;
   color: white;
   border-radius: 50%;
   display: flex;
@@ -241,6 +234,7 @@
 
 /* Appointment Modal */
 .appointment-modal {
+  overflow-y: auto;
   position: fixed;
   inset: 0;
   z-index: 9999;
@@ -267,6 +261,8 @@
 .appointment-modal-content {
   position: relative;
   max-width: 420px;
+  max-height: calc(100dvh - 2rem);
+  overflow-y: auto;
   width: 100%;
   background: rgba(255, 255, 255, 0.95);
   backdrop-filter: blur(20px);
@@ -289,8 +285,8 @@
   background: rgba(0, 0, 0, 0.05);
   border: none;
   border-radius: 50%;
-  width: 36px;
-  height: 36px;
+  width: 44px;
+  height: 44px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -553,82 +549,54 @@
 <script>
 (function() {
   'use strict';
-  
-  // Lazy load modal functionality
   function initAppointmentModal() {
     const modal = document.getElementById('appointment-modal');
     const openButton = document.getElementById('appointment-button');
     const closeButton = document.getElementById('close-appointment-modal');
     const overlay = modal?.querySelector('.appointment-modal-overlay');
-    
-    if (!modal || !openButton) return;
-    
-    let focusedElementBeforeModal;
-    
-    function openModal() {
-      focusedElementBeforeModal = document.activeElement;
-      modal.removeAttribute('hidden');
-      document.body.style.overflow = 'hidden';
-      
-      // Focus close button for accessibility
-      setTimeout(() => closeButton?.focus(), 100);
-      
-      // Track event (if analytics available)
-      if (typeof gtag !== 'undefined') {
-        gtag('event', 'open_appointment_modal', {
-          event_category: 'engagement',
-          event_label: 'appointment_button'
-        });
-      }
-    }
-    
+    if (!modal || !openButton || !closeButton || !window.drcilDialog) return;
+    let releaseDialog = null;
+    const triggers = [openButton, ...document.querySelectorAll('[data-appointment-trigger]')];
     function closeModal() {
-      modal.setAttribute('hidden', '');
-      document.body.style.overflow = '';
-      
-      // Return focus to button
-      if (focusedElementBeforeModal) {
-        focusedElementBeforeModal.focus();
+      modal.hidden = true;
+      triggers.forEach(trigger => trigger.setAttribute('aria-expanded', 'false'));
+      if (releaseDialog) releaseDialog();
+      releaseDialog = null;
+    }
+    function openModal(event) {
+      event.preventDefault();
+      modal.hidden = false;
+      const opener = event.currentTarget;
+      releaseDialog = window.drcilDialog.activate(modal, {
+        opener, initialFocus: closeButton, onClose: closeModal
+      });
+      opener.setAttribute('aria-expanded', 'true');
+      if (typeof gtag !== 'undefined') {
+        gtag('event', 'open_appointment_modal', { event_category: 'engagement', event_label: 'appointment_button' });
       }
     }
-    
-    // Open modal
-    openButton.addEventListener('click', openModal);
-    
-    // Close modal - button
-    closeButton?.addEventListener('click', closeModal);
-    
-    // Close modal - overlay click
-    overlay?.addEventListener('click', closeModal);
-    
-    // Close modal - ESC key
-    document.addEventListener('keydown', function(e) {
-      if (e.key === 'Escape' && !modal.hasAttribute('hidden')) {
-        closeModal();
-      }
+    triggers.forEach(trigger => {
+      trigger.setAttribute('role', 'button');
+      trigger.setAttribute('aria-haspopup', 'dialog');
+      trigger.setAttribute('aria-controls', 'appointment-modal');
+      trigger.setAttribute('aria-expanded', 'false');
+      trigger.addEventListener('click', openModal);
+      trigger.addEventListener('keydown', function(event) {
+        if (event.key === ' ') { event.preventDefault(); trigger.click(); }
+      });
     });
-    
-    // Track appointment option clicks
-    const options = modal.querySelectorAll('.appointment-option');
-    options.forEach(option => {
+    closeButton.addEventListener('click', closeModal);
+    overlay?.addEventListener('click', closeModal);
+    modal.querySelectorAll('.appointment-option').forEach(option => {
       option.addEventListener('click', function() {
         const title = this.querySelector('.appointment-option-title')?.textContent || 'unknown';
         if (typeof gtag !== 'undefined') {
-          gtag('event', 'click_appointment_option', {
-            event_category: 'conversion',
-            event_label: title
-          });
+          gtag('event', 'click_appointment_option', { event_category: 'engagement', event_label: title });
         }
       });
     });
   }
-  
-  // Initialize when DOM is ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initAppointmentModal);
-  } else {
-    initAppointmentModal();
-  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initAppointmentModal);
+  else initAppointmentModal();
 })();
 </script>
-

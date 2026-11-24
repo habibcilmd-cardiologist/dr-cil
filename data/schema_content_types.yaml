@@ -1,0 +1,41 @@
+# Source-supported labels only, not clinical review or treatment endorsement.
+# Keys are the existing shared translationKey, never a guessed permalink.
+# Unlisted broad care topics use Service. No anatomy, status or enum defaults.
+entities:
+  ambulatory-blood-pressure-monitoring: MedicalTest
+  cardiac-ct: MedicalTest
+  echocardiography: MedicalTest
+  ekg: MedicalTest
+  exercise-stress-test: MedicalTest
+  holter: MedicalTest
+  ivus: MedicalTest
+  myocardial-perfusion: MedicalTest
+  stress-echocardiography: MedicalTest
+  tilt-table-test: MedicalTest
+  transesophageal-echocardiography: MedicalTest
+  transthoracic-echocardiography: MedicalTest
+  angiography: DiagnosticProcedure
+  electrophysiology-study: DiagnosticProcedure
+  ffr: DiagnosticProcedure
+  peripheral-angiography: DiagnosticProcedure
+  radial-angiography: DiagnosticProcedure
+  ablation: TherapeuticProcedure
+  alcohol-septal-ablation: TherapeuticProcedure
+  atherectomy: TherapeuticProcedure
+  bifurcation-intervention: TherapeuticProcedure
+  biventricular-pacemaker: TherapeuticProcedure
+  cardioversion: TherapeuticProcedure
+  coronary-angioplasty: TherapeuticProcedure
+  coronary-fistula-treatment: TherapeuticProcedure
+  crt-pacemaker: TherapeuticProcedure
+  cto-intervention: TherapeuticProcedure
+  dialysis-fistula-treatment: TherapeuticProcedure
+  evar-tevar: TherapeuticProcedure
+  heart-hole-closure: TherapeuticProcedure
+  icd: TherapeuticProcedure
+  left-main-coronary-stent: TherapeuticProcedure
+  mitraclip: TherapeuticProcedure
+  mitral-balloon-valvuloplasty: TherapeuticProcedure
+  permanent-pacemaker: TherapeuticProcedure
+  temporary-pacemaker: TherapeuticProcedure
+  varicocele-pelvic-congestion: TherapeuticProcedure

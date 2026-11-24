@@ -1,6 +1,7 @@
 ---
-title: "Hizmetler"
-description: "Doç. Dr. Habib ÇİL tarafından sunulan kardiyoloji hizmetleri - Girişimsel kardiyoloji, TAVI, koroner anjiyoplasti, kalp pili, ekokardiyografi ve daha fazlası."
+lastmod: 2026-11-24
+title: "Girişimsel Kardiyoloji ve Kardiyoloji Hizmetleri"
+description: "Girişimsel tedaviler, klinik kardiyoloji, kalp pili ve tanısal işlemler. Doç. Dr. Habib ÇİL'in İstanbul'daki kardiyoloji hizmetlerini konularına göre inceleyin."
 date: 2024-01-01
 layout: "simple"
 showTableOfContents: true
@@ -8,6 +9,19 @@ showBreadcrumbs: true
 translationKey: "services"
 url: "/hizmetler/"
 ---
+
+Aradığınız hizmeti aşağıdaki konu başlıklarından seçebilirsiniz.
+[Girişimsel kardiyoloji](#girisimsel-kardiyoloji) bölümü koroner, periferik
+ve yapısal kalp girişimlerini; [klinik kardiyoloji](#klinik-kardiyoloji)
+bölümü hastalık takibini; [tanısal işlemler](#tanisal-islemler) bölümü
+inceleme yöntemlerini bir araya getirir.
+
+“Girişimsel damar açma” hakkında bilgi arıyorsanız,
+[koroner anjiyoplasti](/hizmetler/anjiyoplasti/),
+[periferik damar girişimleri](/hizmetler/periferik-damar/) ve
+[diz altı damar açma](/hizmetler/dizalti-damar-tikanikligi/) sayfalarını
+konularına göre inceleyebilirsiniz. Diyabetik ayakla ilgili genel bilgi için
+[diyabetik ayak rehberini](/blog/diyabetik-ayak/) kullanabilirsiniz.
 
 ## 🏥 Uygulanan Tedaviler ve Yöntemler
 ### 🔧 Girişimsel Kardiyoloji {#girisimsel-kardiyoloji}

@@ -177,8 +177,8 @@ Mitral kapak hastalığı değerlendirmesi için randevu almak isterseniz:
 _Bu içerik Doç. Dr. Habib Çil tarafından hazırlanmış olup, genel bilgilendirme amaçlıdır. Kesin tanı ve tedavi için mutlaka bir kardiyoloji uzmanına başvurunuz._
 Mitral kapak hastalığı ile bağlantılı diğer yapısal kalp tedavileri:
 
--   [MitraClip](/tr/hizmetler/mitraclip/) - Kateter ile mitral kapak tamiri
--   [Balon Valvüloplasti](/tr/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
--   [Ekokardiyografi](/tr/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
--   [Triküspit Kapak](/tr/hizmetler/trikuspid-kapak/) - Triküspit kapak hastalıkları
--   [Kalp Yetmezliği](/tr/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi
+-   [MitraClip](/hizmetler/mitraclip/) - Kateter ile mitral kapak tamiri
+-   [Balon Valvüloplasti](/hizmetler/balon-valvuloplasti/) - Kapak balonla genişletme
+-   [Ekokardiyografi](/hizmetler/ekokardiyografi/) - Kapak değerlendirmesi
+-   [Triküspit Kapak](/hizmetler/trikuspid-kapak/) - Triküspit kapak hastalıkları
+-   [Kalp Yetmezliği](/hizmetler/kalp-yetmezligi/) - Kalp yetmezliği tedavisi

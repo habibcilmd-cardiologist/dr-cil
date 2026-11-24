@@ -1,261 +1,161 @@
-var fuse;
-var showButton = document.getElementById("search-button");
-var showButtonMobile = document.getElementById("search-button-mobile");
-var hideButton = document.getElementById("close-search-button");
-var wrapper = document.getElementById("search-wrapper");
-var modal = document.getElementById("search-modal");
-var input = document.getElementById("search-query");
-var output = document.getElementById("search-results");
-var first = output.firstChild;
-var last = output.lastChild;
-var searchVisible = false;
-var indexed = false;
-var indexing = false;
-var indexError = false;
-var hasResults = false;
+// Search is progressively enhanced; input and index content are rendered as text.
+(function () {
+  "use strict";
+  var wrapper = document.getElementById("search-wrapper");
+  var modal = document.getElementById("search-modal");
+  var input = document.getElementById("search-query");
+  var output = document.getElementById("search-results");
+  var status = document.getElementById("search-status");
+  var hideButton = document.getElementById("close-search-button");
+  if (!wrapper || !modal || !input || !output || !status || !hideButton) return;
 
-// Listen for events
-showButton ? showButton.addEventListener("click", displaySearch) : null;
-showButtonMobile
-	? showButtonMobile.addEventListener("click", displaySearch)
-	: null;
-hideButton.addEventListener("click", hideSearch);
-wrapper.addEventListener("click", hideSearch);
-modal.addEventListener("click", function (event) {
-	event.stopPropagation();
-	event.stopImmediatePropagation();
-	return false;
-});
-document.addEventListener("keydown", function (event) {
-	// Forward slash to open search wrapper
-	if (event.key == "/") {
-		const active = document.activeElement;
-		const tag = active.tagName;
-		const isInputField =
-			tag === "INPUT" || tag === "TEXTAREA" || active.isContentEditable;
+  var fuse;
+  var indexed = false;
+  var indexing = false;
+  var indexError = false;
+  var visible = false;
+  var releaseDialog = null;
 
-		if (!searchVisible && !isInputField) {
-			event.preventDefault();
-			displaySearch();
-		}
-	}
+  function message(key) { return wrapper.getAttribute("data-" + key) || ""; }
+  function showMessage(text) {
+    output.replaceChildren();
+    status.textContent = text;
+  }
+  function links() { return Array.from(output.querySelectorAll("a[href]")); }
 
-	// Esc to close search wrapper
-	if (event.key == "Escape") {
-		hideSearch();
-	}
+  function displaySearch(event) {
+    if (!window.drcilDialog || visible) return;
+    wrapper.hidden = false;
+    visible = true;
+    releaseDialog = window.drcilDialog.activate(modal, {
+      opener: event && event.currentTarget ? event.currentTarget : document.activeElement,
+      initialFocus: input,
+      onClose: hideSearch
+    });
+    if (!indexed && !indexing) buildIndex();
+    else if (indexing) showMessage(message("loading"));
+  }
+  function hideSearch() {
+    if (!visible) return;
+    visible = false;
+    wrapper.hidden = true;
+    input.value = "";
+    output.replaceChildren();
+    status.textContent = "";
+    if (releaseDialog) releaseDialog();
+    releaseDialog = null;
+  }
 
-	// Down arrow to move down results list
-	if (event.key == "ArrowDown") {
-		if (searchVisible && hasResults) {
-			event.preventDefault();
-			if (document.activeElement == input) {
-				first.focus();
-			} else if (document.activeElement == last) {
-				last.focus();
-			} else {
-				document.activeElement.parentElement.nextSibling.firstElementChild.focus();
-			}
-		}
-	}
+  ["search-button", "search-button-mobile"].forEach(function (id) {
+    document.getElementById(id)?.addEventListener("click", displaySearch);
+  });
+  hideButton.addEventListener("click", hideSearch);
+  wrapper.addEventListener("click", function (event) { if (event.target === wrapper) hideSearch(); });
+  input.form?.addEventListener("submit", function (event) { event.preventDefault(); });
+  input.addEventListener("input", function () { executeQuery(input.value); });
 
-	// Up arrow to move up results list
-	if (event.key == "ArrowUp") {
-		if (searchVisible && hasResults) {
-			event.preventDefault();
-			if (document.activeElement == input) {
-				input.focus();
-			} else if (document.activeElement == first) {
-				input.focus();
-			} else {
-				document.activeElement.parentElement.previousSibling.firstElementChild.focus();
-			}
-		}
-	}
+  document.addEventListener("keydown", function (event) {
+    var active = document.activeElement;
+    if (event.key === "/" && !visible && !window.drcilDialog?.isOpen() &&
+        !active.matches("input, textarea, select") && !active.isContentEditable) {
+      event.preventDefault();
+      displaySearch();
+    }
+    if (!visible) return;
+    if (event.key === "Escape") { event.preventDefault(); hideSearch(); return; }
+    var results = links();
+    var index = results.indexOf(active);
+    if (event.key === "ArrowDown" && results.length && (active === input || index >= 0)) {
+      event.preventDefault();
+      results[Math.min(index + 1, results.length - 1)].focus();
+    } else if (event.key === "ArrowUp" && (active === input || index >= 0)) {
+      event.preventDefault();
+      (index <= 0 ? input : results[index - 1]).focus();
+    } else if (event.key === "Enter" && active === input) {
+      event.preventDefault();
+      if (results.length) results[0].focus();
+    }
+  });
 
-	// Enter to get to results
-	if (event.key == "Enter") {
-		if (searchVisible && hasResults) {
-			event.preventDefault();
-			if (document.activeElement == input) {
-				first.focus();
-			} else {
-				document.activeElement.click();
-			}
-		}
-	}
-});
+  function buildIndex() {
+    indexing = true;
+    indexError = false;
+    output.setAttribute("aria-busy", "true");
+    showMessage(message("loading"));
+    var request = new XMLHttpRequest();
+    function fail() {
+      indexing = false;
+      indexError = true;
+      indexed = false;
+      fuse = undefined;
+      output.setAttribute("aria-busy", "false");
+      if (visible) showMessage(message("error"));
+    }
+    request.onload = function () {
+      if (request.status !== 200) { fail(); return; }
+      try {
+        var data = JSON.parse(request.responseText);
+        if (!Array.isArray(data) || typeof Fuse !== "function") throw new Error("Invalid search index");
+        fuse = new Fuse(data, {
+          shouldSort: true, ignoreLocation: true, threshold: 0.0, includeMatches: true,
+          keys: [{ name: "title", weight: 0.8 }, { name: "section", weight: 0.2 },
+            { name: "summary", weight: 0.6 }, { name: "content", weight: 0.4 }]
+        });
+        indexing = false;
+        indexed = true;
+        output.setAttribute("aria-busy", "false");
+        if (visible) executeQuery(input.value);
+      } catch (error) { fail(); }
+    };
+    request.onerror = fail;
+    request.ontimeout = fail;
+    request.onabort = fail;
+    request.open("GET", wrapper.getAttribute("data-url").replace(/\/?$/, "/") + "index.json");
+    request.timeout = 15000;
+    request.send();
+  }
 
-// Update search on each keypress
-input.onkeyup = function (event) {
-	executeQuery(this.value);
-};
-
-function displaySearch() {
-	if (!indexed && !indexing) {
-		buildIndex();
-	}
-	if (!searchVisible) {
-		document.body.style.overflow = "hidden";
-		wrapper.style.visibility = "visible";
-		input.focus();
-		searchVisible = true;
-	}
-}
-
-function hideSearch() {
-	if (searchVisible) {
-		document.body.style.overflow = "visible";
-		wrapper.style.visibility = "hidden";
-		input.value = "";
-		output.innerHTML = "";
-		hasResults = false;
-		document.activeElement.blur();
-		searchVisible = false;
-	}
-}
-
-function showSearchMessage(message) {
-	var item = document.createElement("li");
-	item.className = "px-3 py-2 text-neutral-500 dark:text-neutral-400";
-	item.textContent = message;
-	output.innerHTML = "";
-	output.appendChild(item);
-	hasResults = false;
-}
-
-function fetchJSON(path, callback, onError) {
-	var httpRequest = new XMLHttpRequest();
-	httpRequest.onload = function () {
-		if (httpRequest.status !== 200) {
-			onError();
-			return;
-		}
-		try {
-			callback(JSON.parse(httpRequest.responseText));
-		} catch (error) {
-			onError();
-		}
-	};
-	httpRequest.onerror = onError;
-	httpRequest.ontimeout = onError;
-	httpRequest.onabort = onError;
-	httpRequest.open("GET", path);
-	httpRequest.timeout = 15000;
-	httpRequest.send();
-}
-
-function buildIndex() {
-	indexing = true;
-	indexError = false;
-	var baseURL = wrapper.getAttribute("data-url");
-	baseURL = baseURL.replace(/\/?$/, "/");
-
-	showSearchMessage("Loading search index...");
-
-	function failIndex() {
-		indexing = false;
-		indexError = true;
-		indexed = false;
-		fuse = undefined;
-		showSearchMessage("Search could not be loaded. Close and reopen search to try again.");
-	}
-
-	fetchJSON(baseURL + "index.json", function (data) {
-		if (!Array.isArray(data)) {
-			failIndex();
-			return;
-		}
-		var options = {
-			shouldSort: true,
-			ignoreLocation: true,
-			threshold: 0.0,
-			includeMatches: true,
-			keys: [
-				{ name: "title", weight: 0.8 },
-				{ name: "section", weight: 0.2 },
-				{ name: "summary", weight: 0.6 },
-				{ name: "content", weight: 0.4 },
-			],
-		};
-		fuse = new Fuse(data, options);
-		indexed = true;
-		indexing = false;
-
-		// Clear loading message and execute any pending query
-		output.innerHTML = "";
-		if (input.value.trim()) {
-			executeQuery(input.value);
-		}
-	}, failIndex);
-}
-
-function executeQuery(term) {
-	// Check if fuse is initialized
-	if (!fuse) {
-		showSearchMessage(indexError
-			? "Search could not be loaded. Close and reopen search to try again."
-			: "Search is loading, please wait...");
-		return;
-	}
-
-	// Don't search for empty strings
-	if (!term || term.trim() === "") {
-		output.innerHTML = "";
-		hasResults = false;
-		return;
-	}
-
-	let results = fuse.search(term);
-	let resultsHTML = "";
-
-	if (results.length > 0) {
-		results.forEach(function (value, key) {
-			var html = value.item.summary;
-			var div = document.createElement("div");
-			div.innerHTML = html;
-			value.item.summary = div.textContent || div.innerText || "";
-			var title = value.item.externalUrl
-				? value.item.title +
-				  '<span class="text-xs ml-2 align-center cursor-default text-neutral-400 dark:text-neutral-500">' +
-				  value.item.externalUrl +
-				  "</span>"
-				: value.item.title;
-			var linkconfig = value.item.externalUrl
-				? 'target="_blank" rel="noopener" href="' +
-				  value.item.externalUrl +
-				  '"'
-				: 'href="' + value.item.permalink + '"';
-			resultsHTML =
-				resultsHTML +
-				`<li class="mb-2">
-          <a class="flex items-center px-3 py-2 rounded-md appearance-none bg-neutral-100 dark:bg-neutral-700 focus:bg-primary-100 hover:bg-primary-100 dark:hover:bg-primary-900 dark:focus:bg-primary-900 focus:outline-dotted focus:outline-transparent focus:outline-2"
-          ${linkconfig} tabindex="0">
-            <div class="grow">
-              <div class="-mb-1 text-lg font-bold">
-                ${title}
-              </div>
-              <div class="text-sm text-neutral-500 dark:text-neutral-400">${
-					value.item.section
-				}<span class="px-2 text-primary-500">&middot;</span>${
-					value.item.date ? value.item.date : ""
-				}</span></div>
-              <div class="text-sm italic">${value.item.summary}</div>
-            </div>
-            <div class="ml-2 ltr:block rtl:hidden text-neutral-500">&rarr;</div>
-            <div class="mr-2 ltr:hidden rtl:block text-neutral-500">&larr;</div>
-          </a>
-        </li>`;
-		});
-		hasResults = true;
-	} else {
-		showSearchMessage('No results found for "' + term + '"');
-		return;
-	}
-
-	output.innerHTML = resultsHTML;
-	if (results.length > 0) {
-		first = output.firstChild.firstElementChild;
-		last = output.lastChild.firstElementChild;
-	}
-}
+  function plain(value) {
+    var decoder = document.createElement("textarea");
+    decoder.innerHTML = String(value || "").replace(/<[^>]*>/g, "");
+    return decoder.value;
+  }
+  function textElement(tag, className, text) {
+    var node = document.createElement(tag);
+    node.className = className;
+    node.textContent = text;
+    return node;
+  }
+  function executeQuery(term) {
+    if (!fuse) { showMessage(message(indexError ? "error" : "loading")); return; }
+    if (!term.trim()) { showMessage(""); return; }
+    var results = fuse.search(term);
+    if (!results.length) { showMessage(message("empty").replace("{query}", term)); return; }
+    var fragment = document.createDocumentFragment();
+    results.forEach(function (result) {
+      var item = result.item;
+      var target;
+      try { target = new URL(item.externalUrl || item.permalink, location.href); }
+      catch (error) { return; }
+      if (!/^https?:$/.test(target.protocol)) return;
+      var row = document.createElement("li");
+      row.className = "mb-2";
+      var link = document.createElement("a");
+      link.className = "block px-3 py-2 rounded-md bg-neutral-100 dark:bg-neutral-700 hover:bg-primary-100 dark:hover:bg-primary-900";
+      link.href = target.href;
+      if (item.externalUrl) { link.target = "_blank"; link.rel = "noopener noreferrer"; }
+      link.appendChild(textElement("div", "text-lg font-bold", plain(item.title)));
+      var metadata = [plain(item.section), item.date || ""].filter(Boolean).join(" · ");
+      var language = item.language || (/^\/en\//.test(target.pathname) ? "en" : /^\/ar\//.test(target.pathname) ? "ar" : "tr");
+      link.lang = language;
+      link.dir = language === "ar" ? "rtl" : "ltr";
+      if (language !== document.documentElement.lang.split("-")[0]) metadata += " · " + (item.languageName || language.toUpperCase());
+      link.appendChild(textElement("div", "text-sm text-neutral-500 dark:text-neutral-400", metadata));
+      link.appendChild(textElement("div", "text-sm", plain(item.summary)));
+      row.appendChild(link);
+      fragment.appendChild(row);
+    });
+    output.replaceChildren(fragment);
+    status.textContent = message("count").replace("{count}", String(output.children.length));
+  }
+})();
